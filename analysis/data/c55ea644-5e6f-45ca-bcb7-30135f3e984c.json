@@ -1,6 +1,6 @@
 {
   "agent_id": "c55ea644-5e6f-45ca-bcb7-30135f3e984c",
-  "generated_at": "2025-11-23T11:55:43.348802",
+  "generated_at": "2025-11-23T12:04:26.496231",
   "basic_info": {
     "title": "AI Photo Restorer",
     "author": "laughing_code",
@@ -14,20 +14,20 @@
     "days_since_published": 55
   },
   "performance_metrics": {
-    "views": 5049,
-    "runs": 238,
+    "views": 5052,
+    "runs": 239,
     "saves": 0,
     "days_tracked": 55,
     "price": 50.0,
-    "engagement_rate": 4.71,
-    "avg_runs_per_day": 4.33,
-    "avg_views_per_day": 91.8
+    "engagement_rate": 4.73,
+    "avg_runs_per_day": 4.35,
+    "avg_views_per_day": 91.85
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 7,
+    "data_points": 8,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-11-23T19:55:14.744404",
+    "last_recorded": "2025-11-23T20:03:58.312245",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -36,7 +36,8 @@
         "2025-11-21T14:09:56.591648",
         "2025-11-23T13:27:48.290198",
         "2025-11-23T14:00:32.439099",
-        "2025-11-23T19:55:14.744404"
+        "2025-11-23T19:55:14.744404",
+        "2025-11-23T20:03:58.312245"
       ],
       "views": [
         4891,
@@ -45,7 +46,8 @@
         4981,
         5048,
         5048,
-        5049
+        5049,
+        5052
       ],
       "runs": [
         195,
@@ -54,9 +56,11 @@
         204,
         237,
         237,
-        238
+        238,
+        239
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -71,18 +75,18 @@
     "has_data": true,
     "days_tracked": 5,
     "total_growth": {
-      "views": 158,
-      "runs": 43,
+      "views": 161,
+      "runs": 44,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 31.6,
-      "runs": 8.6,
+      "views": 32.2,
+      "runs": 8.8,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 3.23,
-      "runs": 22.05,
+      "views": 3.29,
+      "runs": 22.56,
       "saves": 0
     }
   },
@@ -99,8 +103,8 @@
     "category": "AI Agent",
     "category_agent_count": 199,
     "vs_average": {
-      "views": 608.6,
-      "runs": 288.5,
+      "views": 609.0,
+      "runs": 289.3,
       "saves": 0
     }
   },

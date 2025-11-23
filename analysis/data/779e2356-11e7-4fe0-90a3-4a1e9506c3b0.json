@@ -1,6 +1,6 @@
 {
   "agent_id": "779e2356-11e7-4fe0-90a3-4a1e9506c3b0",
-  "generated_at": "2025-11-23T11:55:44.038374",
+  "generated_at": "2025-11-23T12:04:27.057079",
   "basic_info": {
     "title": "Smart Q",
     "author": "QuickBI",
@@ -15,19 +15,19 @@
   },
   "performance_metrics": {
     "views": 602,
-    "runs": 602,
+    "runs": 603,
     "saves": 0,
     "days_tracked": 18,
     "price": 0.0,
-    "engagement_rate": 100.0,
-    "avg_runs_per_day": 33.44,
+    "engagement_rate": 100.17,
+    "avg_runs_per_day": 33.5,
     "avg_views_per_day": 33.44
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 7,
+    "data_points": 8,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-11-23T19:55:14.744404",
+    "last_recorded": "2025-11-23T20:03:58.312245",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -36,7 +36,8 @@
         "2025-11-21T14:09:56.591648",
         "2025-11-23T13:27:48.290198",
         "2025-11-23T14:00:32.439099",
-        "2025-11-23T19:55:14.744404"
+        "2025-11-23T19:55:14.744404",
+        "2025-11-23T20:03:58.312245"
       ],
       "views": [
         484,
@@ -45,6 +46,7 @@
         562,
         599,
         599,
+        602,
         602
       ],
       "runs": [
@@ -54,9 +56,11 @@
         762,
         545,
         545,
-        602
+        602,
+        603
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -72,17 +76,17 @@
     "days_tracked": 5,
     "total_growth": {
       "views": 118,
-      "runs": 27,
+      "runs": 28,
       "saves": 0
     },
     "daily_average_growth": {
       "views": 23.6,
-      "runs": 5.4,
+      "runs": 5.6,
       "saves": 0.0
     },
     "percentage_growth": {
       "views": 24.38,
-      "runs": 4.7,
+      "runs": 4.87,
       "saves": 0
     }
   },
@@ -100,7 +104,7 @@
     "category_agent_count": 199,
     "vs_average": {
       "views": -15.5,
-      "runs": 882.8,
+      "runs": 882.1,
       "saves": 0
     }
   },
@@ -108,7 +112,7 @@
     {
       "type": "positive",
       "title": "High Engagement Rate",
-      "description": "This agent has an excellent 100.0% engagement rate (runs/views), significantly above average."
+      "description": "This agent has an excellent 100.2% engagement rate (runs/views), significantly above average."
     }
   ]
 }

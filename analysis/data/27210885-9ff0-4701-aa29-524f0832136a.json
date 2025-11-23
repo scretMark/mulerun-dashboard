@@ -1,6 +1,6 @@
 {
   "agent_id": "27210885-9ff0-4701-aa29-524f0832136a",
-  "generated_at": "2025-11-23T11:55:45.347966",
+  "generated_at": "2025-11-23T12:04:28.288579",
   "basic_info": {
     "title": "Remove Watermark",
     "author": "PicCopilot",
@@ -15,19 +15,19 @@
   },
   "performance_metrics": {
     "views": 92,
-    "runs": 577,
+    "runs": 579,
     "saves": 0,
     "days_tracked": 11,
     "price": 0.0,
-    "engagement_rate": 627.17,
-    "avg_runs_per_day": 52.45,
+    "engagement_rate": 629.35,
+    "avg_runs_per_day": 52.64,
     "avg_views_per_day": 8.36
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 7,
+    "data_points": 8,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-11-23T19:55:14.744404",
+    "last_recorded": "2025-11-23T20:03:58.312245",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -36,7 +36,8 @@
         "2025-11-21T14:09:56.591648",
         "2025-11-23T13:27:48.290198",
         "2025-11-23T14:00:32.439099",
-        "2025-11-23T19:55:14.744404"
+        "2025-11-23T19:55:14.744404",
+        "2025-11-23T20:03:58.312245"
       ],
       "views": [
         78,
@@ -45,6 +46,7 @@
         84,
         91,
         91,
+        92,
         92
       ],
       "runs": [
@@ -54,9 +56,11 @@
         331,
         529,
         529,
-        577
+        577,
+        579
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -72,17 +76,17 @@
     "days_tracked": 5,
     "total_growth": {
       "views": 14,
-      "runs": 515,
+      "runs": 517,
       "saves": 0
     },
     "daily_average_growth": {
       "views": 2.8,
-      "runs": 103.0,
+      "runs": 103.4,
       "saves": 0.0
     },
     "percentage_growth": {
       "views": 17.95,
-      "runs": 830.65,
+      "runs": 833.87,
       "saves": 0
     }
   },
@@ -100,7 +104,7 @@
     "category_agent_count": 199,
     "vs_average": {
       "views": -87.1,
-      "runs": 841.9,
+      "runs": 843.0,
       "saves": 0
     }
   },
@@ -108,12 +112,12 @@
     {
       "type": "positive",
       "title": "High Engagement Rate",
-      "description": "This agent has an excellent 627.2% engagement rate (runs/views), significantly above average."
+      "description": "This agent has an excellent 629.3% engagement rate (runs/views), significantly above average."
     },
     {
       "type": "positive",
       "title": "Active User Base",
-      "description": "Runs increased by 515, indicating growing adoption and active usage."
+      "description": "Runs increased by 517, indicating growing adoption and active usage."
     }
   ]
 }
