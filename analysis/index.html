@@ -370,9 +370,22 @@
             document.getElementById('agentAuthor').textContent = data.basic_info.author;
             document.title = `${data.basic_info.title} - Analysis`;
             
-            // Logo - construct path from agent ID
-            const logoPath = `../logos/${agentId}.webp`;
-            document.getElementById('agentLogo').src = logoPath; 
+            // Logo - try multiple extensions for backwards compatibility
+            const logoImg = document.getElementById('agentLogo');
+            const extensions = ['webp', 'JPG', 'jpg', 'png', 'jpeg'];
+
+            function tryNextExtension(index = 0) {
+                if (index >= extensions.length) {
+                    // No logo found, use placeholder color
+                    logoImg.style.display = 'none';
+                    return;
+                }
+                const logoPath = `../logos/${agentId}.${extensions[index]}`;
+                logoImg.onerror = () => tryNextExtension(index + 1);
+                logoImg.src = logoPath;
+            }
+
+            tryNextExtension(); 
 
             // Metrics
             document.getElementById('totalViews').textContent = data.performance_metrics.views.toLocaleString();
