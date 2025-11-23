@@ -4,39 +4,53 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Agent Analysis | MuleRun</title>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style>
         :root {
-            --primary: #6366f1; /* Indigo 500 */
-            --primary-dark: #4f46e5; /* Indigo 600 */
-            --primary-light: #818cf8; /* Indigo 400 */
-            --secondary: #64748b; /* Slate 500 */
-            --success: #10b981; /* Emerald 500 */
-            --danger: #ef4444; /* Red 500 */
-            --warning: #f59e0b; /* Amber 500 */
-            --background: #f8fafc; /* Slate 50 */
-            --surface: #ffffff;
-            --surface-hover: #f1f5f9; /* Slate 100 */
-            --text-main: #0f172a; /* Slate 900 */
-            --text-muted: #64748b; /* Slate 500 */
-            --border: #e2e8f0; /* Slate 200 */
+            /* Modern Color Palette */
+            --primary: #6366f1;
+            --primary-dark: #4f46e5;
+            --primary-light: #818cf8;
+            --secondary: #64748b;
+            --success: #10b981;
+            --danger: #ef4444;
+            --warning: #f59e0b;
+            --info: #3b82f6;
+            
+            /* Backgrounds */
+            --bg-main: #f8fafc;
+            --bg-glass: rgba(255, 255, 255, 0.8);
+            --bg-glass-hover: rgba(255, 255, 255, 0.95);
+            
+            /* Text */
+            --text-main: #0f172a;
+            --text-muted: #64748b;
+            --text-light: #94a3b8;
+            
+            /* Borders & Shadows */
+            --border: rgba(226, 232, 240, 0.8);
             --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
             --shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
             --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+            
+            /* Dimensions */
             --radius: 1rem;
-            --header-height: 4rem;
+            --header-height: 4.5rem;
         }
 
         * { margin: 0; padding: 0; box-sizing: border-box; }
 
         body {
-            font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-            background-color: var(--background);
+            font-family: 'Outfit', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background-color: var(--bg-main);
+            background-image: 
+                radial-gradient(circle at 0% 0%, rgba(99, 102, 241, 0.05) 0%, transparent 50%),
+                radial-gradient(circle at 100% 100%, rgba(16, 185, 129, 0.05) 0%, transparent 50%);
+            background-attachment: fixed;
             color: var(--text-main);
             line-height: 1.6;
             -webkit-font-smoothing: antialiased;
-            -moz-osx-font-smoothing: grayscale;
         }
 
         .container {
@@ -51,36 +65,47 @@
             display: flex;
             justify-content: space-between;
             align-items: flex-start;
+            animation: fadeIn 0.5s ease-out;
         }
 
         .agent-header {
             display: flex;
-            gap: 1.5rem;
+            gap: 2rem;
             align-items: center;
         }
 
+        .logo-container {
+            position: relative;
+        }
+
         .agent-logo {
-            width: 80px;
-            height: 80px;
-            border-radius: 1rem;
+            width: 96px;
+            height: 96px;
+            border-radius: 1.5rem;
             object-fit: cover;
-            box-shadow: var(--shadow);
-            background: var(--surface);
+            box-shadow: var(--shadow-lg);
+            background: white;
+            padding: 4px;
+            border: 1px solid white;
         }
 
         .agent-info h1 {
-            font-size: 2rem;
+            font-size: 2.5rem;
             font-weight: 800;
             letter-spacing: -0.025em;
-            margin-bottom: 0.25rem;
+            margin-bottom: 0.5rem;
+            background: linear-gradient(to right, var(--text-main), var(--primary));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
         }
 
         .agent-meta {
             display: flex;
             gap: 1rem;
             color: var(--text-muted);
-            font-size: 0.95rem;
+            font-size: 1rem;
             align-items: center;
+            font-weight: 500;
         }
 
         .status-badge {
@@ -92,20 +117,29 @@
             font-weight: 700;
             text-transform: uppercase;
             letter-spacing: 0.05em;
+            box-shadow: 0 0 0 1px rgba(22, 101, 52, 0.1);
         }
 
         .back-link {
-            color: var(--text-muted);
+            padding: 0.75rem 1.25rem;
+            background: white;
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            color: var(--text-main);
             text-decoration: none;
-            font-weight: 500;
+            font-weight: 600;
             display: flex;
             align-items: center;
             gap: 0.5rem;
-            transition: color 0.2s;
+            transition: all 0.2s;
+            box-shadow: var(--shadow-sm);
         }
 
         .back-link:hover {
+            border-color: var(--primary);
             color: var(--primary);
+            transform: translateX(-4px);
+            box-shadow: var(--shadow);
         }
 
         /* Grid Layout */
@@ -113,38 +147,48 @@
             display: grid;
             grid-template-columns: 2fr 1fr;
             gap: 2rem;
+            animation: fadeIn 0.6s ease-out 0.1s backwards;
         }
 
         @media (max-width: 1024px) {
             .grid { grid-template-columns: 1fr; }
         }
 
-        /* Cards */
+        /* Glass Cards */
         .card {
-            background: var(--surface);
+            background: var(--bg-glass);
+            backdrop-filter: blur(12px);
             border-radius: var(--radius);
             box-shadow: var(--shadow-sm);
-            border: 1px solid var(--border);
-            padding: 1.5rem;
+            border: 1px solid white;
+            padding: 2rem;
             margin-bottom: 2rem;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .card:hover {
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-lg);
         }
 
         .card h2 {
-            font-size: 1.1rem;
-            font-weight: 600;
+            font-size: 1.25rem;
+            font-weight: 700;
             margin-bottom: 1.5rem;
             display: flex;
             align-items: center;
             gap: 0.75rem;
+            color: var(--text-main);
         }
 
         .card h2::before {
             content: '';
             display: block;
-            width: 4px;
-            height: 20px;
+            width: 6px;
+            height: 24px;
             background: var(--primary);
-            border-radius: 2px;
+            border-radius: 3px;
+            box-shadow: 0 0 10px rgba(99, 102, 241, 0.4);
         }
 
         /* Metrics */
@@ -156,31 +200,41 @@
         }
 
         .metric-item {
-            background: var(--surface-hover);
-            padding: 1.25rem;
-            border-radius: 0.75rem;
+            background: rgba(255, 255, 255, 0.5);
+            padding: 1.5rem;
+            border-radius: 1rem;
             text-align: center;
+            border: 1px solid rgba(255, 255, 255, 0.6);
+            transition: all 0.2s;
+        }
+
+        .metric-item:hover {
+            background: white;
+            transform: scale(1.02);
         }
 
         .metric-value {
-            font-size: 1.75rem;
-            font-weight: 700;
+            font-size: 2rem;
+            font-weight: 800;
             color: var(--primary);
             line-height: 1.2;
+            margin-bottom: 0.25rem;
         }
 
         .metric-label {
             font-size: 0.875rem;
             color: var(--text-muted);
-            margin-top: 0.25rem;
+            font-weight: 500;
         }
 
         /* Insights */
         .insight-item {
-            padding: 1rem;
-            border-radius: 0.75rem;
+            padding: 1.25rem;
+            border-radius: 1rem;
             margin-bottom: 1rem;
             border-left: 4px solid transparent;
+            background: white;
+            box-shadow: var(--shadow-sm);
         }
 
         .insight-item.positive {
@@ -199,20 +253,22 @@
         }
 
         .insight-title {
-            font-weight: 600;
+            font-weight: 700;
             margin-bottom: 0.25rem;
             color: var(--text-main);
+            font-size: 1rem;
         }
 
         .insight-desc {
             font-size: 0.9rem;
             color: var(--text-muted);
+            line-height: 1.5;
         }
 
         /* Chart */
         .chart-container {
             position: relative;
-            height: 300px;
+            height: 350px;
             width: 100%;
         }
 
@@ -220,7 +276,7 @@
         #loading {
             position: fixed;
             inset: 0;
-            background: var(--background);
+            background: var(--bg-main);
             display: flex;
             justify-content: center;
             align-items: center;
@@ -228,17 +284,24 @@
         }
 
         .spinner {
-            width: 40px;
-            height: 40px;
-            border: 3px solid var(--border);
+            width: 50px;
+            height: 50px;
+            border: 4px solid rgba(99, 102, 241, 0.1);
             border-top-color: var(--primary);
             border-radius: 50%;
-            animation: spin 1s linear infinite;
+            animation: spin 1s cubic-bezier(0.4, 0, 0.2, 1) infinite;
         }
 
         @keyframes spin { to { transform: rotate(360deg); } }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
 
         .hidden { display: none !important; }
+        
+        .text-sm { font-size: 0.875rem; }
+        .text-muted { color: var(--text-muted); }
     </style>
 </head>
 <body>
@@ -249,7 +312,9 @@
     <div class="container hidden" id="app">
         <header>
             <div class="agent-header">
-                <img id="agentLogo" src="" alt="Logo" class="agent-logo" onerror="this.src='../../assets/placeholder.png'">
+                <div class="logo-container">
+                    <img id="agentLogo" src="" alt="Logo" class="agent-logo" onerror="this.src='../../assets/placeholder.png'">
+                </div>
                 <div class="agent-info">
                     <h1 id="agentTitle">Loading...</h1>
                     <div class="agent-meta">
@@ -290,7 +355,7 @@
                             <div class="metric-label">Saves Growth</div>
                         </div>
                     </div>
-                    <p id="growthSummary" class="text-muted text-sm"></p>
+                    <p id="growthSummary" class="text-muted text-sm" style="text-align: center;"></p>
                 </div>
             </div>
 
@@ -332,7 +397,7 @@
                     <h2>Market Position</h2>
                     <div class="insight-item info">
                         <div class="insight-title">Top <span id="percentileRank">0</span>%</div>
-                        <div class="insight-desc">Ranked #<span id="rankNum">0</span> by views</div>
+                        <div class="insight-desc">Ranked #<span id="rankNum">0</span> by views among all agents</div>
                     </div>
                 </div>
             </div>
@@ -370,22 +435,10 @@
             document.getElementById('agentAuthor').textContent = data.basic_info.author;
             document.title = `${data.basic_info.title} - Analysis`;
             
-            // Logo - try multiple extensions for backwards compatibility
-            const logoImg = document.getElementById('agentLogo');
-            const extensions = ['webp', 'JPG', 'jpg', 'png', 'jpeg'];
-
-            function tryNextExtension(index = 0) {
-                if (index >= extensions.length) {
-                    // No logo found, use placeholder color
-                    logoImg.style.display = 'none';
-                    return;
-                }
-                const logoPath = `../logos/${agentId}.${extensions[index]}`;
-                logoImg.onerror = () => tryNextExtension(index + 1);
-                logoImg.src = logoPath;
-            }
-
-            tryNextExtension(); 
+            // Logo - construct path from agent ID
+            const logoPath = `../logos/${agentId}.webp`;
+            document.getElementById('agentLogo').src = logoPath; 
+            // Try to load thumbnail if logo fails (fallback logic handled by onerror in HTML)
 
             // Metrics
             document.getElementById('totalViews').textContent = data.performance_metrics.views.toLocaleString();
@@ -434,6 +487,16 @@
             // Format dates
             const labels = trends.time_series.dates.map(d => new Date(d).toLocaleDateString());
 
+            // Gradient for Views
+            const gradientViews = ctx.createLinearGradient(0, 0, 0, 400);
+            gradientViews.addColorStop(0, 'rgba(99, 102, 241, 0.5)');
+            gradientViews.addColorStop(1, 'rgba(99, 102, 241, 0.0)');
+
+            // Gradient for Runs
+            const gradientRuns = ctx.createLinearGradient(0, 0, 0, 400);
+            gradientRuns.addColorStop(0, 'rgba(16, 185, 129, 0.5)');
+            gradientRuns.addColorStop(1, 'rgba(16, 185, 129, 0.0)');
+
             new Chart(ctx, {
                 type: 'line',
                 data: {
@@ -443,17 +506,29 @@
                             label: 'Views',
                             data: trends.time_series.views,
                             borderColor: '#6366f1',
-                            backgroundColor: 'rgba(99, 102, 241, 0.1)',
+                            backgroundColor: gradientViews,
+                            borderWidth: 3,
                             tension: 0.4,
-                            fill: true
+                            fill: true,
+                            pointBackgroundColor: '#ffffff',
+                            pointBorderColor: '#6366f1',
+                            pointBorderWidth: 2,
+                            pointRadius: 4,
+                            pointHoverRadius: 6
                         },
                         {
                             label: 'Runs',
                             data: trends.time_series.runs,
                             borderColor: '#10b981',
-                            backgroundColor: 'rgba(16, 185, 129, 0.1)',
+                            backgroundColor: gradientRuns,
+                            borderWidth: 3,
                             tension: 0.4,
-                            fill: true
+                            fill: true,
+                            pointBackgroundColor: '#ffffff',
+                            pointBorderColor: '#10b981',
+                            pointBorderWidth: 2,
+                            pointRadius: 4,
+                            pointHoverRadius: 6
                         }
                     ]
                 },
@@ -464,16 +539,30 @@
                         legend: {
                             position: 'top',
                             align: 'end',
-                            labels: { usePointStyle: true, boxWidth: 8 }
+                            labels: { 
+                                usePointStyle: true, 
+                                boxWidth: 8,
+                                font: { family: "'Outfit', sans-serif", size: 12 }
+                            }
+                        },
+                        tooltip: {
+                            backgroundColor: 'rgba(15, 23, 42, 0.9)',
+                            titleFont: { family: "'Outfit', sans-serif", size: 13 },
+                            bodyFont: { family: "'Outfit', sans-serif", size: 13 },
+                            padding: 12,
+                            cornerRadius: 8,
+                            displayColors: true
                         }
                     },
                     scales: {
                         y: {
                             beginAtZero: true,
-                            grid: { borderDash: [4, 4], color: '#e2e8f0' }
+                            grid: { borderDash: [4, 4], color: '#e2e8f0' },
+                            ticks: { font: { family: "'Outfit', sans-serif" } }
                         },
                         x: {
-                            grid: { display: false }
+                            grid: { display: false },
+                            ticks: { font: { family: "'Outfit', sans-serif" } }
                         }
                     },
                     interaction: {

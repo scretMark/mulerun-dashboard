@@ -1,6 +1,6 @@
 {
   "agent_id": "a3000bd1-6ece-4f87-8914-322de6ac70eb",
-  "generated_at": "2025-11-23T06:01:04.568350",
+  "generated_at": "2025-11-23T11:55:44.821257",
   "basic_info": {
     "title": "Giant Prop Studio",
     "author": "Lucas",
@@ -25,21 +25,23 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 5,
+    "data_points": 6,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T14:00:32.439099",
+    "last_recorded": "2025-11-23T19:55:14.744404",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
         "2025-11-19T16:22:32.765134",
         "2025-11-21T14:09:56.591648",
         "2025-11-23T13:27:48.290198",
-        "2025-11-23T14:00:32.439099"
+        "2025-11-23T14:00:32.439099",
+        "2025-11-23T19:55:14.744404"
       ],
       "views": [
         193,
         193,
         195,
+        197,
         197,
         197
       ],
@@ -48,9 +50,11 @@
         7,
         4,
         0,
+        0,
         0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -61,15 +65,15 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 3,
+    "days_tracked": 4,
     "total_growth": {
       "views": 4,
       "runs": -7,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 1.33,
-      "runs": -2.33,
+      "views": 1.0,
+      "runs": -1.75,
       "saves": 0.0
     },
     "percentage_growth": {
@@ -91,7 +95,7 @@
     "category": "AI Agent",
     "category_agent_count": 199,
     "vs_average": {
-      "views": -72.3,
+      "views": -72.4,
       "runs": -100.0,
       "saves": 0
     }

@@ -1,6 +1,6 @@
 {
   "agent_id": "710ab8e8-1b19-4c0f-a5da-db861ef22711",
-  "generated_at": "2025-11-23T06:01:04.960950",
+  "generated_at": "2025-11-23T11:55:45.232112",
   "basic_info": {
     "title": "Nine Hairstyles  Nine Charismatic Personalities",
     "author": "owdaoyn18682p53",
@@ -14,36 +14,39 @@
     "days_since_published": 45
   },
   "performance_metrics": {
-    "views": 114,
+    "views": 115,
     "runs": 0,
     "saves": 0,
     "days_tracked": 45,
     "price": 39.0,
     "engagement_rate": 0.0,
     "avg_runs_per_day": 0.0,
-    "avg_views_per_day": 2.53
+    "avg_views_per_day": 2.56
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 5,
+    "data_points": 6,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T14:00:32.439099",
+    "last_recorded": "2025-11-23T19:55:14.744404",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
         "2025-11-19T16:22:32.765134",
         "2025-11-21T14:09:56.591648",
         "2025-11-23T13:27:48.290198",
-        "2025-11-23T14:00:32.439099"
+        "2025-11-23T14:00:32.439099",
+        "2025-11-23T19:55:14.744404"
       ],
       "views": [
         111,
         111,
         112,
         114,
-        114
+        114,
+        115
       ],
       "runs": [
+        0,
         0,
         0,
         0,
@@ -55,15 +58,16 @@
         0,
         0,
         0,
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 3,
+    "days_tracked": 4,
     "total_growth": {
-      "views": 3,
+      "views": 4,
       "runs": 0,
       "saves": 0
     },
@@ -73,7 +77,7 @@
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 2.7,
+      "views": 3.6,
       "runs": 0,
       "saves": 0
     }
@@ -91,7 +95,7 @@
     "category": "AI Agent",
     "category_agent_count": 199,
     "vs_average": {
-      "views": -84.0,
+      "views": -83.9,
       "runs": -100.0,
       "saves": 0
     }

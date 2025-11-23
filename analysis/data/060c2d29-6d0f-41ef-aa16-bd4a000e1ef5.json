@@ -1,6 +1,6 @@
 {
   "agent_id": "060c2d29-6d0f-41ef-aa16-bd4a000e1ef5",
-  "generated_at": "2025-11-23T06:01:03.097619",
+  "generated_at": "2025-11-23T11:55:43.337198",
   "basic_info": {
     "title": "Auto Short Video Creator",
     "author": "GrahamRabbb0e02",
@@ -14,20 +14,20 @@
     "days_since_published": 102
   },
   "performance_metrics": {
-    "views": 6167,
+    "views": 6171,
     "runs": 38,
     "saves": 0,
     "days_tracked": 102,
     "price": 386.0,
     "engagement_rate": 0.62,
     "avg_runs_per_day": 0.37,
-    "avg_views_per_day": 60.46
+    "avg_views_per_day": 60.5
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 6,
+    "data_points": 7,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-11-23T14:00:32.439099",
+    "last_recorded": "2025-11-23T19:55:14.744404",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -35,7 +35,8 @@
         "2025-11-19T16:22:32.765134",
         "2025-11-21T14:09:56.591648",
         "2025-11-23T13:27:48.290198",
-        "2025-11-23T14:00:32.439099"
+        "2025-11-23T14:00:32.439099",
+        "2025-11-23T19:55:14.744404"
       ],
       "views": [
         6059,
@@ -43,7 +44,8 @@
         6082,
         6136,
         6167,
-        6167
+        6167,
+        6171
       ],
       "runs": [
         58,
@@ -51,9 +53,11 @@
         43,
         35,
         38,
+        38,
         38
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -65,19 +69,19 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 4,
+    "days_tracked": 5,
     "total_growth": {
-      "views": 108,
+      "views": 112,
       "runs": -20,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 27.0,
-      "runs": -5.0,
+      "views": 22.4,
+      "runs": -4.0,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 1.78,
+      "views": 1.85,
       "runs": -34.48,
       "saves": 0
     }
@@ -95,8 +99,8 @@
     "category": "AI Agent",
     "category_agent_count": 199,
     "vs_average": {
-      "views": 765.9,
-      "runs": -33.8,
+      "views": 766.1,
+      "runs": -38.0,
       "saves": 0
     }
   },

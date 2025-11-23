@@ -1,6 +1,6 @@
 {
   "agent_id": "bc213112-8801-4ca4-aace-426d69a2f2f2",
-  "generated_at": "2025-11-23T06:01:05.205140",
+  "generated_at": "2025-11-23T11:55:45.435783",
   "basic_info": {
     "title": "Judy Hopps Cosplay Filter",
     "author": "Lucas",
@@ -14,43 +14,47 @@
     "days_since_published": 17
   },
   "performance_metrics": {
-    "views": 76,
+    "views": 77,
     "runs": 0,
     "saves": 0,
     "days_tracked": 17,
     "price": 49.0,
     "engagement_rate": 0.0,
     "avg_runs_per_day": 0.0,
-    "avg_views_per_day": 4.47
+    "avg_views_per_day": 4.53
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 5,
+    "data_points": 6,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T14:00:32.439099",
+    "last_recorded": "2025-11-23T19:55:14.744404",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
         "2025-11-19T16:22:32.765134",
         "2025-11-21T14:09:56.591648",
         "2025-11-23T13:27:48.290198",
-        "2025-11-23T14:00:32.439099"
+        "2025-11-23T14:00:32.439099",
+        "2025-11-23T19:55:14.744404"
       ],
       "views": [
         68,
         69,
         71,
         76,
-        76
+        76,
+        77
       ],
       "runs": [
         1,
         1,
         0,
         0,
+        0,
         0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -61,19 +65,19 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 3,
+    "days_tracked": 4,
     "total_growth": {
-      "views": 8,
+      "views": 9,
       "runs": -1,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 2.67,
-      "runs": -0.33,
+      "views": 2.25,
+      "runs": -0.25,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 11.76,
+      "views": 13.24,
       "runs": -100.0,
       "saves": 0
     }
@@ -91,7 +95,7 @@
     "category": "AI Agent",
     "category_agent_count": 199,
     "vs_average": {
-      "views": -89.3,
+      "views": -89.2,
       "runs": -100.0,
       "saves": 0
     }

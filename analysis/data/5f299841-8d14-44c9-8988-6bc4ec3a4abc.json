@@ -1,6 +1,6 @@
 {
   "agent_id": "5f299841-8d14-44c9-8988-6bc4ec3a4abc",
-  "generated_at": "2025-11-23T06:01:03.261473",
+  "generated_at": "2025-11-23T11:55:43.500961",
   "basic_info": {
     "title": "Remove Sora2 Video Watermark",
     "author": "Darren",
@@ -14,43 +14,47 @@
     "days_since_published": 33
   },
   "performance_metrics": {
-    "views": 1883,
+    "views": 1884,
     "runs": 11,
     "saves": 0,
     "days_tracked": 33,
     "price": 101.0,
     "engagement_rate": 0.58,
     "avg_runs_per_day": 0.33,
-    "avg_views_per_day": 57.06
+    "avg_views_per_day": 57.09
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 5,
+    "data_points": 6,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T14:00:32.439099",
+    "last_recorded": "2025-11-23T19:55:14.744404",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
         "2025-11-19T16:22:32.765134",
         "2025-11-21T14:09:56.591648",
         "2025-11-23T13:27:48.290198",
-        "2025-11-23T14:00:32.439099"
+        "2025-11-23T14:00:32.439099",
+        "2025-11-23T19:55:14.744404"
       ],
       "views": [
         1819,
         1820,
         1854,
         1883,
-        1883
+        1883,
+        1884
       ],
       "runs": [
         26,
         26,
         15,
         11,
+        11,
         11
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -61,19 +65,19 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 3,
+    "days_tracked": 4,
     "total_growth": {
-      "views": 64,
+      "views": 65,
       "runs": -15,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 21.33,
-      "runs": -5.0,
+      "views": 16.25,
+      "runs": -3.75,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 3.52,
+      "views": 3.57,
       "runs": -57.69,
       "saves": 0
     }
@@ -92,7 +96,7 @@
     "category_agent_count": 199,
     "vs_average": {
       "views": 164.4,
-      "runs": -80.8,
+      "runs": -82.0,
       "saves": 0
     }
   },

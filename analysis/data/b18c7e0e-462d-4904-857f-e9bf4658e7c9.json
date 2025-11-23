@@ -1,6 +1,6 @@
 {
   "agent_id": "b18c7e0e-462d-4904-857f-e9bf4658e7c9",
-  "generated_at": "2025-11-23T06:01:03.284390",
+  "generated_at": "2025-11-23T11:55:43.524130",
   "basic_info": {
     "title": "Me And My Mini-Me",
     "author": "YuTou_baby",
@@ -14,43 +14,47 @@
     "days_since_published": 64
   },
   "performance_metrics": {
-    "views": 1725,
+    "views": 1726,
     "runs": 418,
     "saves": 0,
     "days_tracked": 64,
     "price": 50.0,
-    "engagement_rate": 24.23,
+    "engagement_rate": 24.22,
     "avg_runs_per_day": 6.53,
-    "avg_views_per_day": 26.95
+    "avg_views_per_day": 26.97
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 5,
+    "data_points": 6,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T14:00:32.439099",
+    "last_recorded": "2025-11-23T19:55:14.744404",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
         "2025-11-19T16:22:32.765134",
         "2025-11-21T14:09:56.591648",
         "2025-11-23T13:27:48.290198",
-        "2025-11-23T14:00:32.439099"
+        "2025-11-23T14:00:32.439099",
+        "2025-11-23T19:55:14.744404"
       ],
       "views": [
         1715,
         1715,
         1719,
         1725,
-        1725
+        1725,
+        1726
       ],
       "runs": [
         34,
         34,
         293,
         418,
+        418,
         418
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -61,19 +65,19 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 3,
+    "days_tracked": 4,
     "total_growth": {
-      "views": 10,
+      "views": 11,
       "runs": 384,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 3.33,
-      "runs": 128.0,
+      "views": 2.75,
+      "runs": 96.0,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 0.58,
+      "views": 0.64,
       "runs": 1129.41,
       "saves": 0
     }
@@ -92,7 +96,7 @@
     "category_agent_count": 199,
     "vs_average": {
       "views": 142.2,
-      "runs": 628.1,
+      "runs": 582.4,
       "saves": 0
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "07e3b5f7-4548-4fbd-8819-ae715b03de6b",
-  "generated_at": "2025-11-23T06:01:03.527346",
+  "generated_at": "2025-11-23T11:55:43.736447",
   "basic_info": {
     "title": "AI & SaaS Leads Reddit Hunter",
     "author": "bingganbbb14c6",
@@ -25,21 +25,23 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 5,
+    "data_points": 6,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T14:00:32.439099",
+    "last_recorded": "2025-11-23T19:55:14.744404",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
         "2025-11-19T16:22:32.765134",
         "2025-11-21T14:09:56.591648",
         "2025-11-23T13:27:48.290198",
-        "2025-11-23T14:00:32.439099"
+        "2025-11-23T14:00:32.439099",
+        "2025-11-23T19:55:14.744404"
       ],
       "views": [
         915,
         916,
         920,
+        924,
         924,
         924
       ],
@@ -48,9 +50,11 @@
         2,
         2,
         4,
+        4,
         4
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -61,15 +65,15 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 3,
+    "days_tracked": 4,
     "total_growth": {
       "views": 9,
       "runs": 3,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 3.0,
-      "runs": 1.0,
+      "views": 2.25,
+      "runs": 0.75,
       "saves": 0.0
     },
     "percentage_growth": {
@@ -92,7 +96,7 @@
     "category_agent_count": 199,
     "vs_average": {
       "views": 29.7,
-      "runs": -93.0,
+      "runs": -93.5,
       "saves": 0
     }
   },

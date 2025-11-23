@@ -1,6 +1,6 @@
 {
   "agent_id": "81a7b21c-32fd-4106-b473-4c1eb7e2934f",
-  "generated_at": "2025-11-23T06:01:04.299585",
+  "generated_at": "2025-11-23T11:55:44.581622",
   "basic_info": {
     "title": "Elon Musk I Love YOU",
     "author": "Darren",
@@ -11,35 +11,37 @@
     "published_at": "2025-10-20T11:38:39.595000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/elon-musk-i-love-you",
-    "days_since_published": 33
+    "days_since_published": 34
   },
   "performance_metrics": {
     "views": 255,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 33,
+    "days_tracked": 34,
     "price": 51.0,
     "engagement_rate": 0.0,
     "avg_runs_per_day": 0.0,
-    "avg_views_per_day": 7.73
+    "avg_views_per_day": 7.5
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 5,
+    "data_points": 6,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T14:00:32.439099",
+    "last_recorded": "2025-11-23T19:55:14.744404",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
         "2025-11-19T16:22:32.765134",
         "2025-11-21T14:09:56.591648",
         "2025-11-23T13:27:48.290198",
-        "2025-11-23T14:00:32.439099"
+        "2025-11-23T14:00:32.439099",
+        "2025-11-23T19:55:14.744404"
       ],
       "views": [
         253,
         253,
         254,
+        255,
         255,
         255
       ],
@@ -48,9 +50,11 @@
         1,
         1,
         0,
+        0,
         0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -61,15 +65,15 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 3,
+    "days_tracked": 4,
     "total_growth": {
       "views": 2,
       "runs": -1,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 0.67,
-      "runs": -0.33,
+      "views": 0.5,
+      "runs": -0.25,
       "saves": 0.0
     },
     "percentage_growth": {

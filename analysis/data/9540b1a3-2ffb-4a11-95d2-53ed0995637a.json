@@ -1,6 +1,6 @@
 {
   "agent_id": "9540b1a3-2ffb-4a11-95d2-53ed0995637a",
-  "generated_at": "2025-11-23T06:01:04.111274",
+  "generated_at": "2025-11-23T11:55:44.352050",
   "basic_info": {
     "title": "ExplainerVideoGen",
     "author": "2_lullakah",
@@ -11,35 +11,37 @@
     "published_at": "2025-11-07T10:24:37.592000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@2_lullakah/explainervideogen",
-    "days_since_published": 15
+    "days_since_published": 16
   },
   "performance_metrics": {
     "views": 340,
     "runs": 11,
     "saves": 0,
-    "days_tracked": 15,
+    "days_tracked": 16,
     "price": 48.0,
     "engagement_rate": 3.24,
-    "avg_runs_per_day": 0.73,
-    "avg_views_per_day": 22.67
+    "avg_runs_per_day": 0.69,
+    "avg_views_per_day": 21.25
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 5,
+    "data_points": 6,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T14:00:32.439099",
+    "last_recorded": "2025-11-23T19:55:14.744404",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
         "2025-11-19T16:22:32.765134",
         "2025-11-21T14:09:56.591648",
         "2025-11-23T13:27:48.290198",
-        "2025-11-23T14:00:32.439099"
+        "2025-11-23T14:00:32.439099",
+        "2025-11-23T19:55:14.744404"
       ],
       "views": [
         321,
         321,
         337,
+        340,
         340,
         340
       ],
@@ -48,9 +50,11 @@
         12,
         12,
         11,
+        11,
         11
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -61,15 +65,15 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 3,
+    "days_tracked": 4,
     "total_growth": {
       "views": 19,
       "runs": -1,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 6.33,
-      "runs": -0.33,
+      "views": 4.75,
+      "runs": -0.25,
       "saves": 0.0
     },
     "percentage_growth": {
@@ -92,7 +96,7 @@
     "category_agent_count": 199,
     "vs_average": {
       "views": -52.3,
-      "runs": -80.8,
+      "runs": -82.0,
       "saves": 0
     }
   },

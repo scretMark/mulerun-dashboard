@@ -1,6 +1,6 @@
 {
   "agent_id": "96154dc5-a009-4fdc-9cb7-699f7ae72de6",
-  "generated_at": "2025-11-23T06:01:03.339752",
+  "generated_at": "2025-11-23T11:55:43.573401",
   "basic_info": {
     "title": "Ani-Me Cosplay",
     "author": "laughing_code",
@@ -14,43 +14,47 @@
     "days_since_published": 57
   },
   "performance_metrics": {
-    "views": 1483,
+    "views": 1484,
     "runs": 1,
     "saves": 0,
     "days_tracked": 57,
     "price": 70.0,
     "engagement_rate": 0.07,
     "avg_runs_per_day": 0.02,
-    "avg_views_per_day": 26.02
+    "avg_views_per_day": 26.04
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 5,
+    "data_points": 6,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T14:00:32.439099",
+    "last_recorded": "2025-11-23T19:55:14.744404",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
         "2025-11-19T16:22:32.765134",
         "2025-11-21T14:09:56.591648",
         "2025-11-23T13:27:48.290198",
-        "2025-11-23T14:00:32.439099"
+        "2025-11-23T14:00:32.439099",
+        "2025-11-23T19:55:14.744404"
       ],
       "views": [
         1478,
         1479,
         1481,
         1483,
-        1483
+        1483,
+        1484
       ],
       "runs": [
         3,
         3,
         3,
         1,
+        1,
         1
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -61,19 +65,19 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 3,
+    "days_tracked": 4,
     "total_growth": {
-      "views": 5,
+      "views": 6,
       "runs": -2,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 1.67,
-      "runs": -0.67,
+      "views": 1.5,
+      "runs": -0.5,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 0.34,
+      "views": 0.41,
       "runs": -66.67,
       "saves": 0
     }
@@ -91,8 +95,8 @@
     "category": "AI Agent",
     "category_agent_count": 199,
     "vs_average": {
-      "views": 108.2,
-      "runs": -98.3,
+      "views": 108.3,
+      "runs": -98.4,
       "saves": 0
     }
   },

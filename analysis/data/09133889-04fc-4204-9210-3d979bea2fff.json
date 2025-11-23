@@ -1,6 +1,6 @@
 {
   "agent_id": "09133889-04fc-4204-9210-3d979bea2fff",
-  "generated_at": "2025-11-23T06:01:04.928035",
+  "generated_at": "2025-11-23T11:55:45.212765",
   "basic_info": {
     "title": "Grid Protrait for Instagram",
     "author": "Zane29222",
@@ -14,43 +14,47 @@
     "days_since_published": 43
   },
   "performance_metrics": {
-    "views": 117,
+    "views": 118,
     "runs": 1,
     "saves": 0,
     "days_tracked": 43,
     "price": 50.0,
     "engagement_rate": 0.85,
     "avg_runs_per_day": 0.02,
-    "avg_views_per_day": 2.72
+    "avg_views_per_day": 2.74
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 5,
+    "data_points": 6,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T14:00:32.439099",
+    "last_recorded": "2025-11-23T19:55:14.744404",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
         "2025-11-19T16:22:32.765134",
         "2025-11-21T14:09:56.591648",
         "2025-11-23T13:27:48.290198",
-        "2025-11-23T14:00:32.439099"
+        "2025-11-23T14:00:32.439099",
+        "2025-11-23T19:55:14.744404"
       ],
       "views": [
         106,
         106,
         111,
         117,
-        117
+        117,
+        118
       ],
       "runs": [
         3,
         3,
         4,
         1,
+        1,
         1
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -61,19 +65,19 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 3,
+    "days_tracked": 4,
     "total_growth": {
-      "views": 11,
+      "views": 12,
       "runs": -2,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 3.67,
-      "runs": -0.67,
+      "views": 3.0,
+      "runs": -0.5,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 10.38,
+      "views": 11.32,
       "runs": -66.67,
       "saves": 0
     }
@@ -91,8 +95,8 @@
     "category": "AI Agent",
     "category_agent_count": 199,
     "vs_average": {
-      "views": -83.6,
-      "runs": -98.3,
+      "views": -83.4,
+      "runs": -98.4,
       "saves": 0
     }
   },
@@ -100,7 +104,7 @@
     {
       "type": "warning",
       "title": "Low Engagement Rate",
-      "description": "The engagement rate is 0.9%, which may indicate the agent description or value proposition could be improved."
+      "description": "The engagement rate is 0.8%, which may indicate the agent description or value proposition could be improved."
     }
   ]
 }

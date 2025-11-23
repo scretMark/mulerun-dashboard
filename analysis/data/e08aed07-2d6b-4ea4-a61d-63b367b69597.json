@@ -1,6 +1,6 @@
 {
   "agent_id": "e08aed07-2d6b-4ea4-a61d-63b367b69597",
-  "generated_at": "2025-11-23T06:01:05.302827",
+  "generated_at": "2025-11-23T11:55:45.534172",
   "basic_info": {
     "title": "Winter Cinema",
     "author": "luckyy",
@@ -14,34 +14,38 @@
     "days_since_published": 2
   },
   "performance_metrics": {
-    "views": 39,
+    "views": 40,
     "runs": 49,
     "saves": 0,
     "days_tracked": 2,
     "price": 23.0,
-    "engagement_rate": 125.64,
+    "engagement_rate": 122.5,
     "avg_runs_per_day": 24.5,
-    "avg_views_per_day": 19.5
+    "avg_views_per_day": 20.0
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 2,
+    "data_points": 3,
     "first_recorded": "2025-11-23T13:27:48.290198",
-    "last_recorded": "2025-11-23T14:00:32.439099",
+    "last_recorded": "2025-11-23T19:55:14.744404",
     "time_series": {
       "dates": [
         "2025-11-23T13:27:48.290198",
-        "2025-11-23T14:00:32.439099"
+        "2025-11-23T14:00:32.439099",
+        "2025-11-23T19:55:14.744404"
       ],
       "views": [
         39,
-        39
+        39,
+        40
       ],
       "runs": [
+        49,
         49,
         49
       ],
       "saves": [
+        0,
         0,
         0
       ]
@@ -51,17 +55,17 @@
     "has_data": true,
     "days_tracked": 1,
     "total_growth": {
-      "views": 0,
+      "views": 1,
       "runs": 0,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 0.0,
+      "views": 1.0,
       "runs": 0.0,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 0.0,
+      "views": 2.56,
       "runs": 0.0,
       "saves": 0
     }
@@ -79,15 +83,15 @@
   },
   "market_position": {
     "total_active_agents": 199,
-    "views_rank": 194,
+    "views_rank": 193,
     "runs_rank": 28,
-    "views_percentile": 2.5,
+    "views_percentile": 3.0,
     "runs_percentile": 85.9,
     "category": "AI Agent",
     "category_agent_count": 199,
     "vs_average": {
-      "views": -94.5,
-      "runs": -14.6,
+      "views": -94.4,
+      "runs": -20.0,
       "saves": 0
     }
   },
@@ -95,7 +99,7 @@
     {
       "type": "positive",
       "title": "High Engagement Rate",
-      "description": "This agent has an excellent 125.6% engagement rate (runs/views), significantly above average."
+      "description": "This agent has an excellent 122.5% engagement rate (runs/views), significantly above average."
     },
     {
       "type": "info",

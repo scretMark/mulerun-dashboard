@@ -1,6 +1,6 @@
 {
   "agent_id": "311be0d7-cd68-4fa7-99bc-232e535ebb39",
-  "generated_at": "2025-11-23T06:01:03.016482",
+  "generated_at": "2025-11-23T11:55:43.249830",
   "basic_info": {
     "title": "3D Desk Figure Creation",
     "author": "laughing_code",
@@ -14,20 +14,20 @@
     "days_since_published": 81
   },
   "performance_metrics": {
-    "views": 11340,
-    "runs": 1016,
+    "views": 11354,
+    "runs": 1068,
     "saves": 0,
     "days_tracked": 81,
     "price": 50.0,
-    "engagement_rate": 8.96,
-    "avg_runs_per_day": 12.54,
-    "avg_views_per_day": 140.0
+    "engagement_rate": 9.41,
+    "avg_runs_per_day": 13.19,
+    "avg_views_per_day": 140.17
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 6,
+    "data_points": 7,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-11-23T14:00:32.439099",
+    "last_recorded": "2025-11-23T19:55:14.744404",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -35,7 +35,8 @@
         "2025-11-19T16:22:32.765134",
         "2025-11-21T14:09:56.591648",
         "2025-11-23T13:27:48.290198",
-        "2025-11-23T14:00:32.439099"
+        "2025-11-23T14:00:32.439099",
+        "2025-11-23T19:55:14.744404"
       ],
       "views": [
         11183,
@@ -43,7 +44,8 @@
         11222,
         11275,
         11340,
-        11340
+        11340,
+        11354
       ],
       "runs": [
         143,
@@ -51,9 +53,11 @@
         181,
         680,
         1016,
-        1016
+        1016,
+        1068
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -65,20 +69,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 4,
+    "days_tracked": 5,
     "total_growth": {
-      "views": 157,
-      "runs": 873,
+      "views": 171,
+      "runs": 925,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 39.25,
-      "runs": 218.25,
+      "views": 34.2,
+      "runs": 185.0,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 1.4,
-      "runs": 610.49,
+      "views": 1.53,
+      "runs": 646.85,
       "saves": 0
     }
   },
@@ -95,8 +99,8 @@
     "category": "AI Agent",
     "category_agent_count": 199,
     "vs_average": {
-      "views": 1492.3,
-      "runs": 1669.8,
+      "views": 1493.5,
+      "runs": 1643.5,
       "saves": 0
     }
   },
@@ -104,7 +108,7 @@
     {
       "type": "positive",
       "title": "Active User Base",
-      "description": "Runs increased by 873, indicating growing adoption and active usage."
+      "description": "Runs increased by 925, indicating growing adoption and active usage."
     },
     {
       "type": "positive",
@@ -114,7 +118,7 @@
     {
       "type": "info",
       "title": "Paid Agent with Strong Usage",
-      "description": "Despite being priced at $50.0, this agent averages 12.5 runs per day."
+      "description": "Despite being priced at $50.0, this agent averages 13.2 runs per day."
     }
   ]
 }

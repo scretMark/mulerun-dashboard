@@ -1,6 +1,6 @@
 {
   "agent_id": "8cbc569d-cd48-4162-91f4-8689474c4320",
-  "generated_at": "2025-11-23T06:01:04.894215",
+  "generated_at": "2025-11-23T11:55:45.183357",
   "basic_info": {
     "title": "PDF 3D Flipbook",
     "author": "summerail",
@@ -25,21 +25,23 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 5,
+    "data_points": 6,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T14:00:32.439099",
+    "last_recorded": "2025-11-23T19:55:14.744404",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
         "2025-11-19T16:22:32.765134",
         "2025-11-21T14:09:56.591648",
         "2025-11-23T13:27:48.290198",
-        "2025-11-23T14:00:32.439099"
+        "2025-11-23T14:00:32.439099",
+        "2025-11-23T19:55:14.744404"
       ],
       "views": [
         129,
         129,
         133,
+        135,
         135,
         135
       ],
@@ -48,9 +50,11 @@
         6,
         8,
         9,
+        9,
         9
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -61,15 +65,15 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 3,
+    "days_tracked": 4,
     "total_growth": {
       "views": 6,
       "runs": 3,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 2.0,
-      "runs": 1.0,
+      "views": 1.5,
+      "runs": 0.75,
       "saves": 0.0
     },
     "percentage_growth": {
@@ -91,8 +95,8 @@
     "category": "AI Agent",
     "category_agent_count": 199,
     "vs_average": {
-      "views": -81.0,
-      "runs": -84.3,
+      "views": -81.1,
+      "runs": -85.3,
       "saves": 0
     }
   },

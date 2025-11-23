@@ -1,6 +1,6 @@
 {
   "agent_id": "6daddca4-ff6f-4e6e-8b50-c38ea9c93c8b",
-  "generated_at": "2025-11-23T06:01:04.718198",
+  "generated_at": "2025-11-23T11:55:44.990659",
   "basic_info": {
     "title": "Movie Poster Design",
     "author": "summerail",
@@ -25,21 +25,23 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 5,
+    "data_points": 6,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T14:00:32.439099",
+    "last_recorded": "2025-11-23T19:55:14.744404",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
         "2025-11-19T16:22:32.765134",
         "2025-11-21T14:09:56.591648",
         "2025-11-23T13:27:48.290198",
-        "2025-11-23T14:00:32.439099"
+        "2025-11-23T14:00:32.439099",
+        "2025-11-23T19:55:14.744404"
       ],
       "views": [
         146,
         146,
         160,
+        163,
         163,
         163
       ],
@@ -48,9 +50,11 @@
         0,
         5,
         5,
+        5,
         5
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -61,15 +65,15 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 3,
+    "days_tracked": 4,
     "total_growth": {
       "views": 17,
       "runs": 5,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 5.67,
-      "runs": 1.67,
+      "views": 4.25,
+      "runs": 1.25,
       "saves": 0.0
     },
     "percentage_growth": {
@@ -92,7 +96,7 @@
     "category_agent_count": 199,
     "vs_average": {
       "views": -77.1,
-      "runs": -91.3,
+      "runs": -91.8,
       "saves": 0
     }
   },

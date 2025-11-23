@@ -1,6 +1,6 @@
 {
   "agent_id": "ebfa13e8-659d-4756-9a62-fe1a304def3d",
-  "generated_at": "2025-11-23T06:01:04.707974",
+  "generated_at": "2025-11-23T11:55:44.967095",
   "basic_info": {
     "title": "AI Avatars",
     "author": "PicCopilot",
@@ -15,31 +15,33 @@
   },
   "performance_metrics": {
     "views": 163,
-    "runs": 509,
+    "runs": 559,
     "saves": 0,
     "days_tracked": 11,
     "price": 0.0,
-    "engagement_rate": 312.27,
-    "avg_runs_per_day": 46.27,
+    "engagement_rate": 342.94,
+    "avg_runs_per_day": 50.82,
     "avg_views_per_day": 14.82
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 5,
+    "data_points": 6,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T14:00:32.439099",
+    "last_recorded": "2025-11-23T19:55:14.744404",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
         "2025-11-19T16:22:32.765134",
         "2025-11-21T14:09:56.591648",
         "2025-11-23T13:27:48.290198",
-        "2025-11-23T14:00:32.439099"
+        "2025-11-23T14:00:32.439099",
+        "2025-11-23T19:55:14.744404"
       ],
       "views": [
         150,
         151,
         161,
+        163,
         163,
         163
       ],
@@ -48,9 +50,11 @@
         57,
         323,
         509,
-        509
+        509,
+        559
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -61,20 +65,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 3,
+    "days_tracked": 4,
     "total_growth": {
       "views": 13,
-      "runs": 453,
+      "runs": 503,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 4.33,
-      "runs": 151.0,
+      "views": 3.25,
+      "runs": 125.75,
       "saves": 0.0
     },
     "percentage_growth": {
       "views": 8.67,
-      "runs": 808.93,
+      "runs": 898.21,
       "saves": 0
     }
   },
@@ -85,14 +89,14 @@
   "market_position": {
     "total_active_agents": 199,
     "views_rank": 140,
-    "runs_rank": 12,
+    "runs_rank": 11,
     "views_percentile": 29.6,
-    "runs_percentile": 94.0,
+    "runs_percentile": 94.5,
     "category": "AI Agent",
     "category_agent_count": 199,
     "vs_average": {
       "views": -77.1,
-      "runs": 786.7,
+      "runs": 812.6,
       "saves": 0
     }
   },
@@ -100,12 +104,12 @@
     {
       "type": "positive",
       "title": "High Engagement Rate",
-      "description": "This agent has an excellent 312.3% engagement rate (runs/views), significantly above average."
+      "description": "This agent has an excellent 342.9% engagement rate (runs/views), significantly above average."
     },
     {
       "type": "positive",
       "title": "Active User Base",
-      "description": "Runs increased by 453, indicating growing adoption and active usage."
+      "description": "Runs increased by 503, indicating growing adoption and active usage."
     }
   ]
 }

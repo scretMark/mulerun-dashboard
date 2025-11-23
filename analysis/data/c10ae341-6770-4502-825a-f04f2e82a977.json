@@ -1,6 +1,6 @@
 {
   "agent_id": "c10ae341-6770-4502-825a-f04f2e82a977",
-  "generated_at": "2025-11-23T06:01:04.080552",
+  "generated_at": "2025-11-23T11:55:44.315066",
   "basic_info": {
     "title": "Ghibili Image Generator",
     "author": "Darren",
@@ -25,21 +25,23 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 5,
+    "data_points": 6,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T14:00:32.439099",
+    "last_recorded": "2025-11-23T19:55:14.744404",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
         "2025-11-19T16:22:32.765134",
         "2025-11-21T14:09:56.591648",
         "2025-11-23T13:27:48.290198",
-        "2025-11-23T14:00:32.439099"
+        "2025-11-23T14:00:32.439099",
+        "2025-11-23T19:55:14.744404"
       ],
       "views": [
         362,
         362,
         363,
+        364,
         364,
         364
       ],
@@ -48,9 +50,11 @@
         2,
         1,
         1,
+        1,
         1
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -61,15 +65,15 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 3,
+    "days_tracked": 4,
     "total_growth": {
       "views": 2,
       "runs": -1,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 0.67,
-      "runs": -0.33,
+      "views": 0.5,
+      "runs": -0.25,
       "saves": 0.0
     },
     "percentage_growth": {
@@ -92,7 +96,7 @@
     "category_agent_count": 199,
     "vs_average": {
       "views": -48.9,
-      "runs": -98.3,
+      "runs": -98.4,
       "saves": 0
     }
   },

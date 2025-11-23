@@ -1,6 +1,6 @@
 {
   "agent_id": "c3d718a1-2ae0-4f63-a4b3-d0a9f7f241d4",
-  "generated_at": "2025-11-23T06:01:05.225476",
+  "generated_at": "2025-11-23T11:55:45.465439",
   "basic_info": {
     "title": "Core Burst",
     "author": "Excel",
@@ -11,39 +11,42 @@
     "published_at": "2025-10-11T10:30:07.114000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Excel/core-burst",
-    "days_since_published": 42
+    "days_since_published": 43
   },
   "performance_metrics": {
     "views": 72,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 42,
+    "days_tracked": 43,
     "price": 50.0,
     "engagement_rate": 0.0,
     "avg_runs_per_day": 0.0,
-    "avg_views_per_day": 1.71
+    "avg_views_per_day": 1.67
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 5,
+    "data_points": 6,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T14:00:32.439099",
+    "last_recorded": "2025-11-23T19:55:14.744404",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
         "2025-11-19T16:22:32.765134",
         "2025-11-21T14:09:56.591648",
         "2025-11-23T13:27:48.290198",
-        "2025-11-23T14:00:32.439099"
+        "2025-11-23T14:00:32.439099",
+        "2025-11-23T19:55:14.744404"
       ],
       "views": [
         69,
         69,
         71,
         72,
+        72,
         72
       ],
       "runs": [
+        0,
         0,
         0,
         0,
@@ -55,20 +58,21 @@
         0,
         0,
         0,
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 3,
+    "days_tracked": 4,
     "total_growth": {
       "views": 3,
       "runs": 0,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 1.0,
+      "views": 0.75,
       "runs": 0.0,
       "saves": 0.0
     },

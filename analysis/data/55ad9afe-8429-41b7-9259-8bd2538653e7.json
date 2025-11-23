@@ -1,6 +1,6 @@
 {
   "agent_id": "55ad9afe-8429-41b7-9259-8bd2538653e7",
-  "generated_at": "2025-11-23T06:01:03.398590",
+  "generated_at": "2025-11-23T11:55:43.619825",
   "basic_info": {
     "title": "LinkMatch: Smart Job Matcher",
     "author": "YuTou_baby",
@@ -14,43 +14,47 @@
     "days_since_published": 93
   },
   "performance_metrics": {
-    "views": 1233,
-    "runs": 2,
+    "views": 1234,
+    "runs": 3,
     "saves": 0,
     "days_tracked": 93,
     "price": 8.0,
-    "engagement_rate": 0.16,
-    "avg_runs_per_day": 0.02,
-    "avg_views_per_day": 13.26
+    "engagement_rate": 0.24,
+    "avg_runs_per_day": 0.03,
+    "avg_views_per_day": 13.27
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 5,
+    "data_points": 6,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T14:00:32.439099",
+    "last_recorded": "2025-11-23T19:55:14.744404",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
         "2025-11-19T16:22:32.765134",
         "2025-11-21T14:09:56.591648",
         "2025-11-23T13:27:48.290198",
-        "2025-11-23T14:00:32.439099"
+        "2025-11-23T14:00:32.439099",
+        "2025-11-23T19:55:14.744404"
       ],
       "views": [
         1228,
         1228,
         1230,
         1233,
-        1233
+        1233,
+        1234
       ],
       "runs": [
         2,
         2,
         2,
         2,
-        2
+        2,
+        3
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -61,20 +65,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 3,
+    "days_tracked": 4,
     "total_growth": {
-      "views": 5,
-      "runs": 0,
+      "views": 6,
+      "runs": 1,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 1.67,
-      "runs": 0.0,
+      "views": 1.5,
+      "runs": 0.25,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 0.41,
-      "runs": 0.0,
+      "views": 0.49,
+      "runs": 50.0,
       "saves": 0
     }
   },
@@ -85,14 +89,14 @@
   "market_position": {
     "total_active_agents": 199,
     "views_rank": 28,
-    "runs_rank": 88,
+    "runs_rank": 76,
     "views_percentile": 85.9,
-    "runs_percentile": 55.8,
+    "runs_percentile": 61.8,
     "category": "AI Agent",
     "category_agent_count": 199,
     "vs_average": {
-      "views": 73.1,
-      "runs": -96.5,
+      "views": 73.2,
+      "runs": -95.1,
       "saves": 0
     }
   },

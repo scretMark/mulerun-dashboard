@@ -1,6 +1,6 @@
 {
   "agent_id": "cd5a3a94-d4a8-4871-b3bf-c030e80f4f69",
-  "generated_at": "2025-11-23T06:01:04.667348",
+  "generated_at": "2025-11-23T11:55:44.918238",
   "basic_info": {
     "title": "Chiikawa In 9-Grid",
     "author": "dotb78",
@@ -11,39 +11,42 @@
     "published_at": "2025-10-04T11:38:48.535000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@dotb78/chiikawa-in-9-grid",
-    "days_since_published": 49
+    "days_since_published": 50
   },
   "performance_metrics": {
     "views": 176,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 49,
+    "days_tracked": 50,
     "price": 45.0,
     "engagement_rate": 0.0,
     "avg_runs_per_day": 0.0,
-    "avg_views_per_day": 3.59
+    "avg_views_per_day": 3.52
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 5,
+    "data_points": 6,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T14:00:32.439099",
+    "last_recorded": "2025-11-23T19:55:14.744404",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
         "2025-11-19T16:22:32.765134",
         "2025-11-21T14:09:56.591648",
         "2025-11-23T13:27:48.290198",
-        "2025-11-23T14:00:32.439099"
+        "2025-11-23T14:00:32.439099",
+        "2025-11-23T19:55:14.744404"
       ],
       "views": [
         174,
         174,
         175,
         176,
+        176,
         176
       ],
       "runs": [
+        0,
         0,
         0,
         0,
@@ -55,20 +58,21 @@
         0,
         0,
         0,
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 3,
+    "days_tracked": 4,
     "total_growth": {
       "views": 2,
       "runs": 0,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 0.67,
+      "views": 0.5,
       "runs": 0.0,
       "saves": 0.0
     },

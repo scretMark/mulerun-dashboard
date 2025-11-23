@@ -1,6 +1,6 @@
 {
   "agent_id": "e3f4d21e-15a3-4e46-b199-24b8d5b4aedc",
-  "generated_at": "2025-11-23T06:01:03.203081",
+  "generated_at": "2025-11-23T11:55:43.441622",
   "basic_info": {
     "title": "CookChina AI",
     "author": "Chelestebbb0829",
@@ -25,25 +25,28 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 5,
+    "data_points": 6,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T14:00:32.439099",
+    "last_recorded": "2025-11-23T19:55:14.744404",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
         "2025-11-19T16:22:32.765134",
         "2025-11-21T14:09:56.591648",
         "2025-11-23T13:27:48.290198",
-        "2025-11-23T14:00:32.439099"
+        "2025-11-23T14:00:32.439099",
+        "2025-11-23T19:55:14.744404"
       ],
       "views": [
         2027,
         2027,
         2032,
         2037,
+        2037,
         2037
       ],
       "runs": [
+        2,
         2,
         2,
         2,
@@ -55,20 +58,21 @@
         0,
         0,
         0,
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 3,
+    "days_tracked": 4,
     "total_growth": {
       "views": 10,
       "runs": 0,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 3.33,
+      "views": 2.5,
       "runs": 0.0,
       "saves": 0.0
     },
@@ -85,14 +89,14 @@
   "market_position": {
     "total_active_agents": 199,
     "views_rank": 13,
-    "runs_rank": 88,
+    "runs_rank": 89,
     "views_percentile": 93.5,
-    "runs_percentile": 55.8,
+    "runs_percentile": 55.3,
     "category": "AI Agent",
     "category_agent_count": 199,
     "vs_average": {
-      "views": 186.0,
-      "runs": -96.5,
+      "views": 185.9,
+      "runs": -96.7,
       "saves": 0
     }
   },
