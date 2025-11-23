@@ -1,0 +1,106 @@
+{
+  "agent_id": "69f8c0b4-a4e4-499a-854a-0b47b2b50a12",
+  "generated_at": "2025-11-23T06:01:05.271069",
+  "basic_info": {
+    "title": "ShadowShift",
+    "author": "luckyy",
+    "description": "<!-- THIS IS A SAMPLE. PLEASE EDIT YOUR AGENT DESCRIPTION. --The core objective of this Agent is to utilize advanced AI image generation technology to convert the personal photos uploaded by users int...",
+    "short_description": "Converts photos into realistic themed Halloween costume images.",
+    "category": "AI Agent",
+    "is_active": true,
+    "published_at": "2025-11-20T19:16:57.498000",
+    "last_seen": null,
+    "profile_url": "https://mulerun.com/workspace/@luckyy/shadowshift",
+    "days_since_published": 2
+  },
+  "performance_metrics": {
+    "views": 47,
+    "runs": 105,
+    "saves": 0,
+    "days_tracked": 2,
+    "price": 23.0,
+    "engagement_rate": 223.4,
+    "avg_runs_per_day": 52.5,
+    "avg_views_per_day": 23.5
+  },
+  "historical_trends": {
+    "has_data": true,
+    "data_points": 2,
+    "first_recorded": "2025-11-23T13:27:48.290198",
+    "last_recorded": "2025-11-23T14:00:32.439099",
+    "time_series": {
+      "dates": [
+        "2025-11-23T13:27:48.290198",
+        "2025-11-23T14:00:32.439099"
+      ],
+      "views": [
+        47,
+        47
+      ],
+      "runs": [
+        105,
+        105
+      ],
+      "saves": [
+        0,
+        0
+      ]
+    }
+  },
+  "growth_analysis": {
+    "has_data": true,
+    "days_tracked": 1,
+    "total_growth": {
+      "views": 0,
+      "runs": 0,
+      "saves": 0
+    },
+    "daily_average_growth": {
+      "views": 0.0,
+      "runs": 0.0,
+      "saves": 0.0
+    },
+    "percentage_growth": {
+      "views": 0.0,
+      "runs": 0.0,
+      "saves": 0
+    }
+  },
+  "change_history": {
+    "total_changes": 1,
+    "changes": [
+      {
+        "date": "2025-11-23T05:27:49.231908",
+        "type": "new",
+        "description": "New agent published: ShadowShift",
+        "severity": "medium"
+      }
+    ]
+  },
+  "market_position": {
+    "total_active_agents": 199,
+    "views_rank": 191,
+    "runs_rank": 21,
+    "views_percentile": 4.0,
+    "runs_percentile": 89.4,
+    "category": "AI Agent",
+    "category_agent_count": 199,
+    "vs_average": {
+      "views": -93.4,
+      "runs": 82.9,
+      "saves": 0
+    }
+  },
+  "insights": [
+    {
+      "type": "positive",
+      "title": "High Engagement Rate",
+      "description": "This agent has an excellent 223.4% engagement rate (runs/views), significantly above average."
+    },
+    {
+      "type": "info",
+      "title": "Paid Agent with Strong Usage",
+      "description": "Despite being priced at $23.0, this agent averages 52.5 runs per day."
+    }
+  ]
+}

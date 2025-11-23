@@ -1,0 +1,106 @@
+{
+  "agent_id": "ad2f3a98-69db-4d48-9e9e-668e61cd95c9",
+  "generated_at": "2025-11-23T06:01:04.366356",
+  "basic_info": {
+    "title": "Vanisho",
+    "author": "Vans",
+    "description": "Vanisho is an AI-powered magician assistant designed to help performers and enthusiasts create, practice, and execute mind-blowing magic tricks. From vanish techniques to sleight-of-hand tutorials, Va...",
+    "short_description": "Provides step-by-step guidance for magic tricks and routines.",
+    "category": "AI Agent",
+    "is_active": true,
+    "published_at": "2025-10-10T21:09:48.984000",
+    "last_seen": null,
+    "profile_url": "https://mulerun.com/workspace/@Vans/vanisho",
+    "days_since_published": 43
+  },
+  "performance_metrics": {
+    "views": 234,
+    "runs": 0,
+    "saves": 0,
+    "days_tracked": 43,
+    "price": 50.0,
+    "engagement_rate": 0.0,
+    "avg_runs_per_day": 0.0,
+    "avg_views_per_day": 5.44
+  },
+  "historical_trends": {
+    "has_data": true,
+    "data_points": 5,
+    "first_recorded": "2025-11-19T15:39:36.345282",
+    "last_recorded": "2025-11-23T14:00:32.439099",
+    "time_series": {
+      "dates": [
+        "2025-11-19T15:39:36.345282",
+        "2025-11-19T16:22:32.765134",
+        "2025-11-21T14:09:56.591648",
+        "2025-11-23T13:27:48.290198",
+        "2025-11-23T14:00:32.439099"
+      ],
+      "views": [
+        232,
+        232,
+        233,
+        234,
+        234
+      ],
+      "runs": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "saves": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "growth_analysis": {
+    "has_data": true,
+    "days_tracked": 3,
+    "total_growth": {
+      "views": 2,
+      "runs": 0,
+      "saves": 0
+    },
+    "daily_average_growth": {
+      "views": 0.67,
+      "runs": 0.0,
+      "saves": 0.0
+    },
+    "percentage_growth": {
+      "views": 0.86,
+      "runs": 0,
+      "saves": 0
+    }
+  },
+  "change_history": {
+    "total_changes": 0,
+    "changes": []
+  },
+  "market_position": {
+    "total_active_agents": 199,
+    "views_rank": 109,
+    "runs_rank": 129,
+    "views_percentile": 45.2,
+    "runs_percentile": 35.2,
+    "category": "AI Agent",
+    "category_agent_count": 199,
+    "vs_average": {
+      "views": -67.1,
+      "runs": -100.0,
+      "saves": 0
+    }
+  },
+  "insights": [
+    {
+      "type": "warning",
+      "title": "Low Engagement Rate",
+      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
+    }
+  ]
+}

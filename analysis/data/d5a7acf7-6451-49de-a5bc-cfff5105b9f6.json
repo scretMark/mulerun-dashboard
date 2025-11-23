@@ -1,0 +1,106 @@
+{
+  "agent_id": "d5a7acf7-6451-49de-a5bc-cfff5105b9f6",
+  "generated_at": "2025-11-23T06:01:04.002762",
+  "basic_info": {
+    "title": "Caption AI",
+    "author": "yrmrazvdd2108ay",
+    "description": "The Social Media Caption Generator AI Agent is a smart automation built on n8n that creates engaging and platform-ready captions from either an uploaded photo or a short text prompt. Powered by Gemini...",
+    "short_description": "Generate high-conversion titles and captions for social posts.",
+    "category": "AI Agent",
+    "is_active": true,
+    "published_at": "2025-10-02T23:39:33.373000",
+    "last_seen": null,
+    "profile_url": "https://mulerun.com/workspace/@yrmrazvdd2108ay/caption-ai",
+    "days_since_published": 51
+  },
+  "performance_metrics": {
+    "views": 403,
+    "runs": 3,
+    "saves": 0,
+    "days_tracked": 51,
+    "price": 9.0,
+    "engagement_rate": 0.74,
+    "avg_runs_per_day": 0.06,
+    "avg_views_per_day": 7.9
+  },
+  "historical_trends": {
+    "has_data": true,
+    "data_points": 5,
+    "first_recorded": "2025-11-19T15:39:36.345282",
+    "last_recorded": "2025-11-23T14:00:32.439099",
+    "time_series": {
+      "dates": [
+        "2025-11-19T15:39:36.345282",
+        "2025-11-19T16:22:32.765134",
+        "2025-11-21T14:09:56.591648",
+        "2025-11-23T13:27:48.290198",
+        "2025-11-23T14:00:32.439099"
+      ],
+      "views": [
+        394,
+        394,
+        401,
+        403,
+        403
+      ],
+      "runs": [
+        5,
+        5,
+        3,
+        3,
+        3
+      ],
+      "saves": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "growth_analysis": {
+    "has_data": true,
+    "days_tracked": 3,
+    "total_growth": {
+      "views": 9,
+      "runs": -2,
+      "saves": 0
+    },
+    "daily_average_growth": {
+      "views": 3.0,
+      "runs": -0.67,
+      "saves": 0.0
+    },
+    "percentage_growth": {
+      "views": 2.28,
+      "runs": -40.0,
+      "saves": 0
+    }
+  },
+  "change_history": {
+    "total_changes": 0,
+    "changes": []
+  },
+  "market_position": {
+    "total_active_agents": 199,
+    "views_rank": 77,
+    "runs_rank": 76,
+    "views_percentile": 61.3,
+    "runs_percentile": 61.8,
+    "category": "AI Agent",
+    "category_agent_count": 199,
+    "vs_average": {
+      "views": -43.4,
+      "runs": -94.8,
+      "saves": 0
+    }
+  },
+  "insights": [
+    {
+      "type": "warning",
+      "title": "Low Engagement Rate",
+      "description": "The engagement rate is 0.7%, which may indicate the agent description or value proposition could be improved."
+    }
+  ]
+}

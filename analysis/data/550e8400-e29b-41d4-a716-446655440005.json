@@ -1,0 +1,111 @@
+{
+  "agent_id": "550e8400-e29b-41d4-a716-446655440005",
+  "generated_at": "2025-11-23T06:01:03.121069",
+  "basic_info": {
+    "title": "Honkai: Star Rail Booster",
+    "author": "Chengbbb0468",
+    "description": "Maximize your daily rewards and collect stellar jades effortlessly.",
+    "short_description": "Automate daily tasks and rewards in Honkai: Star Rail.",
+    "category": "AI Agent",
+    "is_active": true,
+    "published_at": "2025-10-30T17:57:46.597000",
+    "last_seen": null,
+    "profile_url": "https://mulerun.com/workspace/@Chengbbb0468/honkai-star-rail-booster",
+    "days_since_published": 23
+  },
+  "performance_metrics": {
+    "views": 4106,
+    "runs": 25,
+    "saves": 0,
+    "days_tracked": 23,
+    "price": 2.0,
+    "engagement_rate": 0.61,
+    "avg_runs_per_day": 1.09,
+    "avg_views_per_day": 178.52
+  },
+  "historical_trends": {
+    "has_data": true,
+    "data_points": 5,
+    "first_recorded": "2025-11-19T15:39:36.345282",
+    "last_recorded": "2025-11-23T14:00:32.439099",
+    "time_series": {
+      "dates": [
+        "2025-11-19T15:39:36.345282",
+        "2025-11-19T16:22:32.765134",
+        "2025-11-21T14:09:56.591648",
+        "2025-11-23T13:27:48.290198",
+        "2025-11-23T14:00:32.439099"
+      ],
+      "views": [
+        4080,
+        4080,
+        4096,
+        4106,
+        4106
+      ],
+      "runs": [
+        26,
+        26,
+        35,
+        25,
+        25
+      ],
+      "saves": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "growth_analysis": {
+    "has_data": true,
+    "days_tracked": 3,
+    "total_growth": {
+      "views": 26,
+      "runs": -1,
+      "saves": 0
+    },
+    "daily_average_growth": {
+      "views": 8.67,
+      "runs": -0.33,
+      "saves": 0.0
+    },
+    "percentage_growth": {
+      "views": 0.64,
+      "runs": -3.85,
+      "saves": 0
+    }
+  },
+  "change_history": {
+    "total_changes": 0,
+    "changes": []
+  },
+  "market_position": {
+    "total_active_agents": 199,
+    "views_rank": 6,
+    "runs_rank": 36,
+    "views_percentile": 97.0,
+    "runs_percentile": 81.9,
+    "category": "AI Agent",
+    "category_agent_count": 199,
+    "vs_average": {
+      "views": 476.5,
+      "runs": -56.5,
+      "saves": 0
+    }
+  },
+  "insights": [
+    {
+      "type": "warning",
+      "title": "Low Engagement Rate",
+      "description": "The engagement rate is 0.6%, which may indicate the agent description or value proposition could be improved."
+    },
+    {
+      "type": "positive",
+      "title": "Top Performer",
+      "description": "This agent ranks in the top 3% by views, placing it among the most popular agents."
+    }
+  ]
+}

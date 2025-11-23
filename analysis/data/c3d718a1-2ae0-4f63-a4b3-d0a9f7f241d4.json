@@ -1,0 +1,106 @@
+{
+  "agent_id": "c3d718a1-2ae0-4f63-a4b3-d0a9f7f241d4",
+  "generated_at": "2025-11-23T06:01:05.225476",
+  "basic_info": {
+    "title": "Core Burst",
+    "author": "Excel",
+    "description": "Core Burst is a high-dynamic visual generation AI Agent specifically designed for product promotion and brand marketing. It focuses on transforming ordinary product photos into highly dramatic, high-i...",
+    "short_description": "Creates dramatic product ads with explosive ingredient visuals.",
+    "category": "AI Agent",
+    "is_active": true,
+    "published_at": "2025-10-11T10:30:07.114000",
+    "last_seen": null,
+    "profile_url": "https://mulerun.com/workspace/@Excel/core-burst",
+    "days_since_published": 42
+  },
+  "performance_metrics": {
+    "views": 72,
+    "runs": 0,
+    "saves": 0,
+    "days_tracked": 42,
+    "price": 50.0,
+    "engagement_rate": 0.0,
+    "avg_runs_per_day": 0.0,
+    "avg_views_per_day": 1.71
+  },
+  "historical_trends": {
+    "has_data": true,
+    "data_points": 5,
+    "first_recorded": "2025-11-19T15:39:36.345282",
+    "last_recorded": "2025-11-23T14:00:32.439099",
+    "time_series": {
+      "dates": [
+        "2025-11-19T15:39:36.345282",
+        "2025-11-19T16:22:32.765134",
+        "2025-11-21T14:09:56.591648",
+        "2025-11-23T13:27:48.290198",
+        "2025-11-23T14:00:32.439099"
+      ],
+      "views": [
+        69,
+        69,
+        71,
+        72,
+        72
+      ],
+      "runs": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "saves": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "growth_analysis": {
+    "has_data": true,
+    "days_tracked": 3,
+    "total_growth": {
+      "views": 3,
+      "runs": 0,
+      "saves": 0
+    },
+    "daily_average_growth": {
+      "views": 1.0,
+      "runs": 0.0,
+      "saves": 0.0
+    },
+    "percentage_growth": {
+      "views": 4.35,
+      "runs": 0,
+      "saves": 0
+    }
+  },
+  "change_history": {
+    "total_changes": 0,
+    "changes": []
+  },
+  "market_position": {
+    "total_active_agents": 199,
+    "views_rank": 187,
+    "runs_rank": 129,
+    "views_percentile": 6.0,
+    "runs_percentile": 35.2,
+    "category": "AI Agent",
+    "category_agent_count": 199,
+    "vs_average": {
+      "views": -89.9,
+      "runs": -100.0,
+      "saves": 0
+    }
+  },
+  "insights": [
+    {
+      "type": "warning",
+      "title": "Low Engagement Rate",
+      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
+    }
+  ]
+}

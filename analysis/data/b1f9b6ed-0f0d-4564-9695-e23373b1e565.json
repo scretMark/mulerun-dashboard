@@ -1,0 +1,111 @@
+{
+  "agent_id": "b1f9b6ed-0f0d-4564-9695-e23373b1e565",
+  "generated_at": "2025-11-23T06:01:03.386209",
+  "basic_info": {
+    "title": "Pose Grid Generator",
+    "author": "laughing_code",
+    "description": "Create 3x3 AI photo booth grids instantly. Transform one photo into nine unique poses. Free AI photobooth generator for social media ready posts.",
+    "short_description": "Generate a 3x3 photo booth grid with unique poses.",
+    "category": "AI Agent",
+    "is_active": true,
+    "published_at": "2025-09-28T14:14:02.445000",
+    "last_seen": null,
+    "profile_url": "https://mulerun.com/workspace/@laughing_code/pose-grid-generator",
+    "days_since_published": 55
+  },
+  "performance_metrics": {
+    "views": 1274,
+    "runs": 1,
+    "saves": 0,
+    "days_tracked": 55,
+    "price": 50.0,
+    "engagement_rate": 0.08,
+    "avg_runs_per_day": 0.02,
+    "avg_views_per_day": 23.16
+  },
+  "historical_trends": {
+    "has_data": true,
+    "data_points": 5,
+    "first_recorded": "2025-11-19T15:39:36.345282",
+    "last_recorded": "2025-11-23T14:00:32.439099",
+    "time_series": {
+      "dates": [
+        "2025-11-19T15:39:36.345282",
+        "2025-11-19T16:22:32.765134",
+        "2025-11-21T14:09:56.591648",
+        "2025-11-23T13:27:48.290198",
+        "2025-11-23T14:00:32.439099"
+      ],
+      "views": [
+        1269,
+        1269,
+        1272,
+        1274,
+        1274
+      ],
+      "runs": [
+        6,
+        6,
+        1,
+        1,
+        1
+      ],
+      "saves": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "growth_analysis": {
+    "has_data": true,
+    "days_tracked": 3,
+    "total_growth": {
+      "views": 5,
+      "runs": -5,
+      "saves": 0
+    },
+    "daily_average_growth": {
+      "views": 1.67,
+      "runs": -1.67,
+      "saves": 0.0
+    },
+    "percentage_growth": {
+      "views": 0.39,
+      "runs": -83.33,
+      "saves": 0
+    }
+  },
+  "change_history": {
+    "total_changes": 0,
+    "changes": []
+  },
+  "market_position": {
+    "total_active_agents": 199,
+    "views_rank": 27,
+    "runs_rank": 103,
+    "views_percentile": 86.4,
+    "runs_percentile": 48.2,
+    "category": "AI Agent",
+    "category_agent_count": 199,
+    "vs_average": {
+      "views": 78.9,
+      "runs": -98.3,
+      "saves": 0
+    }
+  },
+  "insights": [
+    {
+      "type": "warning",
+      "title": "Low Engagement Rate",
+      "description": "The engagement rate is 0.1%, which may indicate the agent description or value proposition could be improved."
+    },
+    {
+      "type": "positive",
+      "title": "Top Performer",
+      "description": "This agent ranks in the top 14% by views, placing it among the most popular agents."
+    }
+  ]
+}

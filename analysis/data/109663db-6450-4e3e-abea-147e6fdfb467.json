@@ -1,0 +1,111 @@
+{
+  "agent_id": "109663db-6450-4e3e-abea-147e6fdfb467",
+  "generated_at": "2025-11-23T06:01:03.313200",
+  "basic_info": {
+    "title": "Last Will - AI Deduction game",
+    "author": "Losure",
+    "description": "LAST WILL — An AI deduction game where players navigate lies and clues to unmask the killer.",
+    "short_description": "Deduction game: interrogate AI suspects to unmask a killer.",
+    "category": "AI Agent",
+    "is_active": true,
+    "published_at": "2025-10-30T18:03:09.916000",
+    "last_seen": null,
+    "profile_url": "https://mulerun.com/workspace/@Losure/last-will-ai-deduction-game",
+    "days_since_published": 23
+  },
+  "performance_metrics": {
+    "views": 1602,
+    "runs": 1,
+    "saves": 0,
+    "days_tracked": 23,
+    "price": 0.0,
+    "engagement_rate": 0.06,
+    "avg_runs_per_day": 0.04,
+    "avg_views_per_day": 69.65
+  },
+  "historical_trends": {
+    "has_data": true,
+    "data_points": 5,
+    "first_recorded": "2025-11-19T15:39:36.345282",
+    "last_recorded": "2025-11-23T14:00:32.439099",
+    "time_series": {
+      "dates": [
+        "2025-11-19T15:39:36.345282",
+        "2025-11-19T16:22:32.765134",
+        "2025-11-21T14:09:56.591648",
+        "2025-11-23T13:27:48.290198",
+        "2025-11-23T14:00:32.439099"
+      ],
+      "views": [
+        1594,
+        1594,
+        1600,
+        1602,
+        1602
+      ],
+      "runs": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "saves": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "growth_analysis": {
+    "has_data": true,
+    "days_tracked": 3,
+    "total_growth": {
+      "views": 8,
+      "runs": 0,
+      "saves": 0
+    },
+    "daily_average_growth": {
+      "views": 2.67,
+      "runs": 0.0,
+      "saves": 0.0
+    },
+    "percentage_growth": {
+      "views": 0.5,
+      "runs": 0.0,
+      "saves": 0
+    }
+  },
+  "change_history": {
+    "total_changes": 0,
+    "changes": []
+  },
+  "market_position": {
+    "total_active_agents": 199,
+    "views_rank": 22,
+    "runs_rank": 103,
+    "views_percentile": 88.9,
+    "runs_percentile": 48.2,
+    "category": "AI Agent",
+    "category_agent_count": 199,
+    "vs_average": {
+      "views": 124.9,
+      "runs": -98.3,
+      "saves": 0
+    }
+  },
+  "insights": [
+    {
+      "type": "warning",
+      "title": "Low Engagement Rate",
+      "description": "The engagement rate is 0.1%, which may indicate the agent description or value proposition could be improved."
+    },
+    {
+      "type": "positive",
+      "title": "Top Performer",
+      "description": "This agent ranks in the top 11% by views, placing it among the most popular agents."
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "agent_id": "3079e928-f57b-462a-94f8-a041b78534dd",
+  "generated_at": "2025-11-23T06:01:03.538640",
+  "basic_info": {
+    "title": "Mindmap Generator",
+    "author": "AngryBerry",
+    "description": "Effortlessly create and export mind maps in FreeMind format.\nStruggling to organize your complex ideas? Need a quick way to visualize your thoughts without the manual effort of building a mind map fro...",
+    "short_description": "Generates exportable mind maps from uploaded text files.",
+    "category": "AI Agent",
+    "is_active": true,
+    "published_at": "2025-10-29T16:06:11.635000",
+    "last_seen": null,
+    "profile_url": "https://mulerun.com/workspace/@AngryBerry/mindmap-generator",
+    "days_since_published": 24
+  },
+  "performance_metrics": {
+    "views": 902,
+    "runs": 7,
+    "saves": 0,
+    "days_tracked": 24,
+    "price": 50.0,
+    "engagement_rate": 0.78,
+    "avg_runs_per_day": 0.29,
+    "avg_views_per_day": 37.58
+  },
+  "historical_trends": {
+    "has_data": true,
+    "data_points": 5,
+    "first_recorded": "2025-11-19T15:39:36.345282",
+    "last_recorded": "2025-11-23T14:00:32.439099",
+    "time_series": {
+      "dates": [
+        "2025-11-19T15:39:36.345282",
+        "2025-11-19T16:22:32.765134",
+        "2025-11-21T14:09:56.591648",
+        "2025-11-23T13:27:48.290198",
+        "2025-11-23T14:00:32.439099"
+      ],
+      "views": [
+        850,
+        851,
+        884,
+        902,
+        902
+      ],
+      "runs": [
+        10,
+        10,
+        2,
+        7,
+        7
+      ],
+      "saves": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "growth_analysis": {
+    "has_data": true,
+    "days_tracked": 3,
+    "total_growth": {
+      "views": 52,
+      "runs": -3,
+      "saves": 0
+    },
+    "daily_average_growth": {
+      "views": 17.33,
+      "runs": -1.0,
+      "saves": 0.0
+    },
+    "percentage_growth": {
+      "views": 6.12,
+      "runs": -30.0,
+      "saves": 0
+    }
+  },
+  "change_history": {
+    "total_changes": 0,
+    "changes": []
+  },
+  "market_position": {
+    "total_active_agents": 199,
+    "views_rank": 39,
+    "runs_rank": 53,
+    "views_percentile": 80.4,
+    "runs_percentile": 73.4,
+    "category": "AI Agent",
+    "category_agent_count": 199,
+    "vs_average": {
+      "views": 26.7,
+      "runs": -87.8,
+      "saves": 0
+    }
+  },
+  "insights": [
+    {
+      "type": "warning",
+      "title": "Low Engagement Rate",
+      "description": "The engagement rate is 0.8%, which may indicate the agent description or value proposition could be improved."
+    },
+    {
+      "type": "positive",
+      "title": "Top Performer",
+      "description": "This agent ranks in the top 20% by views, placing it among the most popular agents."
+    }
+  ]
+}

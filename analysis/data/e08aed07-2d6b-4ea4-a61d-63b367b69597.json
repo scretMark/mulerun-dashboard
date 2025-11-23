@@ -1,0 +1,106 @@
+{
+  "agent_id": "e08aed07-2d6b-4ea4-a61d-63b367b69597",
+  "generated_at": "2025-11-23T06:01:05.302827",
+  "basic_info": {
+    "title": "Winter Cinema",
+    "author": "luckyy",
+    "description": "<!-- THIS IS A SAMPLE. PLEASE EDIT YOUR AGENT DESCRIPTION. --Upload photos and generate a vertical narrative puzzle of the \"Winter Trilogy\" with a cinematic feel with just one click.\nWinter Cinema is ...",
+    "short_description": "Creates cinematic winter photo triptychs from uploaded photos.",
+    "category": "AI Agent",
+    "is_active": true,
+    "published_at": "2025-11-20T15:43:31.761000",
+    "last_seen": null,
+    "profile_url": "https://mulerun.com/workspace/@luckyy/winter-cinema",
+    "days_since_published": 2
+  },
+  "performance_metrics": {
+    "views": 39,
+    "runs": 49,
+    "saves": 0,
+    "days_tracked": 2,
+    "price": 23.0,
+    "engagement_rate": 125.64,
+    "avg_runs_per_day": 24.5,
+    "avg_views_per_day": 19.5
+  },
+  "historical_trends": {
+    "has_data": true,
+    "data_points": 2,
+    "first_recorded": "2025-11-23T13:27:48.290198",
+    "last_recorded": "2025-11-23T14:00:32.439099",
+    "time_series": {
+      "dates": [
+        "2025-11-23T13:27:48.290198",
+        "2025-11-23T14:00:32.439099"
+      ],
+      "views": [
+        39,
+        39
+      ],
+      "runs": [
+        49,
+        49
+      ],
+      "saves": [
+        0,
+        0
+      ]
+    }
+  },
+  "growth_analysis": {
+    "has_data": true,
+    "days_tracked": 1,
+    "total_growth": {
+      "views": 0,
+      "runs": 0,
+      "saves": 0
+    },
+    "daily_average_growth": {
+      "views": 0.0,
+      "runs": 0.0,
+      "saves": 0.0
+    },
+    "percentage_growth": {
+      "views": 0.0,
+      "runs": 0.0,
+      "saves": 0
+    }
+  },
+  "change_history": {
+    "total_changes": 1,
+    "changes": [
+      {
+        "date": "2025-11-23T05:27:49.231908",
+        "type": "new",
+        "description": "New agent published: Winter Cinema",
+        "severity": "medium"
+      }
+    ]
+  },
+  "market_position": {
+    "total_active_agents": 199,
+    "views_rank": 194,
+    "runs_rank": 28,
+    "views_percentile": 2.5,
+    "runs_percentile": 85.9,
+    "category": "AI Agent",
+    "category_agent_count": 199,
+    "vs_average": {
+      "views": -94.5,
+      "runs": -14.6,
+      "saves": 0
+    }
+  },
+  "insights": [
+    {
+      "type": "positive",
+      "title": "High Engagement Rate",
+      "description": "This agent has an excellent 125.6% engagement rate (runs/views), significantly above average."
+    },
+    {
+      "type": "info",
+      "title": "Paid Agent with Strong Usage",
+      "description": "Despite being priced at $23.0, this agent averages 24.5 runs per day."
+    }
+  ]
+}

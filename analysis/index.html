@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agent Analysis | MuleRun</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        :root {
+            --primary: #6366f1; /* Indigo 500 */
+            --primary-dark: #4f46e5; /* Indigo 600 */
+            --primary-light: #818cf8; /* Indigo 400 */
+            --secondary: #64748b; /* Slate 500 */
+            --success: #10b981; /* Emerald 500 */
+            --danger: #ef4444; /* Red 500 */
+            --warning: #f59e0b; /* Amber 500 */
+            --background: #f8fafc; /* Slate 50 */
+            --surface: #ffffff;
+            --surface-hover: #f1f5f9; /* Slate 100 */
+            --text-main: #0f172a; /* Slate 900 */
+            --text-muted: #64748b; /* Slate 500 */
+            --border: #e2e8f0; /* Slate 200 */
+            --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+            --shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+            --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+            --radius: 1rem;
+            --header-height: 4rem;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            background-color: var(--background);
+            color: var(--text-main);
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        /* Header */
+        header {
+            margin-bottom: 3rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+        }
+
+        .agent-header {
+            display: flex;
+            gap: 1.5rem;
+            align-items: center;
+        }
+
+        .agent-logo {
+            width: 80px;
+            height: 80px;
+            border-radius: 1rem;
+            object-fit: cover;
+            box-shadow: var(--shadow);
+            background: var(--surface);
+        }
+
+        .agent-info h1 {
+            font-size: 2rem;
+            font-weight: 800;
+            letter-spacing: -0.025em;
+            margin-bottom: 0.25rem;
+        }
+
+        .agent-meta {
+            display: flex;
+            gap: 1rem;
+            color: var(--text-muted);
+            font-size: 0.95rem;
+            align-items: center;
+        }
+
+        .status-badge {
+            background: #dcfce7;
+            color: #166534;
+            padding: 0.25rem 0.75rem;
+            border-radius: 999px;
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .back-link {
+            color: var(--text-muted);
+            text-decoration: none;
+            font-weight: 500;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            transition: color 0.2s;
+        }
+
+        .back-link:hover {
+            color: var(--primary);
+        }
+
+        /* Grid Layout */
+        .grid {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 2rem;
+        }
+
+        @media (max-width: 1024px) {
+            .grid { grid-template-columns: 1fr; }
+        }
+
+        /* Cards */
+        .card {
+            background: var(--surface);
+            border-radius: var(--radius);
+            box-shadow: var(--shadow-sm);
+            border: 1px solid var(--border);
+            padding: 1.5rem;
+            margin-bottom: 2rem;
+        }
+
+        .card h2 {
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin-bottom: 1.5rem;
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+
+        .card h2::before {
+            content: '';
+            display: block;
+            width: 4px;
+            height: 20px;
+            background: var(--primary);
+            border-radius: 2px;
+        }
+
+        /* Metrics */
+        .metrics-row {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+
+        .metric-item {
+            background: var(--surface-hover);
+            padding: 1.25rem;
+            border-radius: 0.75rem;
+            text-align: center;
+        }
+
+        .metric-value {
+            font-size: 1.75rem;
+            font-weight: 700;
+            color: var(--primary);
+            line-height: 1.2;
+        }
+
+        .metric-label {
+            font-size: 0.875rem;
+            color: var(--text-muted);
+            margin-top: 0.25rem;
+        }
+
+        /* Insights */
+        .insight-item {
+            padding: 1rem;
+            border-radius: 0.75rem;
+            margin-bottom: 1rem;
+            border-left: 4px solid transparent;
+        }
+
+        .insight-item.positive {
+            background: #f0fdf4;
+            border-left-color: var(--success);
+        }
+
+        .insight-item.warning {
+            background: #fffbeb;
+            border-left-color: var(--warning);
+        }
+
+        .insight-item.info {
+            background: #eff6ff;
+            border-left-color: var(--primary);
+        }
+
+        .insight-title {
+            font-weight: 600;
+            margin-bottom: 0.25rem;
+            color: var(--text-main);
+        }
+
+        .insight-desc {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+        }
+
+        /* Chart */
+        .chart-container {
+            position: relative;
+            height: 300px;
+            width: 100%;
+        }
+
+        /* Loading */
+        #loading {
+            position: fixed;
+            inset: 0;
+            background: var(--background);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 100;
+        }
+
+        .spinner {
+            width: 40px;
+            height: 40px;
+            border: 3px solid var(--border);
+            border-top-color: var(--primary);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin { to { transform: rotate(360deg); } }
+
+        .hidden { display: none !important; }
+    </style>
+</head>
+<body>
+    <div id="loading">
+        <div class="spinner"></div>
+    </div>
+
+    <div class="container hidden" id="app">
+        <header>
+            <div class="agent-header">
+                <img id="agentLogo" src="" alt="Logo" class="agent-logo" onerror="this.src='../../assets/placeholder.png'">
+                <div class="agent-info">
+                    <h1 id="agentTitle">Loading...</h1>
+                    <div class="agent-meta">
+                        <span id="agentAuthor">Author</span>
+                        <span>•</span>
+                        <span id="agentStatus" class="status-badge">Active</span>
+                    </div>
+                </div>
+            </div>
+            <a href="../agents_report_latest.html" class="back-link">← Back to Dashboard</a>
+        </header>
+
+        <div class="grid">
+            <!-- Main Column -->
+            <div class="main-col">
+                <!-- Performance Chart -->
+                <div class="card">
+                    <h2>Performance Trends</h2>
+                    <div class="chart-container">
+                        <canvas id="trendsChart"></canvas>
+                    </div>
+                </div>
+
+                <!-- Growth Analysis -->
+                <div class="card">
+                    <h2>Growth Analysis</h2>
+                    <div class="metrics-row">
+                        <div class="metric-item">
+                            <div class="metric-value" id="growthViews">+0</div>
+                            <div class="metric-label">Views Growth</div>
+                        </div>
+                        <div class="metric-item">
+                            <div class="metric-value" id="growthRuns">+0</div>
+                            <div class="metric-label">Runs Growth</div>
+                        </div>
+                        <div class="metric-item">
+                            <div class="metric-value" id="growthSaves">+0</div>
+                            <div class="metric-label">Saves Growth</div>
+                        </div>
+                    </div>
+                    <p id="growthSummary" class="text-muted text-sm"></p>
+                </div>
+            </div>
+
+            <!-- Sidebar Column -->
+            <div class="side-col">
+                <!-- Key Metrics -->
+                <div class="card">
+                    <h2>Key Metrics</h2>
+                    <div class="metrics-row" style="grid-template-columns: 1fr 1fr; gap: 1rem;">
+                        <div class="metric-item">
+                            <div class="metric-value" id="totalViews">0</div>
+                            <div class="metric-label">Total Views</div>
+                        </div>
+                        <div class="metric-item">
+                            <div class="metric-value" id="totalRuns">0</div>
+                            <div class="metric-label">Total Runs</div>
+                        </div>
+                        <div class="metric-item">
+                            <div class="metric-value" id="engagementRate">0%</div>
+                            <div class="metric-label">Engagement</div>
+                        </div>
+                        <div class="metric-item">
+                            <div class="metric-value" id="avgRuns">0</div>
+                            <div class="metric-label">Daily Runs</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Insights -->
+                <div class="card">
+                    <h2>AI Insights</h2>
+                    <div id="insightsList">
+                        <!-- Insights injected here -->
+                    </div>
+                </div>
+
+                <!-- Market Position -->
+                <div class="card">
+                    <h2>Market Position</h2>
+                    <div class="insight-item info">
+                        <div class="insight-title">Top <span id="percentileRank">0</span>%</div>
+                        <div class="insight-desc">Ranked #<span id="rankNum">0</span> by views</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Get Agent ID from URL
+        const urlParams = new URLSearchParams(window.location.search);
+        const agentId = urlParams.get('agent');
+
+        async function loadData() {
+            if (!agentId) {
+                alert('No agent ID specified');
+                return;
+            }
+
+            try {
+                const response = await fetch(`data/${agentId}.json`);
+                if (!response.ok) throw new Error('Failed to load data');
+                const data = await response.json();
+                renderDashboard(data);
+            } catch (error) {
+                console.error('Error:', error);
+                document.body.innerHTML = `<div class="container" style="text-align:center; padding-top: 4rem;">
+                    <h2>Error loading analysis</h2>
+                    <p>${error.message}</p>
+                </div>`;
+            }
+        }
+
+        function renderDashboard(data) {
+            // Basic Info
+            document.getElementById('agentTitle').textContent = data.basic_info.title;
+            document.getElementById('agentAuthor').textContent = data.basic_info.author;
+            document.title = `${data.basic_info.title} - Analysis`;
+            
+            // Logo - construct path from agent ID
+            const logoPath = `../logos/${agentId}.webp`;
+            document.getElementById('agentLogo').src = logoPath; 
+
+            // Metrics
+            document.getElementById('totalViews').textContent = data.performance_metrics.views.toLocaleString();
+            document.getElementById('totalRuns').textContent = data.performance_metrics.runs.toLocaleString();
+            document.getElementById('engagementRate').textContent = data.performance_metrics.engagement_rate + '%';
+            document.getElementById('avgRuns').textContent = data.performance_metrics.avg_runs_per_day;
+
+            // Growth
+            if (data.growth_analysis.has_data) {
+                document.getElementById('growthViews').textContent = '+' + data.growth_analysis.total_growth.views.toLocaleString();
+                document.getElementById('growthRuns').textContent = '+' + data.growth_analysis.total_growth.runs.toLocaleString();
+                document.getElementById('growthSaves').textContent = '+' + data.growth_analysis.total_growth.saves.toLocaleString();
+                document.getElementById('growthSummary').textContent = `Growth tracked over ${data.growth_analysis.days_tracked} days.`;
+            }
+
+            // Market Position
+            document.getElementById('percentileRank').textContent = (100 - data.market_position.views_percentile).toFixed(0);
+            document.getElementById('rankNum').textContent = data.market_position.views_rank;
+
+            // Insights
+            const insightsContainer = document.getElementById('insightsList');
+            insightsContainer.innerHTML = '';
+            data.insights.forEach(insight => {
+                const div = document.createElement('div');
+                div.className = `insight-item ${insight.type}`;
+                div.innerHTML = `
+                    <div class="insight-title">${insight.title}</div>
+                    <div class="insight-desc">${insight.description}</div>
+                `;
+                insightsContainer.appendChild(div);
+            });
+
+            // Chart
+            renderChart(data.historical_trends);
+
+            // Show App
+            document.getElementById('loading').classList.add('hidden');
+            document.getElementById('app').classList.remove('hidden');
+        }
+
+        function renderChart(trends) {
+            if (!trends.has_data) return;
+
+            const ctx = document.getElementById('trendsChart').getContext('2d');
+            
+            // Format dates
+            const labels = trends.time_series.dates.map(d => new Date(d).toLocaleDateString());
+
+            new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: labels,
+                    datasets: [
+                        {
+                            label: 'Views',
+                            data: trends.time_series.views,
+                            borderColor: '#6366f1',
+                            backgroundColor: 'rgba(99, 102, 241, 0.1)',
+                            tension: 0.4,
+                            fill: true
+                        },
+                        {
+                            label: 'Runs',
+                            data: trends.time_series.runs,
+                            borderColor: '#10b981',
+                            backgroundColor: 'rgba(16, 185, 129, 0.1)',
+                            tension: 0.4,
+                            fill: true
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            position: 'top',
+                            align: 'end',
+                            labels: { usePointStyle: true, boxWidth: 8 }
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            grid: { borderDash: [4, 4], color: '#e2e8f0' }
+                        },
+                        x: {
+                            grid: { display: false }
+                        }
+                    },
+                    interaction: {
+                        mode: 'index',
+                        intersect: false,
+                    }
+                }
+            });
+        }
+
+        loadData();
+    </script>
+</body>
+</html>
