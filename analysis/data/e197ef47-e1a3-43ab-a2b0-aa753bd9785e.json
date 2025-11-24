@@ -1,6 +1,6 @@
 {
   "agent_id": "e197ef47-e1a3-43ab-a2b0-aa753bd9785e",
-  "generated_at": "2025-11-23T12:04:27.967781",
+  "generated_at": "2025-11-24T01:54:44.744506",
   "basic_info": {
     "title": "Kawaii Chibi Sticker Pack",
     "author": "AllenCreator",
@@ -14,20 +14,20 @@
     "days_since_published": 47
   },
   "performance_metrics": {
-    "views": 155,
+    "views": 156,
     "runs": 2,
     "saves": 0,
     "days_tracked": 47,
     "price": 20.0,
-    "engagement_rate": 1.29,
+    "engagement_rate": 1.28,
     "avg_runs_per_day": 0.04,
-    "avg_views_per_day": 3.3
+    "avg_views_per_day": 3.32
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 7,
+    "data_points": 8,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T20:03:58.312245",
+    "last_recorded": "2025-11-24T09:54:21.691735",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -36,7 +36,8 @@
         "2025-11-23T13:27:48.290198",
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
-        "2025-11-23T20:03:58.312245"
+        "2025-11-23T20:03:58.312245",
+        "2025-11-24T09:54:21.691735"
       ],
       "views": [
         151,
@@ -45,7 +46,8 @@
         155,
         155,
         155,
-        155
+        155,
+        156
       ],
       "runs": [
         6,
@@ -54,9 +56,11 @@
         2,
         2,
         2,
+        2,
         2
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -71,17 +75,17 @@
     "has_data": true,
     "days_tracked": 4,
     "total_growth": {
-      "views": 4,
+      "views": 5,
       "runs": -4,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 1.0,
+      "views": 1.25,
       "runs": -1.0,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 2.65,
+      "views": 3.31,
       "runs": -66.67,
       "saves": 0
     }
@@ -91,15 +95,15 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 199,
-    "views_rank": 144,
-    "runs_rank": 89,
-    "views_percentile": 27.6,
-    "runs_percentile": 55.3,
+    "total_active_agents": 200,
+    "views_rank": 145,
+    "runs_rank": 83,
+    "views_percentile": 27.5,
+    "runs_percentile": 58.5,
     "category": "AI Agent",
-    "category_agent_count": 199,
+    "category_agent_count": 200,
     "vs_average": {
-      "views": -78.2,
+      "views": -78.1,
       "runs": -96.7,
       "saves": 0
     }

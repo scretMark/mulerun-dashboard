@@ -1,6 +1,6 @@
 {
   "agent_id": "d3b06b6c-552d-44a0-a7f8-457a832ede65",
-  "generated_at": "2025-11-23T12:04:27.475153",
+  "generated_at": "2025-11-24T01:54:44.238320",
   "basic_info": {
     "title": "Line Drawing of a Face",
     "author": "Darren",
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 7,
+    "data_points": 8,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T20:03:58.312245",
+    "last_recorded": "2025-11-24T09:54:21.691735",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -36,12 +36,14 @@
         "2025-11-23T13:27:48.290198",
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
-        "2025-11-23T20:03:58.312245"
+        "2025-11-23T20:03:58.312245",
+        "2025-11-24T09:54:21.691735"
       ],
       "views": [
         254,
         254,
         255,
+        257,
         257,
         257,
         257,
@@ -54,9 +56,11 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -91,13 +95,13 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 199,
+    "total_active_agents": 200,
     "views_rank": 102,
-    "runs_rank": 129,
-    "views_percentile": 48.7,
-    "runs_percentile": 35.2,
+    "runs_rank": 119,
+    "views_percentile": 49.0,
+    "runs_percentile": 40.5,
     "category": "AI Agent",
-    "category_agent_count": 199,
+    "category_agent_count": 200,
     "vs_average": {
       "views": -63.9,
       "runs": -100.0,

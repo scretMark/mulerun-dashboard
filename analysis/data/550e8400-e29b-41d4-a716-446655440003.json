@@ -1,6 +1,6 @@
 {
   "agent_id": "550e8400-e29b-41d4-a716-446655440003",
-  "generated_at": "2025-11-23T12:04:26.516240",
+  "generated_at": "2025-11-24T01:54:43.152441",
   "basic_info": {
     "title": "星穹铁道代肝",
     "author": "Chengbbb0468",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-30T17:59:32.501000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Chengbbb0468/xing-qiong-tie-dao-dai-gan",
-    "days_since_published": 23
+    "days_since_published": 24
   },
   "performance_metrics": {
     "views": 3957,
-    "runs": 4,
+    "runs": 1,
     "saves": 0,
-    "days_tracked": 23,
+    "days_tracked": 24,
     "price": 2.0,
-    "engagement_rate": 0.1,
-    "avg_runs_per_day": 0.17,
-    "avg_views_per_day": 172.04
+    "engagement_rate": 0.03,
+    "avg_runs_per_day": 0.04,
+    "avg_views_per_day": 164.88
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 7,
+    "data_points": 8,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T20:03:58.312245",
+    "last_recorded": "2025-11-24T09:54:21.691735",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -36,7 +36,8 @@
         "2025-11-23T13:27:48.290198",
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
-        "2025-11-23T20:03:58.312245"
+        "2025-11-23T20:03:58.312245",
+        "2025-11-24T09:54:21.691735"
       ],
       "views": [
         3948,
@@ -44,6 +45,7 @@
         3956,
         3956,
         3956,
+        3957,
         3957,
         3957
       ],
@@ -54,9 +56,11 @@
         4,
         4,
         4,
-        4
+        4,
+        1
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -72,17 +76,17 @@
     "days_tracked": 4,
     "total_growth": {
       "views": 9,
-      "runs": -2,
+      "runs": -5,
       "saves": 0
     },
     "daily_average_growth": {
       "views": 2.25,
-      "runs": -0.5,
+      "runs": -1.25,
       "saves": 0.0
     },
     "percentage_growth": {
       "views": 0.23,
-      "runs": -33.33,
+      "runs": -83.33,
       "saves": 0
     }
   },
@@ -91,16 +95,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 199,
+    "total_active_agents": 200,
     "views_rank": 7,
-    "runs_rank": 68,
+    "runs_rank": 97,
     "views_percentile": 96.5,
-    "runs_percentile": 65.8,
+    "runs_percentile": 51.5,
     "category": "AI Agent",
-    "category_agent_count": 199,
+    "category_agent_count": 200,
     "vs_average": {
-      "views": 455.3,
-      "runs": -93.5,
+      "views": 456.5,
+      "runs": -98.3,
       "saves": 0
     }
   },
@@ -108,7 +112,7 @@
     {
       "type": "warning",
       "title": "Low Engagement Rate",
-      "description": "The engagement rate is 0.1%, which may indicate the agent description or value proposition could be improved."
+      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
     },
     {
       "type": "positive",

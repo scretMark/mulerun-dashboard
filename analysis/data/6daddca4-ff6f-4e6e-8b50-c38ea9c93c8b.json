@@ -1,6 +1,6 @@
 {
   "agent_id": "6daddca4-ff6f-4e6e-8b50-c38ea9c93c8b",
-  "generated_at": "2025-11-23T12:04:27.933721",
+  "generated_at": "2025-11-24T01:54:44.711447",
   "basic_info": {
     "title": "Movie Poster Design",
     "author": "summerail",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-12T14:14:16.439000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/movie-poster-design",
-    "days_since_published": 41
+    "days_since_published": 42
   },
   "performance_metrics": {
     "views": 163,
     "runs": 5,
     "saves": 0,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "price": 50.0,
     "engagement_rate": 3.07,
     "avg_runs_per_day": 0.12,
-    "avg_views_per_day": 3.98
+    "avg_views_per_day": 3.88
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 7,
+    "data_points": 8,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T20:03:58.312245",
+    "last_recorded": "2025-11-24T09:54:21.691735",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -36,12 +36,14 @@
         "2025-11-23T13:27:48.290198",
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
-        "2025-11-23T20:03:58.312245"
+        "2025-11-23T20:03:58.312245",
+        "2025-11-24T09:54:21.691735"
       ],
       "views": [
         146,
         146,
         160,
+        163,
         163,
         163,
         163,
@@ -54,9 +56,11 @@
         5,
         5,
         5,
+        5,
         5
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -91,16 +95,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 199,
-    "views_rank": 140,
-    "runs_rank": 62,
-    "views_percentile": 29.6,
-    "runs_percentile": 68.8,
+    "total_active_agents": 200,
+    "views_rank": 142,
+    "runs_rank": 58,
+    "views_percentile": 29.0,
+    "runs_percentile": 71.0,
     "category": "AI Agent",
-    "category_agent_count": 199,
+    "category_agent_count": 200,
     "vs_average": {
       "views": -77.1,
-      "runs": -91.9,
+      "runs": -91.7,
       "saves": 0
     }
   },

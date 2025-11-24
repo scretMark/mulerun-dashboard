@@ -1,6 +1,6 @@
 {
   "agent_id": "4d9b4916-1311-4716-ba98-3bba7d803df3",
-  "generated_at": "2025-11-23T12:04:27.999608",
+  "generated_at": "2025-11-24T01:54:44.777828",
   "basic_info": {
     "title": "Content Pilot AI",
     "author": "cqplaquemh41i2k",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-13T18:50:29.799000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@cqplaquemh41i2k/content-pilot-ai",
-    "days_since_published": 40
+    "days_since_published": 41
   },
   "performance_metrics": {
     "views": 152,
     "runs": 47,
     "saves": 0,
-    "days_tracked": 40,
+    "days_tracked": 41,
     "price": 15.0,
     "engagement_rate": 30.92,
-    "avg_runs_per_day": 1.18,
-    "avg_views_per_day": 3.8
+    "avg_runs_per_day": 1.15,
+    "avg_views_per_day": 3.71
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 7,
+    "data_points": 8,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T20:03:58.312245",
+    "last_recorded": "2025-11-24T09:54:21.691735",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -36,7 +36,8 @@
         "2025-11-23T13:27:48.290198",
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
-        "2025-11-23T20:03:58.312245"
+        "2025-11-23T20:03:58.312245",
+        "2025-11-24T09:54:21.691735"
       ],
       "views": [
         110,
@@ -44,6 +45,7 @@
         132,
         150,
         150,
+        152,
         152,
         152
       ],
@@ -54,9 +56,11 @@
         46,
         46,
         47,
+        47,
         47
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -91,16 +95,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 199,
-    "views_rank": 146,
+    "total_active_agents": 200,
+    "views_rank": 148,
     "runs_rank": 29,
-    "views_percentile": 26.6,
-    "runs_percentile": 85.4,
+    "views_percentile": 26.0,
+    "runs_percentile": 85.5,
     "category": "AI Agent",
-    "category_agent_count": 199,
+    "category_agent_count": 200,
     "vs_average": {
-      "views": -78.7,
-      "runs": -23.4,
+      "views": -78.6,
+      "runs": -22.0,
       "saves": 0
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "8a6ccf9e-95dd-46a2-98d4-560302fd99e2",
-  "generated_at": "2025-11-23T12:04:27.097959",
+  "generated_at": "2025-11-24T01:54:43.803870",
   "basic_info": {
     "title": "Explain it like I am 5",
     "author": "vktsbiy414205x1",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-01T17:25:08.531000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@vktsbiy414205x1/explain-it-like-i-am-5",
-    "days_since_published": 52
+    "days_since_published": 53
   },
   "performance_metrics": {
-    "views": 570,
-    "runs": 5,
+    "views": 574,
+    "runs": 3,
     "saves": 0,
-    "days_tracked": 52,
+    "days_tracked": 53,
     "price": 50.0,
-    "engagement_rate": 0.88,
-    "avg_runs_per_day": 0.1,
-    "avg_views_per_day": 10.96
+    "engagement_rate": 0.52,
+    "avg_runs_per_day": 0.06,
+    "avg_views_per_day": 10.83
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 7,
+    "data_points": 8,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T20:03:58.312245",
+    "last_recorded": "2025-11-24T09:54:21.691735",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -36,7 +36,8 @@
         "2025-11-23T13:27:48.290198",
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
-        "2025-11-23T20:03:58.312245"
+        "2025-11-23T20:03:58.312245",
+        "2025-11-24T09:54:21.691735"
       ],
       "views": [
         554,
@@ -45,7 +46,8 @@
         570,
         570,
         570,
-        570
+        570,
+        574
       ],
       "runs": [
         5,
@@ -54,9 +56,11 @@
         5,
         5,
         5,
-        5
+        5,
+        3
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -71,18 +75,18 @@
     "has_data": true,
     "days_tracked": 4,
     "total_growth": {
-      "views": 16,
-      "runs": 0,
+      "views": 20,
+      "runs": -2,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 4.0,
-      "runs": 0.0,
+      "views": 5.0,
+      "runs": -0.5,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 2.89,
-      "runs": 0.0,
+      "views": 3.61,
+      "runs": -40.0,
       "saves": 0
     }
   },
@@ -91,16 +95,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 199,
+    "total_active_agents": 200,
     "views_rank": 64,
-    "runs_rank": 62,
-    "views_percentile": 67.8,
-    "runs_percentile": 68.8,
+    "runs_rank": 69,
+    "views_percentile": 68.0,
+    "runs_percentile": 65.5,
     "category": "AI Agent",
-    "category_agent_count": 199,
+    "category_agent_count": 200,
     "vs_average": {
-      "views": -20.0,
-      "runs": -91.9,
+      "views": -19.3,
+      "runs": -95.0,
       "saves": 0
     }
   },
@@ -108,7 +112,7 @@
     {
       "type": "warning",
       "title": "Low Engagement Rate",
-      "description": "The engagement rate is 0.9%, which may indicate the agent description or value proposition could be improved."
+      "description": "The engagement rate is 0.5%, which may indicate the agent description or value proposition could be improved."
     }
   ]
 }

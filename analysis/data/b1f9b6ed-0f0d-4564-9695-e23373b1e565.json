@@ -1,6 +1,6 @@
 {
   "agent_id": "b1f9b6ed-0f0d-4564-9695-e23373b1e565",
-  "generated_at": "2025-11-23T12:04:26.714531",
+  "generated_at": "2025-11-24T01:54:43.390960",
   "basic_info": {
     "title": "Pose Grid Generator",
     "author": "laughing_code",
@@ -11,23 +11,23 @@
     "published_at": "2025-09-28T14:14:02.445000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@laughing_code/pose-grid-generator",
-    "days_since_published": 55
+    "days_since_published": 56
   },
   "performance_metrics": {
     "views": 1274,
     "runs": 1,
     "saves": 0,
-    "days_tracked": 55,
+    "days_tracked": 56,
     "price": 50.0,
     "engagement_rate": 0.08,
     "avg_runs_per_day": 0.02,
-    "avg_views_per_day": 23.16
+    "avg_views_per_day": 22.75
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 7,
+    "data_points": 8,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T20:03:58.312245",
+    "last_recorded": "2025-11-24T09:54:21.691735",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -36,12 +36,14 @@
         "2025-11-23T13:27:48.290198",
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
-        "2025-11-23T20:03:58.312245"
+        "2025-11-23T20:03:58.312245",
+        "2025-11-24T09:54:21.691735"
       ],
       "views": [
         1269,
         1269,
         1272,
+        1274,
         1274,
         1274,
         1274,
@@ -54,9 +56,11 @@
         1,
         1,
         1,
+        1,
         1
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -91,16 +95,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 199,
+    "total_active_agents": 200,
     "views_rank": 27,
-    "runs_rank": 103,
-    "views_percentile": 86.4,
-    "runs_percentile": 48.2,
+    "runs_rank": 97,
+    "views_percentile": 86.5,
+    "runs_percentile": 51.5,
     "category": "AI Agent",
-    "category_agent_count": 199,
+    "category_agent_count": 200,
     "vs_average": {
-      "views": 78.8,
-      "runs": -98.4,
+      "views": 79.2,
+      "runs": -98.3,
       "saves": 0
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "36d26cf1-4191-44e6-ace8-67f2a0c30d55",
-  "generated_at": "2025-11-23T12:04:27.117459",
+  "generated_at": "2025-11-24T01:54:43.826001",
   "basic_info": {
     "title": "Video Face Swap",
     "author": "Darren",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-05T16:24:10.619000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/video-face-swap",
-    "days_since_published": 48
+    "days_since_published": 49
   },
   "performance_metrics": {
     "views": 533,
     "runs": 9,
     "saves": 0,
-    "days_tracked": 48,
+    "days_tracked": 49,
     "price": 99.0,
     "engagement_rate": 1.69,
-    "avg_runs_per_day": 0.19,
-    "avg_views_per_day": 11.1
+    "avg_runs_per_day": 0.18,
+    "avg_views_per_day": 10.88
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 7,
+    "data_points": 8,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T20:03:58.312245",
+    "last_recorded": "2025-11-24T09:54:21.691735",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -36,12 +36,14 @@
         "2025-11-23T13:27:48.290198",
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
-        "2025-11-23T20:03:58.312245"
+        "2025-11-23T20:03:58.312245",
+        "2025-11-24T09:54:21.691735"
       ],
       "views": [
         523,
         523,
         528,
+        533,
         533,
         533,
         533,
@@ -54,9 +56,11 @@
         9,
         9,
         9,
+        9,
         9
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -91,16 +95,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 199,
+    "total_active_agents": 200,
     "views_rank": 66,
     "runs_rank": 49,
-    "views_percentile": 66.8,
-    "runs_percentile": 75.4,
+    "views_percentile": 67.0,
+    "runs_percentile": 75.5,
     "category": "AI Agent",
-    "category_agent_count": 199,
+    "category_agent_count": 200,
     "vs_average": {
-      "views": -25.2,
-      "runs": -85.3,
+      "views": -25.0,
+      "runs": -85.1,
       "saves": 0
     }
   },

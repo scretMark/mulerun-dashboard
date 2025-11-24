@@ -1,6 +1,6 @@
 {
   "agent_id": "16ab4bdd-cf3a-4110-ae96-a690ef618850",
-  "generated_at": "2025-11-23T12:04:28.104900",
+  "generated_at": "2025-11-24T01:54:44.889129",
   "basic_info": {
     "title": "About ME",
     "author": "Darren",
@@ -15,19 +15,19 @@
   },
   "performance_metrics": {
     "views": 136,
-    "runs": 6,
+    "runs": 0,
     "saves": 0,
     "days_tracked": 34,
     "price": 51.0,
-    "engagement_rate": 4.41,
-    "avg_runs_per_day": 0.18,
+    "engagement_rate": 0.0,
+    "avg_runs_per_day": 0.0,
     "avg_views_per_day": 4.0
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 7,
+    "data_points": 8,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T20:03:58.312245",
+    "last_recorded": "2025-11-24T09:54:21.691735",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -36,12 +36,14 @@
         "2025-11-23T13:27:48.290198",
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
-        "2025-11-23T20:03:58.312245"
+        "2025-11-23T20:03:58.312245",
+        "2025-11-24T09:54:21.691735"
       ],
       "views": [
         131,
         132,
         133,
+        136,
         136,
         136,
         136,
@@ -54,9 +56,11 @@
         6,
         6,
         6,
-        6
+        6,
+        0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -72,17 +76,17 @@
     "days_tracked": 4,
     "total_growth": {
       "views": 5,
-      "runs": 0,
+      "runs": -6,
       "saves": 0
     },
     "daily_average_growth": {
       "views": 1.25,
-      "runs": 0.0,
+      "runs": -1.5,
       "saves": 0.0
     },
     "percentage_growth": {
       "views": 3.82,
-      "runs": 0.0,
+      "runs": -100.0,
       "saves": 0
     }
   },
@@ -91,18 +95,24 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 199,
-    "views_rank": 157,
-    "runs_rank": 57,
-    "views_percentile": 21.1,
-    "runs_percentile": 71.4,
+    "total_active_agents": 200,
+    "views_rank": 158,
+    "runs_rank": 119,
+    "views_percentile": 21.0,
+    "runs_percentile": 40.5,
     "category": "AI Agent",
-    "category_agent_count": 199,
+    "category_agent_count": 200,
     "vs_average": {
       "views": -80.9,
-      "runs": -90.2,
+      "runs": -100.0,
       "saves": 0
     }
   },
-  "insights": []
+  "insights": [
+    {
+      "type": "warning",
+      "title": "Low Engagement Rate",
+      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
+    }
+  ]
 }

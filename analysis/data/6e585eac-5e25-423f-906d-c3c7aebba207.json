@@ -1,6 +1,6 @@
 {
   "agent_id": "6e585eac-5e25-423f-906d-c3c7aebba207",
-  "generated_at": "2025-11-23T12:04:27.853460",
+  "generated_at": "2025-11-24T01:54:44.633837",
   "basic_info": {
     "title": "AI Car Wrap Color Change",
     "author": "Jayden",
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 7,
+    "data_points": 8,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T20:03:58.312245",
+    "last_recorded": "2025-11-24T09:54:21.691735",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -36,12 +36,14 @@
         "2025-11-23T13:27:48.290198",
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
-        "2025-11-23T20:03:58.312245"
+        "2025-11-23T20:03:58.312245",
+        "2025-11-24T09:54:21.691735"
       ],
       "views": [
         175,
         175,
         176,
+        178,
         178,
         178,
         178,
@@ -54,9 +56,11 @@
         1,
         1,
         1,
+        1,
         1
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -91,16 +95,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 199,
-    "views_rank": 134,
-    "runs_rank": 103,
-    "views_percentile": 32.7,
-    "runs_percentile": 48.2,
+    "total_active_agents": 200,
+    "views_rank": 135,
+    "runs_rank": 97,
+    "views_percentile": 32.5,
+    "runs_percentile": 51.5,
     "category": "AI Agent",
-    "category_agent_count": 199,
+    "category_agent_count": 200,
     "vs_average": {
       "views": -75.0,
-      "runs": -98.4,
+      "runs": -98.3,
       "saves": 0
     }
   },

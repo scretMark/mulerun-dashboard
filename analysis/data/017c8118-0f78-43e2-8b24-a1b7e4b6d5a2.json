@@ -1,6 +1,6 @@
 {
   "agent_id": "017c8118-0f78-43e2-8b24-a1b7e4b6d5a2",
-  "generated_at": "2025-11-23T13:57:11.174998",
+  "generated_at": "2025-11-24T01:54:44.371781",
   "basic_info": {
     "title": "veeverse-tarot",
     "author": "veeverseai",
@@ -14,43 +14,47 @@
     "days_since_published": null
   },
   "performance_metrics": {
-    "views": 223,
-    "runs": 39,
+    "views": 224,
+    "runs": 23,
     "saves": 0,
     "days_tracked": 1,
     "price": 0.0,
-    "engagement_rate": 17.49,
-    "avg_runs_per_day": 39.0,
-    "avg_views_per_day": 223.0
+    "engagement_rate": 10.27,
+    "avg_runs_per_day": 23.0,
+    "avg_views_per_day": 224.0
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 5,
+    "data_points": 6,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-11-23T20:03:58.312245",
+    "last_recorded": "2025-11-24T09:54:21.691735",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
         "2025-11-23T13:27:48.290198",
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
-        "2025-11-23T20:03:58.312245"
+        "2025-11-23T20:03:58.312245",
+        "2025-11-24T09:54:21.691735"
       ],
       "views": [
         202,
         221,
         221,
         223,
-        223
+        223,
+        224
       ],
       "runs": [
         53,
         39,
         39,
         39,
-        39
+        39,
+        23
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -63,18 +67,18 @@
     "has_data": true,
     "days_tracked": 5,
     "total_growth": {
-      "views": 21,
-      "runs": -14,
+      "views": 22,
+      "runs": -30,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 4.2,
-      "runs": -2.8,
+      "views": 4.4,
+      "runs": -6.0,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 10.4,
-      "runs": -26.42,
+      "views": 10.89,
+      "runs": -56.6,
       "saves": 0
     }
   },
@@ -115,15 +119,15 @@
   },
   "market_position": {
     "total_active_agents": 200,
-    "views_rank": 113,
-    "runs_rank": 30,
-    "views_percentile": 43.5,
-    "runs_percentile": 85.0,
+    "views_rank": 112,
+    "runs_rank": 36,
+    "views_percentile": 44.0,
+    "runs_percentile": 82.0,
     "category": "AI Agent",
     "category_agent_count": 200,
     "vs_average": {
-      "views": -68.6,
-      "runs": -36.4,
+      "views": -68.5,
+      "runs": -61.8,
       "saves": 0
     }
   },
@@ -131,7 +135,7 @@
     {
       "type": "positive",
       "title": "High Engagement Rate",
-      "description": "This agent has an excellent 17.5% engagement rate (runs/views), significantly above average."
+      "description": "This agent has an excellent 10.3% engagement rate (runs/views), significantly above average."
     }
   ]
 }

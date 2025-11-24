@@ -1,6 +1,6 @@
 {
   "agent_id": "f287a273-a8e9-4f84-bcad-d14484f88465",
-  "generated_at": "2025-11-23T12:04:28.424266",
+  "generated_at": "2025-11-24T01:54:45.248549",
   "basic_info": {
     "title": "Ethereal Bloom",
     "author": "Lucas",
@@ -11,23 +11,23 @@
     "published_at": "2025-11-04T22:06:12.064000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/ethereal-bloom",
-    "days_since_published": 18
+    "days_since_published": 19
   },
   "performance_metrics": {
     "views": 68,
     "runs": 1,
     "saves": 0,
-    "days_tracked": 18,
+    "days_tracked": 19,
     "price": 49.0,
     "engagement_rate": 1.47,
-    "avg_runs_per_day": 0.06,
-    "avg_views_per_day": 3.78
+    "avg_runs_per_day": 0.05,
+    "avg_views_per_day": 3.58
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 7,
+    "data_points": 8,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T20:03:58.312245",
+    "last_recorded": "2025-11-24T09:54:21.691735",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -36,12 +36,14 @@
         "2025-11-23T13:27:48.290198",
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
-        "2025-11-23T20:03:58.312245"
+        "2025-11-23T20:03:58.312245",
+        "2025-11-24T09:54:21.691735"
       ],
       "views": [
         56,
         57,
         67,
+        68,
         68,
         68,
         68,
@@ -54,9 +56,11 @@
         1,
         1,
         1,
+        1,
         1
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -91,16 +95,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 199,
-    "views_rank": 188,
-    "runs_rank": 103,
-    "views_percentile": 5.5,
-    "runs_percentile": 48.2,
+    "total_active_agents": 200,
+    "views_rank": 190,
+    "runs_rank": 97,
+    "views_percentile": 5.0,
+    "runs_percentile": 51.5,
     "category": "AI Agent",
-    "category_agent_count": 199,
+    "category_agent_count": 200,
     "vs_average": {
-      "views": -90.5,
-      "runs": -98.4,
+      "views": -90.4,
+      "runs": -98.3,
       "saves": 0
     }
   },

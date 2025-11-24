@@ -1,6 +1,6 @@
 {
   "agent_id": "9d2804c0-a7fb-4d9c-b60a-e2c26a1638f2",
-  "generated_at": "2025-11-23T12:04:28.385647",
+  "generated_at": "2025-11-24T01:54:45.192637",
   "basic_info": {
     "title": "Outfit Decomposition",
     "author": "zafmlrxoaw869hw",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-11T13:09:43.389000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@zafmlrxoaw869hw/outfit-decomposition",
-    "days_since_published": 42
+    "days_since_published": 43
   },
   "performance_metrics": {
-    "views": 76,
+    "views": 77,
     "runs": 2,
     "saves": 0,
-    "days_tracked": 42,
+    "days_tracked": 43,
     "price": 70.0,
-    "engagement_rate": 2.63,
+    "engagement_rate": 2.6,
     "avg_runs_per_day": 0.05,
-    "avg_views_per_day": 1.81
+    "avg_views_per_day": 1.79
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 7,
+    "data_points": 8,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T20:03:58.312245",
+    "last_recorded": "2025-11-24T09:54:21.691735",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -36,7 +36,8 @@
         "2025-11-23T13:27:48.290198",
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
-        "2025-11-23T20:03:58.312245"
+        "2025-11-23T20:03:58.312245",
+        "2025-11-24T09:54:21.691735"
       ],
       "views": [
         73,
@@ -45,7 +46,8 @@
         76,
         76,
         76,
-        76
+        76,
+        77
       ],
       "runs": [
         1,
@@ -54,9 +56,11 @@
         2,
         2,
         2,
+        2,
         2
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -71,17 +75,17 @@
     "has_data": true,
     "days_tracked": 4,
     "total_growth": {
-      "views": 3,
+      "views": 4,
       "runs": 1,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 0.75,
+      "views": 1.0,
       "runs": 0.25,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 4.11,
+      "views": 5.48,
       "runs": 100.0,
       "saves": 0
     }
@@ -91,15 +95,15 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 199,
+    "total_active_agents": 200,
     "views_rank": 185,
-    "runs_rank": 89,
-    "views_percentile": 7.0,
-    "runs_percentile": 55.3,
+    "runs_rank": 83,
+    "views_percentile": 7.5,
+    "runs_percentile": 58.5,
     "category": "AI Agent",
-    "category_agent_count": 199,
+    "category_agent_count": 200,
     "vs_average": {
-      "views": -89.3,
+      "views": -89.2,
       "runs": -96.7,
       "saves": 0
     }

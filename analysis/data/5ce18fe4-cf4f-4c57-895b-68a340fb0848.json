@@ -1,6 +1,6 @@
 {
   "agent_id": "5ce18fe4-cf4f-4c57-895b-68a340fb0848",
-  "generated_at": "2025-11-23T12:04:28.532026",
+  "generated_at": "2025-11-24T01:54:45.352413",
   "basic_info": {
     "title": "AI Portrait Painting at Gallery",
     "author": "Jayden",
@@ -11,23 +11,23 @@
     "published_at": "2025-11-12T14:15:30.649000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Jayden/ai-portrait-painting-at-gallery",
-    "days_since_published": 10
+    "days_since_published": 11
   },
   "performance_metrics": {
     "views": 26,
     "runs": 2,
     "saves": 0,
-    "days_tracked": 10,
+    "days_tracked": 11,
     "price": 49.0,
     "engagement_rate": 7.69,
-    "avg_runs_per_day": 0.2,
-    "avg_views_per_day": 2.6
+    "avg_runs_per_day": 0.18,
+    "avg_views_per_day": 2.36
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 7,
+    "data_points": 8,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T20:03:58.312245",
+    "last_recorded": "2025-11-24T09:54:21.691735",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -36,12 +36,14 @@
         "2025-11-23T13:27:48.290198",
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
-        "2025-11-23T20:03:58.312245"
+        "2025-11-23T20:03:58.312245",
+        "2025-11-24T09:54:21.691735"
       ],
       "views": [
         23,
         23,
         25,
+        26,
         26,
         26,
         26,
@@ -54,9 +56,11 @@
         2,
         2,
         2,
+        2,
         2
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -91,15 +95,15 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 199,
-    "views_rank": 199,
-    "runs_rank": 89,
+    "total_active_agents": 200,
+    "views_rank": 200,
+    "runs_rank": 83,
     "views_percentile": 0.0,
-    "runs_percentile": 55.3,
+    "runs_percentile": 58.5,
     "category": "AI Agent",
-    "category_agent_count": 199,
+    "category_agent_count": 200,
     "vs_average": {
-      "views": -96.4,
+      "views": -96.3,
       "runs": -96.7,
       "saves": 0
     }

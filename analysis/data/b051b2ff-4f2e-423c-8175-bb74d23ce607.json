@@ -1,6 +1,6 @@
 {
   "agent_id": "b051b2ff-4f2e-423c-8175-bb74d23ce607",
-  "generated_at": "2025-11-23T12:04:27.155689",
+  "generated_at": "2025-11-24T01:54:43.881532",
   "basic_info": {
     "title": "Subtitle Translate AI Pro",
     "author": "Skynetbbb0bb3",
@@ -14,20 +14,20 @@
     "days_since_published": 16
   },
   "performance_metrics": {
-    "views": 454,
-    "runs": 179,
+    "views": 455,
+    "runs": 176,
     "saves": 0,
     "days_tracked": 16,
     "price": 90.0,
-    "engagement_rate": 39.43,
-    "avg_runs_per_day": 11.19,
-    "avg_views_per_day": 28.38
+    "engagement_rate": 38.68,
+    "avg_runs_per_day": 11.0,
+    "avg_views_per_day": 28.44
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 7,
+    "data_points": 8,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T20:03:58.312245",
+    "last_recorded": "2025-11-24T09:54:21.691735",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -36,7 +36,8 @@
         "2025-11-23T13:27:48.290198",
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
-        "2025-11-23T20:03:58.312245"
+        "2025-11-23T20:03:58.312245",
+        "2025-11-24T09:54:21.691735"
       ],
       "views": [
         427,
@@ -45,7 +46,8 @@
         454,
         454,
         454,
-        454
+        454,
+        455
       ],
       "runs": [
         41,
@@ -54,9 +56,11 @@
         179,
         179,
         179,
-        179
+        179,
+        176
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -71,18 +75,18 @@
     "has_data": true,
     "days_tracked": 4,
     "total_growth": {
-      "views": 27,
-      "runs": 138,
+      "views": 28,
+      "runs": 135,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 6.75,
-      "runs": 34.5,
+      "views": 7.0,
+      "runs": 33.75,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 6.32,
-      "runs": 336.59,
+      "views": 6.56,
+      "runs": 329.27,
       "saves": 0
     }
   },
@@ -91,16 +95,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 199,
-    "views_rank": 70,
+    "total_active_agents": 200,
+    "views_rank": 71,
     "runs_rank": 20,
-    "views_percentile": 64.8,
-    "runs_percentile": 89.9,
+    "views_percentile": 64.5,
+    "runs_percentile": 90.0,
     "category": "AI Agent",
-    "category_agent_count": 199,
+    "category_agent_count": 200,
     "vs_average": {
-      "views": -36.3,
-      "runs": 191.5,
+      "views": -36.0,
+      "runs": 192.0,
       "saves": 0
     }
   },
@@ -108,17 +112,17 @@
     {
       "type": "positive",
       "title": "High Engagement Rate",
-      "description": "This agent has an excellent 39.4% engagement rate (runs/views), significantly above average."
+      "description": "This agent has an excellent 38.7% engagement rate (runs/views), significantly above average."
     },
     {
       "type": "positive",
       "title": "Active User Base",
-      "description": "Runs increased by 138, indicating growing adoption and active usage."
+      "description": "Runs increased by 135, indicating growing adoption and active usage."
     },
     {
       "type": "info",
       "title": "Paid Agent with Strong Usage",
-      "description": "Despite being priced at $90.0, this agent averages 11.2 runs per day."
+      "description": "Despite being priced at $90.0, this agent averages 11.0 runs per day."
     }
   ]
 }

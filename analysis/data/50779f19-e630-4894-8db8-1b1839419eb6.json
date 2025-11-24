@@ -1,6 +1,6 @@
 {
   "agent_id": "50779f19-e630-4894-8db8-1b1839419eb6",
-  "generated_at": "2025-11-23T12:04:27.783231",
+  "generated_at": "2025-11-24T01:54:44.552896",
   "basic_info": {
     "title": "Nick Wilde Cosplay Filter",
     "author": "Lucas",
@@ -11,23 +11,23 @@
     "published_at": "2025-11-05T20:03:18.006000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/nick-wilde-cosplay-filter",
-    "days_since_published": 17
+    "days_since_published": 18
   },
   "performance_metrics": {
-    "views": 193,
+    "views": 195,
     "runs": 3,
     "saves": 0,
-    "days_tracked": 17,
+    "days_tracked": 18,
     "price": 49.0,
-    "engagement_rate": 1.55,
-    "avg_runs_per_day": 0.18,
-    "avg_views_per_day": 11.35
+    "engagement_rate": 1.54,
+    "avg_runs_per_day": 0.17,
+    "avg_views_per_day": 10.83
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 7,
+    "data_points": 8,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T20:03:58.312245",
+    "last_recorded": "2025-11-24T09:54:21.691735",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -36,7 +36,8 @@
         "2025-11-23T13:27:48.290198",
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
-        "2025-11-23T20:03:58.312245"
+        "2025-11-23T20:03:58.312245",
+        "2025-11-24T09:54:21.691735"
       ],
       "views": [
         166,
@@ -45,7 +46,8 @@
         193,
         193,
         193,
-        193
+        193,
+        195
       ],
       "runs": [
         13,
@@ -54,9 +56,11 @@
         3,
         3,
         3,
+        3,
         3
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -71,17 +75,17 @@
     "has_data": true,
     "days_tracked": 4,
     "total_growth": {
-      "views": 27,
+      "views": 29,
       "runs": -10,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 6.75,
+      "views": 7.25,
       "runs": -2.5,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 16.27,
+      "views": 17.47,
       "runs": -76.92,
       "saves": 0
     }
@@ -91,16 +95,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 199,
+    "total_active_agents": 200,
     "views_rank": 128,
-    "runs_rank": 76,
-    "views_percentile": 35.7,
-    "runs_percentile": 61.8,
+    "runs_rank": 69,
+    "views_percentile": 36.0,
+    "runs_percentile": 65.5,
     "category": "AI Agent",
-    "category_agent_count": 199,
+    "category_agent_count": 200,
     "vs_average": {
-      "views": -72.9,
-      "runs": -95.1,
+      "views": -72.6,
+      "runs": -95.0,
       "saves": 0
     }
   },
@@ -108,7 +112,7 @@
     {
       "type": "warning",
       "title": "Low Engagement Rate",
-      "description": "The engagement rate is 1.6%, which may indicate the agent description or value proposition could be improved."
+      "description": "The engagement rate is 1.5%, which may indicate the agent description or value proposition could be improved."
     }
   ]
 }

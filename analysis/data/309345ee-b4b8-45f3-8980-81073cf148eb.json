@@ -1,6 +1,6 @@
 {
   "agent_id": "309345ee-b4b8-45f3-8980-81073cf148eb",
-  "generated_at": "2025-11-23T12:04:28.467564",
+  "generated_at": "2025-11-24T01:54:45.293704",
   "basic_info": {
     "title": "Studio Portrait",
     "author": "Norsizu",
@@ -11,23 +11,23 @@
     "published_at": "2025-11-12T23:21:17.162000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/studio-portrait",
-    "days_since_published": 10
+    "days_since_published": 11
   },
   "performance_metrics": {
     "views": 40,
     "runs": 3,
     "saves": 0,
-    "days_tracked": 10,
+    "days_tracked": 11,
     "price": 50.0,
     "engagement_rate": 7.5,
-    "avg_runs_per_day": 0.3,
-    "avg_views_per_day": 4.0
+    "avg_runs_per_day": 0.27,
+    "avg_views_per_day": 3.64
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 7,
+    "data_points": 8,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T20:03:58.312245",
+    "last_recorded": "2025-11-24T09:54:21.691735",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -36,12 +36,14 @@
         "2025-11-23T13:27:48.290198",
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
-        "2025-11-23T20:03:58.312245"
+        "2025-11-23T20:03:58.312245",
+        "2025-11-24T09:54:21.691735"
       ],
       "views": [
         33,
         33,
         39,
+        40,
         40,
         40,
         40,
@@ -54,9 +56,11 @@
         3,
         3,
         3,
+        3,
         3
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -91,16 +95,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 199,
-    "views_rank": 193,
-    "runs_rank": 76,
+    "total_active_agents": 200,
+    "views_rank": 194,
+    "runs_rank": 69,
     "views_percentile": 3.0,
-    "runs_percentile": 61.8,
+    "runs_percentile": 65.5,
     "category": "AI Agent",
-    "category_agent_count": 199,
+    "category_agent_count": 200,
     "vs_average": {
       "views": -94.4,
-      "runs": -95.1,
+      "runs": -95.0,
       "saves": 0
     }
   },

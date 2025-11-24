@@ -1,6 +1,6 @@
 {
   "agent_id": "5f299841-8d14-44c9-8988-6bc4ec3a4abc",
-  "generated_at": "2025-11-23T12:04:26.625441",
+  "generated_at": "2025-11-24T01:54:43.274871",
   "basic_info": {
     "title": "Remove Sora2 Video Watermark",
     "author": "Darren",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-20T12:11:44.378000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/remove-sora2-video-watermark",
-    "days_since_published": 33
+    "days_since_published": 34
   },
   "performance_metrics": {
-    "views": 1884,
-    "runs": 11,
+    "views": 1888,
+    "runs": 10,
     "saves": 0,
-    "days_tracked": 33,
+    "days_tracked": 34,
     "price": 101.0,
-    "engagement_rate": 0.58,
-    "avg_runs_per_day": 0.33,
-    "avg_views_per_day": 57.09
+    "engagement_rate": 0.53,
+    "avg_runs_per_day": 0.29,
+    "avg_views_per_day": 55.53
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 7,
+    "data_points": 8,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T20:03:58.312245",
+    "last_recorded": "2025-11-24T09:54:21.691735",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -36,7 +36,8 @@
         "2025-11-23T13:27:48.290198",
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
-        "2025-11-23T20:03:58.312245"
+        "2025-11-23T20:03:58.312245",
+        "2025-11-24T09:54:21.691735"
       ],
       "views": [
         1819,
@@ -45,7 +46,8 @@
         1883,
         1883,
         1884,
-        1884
+        1884,
+        1888
       ],
       "runs": [
         26,
@@ -54,9 +56,11 @@
         11,
         11,
         11,
-        11
+        11,
+        10
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -71,18 +75,18 @@
     "has_data": true,
     "days_tracked": 4,
     "total_growth": {
-      "views": 65,
-      "runs": -15,
+      "views": 69,
+      "runs": -16,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 16.25,
-      "runs": -3.75,
+      "views": 17.25,
+      "runs": -4.0,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 3.57,
-      "runs": -57.69,
+      "views": 3.79,
+      "runs": -61.54,
       "saves": 0
     }
   },
@@ -91,16 +95,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 199,
+    "total_active_agents": 200,
     "views_rank": 18,
     "runs_rank": 46,
     "views_percentile": 91.0,
-    "runs_percentile": 76.9,
+    "runs_percentile": 77.0,
     "category": "AI Agent",
-    "category_agent_count": 199,
+    "category_agent_count": 200,
     "vs_average": {
-      "views": 164.4,
-      "runs": -82.1,
+      "views": 165.5,
+      "runs": -83.4,
       "saves": 0
     }
   },
@@ -108,7 +112,7 @@
     {
       "type": "warning",
       "title": "Low Engagement Rate",
-      "description": "The engagement rate is 0.6%, which may indicate the agent description or value proposition could be improved."
+      "description": "The engagement rate is 0.5%, which may indicate the agent description or value proposition could be improved."
     },
     {
       "type": "positive",

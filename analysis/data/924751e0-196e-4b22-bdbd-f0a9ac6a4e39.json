@@ -1,6 +1,6 @@
 {
   "agent_id": "924751e0-196e-4b22-bdbd-f0a9ac6a4e39",
-  "generated_at": "2025-11-23T12:04:26.466147",
+  "generated_at": "2025-11-24T01:54:43.097533",
   "basic_info": {
     "title": "Equity Investment Research ",
     "author": "FundaAI",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-30T17:49:56.152000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@FundaAI/equity-investment-research",
-    "days_since_published": 23
+    "days_since_published": 24
   },
   "performance_metrics": {
-    "views": 7339,
-    "runs": 524,
+    "views": 7340,
+    "runs": 511,
     "saves": 0,
-    "days_tracked": 23,
+    "days_tracked": 24,
     "price": 0.0,
-    "engagement_rate": 7.14,
-    "avg_runs_per_day": 22.78,
-    "avg_views_per_day": 319.09
+    "engagement_rate": 6.96,
+    "avg_runs_per_day": 21.29,
+    "avg_views_per_day": 305.83
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 8,
+    "data_points": 9,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-11-23T20:03:58.312245",
+    "last_recorded": "2025-11-24T09:54:21.691735",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -37,7 +37,8 @@
         "2025-11-23T13:27:48.290198",
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
-        "2025-11-23T20:03:58.312245"
+        "2025-11-23T20:03:58.312245",
+        "2025-11-24T09:54:21.691735"
       ],
       "views": [
         7279,
@@ -47,7 +48,8 @@
         7337,
         7337,
         7339,
-        7339
+        7339,
+        7340
       ],
       "runs": [
         88,
@@ -57,9 +59,11 @@
         523,
         523,
         524,
-        524
+        524,
+        511
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -75,18 +79,18 @@
     "has_data": true,
     "days_tracked": 5,
     "total_growth": {
-      "views": 60,
-      "runs": 436,
+      "views": 61,
+      "runs": 423,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 12.0,
-      "runs": 87.2,
+      "views": 12.2,
+      "runs": 84.6,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 0.82,
-      "runs": 495.45,
+      "views": 0.84,
+      "runs": 480.68,
       "saves": 0
     }
   },
@@ -95,16 +99,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 199,
+    "total_active_agents": 200,
     "views_rank": 2,
-    "runs_rank": 15,
+    "runs_rank": 16,
     "views_percentile": 99.0,
-    "runs_percentile": 92.5,
+    "runs_percentile": 92.0,
     "category": "AI Agent",
-    "category_agent_count": 199,
+    "category_agent_count": 200,
     "vs_average": {
-      "views": 930.0,
-      "runs": 753.5,
+      "views": 932.3,
+      "runs": 747.8,
       "saves": 0
     }
   },
@@ -112,7 +116,7 @@
     {
       "type": "positive",
       "title": "Active User Base",
-      "description": "Runs increased by 436, indicating growing adoption and active usage."
+      "description": "Runs increased by 423, indicating growing adoption and active usage."
     },
     {
       "type": "positive",

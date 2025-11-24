@@ -1,6 +1,6 @@
 {
   "agent_id": "fa9b8072-0321-4f46-9194-b154eaeef6bb",
-  "generated_at": "2025-11-23T12:04:28.210365",
+  "generated_at": "2025-11-24T01:54:45.001752",
   "basic_info": {
     "title": "Ink Alive",
     "author": "AllenCreator",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-12T17:38:21.168000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AllenCreator/ink-alive",
-    "days_since_published": 41
+    "days_since_published": 42
   },
   "performance_metrics": {
     "views": 111,
     "runs": 6,
     "saves": 0,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "price": 25.0,
     "engagement_rate": 5.41,
-    "avg_runs_per_day": 0.15,
-    "avg_views_per_day": 2.71
+    "avg_runs_per_day": 0.14,
+    "avg_views_per_day": 2.64
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 7,
+    "data_points": 8,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T20:03:58.312245",
+    "last_recorded": "2025-11-24T09:54:21.691735",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -36,12 +36,14 @@
         "2025-11-23T13:27:48.290198",
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
-        "2025-11-23T20:03:58.312245"
+        "2025-11-23T20:03:58.312245",
+        "2025-11-24T09:54:21.691735"
       ],
       "views": [
         106,
         106,
         107,
+        111,
         111,
         111,
         111,
@@ -54,9 +56,11 @@
         6,
         6,
         6,
+        6,
         6
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -91,16 +95,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 199,
-    "views_rank": 167,
-    "runs_rank": 57,
-    "views_percentile": 16.1,
-    "runs_percentile": 71.4,
+    "total_active_agents": 200,
+    "views_rank": 168,
+    "runs_rank": 55,
+    "views_percentile": 16.0,
+    "runs_percentile": 72.5,
     "category": "AI Agent",
-    "category_agent_count": 199,
+    "category_agent_count": 200,
     "vs_average": {
       "views": -84.4,
-      "runs": -90.2,
+      "runs": -90.0,
       "saves": 0
     }
   },

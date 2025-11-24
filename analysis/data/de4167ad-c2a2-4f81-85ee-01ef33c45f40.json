@@ -1,6 +1,6 @@
 {
   "agent_id": "de4167ad-c2a2-4f81-85ee-01ef33c45f40",
-  "generated_at": "2025-11-23T12:04:27.806244",
+  "generated_at": "2025-11-24T01:54:44.589377",
   "basic_info": {
     "title": "AI Portrait Enhancer",
     "author": "marspace_ai",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-20T17:25:22.899000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@marspace_ai/ai-portrait-enhancer",
-    "days_since_published": 33
+    "days_since_published": 34
   },
   "performance_metrics": {
     "views": 190,
     "runs": 1,
     "saves": 0,
-    "days_tracked": 33,
+    "days_tracked": 34,
     "price": 50.0,
     "engagement_rate": 0.53,
     "avg_runs_per_day": 0.03,
-    "avg_views_per_day": 5.76
+    "avg_views_per_day": 5.59
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 7,
+    "data_points": 8,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T20:03:58.312245",
+    "last_recorded": "2025-11-24T09:54:21.691735",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -36,12 +36,14 @@
         "2025-11-23T13:27:48.290198",
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
-        "2025-11-23T20:03:58.312245"
+        "2025-11-23T20:03:58.312245",
+        "2025-11-24T09:54:21.691735"
       ],
       "views": [
         184,
         184,
         187,
+        190,
         190,
         190,
         190,
@@ -54,9 +56,11 @@
         1,
         1,
         1,
+        1,
         1
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -91,16 +95,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 199,
-    "views_rank": 130,
-    "runs_rank": 103,
-    "views_percentile": 34.7,
-    "runs_percentile": 48.2,
+    "total_active_agents": 200,
+    "views_rank": 131,
+    "runs_rank": 97,
+    "views_percentile": 34.5,
+    "runs_percentile": 51.5,
     "category": "AI Agent",
-    "category_agent_count": 199,
+    "category_agent_count": 200,
     "vs_average": {
       "views": -73.3,
-      "runs": -98.4,
+      "runs": -98.3,
       "saves": 0
     }
   },

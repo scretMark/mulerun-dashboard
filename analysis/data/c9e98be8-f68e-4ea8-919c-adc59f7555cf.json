@@ -1,6 +1,6 @@
 {
   "agent_id": "c9e98be8-f68e-4ea8-919c-adc59f7555cf",
-  "generated_at": "2025-11-23T12:04:27.772080",
+  "generated_at": "2025-11-24T01:54:44.564122",
   "basic_info": {
     "title": "UPCV Resume Gen ",
     "author": "upcv",
@@ -15,19 +15,19 @@
   },
   "performance_metrics": {
     "views": 194,
-    "runs": 545,
+    "runs": 517,
     "saves": 0,
     "days_tracked": 11,
     "price": 0.0,
-    "engagement_rate": 280.93,
-    "avg_runs_per_day": 49.55,
+    "engagement_rate": 266.49,
+    "avg_runs_per_day": 47.0,
     "avg_views_per_day": 17.64
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 8,
+    "data_points": 9,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-11-23T20:03:58.312245",
+    "last_recorded": "2025-11-24T09:54:21.691735",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -37,13 +37,15 @@
         "2025-11-23T13:27:48.290198",
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
-        "2025-11-23T20:03:58.312245"
+        "2025-11-23T20:03:58.312245",
+        "2025-11-24T09:54:21.691735"
       ],
       "views": [
         126,
         148,
         149,
         180,
+        194,
         194,
         194,
         194,
@@ -57,9 +59,11 @@
         496,
         496,
         544,
-        545
+        545,
+        517
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -76,17 +80,17 @@
     "days_tracked": 5,
     "total_growth": {
       "views": 68,
-      "runs": 209,
+      "runs": 181,
       "saves": 0
     },
     "daily_average_growth": {
       "views": 13.6,
-      "runs": 41.8,
+      "runs": 36.2,
       "saves": 0.0
     },
     "percentage_growth": {
       "views": 53.97,
-      "runs": 62.2,
+      "runs": 53.87,
       "saves": 0
     }
   },
@@ -95,16 +99,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 199,
-    "views_rank": 127,
-    "runs_rank": 14,
-    "views_percentile": 36.2,
-    "runs_percentile": 93.0,
+    "total_active_agents": 200,
+    "views_rank": 129,
+    "runs_rank": 15,
+    "views_percentile": 35.5,
+    "runs_percentile": 92.5,
     "category": "AI Agent",
-    "category_agent_count": 199,
+    "category_agent_count": 200,
     "vs_average": {
-      "views": -72.8,
-      "runs": 787.7,
+      "views": -72.7,
+      "runs": 757.7,
       "saves": 0
     }
   },
@@ -112,12 +116,12 @@
     {
       "type": "positive",
       "title": "High Engagement Rate",
-      "description": "This agent has an excellent 280.9% engagement rate (runs/views), significantly above average."
+      "description": "This agent has an excellent 266.5% engagement rate (runs/views), significantly above average."
     },
     {
       "type": "positive",
       "title": "Active User Base",
-      "description": "Runs increased by 209, indicating growing adoption and active usage."
+      "description": "Runs increased by 181, indicating growing adoption and active usage."
     }
   ]
 }

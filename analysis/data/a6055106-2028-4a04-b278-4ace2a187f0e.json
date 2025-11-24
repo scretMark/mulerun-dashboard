@@ -1,6 +1,6 @@
 {
   "agent_id": "a6055106-2028-4a04-b278-4ace2a187f0e",
-  "generated_at": "2025-11-23T12:04:27.107600",
+  "generated_at": "2025-11-24T01:54:43.814987",
   "basic_info": {
     "title": "Amazing Caricature Generator",
     "author": "Darren",
@@ -15,19 +15,19 @@
   },
   "performance_metrics": {
     "views": 541,
-    "runs": 26,
+    "runs": 25,
     "saves": 0,
     "days_tracked": 34,
     "price": 51.0,
-    "engagement_rate": 4.81,
-    "avg_runs_per_day": 0.76,
+    "engagement_rate": 4.62,
+    "avg_runs_per_day": 0.74,
     "avg_views_per_day": 15.91
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 7,
+    "data_points": 8,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T20:03:58.312245",
+    "last_recorded": "2025-11-24T09:54:21.691735",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -36,12 +36,14 @@
         "2025-11-23T13:27:48.290198",
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
-        "2025-11-23T20:03:58.312245"
+        "2025-11-23T20:03:58.312245",
+        "2025-11-24T09:54:21.691735"
       ],
       "views": [
         526,
         526,
         539,
+        541,
         541,
         541,
         541,
@@ -54,9 +56,11 @@
         26,
         26,
         26,
-        26
+        26,
+        25
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -72,17 +76,17 @@
     "days_tracked": 4,
     "total_growth": {
       "views": 15,
-      "runs": 23,
+      "runs": 22,
       "saves": 0
     },
     "daily_average_growth": {
       "views": 3.75,
-      "runs": 5.75,
+      "runs": 5.5,
       "saves": 0.0
     },
     "percentage_growth": {
       "views": 2.85,
-      "runs": 766.67,
+      "runs": 733.33,
       "saves": 0
     }
   },
@@ -91,16 +95,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 199,
+    "total_active_agents": 200,
     "views_rank": 65,
     "runs_rank": 35,
-    "views_percentile": 67.3,
-    "runs_percentile": 82.4,
+    "views_percentile": 67.5,
+    "runs_percentile": 82.5,
     "category": "AI Agent",
-    "category_agent_count": 199,
+    "category_agent_count": 200,
     "vs_average": {
-      "views": -24.1,
-      "runs": -57.7,
+      "views": -23.9,
+      "runs": -58.5,
       "saves": 0
     }
   },

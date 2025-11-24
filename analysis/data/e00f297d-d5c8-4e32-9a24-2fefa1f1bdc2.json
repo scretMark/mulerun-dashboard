@@ -1,6 +1,6 @@
 {
   "agent_id": "e00f297d-d5c8-4e32-9a24-2fefa1f1bdc2",
-  "generated_at": "2025-11-23T12:04:28.030179",
+  "generated_at": "2025-11-24T01:54:44.809077",
   "basic_info": {
     "title": "TRON Ares Neon Filter",
     "author": "Lucas",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-20T21:17:38.032000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/tron-ares-neon-filter",
-    "days_since_published": 33
+    "days_since_published": 34
   },
   "performance_metrics": {
     "views": 150,
     "runs": 3,
     "saves": 0,
-    "days_tracked": 33,
+    "days_tracked": 34,
     "price": 50.0,
     "engagement_rate": 2.0,
     "avg_runs_per_day": 0.09,
-    "avg_views_per_day": 4.55
+    "avg_views_per_day": 4.41
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 7,
+    "data_points": 8,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T20:03:58.312245",
+    "last_recorded": "2025-11-24T09:54:21.691735",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -36,12 +36,14 @@
         "2025-11-23T13:27:48.290198",
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
-        "2025-11-23T20:03:58.312245"
+        "2025-11-23T20:03:58.312245",
+        "2025-11-24T09:54:21.691735"
       ],
       "views": [
         138,
         138,
         149,
+        150,
         150,
         150,
         150,
@@ -54,9 +56,11 @@
         3,
         3,
         3,
+        3,
         3
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -91,16 +95,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 199,
-    "views_rank": 150,
-    "runs_rank": 76,
-    "views_percentile": 24.6,
-    "runs_percentile": 61.8,
+    "total_active_agents": 200,
+    "views_rank": 151,
+    "runs_rank": 69,
+    "views_percentile": 24.5,
+    "runs_percentile": 65.5,
     "category": "AI Agent",
-    "category_agent_count": 199,
+    "category_agent_count": 200,
     "vs_average": {
       "views": -78.9,
-      "runs": -95.1,
+      "runs": -95.0,
       "saves": 0
     }
   },

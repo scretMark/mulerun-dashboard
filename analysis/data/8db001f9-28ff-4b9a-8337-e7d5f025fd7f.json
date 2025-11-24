@@ -1,6 +1,6 @@
 {
   "agent_id": "8db001f9-28ff-4b9a-8337-e7d5f025fd7f",
-  "generated_at": "2025-11-23T12:04:26.868637",
+  "generated_at": "2025-11-24T01:54:43.562602",
   "basic_info": {
     "title": "YouTube Thumbnail",
     "author": "summerail",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-09T16:48:38.136000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/youtube-thumbnail",
-    "days_since_published": 44
+    "days_since_published": 45
   },
   "performance_metrics": {
     "views": 872,
-    "runs": 67,
+    "runs": 52,
     "saves": 0,
-    "days_tracked": 44,
+    "days_tracked": 45,
     "price": 30.0,
-    "engagement_rate": 7.68,
-    "avg_runs_per_day": 1.52,
-    "avg_views_per_day": 19.82
+    "engagement_rate": 5.96,
+    "avg_runs_per_day": 1.16,
+    "avg_views_per_day": 19.38
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 8,
+    "data_points": 9,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-11-23T20:03:58.312245",
+    "last_recorded": "2025-11-24T09:54:21.691735",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -37,13 +37,15 @@
         "2025-11-23T13:27:48.290198",
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
-        "2025-11-23T20:03:58.312245"
+        "2025-11-23T20:03:58.312245",
+        "2025-11-24T09:54:21.691735"
       ],
       "views": [
         834,
         837,
         837,
         849,
+        872,
         872,
         872,
         872,
@@ -57,9 +59,11 @@
         67,
         67,
         67,
-        67
+        67,
+        52
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -76,17 +80,17 @@
     "days_tracked": 5,
     "total_growth": {
       "views": 38,
-      "runs": 21,
+      "runs": 6,
       "saves": 0
     },
     "daily_average_growth": {
       "views": 7.6,
-      "runs": 4.2,
+      "runs": 1.2,
       "saves": 0.0
     },
     "percentage_growth": {
       "views": 4.56,
-      "runs": 45.65,
+      "runs": 13.04,
       "saves": 0
     }
   },
@@ -95,16 +99,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 199,
+    "total_active_agents": 200,
     "views_rank": 43,
-    "runs_rank": 25,
-    "views_percentile": 78.4,
-    "runs_percentile": 87.4,
+    "runs_rank": 27,
+    "views_percentile": 78.5,
+    "runs_percentile": 86.5,
     "category": "AI Agent",
-    "category_agent_count": 199,
+    "category_agent_count": 200,
     "vs_average": {
-      "views": 22.4,
-      "runs": 9.1,
+      "views": 22.6,
+      "runs": -13.7,
       "saves": 0
     }
   },

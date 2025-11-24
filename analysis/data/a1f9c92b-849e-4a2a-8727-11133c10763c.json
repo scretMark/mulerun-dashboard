@@ -1,6 +1,6 @@
 {
   "agent_id": "a1f9c92b-849e-4a2a-8727-11133c10763c",
-  "generated_at": "2025-11-23T12:04:26.654693",
+  "generated_at": "2025-11-24T01:54:43.309073",
   "basic_info": {
     "title": "Emperor Pet AI",
     "author": "laughing_code",
@@ -11,23 +11,23 @@
     "published_at": "2025-09-28T17:31:46.313000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@laughing_code/emperor-pet-ai",
-    "days_since_published": 55
+    "days_since_published": 56
   },
   "performance_metrics": {
-    "views": 1618,
-    "runs": 1,
+    "views": 1621,
+    "runs": 4,
     "saves": 0,
-    "days_tracked": 55,
+    "days_tracked": 56,
     "price": 70.0,
-    "engagement_rate": 0.06,
-    "avg_runs_per_day": 0.02,
-    "avg_views_per_day": 29.42
+    "engagement_rate": 0.25,
+    "avg_runs_per_day": 0.07,
+    "avg_views_per_day": 28.95
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 7,
+    "data_points": 8,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T20:03:58.312245",
+    "last_recorded": "2025-11-24T09:54:21.691735",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -36,7 +36,8 @@
         "2025-11-23T13:27:48.290198",
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
-        "2025-11-23T20:03:58.312245"
+        "2025-11-23T20:03:58.312245",
+        "2025-11-24T09:54:21.691735"
       ],
       "views": [
         1608,
@@ -45,7 +46,8 @@
         1617,
         1617,
         1618,
-        1618
+        1618,
+        1621
       ],
       "runs": [
         0,
@@ -54,9 +56,11 @@
         1,
         1,
         1,
-        1
+        1,
+        4
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -71,17 +75,17 @@
     "has_data": true,
     "days_tracked": 4,
     "total_growth": {
-      "views": 10,
-      "runs": 1,
+      "views": 13,
+      "runs": 4,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 2.5,
-      "runs": 0.25,
+      "views": 3.25,
+      "runs": 1.0,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 0.62,
+      "views": 0.81,
       "runs": 0,
       "saves": 0
     }
@@ -91,16 +95,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 199,
+    "total_active_agents": 200,
     "views_rank": 21,
-    "runs_rank": 103,
-    "views_percentile": 89.4,
-    "runs_percentile": 48.2,
+    "runs_rank": 65,
+    "views_percentile": 89.5,
+    "runs_percentile": 67.5,
     "category": "AI Agent",
-    "category_agent_count": 199,
+    "category_agent_count": 200,
     "vs_average": {
-      "views": 127.1,
-      "runs": -98.4,
+      "views": 128.0,
+      "runs": -93.4,
       "saves": 0
     }
   },
@@ -108,12 +112,12 @@
     {
       "type": "warning",
       "title": "Low Engagement Rate",
-      "description": "The engagement rate is 0.1%, which may indicate the agent description or value proposition could be improved."
+      "description": "The engagement rate is 0.2%, which may indicate the agent description or value proposition could be improved."
     },
     {
       "type": "positive",
       "title": "Top Performer",
-      "description": "This agent ranks in the top 11% by views, placing it among the most popular agents."
+      "description": "This agent ranks in the top 10% by views, placing it among the most popular agents."
     }
   ]
 }

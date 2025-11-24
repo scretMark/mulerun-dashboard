@@ -1,6 +1,6 @@
 {
   "agent_id": "b52490b5-59b2-4d47-8437-f4278542febd",
-  "generated_at": "2025-11-23T12:04:26.694018",
+  "generated_at": "2025-11-24T01:54:43.353127",
   "basic_info": {
     "title": "Quipple Meme Generator",
     "author": "akirakai",
@@ -11,23 +11,23 @@
     "published_at": "2025-09-12T17:17:32.318000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@akirakai/quipple-meme-generator",
-    "days_since_published": 71
+    "days_since_published": 72
   },
   "performance_metrics": {
     "views": 1397,
-    "runs": 3,
+    "runs": 2,
     "saves": 0,
-    "days_tracked": 71,
+    "days_tracked": 72,
     "price": 0.5,
-    "engagement_rate": 0.21,
-    "avg_runs_per_day": 0.04,
-    "avg_views_per_day": 19.68
+    "engagement_rate": 0.14,
+    "avg_runs_per_day": 0.03,
+    "avg_views_per_day": 19.4
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 7,
+    "data_points": 8,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T20:03:58.312245",
+    "last_recorded": "2025-11-24T09:54:21.691735",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -36,7 +36,8 @@
         "2025-11-23T13:27:48.290198",
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
-        "2025-11-23T20:03:58.312245"
+        "2025-11-23T20:03:58.312245",
+        "2025-11-24T09:54:21.691735"
       ],
       "views": [
         1385,
@@ -44,6 +45,7 @@
         1392,
         1396,
         1396,
+        1397,
         1397,
         1397
       ],
@@ -54,9 +56,11 @@
         3,
         3,
         3,
-        3
+        3,
+        2
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -72,17 +76,17 @@
     "days_tracked": 4,
     "total_growth": {
       "views": 12,
-      "runs": 1,
+      "runs": 0,
       "saves": 0
     },
     "daily_average_growth": {
       "views": 3.0,
-      "runs": 0.25,
+      "runs": 0.0,
       "saves": 0.0
     },
     "percentage_growth": {
       "views": 0.87,
-      "runs": 50.0,
+      "runs": 0.0,
       "saves": 0
     }
   },
@@ -91,16 +95,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 199,
+    "total_active_agents": 200,
     "views_rank": 25,
-    "runs_rank": 76,
-    "views_percentile": 87.4,
-    "runs_percentile": 61.8,
+    "runs_rank": 83,
+    "views_percentile": 87.5,
+    "runs_percentile": 58.5,
     "category": "AI Agent",
-    "category_agent_count": 199,
+    "category_agent_count": 200,
     "vs_average": {
-      "views": 96.1,
-      "runs": -95.1,
+      "views": 96.5,
+      "runs": -96.7,
       "saves": 0
     }
   },
@@ -108,12 +112,12 @@
     {
       "type": "warning",
       "title": "Low Engagement Rate",
-      "description": "The engagement rate is 0.2%, which may indicate the agent description or value proposition could be improved."
+      "description": "The engagement rate is 0.1%, which may indicate the agent description or value proposition could be improved."
     },
     {
       "type": "positive",
       "title": "Top Performer",
-      "description": "This agent ranks in the top 13% by views, placing it among the most popular agents."
+      "description": "This agent ranks in the top 12% by views, placing it among the most popular agents."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "ca8f87b0-cc33-4e29-563d-04031871e731",
-  "generated_at": "2025-11-23T12:04:26.566123",
+  "generated_at": "2025-11-24T01:54:43.208353",
   "basic_info": {
     "title": "Blender MCP AI Agent",
     "author": "Siddhartbbafa48",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-30T17:48:01.927000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Siddhartbbafa48/blender-mcp-ai-agent",
-    "days_since_published": 23
+    "days_since_published": 24
   },
   "performance_metrics": {
     "views": 2256,
     "runs": 9,
     "saves": 0,
-    "days_tracked": 23,
+    "days_tracked": 24,
     "price": 2.0,
     "engagement_rate": 0.4,
-    "avg_runs_per_day": 0.39,
-    "avg_views_per_day": 98.09
+    "avg_runs_per_day": 0.38,
+    "avg_views_per_day": 94.0
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 7,
+    "data_points": 8,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T20:03:58.312245",
+    "last_recorded": "2025-11-24T09:54:21.691735",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -36,12 +36,14 @@
         "2025-11-23T13:27:48.290198",
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
-        "2025-11-23T20:03:58.312245"
+        "2025-11-23T20:03:58.312245",
+        "2025-11-24T09:54:21.691735"
       ],
       "views": [
         2241,
         2241,
         2253,
+        2256,
         2256,
         2256,
         2256,
@@ -54,9 +56,11 @@
         9,
         9,
         9,
+        9,
         9
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -91,16 +95,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 199,
+    "total_active_agents": 200,
     "views_rank": 12,
     "runs_rank": 49,
     "views_percentile": 94.0,
-    "runs_percentile": 75.4,
+    "runs_percentile": 75.5,
     "category": "AI Agent",
-    "category_agent_count": 199,
+    "category_agent_count": 200,
     "vs_average": {
-      "views": 216.6,
-      "runs": -85.3,
+      "views": 217.3,
+      "runs": -85.1,
       "saves": 0
     }
   },

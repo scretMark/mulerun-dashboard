@@ -1,6 +1,6 @@
 {
   "agent_id": "29345d7d-b871-4f34-8ed9-66c8e995726a",
-  "generated_at": "2025-11-23T12:04:27.841933",
+  "generated_at": "2025-11-24T01:54:44.622750",
   "basic_info": {
     "title": "Can Kitty Eat",
     "author": "wujin",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-07T13:04:27.727000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@wujin/can-kitty-eat",
-    "days_since_published": 46
+    "days_since_published": 47
   },
   "performance_metrics": {
     "views": 179,
     "runs": 1,
     "saves": 0,
-    "days_tracked": 46,
+    "days_tracked": 47,
     "price": 30.0,
     "engagement_rate": 0.56,
     "avg_runs_per_day": 0.02,
-    "avg_views_per_day": 3.89
+    "avg_views_per_day": 3.81
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 7,
+    "data_points": 8,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T20:03:58.312245",
+    "last_recorded": "2025-11-24T09:54:21.691735",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -36,12 +36,14 @@
         "2025-11-23T13:27:48.290198",
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
-        "2025-11-23T20:03:58.312245"
+        "2025-11-23T20:03:58.312245",
+        "2025-11-24T09:54:21.691735"
       ],
       "views": [
         175,
         175,
         177,
+        179,
         179,
         179,
         179,
@@ -54,9 +56,11 @@
         1,
         1,
         1,
+        1,
         1
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -91,16 +95,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 199,
-    "views_rank": 133,
-    "runs_rank": 103,
-    "views_percentile": 33.2,
-    "runs_percentile": 48.2,
+    "total_active_agents": 200,
+    "views_rank": 134,
+    "runs_rank": 97,
+    "views_percentile": 33.0,
+    "runs_percentile": 51.5,
     "category": "AI Agent",
-    "category_agent_count": 199,
+    "category_agent_count": 200,
     "vs_average": {
-      "views": -74.9,
-      "runs": -98.4,
+      "views": -74.8,
+      "runs": -98.3,
       "saves": 0
     }
   },

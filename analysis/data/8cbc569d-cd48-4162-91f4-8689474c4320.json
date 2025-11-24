@@ -1,6 +1,6 @@
 {
   "agent_id": "8cbc569d-cd48-4162-91f4-8689474c4320",
-  "generated_at": "2025-11-23T12:04:28.121077",
+  "generated_at": "2025-11-24T01:54:44.899626",
   "basic_info": {
     "title": "PDF 3D Flipbook",
     "author": "summerail",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-14T19:29:38.855000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/pdf-3d-flipbook",
-    "days_since_published": 39
+    "days_since_published": 40
   },
   "performance_metrics": {
     "views": 135,
-    "runs": 9,
+    "runs": 3,
     "saves": 0,
-    "days_tracked": 39,
+    "days_tracked": 40,
     "price": 10.0,
-    "engagement_rate": 6.67,
-    "avg_runs_per_day": 0.23,
-    "avg_views_per_day": 3.46
+    "engagement_rate": 2.22,
+    "avg_runs_per_day": 0.07,
+    "avg_views_per_day": 3.38
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 7,
+    "data_points": 8,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T20:03:58.312245",
+    "last_recorded": "2025-11-24T09:54:21.691735",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -36,12 +36,14 @@
         "2025-11-23T13:27:48.290198",
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
-        "2025-11-23T20:03:58.312245"
+        "2025-11-23T20:03:58.312245",
+        "2025-11-24T09:54:21.691735"
       ],
       "views": [
         129,
         129,
         133,
+        135,
         135,
         135,
         135,
@@ -54,9 +56,11 @@
         9,
         9,
         9,
-        9
+        9,
+        3
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -72,17 +76,17 @@
     "days_tracked": 4,
     "total_growth": {
       "views": 6,
-      "runs": 3,
+      "runs": -3,
       "saves": 0
     },
     "daily_average_growth": {
       "views": 1.5,
-      "runs": 0.75,
+      "runs": -0.75,
       "saves": 0.0
     },
     "percentage_growth": {
       "views": 4.65,
-      "runs": 50.0,
+      "runs": -50.0,
       "saves": 0
     }
   },
@@ -91,16 +95,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 199,
-    "views_rank": 158,
-    "runs_rank": 49,
-    "views_percentile": 20.6,
-    "runs_percentile": 75.4,
+    "total_active_agents": 200,
+    "views_rank": 159,
+    "runs_rank": 69,
+    "views_percentile": 20.5,
+    "runs_percentile": 65.5,
     "category": "AI Agent",
-    "category_agent_count": 199,
+    "category_agent_count": 200,
     "vs_average": {
-      "views": -81.1,
-      "runs": -85.3,
+      "views": -81.0,
+      "runs": -95.0,
       "saves": 0
     }
   },

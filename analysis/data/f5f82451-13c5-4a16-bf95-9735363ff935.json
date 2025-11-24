@@ -1,6 +1,6 @@
 {
   "agent_id": "f5f82451-13c5-4a16-bf95-9735363ff935",
-  "generated_at": "2025-11-23T12:04:26.606321",
+  "generated_at": "2025-11-24T01:54:43.252740",
   "basic_info": {
     "title": "StarSnap",
     "author": "YuTou_baby",
@@ -11,23 +11,23 @@
     "published_at": "2025-09-05T23:48:00.962000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@YuTou_baby/starsnap",
-    "days_since_published": 78
+    "days_since_published": 79
   },
   "performance_metrics": {
     "views": 1949,
     "runs": 407,
     "saves": 0,
-    "days_tracked": 78,
+    "days_tracked": 79,
     "price": 80.0,
     "engagement_rate": 20.88,
-    "avg_runs_per_day": 5.22,
-    "avg_views_per_day": 24.99
+    "avg_runs_per_day": 5.15,
+    "avg_views_per_day": 24.67
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 7,
+    "data_points": 8,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-23T20:03:58.312245",
+    "last_recorded": "2025-11-24T09:54:21.691735",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -36,12 +36,14 @@
         "2025-11-23T13:27:48.290198",
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
-        "2025-11-23T20:03:58.312245"
+        "2025-11-23T20:03:58.312245",
+        "2025-11-24T09:54:21.691735"
       ],
       "views": [
         1936,
         1936,
         1948,
+        1949,
         1949,
         1949,
         1949,
@@ -54,9 +56,11 @@
         407,
         407,
         407,
+        407,
         407
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -91,16 +95,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 199,
+    "total_active_agents": 200,
     "views_rank": 16,
     "runs_rank": 18,
     "views_percentile": 92.0,
     "runs_percentile": 91.0,
     "category": "AI Agent",
-    "category_agent_count": 199,
+    "category_agent_count": 200,
     "vs_average": {
-      "views": 173.5,
-      "runs": 562.9,
+      "views": 174.1,
+      "runs": 575.2,
       "saves": 0
     }
   },
