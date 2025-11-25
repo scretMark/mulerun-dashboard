@@ -1,33 +1,33 @@
 {
   "agent_id": "6faa15dc-b0e8-499f-8ff7-8cc9c0553837",
-  "generated_at": "2025-11-24T01:54:44.475129",
+  "generated_at": "2025-11-25T00:00:25.902070",
   "basic_info": {
     "title": "Minimalist Origami Photo",
     "author": "Darren",
-    "description": "Origami Photo is a minimalist origami art photo generator that requires only three simple elements: character, accessory, and text to create a beautiful origami art photo. Each photo is crafted using ...",
+    "description": "Create personalized origami art photos with Minimalist Origami Photo for unique AI art generation, perfect for digital artists and hobbyists.",
     "short_description": "Generates minimalist origami art photos with character, prop, and text.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-10-20T11:31:28.113000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/minimalist-origami-photo",
-    "days_since_published": 34
+    "days_since_published": 35
   },
   "performance_metrics": {
-    "views": 207,
+    "views": 212,
     "runs": 3,
     "saves": 0,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "price": 51.0,
-    "engagement_rate": 1.45,
+    "engagement_rate": 1.42,
     "avg_runs_per_day": 0.09,
-    "avg_views_per_day": 6.09
+    "avg_views_per_day": 6.06
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 8,
+    "data_points": 9,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-24T09:54:21.691735",
+    "last_recorded": "2025-11-25T08:00:22.881701",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -37,7 +37,8 @@
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
         "2025-11-23T20:03:58.312245",
-        "2025-11-24T09:54:21.691735"
+        "2025-11-24T09:54:21.691735",
+        "2025-11-25T08:00:22.881701"
       ],
       "views": [
         200,
@@ -47,7 +48,8 @@
         207,
         207,
         207,
-        207
+        207,
+        212
       ],
       "runs": [
         1,
@@ -57,9 +59,11 @@
         4,
         4,
         4,
+        3,
         3
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -73,19 +77,19 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 4,
+    "days_tracked": 5,
     "total_growth": {
-      "views": 7,
+      "views": 12,
       "runs": 2,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 1.75,
-      "runs": 0.5,
+      "views": 2.4,
+      "runs": 0.4,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 3.5,
+      "views": 6.0,
       "runs": 200.0,
       "saves": 0
     }
@@ -97,14 +101,14 @@
   "market_position": {
     "total_active_agents": 200,
     "views_rank": 121,
-    "runs_rank": 69,
+    "runs_rank": 70,
     "views_percentile": 39.5,
-    "runs_percentile": 65.5,
+    "runs_percentile": 65.0,
     "category": "AI Agent",
     "category_agent_count": 200,
     "vs_average": {
-      "views": -70.9,
-      "runs": -95.0,
+      "views": -70.3,
+      "runs": -95.3,
       "saves": 0
     }
   },

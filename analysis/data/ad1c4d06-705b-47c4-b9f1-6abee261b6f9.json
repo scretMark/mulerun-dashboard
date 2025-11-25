@@ -1,6 +1,6 @@
 {
   "agent_id": "ad1c4d06-705b-47c4-b9f1-6abee261b6f9",
-  "generated_at": "2025-11-24T01:54:43.488294",
+  "generated_at": "2025-11-25T00:00:24.992432",
   "basic_info": {
     "title": "Food Image to Recipe",
     "author": "vktsbiy414205x1",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-07T20:08:53.831000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@vktsbiy414205x1/food-image-to-recipe",
-    "days_since_published": 47
+    "days_since_published": 48
   },
   "performance_metrics": {
-    "views": 955,
+    "views": 956,
     "runs": 1,
     "saves": 0,
-    "days_tracked": 47,
+    "days_tracked": 48,
     "price": 50.0,
     "engagement_rate": 0.1,
     "avg_runs_per_day": 0.02,
-    "avg_views_per_day": 20.32
+    "avg_views_per_day": 19.92
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 8,
+    "data_points": 9,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-24T09:54:21.691735",
+    "last_recorded": "2025-11-25T08:00:22.881701",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -37,7 +37,8 @@
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
         "2025-11-23T20:03:58.312245",
-        "2025-11-24T09:54:21.691735"
+        "2025-11-24T09:54:21.691735",
+        "2025-11-25T08:00:22.881701"
       ],
       "views": [
         947,
@@ -47,12 +48,14 @@
         955,
         955,
         955,
-        955
+        955,
+        956
       ],
       "runs": [
         1,
         1,
         2,
+        1,
         1,
         1,
         1,
@@ -67,25 +70,26 @@
         0,
         0,
         0,
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 4,
+    "days_tracked": 5,
     "total_growth": {
-      "views": 8,
+      "views": 9,
       "runs": 0,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 2.0,
+      "views": 1.8,
       "runs": 0.0,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 0.84,
+      "views": 0.95,
       "runs": 0.0,
       "saves": 0
     }
@@ -97,14 +101,14 @@
   "market_position": {
     "total_active_agents": 200,
     "views_rank": 36,
-    "runs_rank": 97,
+    "runs_rank": 92,
     "views_percentile": 82.0,
-    "runs_percentile": 51.5,
+    "runs_percentile": 54.0,
     "category": "AI Agent",
     "category_agent_count": 200,
     "vs_average": {
-      "views": 34.3,
-      "runs": -98.3,
+      "views": 33.7,
+      "runs": -98.4,
       "saves": 0
     }
   },

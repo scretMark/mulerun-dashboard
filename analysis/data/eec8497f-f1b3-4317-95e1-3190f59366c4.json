@@ -1,33 +1,33 @@
 {
   "agent_id": "eec8497f-f1b3-4317-95e1-3190f59366c4",
-  "generated_at": "2025-11-24T01:54:44.991115",
+  "generated_at": "2025-11-25T00:00:26.310161",
   "basic_info": {
     "title": "AskHeurist",
     "author": "AskHeurist",
-    "description": "Get sharp, actionable crypto insights from your personal AI analyst.\nAsk Heurist is your crypto investment companion. It delivers market analysis, monitors wallets and DeFi activity, and enables conve...",
+    "description": "Ask Heurist, an AI crypto analyst, delivers sharp insights with on-chain tracking, real-time market insights, and concise summaries for informed decisions",
     "short_description": "Delivers actionable crypto market analysis and insights.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-10-14T10:14:58.206000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AskHeurist/askheurist",
-    "days_since_published": 40
+    "days_since_published": 41
   },
   "performance_metrics": {
-    "views": 113,
-    "runs": 3,
+    "views": 117,
+    "runs": 2,
     "saves": 0,
-    "days_tracked": 40,
+    "days_tracked": 41,
     "price": 150.0,
-    "engagement_rate": 2.65,
-    "avg_runs_per_day": 0.07,
-    "avg_views_per_day": 2.83
+    "engagement_rate": 1.71,
+    "avg_runs_per_day": 0.05,
+    "avg_views_per_day": 2.85
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 8,
+    "data_points": 9,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-24T09:54:21.691735",
+    "last_recorded": "2025-11-25T08:00:22.881701",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -37,7 +37,8 @@
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
         "2025-11-23T20:03:58.312245",
-        "2025-11-24T09:54:21.691735"
+        "2025-11-24T09:54:21.691735",
+        "2025-11-25T08:00:22.881701"
       ],
       "views": [
         106,
@@ -47,7 +48,8 @@
         113,
         113,
         113,
-        113
+        113,
+        117
       ],
       "runs": [
         1,
@@ -57,9 +59,11 @@
         3,
         3,
         3,
-        3
+        3,
+        2
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -73,20 +77,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 4,
+    "days_tracked": 5,
     "total_growth": {
-      "views": 7,
-      "runs": 2,
+      "views": 11,
+      "runs": 1,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 1.75,
-      "runs": 0.5,
+      "views": 2.2,
+      "runs": 0.2,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 6.6,
-      "runs": 200.0,
+      "views": 10.38,
+      "runs": 100.0,
       "saves": 0
     }
   },
@@ -96,17 +100,23 @@
   },
   "market_position": {
     "total_active_agents": 200,
-    "views_rank": 166,
-    "runs_rank": 69,
-    "views_percentile": 17.0,
-    "runs_percentile": 65.5,
+    "views_rank": 163,
+    "runs_rank": 78,
+    "views_percentile": 18.5,
+    "runs_percentile": 61.0,
     "category": "AI Agent",
     "category_agent_count": 200,
     "vs_average": {
-      "views": -84.1,
-      "runs": -95.0,
+      "views": -83.6,
+      "runs": -96.9,
       "saves": 0
     }
   },
-  "insights": []
+  "insights": [
+    {
+      "type": "warning",
+      "title": "Low Engagement Rate",
+      "description": "The engagement rate is 1.7%, which may indicate the agent description or value proposition could be improved."
+    }
+  ]
 }

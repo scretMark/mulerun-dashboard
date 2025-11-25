@@ -1,6 +1,6 @@
 {
   "agent_id": "39f43fbe-bbf5-4eb6-b600-b1d60dafcf8d",
-  "generated_at": "2025-11-24T01:54:43.746374",
+  "generated_at": "2025-11-25T00:00:25.267992",
   "basic_info": {
     "title": "Travel with AI",
     "author": "Rhino",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-16T16:55:46.056000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Rhino/travel-with-ai",
-    "days_since_published": 38
+    "days_since_published": 39
   },
   "performance_metrics": {
     "views": 615,
-    "runs": 6,
+    "runs": 5,
     "saves": 0,
-    "days_tracked": 38,
+    "days_tracked": 39,
     "price": 40.0,
-    "engagement_rate": 0.98,
-    "avg_runs_per_day": 0.16,
-    "avg_views_per_day": 16.18
+    "engagement_rate": 0.81,
+    "avg_runs_per_day": 0.13,
+    "avg_views_per_day": 15.77
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 8,
+    "data_points": 9,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-24T09:54:21.691735",
+    "last_recorded": "2025-11-25T08:00:22.881701",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -37,7 +37,8 @@
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
         "2025-11-23T20:03:58.312245",
-        "2025-11-24T09:54:21.691735"
+        "2025-11-24T09:54:21.691735",
+        "2025-11-25T08:00:22.881701"
       ],
       "views": [
         609,
@@ -47,6 +48,7 @@
         613,
         613,
         613,
+        615,
         615
       ],
       "runs": [
@@ -57,9 +59,11 @@
         6,
         6,
         6,
-        6
+        6,
+        5
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -73,20 +77,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 4,
+    "days_tracked": 5,
     "total_growth": {
       "views": 6,
-      "runs": 5,
+      "runs": 4,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 1.5,
-      "runs": 1.25,
+      "views": 1.2,
+      "runs": 0.8,
       "saves": 0.0
     },
     "percentage_growth": {
       "views": 0.99,
-      "runs": 500.0,
+      "runs": 400.0,
       "saves": 0
     }
   },
@@ -96,15 +100,15 @@
   },
   "market_position": {
     "total_active_agents": 200,
-    "views_rank": 59,
-    "runs_rank": 55,
-    "views_percentile": 70.5,
-    "runs_percentile": 72.5,
+    "views_rank": 60,
+    "runs_rank": 61,
+    "views_percentile": 70.0,
+    "runs_percentile": 69.5,
     "category": "AI Agent",
     "category_agent_count": 200,
     "vs_average": {
-      "views": -13.5,
-      "runs": -90.0,
+      "views": -14.0,
+      "runs": -92.2,
       "saves": 0
     }
   },
@@ -112,7 +116,7 @@
     {
       "type": "warning",
       "title": "Low Engagement Rate",
-      "description": "The engagement rate is 1.0%, which may indicate the agent description or value proposition could be improved."
+      "description": "The engagement rate is 0.8%, which may indicate the agent description or value proposition could be improved."
     }
   ]
 }

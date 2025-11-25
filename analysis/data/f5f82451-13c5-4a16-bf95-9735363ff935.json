@@ -1,6 +1,6 @@
 {
   "agent_id": "f5f82451-13c5-4a16-bf95-9735363ff935",
-  "generated_at": "2025-11-24T01:54:43.252740",
+  "generated_at": "2025-11-25T00:00:24.775933",
   "basic_info": {
     "title": "StarSnap",
     "author": "YuTou_baby",
@@ -11,23 +11,23 @@
     "published_at": "2025-09-05T23:48:00.962000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@YuTou_baby/starsnap",
-    "days_since_published": 79
+    "days_since_published": 80
   },
   "performance_metrics": {
-    "views": 1949,
-    "runs": 407,
+    "views": 1953,
+    "runs": 382,
     "saves": 0,
-    "days_tracked": 79,
+    "days_tracked": 80,
     "price": 80.0,
-    "engagement_rate": 20.88,
-    "avg_runs_per_day": 5.15,
-    "avg_views_per_day": 24.67
+    "engagement_rate": 19.56,
+    "avg_runs_per_day": 4.78,
+    "avg_views_per_day": 24.41
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 8,
+    "data_points": 9,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-24T09:54:21.691735",
+    "last_recorded": "2025-11-25T08:00:22.881701",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -37,7 +37,8 @@
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
         "2025-11-23T20:03:58.312245",
-        "2025-11-24T09:54:21.691735"
+        "2025-11-24T09:54:21.691735",
+        "2025-11-25T08:00:22.881701"
       ],
       "views": [
         1936,
@@ -47,7 +48,8 @@
         1949,
         1949,
         1949,
-        1949
+        1949,
+        1953
       ],
       "runs": [
         52,
@@ -57,9 +59,11 @@
         407,
         407,
         407,
-        407
+        407,
+        382
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -73,20 +77,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 4,
+    "days_tracked": 5,
     "total_growth": {
-      "views": 13,
-      "runs": 355,
+      "views": 17,
+      "runs": 330,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 3.25,
-      "runs": 88.75,
+      "views": 3.4,
+      "runs": 66.0,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 0.67,
-      "runs": 682.69,
+      "views": 0.88,
+      "runs": 634.62,
       "saves": 0
     }
   },
@@ -103,8 +107,8 @@
     "category": "AI Agent",
     "category_agent_count": 200,
     "vs_average": {
-      "views": 174.1,
-      "runs": 575.2,
+      "views": 173.2,
+      "runs": 493.9,
       "saves": 0
     }
   },
@@ -112,12 +116,12 @@
     {
       "type": "positive",
       "title": "High Engagement Rate",
-      "description": "This agent has an excellent 20.9% engagement rate (runs/views), significantly above average."
+      "description": "This agent has an excellent 19.6% engagement rate (runs/views), significantly above average."
     },
     {
       "type": "positive",
       "title": "Active User Base",
-      "description": "Runs increased by 355, indicating growing adoption and active usage."
+      "description": "Runs increased by 330, indicating growing adoption and active usage."
     },
     {
       "type": "positive",

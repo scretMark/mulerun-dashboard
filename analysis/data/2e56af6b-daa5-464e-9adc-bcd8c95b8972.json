@@ -1,33 +1,33 @@
 {
   "agent_id": "2e56af6b-daa5-464e-9adc-bcd8c95b8972",
-  "generated_at": "2025-11-24T01:54:43.914315",
+  "generated_at": "2025-11-25T00:00:25.429430",
   "basic_info": {
     "title": "Realistic 3D Figure",
     "author": "Darren",
-    "description": "✨ Want to own a 3D figure that’s truly yours? This AI-powered agent transforms a single photo into a hyper-realistic collectible figure, complete with custom packaging.\nUpload any portrait photo, and ...",
+    "description": "AI-powered 3D action figure generator: instantly turn any photo into a collectible toy, complete with modeling preview, custom packaging, and lifelike results—perfect for gifts or keepsakes",
     "short_description": "Transforms a photo into a hyper-realistic 3D collectible figure.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-10-20T11:34:13.892000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/realistic-3d-figure",
-    "days_since_published": 34
+    "days_since_published": 35
   },
   "performance_metrics": {
-    "views": 429,
+    "views": 433,
     "runs": 7,
     "saves": 0,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "price": 51.0,
-    "engagement_rate": 1.63,
-    "avg_runs_per_day": 0.21,
-    "avg_views_per_day": 12.62
+    "engagement_rate": 1.62,
+    "avg_runs_per_day": 0.2,
+    "avg_views_per_day": 12.37
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 8,
+    "data_points": 9,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-24T09:54:21.691735",
+    "last_recorded": "2025-11-25T08:00:22.881701",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -37,7 +37,8 @@
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
         "2025-11-23T20:03:58.312245",
-        "2025-11-24T09:54:21.691735"
+        "2025-11-24T09:54:21.691735",
+        "2025-11-25T08:00:22.881701"
       ],
       "views": [
         419,
@@ -47,12 +48,14 @@
         429,
         429,
         429,
-        429
+        429,
+        433
       ],
       "runs": [
         0,
         0,
         6,
+        7,
         7,
         7,
         7,
@@ -67,25 +70,26 @@
         0,
         0,
         0,
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 4,
+    "days_tracked": 5,
     "total_growth": {
-      "views": 10,
+      "views": 14,
       "runs": 7,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 2.5,
-      "runs": 1.75,
+      "views": 2.8,
+      "runs": 1.4,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 2.39,
+      "views": 3.34,
       "runs": 0,
       "saves": 0
     }
@@ -96,15 +100,15 @@
   },
   "market_position": {
     "total_active_agents": 200,
-    "views_rank": 74,
-    "runs_rank": 52,
-    "views_percentile": 63.0,
-    "runs_percentile": 74.0,
+    "views_rank": 75,
+    "runs_rank": 54,
+    "views_percentile": 62.5,
+    "runs_percentile": 73.0,
     "category": "AI Agent",
     "category_agent_count": 200,
     "vs_average": {
-      "views": -39.7,
-      "runs": -88.4,
+      "views": -39.4,
+      "runs": -89.1,
       "saves": 0
     }
   },

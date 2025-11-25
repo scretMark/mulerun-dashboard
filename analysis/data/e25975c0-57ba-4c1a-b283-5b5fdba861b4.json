@@ -1,6 +1,6 @@
 {
   "agent_id": "e25975c0-57ba-4c1a-b283-5b5fdba861b4",
-  "generated_at": "2025-11-24T01:54:44.689194",
+  "generated_at": "2025-11-25T00:00:26.086400",
   "basic_info": {
     "title": "Tattoo-Style Pencil Sketch Generator",
     "author": "AFei_AITalk",
@@ -11,23 +11,23 @@
     "published_at": "2025-11-04T16:24:00.105000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AFei_AITalk/tattoo-style-pencil-sketch-generator",
-    "days_since_published": 19
+    "days_since_published": 20
   },
   "performance_metrics": {
     "views": 169,
-    "runs": 1,
+    "runs": 0,
     "saves": 0,
-    "days_tracked": 19,
+    "days_tracked": 20,
     "price": 50.0,
-    "engagement_rate": 0.59,
-    "avg_runs_per_day": 0.05,
-    "avg_views_per_day": 8.89
+    "engagement_rate": 0.0,
+    "avg_runs_per_day": 0.0,
+    "avg_views_per_day": 8.45
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 8,
+    "data_points": 9,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-24T09:54:21.691735",
+    "last_recorded": "2025-11-25T08:00:22.881701",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -37,12 +37,14 @@
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
         "2025-11-23T20:03:58.312245",
-        "2025-11-24T09:54:21.691735"
+        "2025-11-24T09:54:21.691735",
+        "2025-11-25T08:00:22.881701"
       ],
       "views": [
         163,
         163,
         168,
+        169,
         169,
         169,
         169,
@@ -57,9 +59,11 @@
         1,
         1,
         1,
-        1
+        1,
+        0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -73,20 +77,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 4,
+    "days_tracked": 5,
     "total_growth": {
       "views": 6,
-      "runs": 0,
+      "runs": -1,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 1.5,
-      "runs": 0.0,
+      "views": 1.2,
+      "runs": -0.2,
       "saves": 0.0
     },
     "percentage_growth": {
       "views": 3.68,
-      "runs": 0.0,
+      "runs": -100.0,
       "saves": 0
     }
   },
@@ -97,14 +101,14 @@
   "market_position": {
     "total_active_agents": 200,
     "views_rank": 139,
-    "runs_rank": 97,
+    "runs_rank": 124,
     "views_percentile": 30.5,
-    "runs_percentile": 51.5,
+    "runs_percentile": 38.0,
     "category": "AI Agent",
     "category_agent_count": 200,
     "vs_average": {
-      "views": -76.2,
-      "runs": -98.3,
+      "views": -76.4,
+      "runs": -100.0,
       "saves": 0
     }
   },
@@ -112,7 +116,7 @@
     {
       "type": "warning",
       "title": "Low Engagement Rate",
-      "description": "The engagement rate is 0.6%, which may indicate the agent description or value proposition could be improved."
+      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
     }
   ]
 }

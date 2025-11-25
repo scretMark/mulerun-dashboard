@@ -1,6 +1,6 @@
 {
   "agent_id": "b02c82d6-cc3b-46d5-8802-2faa73867f5e",
-  "generated_at": "2025-11-24T01:54:43.197265",
+  "generated_at": "2025-11-25T00:00:24.726759",
   "basic_info": {
     "title": "All-In-One Downloader",
     "author": "JackCodebbb0c85",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-30T17:53:29.502000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@JackCodebbb0c85/all-in-one-downloader",
-    "days_since_published": 24
+    "days_since_published": 25
   },
   "performance_metrics": {
-    "views": 2270,
-    "runs": 27,
+    "views": 2279,
+    "runs": 31,
     "saves": 0,
-    "days_tracked": 24,
+    "days_tracked": 25,
     "price": 5.0,
-    "engagement_rate": 1.19,
-    "avg_runs_per_day": 1.12,
-    "avg_views_per_day": 94.58
+    "engagement_rate": 1.36,
+    "avg_runs_per_day": 1.24,
+    "avg_views_per_day": 91.16
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 8,
+    "data_points": 9,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-24T09:54:21.691735",
+    "last_recorded": "2025-11-25T08:00:22.881701",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -37,7 +37,8 @@
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
         "2025-11-23T20:03:58.312245",
-        "2025-11-24T09:54:21.691735"
+        "2025-11-24T09:54:21.691735",
+        "2025-11-25T08:00:22.881701"
       ],
       "views": [
         2238,
@@ -47,7 +48,8 @@
         2267,
         2268,
         2268,
-        2270
+        2270,
+        2279
       ],
       "runs": [
         37,
@@ -57,9 +59,11 @@
         29,
         29,
         29,
-        27
+        27,
+        31
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -73,20 +77,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 4,
+    "days_tracked": 5,
     "total_growth": {
-      "views": 32,
-      "runs": -10,
+      "views": 41,
+      "runs": -6,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 8.0,
-      "runs": -2.5,
+      "views": 8.2,
+      "runs": -1.2,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 1.43,
-      "runs": -27.03,
+      "views": 1.83,
+      "runs": -16.22,
       "saves": 0
     }
   },
@@ -97,14 +101,14 @@
   "market_position": {
     "total_active_agents": 200,
     "views_rank": 11,
-    "runs_rank": 34,
+    "runs_rank": 31,
     "views_percentile": 94.5,
-    "runs_percentile": 83.0,
+    "runs_percentile": 84.5,
     "category": "AI Agent",
     "category_agent_count": 200,
     "vs_average": {
-      "views": 219.3,
-      "runs": -55.2,
+      "views": 218.8,
+      "runs": -51.8,
       "saves": 0
     }
   },
@@ -112,7 +116,7 @@
     {
       "type": "warning",
       "title": "Low Engagement Rate",
-      "description": "The engagement rate is 1.2%, which may indicate the agent description or value proposition could be improved."
+      "description": "The engagement rate is 1.4%, which may indicate the agent description or value proposition could be improved."
     },
     {
       "type": "positive",

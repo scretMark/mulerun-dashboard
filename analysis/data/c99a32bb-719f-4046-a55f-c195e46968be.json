@@ -1,6 +1,6 @@
 {
   "agent_id": "c99a32bb-719f-4046-a55f-c195e46968be",
-  "generated_at": "2025-11-24T01:54:43.970650",
+  "generated_at": "2025-11-25T00:00:25.468501",
   "basic_info": {
     "title": "Hyper-realistic carved wooden",
     "author": "AllenCreator",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-06T15:10:53.711000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AllenCreator/hyper-realistic-carved-wooden",
-    "days_since_published": 48
+    "days_since_published": 49
   },
   "performance_metrics": {
     "views": 385,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 48,
+    "days_tracked": 49,
     "price": 15.0,
     "engagement_rate": 0.0,
     "avg_runs_per_day": 0.0,
-    "avg_views_per_day": 8.02
+    "avg_views_per_day": 7.86
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 8,
+    "data_points": 9,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-24T09:54:21.691735",
+    "last_recorded": "2025-11-25T08:00:22.881701",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -37,7 +37,8 @@
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
         "2025-11-23T20:03:58.312245",
-        "2025-11-24T09:54:21.691735"
+        "2025-11-24T09:54:21.691735",
+        "2025-11-25T08:00:22.881701"
       ],
       "views": [
         382,
@@ -47,9 +48,11 @@
         385,
         385,
         385,
+        385,
         385
       ],
       "runs": [
+        0,
         0,
         0,
         0,
@@ -67,20 +70,21 @@
         0,
         0,
         0,
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 4,
+    "days_tracked": 5,
     "total_growth": {
       "views": 3,
       "runs": 0,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 0.75,
+      "views": 0.6,
       "runs": 0.0,
       "saves": 0.0
     },
@@ -97,13 +101,13 @@
   "market_position": {
     "total_active_agents": 200,
     "views_rank": 79,
-    "runs_rank": 119,
+    "runs_rank": 124,
     "views_percentile": 60.5,
-    "runs_percentile": 40.5,
+    "runs_percentile": 38.0,
     "category": "AI Agent",
     "category_agent_count": 200,
     "vs_average": {
-      "views": -45.9,
+      "views": -46.2,
       "runs": -100.0,
       "saves": 0
     }

@@ -1,6 +1,6 @@
 {
   "agent_id": "d751a918-33cb-420e-bb6c-fe7f6406c887",
-  "generated_at": "2025-11-24T01:54:43.981667",
+  "generated_at": "2025-11-25T00:00:25.478450",
   "basic_info": {
     "title": "Halloween Costume Changer",
     "author": "Norsizu",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-31T12:41:50.060000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/halloween-costume-changer",
-    "days_since_published": 23
+    "days_since_published": 24
   },
   "performance_metrics": {
     "views": 384,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 23,
+    "days_tracked": 24,
     "price": 50.0,
     "engagement_rate": 0.0,
     "avg_runs_per_day": 0.0,
-    "avg_views_per_day": 16.7
+    "avg_views_per_day": 16.0
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 8,
+    "data_points": 9,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-24T09:54:21.691735",
+    "last_recorded": "2025-11-25T08:00:22.881701",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -37,7 +37,8 @@
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
         "2025-11-23T20:03:58.312245",
-        "2025-11-24T09:54:21.691735"
+        "2025-11-24T09:54:21.691735",
+        "2025-11-25T08:00:22.881701"
       ],
       "views": [
         382,
@@ -47,9 +48,11 @@
         384,
         384,
         384,
+        384,
         384
       ],
       "runs": [
+        0,
         0,
         0,
         0,
@@ -67,20 +70,21 @@
         0,
         0,
         0,
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 4,
+    "days_tracked": 5,
     "total_growth": {
       "views": 2,
       "runs": 0,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 0.5,
+      "views": 0.4,
       "runs": 0.0,
       "saves": 0.0
     },
@@ -97,13 +101,13 @@
   "market_position": {
     "total_active_agents": 200,
     "views_rank": 80,
-    "runs_rank": 119,
+    "runs_rank": 124,
     "views_percentile": 60.0,
-    "runs_percentile": 40.5,
+    "runs_percentile": 38.0,
     "category": "AI Agent",
     "category_agent_count": 200,
     "vs_average": {
-      "views": -46.0,
+      "views": -46.3,
       "runs": -100.0,
       "saves": 0
     }

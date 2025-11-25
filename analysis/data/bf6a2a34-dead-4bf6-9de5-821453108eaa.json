@@ -1,6 +1,6 @@
 {
   "agent_id": "bf6a2a34-dead-4bf6-9de5-821453108eaa",
-  "generated_at": "2025-11-24T01:54:43.584165",
+  "generated_at": "2025-11-25T00:00:25.098992",
   "basic_info": {
     "title": "ProHeadshot Studio",
     "author": "Darren",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-20T11:36:43.297000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/proheadshot-studio",
-    "days_since_published": 34
+    "days_since_published": 35
   },
   "performance_metrics": {
-    "views": 802,
-    "runs": 35,
+    "views": 810,
+    "runs": 30,
     "saves": 0,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "price": 51.0,
-    "engagement_rate": 4.36,
-    "avg_runs_per_day": 1.03,
-    "avg_views_per_day": 23.59
+    "engagement_rate": 3.7,
+    "avg_runs_per_day": 0.86,
+    "avg_views_per_day": 23.14
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 8,
+    "data_points": 9,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-24T09:54:21.691735",
+    "last_recorded": "2025-11-25T08:00:22.881701",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -37,7 +37,8 @@
         "2025-11-23T14:00:32.439099",
         "2025-11-23T19:55:14.744404",
         "2025-11-23T20:03:58.312245",
-        "2025-11-24T09:54:21.691735"
+        "2025-11-24T09:54:21.691735",
+        "2025-11-25T08:00:22.881701"
       ],
       "views": [
         751,
@@ -47,7 +48,8 @@
         795,
         796,
         796,
-        802
+        802,
+        810
       ],
       "runs": [
         41,
@@ -57,9 +59,11 @@
         35,
         35,
         35,
-        35
+        35,
+        30
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -73,20 +77,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 4,
+    "days_tracked": 5,
     "total_growth": {
-      "views": 51,
-      "runs": -6,
+      "views": 59,
+      "runs": -11,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 12.75,
-      "runs": -1.5,
+      "views": 11.8,
+      "runs": -2.2,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 6.79,
-      "runs": -14.63,
+      "views": 7.86,
+      "runs": -26.83,
       "saves": 0
     }
   },
@@ -97,14 +101,14 @@
   "market_position": {
     "total_active_agents": 200,
     "views_rank": 45,
-    "runs_rank": 30,
+    "runs_rank": 33,
     "views_percentile": 77.5,
-    "runs_percentile": 85.0,
+    "runs_percentile": 83.5,
     "category": "AI Agent",
     "category_agent_count": 200,
     "vs_average": {
-      "views": 12.8,
-      "runs": -41.9,
+      "views": 13.3,
+      "runs": -53.4,
       "saves": 0
     }
   },
