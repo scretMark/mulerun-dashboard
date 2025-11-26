@@ -1,6 +1,6 @@
 {
   "agent_id": "6ea20496-db4c-4a03-ae55-aaeee9a89a9e",
-  "generated_at": "2025-11-25T00:00:24.980859",
+  "generated_at": "2025-11-26T00:00:53.142716",
   "basic_info": {
     "title": "AI Relationship Mapper",
     "author": "TrallerTeam",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-30T18:05:40.234000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@TrallerTeam/ai-relationship-mapper",
-    "days_since_published": 25
+    "days_since_published": 26
   },
   "performance_metrics": {
-    "views": 967,
+    "views": 970,
     "runs": 1,
     "saves": 0,
-    "days_tracked": 25,
+    "days_tracked": 26,
     "price": 20.0,
     "engagement_rate": 0.1,
     "avg_runs_per_day": 0.04,
-    "avg_views_per_day": 38.68
+    "avg_views_per_day": 37.31
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 9,
+    "data_points": 10,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-25T08:00:22.881701",
+    "last_recorded": "2025-11-26T08:00:32.046352",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -38,7 +38,8 @@
         "2025-11-23T19:55:14.744404",
         "2025-11-23T20:03:58.312245",
         "2025-11-24T09:54:21.691735",
-        "2025-11-25T08:00:22.881701"
+        "2025-11-25T08:00:22.881701",
+        "2025-11-26T08:00:32.046352"
       ],
       "views": [
         958,
@@ -49,7 +50,8 @@
         965,
         965,
         966,
-        967
+        967,
+        970
       ],
       "runs": [
         2,
@@ -60,9 +62,11 @@
         2,
         2,
         1,
+        1,
         1
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -77,19 +81,19 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 5,
+    "days_tracked": 6,
     "total_growth": {
-      "views": 9,
+      "views": 12,
       "runs": -1,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 1.8,
-      "runs": -0.2,
+      "views": 2.0,
+      "runs": -0.17,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 0.94,
+      "views": 1.25,
       "runs": -50.0,
       "saves": 0
     }
@@ -99,15 +103,15 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 200,
+    "total_active_agents": 203,
     "views_rank": 35,
     "runs_rank": 92,
-    "views_percentile": 82.5,
-    "runs_percentile": 54.0,
+    "views_percentile": 82.8,
+    "runs_percentile": 54.7,
     "category": "AI Agent",
-    "category_agent_count": 200,
+    "category_agent_count": 203,
     "vs_average": {
-      "views": 35.3,
+      "views": 36.7,
       "runs": -98.4,
       "saves": 0
     }
@@ -121,7 +125,7 @@
     {
       "type": "positive",
       "title": "Top Performer",
-      "description": "This agent ranks in the top 18% by views, placing it among the most popular agents."
+      "description": "This agent ranks in the top 17% by views, placing it among the most popular agents."
     }
   ]
 }

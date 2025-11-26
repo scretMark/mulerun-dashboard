@@ -1,6 +1,6 @@
 {
   "agent_id": "3dce446b-c3fc-44c0-8595-6ed9b247c095",
-  "generated_at": "2025-11-25T00:00:24.766226",
+  "generated_at": "2025-11-26T00:00:52.857375",
   "basic_info": {
     "title": "Paper Review Agent",
     "author": "charlin",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-27T22:31:35.340000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@charlin/paper-review-agent",
-    "days_since_published": 28
+    "days_since_published": 29
   },
   "performance_metrics": {
-    "views": 1998,
-    "runs": 65,
+    "views": 2015,
+    "runs": 53,
     "saves": 0,
-    "days_tracked": 28,
+    "days_tracked": 29,
     "price": 60.0,
-    "engagement_rate": 3.25,
-    "avg_runs_per_day": 2.32,
-    "avg_views_per_day": 71.36
+    "engagement_rate": 2.63,
+    "avg_runs_per_day": 1.83,
+    "avg_views_per_day": 69.48
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 10,
+    "data_points": 11,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-11-25T08:00:22.881701",
+    "last_recorded": "2025-11-26T08:00:32.046352",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -39,7 +39,8 @@
         "2025-11-23T19:55:14.744404",
         "2025-11-23T20:03:58.312245",
         "2025-11-24T09:54:21.691735",
-        "2025-11-25T08:00:22.881701"
+        "2025-11-25T08:00:22.881701",
+        "2025-11-26T08:00:32.046352"
       ],
       "views": [
         1930,
@@ -51,7 +52,8 @@
         1988,
         1988,
         1991,
-        1998
+        1998,
+        2015
       ],
       "runs": [
         58,
@@ -63,9 +65,11 @@
         71,
         71,
         66,
-        65
+        65,
+        53
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -81,20 +85,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 6,
+    "days_tracked": 7,
     "total_growth": {
-      "views": 68,
-      "runs": 7,
+      "views": 85,
+      "runs": -5,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 11.33,
-      "runs": 1.17,
+      "views": 12.14,
+      "runs": -0.71,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 3.52,
-      "runs": 12.07,
+      "views": 4.4,
+      "runs": -8.62,
       "saves": 0
     }
   },
@@ -103,16 +107,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 200,
+    "total_active_agents": 203,
     "views_rank": 15,
-    "runs_rank": 26,
-    "views_percentile": 92.5,
-    "runs_percentile": 87.0,
+    "runs_rank": 27,
+    "views_percentile": 92.6,
+    "runs_percentile": 86.7,
     "category": "AI Agent",
-    "category_agent_count": 200,
+    "category_agent_count": 203,
     "vs_average": {
-      "views": 179.5,
-      "runs": 1.1,
+      "views": 183.9,
+      "runs": -15.8,
       "saves": 0
     }
   },
@@ -120,7 +124,7 @@
     {
       "type": "positive",
       "title": "Top Performer",
-      "description": "This agent ranks in the top 8% by views, placing it among the most popular agents."
+      "description": "This agent ranks in the top 7% by views, placing it among the most popular agents."
     }
   ]
 }

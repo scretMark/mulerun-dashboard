@@ -1,6 +1,6 @@
 {
   "agent_id": "6faa15dc-b0e8-499f-8ff7-8cc9c0553837",
-  "generated_at": "2025-11-25T00:00:25.902070",
+  "generated_at": "2025-11-26T00:00:54.279530",
   "basic_info": {
     "title": "Minimalist Origami Photo",
     "author": "Darren",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-20T11:31:28.113000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/minimalist-origami-photo",
-    "days_since_published": 35
+    "days_since_published": 36
   },
   "performance_metrics": {
     "views": 212,
     "runs": 3,
     "saves": 0,
-    "days_tracked": 35,
+    "days_tracked": 36,
     "price": 51.0,
     "engagement_rate": 1.42,
-    "avg_runs_per_day": 0.09,
-    "avg_views_per_day": 6.06
+    "avg_runs_per_day": 0.08,
+    "avg_views_per_day": 5.89
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 9,
+    "data_points": 10,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-25T08:00:22.881701",
+    "last_recorded": "2025-11-26T08:00:32.046352",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -38,7 +38,8 @@
         "2025-11-23T19:55:14.744404",
         "2025-11-23T20:03:58.312245",
         "2025-11-24T09:54:21.691735",
-        "2025-11-25T08:00:22.881701"
+        "2025-11-25T08:00:22.881701",
+        "2025-11-26T08:00:32.046352"
       ],
       "views": [
         200,
@@ -49,6 +50,7 @@
         207,
         207,
         207,
+        212,
         212
       ],
       "runs": [
@@ -60,9 +62,11 @@
         4,
         4,
         3,
+        3,
         3
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -77,15 +81,15 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 5,
+    "days_tracked": 6,
     "total_growth": {
       "views": 12,
       "runs": 2,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 2.4,
-      "runs": 0.4,
+      "views": 2.0,
+      "runs": 0.33,
       "saves": 0.0
     },
     "percentage_growth": {
@@ -99,16 +103,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 200,
-    "views_rank": 121,
+    "total_active_agents": 203,
+    "views_rank": 122,
     "runs_rank": 70,
-    "views_percentile": 39.5,
-    "runs_percentile": 65.0,
+    "views_percentile": 39.9,
+    "runs_percentile": 65.5,
     "category": "AI Agent",
-    "category_agent_count": 200,
+    "category_agent_count": 203,
     "vs_average": {
-      "views": -70.3,
-      "runs": -95.3,
+      "views": -70.1,
+      "runs": -95.2,
       "saves": 0
     }
   },

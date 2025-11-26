@@ -1,6 +1,6 @@
 {
   "agent_id": "2b7c7047-77ad-4d2f-b466-34bed96f83e2",
-  "generated_at": "2025-11-25T00:00:24.717095",
+  "generated_at": "2025-11-26T00:00:52.786708",
   "basic_info": {
     "title": "Pet Travel Selfies",
     "author": "YuTou_baby",
@@ -11,23 +11,23 @@
     "published_at": "2025-09-18T16:33:22.114000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@YuTou_baby/pet-travel-selfies",
-    "days_since_published": 67
+    "days_since_published": 68
   },
   "performance_metrics": {
     "views": 2705,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 67,
+    "days_tracked": 68,
     "price": 50.0,
     "engagement_rate": 0.0,
     "avg_runs_per_day": 0.0,
-    "avg_views_per_day": 40.37
+    "avg_views_per_day": 39.78
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 9,
+    "data_points": 10,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-25T08:00:22.881701",
+    "last_recorded": "2025-11-26T08:00:32.046352",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -38,7 +38,8 @@
         "2025-11-23T19:55:14.744404",
         "2025-11-23T20:03:58.312245",
         "2025-11-24T09:54:21.691735",
-        "2025-11-25T08:00:22.881701"
+        "2025-11-25T08:00:22.881701",
+        "2025-11-26T08:00:32.046352"
       ],
       "views": [
         2701,
@@ -49,9 +50,11 @@
         2703,
         2703,
         2703,
+        2705,
         2705
       ],
       "runs": [
+        0,
         0,
         0,
         0,
@@ -71,20 +74,21 @@
         0,
         0,
         0,
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 5,
+    "days_tracked": 6,
     "total_growth": {
       "views": 4,
       "runs": 0,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 0.8,
+      "views": 0.67,
       "runs": 0.0,
       "saves": 0.0
     },
@@ -99,15 +103,15 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 200,
+    "total_active_agents": 203,
     "views_rank": 10,
     "runs_rank": 124,
-    "views_percentile": 95.0,
-    "runs_percentile": 38.0,
+    "views_percentile": 95.1,
+    "runs_percentile": 38.9,
     "category": "AI Agent",
-    "category_agent_count": 200,
+    "category_agent_count": 203,
     "vs_average": {
-      "views": 278.3,
+      "views": 281.2,
       "runs": -100.0,
       "saves": 0
     }

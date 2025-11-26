@@ -1,6 +1,6 @@
 {
   "agent_id": "d1a4e711-e486-40bb-9a85-d352068051b9",
-  "generated_at": "2025-11-25T00:00:26.511979",
+  "generated_at": "2025-11-26T00:00:55.071411",
   "basic_info": {
     "title": "Dynamic Style Studio",
     "author": "LinExcel",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-11T12:38:36.113000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinExcel/dynamic-style-studio",
-    "days_since_published": 44
+    "days_since_published": 45
   },
   "performance_metrics": {
     "views": 84,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 44,
+    "days_tracked": 45,
     "price": 50.0,
     "engagement_rate": 0.0,
     "avg_runs_per_day": 0.0,
-    "avg_views_per_day": 1.91
+    "avg_views_per_day": 1.87
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 9,
+    "data_points": 10,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-25T08:00:22.881701",
+    "last_recorded": "2025-11-26T08:00:32.046352",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -38,7 +38,8 @@
         "2025-11-23T19:55:14.744404",
         "2025-11-23T20:03:58.312245",
         "2025-11-24T09:54:21.691735",
-        "2025-11-25T08:00:22.881701"
+        "2025-11-25T08:00:22.881701",
+        "2025-11-26T08:00:32.046352"
       ],
       "views": [
         81,
@@ -49,9 +50,11 @@
         84,
         84,
         84,
+        84,
         84
       ],
       "runs": [
+        0,
         0,
         0,
         0,
@@ -71,20 +74,21 @@
         0,
         0,
         0,
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 5,
+    "days_tracked": 6,
     "total_growth": {
       "views": 3,
       "runs": 0,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 0.6,
+      "views": 0.5,
       "runs": 0.0,
       "saves": 0.0
     },
@@ -99,15 +103,15 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 200,
-    "views_rank": 181,
+    "total_active_agents": 203,
+    "views_rank": 182,
     "runs_rank": 124,
-    "views_percentile": 9.5,
-    "runs_percentile": 38.0,
+    "views_percentile": 10.3,
+    "runs_percentile": 38.9,
     "category": "AI Agent",
-    "category_agent_count": 200,
+    "category_agent_count": 203,
     "vs_average": {
-      "views": -88.3,
+      "views": -88.2,
       "runs": -100.0,
       "saves": 0
     }

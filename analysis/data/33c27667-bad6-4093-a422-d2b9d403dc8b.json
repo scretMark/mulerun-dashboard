@@ -1,6 +1,6 @@
 {
   "agent_id": "33c27667-bad6-4093-a422-d2b9d403dc8b",
-  "generated_at": "2025-11-25T00:00:25.772822",
+  "generated_at": "2025-11-26T00:00:54.101339",
   "basic_info": {
     "title": "An Exploded VIEW",
     "author": "Darren",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-07T16:12:19.379000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/an-exploded-view",
-    "days_since_published": 48
+    "days_since_published": 49
   },
   "performance_metrics": {
     "views": 244,
     "runs": 3,
     "saves": 0,
-    "days_tracked": 48,
+    "days_tracked": 49,
     "price": 48.0,
     "engagement_rate": 1.23,
     "avg_runs_per_day": 0.06,
-    "avg_views_per_day": 5.08
+    "avg_views_per_day": 4.98
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 9,
+    "data_points": 10,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-25T08:00:22.881701",
+    "last_recorded": "2025-11-26T08:00:32.046352",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -38,7 +38,8 @@
         "2025-11-23T19:55:14.744404",
         "2025-11-23T20:03:58.312245",
         "2025-11-24T09:54:21.691735",
-        "2025-11-25T08:00:22.881701"
+        "2025-11-25T08:00:22.881701",
+        "2025-11-26T08:00:32.046352"
       ],
       "views": [
         231,
@@ -49,11 +50,13 @@
         242,
         242,
         243,
+        244,
         244
       ],
       "runs": [
         0,
         0,
+        3,
         3,
         3,
         3,
@@ -71,21 +74,22 @@
         0,
         0,
         0,
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 5,
+    "days_tracked": 6,
     "total_growth": {
       "views": 13,
       "runs": 3,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 2.6,
-      "runs": 0.6,
+      "views": 2.17,
+      "runs": 0.5,
       "saves": 0.0
     },
     "percentage_growth": {
@@ -99,16 +103,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 200,
+    "total_active_agents": 203,
     "views_rank": 108,
     "runs_rank": 70,
-    "views_percentile": 46.0,
-    "runs_percentile": 65.0,
+    "views_percentile": 46.8,
+    "runs_percentile": 65.5,
     "category": "AI Agent",
-    "category_agent_count": 200,
+    "category_agent_count": 203,
     "vs_average": {
-      "views": -65.9,
-      "runs": -95.3,
+      "views": -65.6,
+      "runs": -95.2,
       "saves": 0
     }
   },

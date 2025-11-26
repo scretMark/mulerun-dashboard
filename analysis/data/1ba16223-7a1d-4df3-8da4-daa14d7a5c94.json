@@ -1,6 +1,6 @@
 {
   "agent_id": "1ba16223-7a1d-4df3-8da4-daa14d7a5c94",
-  "generated_at": "2025-11-25T00:00:25.040294",
+  "generated_at": "2025-11-26T00:00:53.209192",
   "basic_info": {
     "title": "90s horror bedroom",
     "author": "Lucas",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-23T19:10:25.645000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/90s-horror-bedroom",
-    "days_since_published": 32
+    "days_since_published": 33
   },
   "performance_metrics": {
-    "views": 894,
+    "views": 895,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 32,
+    "days_tracked": 33,
     "price": 25.0,
     "engagement_rate": 0.0,
     "avg_runs_per_day": 0.0,
-    "avg_views_per_day": 27.94
+    "avg_views_per_day": 27.12
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 9,
+    "data_points": 10,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-25T08:00:22.881701",
+    "last_recorded": "2025-11-26T08:00:32.046352",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -38,7 +38,8 @@
         "2025-11-23T19:55:14.744404",
         "2025-11-23T20:03:58.312245",
         "2025-11-24T09:54:21.691735",
-        "2025-11-25T08:00:22.881701"
+        "2025-11-25T08:00:22.881701",
+        "2025-11-26T08:00:32.046352"
       ],
       "views": [
         889,
@@ -49,9 +50,11 @@
         893,
         893,
         893,
-        894
+        894,
+        895
       ],
       "runs": [
+        0,
         0,
         0,
         0,
@@ -71,15 +74,16 @@
         0,
         0,
         0,
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 5,
+    "days_tracked": 6,
     "total_growth": {
-      "views": 5,
+      "views": 6,
       "runs": 0,
       "saves": 0
     },
@@ -89,7 +93,7 @@
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 0.56,
+      "views": 0.67,
       "runs": 0,
       "saves": 0
     }
@@ -99,15 +103,15 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 200,
+    "total_active_agents": 203,
     "views_rank": 40,
     "runs_rank": 124,
-    "views_percentile": 80.0,
-    "runs_percentile": 38.0,
+    "views_percentile": 80.3,
+    "runs_percentile": 38.9,
     "category": "AI Agent",
-    "category_agent_count": 200,
+    "category_agent_count": 203,
     "vs_average": {
-      "views": 25.0,
+      "views": 26.1,
       "runs": -100.0,
       "saves": 0
     }
@@ -117,6 +121,11 @@
       "type": "warning",
       "title": "Low Engagement Rate",
       "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
+    },
+    {
+      "type": "positive",
+      "title": "Top Performer",
+      "description": "This agent ranks in the top 20% by views, placing it among the most popular agents."
     }
   ]
 }

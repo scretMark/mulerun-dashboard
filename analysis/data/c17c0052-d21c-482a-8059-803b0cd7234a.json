@@ -1,6 +1,6 @@
 {
   "agent_id": "c17c0052-d21c-482a-8059-803b0cd7234a",
-  "generated_at": "2025-11-25T00:00:25.792600",
+  "generated_at": "2025-11-26T00:00:54.124594",
   "basic_info": {
     "title": "World Landmark Stickers",
     "author": "Cyrus",
@@ -11,23 +11,23 @@
     "published_at": "2025-09-30T22:54:24.611000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Cyrus/world-landmark-stickers",
-    "days_since_published": 55
+    "days_since_published": 56
   },
   "performance_metrics": {
-    "views": 234,
-    "runs": 0,
+    "views": 235,
+    "runs": 4,
     "saves": 0,
-    "days_tracked": 55,
+    "days_tracked": 56,
     "price": 50.0,
-    "engagement_rate": 0.0,
-    "avg_runs_per_day": 0.0,
-    "avg_views_per_day": 4.25
+    "engagement_rate": 1.7,
+    "avg_runs_per_day": 0.07,
+    "avg_views_per_day": 4.2
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 9,
+    "data_points": 10,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-25T08:00:22.881701",
+    "last_recorded": "2025-11-26T08:00:32.046352",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -38,7 +38,8 @@
         "2025-11-23T19:55:14.744404",
         "2025-11-23T20:03:58.312245",
         "2025-11-24T09:54:21.691735",
-        "2025-11-25T08:00:22.881701"
+        "2025-11-25T08:00:22.881701",
+        "2025-11-26T08:00:32.046352"
       ],
       "views": [
         231,
@@ -49,7 +50,8 @@
         233,
         233,
         233,
-        234
+        234,
+        235
       ],
       "runs": [
         0,
@@ -60,9 +62,11 @@
         0,
         0,
         0,
-        0
+        0,
+        4
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -77,19 +81,19 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 5,
+    "days_tracked": 6,
     "total_growth": {
-      "views": 3,
-      "runs": 0,
+      "views": 4,
+      "runs": 4,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 0.6,
-      "runs": 0.0,
+      "views": 0.67,
+      "runs": 0.67,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 1.3,
+      "views": 1.73,
       "runs": 0,
       "saves": 0
     }
@@ -99,16 +103,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 200,
-    "views_rank": 110,
-    "runs_rank": 124,
-    "views_percentile": 45.0,
-    "runs_percentile": 38.0,
+    "total_active_agents": 203,
+    "views_rank": 109,
+    "runs_rank": 67,
+    "views_percentile": 46.3,
+    "runs_percentile": 67.0,
     "category": "AI Agent",
-    "category_agent_count": 200,
+    "category_agent_count": 203,
     "vs_average": {
-      "views": -67.3,
-      "runs": -100.0,
+      "views": -66.9,
+      "runs": -93.6,
       "saves": 0
     }
   },
@@ -116,7 +120,7 @@
     {
       "type": "warning",
       "title": "Low Engagement Rate",
-      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
+      "description": "The engagement rate is 1.7%, which may indicate the agent description or value proposition could be improved."
     }
   ]
 }

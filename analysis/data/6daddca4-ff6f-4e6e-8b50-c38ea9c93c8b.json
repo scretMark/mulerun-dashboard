@@ -1,6 +1,6 @@
 {
   "agent_id": "6daddca4-ff6f-4e6e-8b50-c38ea9c93c8b",
-  "generated_at": "2025-11-25T00:00:26.125341",
+  "generated_at": "2025-11-26T00:00:54.588074",
   "basic_info": {
     "title": "Movie Poster Design",
     "author": "summerail",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-12T14:14:16.439000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/movie-poster-design",
-    "days_since_published": 43
+    "days_since_published": 44
   },
   "performance_metrics": {
-    "views": 164,
-    "runs": 5,
+    "views": 165,
+    "runs": 4,
     "saves": 0,
-    "days_tracked": 43,
+    "days_tracked": 44,
     "price": 50.0,
-    "engagement_rate": 3.05,
-    "avg_runs_per_day": 0.12,
-    "avg_views_per_day": 3.81
+    "engagement_rate": 2.42,
+    "avg_runs_per_day": 0.09,
+    "avg_views_per_day": 3.75
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 9,
+    "data_points": 10,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-25T08:00:22.881701",
+    "last_recorded": "2025-11-26T08:00:32.046352",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -38,7 +38,8 @@
         "2025-11-23T19:55:14.744404",
         "2025-11-23T20:03:58.312245",
         "2025-11-24T09:54:21.691735",
-        "2025-11-25T08:00:22.881701"
+        "2025-11-25T08:00:22.881701",
+        "2025-11-26T08:00:32.046352"
       ],
       "views": [
         146,
@@ -49,7 +50,8 @@
         163,
         163,
         163,
-        164
+        164,
+        165
       ],
       "runs": [
         0,
@@ -60,9 +62,11 @@
         5,
         5,
         5,
-        5
+        5,
+        4
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -77,19 +81,19 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 5,
+    "days_tracked": 6,
     "total_growth": {
-      "views": 18,
-      "runs": 5,
+      "views": 19,
+      "runs": 4,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 3.6,
-      "runs": 1.0,
+      "views": 3.17,
+      "runs": 0.67,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 12.33,
+      "views": 13.01,
       "runs": 0,
       "saves": 0
     }
@@ -99,16 +103,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 200,
-    "views_rank": 143,
-    "runs_rank": 61,
-    "views_percentile": 28.5,
-    "runs_percentile": 69.5,
+    "total_active_agents": 203,
+    "views_rank": 144,
+    "runs_rank": 67,
+    "views_percentile": 29.1,
+    "runs_percentile": 67.0,
     "category": "AI Agent",
-    "category_agent_count": 200,
+    "category_agent_count": 203,
     "vs_average": {
-      "views": -77.1,
-      "runs": -92.2,
+      "views": -76.8,
+      "runs": -93.6,
       "saves": 0
     }
   },

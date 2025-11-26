@@ -1,6 +1,6 @@
 {
   "agent_id": "060c2d29-6d0f-41ef-aa16-bd4a000e1ef5",
-  "generated_at": "2025-11-25T00:00:24.659648",
+  "generated_at": "2025-11-26T00:00:52.703500",
   "basic_info": {
     "title": "Auto Short Video Creator",
     "author": "GrahamRabbb0e02",
@@ -11,23 +11,23 @@
     "published_at": "2025-08-12T19:50:51.232000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@GrahamRabbb0e02/auto-short-video-creator",
-    "days_since_published": 104
+    "days_since_published": 105
   },
   "performance_metrics": {
-    "views": 6198,
-    "runs": 31,
+    "views": 6232,
+    "runs": 39,
     "saves": 0,
-    "days_tracked": 104,
+    "days_tracked": 105,
     "price": 386.0,
-    "engagement_rate": 0.5,
-    "avg_runs_per_day": 0.3,
-    "avg_views_per_day": 59.6
+    "engagement_rate": 0.63,
+    "avg_runs_per_day": 0.37,
+    "avg_views_per_day": 59.35
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 10,
+    "data_points": 11,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-11-25T08:00:22.881701",
+    "last_recorded": "2025-11-26T08:00:32.046352",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -39,7 +39,8 @@
         "2025-11-23T19:55:14.744404",
         "2025-11-23T20:03:58.312245",
         "2025-11-24T09:54:21.691735",
-        "2025-11-25T08:00:22.881701"
+        "2025-11-25T08:00:22.881701",
+        "2025-11-26T08:00:32.046352"
       ],
       "views": [
         6059,
@@ -51,7 +52,8 @@
         6171,
         6171,
         6176,
-        6198
+        6198,
+        6232
       ],
       "runs": [
         58,
@@ -63,9 +65,11 @@
         38,
         38,
         32,
-        31
+        31,
+        39
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -81,20 +85,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 6,
+    "days_tracked": 7,
     "total_growth": {
-      "views": 139,
-      "runs": -27,
+      "views": 173,
+      "runs": -19,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 23.17,
-      "runs": -4.5,
+      "views": 24.71,
+      "runs": -2.71,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 2.29,
-      "runs": -46.55,
+      "views": 2.86,
+      "runs": -32.76,
       "saves": 0
     }
   },
@@ -103,16 +107,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 200,
+    "total_active_agents": 203,
     "views_rank": 4,
     "runs_rank": 31,
     "views_percentile": 98.0,
-    "runs_percentile": 84.5,
+    "runs_percentile": 84.7,
     "category": "AI Agent",
-    "category_agent_count": 200,
+    "category_agent_count": 203,
     "vs_average": {
-      "views": 766.9,
-      "runs": -51.8,
+      "views": 778.1,
+      "runs": -38.0,
       "saves": 0
     }
   },
@@ -120,7 +124,7 @@
     {
       "type": "warning",
       "title": "Low Engagement Rate",
-      "description": "The engagement rate is 0.5%, which may indicate the agent description or value proposition could be improved."
+      "description": "The engagement rate is 0.6%, which may indicate the agent description or value proposition could be improved."
     },
     {
       "type": "positive",

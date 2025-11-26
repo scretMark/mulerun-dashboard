@@ -1,0 +1,86 @@
+{
+  "agent_id": "8ecf0316-7c0a-40c3-8095-83b57d32ed7c",
+  "generated_at": "2025-11-26T00:00:55.364272",
+  "basic_info": {
+    "title": "Historical place visualizer",
+    "author": "Bhola",
+    "description": "Visualize and understand any historical monument image in one click with clear labels and short explanations of each important architectural part.  \nThis agent takes your uploaded monument photo and a...",
+    "short_description": "Label and explain historical monument photos with annotations.",
+    "category": "AI Agent",
+    "is_active": true,
+    "published_at": "2025-11-24T13:53:45.229000",
+    "last_seen": null,
+    "profile_url": "https://mulerun.com/workspace/@Bhola/historical-place-visualizer",
+    "days_since_published": 1
+  },
+  "performance_metrics": {
+    "views": 23,
+    "runs": 24,
+    "saves": 0,
+    "days_tracked": 1,
+    "price": 29.0,
+    "engagement_rate": 104.35,
+    "avg_runs_per_day": 24.0,
+    "avg_views_per_day": 23.0
+  },
+  "historical_trends": {
+    "has_data": true,
+    "data_points": 1,
+    "first_recorded": "2025-11-26T08:00:32.046352",
+    "last_recorded": "2025-11-26T08:00:32.046352",
+    "time_series": {
+      "dates": [
+        "2025-11-26T08:00:32.046352"
+      ],
+      "views": [
+        23
+      ],
+      "runs": [
+        24
+      ],
+      "saves": [
+        0
+      ]
+    }
+  },
+  "growth_analysis": {
+    "has_data": false
+  },
+  "change_history": {
+    "total_changes": 1,
+    "changes": [
+      {
+        "date": "2025-11-26T00:00:33.132018",
+        "type": "new",
+        "description": "New agent published: Historical place visualizer",
+        "severity": "medium"
+      }
+    ]
+  },
+  "market_position": {
+    "total_active_agents": 203,
+    "views_rank": 203,
+    "runs_rank": 39,
+    "views_percentile": 0.0,
+    "runs_percentile": 80.8,
+    "category": "AI Agent",
+    "category_agent_count": 203,
+    "vs_average": {
+      "views": -96.8,
+      "runs": -61.9,
+      "saves": 0
+    }
+  },
+  "insights": [
+    {
+      "type": "positive",
+      "title": "High Engagement Rate",
+      "description": "This agent has an excellent 104.3% engagement rate (runs/views), significantly above average."
+    },
+    {
+      "type": "info",
+      "title": "Paid Agent with Strong Usage",
+      "description": "Despite being priced at $29.0, this agent averages 24.0 runs per day."
+    }
+  ]
+}

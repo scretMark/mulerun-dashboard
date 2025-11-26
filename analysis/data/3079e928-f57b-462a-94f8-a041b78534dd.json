@@ -1,6 +1,6 @@
 {
   "agent_id": "3079e928-f57b-462a-94f8-a041b78534dd",
-  "generated_at": "2025-11-25T00:00:25.028258",
+  "generated_at": "2025-11-26T00:00:53.197346",
   "basic_info": {
     "title": "Mindmap Generator",
     "author": "AngryBerry",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-29T16:06:11.635000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AngryBerry/mindmap-generator",
-    "days_since_published": 26
+    "days_since_published": 27
   },
   "performance_metrics": {
-    "views": 909,
-    "runs": 9,
+    "views": 913,
+    "runs": 11,
     "saves": 0,
-    "days_tracked": 26,
+    "days_tracked": 27,
     "price": 50.0,
-    "engagement_rate": 0.99,
-    "avg_runs_per_day": 0.35,
-    "avg_views_per_day": 34.96
+    "engagement_rate": 1.2,
+    "avg_runs_per_day": 0.41,
+    "avg_views_per_day": 33.81
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 9,
+    "data_points": 10,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-25T08:00:22.881701",
+    "last_recorded": "2025-11-26T08:00:32.046352",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -38,7 +38,8 @@
         "2025-11-23T19:55:14.744404",
         "2025-11-23T20:03:58.312245",
         "2025-11-24T09:54:21.691735",
-        "2025-11-25T08:00:22.881701"
+        "2025-11-25T08:00:22.881701",
+        "2025-11-26T08:00:32.046352"
       ],
       "views": [
         850,
@@ -49,7 +50,8 @@
         902,
         902,
         904,
-        909
+        909,
+        913
       ],
       "runs": [
         10,
@@ -60,9 +62,11 @@
         7,
         7,
         7,
-        9
+        9,
+        11
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -77,20 +81,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 5,
+    "days_tracked": 6,
     "total_growth": {
-      "views": 59,
-      "runs": -1,
+      "views": 63,
+      "runs": 1,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 11.8,
-      "runs": -0.2,
+      "views": 10.5,
+      "runs": 0.17,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 6.94,
-      "runs": -10.0,
+      "views": 7.41,
+      "runs": 10.0,
       "saves": 0
     }
   },
@@ -99,16 +103,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 200,
+    "total_active_agents": 203,
     "views_rank": 39,
-    "runs_rank": 51,
-    "views_percentile": 80.5,
-    "runs_percentile": 74.5,
+    "runs_rank": 52,
+    "views_percentile": 80.8,
+    "runs_percentile": 74.4,
     "category": "AI Agent",
-    "category_agent_count": 200,
+    "category_agent_count": 203,
     "vs_average": {
-      "views": 27.1,
-      "runs": -86.0,
+      "views": 28.6,
+      "runs": -82.5,
       "saves": 0
     }
   },
@@ -116,12 +120,12 @@
     {
       "type": "warning",
       "title": "Low Engagement Rate",
-      "description": "The engagement rate is 1.0%, which may indicate the agent description or value proposition could be improved."
+      "description": "The engagement rate is 1.2%, which may indicate the agent description or value proposition could be improved."
     },
     {
       "type": "positive",
       "title": "Top Performer",
-      "description": "This agent ranks in the top 20% by views, placing it among the most popular agents."
+      "description": "This agent ranks in the top 19% by views, placing it among the most popular agents."
     }
   ]
 }

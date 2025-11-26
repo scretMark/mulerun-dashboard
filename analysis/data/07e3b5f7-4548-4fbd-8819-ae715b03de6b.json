@@ -1,6 +1,6 @@
 {
   "agent_id": "07e3b5f7-4548-4fbd-8819-ae715b03de6b",
-  "generated_at": "2025-11-25T00:00:25.016198",
+  "generated_at": "2025-11-26T00:00:53.186154",
   "basic_info": {
     "title": "AI & SaaS Leads Reddit Hunter",
     "author": "bingganbbb14c6",
@@ -11,23 +11,23 @@
     "published_at": "2025-08-22T15:04:47.629000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@bingganbbb14c6/ai-saas-leads-reddit-hunter",
-    "days_since_published": 94
+    "days_since_published": 95
   },
   "performance_metrics": {
     "views": 927,
-    "runs": 4,
+    "runs": 2,
     "saves": 0,
-    "days_tracked": 94,
+    "days_tracked": 95,
     "price": 1.0,
-    "engagement_rate": 0.43,
-    "avg_runs_per_day": 0.04,
-    "avg_views_per_day": 9.86
+    "engagement_rate": 0.22,
+    "avg_runs_per_day": 0.02,
+    "avg_views_per_day": 9.76
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 9,
+    "data_points": 10,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-25T08:00:22.881701",
+    "last_recorded": "2025-11-26T08:00:32.046352",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -38,7 +38,8 @@
         "2025-11-23T19:55:14.744404",
         "2025-11-23T20:03:58.312245",
         "2025-11-24T09:54:21.691735",
-        "2025-11-25T08:00:22.881701"
+        "2025-11-25T08:00:22.881701",
+        "2025-11-26T08:00:32.046352"
       ],
       "views": [
         915,
@@ -49,6 +50,7 @@
         924,
         924,
         924,
+        927,
         927
       ],
       "runs": [
@@ -60,9 +62,11 @@
         4,
         4,
         4,
-        4
+        4,
+        2
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -77,20 +81,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 5,
+    "days_tracked": 6,
     "total_growth": {
       "views": 12,
-      "runs": 3,
+      "runs": 1,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 2.4,
-      "runs": 0.6,
+      "views": 2.0,
+      "runs": 0.17,
       "saves": 0.0
     },
     "percentage_growth": {
       "views": 1.31,
-      "runs": 300.0,
+      "runs": 100.0,
       "saves": 0
     }
   },
@@ -99,16 +103,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 200,
+    "total_active_agents": 203,
     "views_rank": 38,
-    "runs_rank": 65,
-    "views_percentile": 81.0,
-    "runs_percentile": 67.5,
+    "runs_rank": 78,
+    "views_percentile": 81.3,
+    "runs_percentile": 61.6,
     "category": "AI Agent",
-    "category_agent_count": 200,
+    "category_agent_count": 203,
     "vs_average": {
-      "views": 29.7,
-      "runs": -93.8,
+      "views": 30.6,
+      "runs": -96.8,
       "saves": 0
     }
   },
@@ -116,7 +120,7 @@
     {
       "type": "warning",
       "title": "Low Engagement Rate",
-      "description": "The engagement rate is 0.4%, which may indicate the agent description or value proposition could be improved."
+      "description": "The engagement rate is 0.2%, which may indicate the agent description or value proposition could be improved."
     },
     {
       "type": "positive",
