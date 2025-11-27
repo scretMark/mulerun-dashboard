@@ -1,6 +1,6 @@
 {
   "agent_id": "4bf111d7-9e01-421e-9557-5da3ebb1c935",
-  "generated_at": "2025-11-26T00:00:55.229210",
+  "generated_at": "2025-11-27T00:00:36.151638",
   "basic_info": {
     "title": " Hand-Drawn Doodle Ads Generator",
     "author": "Aronlong",
@@ -11,23 +11,23 @@
     "published_at": "2025-11-16T10:03:28.847000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aronlong/hand-drawn-doodle-ads-generator",
-    "days_since_published": 9
+    "days_since_published": 10
   },
   "performance_metrics": {
-    "views": 56,
-    "runs": 3,
+    "views": 57,
+    "runs": 2,
     "saves": 0,
-    "days_tracked": 9,
+    "days_tracked": 10,
     "price": 10.0,
-    "engagement_rate": 5.36,
-    "avg_runs_per_day": 0.33,
-    "avg_views_per_day": 6.22
+    "engagement_rate": 3.51,
+    "avg_runs_per_day": 0.2,
+    "avg_views_per_day": 5.7
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 8,
+    "data_points": 9,
     "first_recorded": "2025-11-21T14:09:56.591648",
-    "last_recorded": "2025-11-26T08:00:32.046352",
+    "last_recorded": "2025-11-27T08:00:22.157746",
     "time_series": {
       "dates": [
         "2025-11-21T14:09:56.591648",
@@ -37,7 +37,8 @@
         "2025-11-23T20:03:58.312245",
         "2025-11-24T09:54:21.691735",
         "2025-11-25T08:00:22.881701",
-        "2025-11-26T08:00:32.046352"
+        "2025-11-26T08:00:32.046352",
+        "2025-11-27T08:00:22.157746"
       ],
       "views": [
         45,
@@ -47,7 +48,8 @@
         49,
         50,
         54,
-        56
+        56,
+        57
       ],
       "runs": [
         34,
@@ -57,9 +59,11 @@
         22,
         22,
         23,
-        3
+        3,
+        2
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -73,20 +77,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 4,
+    "days_tracked": 5,
     "total_growth": {
-      "views": 11,
-      "runs": -31,
+      "views": 12,
+      "runs": -32,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 2.75,
-      "runs": -7.75,
+      "views": 2.4,
+      "runs": -6.4,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 24.44,
-      "runs": -91.18,
+      "views": 26.67,
+      "runs": -94.12,
       "saves": 0
     }
   },
@@ -102,16 +106,16 @@
     ]
   },
   "market_position": {
-    "total_active_agents": 203,
-    "views_rank": 192,
-    "runs_rank": 70,
-    "views_percentile": 5.4,
-    "runs_percentile": 65.5,
+    "total_active_agents": 204,
+    "views_rank": 194,
+    "runs_rank": 80,
+    "views_percentile": 4.9,
+    "runs_percentile": 60.8,
     "category": "AI Agent",
-    "category_agent_count": 203,
+    "category_agent_count": 204,
     "vs_average": {
-      "views": -92.1,
-      "runs": -95.2,
+      "views": -92.0,
+      "runs": -96.2,
       "saves": 0
     }
   },

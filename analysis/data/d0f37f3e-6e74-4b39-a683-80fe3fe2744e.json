@@ -1,6 +1,6 @@
 {
   "agent_id": "d0f37f3e-6e74-4b39-a683-80fe3fe2744e",
-  "generated_at": "2025-11-26T00:00:53.546456",
+  "generated_at": "2025-11-27T00:00:34.517007",
   "basic_info": {
     "title": "Product Creative Studio",
     "author": "Aichimp",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-18T18:12:01.652000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aichimp/product-creative-studio",
-    "days_since_published": 38
+    "days_since_published": 39
   },
   "performance_metrics": {
-    "views": 531,
-    "runs": 548,
+    "views": 554,
+    "runs": 391,
     "saves": 0,
-    "days_tracked": 38,
+    "days_tracked": 39,
     "price": 0.0,
-    "engagement_rate": 103.2,
-    "avg_runs_per_day": 14.42,
-    "avg_views_per_day": 13.97
+    "engagement_rate": 70.58,
+    "avg_runs_per_day": 10.03,
+    "avg_views_per_day": 14.21
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 11,
+    "data_points": 12,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-11-26T08:00:32.046352",
+    "last_recorded": "2025-11-27T08:00:22.157746",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -40,7 +40,8 @@
         "2025-11-23T20:03:58.312245",
         "2025-11-24T09:54:21.691735",
         "2025-11-25T08:00:22.881701",
-        "2025-11-26T08:00:32.046352"
+        "2025-11-26T08:00:32.046352",
+        "2025-11-27T08:00:22.157746"
       ],
       "views": [
         294,
@@ -53,7 +54,8 @@
         453,
         460,
         490,
-        531
+        531,
+        554
       ],
       "runs": [
         210,
@@ -66,9 +68,11 @@
         607,
         601,
         588,
-        548
+        548,
+        391
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -85,20 +89,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 7,
+    "days_tracked": 8,
     "total_growth": {
-      "views": 237,
-      "runs": 338,
+      "views": 260,
+      "runs": 181,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 33.86,
-      "runs": 48.29,
+      "views": 32.5,
+      "runs": 22.62,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 80.61,
-      "runs": 160.95,
+      "views": 88.44,
+      "runs": 86.19,
       "saves": 0
     }
   },
@@ -107,16 +111,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 203,
-    "views_rank": 68,
+    "total_active_agents": 204,
+    "views_rank": 66,
     "runs_rank": 15,
-    "views_percentile": 66.5,
+    "views_percentile": 67.6,
     "runs_percentile": 92.6,
     "category": "AI Agent",
-    "category_agent_count": 203,
+    "category_agent_count": 204,
     "vs_average": {
-      "views": -25.2,
-      "runs": 770.7,
+      "views": -22.0,
+      "runs": 635.7,
       "saves": 0
     }
   },
@@ -124,12 +128,12 @@
     {
       "type": "positive",
       "title": "High Engagement Rate",
-      "description": "This agent has an excellent 103.2% engagement rate (runs/views), significantly above average."
+      "description": "This agent has an excellent 70.6% engagement rate (runs/views), significantly above average."
     },
     {
       "type": "positive",
       "title": "Active User Base",
-      "description": "Runs increased by 338, indicating growing adoption and active usage."
+      "description": "Runs increased by 181, indicating growing adoption and active usage."
     }
   ]
 }

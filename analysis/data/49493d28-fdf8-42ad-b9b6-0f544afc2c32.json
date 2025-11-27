@@ -1,6 +1,6 @@
 {
   "agent_id": "49493d28-fdf8-42ad-b9b6-0f544afc2c32",
-  "generated_at": "2025-11-26T00:00:53.798391",
+  "generated_at": "2025-11-27T00:00:34.783114",
   "basic_info": {
     "title": "Chinese Animal",
     "author": "dotb78",
@@ -11,23 +11,23 @@
     "published_at": "2025-09-25T22:23:02.692000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@dotb78/chinese-animal",
-    "days_since_published": 61
+    "days_since_published": 62
   },
   "performance_metrics": {
-    "views": 350,
+    "views": 353,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 61,
+    "days_tracked": 62,
     "price": 35.0,
     "engagement_rate": 0.0,
     "avg_runs_per_day": 0.0,
-    "avg_views_per_day": 5.74
+    "avg_views_per_day": 5.69
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 10,
+    "data_points": 11,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-26T08:00:32.046352",
+    "last_recorded": "2025-11-27T08:00:22.157746",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -39,7 +39,8 @@
         "2025-11-23T20:03:58.312245",
         "2025-11-24T09:54:21.691735",
         "2025-11-25T08:00:22.881701",
-        "2025-11-26T08:00:32.046352"
+        "2025-11-26T08:00:32.046352",
+        "2025-11-27T08:00:22.157746"
       ],
       "views": [
         347,
@@ -51,9 +52,11 @@
         350,
         350,
         350,
-        350
+        350,
+        353
       ],
       "runs": [
+        0,
         0,
         0,
         0,
@@ -75,25 +78,26 @@
         0,
         0,
         0,
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 6,
+    "days_tracked": 7,
     "total_growth": {
-      "views": 3,
+      "views": 6,
       "runs": 0,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 0.5,
+      "views": 0.86,
       "runs": 0.0,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 0.86,
+      "views": 1.73,
       "runs": 0,
       "saves": 0
     }
@@ -103,15 +107,15 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 203,
+    "total_active_agents": 204,
     "views_rank": 87,
-    "runs_rank": 124,
-    "views_percentile": 57.1,
-    "runs_percentile": 38.9,
+    "runs_rank": 125,
+    "views_percentile": 57.4,
+    "runs_percentile": 38.7,
     "category": "AI Agent",
-    "category_agent_count": 203,
+    "category_agent_count": 204,
     "vs_average": {
-      "views": -50.7,
+      "views": -50.3,
       "runs": -100.0,
       "saves": 0
     }

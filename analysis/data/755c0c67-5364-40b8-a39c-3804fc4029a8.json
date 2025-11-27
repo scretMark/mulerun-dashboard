@@ -1,6 +1,6 @@
 {
   "agent_id": "755c0c67-5364-40b8-a39c-3804fc4029a8",
-  "generated_at": "2025-11-26T00:00:54.976940",
+  "generated_at": "2025-11-27T00:00:35.985009",
   "basic_info": {
     "title": "Your Nobel Moment",
     "author": "Norsizu",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-13T11:03:06.303000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/your-nobel-moment",
-    "days_since_published": 43
+    "days_since_published": 44
   },
   "performance_metrics": {
     "views": 96,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 43,
+    "days_tracked": 44,
     "price": 50.0,
     "engagement_rate": 0.0,
     "avg_runs_per_day": 0.0,
-    "avg_views_per_day": 2.23
+    "avg_views_per_day": 2.18
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 10,
+    "data_points": 11,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-26T08:00:32.046352",
+    "last_recorded": "2025-11-27T08:00:22.157746",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -39,7 +39,8 @@
         "2025-11-23T20:03:58.312245",
         "2025-11-24T09:54:21.691735",
         "2025-11-25T08:00:22.881701",
-        "2025-11-26T08:00:32.046352"
+        "2025-11-26T08:00:32.046352",
+        "2025-11-27T08:00:22.157746"
       ],
       "views": [
         93,
@@ -51,9 +52,11 @@
         95,
         96,
         96,
+        96,
         96
       ],
       "runs": [
+        0,
         0,
         0,
         0,
@@ -75,20 +78,21 @@
         0,
         0,
         0,
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 6,
+    "days_tracked": 7,
     "total_growth": {
       "views": 3,
       "runs": 0,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 0.5,
+      "views": 0.43,
       "runs": 0.0,
       "saves": 0.0
     },
@@ -103,13 +107,13 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 203,
-    "views_rank": 176,
-    "runs_rank": 124,
-    "views_percentile": 13.3,
-    "runs_percentile": 38.9,
+    "total_active_agents": 204,
+    "views_rank": 177,
+    "runs_rank": 125,
+    "views_percentile": 13.2,
+    "runs_percentile": 38.7,
     "category": "AI Agent",
-    "category_agent_count": 203,
+    "category_agent_count": 204,
     "vs_average": {
       "views": -86.5,
       "runs": -100.0,

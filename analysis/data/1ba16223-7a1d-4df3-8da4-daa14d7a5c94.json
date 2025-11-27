@@ -1,6 +1,6 @@
 {
   "agent_id": "1ba16223-7a1d-4df3-8da4-daa14d7a5c94",
-  "generated_at": "2025-11-26T00:00:53.209192",
+  "generated_at": "2025-11-27T00:00:34.162519",
   "basic_info": {
     "title": "90s horror bedroom",
     "author": "Lucas",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-23T19:10:25.645000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/90s-horror-bedroom",
-    "days_since_published": 33
+    "days_since_published": 34
   },
   "performance_metrics": {
     "views": 895,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 33,
+    "days_tracked": 34,
     "price": 25.0,
     "engagement_rate": 0.0,
     "avg_runs_per_day": 0.0,
-    "avg_views_per_day": 27.12
+    "avg_views_per_day": 26.32
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 10,
+    "data_points": 11,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-26T08:00:32.046352",
+    "last_recorded": "2025-11-27T08:00:22.157746",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -39,7 +39,8 @@
         "2025-11-23T20:03:58.312245",
         "2025-11-24T09:54:21.691735",
         "2025-11-25T08:00:22.881701",
-        "2025-11-26T08:00:32.046352"
+        "2025-11-26T08:00:32.046352",
+        "2025-11-27T08:00:22.157746"
       ],
       "views": [
         889,
@@ -51,9 +52,11 @@
         893,
         893,
         894,
+        895,
         895
       ],
       "runs": [
+        0,
         0,
         0,
         0,
@@ -75,20 +78,21 @@
         0,
         0,
         0,
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 6,
+    "days_tracked": 7,
     "total_growth": {
       "views": 6,
       "runs": 0,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 1.0,
+      "views": 0.86,
       "runs": 0.0,
       "saves": 0.0
     },
@@ -103,15 +107,15 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 203,
+    "total_active_agents": 204,
     "views_rank": 40,
-    "runs_rank": 124,
-    "views_percentile": 80.3,
-    "runs_percentile": 38.9,
+    "runs_rank": 125,
+    "views_percentile": 80.4,
+    "runs_percentile": 38.7,
     "category": "AI Agent",
-    "category_agent_count": 203,
+    "category_agent_count": 204,
     "vs_average": {
-      "views": 26.1,
+      "views": 25.9,
       "runs": -100.0,
       "saves": 0
     }

@@ -1,6 +1,6 @@
 {
   "agent_id": "08879b11-3585-4919-89c0-a0725f17039b",
-  "generated_at": "2025-11-26T00:00:54.710899",
+  "generated_at": "2025-11-27T00:00:35.656316",
   "basic_info": {
     "title": "Amazon Product Search",
     "author": "createAny",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-13T18:19:42.979000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@createAny/amazon-product-search",
-    "days_since_published": 43
+    "days_since_published": 44
   },
   "performance_metrics": {
     "views": 147,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 43,
+    "days_tracked": 44,
     "price": 10.0,
     "engagement_rate": 0.0,
     "avg_runs_per_day": 0.0,
-    "avg_views_per_day": 3.42
+    "avg_views_per_day": 3.34
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 10,
+    "data_points": 11,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-26T08:00:32.046352",
+    "last_recorded": "2025-11-27T08:00:22.157746",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -39,7 +39,8 @@
         "2025-11-23T20:03:58.312245",
         "2025-11-24T09:54:21.691735",
         "2025-11-25T08:00:22.881701",
-        "2025-11-26T08:00:32.046352"
+        "2025-11-26T08:00:32.046352",
+        "2025-11-27T08:00:22.157746"
       ],
       "views": [
         135,
@@ -51,11 +52,13 @@
         144,
         146,
         147,
+        147,
         147
       ],
       "runs": [
         2,
         2,
+        0,
         0,
         0,
         0,
@@ -75,21 +78,22 @@
         0,
         0,
         0,
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 6,
+    "days_tracked": 7,
     "total_growth": {
       "views": 12,
       "runs": -2,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 2.0,
-      "runs": -0.33,
+      "views": 1.71,
+      "runs": -0.29,
       "saves": 0.0
     },
     "percentage_growth": {
@@ -103,13 +107,13 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 203,
+    "total_active_agents": 204,
     "views_rank": 153,
-    "runs_rank": 124,
-    "views_percentile": 24.6,
-    "runs_percentile": 38.9,
+    "runs_rank": 125,
+    "views_percentile": 25.0,
+    "runs_percentile": 38.7,
     "category": "AI Agent",
-    "category_agent_count": 203,
+    "category_agent_count": 204,
     "vs_average": {
       "views": -79.3,
       "runs": -100.0,

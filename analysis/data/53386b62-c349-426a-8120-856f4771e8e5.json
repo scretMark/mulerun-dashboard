@@ -1,6 +1,6 @@
 {
   "agent_id": "53386b62-c349-426a-8120-856f4771e8e5",
-  "generated_at": "2025-11-26T00:00:54.917829",
+  "generated_at": "2025-11-27T00:00:35.899188",
   "basic_info": {
     "title": "Multi-style Portrait Studio",
     "author": "AFei_AITalk",
@@ -11,23 +11,23 @@
     "published_at": "2025-11-10T17:34:54.782000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AFei_AITalk/multi-style-portrait-studio",
-    "days_since_published": 15
+    "days_since_published": 16
   },
   "performance_metrics": {
     "views": 109,
     "runs": 31,
     "saves": 0,
-    "days_tracked": 15,
+    "days_tracked": 16,
     "price": 45.0,
     "engagement_rate": 28.44,
-    "avg_runs_per_day": 2.07,
-    "avg_views_per_day": 7.27
+    "avg_runs_per_day": 1.94,
+    "avg_views_per_day": 6.81
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 10,
+    "data_points": 11,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-26T08:00:32.046352",
+    "last_recorded": "2025-11-27T08:00:22.157746",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -39,7 +39,8 @@
         "2025-11-23T20:03:58.312245",
         "2025-11-24T09:54:21.691735",
         "2025-11-25T08:00:22.881701",
-        "2025-11-26T08:00:32.046352"
+        "2025-11-26T08:00:32.046352",
+        "2025-11-27T08:00:22.157746"
       ],
       "views": [
         96,
@@ -51,6 +52,7 @@
         103,
         103,
         105,
+        109,
         109
       ],
       "runs": [
@@ -63,9 +65,11 @@
         4,
         4,
         15,
+        31,
         31
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -81,15 +85,15 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 6,
+    "days_tracked": 7,
     "total_growth": {
       "views": 13,
       "runs": 23,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 2.17,
-      "runs": 3.83,
+      "views": 1.86,
+      "runs": 3.29,
       "saves": 0.0
     },
     "percentage_growth": {
@@ -103,16 +107,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 203,
-    "views_rank": 171,
-    "runs_rank": 37,
-    "views_percentile": 15.8,
-    "runs_percentile": 81.8,
+    "total_active_agents": 204,
+    "views_rank": 172,
+    "runs_rank": 34,
+    "views_percentile": 15.7,
+    "runs_percentile": 83.3,
     "category": "AI Agent",
-    "category_agent_count": 203,
+    "category_agent_count": 204,
     "vs_average": {
-      "views": -84.6,
-      "runs": -50.7,
+      "views": -84.7,
+      "runs": -41.7,
       "saves": 0
     }
   },

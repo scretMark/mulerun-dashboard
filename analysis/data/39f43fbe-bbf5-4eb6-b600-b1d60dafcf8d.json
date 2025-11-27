@@ -1,6 +1,6 @@
 {
   "agent_id": "39f43fbe-bbf5-4eb6-b600-b1d60dafcf8d",
-  "generated_at": "2025-11-26T00:00:53.450789",
+  "generated_at": "2025-11-27T00:00:34.440662",
   "basic_info": {
     "title": "Travel with AI",
     "author": "Rhino",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-16T16:55:46.056000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Rhino/travel-with-ai",
-    "days_since_published": 40
+    "days_since_published": 41
   },
   "performance_metrics": {
     "views": 618,
     "runs": 6,
     "saves": 0,
-    "days_tracked": 40,
+    "days_tracked": 41,
     "price": 40.0,
     "engagement_rate": 0.97,
     "avg_runs_per_day": 0.15,
-    "avg_views_per_day": 15.45
+    "avg_views_per_day": 15.07
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 10,
+    "data_points": 11,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-26T08:00:32.046352",
+    "last_recorded": "2025-11-27T08:00:22.157746",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -39,7 +39,8 @@
         "2025-11-23T20:03:58.312245",
         "2025-11-24T09:54:21.691735",
         "2025-11-25T08:00:22.881701",
-        "2025-11-26T08:00:32.046352"
+        "2025-11-26T08:00:32.046352",
+        "2025-11-27T08:00:22.157746"
       ],
       "views": [
         609,
@@ -51,6 +52,7 @@
         613,
         615,
         615,
+        618,
         618
       ],
       "runs": [
@@ -63,9 +65,11 @@
         6,
         6,
         5,
+        6,
         6
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -81,15 +85,15 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 6,
+    "days_tracked": 7,
     "total_growth": {
       "views": 9,
       "runs": 5,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 1.5,
-      "runs": 0.83,
+      "views": 1.29,
+      "runs": 0.71,
       "saves": 0.0
     },
     "percentage_growth": {
@@ -103,16 +107,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 203,
+    "total_active_agents": 204,
     "views_rank": 60,
-    "runs_rank": 61,
-    "views_percentile": 70.4,
-    "runs_percentile": 70.0,
+    "runs_rank": 59,
+    "views_percentile": 70.6,
+    "runs_percentile": 71.1,
     "category": "AI Agent",
-    "category_agent_count": 203,
+    "category_agent_count": 204,
     "vs_average": {
-      "views": -12.9,
-      "runs": -90.5,
+      "views": -13.0,
+      "runs": -88.7,
       "saves": 0
     }
   },

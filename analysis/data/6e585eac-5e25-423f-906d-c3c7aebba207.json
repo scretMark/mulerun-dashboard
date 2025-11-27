@@ -1,6 +1,6 @@
 {
   "agent_id": "6e585eac-5e25-423f-906d-c3c7aebba207",
-  "generated_at": "2025-11-26T00:00:54.444579",
+  "generated_at": "2025-11-27T00:00:35.396906",
   "basic_info": {
     "title": "AI Car Wrap Color Change",
     "author": "Jayden",
@@ -11,23 +11,23 @@
     "published_at": "2025-11-10T10:31:34.514000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Jayden/ai-car-wrap-color-change",
-    "days_since_published": 15
+    "days_since_published": 16
   },
   "performance_metrics": {
-    "views": 181,
+    "views": 182,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 15,
+    "days_tracked": 16,
     "price": 69.0,
     "engagement_rate": 0.0,
     "avg_runs_per_day": 0.0,
-    "avg_views_per_day": 12.07
+    "avg_views_per_day": 11.38
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 10,
+    "data_points": 11,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-26T08:00:32.046352",
+    "last_recorded": "2025-11-27T08:00:22.157746",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -39,7 +39,8 @@
         "2025-11-23T20:03:58.312245",
         "2025-11-24T09:54:21.691735",
         "2025-11-25T08:00:22.881701",
-        "2025-11-26T08:00:32.046352"
+        "2025-11-26T08:00:32.046352",
+        "2025-11-27T08:00:22.157746"
       ],
       "views": [
         175,
@@ -51,7 +52,8 @@
         178,
         178,
         179,
-        181
+        181,
+        182
       ],
       "runs": [
         1,
@@ -63,9 +65,11 @@
         1,
         1,
         0,
+        0,
         0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -81,19 +85,19 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 6,
+    "days_tracked": 7,
     "total_growth": {
-      "views": 6,
+      "views": 7,
       "runs": -1,
       "saves": 0
     },
     "daily_average_growth": {
       "views": 1.0,
-      "runs": -0.17,
+      "runs": -0.14,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 3.43,
+      "views": 4.0,
       "runs": -100.0,
       "saves": 0
     }
@@ -103,15 +107,15 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 203,
-    "views_rank": 134,
-    "runs_rank": 124,
-    "views_percentile": 34.0,
-    "runs_percentile": 38.9,
+    "total_active_agents": 204,
+    "views_rank": 135,
+    "runs_rank": 125,
+    "views_percentile": 33.8,
+    "runs_percentile": 38.7,
     "category": "AI Agent",
-    "category_agent_count": 203,
+    "category_agent_count": 204,
     "vs_average": {
-      "views": -74.5,
+      "views": -74.4,
       "runs": -100.0,
       "saves": 0
     }

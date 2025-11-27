@@ -1,6 +1,6 @@
 {
   "agent_id": "311be0d7-cd68-4fa7-99bc-232e535ebb39",
-  "generated_at": "2025-11-26T00:00:52.613538",
+  "generated_at": "2025-11-27T00:00:33.594330",
   "basic_info": {
     "title": "3D Desk Figure Creation",
     "author": "laughing_code",
@@ -11,23 +11,23 @@
     "published_at": "2025-09-02T15:37:32.901000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@laughing_code/3d-desk-figure-creation",
-    "days_since_published": 84
+    "days_since_published": 85
   },
   "performance_metrics": {
-    "views": 11515,
-    "runs": 926,
+    "views": 11585,
+    "runs": 690,
     "saves": 0,
-    "days_tracked": 84,
+    "days_tracked": 85,
     "price": 50.0,
-    "engagement_rate": 8.04,
-    "avg_runs_per_day": 11.02,
-    "avg_views_per_day": 137.08
+    "engagement_rate": 5.96,
+    "avg_runs_per_day": 8.12,
+    "avg_views_per_day": 136.29
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 11,
+    "data_points": 12,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-11-26T08:00:32.046352",
+    "last_recorded": "2025-11-27T08:00:22.157746",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -40,7 +40,8 @@
         "2025-11-23T20:03:58.312245",
         "2025-11-24T09:54:21.691735",
         "2025-11-25T08:00:22.881701",
-        "2025-11-26T08:00:32.046352"
+        "2025-11-26T08:00:32.046352",
+        "2025-11-27T08:00:22.157746"
       ],
       "views": [
         11183,
@@ -53,7 +54,8 @@
         11355,
         11376,
         11442,
-        11515
+        11515,
+        11585
       ],
       "runs": [
         143,
@@ -66,9 +68,11 @@
         1071,
         1067,
         1042,
-        926
+        926,
+        690
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -85,20 +89,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 7,
+    "days_tracked": 8,
     "total_growth": {
-      "views": 332,
-      "runs": 783,
+      "views": 402,
+      "runs": 547,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 47.43,
-      "runs": 111.86,
+      "views": 50.25,
+      "runs": 68.38,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 2.97,
-      "runs": 547.55,
+      "views": 3.59,
+      "runs": 382.52,
       "saves": 0
     }
   },
@@ -107,16 +111,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 203,
+    "total_active_agents": 204,
     "views_rank": 1,
     "runs_rank": 1,
     "views_percentile": 99.5,
     "runs_percentile": 99.5,
     "category": "AI Agent",
-    "category_agent_count": 203,
+    "category_agent_count": 204,
     "vs_average": {
-      "views": 1522.5,
-      "runs": 1371.3,
+      "views": 1530.1,
+      "runs": 1198.3,
       "saves": 0
     }
   },
@@ -124,17 +128,12 @@
     {
       "type": "positive",
       "title": "Active User Base",
-      "description": "Runs increased by 783, indicating growing adoption and active usage."
+      "description": "Runs increased by 547, indicating growing adoption and active usage."
     },
     {
       "type": "positive",
       "title": "Top Performer",
       "description": "This agent ranks in the top 0% by views, placing it among the most popular agents."
-    },
-    {
-      "type": "info",
-      "title": "Paid Agent with Strong Usage",
-      "description": "Despite being priced at $50.0, this agent averages 11.0 runs per day."
     }
   ]
 }

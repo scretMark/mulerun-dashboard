@@ -1,6 +1,6 @@
 {
   "agent_id": "550e8400-e29b-41d4-a716-446655440005",
-  "generated_at": "2025-11-26T00:00:52.726741",
+  "generated_at": "2025-11-27T00:00:33.719797",
   "basic_info": {
     "title": "Honkai: Star Rail Booster",
     "author": "Chengbbb0468",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-30T17:57:46.597000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Chengbbb0468/honkai-star-rail-booster",
-    "days_since_published": 26
+    "days_since_published": 27
   },
   "performance_metrics": {
-    "views": 4114,
+    "views": 4123,
     "runs": 18,
     "saves": 0,
-    "days_tracked": 26,
+    "days_tracked": 27,
     "price": 2.0,
     "engagement_rate": 0.44,
-    "avg_runs_per_day": 0.69,
-    "avg_views_per_day": 158.23
+    "avg_runs_per_day": 0.67,
+    "avg_views_per_day": 152.7
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 10,
+    "data_points": 11,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-26T08:00:32.046352",
+    "last_recorded": "2025-11-27T08:00:22.157746",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -39,7 +39,8 @@
         "2025-11-23T20:03:58.312245",
         "2025-11-24T09:54:21.691735",
         "2025-11-25T08:00:22.881701",
-        "2025-11-26T08:00:32.046352"
+        "2025-11-26T08:00:32.046352",
+        "2025-11-27T08:00:22.157746"
       ],
       "views": [
         4080,
@@ -51,7 +52,8 @@
         4106,
         4107,
         4112,
-        4114
+        4114,
+        4123
       ],
       "runs": [
         26,
@@ -63,9 +65,11 @@
         26,
         20,
         17,
+        18,
         18
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -81,19 +85,19 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 6,
+    "days_tracked": 7,
     "total_growth": {
-      "views": 34,
+      "views": 43,
       "runs": -8,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 5.67,
-      "runs": -1.33,
+      "views": 6.14,
+      "runs": -1.14,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 0.83,
+      "views": 1.05,
       "runs": -30.77,
       "saves": 0
     }
@@ -103,16 +107,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 203,
+    "total_active_agents": 204,
     "views_rank": 6,
-    "runs_rank": 43,
-    "views_percentile": 97.0,
-    "runs_percentile": 78.8,
+    "runs_rank": 40,
+    "views_percentile": 97.1,
+    "runs_percentile": 80.4,
     "category": "AI Agent",
-    "category_agent_count": 203,
+    "category_agent_count": 204,
     "vs_average": {
-      "views": 479.7,
-      "runs": -71.4,
+      "views": 480.1,
+      "runs": -66.1,
       "saves": 0
     }
   },

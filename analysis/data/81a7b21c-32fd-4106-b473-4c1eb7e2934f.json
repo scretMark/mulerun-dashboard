@@ -1,6 +1,6 @@
 {
   "agent_id": "81a7b21c-32fd-4106-b473-4c1eb7e2934f",
-  "generated_at": "2025-11-26T00:00:54.065467",
+  "generated_at": "2025-11-27T00:00:35.005712",
   "basic_info": {
     "title": "Elon Musk I Love YOU",
     "author": "Darren",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-20T11:38:39.595000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/elon-musk-i-love-you",
-    "days_since_published": 36
+    "days_since_published": 37
   },
   "performance_metrics": {
-    "views": 256,
-    "runs": 0,
+    "views": 259,
+    "runs": 1,
     "saves": 0,
-    "days_tracked": 36,
+    "days_tracked": 37,
     "price": 51.0,
-    "engagement_rate": 0.0,
-    "avg_runs_per_day": 0.0,
-    "avg_views_per_day": 7.11
+    "engagement_rate": 0.39,
+    "avg_runs_per_day": 0.03,
+    "avg_views_per_day": 7.0
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 10,
+    "data_points": 11,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-26T08:00:32.046352",
+    "last_recorded": "2025-11-27T08:00:22.157746",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -39,7 +39,8 @@
         "2025-11-23T20:03:58.312245",
         "2025-11-24T09:54:21.691735",
         "2025-11-25T08:00:22.881701",
-        "2025-11-26T08:00:32.046352"
+        "2025-11-26T08:00:32.046352",
+        "2025-11-27T08:00:22.157746"
       ],
       "views": [
         253,
@@ -51,7 +52,8 @@
         255,
         255,
         255,
-        256
+        256,
+        259
       ],
       "runs": [
         1,
@@ -63,9 +65,11 @@
         0,
         0,
         0,
-        0
+        0,
+        1
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -81,20 +85,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 6,
+    "days_tracked": 7,
     "total_growth": {
-      "views": 3,
-      "runs": -1,
+      "views": 6,
+      "runs": 0,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 0.5,
-      "runs": -0.17,
+      "views": 0.86,
+      "runs": 0.0,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 1.19,
-      "runs": -100.0,
+      "views": 2.37,
+      "runs": 0.0,
       "saves": 0
     }
   },
@@ -103,16 +107,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 203,
-    "views_rank": 105,
-    "runs_rank": 124,
-    "views_percentile": 48.3,
-    "runs_percentile": 38.9,
+    "total_active_agents": 204,
+    "views_rank": 104,
+    "runs_rank": 97,
+    "views_percentile": 49.0,
+    "runs_percentile": 52.5,
     "category": "AI Agent",
-    "category_agent_count": 203,
+    "category_agent_count": 204,
     "vs_average": {
-      "views": -63.9,
-      "runs": -100.0,
+      "views": -63.6,
+      "runs": -98.1,
       "saves": 0
     }
   },
@@ -120,7 +124,7 @@
     {
       "type": "warning",
       "title": "Low Engagement Rate",
-      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
+      "description": "The engagement rate is 0.4%, which may indicate the agent description or value proposition could be improved."
     }
   ]
 }

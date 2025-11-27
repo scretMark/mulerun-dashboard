@@ -1,6 +1,6 @@
 {
   "agent_id": "51184cdc-55eb-462d-b131-355e1b5b5d7d",
-  "generated_at": "2025-11-26T00:00:54.432770",
+  "generated_at": "2025-11-27T00:00:35.357100",
   "basic_info": {
     "title": "Nano Architect",
     "author": "jyvdzb224259haj",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-05T01:28:44.314000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@jyvdzb224259haj/nano-architect",
-    "days_since_published": 51
+    "days_since_published": 52
   },
   "performance_metrics": {
-    "views": 186,
-    "runs": 3,
+    "views": 196,
+    "runs": 5,
     "saves": 0,
-    "days_tracked": 51,
+    "days_tracked": 52,
     "price": 50.0,
-    "engagement_rate": 1.61,
-    "avg_runs_per_day": 0.06,
-    "avg_views_per_day": 3.65
+    "engagement_rate": 2.55,
+    "avg_runs_per_day": 0.1,
+    "avg_views_per_day": 3.77
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 10,
+    "data_points": 11,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-26T08:00:32.046352",
+    "last_recorded": "2025-11-27T08:00:22.157746",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -39,7 +39,8 @@
         "2025-11-23T20:03:58.312245",
         "2025-11-24T09:54:21.691735",
         "2025-11-25T08:00:22.881701",
-        "2025-11-26T08:00:32.046352"
+        "2025-11-26T08:00:32.046352",
+        "2025-11-27T08:00:22.157746"
       ],
       "views": [
         177,
@@ -51,7 +52,8 @@
         181,
         181,
         184,
-        186
+        186,
+        196
       ],
       "runs": [
         1,
@@ -63,9 +65,11 @@
         1,
         0,
         1,
-        3
+        3,
+        5
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -81,20 +85,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 6,
+    "days_tracked": 7,
     "total_growth": {
-      "views": 9,
-      "runs": 2,
+      "views": 19,
+      "runs": 4,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 1.5,
-      "runs": 0.33,
+      "views": 2.71,
+      "runs": 0.57,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 5.08,
-      "runs": 200.0,
+      "views": 10.73,
+      "runs": 400.0,
       "saves": 0
     }
   },
@@ -103,24 +107,18 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 203,
-    "views_rank": 133,
-    "runs_rank": 70,
-    "views_percentile": 34.5,
-    "runs_percentile": 65.5,
+    "total_active_agents": 204,
+    "views_rank": 132,
+    "runs_rank": 66,
+    "views_percentile": 35.3,
+    "runs_percentile": 67.6,
     "category": "AI Agent",
-    "category_agent_count": 203,
+    "category_agent_count": 204,
     "vs_average": {
-      "views": -73.8,
-      "runs": -95.2,
+      "views": -72.4,
+      "runs": -90.6,
       "saves": 0
     }
   },
-  "insights": [
-    {
-      "type": "warning",
-      "title": "Low Engagement Rate",
-      "description": "The engagement rate is 1.6%, which may indicate the agent description or value proposition could be improved."
-    }
-  ]
+  "insights": []
 }

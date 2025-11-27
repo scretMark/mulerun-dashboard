@@ -1,6 +1,6 @@
 {
   "agent_id": "e197ef47-e1a3-43ab-a2b0-aa753bd9785e",
-  "generated_at": "2025-11-26T00:00:54.630043",
+  "generated_at": "2025-11-27T00:00:35.605965",
   "basic_info": {
     "title": "Kawaii Chibi Sticker Pack",
     "author": "AllenCreator",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-07T11:32:03.765000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AllenCreator/kawaii-chibi-sticker-pack",
-    "days_since_published": 49
+    "days_since_published": 50
   },
   "performance_metrics": {
-    "views": 157,
+    "views": 158,
     "runs": 1,
     "saves": 0,
-    "days_tracked": 49,
+    "days_tracked": 50,
     "price": 20.0,
-    "engagement_rate": 0.64,
+    "engagement_rate": 0.63,
     "avg_runs_per_day": 0.02,
-    "avg_views_per_day": 3.2
+    "avg_views_per_day": 3.16
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 10,
+    "data_points": 11,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-26T08:00:32.046352",
+    "last_recorded": "2025-11-27T08:00:22.157746",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -39,7 +39,8 @@
         "2025-11-23T20:03:58.312245",
         "2025-11-24T09:54:21.691735",
         "2025-11-25T08:00:22.881701",
-        "2025-11-26T08:00:32.046352"
+        "2025-11-26T08:00:32.046352",
+        "2025-11-27T08:00:22.157746"
       ],
       "views": [
         151,
@@ -51,7 +52,8 @@
         155,
         156,
         156,
-        157
+        157,
+        158
       ],
       "runs": [
         6,
@@ -63,9 +65,11 @@
         2,
         2,
         2,
+        1,
         1
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -81,19 +85,19 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 6,
+    "days_tracked": 7,
     "total_growth": {
-      "views": 6,
+      "views": 7,
       "runs": -5,
       "saves": 0
     },
     "daily_average_growth": {
       "views": 1.0,
-      "runs": -0.83,
+      "runs": -0.71,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 3.97,
+      "views": 4.64,
       "runs": -83.33,
       "saves": 0
     }
@@ -103,16 +107,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 203,
-    "views_rank": 147,
-    "runs_rank": 92,
-    "views_percentile": 27.6,
-    "runs_percentile": 54.7,
+    "total_active_agents": 204,
+    "views_rank": 149,
+    "runs_rank": 97,
+    "views_percentile": 27.0,
+    "runs_percentile": 52.5,
     "category": "AI Agent",
-    "category_agent_count": 203,
+    "category_agent_count": 204,
     "vs_average": {
-      "views": -77.9,
-      "runs": -98.4,
+      "views": -77.8,
+      "runs": -98.1,
       "saves": 0
     }
   },

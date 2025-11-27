@@ -1,6 +1,6 @@
 {
   "agent_id": "779e2356-11e7-4fe0-90a3-4a1e9506c3b0",
-  "generated_at": "2025-11-26T00:00:53.404812",
+  "generated_at": "2025-11-27T00:00:34.353113",
   "basic_info": {
     "title": "Smart Q",
     "author": "QuickBI",
@@ -11,23 +11,23 @@
     "published_at": "2025-11-04T15:33:59.812000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@QuickBI/smart-q",
-    "days_since_published": 21
+    "days_since_published": 22
   },
   "performance_metrics": {
-    "views": 667,
-    "runs": 679,
+    "views": 689,
+    "runs": 616,
     "saves": 0,
-    "days_tracked": 21,
+    "days_tracked": 22,
     "price": 0.0,
-    "engagement_rate": 101.8,
-    "avg_runs_per_day": 32.33,
-    "avg_views_per_day": 31.76
+    "engagement_rate": 89.4,
+    "avg_runs_per_day": 28.0,
+    "avg_views_per_day": 31.32
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 11,
+    "data_points": 12,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-11-26T08:00:32.046352",
+    "last_recorded": "2025-11-27T08:00:22.157746",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -40,7 +40,8 @@
         "2025-11-23T20:03:58.312245",
         "2025-11-24T09:54:21.691735",
         "2025-11-25T08:00:22.881701",
-        "2025-11-26T08:00:32.046352"
+        "2025-11-26T08:00:32.046352",
+        "2025-11-27T08:00:22.157746"
       ],
       "views": [
         484,
@@ -53,7 +54,8 @@
         602,
         606,
         631,
-        667
+        667,
+        689
       ],
       "runs": [
         575,
@@ -66,9 +68,11 @@
         603,
         594,
         663,
-        679
+        679,
+        616
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -85,20 +89,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 7,
+    "days_tracked": 8,
     "total_growth": {
-      "views": 183,
-      "runs": 104,
+      "views": 205,
+      "runs": 41,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 26.14,
-      "runs": 14.86,
+      "views": 25.62,
+      "runs": 5.12,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 37.81,
-      "runs": 18.09,
+      "views": 42.36,
+      "runs": 7.13,
       "saves": 0
     }
   },
@@ -107,16 +111,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 203,
-    "views_rank": 56,
-    "runs_rank": 6,
-    "views_percentile": 72.4,
-    "runs_percentile": 97.0,
+    "total_active_agents": 204,
+    "views_rank": 53,
+    "runs_rank": 5,
+    "views_percentile": 74.0,
+    "runs_percentile": 97.5,
     "category": "AI Agent",
-    "category_agent_count": 203,
+    "category_agent_count": 204,
     "vs_average": {
-      "views": -6.0,
-      "runs": 978.9,
+      "views": -3.1,
+      "runs": 1059.0,
       "saves": 0
     }
   },
@@ -124,12 +128,7 @@
     {
       "type": "positive",
       "title": "High Engagement Rate",
-      "description": "This agent has an excellent 101.8% engagement rate (runs/views), significantly above average."
-    },
-    {
-      "type": "positive",
-      "title": "Active User Base",
-      "description": "Runs increased by 104, indicating growing adoption and active usage."
+      "description": "This agent has an excellent 89.4% engagement rate (runs/views), significantly above average."
     }
   ]
 }

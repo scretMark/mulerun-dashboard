@@ -1,33 +1,33 @@
 {
   "agent_id": "5393220a-3fbf-47b4-b34f-4084aaf48f81",
-  "generated_at": "2025-11-26T00:00:53.657347",
+  "generated_at": "2025-11-27T00:00:34.653007",
   "basic_info": {
     "title": "Sugar Skull Makeup Filter",
     "author": "Lucas",
-    "description": "Upload a clear front-facing portrait, and the agent will generate a Sugar Skull makeup version of you, preserving your facial features while adding detailed decorations and authentic Day of the Dead style. The final image is a high-resolution 2D portrait suitable for sharing on social media.",
+    "description": "Transform your photo into Day of the Dead art with instant generation of a vibrant sugar skull face paint and floral designs for festive sharing.",
     "short_description": "Apply Sugar Skull makeup filter to your portrait photos.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-10-28T19:43:54.045000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/sugar-skull-makeup-filter",
-    "days_since_published": 28
+    "days_since_published": 29
   },
   "performance_metrics": {
-    "views": 425,
+    "views": 428,
     "runs": 1,
     "saves": 0,
-    "days_tracked": 28,
+    "days_tracked": 29,
     "price": 25.0,
-    "engagement_rate": 0.24,
-    "avg_runs_per_day": 0.04,
-    "avg_views_per_day": 15.18
+    "engagement_rate": 0.23,
+    "avg_runs_per_day": 0.03,
+    "avg_views_per_day": 14.76
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 10,
+    "data_points": 11,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-26T08:00:32.046352",
+    "last_recorded": "2025-11-27T08:00:22.157746",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -39,7 +39,8 @@
         "2025-11-23T20:03:58.312245",
         "2025-11-24T09:54:21.691735",
         "2025-11-25T08:00:22.881701",
-        "2025-11-26T08:00:32.046352"
+        "2025-11-26T08:00:32.046352",
+        "2025-11-27T08:00:22.157746"
       ],
       "views": [
         419,
@@ -51,7 +52,8 @@
         423,
         423,
         423,
-        425
+        425,
+        428
       ],
       "runs": [
         13,
@@ -63,9 +65,11 @@
         14,
         2,
         1,
+        1,
         1
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -81,19 +85,19 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 6,
+    "days_tracked": 7,
     "total_growth": {
-      "views": 6,
+      "views": 9,
       "runs": -12,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 1.0,
-      "runs": -2.0,
+      "views": 1.29,
+      "runs": -1.71,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 1.43,
+      "views": 2.15,
       "runs": -92.31,
       "saves": 0
     }
@@ -103,16 +107,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 203,
+    "total_active_agents": 204,
     "views_rank": 76,
-    "runs_rank": 92,
-    "views_percentile": 62.6,
-    "runs_percentile": 54.7,
+    "runs_rank": 97,
+    "views_percentile": 62.7,
+    "runs_percentile": 52.5,
     "category": "AI Agent",
-    "category_agent_count": 203,
+    "category_agent_count": 204,
     "vs_average": {
-      "views": -40.1,
-      "runs": -98.4,
+      "views": -39.8,
+      "runs": -98.1,
       "saves": 0
     }
   },

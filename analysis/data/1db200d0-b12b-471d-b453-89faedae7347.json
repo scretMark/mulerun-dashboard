@@ -1,6 +1,6 @@
 {
   "agent_id": "1db200d0-b12b-471d-b453-89faedae7347",
-  "generated_at": "2025-11-26T00:00:53.118826",
+  "generated_at": "2025-11-27T00:00:34.074429",
   "basic_info": {
     "title": "ScriptCraft AI",
     "author": "Supremebbb096b",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-30T18:03:30.737000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Supremebbb096b/scriptcraft-ai",
-    "days_since_published": 26
+    "days_since_published": 27
   },
   "performance_metrics": {
-    "views": 1050,
+    "views": 1052,
     "runs": 6,
     "saves": 0,
-    "days_tracked": 26,
+    "days_tracked": 27,
     "price": 3.0,
     "engagement_rate": 0.57,
-    "avg_runs_per_day": 0.23,
-    "avg_views_per_day": 40.38
+    "avg_runs_per_day": 0.22,
+    "avg_views_per_day": 38.96
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 10,
+    "data_points": 11,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-26T08:00:32.046352",
+    "last_recorded": "2025-11-27T08:00:22.157746",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -39,7 +39,8 @@
         "2025-11-23T20:03:58.312245",
         "2025-11-24T09:54:21.691735",
         "2025-11-25T08:00:22.881701",
-        "2025-11-26T08:00:32.046352"
+        "2025-11-26T08:00:32.046352",
+        "2025-11-27T08:00:22.157746"
       ],
       "views": [
         1034,
@@ -51,7 +52,8 @@
         1046,
         1047,
         1050,
-        1050
+        1050,
+        1052
       ],
       "runs": [
         1,
@@ -63,9 +65,11 @@
         4,
         5,
         5,
+        6,
         6
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -81,19 +85,19 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 6,
+    "days_tracked": 7,
     "total_growth": {
-      "views": 16,
+      "views": 18,
       "runs": 5,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 2.67,
-      "runs": 0.83,
+      "views": 2.57,
+      "runs": 0.71,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 1.55,
+      "views": 1.74,
       "runs": 500.0,
       "saves": 0
     }
@@ -103,16 +107,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 203,
+    "total_active_agents": 204,
     "views_rank": 33,
-    "runs_rank": 61,
-    "views_percentile": 83.7,
-    "runs_percentile": 70.0,
+    "runs_rank": 59,
+    "views_percentile": 83.8,
+    "runs_percentile": 71.1,
     "category": "AI Agent",
-    "category_agent_count": 203,
+    "category_agent_count": 204,
     "vs_average": {
       "views": 48.0,
-      "runs": -90.5,
+      "runs": -88.7,
       "saves": 0
     }
   },

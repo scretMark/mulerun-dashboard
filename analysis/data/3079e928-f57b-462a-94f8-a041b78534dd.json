@@ -1,6 +1,6 @@
 {
   "agent_id": "3079e928-f57b-462a-94f8-a041b78534dd",
-  "generated_at": "2025-11-26T00:00:53.197346",
+  "generated_at": "2025-11-27T00:00:34.149785",
   "basic_info": {
     "title": "Mindmap Generator",
     "author": "AngryBerry",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-29T16:06:11.635000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AngryBerry/mindmap-generator",
-    "days_since_published": 27
+    "days_since_published": 28
   },
   "performance_metrics": {
-    "views": 913,
+    "views": 920,
     "runs": 11,
     "saves": 0,
-    "days_tracked": 27,
+    "days_tracked": 28,
     "price": 50.0,
     "engagement_rate": 1.2,
-    "avg_runs_per_day": 0.41,
-    "avg_views_per_day": 33.81
+    "avg_runs_per_day": 0.39,
+    "avg_views_per_day": 32.86
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 10,
+    "data_points": 11,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-26T08:00:32.046352",
+    "last_recorded": "2025-11-27T08:00:22.157746",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -39,7 +39,8 @@
         "2025-11-23T20:03:58.312245",
         "2025-11-24T09:54:21.691735",
         "2025-11-25T08:00:22.881701",
-        "2025-11-26T08:00:32.046352"
+        "2025-11-26T08:00:32.046352",
+        "2025-11-27T08:00:22.157746"
       ],
       "views": [
         850,
@@ -51,7 +52,8 @@
         902,
         904,
         909,
-        913
+        913,
+        920
       ],
       "runs": [
         10,
@@ -63,9 +65,11 @@
         7,
         7,
         9,
+        11,
         11
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -81,19 +85,19 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 6,
+    "days_tracked": 7,
     "total_growth": {
-      "views": 63,
+      "views": 70,
       "runs": 1,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 10.5,
-      "runs": 0.17,
+      "views": 10.0,
+      "runs": 0.14,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 7.41,
+      "views": 8.24,
       "runs": 10.0,
       "saves": 0
     }
@@ -103,16 +107,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 203,
+    "total_active_agents": 204,
     "views_rank": 39,
-    "runs_rank": 52,
-    "views_percentile": 80.8,
-    "runs_percentile": 74.4,
+    "runs_rank": 50,
+    "views_percentile": 80.9,
+    "runs_percentile": 75.5,
     "category": "AI Agent",
-    "category_agent_count": 203,
+    "category_agent_count": 204,
     "vs_average": {
-      "views": 28.6,
-      "runs": -82.5,
+      "views": 29.5,
+      "runs": -79.3,
       "saves": 0
     }
   },
