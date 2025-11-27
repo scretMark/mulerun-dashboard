@@ -1,6 +1,6 @@
 {
   "agent_id": "e00f297d-d5c8-4e32-9a24-2fefa1f1bdc2",
-  "generated_at": "2025-11-27T00:00:35.643117",
+  "generated_at": "2025-11-27T08:15:13.762753",
   "basic_info": {
     "title": "TRON Ares Neon Filter",
     "author": "Lucas",
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 11,
+    "data_points": 12,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-27T08:00:22.157746",
+    "last_recorded": "2025-11-27T16:15:10.235580",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -40,12 +40,14 @@
         "2025-11-24T09:54:21.691735",
         "2025-11-25T08:00:22.881701",
         "2025-11-26T08:00:32.046352",
-        "2025-11-27T08:00:22.157746"
+        "2025-11-27T08:00:22.157746",
+        "2025-11-27T16:15:10.235580"
       ],
       "views": [
         138,
         138,
         149,
+        150,
         150,
         150,
         150,
@@ -66,9 +68,11 @@
         3,
         3,
         1,
+        1,
         1
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -85,15 +89,15 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 7,
+    "days_tracked": 8,
     "total_growth": {
       "views": 12,
       "runs": 1,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 1.71,
-      "runs": 0.14,
+      "views": 1.5,
+      "runs": 0.12,
       "saves": 0.0
     },
     "percentage_growth": {
@@ -108,15 +112,15 @@
   },
   "market_position": {
     "total_active_agents": 204,
-    "views_rank": 152,
-    "runs_rank": 97,
-    "views_percentile": 25.5,
-    "runs_percentile": 52.5,
+    "views_rank": 153,
+    "runs_rank": 100,
+    "views_percentile": 25.0,
+    "runs_percentile": 51.0,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
       "views": -78.9,
-      "runs": -98.1,
+      "runs": -98.2,
       "saves": 0
     }
   },

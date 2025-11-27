@@ -1,6 +1,6 @@
 {
   "agent_id": "f5b734e9-0ff8-40b9-9cb6-8b733101af35",
-  "generated_at": "2025-11-27T00:00:35.696677",
+  "generated_at": "2025-11-27T08:15:13.791785",
   "basic_info": {
     "title": "Micro-Course Builder",
     "author": "qdtqhbeim395zbp",
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 11,
+    "data_points": 12,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-27T08:00:22.157746",
+    "last_recorded": "2025-11-27T16:15:10.235580",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -40,7 +40,8 @@
         "2025-11-24T09:54:21.691735",
         "2025-11-25T08:00:22.881701",
         "2025-11-26T08:00:32.046352",
-        "2025-11-27T08:00:22.157746"
+        "2025-11-27T08:00:22.157746",
+        "2025-11-27T16:15:10.235580"
       ],
       "views": [
         131,
@@ -53,6 +54,7 @@
         139,
         143,
         143,
+        143,
         143
       ],
       "runs": [
@@ -63,6 +65,7 @@
         2,
         2,
         2,
+        1,
         1,
         1,
         1,
@@ -79,20 +82,21 @@
         0,
         0,
         0,
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 7,
+    "days_tracked": 8,
     "total_growth": {
       "views": 12,
       "runs": 0,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 1.71,
+      "views": 1.5,
       "runs": 0.0,
       "saves": 0.0
     },
@@ -108,15 +112,15 @@
   },
   "market_position": {
     "total_active_agents": 204,
-    "views_rank": 155,
-    "runs_rank": 97,
-    "views_percentile": 24.0,
-    "runs_percentile": 52.5,
+    "views_rank": 156,
+    "runs_rank": 100,
+    "views_percentile": 23.5,
+    "runs_percentile": 51.0,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
       "views": -79.9,
-      "runs": -98.1,
+      "runs": -98.2,
       "saves": 0
     }
   },

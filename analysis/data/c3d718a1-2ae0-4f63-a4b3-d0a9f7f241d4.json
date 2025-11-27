@@ -1,6 +1,6 @@
 {
   "agent_id": "c3d718a1-2ae0-4f63-a4b3-d0a9f7f241d4",
-  "generated_at": "2025-11-27T00:00:36.113398",
+  "generated_at": "2025-11-27T08:15:14.173422",
   "basic_info": {
     "title": "Core Burst",
     "author": "Excel",
@@ -14,20 +14,20 @@
     "days_since_published": 46
   },
   "performance_metrics": {
-    "views": 72,
+    "views": 75,
     "runs": 0,
     "saves": 0,
     "days_tracked": 46,
     "price": 50.0,
     "engagement_rate": 0.0,
     "avg_runs_per_day": 0.0,
-    "avg_views_per_day": 1.57
+    "avg_views_per_day": 1.63
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 11,
+    "data_points": 12,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-27T08:00:22.157746",
+    "last_recorded": "2025-11-27T16:15:10.235580",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -40,7 +40,8 @@
         "2025-11-24T09:54:21.691735",
         "2025-11-25T08:00:22.881701",
         "2025-11-26T08:00:32.046352",
-        "2025-11-27T08:00:22.157746"
+        "2025-11-27T08:00:22.157746",
+        "2025-11-27T16:15:10.235580"
       ],
       "views": [
         69,
@@ -53,9 +54,11 @@
         72,
         72,
         72,
-        72
+        72,
+        75
       ],
       "runs": [
+        0,
         0,
         0,
         0,
@@ -79,25 +82,26 @@
         0,
         0,
         0,
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 7,
+    "days_tracked": 8,
     "total_growth": {
-      "views": 3,
+      "views": 6,
       "runs": 0,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 0.43,
+      "views": 0.75,
       "runs": 0.0,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 4.35,
+      "views": 8.7,
       "runs": 0,
       "saves": 0
     }
@@ -109,13 +113,13 @@
   "market_position": {
     "total_active_agents": 204,
     "views_rank": 190,
-    "runs_rank": 125,
+    "runs_rank": 128,
     "views_percentile": 6.9,
-    "runs_percentile": 38.7,
+    "runs_percentile": 37.3,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": -89.9,
+      "views": -89.5,
       "runs": -100.0,
       "saves": 0
     }

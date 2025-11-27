@@ -1,6 +1,6 @@
 {
   "agent_id": "311be0d7-cd68-4fa7-99bc-232e535ebb39",
-  "generated_at": "2025-11-27T00:00:33.594330",
+  "generated_at": "2025-11-27T08:15:12.021404",
   "basic_info": {
     "title": "3D Desk Figure Creation",
     "author": "laughing_code",
@@ -14,20 +14,20 @@
     "days_since_published": 85
   },
   "performance_metrics": {
-    "views": 11585,
-    "runs": 690,
+    "views": 11614,
+    "runs": 715,
     "saves": 0,
     "days_tracked": 85,
     "price": 50.0,
-    "engagement_rate": 5.96,
-    "avg_runs_per_day": 8.12,
-    "avg_views_per_day": 136.29
+    "engagement_rate": 6.16,
+    "avg_runs_per_day": 8.41,
+    "avg_views_per_day": 136.64
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 12,
+    "data_points": 13,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-11-27T08:00:22.157746",
+    "last_recorded": "2025-11-27T16:15:10.235580",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -41,7 +41,8 @@
         "2025-11-24T09:54:21.691735",
         "2025-11-25T08:00:22.881701",
         "2025-11-26T08:00:32.046352",
-        "2025-11-27T08:00:22.157746"
+        "2025-11-27T08:00:22.157746",
+        "2025-11-27T16:15:10.235580"
       ],
       "views": [
         11183,
@@ -55,7 +56,8 @@
         11376,
         11442,
         11515,
-        11585
+        11585,
+        11614
       ],
       "runs": [
         143,
@@ -69,9 +71,11 @@
         1067,
         1042,
         926,
-        690
+        690,
+        715
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -91,18 +95,18 @@
     "has_data": true,
     "days_tracked": 8,
     "total_growth": {
-      "views": 402,
-      "runs": 547,
+      "views": 431,
+      "runs": 572,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 50.25,
-      "runs": 68.38,
+      "views": 53.88,
+      "runs": 71.5,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 3.59,
-      "runs": 382.52,
+      "views": 3.85,
+      "runs": 400.0,
       "saves": 0
     }
   },
@@ -119,8 +123,8 @@
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": 1530.1,
-      "runs": 1198.3,
+      "views": 1531.0,
+      "runs": 1203.3,
       "saves": 0
     }
   },
@@ -128,7 +132,7 @@
     {
       "type": "positive",
       "title": "Active User Base",
-      "description": "Runs increased by 547, indicating growing adoption and active usage."
+      "description": "Runs increased by 572, indicating growing adoption and active usage."
     },
     {
       "type": "positive",

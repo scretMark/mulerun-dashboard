@@ -1,6 +1,6 @@
 {
   "agent_id": "53386b62-c349-426a-8120-856f4771e8e5",
-  "generated_at": "2025-11-27T00:00:35.899188",
+  "generated_at": "2025-11-27T08:15:13.975091",
   "basic_info": {
     "title": "Multi-style Portrait Studio",
     "author": "AFei_AITalk",
@@ -15,19 +15,19 @@
   },
   "performance_metrics": {
     "views": 109,
-    "runs": 31,
+    "runs": 32,
     "saves": 0,
     "days_tracked": 16,
     "price": 45.0,
-    "engagement_rate": 28.44,
-    "avg_runs_per_day": 1.94,
+    "engagement_rate": 29.36,
+    "avg_runs_per_day": 2.0,
     "avg_views_per_day": 6.81
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 11,
+    "data_points": 12,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-27T08:00:22.157746",
+    "last_recorded": "2025-11-27T16:15:10.235580",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -40,7 +40,8 @@
         "2025-11-24T09:54:21.691735",
         "2025-11-25T08:00:22.881701",
         "2025-11-26T08:00:32.046352",
-        "2025-11-27T08:00:22.157746"
+        "2025-11-27T08:00:22.157746",
+        "2025-11-27T16:15:10.235580"
       ],
       "views": [
         96,
@@ -52,6 +53,7 @@
         103,
         103,
         105,
+        109,
         109,
         109
       ],
@@ -66,9 +68,11 @@
         4,
         15,
         31,
-        31
+        31,
+        32
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -85,20 +89,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 7,
+    "days_tracked": 8,
     "total_growth": {
       "views": 13,
-      "runs": 23,
+      "runs": 24,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 1.86,
-      "runs": 3.29,
+      "views": 1.62,
+      "runs": 3.0,
       "saves": 0.0
     },
     "percentage_growth": {
       "views": 13.54,
-      "runs": 287.5,
+      "runs": 300.0,
       "saves": 0
     }
   },
@@ -124,7 +128,7 @@
     {
       "type": "positive",
       "title": "High Engagement Rate",
-      "description": "This agent has an excellent 28.4% engagement rate (runs/views), significantly above average."
+      "description": "This agent has an excellent 29.4% engagement rate (runs/views), significantly above average."
     }
   ]
 }

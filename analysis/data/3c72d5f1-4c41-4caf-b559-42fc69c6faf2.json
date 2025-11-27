@@ -1,6 +1,6 @@
 {
   "agent_id": "3c72d5f1-4c41-4caf-b559-42fc69c6faf2",
-  "generated_at": "2025-11-27T00:00:33.819718",
+  "generated_at": "2025-11-27T08:15:12.224294",
   "basic_info": {
     "title": "Instant Veo3 Downloader",
     "author": "JackCodebbb0c85",
@@ -14,20 +14,20 @@
     "days_since_published": 27
   },
   "performance_metrics": {
-    "views": 2034,
-    "runs": 12,
+    "views": 2035,
+    "runs": 13,
     "saves": 0,
     "days_tracked": 27,
     "price": 1.0,
-    "engagement_rate": 0.59,
-    "avg_runs_per_day": 0.44,
-    "avg_views_per_day": 75.33
+    "engagement_rate": 0.64,
+    "avg_runs_per_day": 0.48,
+    "avg_views_per_day": 75.37
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 11,
+    "data_points": 12,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-27T08:00:22.157746",
+    "last_recorded": "2025-11-27T16:15:10.235580",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -40,7 +40,8 @@
         "2025-11-24T09:54:21.691735",
         "2025-11-25T08:00:22.881701",
         "2025-11-26T08:00:32.046352",
-        "2025-11-27T08:00:22.157746"
+        "2025-11-27T08:00:22.157746",
+        "2025-11-27T16:15:10.235580"
       ],
       "views": [
         2007,
@@ -53,7 +54,8 @@
         2023,
         2025,
         2032,
-        2034
+        2034,
+        2035
       ],
       "runs": [
         5,
@@ -66,9 +68,11 @@
         7,
         6,
         10,
-        12
+        12,
+        13
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -85,20 +89,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 7,
+    "days_tracked": 8,
     "total_growth": {
-      "views": 27,
-      "runs": 7,
+      "views": 28,
+      "runs": 8,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 3.86,
+      "views": 3.5,
       "runs": 1.0,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 1.35,
-      "runs": 140.0,
+      "views": 1.4,
+      "runs": 160.0,
       "saves": 0
     }
   },
@@ -109,14 +113,14 @@
   "market_position": {
     "total_active_agents": 204,
     "views_rank": 14,
-    "runs_rank": 46,
+    "runs_rank": 47,
     "views_percentile": 93.1,
-    "runs_percentile": 77.5,
+    "runs_percentile": 77.0,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": 186.2,
-      "runs": -77.4,
+      "views": 185.8,
+      "runs": -76.3,
       "saves": 0
     }
   },

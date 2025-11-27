@@ -1,6 +1,6 @@
 {
   "agent_id": "338478ec-1fe4-4f2d-bcb8-423d86ada125",
-  "generated_at": "2025-11-27T00:00:34.902727",
+  "generated_at": "2025-11-27T08:15:13.095199",
   "basic_info": {
     "title": "Halloween Popcorn",
     "author": "Lucas",
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 11,
+    "data_points": 12,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-27T08:00:22.157746",
+    "last_recorded": "2025-11-27T16:15:10.235580",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -40,12 +40,14 @@
         "2025-11-24T09:54:21.691735",
         "2025-11-25T08:00:22.881701",
         "2025-11-26T08:00:32.046352",
-        "2025-11-27T08:00:22.157746"
+        "2025-11-27T08:00:22.157746",
+        "2025-11-27T16:15:10.235580"
       ],
       "views": [
         301,
         301,
         304,
+        307,
         307,
         307,
         307,
@@ -66,9 +68,11 @@
         1,
         1,
         0,
+        0,
         0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -85,15 +89,15 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 7,
+    "days_tracked": 8,
     "total_growth": {
       "views": 6,
       "runs": -1,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 0.86,
-      "runs": -0.14,
+      "views": 0.75,
+      "runs": -0.12,
       "saves": 0.0
     },
     "percentage_growth": {
@@ -109,13 +113,13 @@
   "market_position": {
     "total_active_agents": 204,
     "views_rank": 96,
-    "runs_rank": 125,
+    "runs_rank": 128,
     "views_percentile": 52.9,
-    "runs_percentile": 38.7,
+    "runs_percentile": 37.3,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": -56.8,
+      "views": -56.9,
       "runs": -100.0,
       "saves": 0
     }

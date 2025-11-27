@@ -1,6 +1,6 @@
 {
   "agent_id": "19c4e341-229f-401d-a333-57faf1023c23",
-  "generated_at": "2025-11-27T00:00:35.282138",
+  "generated_at": "2025-11-27T08:15:13.441706",
   "basic_info": {
     "title": "My Halloween Twin",
     "author": "Norsizu",
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 11,
+    "data_points": 12,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-27T08:00:22.157746",
+    "last_recorded": "2025-11-27T16:15:10.235580",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -40,12 +40,14 @@
         "2025-11-24T09:54:21.691735",
         "2025-11-25T08:00:22.881701",
         "2025-11-26T08:00:32.046352",
-        "2025-11-27T08:00:22.157746"
+        "2025-11-27T08:00:22.157746",
+        "2025-11-27T16:15:10.235580"
       ],
       "views": [
         202,
         202,
         203,
+        204,
         204,
         204,
         204,
@@ -66,9 +68,11 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -85,15 +89,15 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 7,
+    "days_tracked": 8,
     "total_growth": {
       "views": 2,
       "runs": -1,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 0.29,
-      "runs": -0.14,
+      "views": 0.25,
+      "runs": -0.12,
       "saves": 0.0
     },
     "percentage_growth": {
@@ -109,13 +113,13 @@
   "market_position": {
     "total_active_agents": 204,
     "views_rank": 126,
-    "runs_rank": 125,
+    "runs_rank": 128,
     "views_percentile": 38.2,
-    "runs_percentile": 38.7,
+    "runs_percentile": 37.3,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": -71.3,
+      "views": -71.4,
       "runs": -100.0,
       "saves": 0
     }

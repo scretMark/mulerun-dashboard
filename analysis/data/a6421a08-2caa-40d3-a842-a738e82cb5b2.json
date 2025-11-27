@@ -1,6 +1,6 @@
 {
   "agent_id": "a6421a08-2caa-40d3-a842-a738e82cb5b2",
-  "generated_at": "2025-11-27T00:00:35.709171",
+  "generated_at": "2025-11-27T08:15:13.801409",
   "basic_info": {
     "title": "One prompt 10 replies",
     "author": "MonkeyE",
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 11,
+    "data_points": 12,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-27T08:00:22.157746",
+    "last_recorded": "2025-11-27T16:15:10.235580",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -40,7 +40,8 @@
         "2025-11-24T09:54:21.691735",
         "2025-11-25T08:00:22.881701",
         "2025-11-26T08:00:32.046352",
-        "2025-11-27T08:00:22.157746"
+        "2025-11-27T08:00:22.157746",
+        "2025-11-27T16:15:10.235580"
       ],
       "views": [
         132,
@@ -53,9 +54,11 @@
         139,
         141,
         142,
+        143,
         143
       ],
       "runs": [
+        0,
         0,
         0,
         0,
@@ -79,20 +82,21 @@
         0,
         0,
         0,
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 7,
+    "days_tracked": 8,
     "total_growth": {
       "views": 11,
       "runs": 0,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 1.57,
+      "views": 1.38,
       "runs": 0.0,
       "saves": 0.0
     },
@@ -108,10 +112,10 @@
   },
   "market_position": {
     "total_active_agents": 204,
-    "views_rank": 155,
-    "runs_rank": 125,
-    "views_percentile": 24.0,
-    "runs_percentile": 38.7,
+    "views_rank": 156,
+    "runs_rank": 128,
+    "views_percentile": 23.5,
+    "runs_percentile": 37.3,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {

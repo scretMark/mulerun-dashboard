@@ -1,6 +1,6 @@
 {
   "agent_id": "49493d28-fdf8-42ad-b9b6-0f544afc2c32",
-  "generated_at": "2025-11-27T00:00:34.783114",
+  "generated_at": "2025-11-27T08:15:12.995889",
   "basic_info": {
     "title": "Chinese Animal",
     "author": "dotb78",
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 11,
+    "data_points": 12,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-27T08:00:22.157746",
+    "last_recorded": "2025-11-27T16:15:10.235580",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -40,7 +40,8 @@
         "2025-11-24T09:54:21.691735",
         "2025-11-25T08:00:22.881701",
         "2025-11-26T08:00:32.046352",
-        "2025-11-27T08:00:22.157746"
+        "2025-11-27T08:00:22.157746",
+        "2025-11-27T16:15:10.235580"
       ],
       "views": [
         347,
@@ -53,9 +54,11 @@
         350,
         350,
         350,
+        353,
         353
       ],
       "runs": [
+        0,
         0,
         0,
         0,
@@ -79,20 +82,21 @@
         0,
         0,
         0,
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 7,
+    "days_tracked": 8,
     "total_growth": {
       "views": 6,
       "runs": 0,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 0.86,
+      "views": 0.75,
       "runs": 0.0,
       "saves": 0.0
     },
@@ -109,13 +113,13 @@
   "market_position": {
     "total_active_agents": 204,
     "views_rank": 87,
-    "runs_rank": 125,
+    "runs_rank": 128,
     "views_percentile": 57.4,
-    "runs_percentile": 38.7,
+    "runs_percentile": 37.3,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": -50.3,
+      "views": -50.4,
       "runs": -100.0,
       "saves": 0
     }

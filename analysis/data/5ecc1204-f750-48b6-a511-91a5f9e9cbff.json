@@ -1,6 +1,6 @@
 {
   "agent_id": "5ecc1204-f750-48b6-a511-91a5f9e9cbff",
-  "generated_at": "2025-11-27T00:00:35.232709",
+  "generated_at": "2025-11-27T08:15:13.374990",
   "basic_info": {
     "title": "background remover",
     "author": "vzbklswx873_q7c",
@@ -14,20 +14,20 @@
     "days_since_published": 27
   },
   "performance_metrics": {
-    "views": 216,
+    "views": 217,
     "runs": 2,
     "saves": 0,
     "days_tracked": 27,
     "price": 150.0,
-    "engagement_rate": 0.93,
+    "engagement_rate": 0.92,
     "avg_runs_per_day": 0.07,
-    "avg_views_per_day": 8.0
+    "avg_views_per_day": 8.04
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 11,
+    "data_points": 12,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-27T08:00:22.157746",
+    "last_recorded": "2025-11-27T16:15:10.235580",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -40,7 +40,8 @@
         "2025-11-24T09:54:21.691735",
         "2025-11-25T08:00:22.881701",
         "2025-11-26T08:00:32.046352",
-        "2025-11-27T08:00:22.157746"
+        "2025-11-27T08:00:22.157746",
+        "2025-11-27T16:15:10.235580"
       ],
       "views": [
         191,
@@ -53,7 +54,8 @@
         209,
         213,
         215,
-        216
+        216,
+        217
       ],
       "runs": [
         13,
@@ -66,9 +68,11 @@
         5,
         4,
         3,
+        2,
         2
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -85,19 +89,19 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 7,
+    "days_tracked": 8,
     "total_growth": {
-      "views": 25,
+      "views": 26,
       "runs": -11,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 3.57,
-      "runs": -1.57,
+      "views": 3.25,
+      "runs": -1.38,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 13.09,
+      "views": 13.61,
       "runs": -84.62,
       "saves": 0
     }
@@ -108,15 +112,15 @@
   },
   "market_position": {
     "total_active_agents": 204,
-    "views_rank": 122,
-    "runs_rank": 80,
-    "views_percentile": 40.2,
-    "runs_percentile": 60.8,
+    "views_rank": 120,
+    "runs_rank": 84,
+    "views_percentile": 41.2,
+    "runs_percentile": 58.8,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": -69.6,
-      "runs": -96.2,
+      "views": -69.5,
+      "runs": -96.4,
       "saves": 0
     }
   },

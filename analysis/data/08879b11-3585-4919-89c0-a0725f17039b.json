@@ -1,6 +1,6 @@
 {
   "agent_id": "08879b11-3585-4919-89c0-a0725f17039b",
-  "generated_at": "2025-11-27T00:00:35.656316",
+  "generated_at": "2025-11-27T08:15:13.772819",
   "basic_info": {
     "title": "Amazon Product Search",
     "author": "createAny",
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 11,
+    "data_points": 12,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-27T08:00:22.157746",
+    "last_recorded": "2025-11-27T16:15:10.235580",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -40,7 +40,8 @@
         "2025-11-24T09:54:21.691735",
         "2025-11-25T08:00:22.881701",
         "2025-11-26T08:00:32.046352",
-        "2025-11-27T08:00:22.157746"
+        "2025-11-27T08:00:22.157746",
+        "2025-11-27T16:15:10.235580"
       ],
       "views": [
         135,
@@ -53,11 +54,13 @@
         146,
         147,
         147,
+        147,
         147
       ],
       "runs": [
         2,
         2,
+        0,
         0,
         0,
         0,
@@ -79,21 +82,22 @@
         0,
         0,
         0,
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 7,
+    "days_tracked": 8,
     "total_growth": {
       "views": 12,
       "runs": -2,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 1.71,
-      "runs": -0.29,
+      "views": 1.5,
+      "runs": -0.25,
       "saves": 0.0
     },
     "percentage_growth": {
@@ -108,14 +112,14 @@
   },
   "market_position": {
     "total_active_agents": 204,
-    "views_rank": 153,
-    "runs_rank": 125,
-    "views_percentile": 25.0,
-    "runs_percentile": 38.7,
+    "views_rank": 154,
+    "runs_rank": 128,
+    "views_percentile": 24.5,
+    "runs_percentile": 37.3,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": -79.3,
+      "views": -79.4,
       "runs": -100.0,
       "saves": 0
     }

@@ -1,6 +1,6 @@
 {
   "agent_id": "ca8f87b0-cc33-4e18-973d-04031871e731",
-  "generated_at": "2025-11-27T00:00:33.681252",
+  "generated_at": "2025-11-27T08:15:12.091313",
   "basic_info": {
     "title": "General Browser Operator",
     "author": "Ailurus",
@@ -14,20 +14,20 @@
     "days_since_published": 26
   },
   "performance_metrics": {
-    "views": 6483,
-    "runs": 116,
+    "views": 6492,
+    "runs": 129,
     "saves": 0,
     "days_tracked": 26,
     "price": 1.0,
-    "engagement_rate": 1.79,
-    "avg_runs_per_day": 4.46,
-    "avg_views_per_day": 249.35
+    "engagement_rate": 1.99,
+    "avg_runs_per_day": 4.96,
+    "avg_views_per_day": 249.69
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 12,
+    "data_points": 13,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-11-27T08:00:22.157746",
+    "last_recorded": "2025-11-27T16:15:10.235580",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -41,7 +41,8 @@
         "2025-11-24T09:54:21.691735",
         "2025-11-25T08:00:22.881701",
         "2025-11-26T08:00:32.046352",
-        "2025-11-27T08:00:22.157746"
+        "2025-11-27T08:00:22.157746",
+        "2025-11-27T16:15:10.235580"
       ],
       "views": [
         6135,
@@ -55,7 +56,8 @@
         6272,
         6322,
         6422,
-        6483
+        6483,
+        6492
       ],
       "runs": [
         80,
@@ -69,9 +71,11 @@
         76,
         70,
         108,
-        116
+        116,
+        129
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -91,18 +95,18 @@
     "has_data": true,
     "days_tracked": 8,
     "total_growth": {
-      "views": 348,
-      "runs": 36,
+      "views": 357,
+      "runs": 49,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 43.5,
-      "runs": 4.5,
+      "views": 44.62,
+      "runs": 6.12,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 5.67,
-      "runs": 45.0,
+      "views": 5.82,
+      "runs": 61.25,
       "saves": 0
     }
   },
@@ -113,14 +117,14 @@
   "market_position": {
     "total_active_agents": 204,
     "views_rank": 3,
-    "runs_rank": 21,
+    "runs_rank": 20,
     "views_percentile": 98.5,
-    "runs_percentile": 89.7,
+    "runs_percentile": 90.2,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": 812.2,
-      "runs": 118.3,
+      "views": 811.7,
+      "runs": 135.1,
       "saves": 0
     }
   },
@@ -128,7 +132,7 @@
     {
       "type": "warning",
       "title": "Low Engagement Rate",
-      "description": "The engagement rate is 1.8%, which may indicate the agent description or value proposition could be improved."
+      "description": "The engagement rate is 2.0%, which may indicate the agent description or value proposition could be improved."
     },
     {
       "type": "positive",
