@@ -1,6 +1,6 @@
 {
   "agent_id": "bf6a2a34-dead-4bf6-9de5-821453108eaa",
-  "generated_at": "2025-11-27T08:15:12.525607",
+  "generated_at": "2025-11-28T00:00:25.051142",
   "basic_info": {
     "title": "ProHeadshot Studio",
     "author": "Darren",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-20T11:36:43.297000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/proheadshot-studio",
-    "days_since_published": 37
+    "days_since_published": 38
   },
   "performance_metrics": {
-    "views": 845,
-    "runs": 31,
+    "views": 849,
+    "runs": 15,
     "saves": 0,
-    "days_tracked": 37,
+    "days_tracked": 38,
     "price": 51.0,
-    "engagement_rate": 3.67,
-    "avg_runs_per_day": 0.84,
-    "avg_views_per_day": 22.84
+    "engagement_rate": 1.77,
+    "avg_runs_per_day": 0.39,
+    "avg_views_per_day": 22.34
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 12,
+    "data_points": 13,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-27T16:15:10.235580",
+    "last_recorded": "2025-11-28T08:00:25.835604",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -41,7 +41,8 @@
         "2025-11-25T08:00:22.881701",
         "2025-11-26T08:00:32.046352",
         "2025-11-27T08:00:22.157746",
-        "2025-11-27T16:15:10.235580"
+        "2025-11-27T16:15:10.235580",
+        "2025-11-28T08:00:25.835604"
       ],
       "views": [
         751,
@@ -55,7 +56,8 @@
         810,
         826,
         841,
-        845
+        845,
+        849
       ],
       "runs": [
         41,
@@ -69,9 +71,11 @@
         30,
         33,
         31,
-        31
+        31,
+        15
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -91,18 +95,18 @@
     "has_data": true,
     "days_tracked": 8,
     "total_growth": {
-      "views": 94,
-      "runs": -10,
+      "views": 98,
+      "runs": -26,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 11.75,
-      "runs": -1.25,
+      "views": 12.25,
+      "runs": -3.25,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 12.52,
-      "runs": -24.39,
+      "views": 13.05,
+      "runs": -63.41,
       "saves": 0
     }
   },
@@ -113,16 +117,22 @@
   "market_position": {
     "total_active_agents": 204,
     "views_rank": 44,
-    "runs_rank": 35,
+    "runs_rank": 37,
     "views_percentile": 78.4,
-    "runs_percentile": 82.8,
+    "runs_percentile": 81.9,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": 18.7,
-      "runs": -43.5,
+      "views": 18.6,
+      "runs": -65.6,
       "saves": 0
     }
   },
-  "insights": []
+  "insights": [
+    {
+      "type": "warning",
+      "title": "Low Engagement Rate",
+      "description": "The engagement rate is 1.8%, which may indicate the agent description or value proposition could be improved."
+    }
+  ]
 }

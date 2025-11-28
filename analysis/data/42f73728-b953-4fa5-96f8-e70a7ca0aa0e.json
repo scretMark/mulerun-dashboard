@@ -1,6 +1,6 @@
 {
   "agent_id": "42f73728-b953-4fa5-96f8-e70a7ca0aa0e",
-  "generated_at": "2025-11-27T08:15:12.964855",
+  "generated_at": "2025-11-28T00:00:25.448375",
   "basic_info": {
     "title": "Winter Embrace",
     "author": "Norsizu",
@@ -11,23 +11,23 @@
     "published_at": "2025-11-06T14:48:19.484000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/winter-embrace",
-    "days_since_published": 20
+    "days_since_published": 21
   },
   "performance_metrics": {
     "views": 362,
-    "runs": 15,
+    "runs": 8,
     "saves": 0,
-    "days_tracked": 20,
+    "days_tracked": 21,
     "price": 50.0,
-    "engagement_rate": 4.14,
-    "avg_runs_per_day": 0.75,
-    "avg_views_per_day": 18.1
+    "engagement_rate": 2.21,
+    "avg_runs_per_day": 0.38,
+    "avg_views_per_day": 17.24
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 12,
+    "data_points": 13,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-27T16:15:10.235580",
+    "last_recorded": "2025-11-28T08:00:25.835604",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -41,7 +41,8 @@
         "2025-11-25T08:00:22.881701",
         "2025-11-26T08:00:32.046352",
         "2025-11-27T08:00:22.157746",
-        "2025-11-27T16:15:10.235580"
+        "2025-11-27T16:15:10.235580",
+        "2025-11-28T08:00:25.835604"
       ],
       "views": [
         282,
@@ -55,6 +56,7 @@
         345,
         356,
         361,
+        362,
         362
       ],
       "runs": [
@@ -69,9 +71,11 @@
         28,
         17,
         14,
-        15
+        15,
+        8
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -92,17 +96,17 @@
     "days_tracked": 8,
     "total_growth": {
       "views": 80,
-      "runs": -22,
+      "runs": -29,
       "saves": 0
     },
     "daily_average_growth": {
       "views": 10.0,
-      "runs": -2.75,
+      "runs": -3.62,
       "saves": 0.0
     },
     "percentage_growth": {
       "views": 28.37,
-      "runs": -59.46,
+      "runs": -78.38,
       "saves": 0
     }
   },
@@ -112,15 +116,15 @@
   },
   "market_position": {
     "total_active_agents": 204,
-    "views_rank": 84,
-    "runs_rank": 45,
-    "views_percentile": 58.8,
-    "runs_percentile": 77.9,
+    "views_rank": 85,
+    "runs_rank": 53,
+    "views_percentile": 58.3,
+    "runs_percentile": 74.0,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": -49.2,
-      "runs": -72.7,
+      "views": -49.4,
+      "runs": -81.6,
       "saves": 0
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "53386b62-c349-426a-8120-856f4771e8e5",
-  "generated_at": "2025-11-27T08:15:13.975091",
+  "generated_at": "2025-11-28T00:00:26.397596",
   "basic_info": {
     "title": "Multi-style Portrait Studio",
     "author": "AFei_AITalk",
@@ -11,23 +11,23 @@
     "published_at": "2025-11-10T17:34:54.782000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AFei_AITalk/multi-style-portrait-studio",
-    "days_since_published": 16
+    "days_since_published": 17
   },
   "performance_metrics": {
     "views": 109,
     "runs": 32,
     "saves": 0,
-    "days_tracked": 16,
+    "days_tracked": 17,
     "price": 45.0,
     "engagement_rate": 29.36,
-    "avg_runs_per_day": 2.0,
-    "avg_views_per_day": 6.81
+    "avg_runs_per_day": 1.88,
+    "avg_views_per_day": 6.41
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 12,
+    "data_points": 13,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-27T16:15:10.235580",
+    "last_recorded": "2025-11-28T08:00:25.835604",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -41,7 +41,8 @@
         "2025-11-25T08:00:22.881701",
         "2025-11-26T08:00:32.046352",
         "2025-11-27T08:00:22.157746",
-        "2025-11-27T16:15:10.235580"
+        "2025-11-27T16:15:10.235580",
+        "2025-11-28T08:00:25.835604"
       ],
       "views": [
         96,
@@ -53,6 +54,7 @@
         103,
         103,
         105,
+        109,
         109,
         109,
         109
@@ -69,9 +71,11 @@
         15,
         31,
         31,
+        32,
         32
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -113,14 +117,14 @@
   "market_position": {
     "total_active_agents": 204,
     "views_rank": 172,
-    "runs_rank": 34,
+    "runs_rank": 28,
     "views_percentile": 15.7,
-    "runs_percentile": 83.3,
+    "runs_percentile": 86.3,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": -84.7,
-      "runs": -41.7,
+      "views": -84.8,
+      "runs": -26.6,
       "saves": 0
     }
   },

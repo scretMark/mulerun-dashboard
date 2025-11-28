@@ -1,6 +1,6 @@
 {
   "agent_id": "a3000bd1-6ece-4f87-8914-322de6ac70eb",
-  "generated_at": "2025-11-27T08:15:13.464042",
+  "generated_at": "2025-11-28T00:00:25.940084",
   "basic_info": {
     "title": "Giant Prop Studio",
     "author": "Lucas",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-31T15:37:32.015000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/giant-prop-studio",
-    "days_since_published": 26
+    "days_since_published": 27
   },
   "performance_metrics": {
     "views": 202,
     "runs": 1,
     "saves": 0,
-    "days_tracked": 26,
+    "days_tracked": 27,
     "price": 49.0,
     "engagement_rate": 0.5,
     "avg_runs_per_day": 0.04,
-    "avg_views_per_day": 7.77
+    "avg_views_per_day": 7.48
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 12,
+    "data_points": 13,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-27T16:15:10.235580",
+    "last_recorded": "2025-11-28T08:00:25.835604",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -41,7 +41,8 @@
         "2025-11-25T08:00:22.881701",
         "2025-11-26T08:00:32.046352",
         "2025-11-27T08:00:22.157746",
-        "2025-11-27T16:15:10.235580"
+        "2025-11-27T16:15:10.235580",
+        "2025-11-28T08:00:25.835604"
       ],
       "views": [
         193,
@@ -54,6 +55,7 @@
         197,
         198,
         200,
+        202,
         202,
         202
       ],
@@ -69,9 +71,11 @@
         1,
         1,
         1,
+        1,
         1
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -113,14 +117,14 @@
   "market_position": {
     "total_active_agents": 204,
     "views_rank": 128,
-    "runs_rank": 100,
+    "runs_rank": 93,
     "views_percentile": 37.3,
-    "runs_percentile": 51.0,
+    "runs_percentile": 54.4,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": -71.6,
-      "runs": -98.2,
+      "views": -71.8,
+      "runs": -97.7,
       "saves": 0
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "bc213112-8801-4ca4-aace-426d69a2f2f2",
-  "generated_at": "2025-11-27T08:15:14.046807",
+  "generated_at": "2025-11-28T00:00:26.435565",
   "basic_info": {
     "title": "Judy Hopps Cosplay Filter",
     "author": "Lucas",
@@ -11,23 +11,23 @@
     "published_at": "2025-11-05T20:03:39.255000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/judy-hopps-cosplay-filter",
-    "days_since_published": 21
+    "days_since_published": 22
   },
   "performance_metrics": {
-    "views": 92,
-    "runs": 1,
+    "views": 101,
+    "runs": 4,
     "saves": 0,
-    "days_tracked": 21,
+    "days_tracked": 22,
     "price": 49.0,
-    "engagement_rate": 1.09,
-    "avg_runs_per_day": 0.05,
-    "avg_views_per_day": 4.38
+    "engagement_rate": 3.96,
+    "avg_runs_per_day": 0.18,
+    "avg_views_per_day": 4.59
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 12,
+    "data_points": 13,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-27T16:15:10.235580",
+    "last_recorded": "2025-11-28T08:00:25.835604",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -41,7 +41,8 @@
         "2025-11-25T08:00:22.881701",
         "2025-11-26T08:00:32.046352",
         "2025-11-27T08:00:22.157746",
-        "2025-11-27T16:15:10.235580"
+        "2025-11-27T16:15:10.235580",
+        "2025-11-28T08:00:25.835604"
       ],
       "views": [
         68,
@@ -55,7 +56,8 @@
         81,
         86,
         89,
-        92
+        92,
+        101
       ],
       "runs": [
         1,
@@ -69,9 +71,11 @@
         0,
         0,
         0,
-        1
+        1,
+        4
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -91,18 +95,18 @@
     "has_data": true,
     "days_tracked": 8,
     "total_growth": {
-      "views": 24,
-      "runs": 0,
+      "views": 33,
+      "runs": 3,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 3.0,
-      "runs": 0.0,
+      "views": 4.12,
+      "runs": 0.38,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 35.29,
-      "runs": 0.0,
+      "views": 48.53,
+      "runs": 300.0,
       "saves": 0
     }
   },
@@ -112,23 +116,17 @@
   },
   "market_position": {
     "total_active_agents": 204,
-    "views_rank": 179,
-    "runs_rank": 100,
-    "views_percentile": 12.3,
-    "runs_percentile": 51.0,
+    "views_rank": 176,
+    "runs_rank": 69,
+    "views_percentile": 13.7,
+    "runs_percentile": 66.2,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": -87.1,
-      "runs": -98.2,
+      "views": -85.9,
+      "runs": -90.8,
       "saves": 0
     }
   },
-  "insights": [
-    {
-      "type": "warning",
-      "title": "Low Engagement Rate",
-      "description": "The engagement rate is 1.1%, which may indicate the agent description or value proposition could be improved."
-    }
-  ]
+  "insights": []
 }

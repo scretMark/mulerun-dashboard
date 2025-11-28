@@ -1,6 +1,6 @@
 {
   "agent_id": "0c942f9e-7778-4c8b-b5fc-ca762e9f8466",
-  "generated_at": "2025-11-27T08:15:13.984958",
+  "generated_at": "2025-11-28T00:00:26.407007",
   "basic_info": {
     "title": "Do Not Open",
     "author": "Norsizu",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-15T13:43:55.792000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/do-not-open",
-    "days_since_published": 42
+    "days_since_published": 43
   },
   "performance_metrics": {
     "views": 109,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 42,
+    "days_tracked": 43,
     "price": 50.0,
     "engagement_rate": 0.0,
     "avg_runs_per_day": 0.0,
-    "avg_views_per_day": 2.6
+    "avg_views_per_day": 2.53
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 12,
+    "data_points": 13,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-27T16:15:10.235580",
+    "last_recorded": "2025-11-28T08:00:25.835604",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -41,12 +41,14 @@
         "2025-11-25T08:00:22.881701",
         "2025-11-26T08:00:32.046352",
         "2025-11-27T08:00:22.157746",
-        "2025-11-27T16:15:10.235580"
+        "2025-11-27T16:15:10.235580",
+        "2025-11-28T08:00:25.835604"
       ],
       "views": [
         106,
         106,
         107,
+        109,
         109,
         109,
         109,
@@ -69,9 +71,11 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -113,13 +117,13 @@
   "market_position": {
     "total_active_agents": 204,
     "views_rank": 172,
-    "runs_rank": 128,
+    "runs_rank": 127,
     "views_percentile": 15.7,
-    "runs_percentile": 37.3,
+    "runs_percentile": 37.7,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": -84.7,
+      "views": -84.8,
       "runs": -100.0,
       "saves": 0
     }

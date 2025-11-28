@@ -1,6 +1,6 @@
 {
   "agent_id": "6ea20496-db4c-4a03-ae55-aaeee9a89a9e",
-  "generated_at": "2025-11-27T08:15:12.436222",
+  "generated_at": "2025-11-28T00:00:24.964790",
   "basic_info": {
     "title": "AI Relationship Mapper",
     "author": "TrallerTeam",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-30T18:05:40.234000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@TrallerTeam/ai-relationship-mapper",
-    "days_since_published": 27
+    "days_since_published": 28
   },
   "performance_metrics": {
     "views": 971,
     "runs": 3,
     "saves": 0,
-    "days_tracked": 27,
+    "days_tracked": 28,
     "price": 20.0,
     "engagement_rate": 0.31,
     "avg_runs_per_day": 0.11,
-    "avg_views_per_day": 35.96
+    "avg_views_per_day": 34.68
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 12,
+    "data_points": 13,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-27T16:15:10.235580",
+    "last_recorded": "2025-11-28T08:00:25.835604",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -41,7 +41,8 @@
         "2025-11-25T08:00:22.881701",
         "2025-11-26T08:00:32.046352",
         "2025-11-27T08:00:22.157746",
-        "2025-11-27T16:15:10.235580"
+        "2025-11-27T16:15:10.235580",
+        "2025-11-28T08:00:25.835604"
       ],
       "views": [
         958,
@@ -54,6 +55,7 @@
         966,
         967,
         970,
+        971,
         971,
         971
       ],
@@ -69,9 +71,11 @@
         1,
         1,
         2,
+        3,
         3
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -119,8 +123,8 @@
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": 36.4,
-      "runs": -94.5,
+      "views": 35.7,
+      "runs": -93.1,
       "saves": 0
     }
   },

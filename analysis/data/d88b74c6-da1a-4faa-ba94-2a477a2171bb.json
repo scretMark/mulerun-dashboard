@@ -1,6 +1,6 @@
 {
   "agent_id": "d88b74c6-da1a-4faa-ba94-2a477a2171bb",
-  "generated_at": "2025-11-27T08:15:13.621892",
+  "generated_at": "2025-11-28T00:00:26.070046",
   "basic_info": {
     "title": "Swap Faces",
     "author": "PicCopilot",
@@ -11,23 +11,23 @@
     "published_at": "2025-11-11T19:43:39.105000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/swap-faces",
-    "days_since_published": 15
+    "days_since_published": 16
   },
   "performance_metrics": {
-    "views": 172,
-    "runs": 635,
+    "views": 181,
+    "runs": 545,
     "saves": 0,
-    "days_tracked": 15,
+    "days_tracked": 16,
     "price": 0.0,
-    "engagement_rate": 369.19,
-    "avg_runs_per_day": 42.33,
-    "avg_views_per_day": 11.47
+    "engagement_rate": 301.1,
+    "avg_runs_per_day": 34.06,
+    "avg_views_per_day": 11.31
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 13,
+    "data_points": 14,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-11-27T16:15:10.235580",
+    "last_recorded": "2025-11-28T08:00:25.835604",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -42,7 +42,8 @@
         "2025-11-25T08:00:22.881701",
         "2025-11-26T08:00:32.046352",
         "2025-11-27T08:00:22.157746",
-        "2025-11-27T16:15:10.235580"
+        "2025-11-27T16:15:10.235580",
+        "2025-11-28T08:00:25.835604"
       ],
       "views": [
         121,
@@ -57,7 +58,8 @@
         142,
         152,
         166,
-        172
+        172,
+        181
       ],
       "runs": [
         125,
@@ -72,9 +74,11 @@
         646,
         684,
         622,
-        635
+        635,
+        545
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -93,20 +97,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 8,
+    "days_tracked": 9,
     "total_growth": {
-      "views": 51,
-      "runs": 510,
+      "views": 60,
+      "runs": 420,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 6.38,
-      "runs": 63.75,
+      "views": 6.67,
+      "runs": 46.67,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 42.15,
-      "runs": 408.0,
+      "views": 49.59,
+      "runs": 336.0,
       "saves": 0
     }
   },
@@ -116,15 +120,15 @@
   },
   "market_position": {
     "total_active_agents": 204,
-    "views_rank": 141,
-    "runs_rank": 5,
-    "views_percentile": 30.9,
-    "runs_percentile": 97.5,
+    "views_rank": 139,
+    "runs_rank": 4,
+    "views_percentile": 31.9,
+    "runs_percentile": 98.0,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": -75.8,
-      "runs": 1057.4,
+      "views": -74.7,
+      "runs": 1150.3,
       "saves": 0
     }
   },
@@ -132,12 +136,12 @@
     {
       "type": "positive",
       "title": "High Engagement Rate",
-      "description": "This agent has an excellent 369.2% engagement rate (runs/views), significantly above average."
+      "description": "This agent has an excellent 301.1% engagement rate (runs/views), significantly above average."
     },
     {
       "type": "positive",
       "title": "Active User Base",
-      "description": "Runs increased by 510, indicating growing adoption and active usage."
+      "description": "Runs increased by 420, indicating growing adoption and active usage."
     }
   ]
 }

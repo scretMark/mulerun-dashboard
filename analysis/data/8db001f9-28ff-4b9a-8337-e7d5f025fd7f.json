@@ -1,6 +1,6 @@
 {
   "agent_id": "8db001f9-28ff-4b9a-8337-e7d5f025fd7f",
-  "generated_at": "2025-11-27T08:15:12.496156",
+  "generated_at": "2025-11-28T00:00:25.023039",
   "basic_info": {
     "title": "YouTube Thumbnail",
     "author": "summerail",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-09T16:48:38.136000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/youtube-thumbnail",
-    "days_since_published": 48
+    "days_since_published": 49
   },
   "performance_metrics": {
-    "views": 888,
-    "runs": 39,
+    "views": 891,
+    "runs": 10,
     "saves": 0,
-    "days_tracked": 48,
+    "days_tracked": 49,
     "price": 30.0,
-    "engagement_rate": 4.39,
-    "avg_runs_per_day": 0.81,
-    "avg_views_per_day": 18.5
+    "engagement_rate": 1.12,
+    "avg_runs_per_day": 0.2,
+    "avg_views_per_day": 18.18
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 13,
+    "data_points": 14,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-11-27T16:15:10.235580",
+    "last_recorded": "2025-11-28T08:00:25.835604",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -42,7 +42,8 @@
         "2025-11-25T08:00:22.881701",
         "2025-11-26T08:00:32.046352",
         "2025-11-27T08:00:22.157746",
-        "2025-11-27T16:15:10.235580"
+        "2025-11-27T16:15:10.235580",
+        "2025-11-28T08:00:25.835604"
       ],
       "views": [
         834,
@@ -57,7 +58,8 @@
         876,
         885,
         888,
-        888
+        888,
+        891
       ],
       "runs": [
         46,
@@ -72,9 +74,11 @@
         44,
         44,
         38,
-        39
+        39,
+        10
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -93,20 +97,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 8,
+    "days_tracked": 9,
     "total_growth": {
-      "views": 54,
-      "runs": -7,
+      "views": 57,
+      "runs": -36,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 6.75,
-      "runs": -0.88,
+      "views": 6.33,
+      "runs": -4.0,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 6.47,
-      "runs": -15.22,
+      "views": 6.83,
+      "runs": -78.26,
       "saves": 0
     }
   },
@@ -117,16 +121,22 @@
   "market_position": {
     "total_active_agents": 204,
     "views_rank": 41,
-    "runs_rank": 31,
+    "runs_rank": 47,
     "views_percentile": 79.9,
-    "runs_percentile": 84.8,
+    "runs_percentile": 77.0,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": 24.7,
-      "runs": -28.9,
+      "views": 24.5,
+      "runs": -77.1,
       "saves": 0
     }
   },
-  "insights": []
+  "insights": [
+    {
+      "type": "warning",
+      "title": "Low Engagement Rate",
+      "description": "The engagement rate is 1.1%, which may indicate the agent description or value proposition could be improved."
+    }
+  ]
 }

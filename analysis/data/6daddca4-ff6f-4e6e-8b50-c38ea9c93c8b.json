@@ -1,6 +1,6 @@
 {
   "agent_id": "6daddca4-ff6f-4e6e-8b50-c38ea9c93c8b",
-  "generated_at": "2025-11-27T08:15:13.633014",
+  "generated_at": "2025-11-28T00:00:26.116923",
   "basic_info": {
     "title": "Movie Poster Design",
     "author": "summerail",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-12T14:14:16.439000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/movie-poster-design",
-    "days_since_published": 45
+    "days_since_published": 46
   },
   "performance_metrics": {
     "views": 171,
-    "runs": 3,
+    "runs": 0,
     "saves": 0,
-    "days_tracked": 45,
+    "days_tracked": 46,
     "price": 50.0,
-    "engagement_rate": 1.75,
-    "avg_runs_per_day": 0.07,
-    "avg_views_per_day": 3.8
+    "engagement_rate": 0.0,
+    "avg_runs_per_day": 0.0,
+    "avg_views_per_day": 3.72
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 12,
+    "data_points": 13,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-27T16:15:10.235580",
+    "last_recorded": "2025-11-28T08:00:25.835604",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -41,7 +41,8 @@
         "2025-11-25T08:00:22.881701",
         "2025-11-26T08:00:32.046352",
         "2025-11-27T08:00:22.157746",
-        "2025-11-27T16:15:10.235580"
+        "2025-11-27T16:15:10.235580",
+        "2025-11-28T08:00:25.835604"
       ],
       "views": [
         146,
@@ -54,6 +55,7 @@
         163,
         164,
         165,
+        171,
         171,
         171
       ],
@@ -69,9 +71,11 @@
         5,
         4,
         3,
-        3
+        3,
+        0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -92,12 +96,12 @@
     "days_tracked": 8,
     "total_growth": {
       "views": 25,
-      "runs": 3,
+      "runs": 0,
       "saves": 0
     },
     "daily_average_growth": {
       "views": 3.12,
-      "runs": 0.38,
+      "runs": 0.0,
       "saves": 0.0
     },
     "percentage_growth": {
@@ -112,15 +116,15 @@
   },
   "market_position": {
     "total_active_agents": 204,
-    "views_rank": 142,
-    "runs_rank": 76,
-    "views_percentile": 30.4,
-    "runs_percentile": 62.7,
+    "views_rank": 143,
+    "runs_rank": 127,
+    "views_percentile": 29.9,
+    "runs_percentile": 37.7,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": -76.0,
-      "runs": -94.5,
+      "views": -76.1,
+      "runs": -100.0,
       "saves": 0
     }
   },
@@ -128,7 +132,7 @@
     {
       "type": "warning",
       "title": "Low Engagement Rate",
-      "description": "The engagement rate is 1.8%, which may indicate the agent description or value proposition could be improved."
+      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
     }
   ]
 }

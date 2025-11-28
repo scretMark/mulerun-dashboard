@@ -1,6 +1,6 @@
 {
   "agent_id": "e00f297d-d5c8-4e32-9a24-2fefa1f1bdc2",
-  "generated_at": "2025-11-27T08:15:13.762753",
+  "generated_at": "2025-11-28T00:00:26.210123",
   "basic_info": {
     "title": "TRON Ares Neon Filter",
     "author": "Lucas",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-20T21:17:38.032000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/tron-ares-neon-filter",
-    "days_since_published": 37
+    "days_since_published": 38
   },
   "performance_metrics": {
-    "views": 150,
-    "runs": 1,
+    "views": 153,
+    "runs": 0,
     "saves": 0,
-    "days_tracked": 37,
+    "days_tracked": 38,
     "price": 50.0,
-    "engagement_rate": 0.67,
-    "avg_runs_per_day": 0.03,
-    "avg_views_per_day": 4.05
+    "engagement_rate": 0.0,
+    "avg_runs_per_day": 0.0,
+    "avg_views_per_day": 4.03
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 12,
+    "data_points": 13,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-27T16:15:10.235580",
+    "last_recorded": "2025-11-28T08:00:25.835604",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -41,7 +41,8 @@
         "2025-11-25T08:00:22.881701",
         "2025-11-26T08:00:32.046352",
         "2025-11-27T08:00:22.157746",
-        "2025-11-27T16:15:10.235580"
+        "2025-11-27T16:15:10.235580",
+        "2025-11-28T08:00:25.835604"
       ],
       "views": [
         138,
@@ -55,7 +56,8 @@
         150,
         150,
         150,
-        150
+        150,
+        153
       ],
       "runs": [
         0,
@@ -69,9 +71,11 @@
         3,
         1,
         1,
-        1
+        1,
+        0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -91,17 +95,17 @@
     "has_data": true,
     "days_tracked": 8,
     "total_growth": {
-      "views": 12,
-      "runs": 1,
+      "views": 15,
+      "runs": 0,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 1.5,
-      "runs": 0.12,
+      "views": 1.88,
+      "runs": 0.0,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 8.7,
+      "views": 10.87,
       "runs": 0,
       "saves": 0
     }
@@ -112,15 +116,15 @@
   },
   "market_position": {
     "total_active_agents": 204,
-    "views_rank": 153,
-    "runs_rank": 100,
-    "views_percentile": 25.0,
-    "runs_percentile": 51.0,
+    "views_rank": 152,
+    "runs_rank": 127,
+    "views_percentile": 25.5,
+    "runs_percentile": 37.7,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": -78.9,
-      "runs": -98.2,
+      "views": -78.6,
+      "runs": -100.0,
       "saves": 0
     }
   },
@@ -128,7 +132,7 @@
     {
       "type": "warning",
       "title": "Low Engagement Rate",
-      "description": "The engagement rate is 0.7%, which may indicate the agent description or value proposition could be improved."
+      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
     }
   ]
 }

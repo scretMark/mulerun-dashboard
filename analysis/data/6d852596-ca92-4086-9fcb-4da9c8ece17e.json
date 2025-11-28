@@ -1,6 +1,6 @@
 {
   "agent_id": "6d852596-ca92-4086-9fcb-4da9c8ece17e",
-  "generated_at": "2025-11-27T08:15:13.711269",
+  "generated_at": "2025-11-28T00:00:25.999272",
   "basic_info": {
     "title": "Banana Pro Canvas",
     "author": "Aronlong",
@@ -11,40 +11,44 @@
     "published_at": "2025-11-20T20:11:49.993000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aronlong/banana-pro-canvas",
-    "days_since_published": 6
+    "days_since_published": 7
   },
   "performance_metrics": {
-    "views": 159,
-    "runs": 115,
+    "views": 193,
+    "runs": 129,
     "saves": 0,
-    "days_tracked": 6,
+    "days_tracked": 7,
     "price": 0.0,
-    "engagement_rate": 72.33,
-    "avg_runs_per_day": 19.17,
-    "avg_views_per_day": 26.5
+    "engagement_rate": 66.84,
+    "avg_runs_per_day": 18.43,
+    "avg_views_per_day": 27.57
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 3,
+    "data_points": 4,
     "first_recorded": "2025-11-26T08:00:32.046352",
-    "last_recorded": "2025-11-27T16:15:10.235580",
+    "last_recorded": "2025-11-28T08:00:25.835604",
     "time_series": {
       "dates": [
         "2025-11-26T08:00:32.046352",
         "2025-11-27T08:00:22.157746",
-        "2025-11-27T16:15:10.235580"
+        "2025-11-27T16:15:10.235580",
+        "2025-11-28T08:00:25.835604"
       ],
       "views": [
         49,
         116,
-        159
+        159,
+        193
       ],
       "runs": [
         45,
         83,
-        115
+        115,
+        129
       ],
       "saves": [
+        0,
         0,
         0,
         0
@@ -55,18 +59,18 @@
     "has_data": true,
     "days_tracked": 1,
     "total_growth": {
-      "views": 110,
-      "runs": 70,
+      "views": 144,
+      "runs": 84,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 110.0,
-      "runs": 70.0,
+      "views": 144.0,
+      "runs": 84.0,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 224.49,
-      "runs": 155.56,
+      "views": 293.88,
+      "runs": 186.67,
       "saves": 0
     }
   },
@@ -83,15 +87,15 @@
   },
   "market_position": {
     "total_active_agents": 204,
-    "views_rank": 149,
-    "runs_rank": 22,
-    "views_percentile": 27.0,
-    "runs_percentile": 89.2,
+    "views_rank": 133,
+    "runs_rank": 19,
+    "views_percentile": 34.8,
+    "runs_percentile": 90.7,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": -77.7,
-      "runs": 109.6,
+      "views": -73.0,
+      "runs": 196.0,
       "saves": 0
     }
   },
@@ -99,7 +103,7 @@
     {
       "type": "positive",
       "title": "High Engagement Rate",
-      "description": "This agent has an excellent 72.3% engagement rate (runs/views), significantly above average."
+      "description": "This agent has an excellent 66.8% engagement rate (runs/views), significantly above average."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "716dff18-e29c-4218-b10b-7b1f36576f87",
-  "generated_at": "2025-11-27T08:15:13.363737",
+  "generated_at": "2025-11-28T00:00:25.842832",
   "basic_info": {
     "title": "Party Polaroid Duo",
     "author": "Norsizu",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-08T22:13:35.010000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/party-polaroid-duo",
-    "days_since_published": 49
+    "days_since_published": 50
   },
   "performance_metrics": {
     "views": 220,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 49,
+    "days_tracked": 50,
     "price": 50.0,
     "engagement_rate": 0.0,
     "avg_runs_per_day": 0.0,
-    "avg_views_per_day": 4.49
+    "avg_views_per_day": 4.4
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 12,
+    "data_points": 13,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-27T16:15:10.235580",
+    "last_recorded": "2025-11-28T08:00:25.835604",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -41,12 +41,14 @@
         "2025-11-25T08:00:22.881701",
         "2025-11-26T08:00:32.046352",
         "2025-11-27T08:00:22.157746",
-        "2025-11-27T16:15:10.235580"
+        "2025-11-27T16:15:10.235580",
+        "2025-11-28T08:00:25.835604"
       ],
       "views": [
         218,
         218,
         219,
+        220,
         220,
         220,
         220,
@@ -69,9 +71,11 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -112,14 +116,14 @@
   },
   "market_position": {
     "total_active_agents": 204,
-    "views_rank": 119,
-    "runs_rank": 128,
-    "views_percentile": 41.7,
-    "runs_percentile": 37.3,
+    "views_rank": 121,
+    "runs_rank": 127,
+    "views_percentile": 40.7,
+    "runs_percentile": 37.7,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": -69.1,
+      "views": -69.3,
       "runs": -100.0,
       "saves": 0
     }

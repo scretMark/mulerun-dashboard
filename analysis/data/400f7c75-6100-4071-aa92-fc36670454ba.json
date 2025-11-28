@@ -1,6 +1,6 @@
 {
   "agent_id": "400f7c75-6100-4071-aa92-fc36670454ba",
-  "generated_at": "2025-11-27T08:15:13.964532",
+  "generated_at": "2025-11-28T00:00:26.387776",
   "basic_info": {
     "title": "Cozy Christmas Glow",
     "author": "Lucas",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-22T12:41:26.838000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/cozy-christmas-glow",
-    "days_since_published": 35
+    "days_since_published": 36
   },
   "performance_metrics": {
     "views": 112,
     "runs": 1,
     "saves": 0,
-    "days_tracked": 35,
+    "days_tracked": 36,
     "price": 49.0,
     "engagement_rate": 0.89,
     "avg_runs_per_day": 0.03,
-    "avg_views_per_day": 3.2
+    "avg_views_per_day": 3.11
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 12,
+    "data_points": 13,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-27T16:15:10.235580",
+    "last_recorded": "2025-11-28T08:00:25.835604",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -41,7 +41,8 @@
         "2025-11-25T08:00:22.881701",
         "2025-11-26T08:00:32.046352",
         "2025-11-27T08:00:22.157746",
-        "2025-11-27T16:15:10.235580"
+        "2025-11-27T16:15:10.235580",
+        "2025-11-28T08:00:25.835604"
       ],
       "views": [
         104,
@@ -53,6 +54,7 @@
         108,
         109,
         111,
+        112,
         112,
         112,
         112
@@ -69,9 +71,11 @@
         1,
         1,
         1,
+        1,
         1
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -113,14 +117,14 @@
   "market_position": {
     "total_active_agents": 204,
     "views_rank": 171,
-    "runs_rank": 100,
+    "runs_rank": 93,
     "views_percentile": 16.2,
-    "runs_percentile": 51.0,
+    "runs_percentile": 54.4,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
       "views": -84.3,
-      "runs": -98.2,
+      "runs": -97.7,
       "saves": 0
     }
   },

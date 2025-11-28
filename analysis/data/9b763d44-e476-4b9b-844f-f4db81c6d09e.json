@@ -1,6 +1,6 @@
 {
   "agent_id": "9b763d44-e476-4b9b-844f-f4db81c6d09e",
-  "generated_at": "2025-11-27T08:15:14.229055",
+  "generated_at": "2025-11-28T00:00:26.615700",
   "basic_info": {
     "title": "Christmas costume generator",
     "author": "luckyy",
@@ -11,37 +11,41 @@
     "published_at": "2025-11-25T17:16:09.297000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@luckyy/christmas-costume-generator",
-    "days_since_published": 1
+    "days_since_published": 2
   },
   "performance_metrics": {
-    "views": 56,
-    "runs": 121,
+    "views": 58,
+    "runs": 105,
     "saves": 0,
-    "days_tracked": 1,
+    "days_tracked": 2,
     "price": 28.0,
-    "engagement_rate": 216.07,
-    "avg_runs_per_day": 121.0,
-    "avg_views_per_day": 56.0
+    "engagement_rate": 181.03,
+    "avg_runs_per_day": 52.5,
+    "avg_views_per_day": 29.0
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 2,
+    "data_points": 3,
     "first_recorded": "2025-11-27T08:00:22.157746",
-    "last_recorded": "2025-11-27T16:15:10.235580",
+    "last_recorded": "2025-11-28T08:00:25.835604",
     "time_series": {
       "dates": [
         "2025-11-27T08:00:22.157746",
-        "2025-11-27T16:15:10.235580"
+        "2025-11-27T16:15:10.235580",
+        "2025-11-28T08:00:25.835604"
       ],
       "views": [
         55,
-        56
+        56,
+        58
       ],
       "runs": [
         121,
-        121
+        121,
+        105
       ],
       "saves": [
+        0,
         0,
         0
       ]
@@ -51,18 +55,18 @@
     "has_data": true,
     "days_tracked": 1,
     "total_growth": {
-      "views": 1,
-      "runs": 0,
+      "views": 3,
+      "runs": -16,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 1.0,
-      "runs": 0.0,
+      "views": 3.0,
+      "runs": -16.0,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 1.82,
-      "runs": 0.0,
+      "views": 5.45,
+      "runs": -13.22,
       "saves": 0
     }
   },
@@ -79,15 +83,15 @@
   },
   "market_position": {
     "total_active_agents": 204,
-    "views_rank": 195,
-    "runs_rank": 21,
-    "views_percentile": 4.4,
-    "runs_percentile": 89.7,
+    "views_rank": 194,
+    "runs_rank": 20,
+    "views_percentile": 4.9,
+    "runs_percentile": 90.2,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": -92.1,
-      "runs": 120.6,
+      "views": -91.9,
+      "runs": 140.9,
       "saves": 0
     }
   },
@@ -95,12 +99,12 @@
     {
       "type": "positive",
       "title": "High Engagement Rate",
-      "description": "This agent has an excellent 216.1% engagement rate (runs/views), significantly above average."
+      "description": "This agent has an excellent 181.0% engagement rate (runs/views), significantly above average."
     },
     {
       "type": "info",
       "title": "Paid Agent with Strong Usage",
-      "description": "Despite being priced at $28.0, this agent averages 121.0 runs per day."
+      "description": "Despite being priced at $28.0, this agent averages 52.5 runs per day."
     }
   ]
 }

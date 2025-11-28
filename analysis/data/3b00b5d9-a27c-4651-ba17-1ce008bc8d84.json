@@ -1,6 +1,6 @@
 {
   "agent_id": "3b00b5d9-a27c-4651-ba17-1ce008bc8d84",
-  "generated_at": "2025-11-27T08:15:12.633808",
+  "generated_at": "2025-11-28T00:00:25.148069",
   "basic_info": {
     "title": "Pet Red Carpet Photos",
     "author": "LinkAIBrain",
@@ -11,23 +11,23 @@
     "published_at": "2025-09-18T19:16:26.843000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/pet-red-carpet-photos",
-    "days_since_published": 69
+    "days_since_published": 70
   },
   "performance_metrics": {
     "views": 685,
     "runs": 1,
     "saves": 0,
-    "days_tracked": 69,
+    "days_tracked": 70,
     "price": 30.0,
     "engagement_rate": 0.15,
     "avg_runs_per_day": 0.01,
-    "avg_views_per_day": 9.93
+    "avg_views_per_day": 9.79
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 12,
+    "data_points": 13,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-27T16:15:10.235580",
+    "last_recorded": "2025-11-28T08:00:25.835604",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -41,7 +41,8 @@
         "2025-11-25T08:00:22.881701",
         "2025-11-26T08:00:32.046352",
         "2025-11-27T08:00:22.157746",
-        "2025-11-27T16:15:10.235580"
+        "2025-11-27T16:15:10.235580",
+        "2025-11-28T08:00:25.835604"
       ],
       "views": [
         679,
@@ -55,6 +56,7 @@
         682,
         682,
         684,
+        685,
         685
       ],
       "runs": [
@@ -69,9 +71,11 @@
         0,
         1,
         1,
+        1,
         1
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -113,14 +117,14 @@
   "market_position": {
     "total_active_agents": 204,
     "views_rank": 54,
-    "runs_rank": 100,
+    "runs_rank": 93,
     "views_percentile": 73.5,
-    "runs_percentile": 51.0,
+    "runs_percentile": 54.4,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": -3.8,
-      "runs": -98.2,
+      "views": -4.3,
+      "runs": -97.7,
       "saves": 0
     }
   },
