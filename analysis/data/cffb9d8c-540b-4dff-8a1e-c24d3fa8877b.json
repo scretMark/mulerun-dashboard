@@ -1,6 +1,6 @@
 {
   "agent_id": "cffb9d8c-540b-4dff-8a1e-c24d3fa8877b",
-  "generated_at": "2025-11-28T00:00:25.119816",
+  "generated_at": "2025-11-30T07:58:52.840787",
   "basic_info": {
     "title": "ID Photo",
     "author": "HongwuQz",
@@ -11,23 +11,23 @@
     "published_at": "2025-09-25T12:49:57.242000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@HongwuQz/id-photo",
-    "days_since_published": 63
+    "days_since_published": 65
   },
   "performance_metrics": {
-    "views": 712,
-    "runs": 5,
+    "views": 720,
+    "runs": 4,
     "saves": 0,
-    "days_tracked": 63,
+    "days_tracked": 65,
     "price": 50.0,
-    "engagement_rate": 0.7,
-    "avg_runs_per_day": 0.08,
-    "avg_views_per_day": 11.3
+    "engagement_rate": 0.56,
+    "avg_runs_per_day": 0.06,
+    "avg_views_per_day": 11.08
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 13,
+    "data_points": 14,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-28T08:00:25.835604",
+    "last_recorded": "2025-11-30T15:58:50.561480",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -42,7 +42,8 @@
         "2025-11-26T08:00:32.046352",
         "2025-11-27T08:00:22.157746",
         "2025-11-27T16:15:10.235580",
-        "2025-11-28T08:00:25.835604"
+        "2025-11-28T08:00:25.835604",
+        "2025-11-30T15:58:50.561480"
       ],
       "views": [
         675,
@@ -57,7 +58,8 @@
         705,
         710,
         711,
-        712
+        712,
+        720
       ],
       "runs": [
         17,
@@ -72,9 +74,11 @@
         12,
         5,
         5,
-        5
+        5,
+        4
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -93,20 +97,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 8,
+    "days_tracked": 11,
     "total_growth": {
-      "views": 37,
-      "runs": -12,
+      "views": 45,
+      "runs": -13,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 4.62,
-      "runs": -1.5,
+      "views": 4.09,
+      "runs": -1.18,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 5.48,
-      "runs": -70.59,
+      "views": 6.67,
+      "runs": -76.47,
       "saves": 0
     }
   },
@@ -117,14 +121,14 @@
   "market_position": {
     "total_active_agents": 204,
     "views_rank": 51,
-    "runs_rank": 63,
+    "runs_rank": 75,
     "views_percentile": 75.0,
-    "runs_percentile": 69.1,
+    "runs_percentile": 63.2,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": -0.5,
-      "runs": -88.5,
+      "views": -0.6,
+      "runs": -90.1,
       "saves": 0
     }
   },
@@ -132,7 +136,7 @@
     {
       "type": "warning",
       "title": "Low Engagement Rate",
-      "description": "The engagement rate is 0.7%, which may indicate the agent description or value proposition could be improved."
+      "description": "The engagement rate is 0.6%, which may indicate the agent description or value proposition could be improved."
     }
   ]
 }

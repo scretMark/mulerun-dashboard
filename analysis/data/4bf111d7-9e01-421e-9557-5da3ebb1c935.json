@@ -1,6 +1,6 @@
 {
   "agent_id": "4bf111d7-9e01-421e-9557-5da3ebb1c935",
-  "generated_at": "2025-11-28T00:00:26.624670",
+  "generated_at": "2025-11-30T07:58:54.346385",
   "basic_info": {
     "title": " Hand-Drawn Doodle Ads Generator",
     "author": "Aronlong",
@@ -11,23 +11,23 @@
     "published_at": "2025-11-16T10:03:28.847000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aronlong/hand-drawn-doodle-ads-generator",
-    "days_since_published": 11
+    "days_since_published": 13
   },
   "performance_metrics": {
-    "views": 57,
+    "views": 59,
     "runs": 1,
     "saves": 0,
-    "days_tracked": 11,
+    "days_tracked": 13,
     "price": 10.0,
-    "engagement_rate": 1.75,
-    "avg_runs_per_day": 0.09,
-    "avg_views_per_day": 5.18
+    "engagement_rate": 1.69,
+    "avg_runs_per_day": 0.08,
+    "avg_views_per_day": 4.54
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 11,
+    "data_points": 12,
     "first_recorded": "2025-11-21T14:09:56.591648",
-    "last_recorded": "2025-11-28T08:00:25.835604",
+    "last_recorded": "2025-11-30T15:58:50.561480",
     "time_series": {
       "dates": [
         "2025-11-21T14:09:56.591648",
@@ -40,7 +40,8 @@
         "2025-11-26T08:00:32.046352",
         "2025-11-27T08:00:22.157746",
         "2025-11-27T16:15:10.235580",
-        "2025-11-28T08:00:25.835604"
+        "2025-11-28T08:00:25.835604",
+        "2025-11-30T15:58:50.561480"
       ],
       "views": [
         45,
@@ -53,7 +54,8 @@
         56,
         57,
         57,
-        57
+        57,
+        59
       ],
       "runs": [
         34,
@@ -66,9 +68,11 @@
         3,
         2,
         2,
+        1,
         1
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -85,19 +89,19 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 6,
+    "days_tracked": 9,
     "total_growth": {
-      "views": 12,
+      "views": 14,
       "runs": -33,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 2.0,
-      "runs": -5.5,
+      "views": 1.56,
+      "runs": -3.67,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 26.67,
+      "views": 31.11,
       "runs": -97.06,
       "saves": 0
     }
@@ -116,14 +120,14 @@
   "market_position": {
     "total_active_agents": 204,
     "views_rank": 196,
-    "runs_rank": 93,
+    "runs_rank": 96,
     "views_percentile": 3.9,
-    "runs_percentile": 54.4,
+    "runs_percentile": 52.9,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": -92.0,
-      "runs": -97.7,
+      "views": -91.9,
+      "runs": -97.5,
       "saves": 0
     }
   },
@@ -131,7 +135,7 @@
     {
       "type": "warning",
       "title": "Low Engagement Rate",
-      "description": "The engagement rate is 1.8%, which may indicate the agent description or value proposition could be improved."
+      "description": "The engagement rate is 1.7%, which may indicate the agent description or value proposition could be improved."
     }
   ]
 }

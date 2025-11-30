@@ -1,6 +1,6 @@
 {
   "agent_id": "c16d3179-561b-4c4c-8fca-632da002faad",
-  "generated_at": "2025-11-28T00:00:25.167554",
+  "generated_at": "2025-11-30T07:58:52.888033",
   "basic_info": {
     "title": "A nine-grid of headshots",
     "author": "laughing_code",
@@ -11,23 +11,23 @@
     "published_at": "2025-09-28T13:13:34.793000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@laughing_code/a-nine-grid-of-headshots",
-    "days_since_published": 60
+    "days_since_published": 62
   },
   "performance_metrics": {
-    "views": 669,
-    "runs": 3,
+    "views": 670,
+    "runs": 1,
     "saves": 0,
-    "days_tracked": 60,
+    "days_tracked": 62,
     "price": 50.0,
-    "engagement_rate": 0.45,
-    "avg_runs_per_day": 0.05,
-    "avg_views_per_day": 11.15
+    "engagement_rate": 0.15,
+    "avg_runs_per_day": 0.02,
+    "avg_views_per_day": 10.81
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 13,
+    "data_points": 14,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-28T08:00:25.835604",
+    "last_recorded": "2025-11-30T15:58:50.561480",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -42,7 +42,8 @@
         "2025-11-26T08:00:32.046352",
         "2025-11-27T08:00:22.157746",
         "2025-11-27T16:15:10.235580",
-        "2025-11-28T08:00:25.835604"
+        "2025-11-28T08:00:25.835604",
+        "2025-11-30T15:58:50.561480"
       ],
       "views": [
         665,
@@ -57,7 +58,8 @@
         669,
         669,
         669,
-        669
+        669,
+        670
       ],
       "runs": [
         10,
@@ -72,9 +74,11 @@
         2,
         2,
         2,
-        3
+        3,
+        1
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -93,20 +97,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 8,
+    "days_tracked": 11,
     "total_growth": {
-      "views": 4,
-      "runs": -7,
+      "views": 5,
+      "runs": -9,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 0.5,
-      "runs": -0.88,
+      "views": 0.45,
+      "runs": -0.82,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 0.6,
-      "runs": -70.0,
+      "views": 0.75,
+      "runs": -90.0,
       "saves": 0
     }
   },
@@ -117,14 +121,14 @@
   "market_position": {
     "total_active_agents": 204,
     "views_rank": 56,
-    "runs_rank": 76,
+    "runs_rank": 96,
     "views_percentile": 72.5,
-    "runs_percentile": 62.7,
+    "runs_percentile": 52.9,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": -6.5,
-      "runs": -93.1,
+      "views": -7.5,
+      "runs": -97.5,
       "saves": 0
     }
   },
@@ -132,7 +136,7 @@
     {
       "type": "warning",
       "title": "Low Engagement Rate",
-      "description": "The engagement rate is 0.4%, which may indicate the agent description or value proposition could be improved."
+      "description": "The engagement rate is 0.1%, which may indicate the agent description or value proposition could be improved."
     }
   ]
 }

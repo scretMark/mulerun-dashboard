@@ -1,6 +1,6 @@
 {
   "agent_id": "51184cdc-55eb-462d-b131-355e1b5b5d7d",
-  "generated_at": "2025-11-28T00:00:25.987221",
+  "generated_at": "2025-11-30T07:58:53.709241",
   "basic_info": {
     "title": "Nano Architect",
     "author": "jyvdzb224259haj",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-05T01:28:44.314000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@jyvdzb224259haj/nano-architect",
-    "days_since_published": 53
+    "days_since_published": 56
   },
   "performance_metrics": {
-    "views": 197,
+    "views": 198,
     "runs": 5,
     "saves": 0,
-    "days_tracked": 53,
+    "days_tracked": 56,
     "price": 50.0,
-    "engagement_rate": 2.54,
+    "engagement_rate": 2.53,
     "avg_runs_per_day": 0.09,
-    "avg_views_per_day": 3.72
+    "avg_views_per_day": 3.54
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 13,
+    "data_points": 14,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-28T08:00:25.835604",
+    "last_recorded": "2025-11-30T15:58:50.561480",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -42,7 +42,8 @@
         "2025-11-26T08:00:32.046352",
         "2025-11-27T08:00:22.157746",
         "2025-11-27T16:15:10.235580",
-        "2025-11-28T08:00:25.835604"
+        "2025-11-28T08:00:25.835604",
+        "2025-11-30T15:58:50.561480"
       ],
       "views": [
         177,
@@ -57,7 +58,8 @@
         186,
         196,
         197,
-        197
+        197,
+        198
       ],
       "runs": [
         1,
@@ -72,9 +74,11 @@
         3,
         5,
         5,
+        5,
         5
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -93,19 +97,19 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 8,
+    "days_tracked": 11,
     "total_growth": {
-      "views": 20,
+      "views": 21,
       "runs": 4,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 2.5,
-      "runs": 0.5,
+      "views": 1.91,
+      "runs": 0.36,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 11.3,
+      "views": 11.86,
       "runs": 400.0,
       "saves": 0
     }
@@ -116,15 +120,15 @@
   },
   "market_position": {
     "total_active_agents": 204,
-    "views_rank": 132,
-    "runs_rank": 63,
-    "views_percentile": 35.3,
-    "runs_percentile": 69.1,
+    "views_rank": 134,
+    "runs_rank": 67,
+    "views_percentile": 34.3,
+    "runs_percentile": 67.2,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": -72.5,
-      "runs": -88.5,
+      "views": -72.7,
+      "runs": -87.6,
       "saves": 0
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "ca5710ab-c6da-4201-9221-b596b53f9857",
-  "generated_at": "2025-11-28T00:00:26.081760",
+  "generated_at": "2025-11-30T07:58:53.772791",
   "basic_info": {
     "title": "Ink Wash Painting",
     "author": "Darren",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-20T11:31:54.304000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/ink-wash-painting",
-    "days_since_published": 38
+    "days_since_published": 40
   },
   "performance_metrics": {
-    "views": 180,
+    "views": 182,
     "runs": 2,
     "saves": 0,
-    "days_tracked": 38,
+    "days_tracked": 40,
     "price": 51.0,
-    "engagement_rate": 1.11,
+    "engagement_rate": 1.1,
     "avg_runs_per_day": 0.05,
-    "avg_views_per_day": 4.74
+    "avg_views_per_day": 4.55
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 13,
+    "data_points": 14,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-28T08:00:25.835604",
+    "last_recorded": "2025-11-30T15:58:50.561480",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -42,7 +42,8 @@
         "2025-11-26T08:00:32.046352",
         "2025-11-27T08:00:22.157746",
         "2025-11-27T16:15:10.235580",
-        "2025-11-28T08:00:25.835604"
+        "2025-11-28T08:00:25.835604",
+        "2025-11-30T15:58:50.561480"
       ],
       "views": [
         169,
@@ -57,7 +58,8 @@
         176,
         180,
         180,
-        180
+        180,
+        182
       ],
       "runs": [
         0,
@@ -69,6 +71,7 @@
         0,
         0,
         0,
+        2,
         2,
         2,
         2,
@@ -87,25 +90,26 @@
         0,
         0,
         0,
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 8,
+    "days_tracked": 11,
     "total_growth": {
-      "views": 11,
+      "views": 13,
       "runs": 2,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 1.38,
-      "runs": 0.25,
+      "views": 1.18,
+      "runs": 0.18,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 6.51,
+      "views": 7.69,
       "runs": 0,
       "saves": 0
     }
@@ -116,15 +120,15 @@
   },
   "market_position": {
     "total_active_agents": 204,
-    "views_rank": 140,
-    "runs_rank": 84,
-    "views_percentile": 31.4,
-    "runs_percentile": 58.8,
+    "views_rank": 141,
+    "runs_rank": 85,
+    "views_percentile": 30.9,
+    "runs_percentile": 58.3,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": -74.8,
-      "runs": -95.4,
+      "views": -74.9,
+      "runs": -95.0,
       "saves": 0
     }
   },

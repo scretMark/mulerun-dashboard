@@ -1,6 +1,6 @@
 {
   "agent_id": "4d9b4916-1311-4716-ba98-3bba7d803df3",
-  "generated_at": "2025-11-28T00:00:26.151570",
+  "generated_at": "2025-11-30T07:58:53.792649",
   "basic_info": {
     "title": "Content Pilot AI",
     "author": "cqplaquemh41i2k",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-13T18:50:29.799000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@cqplaquemh41i2k/content-pilot-ai",
-    "days_since_published": 45
+    "days_since_published": 47
   },
   "performance_metrics": {
-    "views": 168,
-    "runs": 28,
+    "views": 178,
+    "runs": 20,
     "saves": 0,
-    "days_tracked": 45,
+    "days_tracked": 47,
     "price": 15.0,
-    "engagement_rate": 16.67,
-    "avg_runs_per_day": 0.62,
-    "avg_views_per_day": 3.73
+    "engagement_rate": 11.24,
+    "avg_runs_per_day": 0.43,
+    "avg_views_per_day": 3.79
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 13,
+    "data_points": 14,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-28T08:00:25.835604",
+    "last_recorded": "2025-11-30T15:58:50.561480",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -42,7 +42,8 @@
         "2025-11-26T08:00:32.046352",
         "2025-11-27T08:00:22.157746",
         "2025-11-27T16:15:10.235580",
-        "2025-11-28T08:00:25.835604"
+        "2025-11-28T08:00:25.835604",
+        "2025-11-30T15:58:50.561480"
       ],
       "views": [
         110,
@@ -57,7 +58,8 @@
         160,
         161,
         165,
-        168
+        168,
+        178
       ],
       "runs": [
         5,
@@ -72,9 +74,11 @@
         56,
         38,
         40,
-        28
+        28,
+        20
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -93,20 +97,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 8,
+    "days_tracked": 11,
     "total_growth": {
-      "views": 58,
-      "runs": 23,
+      "views": 68,
+      "runs": 15,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 7.25,
-      "runs": 2.88,
+      "views": 6.18,
+      "runs": 1.36,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 52.73,
-      "runs": 460.0,
+      "views": 61.82,
+      "runs": 300.0,
       "saves": 0
     }
   },
@@ -116,15 +120,15 @@
   },
   "market_position": {
     "total_active_agents": 204,
-    "views_rank": 146,
-    "runs_rank": 30,
-    "views_percentile": 28.4,
-    "runs_percentile": 85.3,
+    "views_rank": 143,
+    "runs_rank": 36,
+    "views_percentile": 29.9,
+    "runs_percentile": 82.4,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": -76.5,
-      "runs": -35.8,
+      "views": -75.4,
+      "runs": -50.4,
       "saves": 0
     }
   },
@@ -132,7 +136,7 @@
     {
       "type": "positive",
       "title": "High Engagement Rate",
-      "description": "This agent has an excellent 16.7% engagement rate (runs/views), significantly above average."
+      "description": "This agent has an excellent 11.2% engagement rate (runs/views), significantly above average."
     }
   ]
 }

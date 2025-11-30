@@ -1,6 +1,6 @@
 {
   "agent_id": "9ffa3e8b-094f-497d-b491-49ca30b7de10",
-  "generated_at": "2025-11-28T00:00:25.282686",
+  "generated_at": "2025-11-30T07:58:52.998971",
   "basic_info": {
     "title": "Product Creativity Lab",
     "author": "Aichimp",
@@ -11,23 +11,23 @@
     "published_at": "2025-11-10T11:19:13.755000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aichimp/product-creativity-lab",
-    "days_since_published": 17
+    "days_since_published": 19
   },
   "performance_metrics": {
-    "views": 565,
-    "runs": 81,
+    "views": 587,
+    "runs": 90,
     "saves": 0,
-    "days_tracked": 17,
+    "days_tracked": 19,
     "price": 25.0,
-    "engagement_rate": 14.34,
-    "avg_runs_per_day": 4.76,
-    "avg_views_per_day": 33.24
+    "engagement_rate": 15.33,
+    "avg_runs_per_day": 4.74,
+    "avg_views_per_day": 30.89
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 14,
+    "data_points": 15,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-11-28T08:00:25.835604",
+    "last_recorded": "2025-11-30T15:58:50.561480",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -43,7 +43,8 @@
         "2025-11-26T08:00:32.046352",
         "2025-11-27T08:00:22.157746",
         "2025-11-27T16:15:10.235580",
-        "2025-11-28T08:00:25.835604"
+        "2025-11-28T08:00:25.835604",
+        "2025-11-30T15:58:50.561480"
       ],
       "views": [
         478,
@@ -59,7 +60,8 @@
         548,
         553,
         555,
-        565
+        565,
+        587
       ],
       "runs": [
         83,
@@ -75,9 +77,11 @@
         92,
         67,
         70,
-        81
+        81,
+        90
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -97,20 +101,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 9,
+    "days_tracked": 11,
     "total_growth": {
-      "views": 87,
-      "runs": -2,
+      "views": 109,
+      "runs": 7,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 9.67,
-      "runs": -0.22,
+      "views": 9.91,
+      "runs": 0.64,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 18.2,
-      "runs": -2.41,
+      "views": 22.8,
+      "runs": 8.43,
       "saves": 0
     }
   },
@@ -127,8 +131,8 @@
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": -21.0,
-      "runs": 85.8,
+      "views": -19.0,
+      "runs": 123.2,
       "saves": 0
     }
   },
@@ -136,7 +140,7 @@
     {
       "type": "positive",
       "title": "High Engagement Rate",
-      "description": "This agent has an excellent 14.3% engagement rate (runs/views), significantly above average."
+      "description": "This agent has an excellent 15.3% engagement rate (runs/views), significantly above average."
     }
   ]
 }
