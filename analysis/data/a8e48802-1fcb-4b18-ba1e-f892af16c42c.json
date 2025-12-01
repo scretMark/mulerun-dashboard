@@ -1,6 +1,6 @@
 {
   "agent_id": "a8e48802-1fcb-4b18-ba1e-f892af16c42c",
-  "generated_at": "2025-11-30T07:58:53.091860",
+  "generated_at": "2025-12-01T00:00:27.984249",
   "basic_info": {
     "title": "AI Image Resizer",
     "author": "Zane29222",
@@ -11,23 +11,23 @@
     "published_at": "2025-11-03T21:03:11.210000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Zane29222/ai-image-resizer",
-    "days_since_published": 26
+    "days_since_published": 27
   },
   "performance_metrics": {
     "views": 395,
-    "runs": 10,
+    "runs": 7,
     "saves": 0,
-    "days_tracked": 26,
+    "days_tracked": 27,
     "price": 50.0,
-    "engagement_rate": 2.53,
-    "avg_runs_per_day": 0.38,
-    "avg_views_per_day": 15.19
+    "engagement_rate": 1.77,
+    "avg_runs_per_day": 0.26,
+    "avg_views_per_day": 14.63
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 14,
+    "data_points": 15,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-30T15:58:50.561480",
+    "last_recorded": "2025-12-01T08:00:25.084545",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -43,7 +43,8 @@
         "2025-11-27T08:00:22.157746",
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
-        "2025-11-30T15:58:50.561480"
+        "2025-11-30T15:58:50.561480",
+        "2025-12-01T08:00:25.084545"
       ],
       "views": [
         350,
@@ -59,6 +60,7 @@
         378,
         380,
         386,
+        395,
         395
       ],
       "runs": [
@@ -75,9 +77,11 @@
         7,
         7,
         7,
-        10
+        10,
+        7
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -100,17 +104,17 @@
     "days_tracked": 11,
     "total_growth": {
       "views": 45,
-      "runs": -9,
+      "runs": -12,
       "saves": 0
     },
     "daily_average_growth": {
       "views": 4.09,
-      "runs": -0.82,
+      "runs": -1.09,
       "saves": 0.0
     },
     "percentage_growth": {
       "views": 12.86,
-      "runs": -47.37,
+      "runs": -63.16,
       "saves": 0
     }
   },
@@ -121,16 +125,22 @@
   "market_position": {
     "total_active_agents": 204,
     "views_rank": 78,
-    "runs_rank": 50,
+    "runs_rank": 54,
     "views_percentile": 61.8,
-    "runs_percentile": 75.5,
+    "runs_percentile": 73.5,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": -45.5,
-      "runs": -75.2,
+      "views": -45.6,
+      "runs": -78.5,
       "saves": 0
     }
   },
-  "insights": []
+  "insights": [
+    {
+      "type": "warning",
+      "title": "Low Engagement Rate",
+      "description": "The engagement rate is 1.8%, which may indicate the agent description or value proposition could be improved."
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "633d0ca3-abf3-4a20-9162-f381562940d9",
-  "generated_at": "2025-11-30T07:58:52.794190",
+  "generated_at": "2025-12-01T00:00:27.601330",
   "basic_info": {
     "title": "Kabutack Agent",
     "author": "Ailurus",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-30T18:00:14.557000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Ailurus/kabutack-agent",
-    "days_since_published": 30
+    "days_since_published": 31
   },
   "performance_metrics": {
     "views": 813,
-    "runs": 5,
+    "runs": 2,
     "saves": 0,
-    "days_tracked": 30,
+    "days_tracked": 31,
     "price": 1.0,
-    "engagement_rate": 0.62,
-    "avg_runs_per_day": 0.17,
-    "avg_views_per_day": 27.1
+    "engagement_rate": 0.25,
+    "avg_runs_per_day": 0.06,
+    "avg_views_per_day": 26.23
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 14,
+    "data_points": 15,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-30T15:58:50.561480",
+    "last_recorded": "2025-12-01T08:00:25.084545",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -43,7 +43,8 @@
         "2025-11-27T08:00:22.157746",
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
-        "2025-11-30T15:58:50.561480"
+        "2025-11-30T15:58:50.561480",
+        "2025-12-01T08:00:25.084545"
       ],
       "views": [
         792,
@@ -59,6 +60,7 @@
         809,
         810,
         810,
+        813,
         813
       ],
       "runs": [
@@ -75,9 +77,11 @@
         4,
         4,
         4,
-        5
+        5,
+        2
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -100,17 +104,17 @@
     "days_tracked": 11,
     "total_growth": {
       "views": 21,
-      "runs": -5,
+      "runs": -8,
       "saves": 0
     },
     "daily_average_growth": {
       "views": 1.91,
-      "runs": -0.45,
+      "runs": -0.73,
       "saves": 0.0
     },
     "percentage_growth": {
       "views": 2.65,
-      "runs": -50.0,
+      "runs": -80.0,
       "saves": 0
     }
   },
@@ -121,14 +125,14 @@
   "market_position": {
     "total_active_agents": 204,
     "views_rank": 47,
-    "runs_rank": 67,
+    "runs_rank": 80,
     "views_percentile": 77.0,
-    "runs_percentile": 67.2,
+    "runs_percentile": 60.8,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": 12.2,
-      "runs": -87.6,
+      "views": 12.0,
+      "runs": -93.9,
       "saves": 0
     }
   },
@@ -136,7 +140,7 @@
     {
       "type": "warning",
       "title": "Low Engagement Rate",
-      "description": "The engagement rate is 0.6%, which may indicate the agent description or value proposition could be improved."
+      "description": "The engagement rate is 0.2%, which may indicate the agent description or value proposition could be improved."
     }
   ]
 }

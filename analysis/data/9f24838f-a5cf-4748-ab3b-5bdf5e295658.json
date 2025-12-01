@@ -1,6 +1,6 @@
 {
   "agent_id": "9f24838f-a5cf-4748-ab3b-5bdf5e295658",
-  "generated_at": "2025-11-30T07:58:53.602391",
+  "generated_at": "2025-12-01T00:00:28.558124",
   "basic_info": {
     "title": "Soul Spark",
     "author": "mtmr8466_crepis",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-09T15:54:04.446000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@mtmr8466_crepis/soul-spark",
-    "days_since_published": 51
+    "days_since_published": 52
   },
   "performance_metrics": {
     "views": 218,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 51,
+    "days_tracked": 52,
     "price": 40.0,
     "engagement_rate": 0.0,
     "avg_runs_per_day": 0.0,
-    "avg_views_per_day": 4.27
+    "avg_views_per_day": 4.19
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 14,
+    "data_points": 15,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-30T15:58:50.561480",
+    "last_recorded": "2025-12-01T08:00:25.084545",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -43,7 +43,8 @@
         "2025-11-27T08:00:22.157746",
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
-        "2025-11-30T15:58:50.561480"
+        "2025-11-30T15:58:50.561480",
+        "2025-12-01T08:00:25.084545"
       ],
       "views": [
         215,
@@ -59,6 +60,7 @@
         217,
         217,
         217,
+        218,
         218
       ],
       "runs": [
@@ -75,9 +77,11 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -121,13 +125,13 @@
   "market_position": {
     "total_active_agents": 204,
     "views_rank": 124,
-    "runs_rank": 132,
+    "runs_rank": 123,
     "views_percentile": 39.2,
-    "runs_percentile": 35.3,
+    "runs_percentile": 39.7,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": -69.9,
+      "views": -70.0,
       "runs": -100.0,
       "saves": 0
     }

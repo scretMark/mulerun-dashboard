@@ -1,6 +1,6 @@
 {
   "agent_id": "15ff0a66-65e2-4669-a400-81ce8763a2c4",
-  "generated_at": "2025-11-30T07:58:52.638412",
+  "generated_at": "2025-12-01T00:00:27.433128",
   "basic_info": {
     "title": "YouTube Quick Scan",
     "author": "Zane29222",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-06T20:24:45.395000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Zane29222/youtube-quick-scan",
-    "days_since_published": 54
+    "days_since_published": 55
   },
   "performance_metrics": {
-    "views": 1096,
-    "runs": 6,
+    "views": 1102,
+    "runs": 5,
     "saves": 0,
-    "days_tracked": 54,
+    "days_tracked": 55,
     "price": 40.0,
-    "engagement_rate": 0.55,
-    "avg_runs_per_day": 0.11,
-    "avg_views_per_day": 20.3
+    "engagement_rate": 0.45,
+    "avg_runs_per_day": 0.09,
+    "avg_views_per_day": 20.04
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 14,
+    "data_points": 15,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-30T15:58:50.561480",
+    "last_recorded": "2025-12-01T08:00:25.084545",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -43,7 +43,8 @@
         "2025-11-27T08:00:22.157746",
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
-        "2025-11-30T15:58:50.561480"
+        "2025-11-30T15:58:50.561480",
+        "2025-12-01T08:00:25.084545"
       ],
       "views": [
         1018,
@@ -59,7 +60,8 @@
         1075,
         1076,
         1080,
-        1096
+        1096,
+        1102
       ],
       "runs": [
         7,
@@ -75,9 +77,11 @@
         6,
         7,
         6,
-        6
+        6,
+        5
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -99,18 +103,18 @@
     "has_data": true,
     "days_tracked": 11,
     "total_growth": {
-      "views": 78,
-      "runs": -1,
+      "views": 84,
+      "runs": -2,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 7.09,
-      "runs": -0.09,
+      "views": 7.64,
+      "runs": -0.18,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 7.66,
-      "runs": -14.29,
+      "views": 8.25,
+      "runs": -28.57,
       "saves": 0
     }
   },
@@ -121,14 +125,14 @@
   "market_position": {
     "total_active_agents": 204,
     "views_rank": 32,
-    "runs_rank": 63,
+    "runs_rank": 65,
     "views_percentile": 84.3,
-    "runs_percentile": 69.1,
+    "runs_percentile": 68.1,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": 51.3,
-      "runs": -85.1,
+      "views": 51.8,
+      "runs": -84.7,
       "saves": 0
     }
   },

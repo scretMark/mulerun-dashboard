@@ -1,6 +1,6 @@
 {
   "agent_id": "65186ca8-5fe3-4a2d-b731-5ff0e1619a2a",
-  "generated_at": "2025-11-30T07:58:53.400087",
+  "generated_at": "2025-12-01T00:00:28.325734",
   "basic_info": {
     "title": "ID Card Photo by nano banana",
     "author": "DENNIS",
@@ -11,23 +11,23 @@
     "published_at": "2025-09-28T12:05:04.905000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@DENNIS/id-card-photo-by-nano-banana",
-    "days_since_published": 62
+    "days_since_published": 63
   },
   "performance_metrics": {
     "views": 259,
     "runs": 1,
     "saves": 0,
-    "days_tracked": 62,
+    "days_tracked": 63,
     "price": 35.0,
     "engagement_rate": 0.39,
     "avg_runs_per_day": 0.02,
-    "avg_views_per_day": 4.18
+    "avg_views_per_day": 4.11
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 14,
+    "data_points": 15,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-30T15:58:50.561480",
+    "last_recorded": "2025-12-01T08:00:25.084545",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -43,7 +43,8 @@
         "2025-11-27T08:00:22.157746",
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
-        "2025-11-30T15:58:50.561480"
+        "2025-11-30T15:58:50.561480",
+        "2025-12-01T08:00:25.084545"
       ],
       "views": [
         249,
@@ -59,6 +60,7 @@
         256,
         256,
         256,
+        259,
         259
       ],
       "runs": [
@@ -75,9 +77,11 @@
         1,
         1,
         1,
+        1,
         1
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -121,14 +125,14 @@
   "market_position": {
     "total_active_agents": 204,
     "views_rank": 107,
-    "runs_rank": 96,
+    "runs_rank": 92,
     "views_percentile": 47.5,
-    "runs_percentile": 52.9,
+    "runs_percentile": 54.9,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": -64.2,
-      "runs": -97.5,
+      "views": -64.3,
+      "runs": -96.9,
       "saves": 0
     }
   },

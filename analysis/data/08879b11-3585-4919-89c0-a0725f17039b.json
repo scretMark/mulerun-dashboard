@@ -1,6 +1,6 @@
 {
   "agent_id": "08879b11-3585-4919-89c0-a0725f17039b",
-  "generated_at": "2025-11-30T07:58:53.912445",
+  "generated_at": "2025-12-01T00:00:28.937728",
   "basic_info": {
     "title": "Amazon Product Search",
     "author": "createAny",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-13T18:19:42.979000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@createAny/amazon-product-search",
-    "days_since_published": 47
+    "days_since_published": 48
   },
   "performance_metrics": {
     "views": 155,
     "runs": 1,
     "saves": 0,
-    "days_tracked": 47,
+    "days_tracked": 48,
     "price": 10.0,
     "engagement_rate": 0.65,
     "avg_runs_per_day": 0.02,
-    "avg_views_per_day": 3.3
+    "avg_views_per_day": 3.23
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 14,
+    "data_points": 15,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-30T15:58:50.561480",
+    "last_recorded": "2025-12-01T08:00:25.084545",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -43,7 +43,8 @@
         "2025-11-27T08:00:22.157746",
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
-        "2025-11-30T15:58:50.561480"
+        "2025-11-30T15:58:50.561480",
+        "2025-12-01T08:00:25.084545"
       ],
       "views": [
         135,
@@ -59,6 +60,7 @@
         147,
         147,
         151,
+        155,
         155
       ],
       "runs": [
@@ -75,9 +77,11 @@
         0,
         0,
         0,
+        1,
         1
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -120,15 +124,15 @@
   },
   "market_position": {
     "total_active_agents": 204,
-    "views_rank": 153,
-    "runs_rank": 96,
-    "views_percentile": 25.0,
-    "runs_percentile": 52.9,
+    "views_rank": 154,
+    "runs_rank": 92,
+    "views_percentile": 24.5,
+    "runs_percentile": 54.9,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
       "views": -78.6,
-      "runs": -97.5,
+      "runs": -96.9,
       "saves": 0
     }
   },

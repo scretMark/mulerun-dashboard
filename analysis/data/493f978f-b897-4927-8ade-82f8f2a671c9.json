@@ -1,6 +1,6 @@
 {
   "agent_id": "493f978f-b897-4927-8ade-82f8f2a671c9",
-  "generated_at": "2025-11-30T07:58:52.763273",
+  "generated_at": "2025-12-01T00:00:27.566172",
   "basic_info": {
     "title": "Pet Super Bowl",
     "author": "LinkAIBrain",
@@ -11,23 +11,23 @@
     "published_at": "2025-09-18T21:03:29.981000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/pet-super-bowl",
-    "days_since_published": 72
+    "days_since_published": 73
   },
   "performance_metrics": {
     "views": 881,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 72,
+    "days_tracked": 73,
     "price": 30.0,
     "engagement_rate": 0.0,
     "avg_runs_per_day": 0.0,
-    "avg_views_per_day": 12.24
+    "avg_views_per_day": 12.07
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 14,
+    "data_points": 15,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-30T15:58:50.561480",
+    "last_recorded": "2025-12-01T08:00:25.084545",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -43,7 +43,8 @@
         "2025-11-27T08:00:22.157746",
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
-        "2025-11-30T15:58:50.561480"
+        "2025-11-30T15:58:50.561480",
+        "2025-12-01T08:00:25.084545"
       ],
       "views": [
         874,
@@ -59,6 +60,7 @@
         877,
         877,
         877,
+        881,
         881
       ],
       "runs": [
@@ -75,9 +77,11 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -121,13 +125,13 @@
   "market_position": {
     "total_active_agents": 204,
     "views_rank": 44,
-    "runs_rank": 132,
+    "runs_rank": 123,
     "views_percentile": 78.4,
-    "runs_percentile": 35.3,
+    "runs_percentile": 39.7,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": 21.6,
+      "views": 21.4,
       "runs": -100.0,
       "saves": 0
     }

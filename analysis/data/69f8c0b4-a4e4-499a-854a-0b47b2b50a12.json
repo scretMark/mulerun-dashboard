@@ -1,6 +1,6 @@
 {
   "agent_id": "69f8c0b4-a4e4-499a-854a-0b47b2b50a12",
-  "generated_at": "2025-11-30T07:58:54.327612",
+  "generated_at": "2025-12-01T00:00:29.426978",
   "basic_info": {
     "title": "ShadowShift",
     "author": "luckyy",
@@ -11,23 +11,23 @@
     "published_at": "2025-11-20T19:16:57.498000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@luckyy/shadowshift",
-    "days_since_published": 9
+    "days_since_published": 10
   },
   "performance_metrics": {
     "views": 72,
-    "runs": 2,
+    "runs": 1,
     "saves": 0,
-    "days_tracked": 9,
+    "days_tracked": 10,
     "price": 23.0,
-    "engagement_rate": 2.78,
-    "avg_runs_per_day": 0.22,
-    "avg_views_per_day": 8.0
+    "engagement_rate": 1.39,
+    "avg_runs_per_day": 0.1,
+    "avg_views_per_day": 7.2
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 11,
+    "data_points": 12,
     "first_recorded": "2025-11-23T13:27:48.290198",
-    "last_recorded": "2025-11-30T15:58:50.561480",
+    "last_recorded": "2025-12-01T08:00:25.084545",
     "time_series": {
       "dates": [
         "2025-11-23T13:27:48.290198",
@@ -40,7 +40,8 @@
         "2025-11-27T08:00:22.157746",
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
-        "2025-11-30T15:58:50.561480"
+        "2025-11-30T15:58:50.561480",
+        "2025-12-01T08:00:25.084545"
       ],
       "views": [
         47,
@@ -53,6 +54,7 @@
         70,
         70,
         70,
+        72,
         72
       ],
       "runs": [
@@ -66,9 +68,11 @@
         46,
         46,
         6,
-        2
+        2,
+        1
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -88,17 +92,17 @@
     "days_tracked": 7,
     "total_growth": {
       "views": 25,
-      "runs": -103,
+      "runs": -104,
       "saves": 0
     },
     "daily_average_growth": {
       "views": 3.57,
-      "runs": -14.71,
+      "runs": -14.86,
       "saves": 0.0
     },
     "percentage_growth": {
       "views": 53.19,
-      "runs": -98.1,
+      "runs": -99.05,
       "saves": 0
     }
   },
@@ -115,17 +119,23 @@
   },
   "market_position": {
     "total_active_agents": 204,
-    "views_rank": 193,
-    "runs_rank": 85,
-    "views_percentile": 5.4,
-    "runs_percentile": 58.3,
+    "views_rank": 194,
+    "runs_rank": 92,
+    "views_percentile": 4.9,
+    "runs_percentile": 54.9,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
       "views": -90.1,
-      "runs": -95.0,
+      "runs": -96.9,
       "saves": 0
     }
   },
-  "insights": []
+  "insights": [
+    {
+      "type": "warning",
+      "title": "Low Engagement Rate",
+      "description": "The engagement rate is 1.4%, which may indicate the agent description or value proposition could be improved."
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "109663db-6450-4e3e-abea-147e6fdfb467",
-  "generated_at": "2025-11-30T07:58:52.534284",
+  "generated_at": "2025-12-01T00:00:27.332253",
   "basic_info": {
     "title": "Last Will - AI Deduction game",
     "author": "Losure",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-30T18:03:09.916000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Losure/last-will-ai-deduction-game",
-    "days_since_published": 30
+    "days_since_published": 31
   },
   "performance_metrics": {
     "views": 1607,
     "runs": 4,
     "saves": 0,
-    "days_tracked": 30,
+    "days_tracked": 31,
     "price": 0.0,
     "engagement_rate": 0.25,
     "avg_runs_per_day": 0.13,
-    "avg_views_per_day": 53.57
+    "avg_views_per_day": 51.84
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 14,
+    "data_points": 15,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-30T15:58:50.561480",
+    "last_recorded": "2025-12-01T08:00:25.084545",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -43,7 +43,8 @@
         "2025-11-27T08:00:22.157746",
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
-        "2025-11-30T15:58:50.561480"
+        "2025-11-30T15:58:50.561480",
+        "2025-12-01T08:00:25.084545"
       ],
       "views": [
         1594,
@@ -59,6 +60,7 @@
         1605,
         1605,
         1605,
+        1607,
         1607
       ],
       "runs": [
@@ -75,9 +77,11 @@
         3,
         4,
         4,
+        4,
         4
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -121,14 +125,14 @@
   "market_position": {
     "total_active_agents": 204,
     "views_rank": 22,
-    "runs_rank": 75,
+    "runs_rank": 69,
     "views_percentile": 89.2,
-    "runs_percentile": 63.2,
+    "runs_percentile": 66.2,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": 121.9,
-      "runs": -90.1,
+      "views": 121.4,
+      "runs": -87.7,
       "saves": 0
     }
   },

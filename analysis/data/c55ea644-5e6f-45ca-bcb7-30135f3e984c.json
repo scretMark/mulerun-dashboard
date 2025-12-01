@@ -1,6 +1,6 @@
 {
   "agent_id": "c55ea644-5e6f-45ca-bcb7-30135f3e984c",
-  "generated_at": "2025-11-30T07:58:52.337836",
+  "generated_at": "2025-12-01T00:00:27.159314",
   "basic_info": {
     "title": "AI Photo Restorer",
     "author": "laughing_code",
@@ -11,23 +11,23 @@
     "published_at": "2025-09-28T18:16:05.668000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@laughing_code/ai-photo-restorer",
-    "days_since_published": 62
+    "days_since_published": 63
   },
   "performance_metrics": {
-    "views": 5277,
-    "runs": 291,
+    "views": 5295,
+    "runs": 261,
     "saves": 0,
-    "days_tracked": 62,
+    "days_tracked": 63,
     "price": 50.0,
-    "engagement_rate": 5.51,
-    "avg_runs_per_day": 4.69,
-    "avg_views_per_day": 85.11
+    "engagement_rate": 4.93,
+    "avg_runs_per_day": 4.14,
+    "avg_views_per_day": 84.05
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 15,
+    "data_points": 16,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-11-30T15:58:50.561480",
+    "last_recorded": "2025-12-01T08:00:25.084545",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -44,7 +44,8 @@
         "2025-11-27T08:00:22.157746",
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
-        "2025-11-30T15:58:50.561480"
+        "2025-11-30T15:58:50.561480",
+        "2025-12-01T08:00:25.084545"
       ],
       "views": [
         4891,
@@ -61,7 +62,8 @@
         5190,
         5197,
         5220,
-        5277
+        5277,
+        5295
       ],
       "runs": [
         195,
@@ -78,9 +80,11 @@
         268,
         278,
         290,
-        291
+        291,
+        261
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -101,20 +105,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 11,
+    "days_tracked": 12,
     "total_growth": {
-      "views": 386,
-      "runs": 96,
+      "views": 404,
+      "runs": 66,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 35.09,
-      "runs": 8.73,
+      "views": 33.67,
+      "runs": 5.5,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 7.89,
-      "runs": 49.23,
+      "views": 8.26,
+      "runs": 33.85,
       "saves": 0
     }
   },
@@ -125,14 +129,14 @@
   "market_position": {
     "total_active_agents": 204,
     "views_rank": 5,
-    "runs_rank": 14,
+    "runs_rank": 13,
     "views_percentile": 97.5,
-    "runs_percentile": 93.1,
+    "runs_percentile": 93.6,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": 628.5,
-      "runs": 621.7,
+      "views": 629.4,
+      "runs": 700.8,
       "saves": 0
     }
   },

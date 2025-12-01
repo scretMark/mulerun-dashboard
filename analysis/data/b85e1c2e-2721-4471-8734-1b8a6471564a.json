@@ -1,6 +1,6 @@
 {
   "agent_id": "b85e1c2e-2721-4471-8734-1b8a6471564a",
-  "generated_at": "2025-11-30T07:58:53.336750",
+  "generated_at": "2025-12-01T00:00:28.260629",
   "basic_info": {
     "title": "Photo to Sticker",
     "author": "Zane29222",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-11T11:10:42.694000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Zane29222/photo-to-sticker",
-    "days_since_published": 49
+    "days_since_published": 50
   },
   "performance_metrics": {
     "views": 280,
     "runs": 12,
     "saves": 0,
-    "days_tracked": 49,
+    "days_tracked": 50,
     "price": 40.0,
     "engagement_rate": 4.29,
     "avg_runs_per_day": 0.24,
-    "avg_views_per_day": 5.71
+    "avg_views_per_day": 5.6
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 14,
+    "data_points": 15,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-30T15:58:50.561480",
+    "last_recorded": "2025-12-01T08:00:25.084545",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -43,7 +43,8 @@
         "2025-11-27T08:00:22.157746",
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
-        "2025-11-30T15:58:50.561480"
+        "2025-11-30T15:58:50.561480",
+        "2025-12-01T08:00:25.084545"
       ],
       "views": [
         261,
@@ -59,6 +60,7 @@
         273,
         273,
         276,
+        280,
         280
       ],
       "runs": [
@@ -75,9 +77,11 @@
         10,
         10,
         10,
+        12,
         12
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -121,14 +125,14 @@
   "market_position": {
     "total_active_agents": 204,
     "views_rank": 101,
-    "runs_rank": 45,
+    "runs_rank": 44,
     "views_percentile": 50.5,
-    "runs_percentile": 77.9,
+    "runs_percentile": 78.4,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": -61.3,
-      "runs": -70.2,
+      "views": -61.4,
+      "runs": -63.2,
       "saves": 0
     }
   },

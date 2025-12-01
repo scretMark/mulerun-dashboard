@@ -1,6 +1,6 @@
 {
   "agent_id": "55e9e618-8189-42e2-8f90-9b23cbbe3369",
-  "generated_at": "2025-11-30T07:58:52.492726",
+  "generated_at": "2025-12-01T00:00:27.292486",
   "basic_info": {
     "title": "Halloween Costume",
     "author": "LinkAIBrain",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-30T11:21:04.717000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/halloween-costume",
-    "days_since_published": 30
+    "days_since_published": 31
   },
   "performance_metrics": {
     "views": 1942,
     "runs": 2,
     "saves": 0,
-    "days_tracked": 30,
+    "days_tracked": 31,
     "price": 25.0,
     "engagement_rate": 0.1,
-    "avg_runs_per_day": 0.07,
-    "avg_views_per_day": 64.73
+    "avg_runs_per_day": 0.06,
+    "avg_views_per_day": 62.65
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 14,
+    "data_points": 15,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-30T15:58:50.561480",
+    "last_recorded": "2025-12-01T08:00:25.084545",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -43,7 +43,8 @@
         "2025-11-27T08:00:22.157746",
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
-        "2025-11-30T15:58:50.561480"
+        "2025-11-30T15:58:50.561480",
+        "2025-12-01T08:00:25.084545"
       ],
       "views": [
         1918,
@@ -59,6 +60,7 @@
         1933,
         1934,
         1935,
+        1942,
         1942
       ],
       "runs": [
@@ -75,9 +77,11 @@
         1,
         1,
         1,
+        2,
         2
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -121,14 +125,14 @@
   "market_position": {
     "total_active_agents": 204,
     "views_rank": 18,
-    "runs_rank": 85,
+    "runs_rank": 80,
     "views_percentile": 91.2,
-    "runs_percentile": 58.3,
+    "runs_percentile": 60.8,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": 168.1,
-      "runs": -95.0,
+      "views": 167.5,
+      "runs": -93.9,
       "saves": 0
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "d888e7ff-6e44-4a3c-a588-2a5b13aa68bf",
-  "generated_at": "2025-11-30T07:58:53.284074",
+  "generated_at": "2025-12-01T00:00:28.201713",
   "basic_info": {
     "title": "n8n stylist",
     "author": "summerail",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-04T14:40:15.184000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/n8n-stylist",
-    "days_since_published": 56
+    "days_since_published": 57
   },
   "performance_metrics": {
     "views": 318,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "price": 60.0,
     "engagement_rate": 0.0,
     "avg_runs_per_day": 0.0,
-    "avg_views_per_day": 5.68
+    "avg_views_per_day": 5.58
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 14,
+    "data_points": 15,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-30T15:58:50.561480",
+    "last_recorded": "2025-12-01T08:00:25.084545",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -43,7 +43,8 @@
         "2025-11-27T08:00:22.157746",
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
-        "2025-11-30T15:58:50.561480"
+        "2025-11-30T15:58:50.561480",
+        "2025-12-01T08:00:25.084545"
       ],
       "views": [
         302,
@@ -59,6 +60,7 @@
         316,
         316,
         317,
+        318,
         318
       ],
       "runs": [
@@ -75,9 +77,11 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -121,13 +125,13 @@
   "market_position": {
     "total_active_agents": 204,
     "views_rank": 96,
-    "runs_rank": 132,
+    "runs_rank": 123,
     "views_percentile": 52.9,
-    "runs_percentile": 35.3,
+    "runs_percentile": 39.7,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": -56.1,
+      "views": -56.2,
       "runs": -100.0,
       "saves": 0
     }

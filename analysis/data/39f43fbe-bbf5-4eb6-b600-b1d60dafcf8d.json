@@ -1,6 +1,6 @@
 {
   "agent_id": "39f43fbe-bbf5-4eb6-b600-b1d60dafcf8d",
-  "generated_at": "2025-11-30T07:58:52.944049",
+  "generated_at": "2025-12-01T00:00:27.791132",
   "basic_info": {
     "title": "Travel with AI",
     "author": "Rhino",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-16T16:55:46.056000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Rhino/travel-with-ai",
-    "days_since_published": 44
+    "days_since_published": 45
   },
   "performance_metrics": {
     "views": 625,
     "runs": 1,
     "saves": 0,
-    "days_tracked": 44,
+    "days_tracked": 45,
     "price": 40.0,
     "engagement_rate": 0.16,
     "avg_runs_per_day": 0.02,
-    "avg_views_per_day": 14.2
+    "avg_views_per_day": 13.89
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 14,
+    "data_points": 15,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-11-30T15:58:50.561480",
+    "last_recorded": "2025-12-01T08:00:25.084545",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -43,7 +43,8 @@
         "2025-11-27T08:00:22.157746",
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
-        "2025-11-30T15:58:50.561480"
+        "2025-11-30T15:58:50.561480",
+        "2025-12-01T08:00:25.084545"
       ],
       "views": [
         609,
@@ -59,6 +60,7 @@
         618,
         618,
         622,
+        625,
         625
       ],
       "runs": [
@@ -75,9 +77,11 @@
         6,
         6,
         1,
+        1,
         1
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -120,15 +124,15 @@
   },
   "market_position": {
     "total_active_agents": 204,
-    "views_rank": 62,
-    "runs_rank": 96,
-    "views_percentile": 69.6,
-    "runs_percentile": 52.9,
+    "views_rank": 63,
+    "runs_rank": 92,
+    "views_percentile": 69.1,
+    "runs_percentile": 54.9,
     "category": "AI Agent",
     "category_agent_count": 204,
     "vs_average": {
-      "views": -13.7,
-      "runs": -97.5,
+      "views": -13.9,
+      "runs": -96.9,
       "saves": 0
     }
   },
