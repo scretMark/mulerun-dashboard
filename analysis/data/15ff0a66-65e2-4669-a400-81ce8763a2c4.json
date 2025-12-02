@@ -1,6 +1,6 @@
 {
   "agent_id": "15ff0a66-65e2-4669-a400-81ce8763a2c4",
-  "generated_at": "2025-12-01T00:00:27.433128",
+  "generated_at": "2025-12-02T08:52:11.838696",
   "basic_info": {
     "title": "YouTube Quick Scan",
     "author": "Zane29222",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-06T20:24:45.395000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Zane29222/youtube-quick-scan",
-    "days_since_published": 55
+    "days_since_published": 56
   },
   "performance_metrics": {
-    "views": 1102,
-    "runs": 5,
+    "views": 0,
+    "runs": 0,
     "saves": 0,
-    "days_tracked": 55,
+    "days_tracked": 56,
     "price": 40.0,
-    "engagement_rate": 0.45,
-    "avg_runs_per_day": 0.09,
-    "avg_views_per_day": 20.04
+    "engagement_rate": 0,
+    "avg_runs_per_day": 0.0,
+    "avg_views_per_day": 0.0
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 15,
+    "data_points": 16,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-01T08:00:25.084545",
+    "last_recorded": "2025-12-02T16:52:00.461129",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -44,7 +44,8 @@
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
         "2025-11-30T15:58:50.561480",
-        "2025-12-01T08:00:25.084545"
+        "2025-12-01T08:00:25.084545",
+        "2025-12-02T16:52:00.461129"
       ],
       "views": [
         1018,
@@ -61,7 +62,8 @@
         1076,
         1080,
         1096,
-        1102
+        1102,
+        0
       ],
       "runs": [
         7,
@@ -78,9 +80,11 @@
         7,
         6,
         6,
-        5
+        5,
+        0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -101,20 +105,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 11,
+    "days_tracked": 13,
     "total_growth": {
-      "views": 84,
-      "runs": -2,
+      "views": -1018,
+      "runs": -7,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 7.64,
-      "runs": -0.18,
+      "views": -78.31,
+      "runs": -0.54,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 8.25,
-      "runs": -28.57,
+      "views": -100.0,
+      "runs": -100.0,
       "saves": 0
     }
   },
@@ -123,16 +127,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 204,
-    "views_rank": 32,
-    "runs_rank": 65,
-    "views_percentile": 84.3,
-    "runs_percentile": 68.1,
+    "total_active_agents": 205,
+    "views_rank": 1,
+    "runs_rank": 1,
+    "views_percentile": 99.5,
+    "runs_percentile": 99.5,
     "category": "AI Agent",
-    "category_agent_count": 204,
+    "category_agent_count": 205,
     "vs_average": {
-      "views": 51.8,
-      "runs": -84.7,
+      "views": 0,
+      "runs": 0,
       "saves": 0
     }
   },
@@ -140,12 +144,12 @@
     {
       "type": "warning",
       "title": "Low Engagement Rate",
-      "description": "The engagement rate is 0.5%, which may indicate the agent description or value proposition could be improved."
+      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
     },
     {
       "type": "positive",
       "title": "Top Performer",
-      "description": "This agent ranks in the top 16% by views, placing it among the most popular agents."
+      "description": "This agent ranks in the top 0% by views, placing it among the most popular agents."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "3dce446b-c3fc-44c0-8595-6ed9b247c095",
-  "generated_at": "2025-12-01T00:00:27.245684",
+  "generated_at": "2025-12-02T08:52:11.449936",
   "basic_info": {
     "title": "Paper Review Agent",
     "author": "charlin",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-27T22:31:35.340000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@charlin/paper-review-agent",
-    "days_since_published": 34
+    "days_since_published": 35
   },
   "performance_metrics": {
-    "views": 2044,
-    "runs": 16,
+    "views": 0,
+    "runs": 0,
     "saves": 0,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "price": 60.0,
-    "engagement_rate": 0.78,
-    "avg_runs_per_day": 0.47,
-    "avg_views_per_day": 60.12
+    "engagement_rate": 0,
+    "avg_runs_per_day": 0.0,
+    "avg_views_per_day": 0.0
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 16,
+    "data_points": 17,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-01T08:00:25.084545",
+    "last_recorded": "2025-12-02T16:52:00.461129",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -45,7 +45,8 @@
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
         "2025-11-30T15:58:50.561480",
-        "2025-12-01T08:00:25.084545"
+        "2025-12-01T08:00:25.084545",
+        "2025-12-02T16:52:00.461129"
       ],
       "views": [
         1930,
@@ -63,7 +64,8 @@
         2021,
         2025,
         2044,
-        2044
+        2044,
+        0
       ],
       "runs": [
         58,
@@ -81,9 +83,11 @@
         43,
         26,
         26,
-        16
+        16,
+        0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -105,20 +109,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 12,
+    "days_tracked": 14,
     "total_growth": {
-      "views": 114,
-      "runs": -42,
+      "views": -1930,
+      "runs": -58,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 9.5,
-      "runs": -3.5,
+      "views": -137.86,
+      "runs": -4.14,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 5.91,
-      "runs": -72.41,
+      "views": -100.0,
+      "runs": -100.0,
       "saves": 0
     }
   },
@@ -127,16 +131,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 204,
-    "views_rank": 13,
-    "runs_rank": 37,
-    "views_percentile": 93.6,
-    "runs_percentile": 81.9,
+    "total_active_agents": 205,
+    "views_rank": 1,
+    "runs_rank": 1,
+    "views_percentile": 99.5,
+    "runs_percentile": 99.5,
     "category": "AI Agent",
-    "category_agent_count": 204,
+    "category_agent_count": 205,
     "vs_average": {
-      "views": 181.5,
-      "runs": -50.9,
+      "views": 0,
+      "runs": 0,
       "saves": 0
     }
   },
@@ -144,12 +148,12 @@
     {
       "type": "warning",
       "title": "Low Engagement Rate",
-      "description": "The engagement rate is 0.8%, which may indicate the agent description or value proposition could be improved."
+      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
     },
     {
       "type": "positive",
       "title": "Top Performer",
-      "description": "This agent ranks in the top 6% by views, placing it among the most popular agents."
+      "description": "This agent ranks in the top 0% by views, placing it among the most popular agents."
     }
   ]
 }

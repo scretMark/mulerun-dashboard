@@ -1,6 +1,6 @@
 {
   "agent_id": "29345d7d-b871-4f34-8ed9-66c8e995726a",
-  "generated_at": "2025-12-01T00:00:28.736763",
+  "generated_at": "2025-12-02T08:52:11.853862",
   "basic_info": {
     "title": "Can Kitty Eat",
     "author": "wujin",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-07T13:04:27.727000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@wujin/can-kitty-eat",
-    "days_since_published": 54
+    "days_since_published": 55
   },
   "performance_metrics": {
-    "views": 190,
-    "runs": 1,
+    "views": 0,
+    "runs": 0,
     "saves": 0,
-    "days_tracked": 54,
+    "days_tracked": 55,
     "price": 30.0,
-    "engagement_rate": 0.53,
-    "avg_runs_per_day": 0.02,
-    "avg_views_per_day": 3.52
+    "engagement_rate": 0,
+    "avg_runs_per_day": 0.0,
+    "avg_views_per_day": 0.0
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 15,
+    "data_points": 16,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-01T08:00:25.084545",
+    "last_recorded": "2025-12-02T16:52:00.461129",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -44,7 +44,8 @@
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
         "2025-11-30T15:58:50.561480",
-        "2025-12-01T08:00:25.084545"
+        "2025-12-01T08:00:25.084545",
+        "2025-12-02T16:52:00.461129"
       ],
       "views": [
         175,
@@ -61,7 +62,8 @@
         183,
         185,
         187,
-        190
+        190,
+        0
       ],
       "runs": [
         0,
@@ -78,9 +80,11 @@
         0,
         1,
         1,
-        1
+        1,
+        0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -101,19 +105,19 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 11,
+    "days_tracked": 13,
     "total_growth": {
-      "views": 15,
-      "runs": 1,
+      "views": -175,
+      "runs": 0,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 1.36,
-      "runs": 0.09,
+      "views": -13.46,
+      "runs": 0.0,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 8.57,
+      "views": -100.0,
       "runs": 0,
       "saves": 0
     }
@@ -123,16 +127,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 204,
-    "views_rank": 138,
-    "runs_rank": 92,
-    "views_percentile": 32.4,
-    "runs_percentile": 54.9,
+    "total_active_agents": 205,
+    "views_rank": 1,
+    "runs_rank": 1,
+    "views_percentile": 99.5,
+    "runs_percentile": 99.5,
     "category": "AI Agent",
-    "category_agent_count": 204,
+    "category_agent_count": 205,
     "vs_average": {
-      "views": -73.8,
-      "runs": -96.9,
+      "views": 0,
+      "runs": 0,
       "saves": 0
     }
   },
@@ -140,7 +144,12 @@
     {
       "type": "warning",
       "title": "Low Engagement Rate",
-      "description": "The engagement rate is 0.5%, which may indicate the agent description or value proposition could be improved."
+      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
+    },
+    {
+      "type": "positive",
+      "title": "Top Performer",
+      "description": "This agent ranks in the top 0% by views, placing it among the most popular agents."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "ab828ed6-bcea-4f0a-8c95-5348cd58c85a",
-  "generated_at": "2025-12-01T00:00:28.359916",
+  "generated_at": "2025-12-02T08:52:11.548837",
   "basic_info": {
     "title": "Text-to-speech",
     "author": "PicCopilot",
@@ -11,23 +11,23 @@
     "published_at": "2025-11-11T19:40:27.710000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/text-to-speech",
-    "days_since_published": 19
+    "days_since_published": 20
   },
   "performance_metrics": {
-    "views": 248,
-    "runs": 358,
+    "views": 0,
+    "runs": 0,
     "saves": 0,
-    "days_tracked": 19,
+    "days_tracked": 20,
     "price": 0.0,
-    "engagement_rate": 144.35,
-    "avg_runs_per_day": 18.84,
-    "avg_views_per_day": 13.05
+    "engagement_rate": 0,
+    "avg_runs_per_day": 0.0,
+    "avg_views_per_day": 0.0
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 15,
+    "data_points": 16,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-01T08:00:25.084545",
+    "last_recorded": "2025-12-02T16:52:00.461129",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -44,7 +44,8 @@
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
         "2025-11-30T15:58:50.561480",
-        "2025-12-01T08:00:25.084545"
+        "2025-12-01T08:00:25.084545",
+        "2025-12-02T16:52:00.461129"
       ],
       "views": [
         165,
@@ -61,7 +62,8 @@
         233,
         242,
         247,
-        248
+        248,
+        0
       ],
       "runs": [
         40,
@@ -78,9 +80,11 @@
         606,
         521,
         469,
-        358
+        358,
+        0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -101,20 +105,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 11,
+    "days_tracked": 13,
     "total_growth": {
-      "views": 83,
-      "runs": 318,
+      "views": -165,
+      "runs": -40,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 7.55,
-      "runs": 28.91,
+      "views": -12.69,
+      "runs": -3.08,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 50.3,
-      "runs": 795.0,
+      "views": -100.0,
+      "runs": -100.0,
       "saves": 0
     }
   },
@@ -123,29 +127,29 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 204,
-    "views_rank": 110,
-    "runs_rank": 10,
-    "views_percentile": 46.1,
-    "runs_percentile": 95.1,
+    "total_active_agents": 205,
+    "views_rank": 1,
+    "runs_rank": 1,
+    "views_percentile": 99.5,
+    "runs_percentile": 99.5,
     "category": "AI Agent",
-    "category_agent_count": 204,
+    "category_agent_count": 205,
     "vs_average": {
-      "views": -65.8,
-      "runs": 998.4,
+      "views": 0,
+      "runs": 0,
       "saves": 0
     }
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "High Engagement Rate",
-      "description": "This agent has an excellent 144.4% engagement rate (runs/views), significantly above average."
+      "type": "warning",
+      "title": "Low Engagement Rate",
+      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
     },
     {
       "type": "positive",
-      "title": "Active User Base",
-      "description": "Runs increased by 318, indicating growing adoption and active usage."
+      "title": "Top Performer",
+      "description": "This agent ranks in the top 0% by views, placing it among the most popular agents."
     }
   ]
 }

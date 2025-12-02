@@ -1,6 +1,6 @@
 {
   "agent_id": "ca8f87b0-cc33-4e29-563d-04031871e731",
-  "generated_at": "2025-12-01T00:00:27.236132",
+  "generated_at": "2025-12-02T08:52:12.047661",
   "basic_info": {
     "title": "Blender MCP AI Agent",
     "author": "Siddhartbbafa48",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-30T17:48:01.927000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Siddhartbbafa48/blender-mcp-ai-agent",
-    "days_since_published": 31
+    "days_since_published": 32
   },
   "performance_metrics": {
-    "views": 2272,
-    "runs": 4,
+    "views": 0,
+    "runs": 0,
     "saves": 0,
-    "days_tracked": 31,
+    "days_tracked": 32,
     "price": 2.0,
-    "engagement_rate": 0.18,
-    "avg_runs_per_day": 0.13,
-    "avg_views_per_day": 73.29
+    "engagement_rate": 0,
+    "avg_runs_per_day": 0.0,
+    "avg_views_per_day": 0.0
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 15,
+    "data_points": 16,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-01T08:00:25.084545",
+    "last_recorded": "2025-12-02T16:52:00.461129",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -44,7 +44,8 @@
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
         "2025-11-30T15:58:50.561480",
-        "2025-12-01T08:00:25.084545"
+        "2025-12-01T08:00:25.084545",
+        "2025-12-02T16:52:00.461129"
       ],
       "views": [
         2241,
@@ -61,7 +62,8 @@
         2269,
         2269,
         2272,
-        2272
+        2272,
+        0
       ],
       "runs": [
         3,
@@ -78,9 +80,11 @@
         11,
         7,
         6,
-        4
+        4,
+        0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -101,20 +105,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 11,
+    "days_tracked": 13,
     "total_growth": {
-      "views": 31,
-      "runs": 1,
+      "views": -2241,
+      "runs": -3,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 2.82,
-      "runs": 0.09,
+      "views": -172.38,
+      "runs": -0.23,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 1.38,
-      "runs": 33.33,
+      "views": -100.0,
+      "runs": -100.0,
       "saves": 0
     }
   },
@@ -123,16 +127,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 204,
-    "views_rank": 12,
-    "runs_rank": 69,
-    "views_percentile": 94.1,
-    "runs_percentile": 66.2,
+    "total_active_agents": 205,
+    "views_rank": 1,
+    "runs_rank": 1,
+    "views_percentile": 99.5,
+    "runs_percentile": 99.5,
     "category": "AI Agent",
-    "category_agent_count": 204,
+    "category_agent_count": 205,
     "vs_average": {
-      "views": 213.0,
-      "runs": -87.7,
+      "views": 0,
+      "runs": 0,
       "saves": 0
     }
   },
@@ -140,12 +144,12 @@
     {
       "type": "warning",
       "title": "Low Engagement Rate",
-      "description": "The engagement rate is 0.2%, which may indicate the agent description or value proposition could be improved."
+      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
     },
     {
       "type": "positive",
       "title": "Top Performer",
-      "description": "This agent ranks in the top 6% by views, placing it among the most popular agents."
+      "description": "This agent ranks in the top 0% by views, placing it among the most popular agents."
     }
   ]
 }

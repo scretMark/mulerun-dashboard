@@ -1,6 +1,6 @@
 {
   "agent_id": "ca5710ab-c6da-4201-9221-b596b53f9857",
-  "generated_at": "2025-12-01T00:00:28.774462",
+  "generated_at": "2025-12-02T08:52:11.880477",
   "basic_info": {
     "title": "Ink Wash Painting",
     "author": "Darren",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-20T11:31:54.304000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/ink-wash-painting",
-    "days_since_published": 41
+    "days_since_published": 42
   },
   "performance_metrics": {
-    "views": 182,
-    "runs": 2,
+    "views": 0,
+    "runs": 0,
     "saves": 0,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "price": 51.0,
-    "engagement_rate": 1.1,
-    "avg_runs_per_day": 0.05,
-    "avg_views_per_day": 4.44
+    "engagement_rate": 0,
+    "avg_runs_per_day": 0.0,
+    "avg_views_per_day": 0.0
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 15,
+    "data_points": 16,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-01T08:00:25.084545",
+    "last_recorded": "2025-12-02T16:52:00.461129",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -44,7 +44,8 @@
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
         "2025-11-30T15:58:50.561480",
-        "2025-12-01T08:00:25.084545"
+        "2025-12-01T08:00:25.084545",
+        "2025-12-02T16:52:00.461129"
       ],
       "views": [
         169,
@@ -61,7 +62,8 @@
         180,
         180,
         182,
-        182
+        182,
+        0
       ],
       "runs": [
         0,
@@ -78,9 +80,11 @@
         2,
         2,
         2,
-        2
+        2,
+        0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -101,19 +105,19 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 11,
+    "days_tracked": 13,
     "total_growth": {
-      "views": 13,
-      "runs": 2,
+      "views": -169,
+      "runs": 0,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 1.18,
-      "runs": 0.18,
+      "views": -13.0,
+      "runs": 0.0,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 7.69,
+      "views": -100.0,
       "runs": 0,
       "saves": 0
     }
@@ -123,16 +127,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 204,
-    "views_rank": 141,
-    "runs_rank": 80,
-    "views_percentile": 30.9,
-    "runs_percentile": 60.8,
+    "total_active_agents": 205,
+    "views_rank": 1,
+    "runs_rank": 1,
+    "views_percentile": 99.5,
+    "runs_percentile": 99.5,
     "category": "AI Agent",
-    "category_agent_count": 204,
+    "category_agent_count": 205,
     "vs_average": {
-      "views": -74.9,
-      "runs": -93.9,
+      "views": 0,
+      "runs": 0,
       "saves": 0
     }
   },
@@ -140,7 +144,12 @@
     {
       "type": "warning",
       "title": "Low Engagement Rate",
-      "description": "The engagement rate is 1.1%, which may indicate the agent description or value proposition could be improved."
+      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
+    },
+    {
+      "type": "positive",
+      "title": "Top Performer",
+      "description": "This agent ranks in the top 0% by views, placing it among the most popular agents."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "07e3b5f7-4548-4fbd-8819-ae715b03de6b",
-  "generated_at": "2025-12-01T00:00:27.508763",
+  "generated_at": "2025-12-02T08:52:11.166481",
   "basic_info": {
     "title": "AI & SaaS Leads Reddit Hunter",
     "author": "bingganbbb14c6",
@@ -11,23 +11,23 @@
     "published_at": "2025-08-22T15:04:47.629000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@bingganbbb14c6/ai-saas-leads-reddit-hunter",
-    "days_since_published": 100
+    "days_since_published": 101
   },
   "performance_metrics": {
-    "views": 932,
+    "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 100,
+    "days_tracked": 101,
     "price": 1.0,
-    "engagement_rate": 0.0,
+    "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
-    "avg_views_per_day": 9.32
+    "avg_views_per_day": 0.0
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 15,
+    "data_points": 16,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-01T08:00:25.084545",
+    "last_recorded": "2025-12-02T16:52:00.461129",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -44,7 +44,8 @@
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
         "2025-11-30T15:58:50.561480",
-        "2025-12-01T08:00:25.084545"
+        "2025-12-01T08:00:25.084545",
+        "2025-12-02T16:52:00.461129"
       ],
       "views": [
         915,
@@ -61,7 +62,8 @@
         928,
         929,
         932,
-        932
+        932,
+        0
       ],
       "runs": [
         1,
@@ -78,9 +80,11 @@
         2,
         0,
         0,
+        0,
         0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -101,19 +105,19 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 11,
+    "days_tracked": 13,
     "total_growth": {
-      "views": 17,
+      "views": -915,
       "runs": -1,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 1.55,
-      "runs": -0.09,
+      "views": -70.38,
+      "runs": -0.08,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 1.86,
+      "views": -100.0,
       "runs": -100.0,
       "saves": 0
     }
@@ -123,16 +127,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 204,
-    "views_rank": 39,
-    "runs_rank": 123,
-    "views_percentile": 80.9,
-    "runs_percentile": 39.7,
+    "total_active_agents": 205,
+    "views_rank": 1,
+    "runs_rank": 1,
+    "views_percentile": 99.5,
+    "runs_percentile": 99.5,
     "category": "AI Agent",
-    "category_agent_count": 204,
+    "category_agent_count": 205,
     "vs_average": {
-      "views": 28.4,
-      "runs": -100.0,
+      "views": 0,
+      "runs": 0,
       "saves": 0
     }
   },
@@ -145,7 +149,7 @@
     {
       "type": "positive",
       "title": "Top Performer",
-      "description": "This agent ranks in the top 19% by views, placing it among the most popular agents."
+      "description": "This agent ranks in the top 0% by views, placing it among the most popular agents."
     }
   ]
 }

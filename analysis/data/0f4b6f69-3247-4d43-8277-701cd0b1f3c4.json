@@ -1,6 +1,6 @@
 {
   "agent_id": "0f4b6f69-3247-4d43-8277-701cd0b1f3c4",
-  "generated_at": "2025-12-01T00:00:27.205251",
+  "generated_at": "2025-12-02T08:52:11.458463",
   "basic_info": {
     "title": "ResumePic for LinkedIn",
     "author": "Zane29222",
@@ -11,23 +11,23 @@
     "published_at": "2025-11-03T21:58:06.997000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Zane29222/resumepic-for-linkedin",
-    "days_since_published": 27
+    "days_since_published": 28
   },
   "performance_metrics": {
-    "views": 3010,
-    "runs": 63,
+    "views": 0,
+    "runs": 0,
     "saves": 0,
-    "days_tracked": 27,
+    "days_tracked": 28,
     "price": 50.0,
-    "engagement_rate": 2.09,
-    "avg_runs_per_day": 2.33,
-    "avg_views_per_day": 111.48
+    "engagement_rate": 0,
+    "avg_runs_per_day": 0.0,
+    "avg_views_per_day": 0.0
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 16,
+    "data_points": 17,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-01T08:00:25.084545",
+    "last_recorded": "2025-12-02T16:52:00.461129",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -45,7 +45,8 @@
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
         "2025-11-30T15:58:50.561480",
-        "2025-12-01T08:00:25.084545"
+        "2025-12-01T08:00:25.084545",
+        "2025-12-02T16:52:00.461129"
       ],
       "views": [
         2797,
@@ -63,7 +64,8 @@
         2955,
         2967,
         3001,
-        3010
+        3010,
+        0
       ],
       "runs": [
         56,
@@ -81,9 +83,11 @@
         80,
         64,
         63,
-        63
+        63,
+        0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -105,20 +109,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 12,
+    "days_tracked": 14,
     "total_growth": {
-      "views": 213,
-      "runs": 7,
+      "views": -2797,
+      "runs": -56,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 17.75,
-      "runs": 0.58,
+      "views": -199.79,
+      "runs": -4.0,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 7.62,
-      "runs": 12.5,
+      "views": -100.0,
+      "runs": -100.0,
       "saves": 0
     }
   },
@@ -127,24 +131,29 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 204,
-    "views_rank": 9,
-    "runs_rank": 22,
-    "views_percentile": 95.6,
-    "runs_percentile": 89.2,
+    "total_active_agents": 205,
+    "views_rank": 1,
+    "runs_rank": 1,
+    "views_percentile": 99.5,
+    "runs_percentile": 99.5,
     "category": "AI Agent",
-    "category_agent_count": 204,
+    "category_agent_count": 205,
     "vs_average": {
-      "views": 314.6,
-      "runs": 93.3,
+      "views": 0,
+      "runs": 0,
       "saves": 0
     }
   },
   "insights": [
     {
+      "type": "warning",
+      "title": "Low Engagement Rate",
+      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
+    },
+    {
       "type": "positive",
       "title": "Top Performer",
-      "description": "This agent ranks in the top 4% by views, placing it among the most popular agents."
+      "description": "This agent ranks in the top 0% by views, placing it among the most popular agents."
     }
   ]
 }

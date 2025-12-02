@@ -1,6 +1,6 @@
 {
   "agent_id": "924751e0-196e-4b22-bdbd-f0a9ac6a4e39",
-  "generated_at": "2025-12-01T00:00:27.124580",
+  "generated_at": "2025-12-02T08:52:11.396660",
   "basic_info": {
     "title": "Equity Investment Research ",
     "author": "FundaAI",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-30T17:49:56.152000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@FundaAI/equity-investment-research",
-    "days_since_published": 31
+    "days_since_published": 32
   },
   "performance_metrics": {
-    "views": 7460,
-    "runs": 151,
+    "views": 0,
+    "runs": 0,
     "saves": 0,
-    "days_tracked": 31,
+    "days_tracked": 32,
     "price": 0.0,
-    "engagement_rate": 2.02,
-    "avg_runs_per_day": 4.87,
-    "avg_views_per_day": 240.65
+    "engagement_rate": 0,
+    "avg_runs_per_day": 0.0,
+    "avg_views_per_day": 0.0
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 16,
+    "data_points": 17,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-01T08:00:25.084545",
+    "last_recorded": "2025-12-02T16:52:00.461129",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -45,7 +45,8 @@
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
         "2025-11-30T15:58:50.561480",
-        "2025-12-01T08:00:25.084545"
+        "2025-12-01T08:00:25.084545",
+        "2025-12-02T16:52:00.461129"
       ],
       "views": [
         7279,
@@ -63,7 +64,8 @@
         7413,
         7426,
         7448,
-        7460
+        7460,
+        0
       ],
       "runs": [
         88,
@@ -81,9 +83,11 @@
         298,
         133,
         162,
-        151
+        151,
+        0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -105,20 +109,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 12,
+    "days_tracked": 14,
     "total_growth": {
-      "views": 181,
-      "runs": 63,
+      "views": -7279,
+      "runs": -88,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 15.08,
-      "runs": 5.25,
+      "views": -519.93,
+      "runs": -6.29,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 2.49,
-      "runs": 71.59,
+      "views": -100.0,
+      "runs": -100.0,
       "saves": 0
     }
   },
@@ -127,24 +131,29 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 204,
-    "views_rank": 2,
-    "runs_rank": 17,
-    "views_percentile": 99.0,
-    "runs_percentile": 91.7,
+    "total_active_agents": 205,
+    "views_rank": 1,
+    "runs_rank": 1,
+    "views_percentile": 99.5,
+    "runs_percentile": 99.5,
     "category": "AI Agent",
-    "category_agent_count": 204,
+    "category_agent_count": 205,
     "vs_average": {
-      "views": 927.6,
-      "runs": 363.3,
+      "views": 0,
+      "runs": 0,
       "saves": 0
     }
   },
   "insights": [
     {
+      "type": "warning",
+      "title": "Low Engagement Rate",
+      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
+    },
+    {
       "type": "positive",
       "title": "Top Performer",
-      "description": "This agent ranks in the top 1% by views, placing it among the most popular agents."
+      "description": "This agent ranks in the top 0% by views, placing it among the most popular agents."
     }
   ]
 }

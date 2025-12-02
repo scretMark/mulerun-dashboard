@@ -1,6 +1,6 @@
 {
   "agent_id": "b18c7e0e-462d-4904-857f-e9bf4658e7c9",
-  "generated_at": "2025-12-01T00:00:27.312231",
+  "generated_at": "2025-12-02T08:52:11.576460",
   "basic_info": {
     "title": "Me And My Mini-Me",
     "author": "YuTou_baby",
@@ -11,23 +11,23 @@
     "published_at": "2025-09-19T20:13:16.719000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@YuTou_baby/me-and-my-mini-me",
-    "days_since_published": 72
+    "days_since_published": 73
   },
   "performance_metrics": {
-    "views": 1749,
-    "runs": 7,
+    "views": 0,
+    "runs": 0,
     "saves": 0,
-    "days_tracked": 72,
+    "days_tracked": 73,
     "price": 50.0,
-    "engagement_rate": 0.4,
-    "avg_runs_per_day": 0.1,
-    "avg_views_per_day": 24.29
+    "engagement_rate": 0,
+    "avg_runs_per_day": 0.0,
+    "avg_views_per_day": 0.0
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 15,
+    "data_points": 16,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-01T08:00:25.084545",
+    "last_recorded": "2025-12-02T16:52:00.461129",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -44,7 +44,8 @@
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
         "2025-11-30T15:58:50.561480",
-        "2025-12-01T08:00:25.084545"
+        "2025-12-01T08:00:25.084545",
+        "2025-12-02T16:52:00.461129"
       ],
       "views": [
         1715,
@@ -61,7 +62,8 @@
         1734,
         1739,
         1748,
-        1749
+        1749,
+        0
       ],
       "runs": [
         34,
@@ -78,9 +80,11 @@
         176,
         14,
         13,
-        7
+        7,
+        0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -101,20 +105,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 11,
+    "days_tracked": 13,
     "total_growth": {
-      "views": 34,
-      "runs": -27,
+      "views": -1715,
+      "runs": -34,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 3.09,
-      "runs": -2.45,
+      "views": -131.92,
+      "runs": -2.62,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 1.98,
-      "runs": -79.41,
+      "views": -100.0,
+      "runs": -100.0,
       "saves": 0
     }
   },
@@ -123,16 +127,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 204,
-    "views_rank": 20,
-    "runs_rank": 54,
-    "views_percentile": 90.2,
-    "runs_percentile": 73.5,
+    "total_active_agents": 205,
+    "views_rank": 1,
+    "runs_rank": 1,
+    "views_percentile": 99.5,
+    "runs_percentile": 99.5,
     "category": "AI Agent",
-    "category_agent_count": 204,
+    "category_agent_count": 205,
     "vs_average": {
-      "views": 140.9,
-      "runs": -78.5,
+      "views": 0,
+      "runs": 0,
       "saves": 0
     }
   },
@@ -140,12 +144,12 @@
     {
       "type": "warning",
       "title": "Low Engagement Rate",
-      "description": "The engagement rate is 0.4%, which may indicate the agent description or value proposition could be improved."
+      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
     },
     {
       "type": "positive",
       "title": "Top Performer",
-      "description": "This agent ranks in the top 10% by views, placing it among the most popular agents."
+      "description": "This agent ranks in the top 0% by views, placing it among the most popular agents."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "01045f00-c02f-46eb-951b-8752bb5a6f12",
-  "generated_at": "2025-12-01T00:00:27.779614",
+  "generated_at": "2025-12-02T08:52:11.387628",
   "basic_info": {
     "title": "Youtube Awesome Thumbnail",
     "author": "summerail",
@@ -11,23 +11,23 @@
     "published_at": "2025-11-10T09:52:30.048000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/youtube-awesome-thumbnail",
-    "days_since_published": 20
+    "days_since_published": 21
   },
   "performance_metrics": {
-    "views": 630,
-    "runs": 90,
+    "views": 0,
+    "runs": 0,
     "saves": 0,
-    "days_tracked": 20,
+    "days_tracked": 21,
     "price": 0.0,
-    "engagement_rate": 14.29,
-    "avg_runs_per_day": 4.5,
-    "avg_views_per_day": 31.5
+    "engagement_rate": 0,
+    "avg_runs_per_day": 0.0,
+    "avg_views_per_day": 0.0
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 16,
+    "data_points": 17,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-01T08:00:25.084545",
+    "last_recorded": "2025-12-02T16:52:00.461129",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -45,7 +45,8 @@
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
         "2025-11-30T15:58:50.561480",
-        "2025-12-01T08:00:25.084545"
+        "2025-12-01T08:00:25.084545",
+        "2025-12-02T16:52:00.461129"
       ],
       "views": [
         340,
@@ -63,7 +64,8 @@
         542,
         567,
         616,
-        630
+        630,
+        0
       ],
       "runs": [
         90,
@@ -81,9 +83,11 @@
         427,
         230,
         111,
-        90
+        90,
+        0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -105,20 +109,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 12,
+    "days_tracked": 14,
     "total_growth": {
-      "views": 290,
-      "runs": 0,
+      "views": -340,
+      "runs": -90,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 24.17,
-      "runs": 0.0,
+      "views": -24.29,
+      "runs": -6.43,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 85.29,
-      "runs": 0.0,
+      "views": -100.0,
+      "runs": -100.0,
       "saves": 0
     }
   },
@@ -127,24 +131,29 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 204,
-    "views_rank": 62,
-    "runs_rank": 18,
-    "views_percentile": 69.6,
-    "runs_percentile": 91.2,
+    "total_active_agents": 205,
+    "views_rank": 1,
+    "runs_rank": 1,
+    "views_percentile": 99.5,
+    "runs_percentile": 99.5,
     "category": "AI Agent",
-    "category_agent_count": 204,
+    "category_agent_count": 205,
     "vs_average": {
-      "views": -13.2,
-      "runs": 176.1,
+      "views": 0,
+      "runs": 0,
       "saves": 0
     }
   },
   "insights": [
     {
+      "type": "warning",
+      "title": "Low Engagement Rate",
+      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
+    },
+    {
       "type": "positive",
-      "title": "High Engagement Rate",
-      "description": "This agent has an excellent 14.3% engagement rate (runs/views), significantly above average."
+      "title": "Top Performer",
+      "description": "This agent ranks in the top 0% by views, placing it among the most popular agents."
     }
   ]
 }

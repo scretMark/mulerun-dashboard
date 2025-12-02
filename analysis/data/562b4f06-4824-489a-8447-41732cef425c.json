@@ -1,6 +1,6 @@
 {
   "agent_id": "562b4f06-4824-489a-8447-41732cef425c",
-  "generated_at": "2025-12-01T00:00:27.887287",
+  "generated_at": "2025-12-02T08:52:11.705920",
   "basic_info": {
     "title": "Mockup Studio",
     "author": "DENNIS",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-10T18:50:43.786000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@DENNIS/mockup-studio",
-    "days_since_published": 51
+    "days_since_published": 52
   },
   "performance_metrics": {
-    "views": 528,
-    "runs": 3,
+    "views": 0,
+    "runs": 0,
     "saves": 0,
-    "days_tracked": 51,
+    "days_tracked": 52,
     "price": 200.0,
-    "engagement_rate": 0.57,
-    "avg_runs_per_day": 0.06,
-    "avg_views_per_day": 10.35
+    "engagement_rate": 0,
+    "avg_runs_per_day": 0.0,
+    "avg_views_per_day": 0.0
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 15,
+    "data_points": 16,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-01T08:00:25.084545",
+    "last_recorded": "2025-12-02T16:52:00.461129",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -44,7 +44,8 @@
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
         "2025-11-30T15:58:50.561480",
-        "2025-12-01T08:00:25.084545"
+        "2025-12-01T08:00:25.084545",
+        "2025-12-02T16:52:00.461129"
       ],
       "views": [
         459,
@@ -61,7 +62,8 @@
         524,
         525,
         528,
-        528
+        528,
+        0
       ],
       "runs": [
         13,
@@ -78,9 +80,11 @@
         7,
         5,
         5,
-        3
+        3,
+        0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -101,20 +105,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 11,
+    "days_tracked": 13,
     "total_growth": {
-      "views": 69,
-      "runs": -10,
+      "views": -459,
+      "runs": -13,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 6.27,
-      "runs": -0.91,
+      "views": -35.31,
+      "runs": -1.0,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 15.03,
-      "runs": -76.92,
+      "views": -100.0,
+      "runs": -100.0,
       "saves": 0
     }
   },
@@ -123,16 +127,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 204,
-    "views_rank": 71,
-    "runs_rank": 74,
-    "views_percentile": 65.2,
-    "runs_percentile": 63.7,
+    "total_active_agents": 205,
+    "views_rank": 1,
+    "runs_rank": 1,
+    "views_percentile": 99.5,
+    "runs_percentile": 99.5,
     "category": "AI Agent",
-    "category_agent_count": 204,
+    "category_agent_count": 205,
     "vs_average": {
-      "views": -27.3,
-      "runs": -90.8,
+      "views": 0,
+      "runs": 0,
       "saves": 0
     }
   },
@@ -140,7 +144,12 @@
     {
       "type": "warning",
       "title": "Low Engagement Rate",
-      "description": "The engagement rate is 0.6%, which may indicate the agent description or value proposition could be improved."
+      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
+    },
+    {
+      "type": "positive",
+      "title": "Top Performer",
+      "description": "This agent ranks in the top 0% by views, placing it among the most popular agents."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "8ecf0316-7c0a-40c3-8095-83b57d32ed7c",
-  "generated_at": "2025-12-01T00:00:29.521460",
+  "generated_at": "2025-12-02T08:52:12.218687",
   "basic_info": {
     "title": "Historical place visualizer",
     "author": "Bhola",
@@ -11,23 +11,23 @@
     "published_at": "2025-11-24T13:53:45.229000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Bhola/historical-place-visualizer",
-    "days_since_published": 6
+    "days_since_published": 7
   },
   "performance_metrics": {
-    "views": 29,
-    "runs": 20,
+    "views": 0,
+    "runs": 0,
     "saves": 0,
-    "days_tracked": 6,
+    "days_tracked": 7,
     "price": 29.0,
-    "engagement_rate": 68.97,
-    "avg_runs_per_day": 3.33,
-    "avg_views_per_day": 4.83
+    "engagement_rate": 0,
+    "avg_runs_per_day": 0.0,
+    "avg_views_per_day": 0.0
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 6,
+    "data_points": 7,
     "first_recorded": "2025-11-26T08:00:32.046352",
-    "last_recorded": "2025-12-01T08:00:25.084545",
+    "last_recorded": "2025-12-02T16:52:00.461129",
     "time_series": {
       "dates": [
         "2025-11-26T08:00:32.046352",
@@ -35,7 +35,8 @@
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
         "2025-11-30T15:58:50.561480",
-        "2025-12-01T08:00:25.084545"
+        "2025-12-01T08:00:25.084545",
+        "2025-12-02T16:52:00.461129"
       ],
       "views": [
         23,
@@ -43,7 +44,8 @@
         25,
         25,
         29,
-        29
+        29,
+        0
       ],
       "runs": [
         24,
@@ -51,9 +53,11 @@
         24,
         25,
         25,
-        20
+        20,
+        0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -65,20 +69,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 4,
+    "days_tracked": 6,
     "total_growth": {
-      "views": 6,
-      "runs": -4,
+      "views": -23,
+      "runs": -24,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 1.5,
-      "runs": -1.0,
+      "views": -3.83,
+      "runs": -4.0,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 26.09,
-      "runs": -16.67,
+      "views": -100.0,
+      "runs": -100.0,
       "saves": 0
     }
   },
@@ -94,24 +98,29 @@
     ]
   },
   "market_position": {
-    "total_active_agents": 204,
-    "views_rank": 202,
-    "runs_rank": 29,
-    "views_percentile": 1.0,
-    "runs_percentile": 85.8,
+    "total_active_agents": 205,
+    "views_rank": 1,
+    "runs_rank": 1,
+    "views_percentile": 99.5,
+    "runs_percentile": 99.5,
     "category": "AI Agent",
-    "category_agent_count": 204,
+    "category_agent_count": 205,
     "vs_average": {
-      "views": -96.0,
-      "runs": -38.6,
+      "views": 0,
+      "runs": 0,
       "saves": 0
     }
   },
   "insights": [
     {
+      "type": "warning",
+      "title": "Low Engagement Rate",
+      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
+    },
+    {
       "type": "positive",
-      "title": "High Engagement Rate",
-      "description": "This agent has an excellent 69.0% engagement rate (runs/views), significantly above average."
+      "title": "Top Performer",
+      "description": "This agent ranks in the top 0% by views, placing it among the most popular agents."
     }
   ]
 }

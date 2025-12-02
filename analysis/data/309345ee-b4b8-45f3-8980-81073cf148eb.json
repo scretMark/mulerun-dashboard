@@ -1,6 +1,6 @@
 {
   "agent_id": "309345ee-b4b8-45f3-8980-81073cf148eb",
-  "generated_at": "2025-12-01T00:00:29.485526",
+  "generated_at": "2025-12-02T08:52:11.640334",
   "basic_info": {
     "title": "Studio Portrait",
     "author": "Norsizu",
@@ -11,23 +11,23 @@
     "published_at": "2025-11-12T23:21:17.162000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/studio-portrait",
-    "days_since_published": 18
+    "days_since_published": 19
   },
   "performance_metrics": {
-    "views": 49,
-    "runs": 1,
+    "views": 0,
+    "runs": 0,
     "saves": 0,
-    "days_tracked": 18,
+    "days_tracked": 19,
     "price": 50.0,
-    "engagement_rate": 2.04,
-    "avg_runs_per_day": 0.06,
-    "avg_views_per_day": 2.72
+    "engagement_rate": 0,
+    "avg_runs_per_day": 0.0,
+    "avg_views_per_day": 0.0
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 15,
+    "data_points": 16,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-01T08:00:25.084545",
+    "last_recorded": "2025-12-02T16:52:00.461129",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -44,7 +44,8 @@
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
         "2025-11-30T15:58:50.561480",
-        "2025-12-01T08:00:25.084545"
+        "2025-12-01T08:00:25.084545",
+        "2025-12-02T16:52:00.461129"
       ],
       "views": [
         33,
@@ -61,7 +62,8 @@
         43,
         43,
         49,
-        49
+        49,
+        0
       ],
       "runs": [
         21,
@@ -78,9 +80,11 @@
         3,
         3,
         2,
-        1
+        1,
+        0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -101,20 +105,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 11,
+    "days_tracked": 13,
     "total_growth": {
-      "views": 16,
-      "runs": -20,
+      "views": -33,
+      "runs": -21,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 1.45,
-      "runs": -1.82,
+      "views": -2.54,
+      "runs": -1.62,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 48.48,
-      "runs": -95.24,
+      "views": -100.0,
+      "runs": -100.0,
       "saves": 0
     }
   },
@@ -123,18 +127,29 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 204,
-    "views_rank": 199,
-    "runs_rank": 92,
-    "views_percentile": 2.5,
-    "runs_percentile": 54.9,
+    "total_active_agents": 205,
+    "views_rank": 1,
+    "runs_rank": 1,
+    "views_percentile": 99.5,
+    "runs_percentile": 99.5,
     "category": "AI Agent",
-    "category_agent_count": 204,
+    "category_agent_count": 205,
     "vs_average": {
-      "views": -93.3,
-      "runs": -96.9,
+      "views": 0,
+      "runs": 0,
       "saves": 0
     }
   },
-  "insights": []
+  "insights": [
+    {
+      "type": "warning",
+      "title": "Low Engagement Rate",
+      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
+    },
+    {
+      "type": "positive",
+      "title": "Top Performer",
+      "description": "This agent ranks in the top 0% by views, placing it among the most popular agents."
+    }
+  ]
 }

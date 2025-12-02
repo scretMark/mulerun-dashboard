@@ -1,6 +1,6 @@
 {
   "agent_id": "ca8f87b0-cc33-4e18-973d-04031871e731",
-  "generated_at": "2025-12-01T00:00:27.136111",
+  "generated_at": "2025-12-02T08:52:11.415185",
   "basic_info": {
     "title": "General Browser Operator",
     "author": "Ailurus",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-31T13:30:41.517000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Ailurus/general-browser-operator",
-    "days_since_published": 30
+    "days_since_published": 31
   },
   "performance_metrics": {
-    "views": 6682,
-    "runs": 186,
+    "views": 0,
+    "runs": 0,
     "saves": 0,
-    "days_tracked": 30,
+    "days_tracked": 31,
     "price": 1.0,
-    "engagement_rate": 2.78,
-    "avg_runs_per_day": 6.2,
-    "avg_views_per_day": 222.73
+    "engagement_rate": 0,
+    "avg_runs_per_day": 0.0,
+    "avg_views_per_day": 0.0
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 16,
+    "data_points": 17,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-01T08:00:25.084545",
+    "last_recorded": "2025-12-02T16:52:00.461129",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -45,7 +45,8 @@
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
         "2025-11-30T15:58:50.561480",
-        "2025-12-01T08:00:25.084545"
+        "2025-12-01T08:00:25.084545",
+        "2025-12-02T16:52:00.461129"
       ],
       "views": [
         6135,
@@ -63,7 +64,8 @@
         6492,
         6554,
         6661,
-        6682
+        6682,
+        0
       ],
       "runs": [
         80,
@@ -81,9 +83,11 @@
         129,
         157,
         196,
-        186
+        186,
+        0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -105,20 +109,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 12,
+    "days_tracked": 14,
     "total_growth": {
-      "views": 547,
-      "runs": 106,
+      "views": -6135,
+      "runs": -80,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 45.58,
-      "runs": 8.83,
+      "views": -438.21,
+      "runs": -5.71,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 8.92,
-      "runs": 132.5,
+      "views": -100.0,
+      "runs": -100.0,
       "saves": 0
     }
   },
@@ -127,29 +131,29 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 204,
-    "views_rank": 3,
-    "runs_rank": 15,
-    "views_percentile": 98.5,
-    "runs_percentile": 92.6,
+    "total_active_agents": 205,
+    "views_rank": 1,
+    "runs_rank": 1,
+    "views_percentile": 99.5,
+    "runs_percentile": 99.5,
     "category": "AI Agent",
-    "category_agent_count": 204,
+    "category_agent_count": 205,
     "vs_average": {
-      "views": 820.4,
-      "runs": 470.7,
+      "views": 0,
+      "runs": 0,
       "saves": 0
     }
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "Active User Base",
-      "description": "Runs increased by 106, indicating growing adoption and active usage."
+      "type": "warning",
+      "title": "Low Engagement Rate",
+      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
     },
     {
       "type": "positive",
       "title": "Top Performer",
-      "description": "This agent ranks in the top 2% by views, placing it among the most popular agents."
+      "description": "This agent ranks in the top 0% by views, placing it among the most popular agents."
     }
   ]
 }

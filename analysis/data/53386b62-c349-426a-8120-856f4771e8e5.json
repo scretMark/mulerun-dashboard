@@ -1,6 +1,6 @@
 {
   "agent_id": "53386b62-c349-426a-8120-856f4771e8e5",
-  "generated_at": "2025-12-01T00:00:29.180105",
+  "generated_at": "2025-12-02T08:52:11.828036",
   "basic_info": {
     "title": "Multi-style Portrait Studio",
     "author": "AFei_AITalk",
@@ -11,23 +11,23 @@
     "published_at": "2025-11-10T17:34:54.782000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AFei_AITalk/multi-style-portrait-studio",
-    "days_since_published": 20
+    "days_since_published": 21
   },
   "performance_metrics": {
-    "views": 115,
-    "runs": 17,
+    "views": 0,
+    "runs": 0,
     "saves": 0,
-    "days_tracked": 20,
+    "days_tracked": 21,
     "price": 45.0,
-    "engagement_rate": 14.78,
-    "avg_runs_per_day": 0.85,
-    "avg_views_per_day": 5.75
+    "engagement_rate": 0,
+    "avg_runs_per_day": 0.0,
+    "avg_views_per_day": 0.0
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 15,
+    "data_points": 16,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-01T08:00:25.084545",
+    "last_recorded": "2025-12-02T16:52:00.461129",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -44,7 +44,8 @@
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
         "2025-11-30T15:58:50.561480",
-        "2025-12-01T08:00:25.084545"
+        "2025-12-01T08:00:25.084545",
+        "2025-12-02T16:52:00.461129"
       ],
       "views": [
         96,
@@ -61,7 +62,8 @@
         109,
         109,
         115,
-        115
+        115,
+        0
       ],
       "runs": [
         8,
@@ -78,9 +80,11 @@
         32,
         32,
         30,
-        17
+        17,
+        0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -101,20 +105,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 11,
+    "days_tracked": 13,
     "total_growth": {
-      "views": 19,
-      "runs": 9,
+      "views": -96,
+      "runs": -8,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 1.73,
-      "runs": 0.82,
+      "views": -7.38,
+      "runs": -0.62,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 19.79,
-      "runs": 112.5,
+      "views": -100.0,
+      "runs": -100.0,
       "saves": 0
     }
   },
@@ -123,24 +127,29 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 204,
-    "views_rank": 174,
-    "runs_rank": 34,
-    "views_percentile": 14.7,
-    "runs_percentile": 83.3,
+    "total_active_agents": 205,
+    "views_rank": 1,
+    "runs_rank": 1,
+    "views_percentile": 99.5,
+    "runs_percentile": 99.5,
     "category": "AI Agent",
-    "category_agent_count": 204,
+    "category_agent_count": 205,
     "vs_average": {
-      "views": -84.2,
-      "runs": -47.8,
+      "views": 0,
+      "runs": 0,
       "saves": 0
     }
   },
   "insights": [
     {
+      "type": "warning",
+      "title": "Low Engagement Rate",
+      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
+    },
+    {
       "type": "positive",
-      "title": "High Engagement Rate",
-      "description": "This agent has an excellent 14.8% engagement rate (runs/views), significantly above average."
+      "title": "Top Performer",
+      "description": "This agent ranks in the top 0% by views, placing it among the most popular agents."
     }
   ]
 }

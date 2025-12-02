@@ -1,6 +1,6 @@
 {
   "agent_id": "82428895-e64f-4339-ba9f-1ac174b2bb4a",
-  "generated_at": "2025-12-01T00:00:27.193671",
+  "generated_at": "2025-12-02T08:52:11.423635",
   "basic_info": {
     "title": "Chibi Sticker Maker",
     "author": "laughing_code",
@@ -11,23 +11,23 @@
     "published_at": "2025-09-28T14:39:41.704000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@laughing_code/chibi-sticker-maker",
-    "days_since_published": 63
+    "days_since_published": 64
   },
   "performance_metrics": {
-    "views": 3630,
-    "runs": 42,
+    "views": 0,
+    "runs": 0,
     "saves": 0,
-    "days_tracked": 63,
+    "days_tracked": 64,
     "price": 50.0,
-    "engagement_rate": 1.16,
-    "avg_runs_per_day": 0.67,
-    "avg_views_per_day": 57.62
+    "engagement_rate": 0,
+    "avg_runs_per_day": 0.0,
+    "avg_views_per_day": 0.0
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 16,
+    "data_points": 17,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-01T08:00:25.084545",
+    "last_recorded": "2025-12-02T16:52:00.461129",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -45,7 +45,8 @@
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
         "2025-11-30T15:58:50.561480",
-        "2025-12-01T08:00:25.084545"
+        "2025-12-01T08:00:25.084545",
+        "2025-12-02T16:52:00.461129"
       ],
       "views": [
         3480,
@@ -63,7 +64,8 @@
         3621,
         3626,
         3630,
-        3630
+        3630,
+        0
       ],
       "runs": [
         68,
@@ -81,9 +83,11 @@
         68,
         63,
         56,
-        42
+        42,
+        0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -105,20 +109,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 12,
+    "days_tracked": 14,
     "total_growth": {
-      "views": 150,
-      "runs": -26,
+      "views": -3480,
+      "runs": -68,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 12.5,
-      "runs": -2.17,
+      "views": -248.57,
+      "runs": -4.86,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 4.31,
-      "runs": -38.24,
+      "views": -100.0,
+      "runs": -100.0,
       "saves": 0
     }
   },
@@ -127,16 +131,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 204,
-    "views_rank": 8,
-    "runs_rank": 25,
-    "views_percentile": 96.1,
-    "runs_percentile": 87.7,
+    "total_active_agents": 205,
+    "views_rank": 1,
+    "runs_rank": 1,
+    "views_percentile": 99.5,
+    "runs_percentile": 99.5,
     "category": "AI Agent",
-    "category_agent_count": 204,
+    "category_agent_count": 205,
     "vs_average": {
-      "views": 400.0,
-      "runs": 28.9,
+      "views": 0,
+      "runs": 0,
       "saves": 0
     }
   },
@@ -144,12 +148,12 @@
     {
       "type": "warning",
       "title": "Low Engagement Rate",
-      "description": "The engagement rate is 1.2%, which may indicate the agent description or value proposition could be improved."
+      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
     },
     {
       "type": "positive",
       "title": "Top Performer",
-      "description": "This agent ranks in the top 4% by views, placing it among the most popular agents."
+      "description": "This agent ranks in the top 0% by views, placing it among the most popular agents."
     }
   ]
 }

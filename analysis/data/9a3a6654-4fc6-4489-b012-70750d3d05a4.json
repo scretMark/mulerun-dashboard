@@ -1,6 +1,6 @@
 {
   "agent_id": "9a3a6654-4fc6-4489-b012-70750d3d05a4",
-  "generated_at": "2025-12-01T00:00:29.304231",
+  "generated_at": "2025-12-02T08:52:12.098966",
   "basic_info": {
     "title": "FrostyPunster",
     "author": "hoainamluci",
@@ -11,23 +11,23 @@
     "published_at": "2025-10-14T00:45:06.127000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@hoainamluci/frostypunster",
-    "days_since_published": 47
+    "days_since_published": 49
   },
   "performance_metrics": {
-    "views": 87,
+    "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 47,
+    "days_tracked": 49,
     "price": 70.0,
-    "engagement_rate": 0.0,
+    "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
-    "avg_views_per_day": 1.85
+    "avg_views_per_day": 0.0
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 15,
+    "data_points": 16,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-01T08:00:25.084545",
+    "last_recorded": "2025-12-02T16:52:00.461129",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -44,7 +44,8 @@
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
         "2025-11-30T15:58:50.561480",
-        "2025-12-01T08:00:25.084545"
+        "2025-12-01T08:00:25.084545",
+        "2025-12-02T16:52:00.461129"
       ],
       "views": [
         75,
@@ -61,9 +62,11 @@
         83,
         83,
         87,
-        87
+        87,
+        0
       ],
       "runs": [
+        0,
         0,
         0,
         0,
@@ -95,25 +98,26 @@
         0,
         0,
         0,
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 11,
+    "days_tracked": 13,
     "total_growth": {
-      "views": 12,
+      "views": -75,
       "runs": 0,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 1.09,
+      "views": -5.77,
       "runs": 0.0,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 16.0,
+      "views": -100.0,
       "runs": 0,
       "saves": 0
     }
@@ -123,16 +127,16 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 204,
-    "views_rank": 184,
-    "runs_rank": 123,
-    "views_percentile": 9.8,
-    "runs_percentile": 39.7,
+    "total_active_agents": 205,
+    "views_rank": 1,
+    "runs_rank": 1,
+    "views_percentile": 99.5,
+    "runs_percentile": 99.5,
     "category": "AI Agent",
-    "category_agent_count": 204,
+    "category_agent_count": 205,
     "vs_average": {
-      "views": -88.0,
-      "runs": -100.0,
+      "views": 0,
+      "runs": 0,
       "saves": 0
     }
   },
@@ -141,6 +145,11 @@
       "type": "warning",
       "title": "Low Engagement Rate",
       "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
+    },
+    {
+      "type": "positive",
+      "title": "Top Performer",
+      "description": "This agent ranks in the top 0% by views, placing it among the most popular agents."
     }
   ]
 }

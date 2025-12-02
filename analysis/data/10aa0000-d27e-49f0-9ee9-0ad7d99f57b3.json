@@ -1,6 +1,6 @@
 {
   "agent_id": "10aa0000-d27e-49f0-9ee9-0ad7d99f57b3",
-  "generated_at": "2025-12-01T00:00:28.143217",
+  "generated_at": "2025-12-02T08:52:11.504548",
   "basic_info": {
     "title": "AI  Backgrounds",
     "author": "PicCopilot",
@@ -11,23 +11,23 @@
     "published_at": "2025-11-11T19:33:20.689000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/ai-backgrounds",
-    "days_since_published": 19
+    "days_since_published": 20
   },
   "performance_metrics": {
-    "views": 337,
-    "runs": 380,
+    "views": 0,
+    "runs": 0,
     "saves": 0,
-    "days_tracked": 19,
+    "days_tracked": 20,
     "price": 0.0,
-    "engagement_rate": 112.76,
-    "avg_runs_per_day": 20.0,
-    "avg_views_per_day": 17.74
+    "engagement_rate": 0,
+    "avg_runs_per_day": 0.0,
+    "avg_views_per_day": 0.0
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 15,
+    "data_points": 16,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-01T08:00:25.084545",
+    "last_recorded": "2025-12-02T16:52:00.461129",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -44,7 +44,8 @@
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
         "2025-11-30T15:58:50.561480",
-        "2025-12-01T08:00:25.084545"
+        "2025-12-01T08:00:25.084545",
+        "2025-12-02T16:52:00.461129"
       ],
       "views": [
         231,
@@ -61,7 +62,8 @@
         289,
         297,
         330,
-        337
+        337,
+        0
       ],
       "runs": [
         55,
@@ -78,9 +80,11 @@
         602,
         530,
         482,
-        380
+        380,
+        0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -101,20 +105,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 11,
+    "days_tracked": 13,
     "total_growth": {
-      "views": 106,
-      "runs": 325,
+      "views": -231,
+      "runs": -55,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 9.64,
-      "runs": 29.55,
+      "views": -17.77,
+      "runs": -4.23,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 45.89,
-      "runs": 590.91,
+      "views": -100.0,
+      "runs": -100.0,
       "saves": 0
     }
   },
@@ -123,29 +127,29 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 204,
-    "views_rank": 91,
-    "runs_rank": 5,
-    "views_percentile": 55.4,
-    "runs_percentile": 97.5,
+    "total_active_agents": 205,
+    "views_rank": 1,
+    "runs_rank": 1,
+    "views_percentile": 99.5,
+    "runs_percentile": 99.5,
     "category": "AI Agent",
-    "category_agent_count": 204,
+    "category_agent_count": 205,
     "vs_average": {
-      "views": -53.6,
-      "runs": 1065.9,
+      "views": 0,
+      "runs": 0,
       "saves": 0
     }
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "High Engagement Rate",
-      "description": "This agent has an excellent 112.8% engagement rate (runs/views), significantly above average."
+      "type": "warning",
+      "title": "Low Engagement Rate",
+      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
     },
     {
       "type": "positive",
-      "title": "Active User Base",
-      "description": "Runs increased by 325, indicating growing adoption and active usage."
+      "title": "Top Performer",
+      "description": "This agent ranks in the top 0% by views, placing it among the most popular agents."
     }
   ]
 }

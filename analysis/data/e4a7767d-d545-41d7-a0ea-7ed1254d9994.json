@@ -1,6 +1,6 @@
 {
   "agent_id": "e4a7767d-d545-41d7-a0ea-7ed1254d9994",
-  "generated_at": "2025-12-01T00:00:29.473773",
+  "generated_at": "2025-12-02T08:52:12.185955",
   "basic_info": {
     "title": "Nano Sketch Design",
     "author": "Aronlong",
@@ -11,23 +11,23 @@
     "published_at": "2025-11-20T10:00:25.694000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aronlong/nano-sketch-design",
-    "days_since_published": 10
+    "days_since_published": 11
   },
   "performance_metrics": {
-    "views": 52,
-    "runs": 7,
+    "views": 0,
+    "runs": 0,
     "saves": 0,
-    "days_tracked": 10,
+    "days_tracked": 11,
     "price": 0.0,
-    "engagement_rate": 13.46,
-    "avg_runs_per_day": 0.7,
-    "avg_views_per_day": 5.2
+    "engagement_rate": 0,
+    "avg_runs_per_day": 0.0,
+    "avg_views_per_day": 0.0
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 12,
+    "data_points": 13,
     "first_recorded": "2025-11-23T13:27:48.290198",
-    "last_recorded": "2025-12-01T08:00:25.084545",
+    "last_recorded": "2025-12-02T16:52:00.461129",
     "time_series": {
       "dates": [
         "2025-11-23T13:27:48.290198",
@@ -41,7 +41,8 @@
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
         "2025-11-30T15:58:50.561480",
-        "2025-12-01T08:00:25.084545"
+        "2025-12-01T08:00:25.084545",
+        "2025-12-02T16:52:00.461129"
       ],
       "views": [
         36,
@@ -55,7 +56,8 @@
         47,
         49,
         50,
-        52
+        52,
+        0
       ],
       "runs": [
         31,
@@ -69,9 +71,11 @@
         17,
         8,
         8,
-        7
+        7,
+        0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -89,20 +93,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 7,
+    "days_tracked": 9,
     "total_growth": {
-      "views": 16,
-      "runs": -24,
+      "views": -36,
+      "runs": -31,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 2.29,
-      "runs": -3.43,
+      "views": -4.0,
+      "runs": -3.44,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 44.44,
-      "runs": -77.42,
+      "views": -100.0,
+      "runs": -100.0,
       "saves": 0
     }
   },
@@ -118,24 +122,29 @@
     ]
   },
   "market_position": {
-    "total_active_agents": 204,
-    "views_rank": 198,
-    "runs_rank": 54,
-    "views_percentile": 2.9,
-    "runs_percentile": 73.5,
+    "total_active_agents": 205,
+    "views_rank": 1,
+    "runs_rank": 1,
+    "views_percentile": 99.5,
+    "runs_percentile": 99.5,
     "category": "AI Agent",
-    "category_agent_count": 204,
+    "category_agent_count": 205,
     "vs_average": {
-      "views": -92.8,
-      "runs": -78.5,
+      "views": 0,
+      "runs": 0,
       "saves": 0
     }
   },
   "insights": [
     {
+      "type": "warning",
+      "title": "Low Engagement Rate",
+      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
+    },
+    {
       "type": "positive",
-      "title": "High Engagement Rate",
-      "description": "This agent has an excellent 13.5% engagement rate (runs/views), significantly above average."
+      "title": "Top Performer",
+      "description": "This agent ranks in the top 0% by views, placing it among the most popular agents."
     }
   ]
 }

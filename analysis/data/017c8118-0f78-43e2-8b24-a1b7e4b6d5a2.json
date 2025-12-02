@@ -1,6 +1,6 @@
 {
   "agent_id": "017c8118-0f78-43e2-8b24-a1b7e4b6d5a2",
-  "generated_at": "2025-12-01T00:00:28.433245",
+  "generated_at": "2025-12-02T08:52:11.467356",
   "basic_info": {
     "title": "veeverse-tarot",
     "author": "veeverseai",
@@ -14,20 +14,20 @@
     "days_since_published": null
   },
   "performance_metrics": {
-    "views": 235,
-    "runs": 6,
+    "views": 0,
+    "runs": 0,
     "saves": 0,
     "days_tracked": 1,
     "price": 0.0,
-    "engagement_rate": 2.55,
-    "avg_runs_per_day": 6.0,
-    "avg_views_per_day": 235.0
+    "engagement_rate": 0,
+    "avg_runs_per_day": 0.0,
+    "avg_views_per_day": 0.0
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 13,
+    "data_points": 14,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-01T08:00:25.084545",
+    "last_recorded": "2025-12-02T16:52:00.461129",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -42,7 +42,8 @@
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
         "2025-11-30T15:58:50.561480",
-        "2025-12-01T08:00:25.084545"
+        "2025-12-01T08:00:25.084545",
+        "2025-12-02T16:52:00.461129"
       ],
       "views": [
         202,
@@ -57,7 +58,8 @@
         231,
         231,
         235,
-        235
+        235,
+        0
       ],
       "runs": [
         53,
@@ -72,9 +74,11 @@
         12,
         4,
         9,
-        6
+        6,
+        0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -93,20 +97,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 12,
+    "days_tracked": 14,
     "total_growth": {
-      "views": 33,
-      "runs": -47,
+      "views": -202,
+      "runs": -53,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 2.75,
-      "runs": -3.92,
+      "views": -14.43,
+      "runs": -3.79,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 16.34,
-      "runs": -88.68,
+      "views": -100.0,
+      "runs": -100.0,
       "saves": 0
     }
   },
@@ -146,18 +150,29 @@
     ]
   },
   "market_position": {
-    "total_active_agents": 204,
-    "views_rank": 114,
-    "runs_rank": 62,
-    "views_percentile": 44.1,
-    "runs_percentile": 69.6,
+    "total_active_agents": 205,
+    "views_rank": 1,
+    "runs_rank": 1,
+    "views_percentile": 99.5,
+    "runs_percentile": 99.5,
     "category": "AI Agent",
-    "category_agent_count": 204,
+    "category_agent_count": 205,
     "vs_average": {
-      "views": -67.6,
-      "runs": -81.6,
+      "views": 0,
+      "runs": 0,
       "saves": 0
     }
   },
-  "insights": []
+  "insights": [
+    {
+      "type": "warning",
+      "title": "Low Engagement Rate",
+      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
+    },
+    {
+      "type": "positive",
+      "title": "Top Performer",
+      "description": "This agent ranks in the top 0% by views, placing it among the most popular agents."
+    }
+  ]
 }

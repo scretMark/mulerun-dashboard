@@ -1,6 +1,6 @@
 {
   "agent_id": "53f4ae6b-d4a8-445f-b2bc-5617d96a8392",
-  "generated_at": "2025-12-01T00:00:27.802941",
+  "generated_at": "2025-12-02T08:52:12.069818",
   "basic_info": {
     "title": "Illustrate Mind Spark to Social",
     "author": "Rhino",
@@ -11,23 +11,23 @@
     "published_at": "2025-09-15T13:01:39.091000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Rhino/illustrate-mind-spark-to-social",
-    "days_since_published": 76
+    "days_since_published": 77
   },
   "performance_metrics": {
-    "views": 621,
-    "runs": 41,
+    "views": 0,
+    "runs": 0,
     "saves": 0,
-    "days_tracked": 76,
+    "days_tracked": 77,
     "price": 8.0,
-    "engagement_rate": 6.6,
-    "avg_runs_per_day": 0.54,
-    "avg_views_per_day": 8.17
+    "engagement_rate": 0,
+    "avg_runs_per_day": 0.0,
+    "avg_views_per_day": 0.0
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 15,
+    "data_points": 16,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-01T08:00:25.084545",
+    "last_recorded": "2025-12-02T16:52:00.461129",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -44,7 +44,8 @@
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
         "2025-11-30T15:58:50.561480",
-        "2025-12-01T08:00:25.084545"
+        "2025-12-01T08:00:25.084545",
+        "2025-12-02T16:52:00.461129"
       ],
       "views": [
         568,
@@ -61,7 +62,8 @@
         607,
         611,
         621,
-        621
+        621,
+        0
       ],
       "runs": [
         3,
@@ -78,9 +80,11 @@
         44,
         44,
         49,
-        41
+        41,
+        0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -101,20 +105,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 11,
+    "days_tracked": 13,
     "total_growth": {
-      "views": 53,
-      "runs": 38,
+      "views": -568,
+      "runs": -3,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 4.82,
-      "runs": 3.45,
+      "views": -43.69,
+      "runs": -0.23,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 9.33,
-      "runs": 1266.67,
+      "views": -100.0,
+      "runs": -100.0,
       "saves": 0
     }
   },
@@ -123,18 +127,29 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 204,
-    "views_rank": 64,
-    "runs_rank": 26,
-    "views_percentile": 68.6,
-    "runs_percentile": 87.3,
+    "total_active_agents": 205,
+    "views_rank": 1,
+    "runs_rank": 1,
+    "views_percentile": 99.5,
+    "runs_percentile": 99.5,
     "category": "AI Agent",
-    "category_agent_count": 204,
+    "category_agent_count": 205,
     "vs_average": {
-      "views": -14.5,
-      "runs": 25.8,
+      "views": 0,
+      "runs": 0,
       "saves": 0
     }
   },
-  "insights": []
+  "insights": [
+    {
+      "type": "warning",
+      "title": "Low Engagement Rate",
+      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
+    },
+    {
+      "type": "positive",
+      "title": "Top Performer",
+      "description": "This agent ranks in the top 0% by views, placing it among the most popular agents."
+    }
+  ]
 }

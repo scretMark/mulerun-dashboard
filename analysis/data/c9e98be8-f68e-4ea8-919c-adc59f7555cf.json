@@ -1,6 +1,6 @@
 {
   "agent_id": "c9e98be8-f68e-4ea8-919c-adc59f7555cf",
-  "generated_at": "2025-12-01T00:00:28.422083",
+  "generated_at": "2025-12-02T08:52:11.341960",
   "basic_info": {
     "title": "UPCV Resume Gen ",
     "author": "upcv",
@@ -11,23 +11,23 @@
     "published_at": "2025-11-12T11:14:49.973000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@upcv/upcv-resume-gen",
-    "days_since_published": 18
+    "days_since_published": 19
   },
   "performance_metrics": {
-    "views": 235,
-    "runs": 370,
+    "views": 0,
+    "runs": 0,
     "saves": 0,
-    "days_tracked": 18,
+    "days_tracked": 19,
     "price": 0.0,
-    "engagement_rate": 157.45,
-    "avg_runs_per_day": 20.56,
-    "avg_views_per_day": 13.06
+    "engagement_rate": 0,
+    "avg_runs_per_day": 0.0,
+    "avg_views_per_day": 0.0
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 16,
+    "data_points": 17,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-01T08:00:25.084545",
+    "last_recorded": "2025-12-02T16:52:00.461129",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -45,7 +45,8 @@
         "2025-11-27T16:15:10.235580",
         "2025-11-28T08:00:25.835604",
         "2025-11-30T15:58:50.561480",
-        "2025-12-01T08:00:25.084545"
+        "2025-12-01T08:00:25.084545",
+        "2025-12-02T16:52:00.461129"
       ],
       "views": [
         126,
@@ -63,7 +64,8 @@
         212,
         222,
         230,
-        235
+        235,
+        0
       ],
       "runs": [
         336,
@@ -81,9 +83,11 @@
         557,
         470,
         474,
-        370
+        370,
+        0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -105,20 +109,20 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 12,
+    "days_tracked": 14,
     "total_growth": {
-      "views": 109,
-      "runs": 34,
+      "views": -126,
+      "runs": -336,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": 9.08,
-      "runs": 2.83,
+      "views": -9.0,
+      "runs": -24.0,
       "saves": 0.0
     },
     "percentage_growth": {
-      "views": 86.51,
-      "runs": 10.12,
+      "views": -100.0,
+      "runs": -100.0,
       "saves": 0
     }
   },
@@ -127,24 +131,29 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 204,
-    "views_rank": 114,
-    "runs_rank": 7,
-    "views_percentile": 44.1,
-    "runs_percentile": 96.6,
+    "total_active_agents": 205,
+    "views_rank": 1,
+    "runs_rank": 1,
+    "views_percentile": 99.5,
+    "runs_percentile": 99.5,
     "category": "AI Agent",
-    "category_agent_count": 204,
+    "category_agent_count": 205,
     "vs_average": {
-      "views": -67.6,
-      "runs": 1035.2,
+      "views": 0,
+      "runs": 0,
       "saves": 0
     }
   },
   "insights": [
     {
+      "type": "warning",
+      "title": "Low Engagement Rate",
+      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
+    },
+    {
       "type": "positive",
-      "title": "High Engagement Rate",
-      "description": "This agent has an excellent 157.4% engagement rate (runs/views), significantly above average."
+      "title": "Top Performer",
+      "description": "This agent ranks in the top 0% by views, placing it among the most popular agents."
     }
   ]
 }
