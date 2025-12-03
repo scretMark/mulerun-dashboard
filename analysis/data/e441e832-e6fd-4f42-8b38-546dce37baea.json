@@ -1,6 +1,6 @@
 {
   "agent_id": "e441e832-e6fd-4f42-8b38-546dce37baea",
-  "generated_at": "2025-12-02T08:52:12.240016",
+  "generated_at": "2025-12-03T03:23:27.231114",
   "basic_info": {
     "title": "Bored Ape NFT avatar",
     "author": "Barry",
@@ -11,13 +11,13 @@
     "published_at": "2025-12-01T00:16:36.080000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Barry/bored-ape-nft-avatar",
-    "days_since_published": 1
+    "days_since_published": 2
   },
   "performance_metrics": {
     "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 1,
+    "days_tracked": 2,
     "price": 50.0,
     "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
@@ -25,26 +25,46 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 1,
+    "data_points": 2,
     "first_recorded": "2025-12-02T16:52:00.461129",
-    "last_recorded": "2025-12-02T16:52:00.461129",
+    "last_recorded": "2025-12-03T11:23:23.376461",
     "time_series": {
       "dates": [
-        "2025-12-02T16:52:00.461129"
+        "2025-12-02T16:52:00.461129",
+        "2025-12-03T11:23:23.376461"
       ],
       "views": [
+        0,
         0
       ],
       "runs": [
+        0,
         0
       ],
       "saves": [
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
-    "has_data": false
+    "has_data": true,
+    "days_tracked": 1,
+    "total_growth": {
+      "views": 0,
+      "runs": 0,
+      "saves": 0
+    },
+    "daily_average_growth": {
+      "views": 0.0,
+      "runs": 0.0,
+      "saves": 0.0
+    },
+    "percentage_growth": {
+      "views": 0,
+      "runs": 0,
+      "saves": 0
+    }
   },
   "change_history": {
     "total_changes": 1,

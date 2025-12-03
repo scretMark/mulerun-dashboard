@@ -1,6 +1,6 @@
 {
   "agent_id": "8ecf0316-7c0a-40c3-8095-83b57d32ed7c",
-  "generated_at": "2025-12-02T08:52:12.218687",
+  "generated_at": "2025-12-03T03:23:27.210669",
   "basic_info": {
     "title": "Historical place visualizer",
     "author": "Bhola",
@@ -11,13 +11,13 @@
     "published_at": "2025-11-24T13:53:45.229000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Bhola/historical-place-visualizer",
-    "days_since_published": 7
+    "days_since_published": 8
   },
   "performance_metrics": {
     "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 7,
+    "days_tracked": 8,
     "price": 29.0,
     "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 7,
+    "data_points": 8,
     "first_recorded": "2025-11-26T08:00:32.046352",
-    "last_recorded": "2025-12-02T16:52:00.461129",
+    "last_recorded": "2025-12-03T11:23:23.376461",
     "time_series": {
       "dates": [
         "2025-11-26T08:00:32.046352",
@@ -36,7 +36,8 @@
         "2025-11-28T08:00:25.835604",
         "2025-11-30T15:58:50.561480",
         "2025-12-01T08:00:25.084545",
-        "2025-12-02T16:52:00.461129"
+        "2025-12-02T16:52:00.461129",
+        "2025-12-03T11:23:23.376461"
       ],
       "views": [
         23,
@@ -45,6 +46,7 @@
         25,
         29,
         29,
+        0,
         0
       ],
       "runs": [
@@ -54,9 +56,11 @@
         25,
         25,
         20,
+        0,
         0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -69,15 +73,15 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 6,
+    "days_tracked": 7,
     "total_growth": {
       "views": -23,
       "runs": -24,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": -3.83,
-      "runs": -4.0,
+      "views": -3.29,
+      "runs": -3.43,
       "saves": 0.0
     },
     "percentage_growth": {
