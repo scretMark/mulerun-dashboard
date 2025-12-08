@@ -1,6 +1,6 @@
 {
   "agent_id": "3dce446b-c3fc-44c0-8595-6ed9b247c095",
-  "generated_at": "2025-12-03T03:23:25.205726",
+  "generated_at": "2025-12-08T06:26:41.115257",
   "basic_info": {
     "title": "Paper Review Agent",
     "author": "charlin",
@@ -11,13 +11,13 @@
     "published_at": "2025-10-27T22:31:35.340000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@charlin/paper-review-agent",
-    "days_since_published": 36
+    "days_since_published": 41
   },
   "performance_metrics": {
     "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 36,
+    "days_tracked": 41,
     "price": 60.0,
     "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 18,
+    "data_points": 19,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-03T11:23:23.376461",
+    "last_recorded": "2025-12-08T14:26:09.126399",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -47,7 +47,8 @@
         "2025-11-30T15:58:50.561480",
         "2025-12-01T08:00:25.084545",
         "2025-12-02T16:52:00.461129",
-        "2025-12-03T11:23:23.376461"
+        "2025-12-03T11:23:23.376461",
+        "2025-12-08T14:26:09.126399"
       ],
       "views": [
         1930,
@@ -66,6 +67,7 @@
         2025,
         2044,
         2044,
+        0,
         0,
         0
       ],
@@ -87,9 +89,11 @@
         26,
         16,
         0,
+        0,
         0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -113,15 +117,15 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 14,
+    "days_tracked": 19,
     "total_growth": {
       "views": -1930,
       "runs": -58,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": -137.86,
-      "runs": -4.14,
+      "views": -101.58,
+      "runs": -3.05,
       "saves": 0.0
     },
     "percentage_growth": {
@@ -135,13 +139,13 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 205,
+    "total_active_agents": 214,
     "views_rank": 1,
     "runs_rank": 1,
     "views_percentile": 99.5,
     "runs_percentile": 99.5,
     "category": "AI Agent",
-    "category_agent_count": 205,
+    "category_agent_count": 214,
     "vs_average": {
       "views": 0,
       "runs": 0,

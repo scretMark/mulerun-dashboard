@@ -1,6 +1,6 @@
 {
   "agent_id": "6d852596-ca92-4086-9fcb-4da9c8ece17e",
-  "generated_at": "2025-12-03T03:23:27.189129",
+  "generated_at": "2025-12-08T06:26:43.468944",
   "basic_info": {
     "title": "Banana Pro Canvas",
     "author": "Aronlong",
@@ -11,13 +11,13 @@
     "published_at": "2025-11-20T20:11:49.993000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aronlong/banana-pro-canvas",
-    "days_since_published": 12
+    "days_since_published": 17
   },
   "performance_metrics": {
     "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 12,
+    "days_tracked": 17,
     "price": 0.0,
     "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 8,
+    "data_points": 9,
     "first_recorded": "2025-11-26T08:00:32.046352",
-    "last_recorded": "2025-12-03T11:23:23.376461",
+    "last_recorded": "2025-12-08T14:26:09.126399",
     "time_series": {
       "dates": [
         "2025-11-26T08:00:32.046352",
@@ -37,7 +37,8 @@
         "2025-11-30T15:58:50.561480",
         "2025-12-01T08:00:25.084545",
         "2025-12-02T16:52:00.461129",
-        "2025-12-03T11:23:23.376461"
+        "2025-12-03T11:23:23.376461",
+        "2025-12-08T14:26:09.126399"
       ],
       "views": [
         49,
@@ -46,6 +47,7 @@
         193,
         338,
         360,
+        0,
         0,
         0
       ],
@@ -57,9 +59,11 @@
         175,
         168,
         0,
+        0,
         0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -73,15 +77,15 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 7,
+    "days_tracked": 12,
     "total_growth": {
       "views": -49,
       "runs": -45,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": -7.0,
-      "runs": -6.43,
+      "views": -4.08,
+      "runs": -3.75,
       "saves": 0.0
     },
     "percentage_growth": {
@@ -102,13 +106,13 @@
     ]
   },
   "market_position": {
-    "total_active_agents": 205,
+    "total_active_agents": 214,
     "views_rank": 1,
     "runs_rank": 1,
     "views_percentile": 99.5,
     "runs_percentile": 99.5,
     "category": "AI Agent",
-    "category_agent_count": 205,
+    "category_agent_count": 214,
     "vs_average": {
       "views": 0,
       "runs": 0,

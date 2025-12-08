@@ -1,23 +1,23 @@
 {
   "agent_id": "d1a4e711-e486-40bb-9a85-d352068051b9",
-  "generated_at": "2025-12-03T03:23:27.077480",
+  "generated_at": "2025-12-08T06:26:43.337482",
   "basic_info": {
     "title": "Dynamic Style Studio",
     "author": "LinExcel",
-    "description": "Overview\nDynamic Style Studio is an advanced AI Agent specifically designed for fashion brands, e-commerce, and personal stylists. It transforms any single static image of a person wearing an outfit i...",
+    "description": "Create instant multi-angle product images from one photo and generate a fashion lookbook in seconds—no shoot or studio needed.",
     "short_description": "Generates multi-angle virtual model showcases from outfit photos.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-10-11T12:38:36.113000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinExcel/dynamic-style-studio",
-    "days_since_published": 52
+    "days_since_published": 57
   },
   "performance_metrics": {
     "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 52,
+    "days_tracked": 57,
     "price": 50.0,
     "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 17,
+    "data_points": 18,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-03T11:23:23.376461",
+    "last_recorded": "2025-12-08T14:26:09.126399",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -46,7 +46,8 @@
         "2025-11-30T15:58:50.561480",
         "2025-12-01T08:00:25.084545",
         "2025-12-02T16:52:00.461129",
-        "2025-12-03T11:23:23.376461"
+        "2025-12-03T11:23:23.376461",
+        "2025-12-08T14:26:09.126399"
       ],
       "views": [
         81,
@@ -65,9 +66,11 @@
         85,
         86,
         0,
+        0,
         0
       ],
       "runs": [
+        0,
         0,
         0,
         0,
@@ -103,20 +106,21 @@
         0,
         0,
         0,
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 13,
+    "days_tracked": 18,
     "total_growth": {
       "views": -81,
       "runs": 0,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": -6.23,
+      "views": -4.5,
       "runs": 0.0,
       "saves": 0.0
     },
@@ -131,13 +135,13 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 205,
+    "total_active_agents": 214,
     "views_rank": 1,
     "runs_rank": 1,
     "views_percentile": 99.5,
     "runs_percentile": 99.5,
     "category": "AI Agent",
-    "category_agent_count": 205,
+    "category_agent_count": 214,
     "vs_average": {
       "views": 0,
       "runs": 0,

@@ -1,6 +1,6 @@
 {
   "agent_id": "779e2356-11e7-4fe0-90a3-4a1e9506c3b0",
-  "generated_at": "2025-12-03T03:23:25.074578",
+  "generated_at": "2025-12-08T06:26:40.966796",
   "basic_info": {
     "title": "Smart Q",
     "author": "QuickBI",
@@ -11,13 +11,13 @@
     "published_at": "2025-11-04T15:33:59.812000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@QuickBI/smart-q",
-    "days_since_published": 28
+    "days_since_published": 33
   },
   "performance_metrics": {
     "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 28,
+    "days_tracked": 33,
     "price": 0.0,
     "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 18,
+    "data_points": 19,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-03T11:23:23.376461",
+    "last_recorded": "2025-12-08T14:26:09.126399",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -47,7 +47,8 @@
         "2025-11-30T15:58:50.561480",
         "2025-12-01T08:00:25.084545",
         "2025-12-02T16:52:00.461129",
-        "2025-12-03T11:23:23.376461"
+        "2025-12-03T11:23:23.376461",
+        "2025-12-08T14:26:09.126399"
       ],
       "views": [
         484,
@@ -66,6 +67,7 @@
         722,
         845,
         876,
+        0,
         0,
         0
       ],
@@ -87,9 +89,11 @@
         534,
         440,
         0,
+        0,
         0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -113,15 +117,15 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 14,
+    "days_tracked": 19,
     "total_growth": {
       "views": -484,
       "runs": -575,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": -34.57,
-      "runs": -41.07,
+      "views": -25.47,
+      "runs": -30.26,
       "saves": 0.0
     },
     "percentage_growth": {
@@ -135,13 +139,13 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 205,
+    "total_active_agents": 214,
     "views_rank": 1,
     "runs_rank": 1,
     "views_percentile": 99.5,
     "runs_percentile": 99.5,
     "category": "AI Agent",
-    "category_agent_count": 205,
+    "category_agent_count": 214,
     "vs_average": {
       "views": 0,
       "runs": 0,
