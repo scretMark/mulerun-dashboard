@@ -1,6 +1,6 @@
 {
   "agent_id": "27210885-9ff0-4701-aa29-524f0832136a",
-  "generated_at": "2025-12-08T06:26:41.092508",
+  "generated_at": "2025-12-09T00:00:38.939207",
   "basic_info": {
     "title": "Remove Watermark",
     "author": "PicCopilot",
@@ -11,13 +11,13 @@
     "published_at": "2025-11-11T19:20:11.823000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/remove-watermark",
-    "days_since_published": 26
+    "days_since_published": 27
   },
   "performance_metrics": {
     "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 26,
+    "days_tracked": 27,
     "price": 0.0,
     "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 19,
+    "data_points": 20,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-08T14:26:09.126399",
+    "last_recorded": "2025-12-09T08:00:25.308684",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -48,7 +48,8 @@
         "2025-12-01T08:00:25.084545",
         "2025-12-02T16:52:00.461129",
         "2025-12-03T11:23:23.376461",
-        "2025-12-08T14:26:09.126399"
+        "2025-12-08T14:26:09.126399",
+        "2025-12-09T08:00:25.308684"
       ],
       "views": [
         78,
@@ -67,6 +68,7 @@
         108,
         120,
         120,
+        0,
         0,
         0,
         0
@@ -90,9 +92,11 @@
         350,
         0,
         0,
+        0,
         0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -117,15 +121,15 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 19,
+    "days_tracked": 20,
     "total_growth": {
       "views": -78,
       "runs": -62,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": -4.11,
-      "runs": -3.26,
+      "views": -3.9,
+      "runs": -3.1,
       "saves": 0.0
     },
     "percentage_growth": {
@@ -139,13 +143,13 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 214,
+    "total_active_agents": 217,
     "views_rank": 1,
     "runs_rank": 1,
     "views_percentile": 99.5,
     "runs_percentile": 99.5,
     "category": "AI Agent",
-    "category_agent_count": 214,
+    "category_agent_count": 217,
     "vs_average": {
       "views": 0,
       "runs": 0,

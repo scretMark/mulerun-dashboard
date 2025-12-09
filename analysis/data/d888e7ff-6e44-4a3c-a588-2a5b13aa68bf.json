@@ -1,6 +1,6 @@
 {
   "agent_id": "d888e7ff-6e44-4a3c-a588-2a5b13aa68bf",
-  "generated_at": "2025-12-08T06:26:42.050709",
+  "generated_at": "2025-12-09T00:00:39.933792",
   "basic_info": {
     "title": "n8n stylist",
     "author": "summerail",
@@ -11,13 +11,13 @@
     "published_at": "2025-10-04T14:40:15.184000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/n8n-stylist",
-    "days_since_published": 64
+    "days_since_published": 65
   },
   "performance_metrics": {
     "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 64,
+    "days_tracked": 65,
     "price": 60.0,
     "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 18,
+    "data_points": 19,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-08T14:26:09.126399",
+    "last_recorded": "2025-12-09T08:00:25.308684",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -47,7 +47,8 @@
         "2025-12-01T08:00:25.084545",
         "2025-12-02T16:52:00.461129",
         "2025-12-03T11:23:23.376461",
-        "2025-12-08T14:26:09.126399"
+        "2025-12-08T14:26:09.126399",
+        "2025-12-09T08:00:25.308684"
       ],
       "views": [
         302,
@@ -67,12 +68,14 @@
         318,
         0,
         0,
+        0,
         0
       ],
       "runs": [
         2,
         2,
         1,
+        0,
         0,
         0,
         0,
@@ -107,20 +110,21 @@
         0,
         0,
         0,
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 18,
+    "days_tracked": 19,
     "total_growth": {
       "views": -302,
       "runs": -2,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": -16.78,
+      "views": -15.89,
       "runs": -0.11,
       "saves": 0.0
     },
@@ -135,13 +139,13 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 214,
+    "total_active_agents": 217,
     "views_rank": 1,
     "runs_rank": 1,
     "views_percentile": 99.5,
     "runs_percentile": 99.5,
     "category": "AI Agent",
-    "category_agent_count": 214,
+    "category_agent_count": 217,
     "vs_average": {
       "views": 0,
       "runs": 0,

@@ -1,6 +1,6 @@
 {
   "agent_id": "69604d38-1358-473a-ab9f-f960959157eb",
-  "generated_at": "2025-12-08T06:26:43.087465",
+  "generated_at": "2025-12-09T00:00:40.957634",
   "basic_info": {
     "title": "Halloween Skull Night",
     "author": "Norsizu",
@@ -11,13 +11,13 @@
     "published_at": "2025-10-29T15:55:37.076000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/halloween-skull-night",
-    "days_since_published": 39
+    "days_since_published": 40
   },
   "performance_metrics": {
     "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 39,
+    "days_tracked": 40,
     "price": 50.0,
     "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 18,
+    "data_points": 19,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-08T14:26:09.126399",
+    "last_recorded": "2025-12-09T08:00:25.308684",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -47,7 +47,8 @@
         "2025-12-01T08:00:25.084545",
         "2025-12-02T16:52:00.461129",
         "2025-12-03T11:23:23.376461",
-        "2025-12-08T14:26:09.126399"
+        "2025-12-08T14:26:09.126399",
+        "2025-12-09T08:00:25.308684"
       ],
       "views": [
         174,
@@ -67,9 +68,11 @@
         179,
         0,
         0,
+        0,
         0
       ],
       "runs": [
+        0,
         0,
         0,
         0,
@@ -107,20 +110,21 @@
         0,
         0,
         0,
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 18,
+    "days_tracked": 19,
     "total_growth": {
       "views": -174,
       "runs": 0,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": -9.67,
+      "views": -9.16,
       "runs": 0.0,
       "saves": 0.0
     },
@@ -135,13 +139,13 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 214,
+    "total_active_agents": 217,
     "views_rank": 1,
     "runs_rank": 1,
     "views_percentile": 99.5,
     "runs_percentile": 99.5,
     "category": "AI Agent",
-    "category_agent_count": 214,
+    "category_agent_count": 217,
     "vs_average": {
       "views": 0,
       "runs": 0,
