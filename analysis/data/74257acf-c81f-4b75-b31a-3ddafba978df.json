@@ -1,6 +1,6 @@
 {
   "agent_id": "74257acf-c81f-4b75-b31a-3ddafba978df",
-  "generated_at": "2025-12-09T00:00:41.574185",
+  "generated_at": "2025-12-09T03:25:37.312983",
   "basic_info": {
     "title": "Image to 3D Figure",
     "author": "nzwhouxvbbb094f",
@@ -25,26 +25,46 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 1,
+    "data_points": 2,
     "first_recorded": "2025-12-09T08:00:25.308684",
-    "last_recorded": "2025-12-09T08:00:25.308684",
+    "last_recorded": "2025-12-09T11:25:33.198232",
     "time_series": {
       "dates": [
-        "2025-12-09T08:00:25.308684"
+        "2025-12-09T08:00:25.308684",
+        "2025-12-09T11:25:33.198232"
       ],
       "views": [
+        0,
         0
       ],
       "runs": [
+        0,
         0
       ],
       "saves": [
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
-    "has_data": false
+    "has_data": true,
+    "days_tracked": 1,
+    "total_growth": {
+      "views": 0,
+      "runs": 0,
+      "saves": 0
+    },
+    "daily_average_growth": {
+      "views": 0.0,
+      "runs": 0.0,
+      "saves": 0.0
+    },
+    "percentage_growth": {
+      "views": 0,
+      "runs": 0,
+      "saves": 0
+    }
   },
   "change_history": {
     "total_changes": 1,
