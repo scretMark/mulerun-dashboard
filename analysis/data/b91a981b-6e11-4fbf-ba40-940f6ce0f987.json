@@ -1,6 +1,6 @@
 {
   "agent_id": "b91a981b-6e11-4fbf-ba40-940f6ce0f987",
-  "generated_at": "2025-12-09T03:25:36.612992",
+  "generated_at": "2025-12-10T00:00:53.095918",
   "basic_info": {
     "title": "Pop-out Profile",
     "author": "Norsizu",
@@ -11,13 +11,13 @@
     "published_at": "2025-09-30T16:54:10.989000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/pop-out-profile",
-    "days_since_published": 69
+    "days_since_published": 70
   },
   "performance_metrics": {
     "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 69,
+    "days_tracked": 70,
     "price": 50.0,
     "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 20,
+    "data_points": 21,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-09T11:25:33.198232",
+    "last_recorded": "2025-12-10T08:00:24.702216",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -49,7 +49,8 @@
         "2025-12-03T11:23:23.376461",
         "2025-12-08T14:26:09.126399",
         "2025-12-09T08:00:25.308684",
-        "2025-12-09T11:25:33.198232"
+        "2025-12-09T11:25:33.198232",
+        "2025-12-10T08:00:24.702216"
       ],
       "views": [
         324,
@@ -71,9 +72,11 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "runs": [
+        0,
         0,
         0,
         0,
@@ -115,20 +118,21 @@
         0,
         0,
         0,
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 19,
+    "days_tracked": 20,
     "total_growth": {
       "views": -324,
       "runs": 0,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": -17.05,
+      "views": -16.2,
       "runs": 0.0,
       "saves": 0.0
     },
@@ -143,13 +147,13 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 217,
+    "total_active_agents": 222,
     "views_rank": 1,
     "runs_rank": 1,
     "views_percentile": 99.5,
     "runs_percentile": 99.5,
     "category": "AI Agent",
-    "category_agent_count": 217,
+    "category_agent_count": 222,
     "vs_average": {
       "views": 0,
       "runs": 0,

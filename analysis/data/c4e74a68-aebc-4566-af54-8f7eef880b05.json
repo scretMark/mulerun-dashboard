@@ -1,0 +1,86 @@
+{
+  "agent_id": "c4e74a68-aebc-4566-af54-8f7eef880b05",
+  "generated_at": "2025-12-10T00:00:53.769528",
+  "basic_info": {
+    "title": "CoinAnalyst Pro",
+    "author": "Barry",
+    "description": "CoinAnalyst Pro is a professional-grade cryptocurrency market analysis agent. It seamlessly combines advanced computational models with AI-driven intelligence (Gemini-2.5-pro) to transform raw market ...",
+    "short_description": "Analyze cryptocurrency markets and generate trading insights.",
+    "category": "AI Agent",
+    "is_active": true,
+    "published_at": "2025-12-06T23:56:50.364000",
+    "last_seen": null,
+    "profile_url": "https://mulerun.com/workspace/@Barry/coinanalyst-pro",
+    "days_since_published": 3
+  },
+  "performance_metrics": {
+    "views": 0,
+    "runs": 0,
+    "saves": 0,
+    "days_tracked": 3,
+    "price": 78.0,
+    "engagement_rate": 0,
+    "avg_runs_per_day": 0.0,
+    "avg_views_per_day": 0.0
+  },
+  "historical_trends": {
+    "has_data": true,
+    "data_points": 1,
+    "first_recorded": "2025-12-10T08:00:24.702216",
+    "last_recorded": "2025-12-10T08:00:24.702216",
+    "time_series": {
+      "dates": [
+        "2025-12-10T08:00:24.702216"
+      ],
+      "views": [
+        0
+      ],
+      "runs": [
+        0
+      ],
+      "saves": [
+        0
+      ]
+    }
+  },
+  "growth_analysis": {
+    "has_data": false
+  },
+  "change_history": {
+    "total_changes": 1,
+    "changes": [
+      {
+        "date": "2025-12-10T00:00:24.849177",
+        "type": "new",
+        "description": "New agent published: CoinAnalyst Pro",
+        "severity": "medium"
+      }
+    ]
+  },
+  "market_position": {
+    "total_active_agents": 222,
+    "views_rank": 1,
+    "runs_rank": 1,
+    "views_percentile": 99.5,
+    "runs_percentile": 99.5,
+    "category": "AI Agent",
+    "category_agent_count": 222,
+    "vs_average": {
+      "views": 0,
+      "runs": 0,
+      "saves": 0
+    }
+  },
+  "insights": [
+    {
+      "type": "warning",
+      "title": "Low Engagement Rate",
+      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
+    },
+    {
+      "type": "positive",
+      "title": "Top Performer",
+      "description": "This agent ranks in the top 0% by views, placing it among the most popular agents."
+    }
+  ]
+}

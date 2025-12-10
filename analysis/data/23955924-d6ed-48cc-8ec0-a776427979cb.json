@@ -1,0 +1,86 @@
+{
+  "agent_id": "23955924-d6ed-48cc-8ec0-a776427979cb",
+  "generated_at": "2025-12-10T00:00:53.778551",
+  "basic_info": {
+    "title": "Change the color of your pet",
+    "author": "8bit",
+    "description": "An AI tool for pet owners to change their pet's fur color with one click, creating unique visual appeal. \nThis tool uses AI technology to accurately identify pet outlines and supports natural fur colo...",
+    "short_description": "Change your pet's fur color in photos.",
+    "category": "AI Agent",
+    "is_active": true,
+    "published_at": "2025-12-08T20:39:24.448000",
+    "last_seen": null,
+    "profile_url": "https://mulerun.com/workspace/@8bit/change-the-color-of-your-pet",
+    "days_since_published": 1
+  },
+  "performance_metrics": {
+    "views": 0,
+    "runs": 0,
+    "saves": 0,
+    "days_tracked": 1,
+    "price": 50.0,
+    "engagement_rate": 0,
+    "avg_runs_per_day": 0.0,
+    "avg_views_per_day": 0.0
+  },
+  "historical_trends": {
+    "has_data": true,
+    "data_points": 1,
+    "first_recorded": "2025-12-10T08:00:24.702216",
+    "last_recorded": "2025-12-10T08:00:24.702216",
+    "time_series": {
+      "dates": [
+        "2025-12-10T08:00:24.702216"
+      ],
+      "views": [
+        0
+      ],
+      "runs": [
+        0
+      ],
+      "saves": [
+        0
+      ]
+    }
+  },
+  "growth_analysis": {
+    "has_data": false
+  },
+  "change_history": {
+    "total_changes": 1,
+    "changes": [
+      {
+        "date": "2025-12-10T00:00:24.849177",
+        "type": "new",
+        "description": "New agent published: Change the color of your pet",
+        "severity": "medium"
+      }
+    ]
+  },
+  "market_position": {
+    "total_active_agents": 222,
+    "views_rank": 1,
+    "runs_rank": 1,
+    "views_percentile": 99.5,
+    "runs_percentile": 99.5,
+    "category": "AI Agent",
+    "category_agent_count": 222,
+    "vs_average": {
+      "views": 0,
+      "runs": 0,
+      "saves": 0
+    }
+  },
+  "insights": [
+    {
+      "type": "warning",
+      "title": "Low Engagement Rate",
+      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
+    },
+    {
+      "type": "positive",
+      "title": "Top Performer",
+      "description": "This agent ranks in the top 0% by views, placing it among the most popular agents."
+    }
+  ]
+}
