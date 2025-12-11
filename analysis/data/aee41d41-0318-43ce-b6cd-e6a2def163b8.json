@@ -1,23 +1,23 @@
 {
   "agent_id": "aee41d41-0318-43ce-b6cd-e6a2def163b8",
-  "generated_at": "2025-12-10T00:00:52.498174",
+  "generated_at": "2025-12-11T00:00:38.744393",
   "basic_info": {
     "title": "Mechanical Image Generator",
     "author": "Darren",
-    "description": "This AI-powered agent generates a hyper-realistic 8K HD visualization of any everyday electronic product — such as a smartphone, game controller, or laptop — reimagined as a futuristic transparent mec...",
+    "description": "8K HD visualization of everyday electronics as futuristic transparent mechanical objects.",
     "short_description": "Visualizes electronics as transparent mechanical 8K HD objects.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-09-30T09:50:41.881000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/mechanical-image-generator",
-    "days_since_published": 70
+    "days_since_published": 71
   },
   "performance_metrics": {
     "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 70,
+    "days_tracked": 71,
     "price": 29.0,
     "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 21,
+    "data_points": 22,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-10T08:00:24.702216",
+    "last_recorded": "2025-12-11T08:00:23.962890",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -50,7 +50,8 @@
         "2025-12-08T14:26:09.126399",
         "2025-12-09T08:00:25.308684",
         "2025-12-09T11:25:33.198232",
-        "2025-12-10T08:00:24.702216"
+        "2025-12-10T08:00:24.702216",
+        "2025-12-11T08:00:23.962890"
       ],
       "views": [
         316,
@@ -73,12 +74,14 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "runs": [
         2,
         2,
         2,
+        0,
         0,
         0,
         0,
@@ -119,20 +122,21 @@
         0,
         0,
         0,
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 20,
+    "days_tracked": 21,
     "total_growth": {
       "views": -316,
       "runs": -2,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": -15.8,
+      "views": -15.05,
       "runs": -0.1,
       "saves": 0.0
     },
@@ -147,13 +151,13 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 222,
+    "total_active_agents": 224,
     "views_rank": 1,
     "runs_rank": 1,
-    "views_percentile": 99.5,
-    "runs_percentile": 99.5,
+    "views_percentile": 99.6,
+    "runs_percentile": 99.6,
     "category": "AI Agent",
-    "category_agent_count": 222,
+    "category_agent_count": 224,
     "vs_average": {
       "views": 0,
       "runs": 0,

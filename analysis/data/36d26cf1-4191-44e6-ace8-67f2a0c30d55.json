@@ -1,23 +1,23 @@
 {
   "agent_id": "36d26cf1-4191-44e6-ace8-67f2a0c30d55",
-  "generated_at": "2025-12-10T00:00:51.967903",
+  "generated_at": "2025-12-11T00:00:38.180732",
   "basic_info": {
     "title": "Video Face Swap",
     "author": "Darren",
-    "description": "Video Face Swap is an advanced AI face swapping tool that quickly replaces faces in videos with your chosen facial image, creating stunning face swap effects. Simply upload a high-definition video and...",
+    "description": "Replaces faces in videos with your chosen facial image for stunning face swap effects.",
     "short_description": "Swap faces in videos with high-precision AI.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-10-05T16:24:10.619000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/video-face-swap",
-    "days_since_published": 65
+    "days_since_published": 66
   },
   "performance_metrics": {
     "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 65,
+    "days_tracked": 66,
     "price": 99.0,
     "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 21,
+    "data_points": 22,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-10T08:00:24.702216",
+    "last_recorded": "2025-12-11T08:00:23.962890",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -50,7 +50,8 @@
         "2025-12-08T14:26:09.126399",
         "2025-12-09T08:00:25.308684",
         "2025-12-09T11:25:33.198232",
-        "2025-12-10T08:00:24.702216"
+        "2025-12-10T08:00:24.702216",
+        "2025-12-11T08:00:23.962890"
       ],
       "views": [
         523,
@@ -68,6 +69,7 @@
         539,
         544,
         544,
+        0,
         0,
         0,
         0,
@@ -96,9 +98,11 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -125,15 +129,15 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 20,
+    "days_tracked": 21,
     "total_growth": {
       "views": -523,
       "runs": -26,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": -26.15,
-      "runs": -1.3,
+      "views": -24.9,
+      "runs": -1.24,
       "saves": 0.0
     },
     "percentage_growth": {
@@ -147,13 +151,13 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 222,
+    "total_active_agents": 224,
     "views_rank": 1,
     "runs_rank": 1,
-    "views_percentile": 99.5,
-    "runs_percentile": 99.5,
+    "views_percentile": 99.6,
+    "runs_percentile": 99.6,
     "category": "AI Agent",
-    "category_agent_count": 222,
+    "category_agent_count": 224,
     "vs_average": {
       "views": 0,
       "runs": 0,

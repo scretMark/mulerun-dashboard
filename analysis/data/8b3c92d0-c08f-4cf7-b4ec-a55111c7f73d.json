@@ -1,23 +1,23 @@
 {
   "agent_id": "8b3c92d0-c08f-4cf7-b4ec-a55111c7f73d",
-  "generated_at": "2025-12-10T00:00:52.886262",
+  "generated_at": "2025-12-11T00:00:39.170351",
   "basic_info": {
     "title": "Cover Star Maker",
     "author": "YuTou_baby",
-    "description": "Create a magazine cover in seconds. Turn your photo into a Vogue or GQ magazine cover with bold typography and high-end styling, no design skills needed.",
+    "description": "Turn your photo into a Vogue or GQ magazine cover.",
     "short_description": "Transforms photos into fashion magazine covers.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-09-19T18:09:04.267000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@YuTou_baby/cover-star-maker",
-    "days_since_published": 81
+    "days_since_published": 82
   },
   "performance_metrics": {
     "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 81,
+    "days_tracked": 82,
     "price": 50.0,
     "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 21,
+    "data_points": 22,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-10T08:00:24.702216",
+    "last_recorded": "2025-12-11T08:00:23.962890",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -50,7 +50,8 @@
         "2025-12-08T14:26:09.126399",
         "2025-12-09T08:00:25.308684",
         "2025-12-09T11:25:33.198232",
-        "2025-12-10T08:00:24.702216"
+        "2025-12-10T08:00:24.702216",
+        "2025-12-11T08:00:23.962890"
       ],
       "views": [
         1567,
@@ -68,6 +69,7 @@
         1574,
         1582,
         1582,
+        0,
         0,
         0,
         0,
@@ -96,9 +98,11 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -125,14 +129,14 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 20,
+    "days_tracked": 21,
     "total_growth": {
       "views": -1567,
       "runs": 0,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": -78.35,
+      "views": -74.62,
       "runs": 0.0,
       "saves": 0.0
     },
@@ -147,13 +151,13 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 222,
+    "total_active_agents": 224,
     "views_rank": 1,
     "runs_rank": 1,
-    "views_percentile": 99.5,
-    "runs_percentile": 99.5,
+    "views_percentile": 99.6,
+    "runs_percentile": 99.6,
     "category": "AI Agent",
-    "category_agent_count": 222,
+    "category_agent_count": 224,
     "vs_average": {
       "views": 0,
       "runs": 0,

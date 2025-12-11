@@ -1,23 +1,23 @@
 {
   "agent_id": "e8dbe1b6-b207-436d-bec5-dd195ac74597",
-  "generated_at": "2025-12-10T00:00:53.105169",
+  "generated_at": "2025-12-11T00:00:39.392441",
   "basic_info": {
     "title": "Change Multiple Hairstyles",
     "author": "Darren",
-    "description": "Tired of wondering how you’d look with a new hairstyle? This AI-powered agent instantly transforms your portrait with multiple hairstyle options. Perfect for experimenting before making a real change....",
+    "description": "Transforms a single portrait into nine unique hairstyle choices.",
     "short_description": "Instantly visualize multiple new hairstyles on your portrait.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-10-20T11:33:47.987000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/change-multiple-hairstyles",
-    "days_since_published": 50
+    "days_since_published": 51
   },
   "performance_metrics": {
     "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 50,
+    "days_tracked": 51,
     "price": 51.0,
     "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 21,
+    "data_points": 22,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-10T08:00:24.702216",
+    "last_recorded": "2025-12-11T08:00:23.962890",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -50,7 +50,8 @@
         "2025-12-08T14:26:09.126399",
         "2025-12-09T08:00:25.308684",
         "2025-12-09T11:25:33.198232",
-        "2025-12-10T08:00:24.702216"
+        "2025-12-10T08:00:24.702216",
+        "2025-12-11T08:00:23.962890"
       ],
       "views": [
         304,
@@ -68,6 +69,7 @@
         316,
         317,
         317,
+        0,
         0,
         0,
         0,
@@ -96,9 +98,11 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -125,14 +129,14 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 20,
+    "days_tracked": 21,
     "total_growth": {
       "views": -304,
       "runs": 0,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": -15.2,
+      "views": -14.48,
       "runs": 0.0,
       "saves": 0.0
     },
@@ -147,13 +151,13 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 222,
+    "total_active_agents": 224,
     "views_rank": 1,
     "runs_rank": 1,
-    "views_percentile": 99.5,
-    "runs_percentile": 99.5,
+    "views_percentile": 99.6,
+    "runs_percentile": 99.6,
     "category": "AI Agent",
-    "category_agent_count": 222,
+    "category_agent_count": 224,
     "vs_average": {
       "views": 0,
       "runs": 0,

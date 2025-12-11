@@ -1,10 +1,10 @@
 {
   "agent_id": "017c8118-0f78-43e2-8b24-a1b7e4b6d5a2",
-  "generated_at": "2025-12-10T00:00:51.799267",
+  "generated_at": "2025-12-11T00:00:37.969406",
   "basic_info": {
     "title": "veeverse-tarot",
     "author": "veeverseai",
-    "description": "Discover your true self with AI-powered tarot, MBTI, and zodiac insights — a modern spiritual companion that connects psychology and mysticism for deep personal growth.\nIn a fast-paced world, many peo...",
+    "description": "AI-powered tarot, MBTI, and zodiac insights—a modern spiritual companion.",
     "short_description": "Interprets tarot, MBTI, zodiac for self-discovery and guidance.",
     "category": "AI Agent",
     "is_active": true,
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 19,
+    "data_points": 20,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-10T08:00:24.702216",
+    "last_recorded": "2025-12-11T08:00:23.962890",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -48,7 +48,8 @@
         "2025-12-08T14:26:09.126399",
         "2025-12-09T08:00:25.308684",
         "2025-12-09T11:25:33.198232",
-        "2025-12-10T08:00:24.702216"
+        "2025-12-10T08:00:24.702216",
+        "2025-12-11T08:00:23.962890"
       ],
       "views": [
         202,
@@ -64,6 +65,7 @@
         231,
         235,
         235,
+        0,
         0,
         0,
         0,
@@ -90,9 +92,11 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -117,15 +121,15 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 21,
+    "days_tracked": 22,
     "total_growth": {
       "views": -202,
       "runs": -53,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": -9.62,
-      "runs": -2.52,
+      "views": -9.18,
+      "runs": -2.41,
       "saves": 0.0
     },
     "percentage_growth": {
@@ -170,13 +174,13 @@
     ]
   },
   "market_position": {
-    "total_active_agents": 222,
+    "total_active_agents": 224,
     "views_rank": 1,
     "runs_rank": 1,
-    "views_percentile": 99.5,
-    "runs_percentile": 99.5,
+    "views_percentile": 99.6,
+    "runs_percentile": 99.6,
     "category": "AI Agent",
-    "category_agent_count": 222,
+    "category_agent_count": 224,
     "vs_average": {
       "views": 0,
       "runs": 0,

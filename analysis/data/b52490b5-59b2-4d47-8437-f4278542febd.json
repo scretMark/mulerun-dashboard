@@ -1,23 +1,23 @@
 {
   "agent_id": "b52490b5-59b2-4d47-8437-f4278542febd",
-  "generated_at": "2025-12-10T00:00:52.432312",
+  "generated_at": "2025-12-11T00:00:38.670432",
   "basic_info": {
     "title": "Quipple Meme Generator",
     "author": "akirakai",
-    "description": "Create viral pet memes with Quipple, a free pet meme generator. Generate funny reaction images with cat and dog memes using AI. Download pet memes PNG instantly.",
+    "description": "Generate funny reaction images with cat and dog memes using AI. ",
     "short_description": "Generates funny pet memes from text input.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-09-12T17:17:32.318000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@akirakai/quipple-meme-generator",
-    "days_since_published": 88
+    "days_since_published": 89
   },
   "performance_metrics": {
     "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 88,
+    "days_tracked": 89,
     "price": 0.5,
     "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 21,
+    "data_points": 22,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-10T08:00:24.702216",
+    "last_recorded": "2025-12-11T08:00:23.962890",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -50,7 +50,8 @@
         "2025-12-08T14:26:09.126399",
         "2025-12-09T08:00:25.308684",
         "2025-12-09T11:25:33.198232",
-        "2025-12-10T08:00:24.702216"
+        "2025-12-10T08:00:24.702216",
+        "2025-12-11T08:00:23.962890"
       ],
       "views": [
         1385,
@@ -68,6 +69,7 @@
         1411,
         1417,
         1419,
+        0,
         0,
         0,
         0,
@@ -96,9 +98,11 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -125,14 +129,14 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 20,
+    "days_tracked": 21,
     "total_growth": {
       "views": -1385,
       "runs": -2,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": -69.25,
+      "views": -65.95,
       "runs": -0.1,
       "saves": 0.0
     },
@@ -147,13 +151,13 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 222,
+    "total_active_agents": 224,
     "views_rank": 1,
     "runs_rank": 1,
-    "views_percentile": 99.5,
-    "runs_percentile": 99.5,
+    "views_percentile": 99.6,
+    "runs_percentile": 99.6,
     "category": "AI Agent",
-    "category_agent_count": 222,
+    "category_agent_count": 224,
     "vs_average": {
       "views": 0,
       "runs": 0,

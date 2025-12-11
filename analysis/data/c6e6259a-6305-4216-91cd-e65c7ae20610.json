@@ -1,23 +1,23 @@
 {
   "agent_id": "c6e6259a-6305-4216-91cd-e65c7ae20610",
-  "generated_at": "2025-12-10T00:00:52.952178",
+  "generated_at": "2025-12-11T00:00:39.244796",
   "basic_info": {
     "title": "EduCard Generator",
     "author": "LunarAITalk",
-    "description": "Welcome to EduCard Generator, your new AI-powered learning companion!\nIt transforms any topic into visually engaging, shareable learning cards. You can simplify complex ideas and go far beyond plain notes. Turn scientific concepts into illustrated guides, make historical events come alive with vibrant visuals, or transform vocabulary into memorable, themed flashcards. \nIt’s the perfect tool to make studying more fun, boost retention, and see every subject from a whole new perspective.",
+    "description": "Transform any topic into visual learning cards with AI-powered image generation.",
     "short_description": "Transforms topics into visual learning cards with images.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-09-14T14:19:31.754000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LunarAITalk/educard-generator",
-    "days_since_published": 86
+    "days_since_published": 87
   },
   "performance_metrics": {
     "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 86,
+    "days_tracked": 87,
     "price": 50.0,
     "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 21,
+    "data_points": 22,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-10T08:00:24.702216",
+    "last_recorded": "2025-12-11T08:00:23.962890",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -50,7 +50,8 @@
         "2025-12-08T14:26:09.126399",
         "2025-12-09T08:00:25.308684",
         "2025-12-09T11:25:33.198232",
-        "2025-12-10T08:00:24.702216"
+        "2025-12-10T08:00:24.702216",
+        "2025-12-11T08:00:23.962890"
       ],
       "views": [
         756,
@@ -68,6 +69,7 @@
         760,
         765,
         765,
+        0,
         0,
         0,
         0,
@@ -96,9 +98,11 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -125,14 +129,14 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 20,
+    "days_tracked": 21,
     "total_growth": {
       "views": -756,
       "runs": 0,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": -37.8,
+      "views": -36.0,
       "runs": 0.0,
       "saves": 0.0
     },
@@ -147,13 +151,13 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 222,
+    "total_active_agents": 224,
     "views_rank": 1,
     "runs_rank": 1,
-    "views_percentile": 99.5,
-    "runs_percentile": 99.5,
+    "views_percentile": 99.6,
+    "runs_percentile": 99.6,
     "category": "AI Agent",
-    "category_agent_count": 222,
+    "category_agent_count": 224,
     "vs_average": {
       "views": 0,
       "runs": 0,
