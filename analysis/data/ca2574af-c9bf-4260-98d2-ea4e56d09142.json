@@ -1,23 +1,23 @@
 {
   "agent_id": "ca2574af-c9bf-4260-98d2-ea4e56d09142",
-  "generated_at": "2025-12-11T00:00:38.956206",
+  "generated_at": "2025-12-12T00:01:11.341450",
   "basic_info": {
     "title": "FilmFace Changer",
     "author": "Darren",
-    "description": "FilmFace Changer is an AI-powered portrait creator that transforms a single photo into a cinematic styles grid. Each portrait blends classic film stock aesthetics with expressive moods, creating a uni...",
+    "description": "Create cinematic portrait grids with classic film aesthetics.",
     "short_description": "Generates a grid of portraits in diverse film styles and expressions.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-09-29T20:46:29.926000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/filmface-changer",
-    "days_since_published": 72
+    "days_since_published": 73
   },
   "performance_metrics": {
     "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 72,
+    "days_tracked": 73,
     "price": 66.0,
     "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 22,
+    "data_points": 23,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-11T08:00:23.962890",
+    "last_recorded": "2025-12-12T08:00:25.373075",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -51,7 +51,8 @@
         "2025-12-09T08:00:25.308684",
         "2025-12-09T11:25:33.198232",
         "2025-12-10T08:00:24.702216",
-        "2025-12-11T08:00:23.962890"
+        "2025-12-11T08:00:23.962890",
+        "2025-12-12T08:00:25.373075"
       ],
       "views": [
         275,
@@ -69,6 +70,7 @@
         278,
         279,
         279,
+        0,
         0,
         0,
         0,
@@ -99,9 +101,11 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -129,14 +133,14 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 21,
+    "days_tracked": 22,
     "total_growth": {
       "views": -275,
       "runs": -1,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": -13.1,
+      "views": -12.5,
       "runs": -0.05,
       "saves": 0.0
     },
@@ -151,13 +155,13 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 224,
+    "total_active_agents": 234,
     "views_rank": 1,
     "runs_rank": 1,
     "views_percentile": 99.6,
     "runs_percentile": 99.6,
     "category": "AI Agent",
-    "category_agent_count": 224,
+    "category_agent_count": 234,
     "vs_average": {
       "views": 0,
       "runs": 0,

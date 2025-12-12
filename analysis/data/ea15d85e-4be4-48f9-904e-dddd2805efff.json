@@ -1,23 +1,23 @@
 {
   "agent_id": "ea15d85e-4be4-48f9-904e-dddd2805efff",
-  "generated_at": "2025-12-11T00:00:38.799136",
+  "generated_at": "2025-12-12T00:01:11.167018",
   "basic_info": {
     "title": "Pet Morph Wizard",
     "author": "Milo_Em",
-    "description": "🔮Unleash the enchanting magic of pet transformations! Pet Morph Wizard, your AI-powered pet image generator, instantly fuses adorable pet photos with creative descriptions to craft exclusive dreamy p...",
+    "description": "Morph your pet into superheroes or fantasy characters.",
     "short_description": "Transforms pet photos into creative, dreamy art with AI.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-10-11T17:30:04.210000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Milo_Em/pet-morph-wizard",
-    "days_since_published": 60
+    "days_since_published": 61
   },
   "performance_metrics": {
     "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 60,
+    "days_tracked": 61,
     "price": 50.0,
     "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 22,
+    "data_points": 23,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-11T08:00:23.962890",
+    "last_recorded": "2025-12-12T08:00:25.373075",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -51,7 +51,8 @@
         "2025-12-09T08:00:25.308684",
         "2025-12-09T11:25:33.198232",
         "2025-12-10T08:00:24.702216",
-        "2025-12-11T08:00:23.962890"
+        "2025-12-11T08:00:23.962890",
+        "2025-12-12T08:00:25.373075"
       ],
       "views": [
         121,
@@ -75,6 +76,7 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "runs": [
@@ -85,6 +87,7 @@
         1,
         1,
         1,
+        0,
         0,
         0,
         0,
@@ -123,21 +126,22 @@
         0,
         0,
         0,
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 21,
+    "days_tracked": 22,
     "total_growth": {
       "views": -121,
       "runs": -2,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": -5.76,
-      "runs": -0.1,
+      "views": -5.5,
+      "runs": -0.09,
       "saves": 0.0
     },
     "percentage_growth": {
@@ -151,13 +155,13 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 224,
+    "total_active_agents": 234,
     "views_rank": 1,
     "runs_rank": 1,
     "views_percentile": 99.6,
     "runs_percentile": 99.6,
     "category": "AI Agent",
-    "category_agent_count": 224,
+    "category_agent_count": 234,
     "vs_average": {
       "views": 0,
       "runs": 0,

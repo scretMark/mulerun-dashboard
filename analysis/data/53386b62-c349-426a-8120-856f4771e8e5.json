@@ -1,23 +1,23 @@
 {
   "agent_id": "53386b62-c349-426a-8120-856f4771e8e5",
-  "generated_at": "2025-12-11T00:00:38.370338",
+  "generated_at": "2025-12-12T00:01:10.694728",
   "basic_info": {
     "title": "Multi-style Portrait Studio",
     "author": "AFei_AITalk",
-    "description": "Create stunning studio portraits with the AI selfie generator Choose from 50 themes and enjoy magazine-quality photos with perfect identity preservation.",
+    "description": "Turn photos into 8K studio portraits across 50 professional styles.",
     "short_description": "Generate professional studio portraits with various styles.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-11-10T17:34:54.782000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AFei_AITalk/multi-style-portrait-studio",
-    "days_since_published": 30
+    "days_since_published": 31
   },
   "performance_metrics": {
     "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 30,
+    "days_tracked": 31,
     "price": 45.0,
     "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 22,
+    "data_points": 23,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-11T08:00:23.962890",
+    "last_recorded": "2025-12-12T08:00:25.373075",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -51,7 +51,8 @@
         "2025-12-09T08:00:25.308684",
         "2025-12-09T11:25:33.198232",
         "2025-12-10T08:00:24.702216",
-        "2025-12-11T08:00:23.962890"
+        "2025-12-11T08:00:23.962890",
+        "2025-12-12T08:00:25.373075"
       ],
       "views": [
         96,
@@ -69,6 +70,7 @@
         109,
         115,
         115,
+        0,
         0,
         0,
         0,
@@ -99,9 +101,11 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -129,15 +133,15 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 21,
+    "days_tracked": 22,
     "total_growth": {
       "views": -96,
       "runs": -8,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": -4.57,
-      "runs": -0.38,
+      "views": -4.36,
+      "runs": -0.36,
       "saves": 0.0
     },
     "percentage_growth": {
@@ -151,13 +155,13 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 224,
+    "total_active_agents": 234,
     "views_rank": 1,
     "runs_rank": 1,
     "views_percentile": 99.6,
     "runs_percentile": 99.6,
     "category": "AI Agent",
-    "category_agent_count": 224,
+    "category_agent_count": 234,
     "vs_average": {
       "views": 0,
       "runs": 0,

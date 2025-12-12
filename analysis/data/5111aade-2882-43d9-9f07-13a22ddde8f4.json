@@ -1,23 +1,23 @@
 {
   "agent_id": "5111aade-2882-43d9-9f07-13a22ddde8f4",
-  "generated_at": "2025-12-11T00:00:39.110143",
+  "generated_at": "2025-12-12T00:01:11.482463",
   "basic_info": {
     "title": "Nimbus",
     "author": "Norsizu",
-    "description": "Transform your everyday photo into a unique artistic portrait, featuring you resting comfortably on a soft cloud.\nThis tool reimagines and generates your uploaded photo into an artistic studio portrai...",
+    "description": "Place you resting on a soft cloud in dreamy artistic portrait.",
     "short_description": "Transforms photos into artistic portraits on clouds.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-10-14T22:46:52.487000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/nimbus",
-    "days_since_published": 57
+    "days_since_published": 58
   },
   "performance_metrics": {
     "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 57,
+    "days_tracked": 58,
     "price": 50.0,
     "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 22,
+    "data_points": 23,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-11T08:00:23.962890",
+    "last_recorded": "2025-12-12T08:00:25.373075",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -51,7 +51,8 @@
         "2025-12-09T08:00:25.308684",
         "2025-12-09T11:25:33.198232",
         "2025-12-10T08:00:24.702216",
-        "2025-12-11T08:00:23.962890"
+        "2025-12-11T08:00:23.962890",
+        "2025-12-12T08:00:25.373075"
       ],
       "views": [
         87,
@@ -75,12 +76,14 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "runs": [
         1,
         1,
         1,
+        0,
         0,
         0,
         0,
@@ -123,20 +126,21 @@
         0,
         0,
         0,
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 21,
+    "days_tracked": 22,
     "total_growth": {
       "views": -87,
       "runs": -1,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": -4.14,
+      "views": -3.95,
       "runs": -0.05,
       "saves": 0.0
     },
@@ -151,13 +155,13 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 224,
+    "total_active_agents": 234,
     "views_rank": 1,
     "runs_rank": 1,
     "views_percentile": 99.6,
     "runs_percentile": 99.6,
     "category": "AI Agent",
-    "category_agent_count": 224,
+    "category_agent_count": 234,
     "vs_average": {
       "views": 0,
       "runs": 0,
