@@ -1,6 +1,6 @@
 {
   "agent_id": "017c8118-0f78-43e2-8b24-a1b7e4b6d5a2",
-  "generated_at": "2025-12-12T00:01:10.227589",
+  "generated_at": "2025-12-13T00:00:51.439621",
   "basic_info": {
     "title": "veeverse-tarot",
     "author": "veeverseai",
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 21,
+    "data_points": 22,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-12T08:00:25.373075",
+    "last_recorded": "2025-12-13T08:00:26.854786",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -50,7 +50,8 @@
         "2025-12-09T11:25:33.198232",
         "2025-12-10T08:00:24.702216",
         "2025-12-11T08:00:23.962890",
-        "2025-12-12T08:00:25.373075"
+        "2025-12-12T08:00:25.373075",
+        "2025-12-13T08:00:26.854786"
       ],
       "views": [
         202,
@@ -66,6 +67,7 @@
         231,
         235,
         235,
+        0,
         0,
         0,
         0,
@@ -96,9 +98,11 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -125,15 +129,15 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 23,
+    "days_tracked": 24,
     "total_growth": {
       "views": -202,
       "runs": -53,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": -8.78,
-      "runs": -2.3,
+      "views": -8.42,
+      "runs": -2.21,
       "saves": 0.0
     },
     "percentage_growth": {
@@ -178,13 +182,13 @@
     ]
   },
   "market_position": {
-    "total_active_agents": 234,
+    "total_active_agents": 239,
     "views_rank": 1,
     "runs_rank": 1,
     "views_percentile": 99.6,
     "runs_percentile": 99.6,
     "category": "AI Agent",
-    "category_agent_count": 234,
+    "category_agent_count": 239,
     "vs_average": {
       "views": 0,
       "runs": 0,

@@ -1,0 +1,86 @@
+{
+  "agent_id": "d26cbc72-a70f-4661-815a-cd0075968921",
+  "generated_at": "2025-12-13T00:00:53.963860",
+  "basic_info": {
+    "title": "Pretend I was here",
+    "author": "Barry",
+    "description": "Turn your photos into realistic travel memories at any landmark instantly.",
+    "short_description": "Place yourself in famous landmarks for realistic travel photos.",
+    "category": "AI Agent",
+    "is_active": true,
+    "published_at": "2025-12-09T09:50:37.765000",
+    "last_seen": null,
+    "profile_url": "https://mulerun.com/workspace/@Barry/pretend-i-was-here",
+    "days_since_published": 3
+  },
+  "performance_metrics": {
+    "views": 0,
+    "runs": 0,
+    "saves": 0,
+    "days_tracked": 3,
+    "price": 46.0,
+    "engagement_rate": 0,
+    "avg_runs_per_day": 0.0,
+    "avg_views_per_day": 0.0
+  },
+  "historical_trends": {
+    "has_data": true,
+    "data_points": 1,
+    "first_recorded": "2025-12-13T08:00:26.854786",
+    "last_recorded": "2025-12-13T08:00:26.854786",
+    "time_series": {
+      "dates": [
+        "2025-12-13T08:00:26.854786"
+      ],
+      "views": [
+        0
+      ],
+      "runs": [
+        0
+      ],
+      "saves": [
+        0
+      ]
+    }
+  },
+  "growth_analysis": {
+    "has_data": false
+  },
+  "change_history": {
+    "total_changes": 1,
+    "changes": [
+      {
+        "date": "2025-12-13T00:00:25.411838",
+        "type": "new",
+        "description": "New agent published: Pretend I was here",
+        "severity": "medium"
+      }
+    ]
+  },
+  "market_position": {
+    "total_active_agents": 239,
+    "views_rank": 1,
+    "runs_rank": 1,
+    "views_percentile": 99.6,
+    "runs_percentile": 99.6,
+    "category": "AI Agent",
+    "category_agent_count": 239,
+    "vs_average": {
+      "views": 0,
+      "runs": 0,
+      "saves": 0
+    }
+  },
+  "insights": [
+    {
+      "type": "warning",
+      "title": "Low Engagement Rate",
+      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
+    },
+    {
+      "type": "positive",
+      "title": "Top Performer",
+      "description": "This agent ranks in the top 0% by views, placing it among the most popular agents."
+    }
+  ]
+}

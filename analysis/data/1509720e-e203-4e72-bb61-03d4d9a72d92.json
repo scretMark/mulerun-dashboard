@@ -1,6 +1,6 @@
 {
   "agent_id": "1509720e-e203-4e72-bb61-03d4d9a72d92",
-  "generated_at": "2025-12-12T00:01:10.542215",
+  "generated_at": "2025-12-13T00:00:51.700685",
   "basic_info": {
     "title": "Doc2Presentation",
     "author": "charlin",
@@ -11,13 +11,13 @@
     "published_at": "2025-10-16T00:13:38.438000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@charlin/doc2presentation",
-    "days_since_published": 56
+    "days_since_published": 57
   },
   "performance_metrics": {
     "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "price": 100.0,
     "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 23,
+    "data_points": 24,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-12T08:00:25.373075",
+    "last_recorded": "2025-12-13T08:00:26.854786",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -52,7 +52,8 @@
         "2025-12-09T11:25:33.198232",
         "2025-12-10T08:00:24.702216",
         "2025-12-11T08:00:23.962890",
-        "2025-12-12T08:00:25.373075"
+        "2025-12-12T08:00:25.373075",
+        "2025-12-13T08:00:26.854786"
       ],
       "views": [
         668,
@@ -70,6 +71,7 @@
         695,
         707,
         707,
+        0,
         0,
         0,
         0,
@@ -102,9 +104,11 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -133,15 +137,15 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 22,
+    "days_tracked": 23,
     "total_growth": {
       "views": -668,
       "runs": -17,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": -30.36,
-      "runs": -0.77,
+      "views": -29.04,
+      "runs": -0.74,
       "saves": 0.0
     },
     "percentage_growth": {
@@ -155,13 +159,13 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 234,
+    "total_active_agents": 239,
     "views_rank": 1,
     "runs_rank": 1,
     "views_percentile": 99.6,
     "runs_percentile": 99.6,
     "category": "AI Agent",
-    "category_agent_count": 234,
+    "category_agent_count": 239,
     "vs_average": {
       "views": 0,
       "runs": 0,

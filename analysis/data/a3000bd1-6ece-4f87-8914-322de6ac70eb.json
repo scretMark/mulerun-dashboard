@@ -1,6 +1,6 @@
 {
   "agent_id": "a3000bd1-6ece-4f87-8914-322de6ac70eb",
-  "generated_at": "2025-12-12T00:01:10.738029",
+  "generated_at": "2025-12-13T00:00:51.887143",
   "basic_info": {
     "title": "Giant Prop Studio",
     "author": "Lucas",
@@ -11,13 +11,13 @@
     "published_at": "2025-10-31T15:37:32.015000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/giant-prop-studio",
-    "days_since_published": 41
+    "days_since_published": 42
   },
   "performance_metrics": {
     "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "price": 49.0,
     "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 23,
+    "data_points": 24,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-12T08:00:25.373075",
+    "last_recorded": "2025-12-13T08:00:26.854786",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -52,7 +52,8 @@
         "2025-12-09T11:25:33.198232",
         "2025-12-10T08:00:24.702216",
         "2025-12-11T08:00:23.962890",
-        "2025-12-12T08:00:25.373075"
+        "2025-12-12T08:00:25.373075",
+        "2025-12-13T08:00:26.854786"
       ],
       "views": [
         193,
@@ -77,6 +78,7 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "runs": [
@@ -94,6 +96,7 @@
         1,
         1,
         1,
+        0,
         0,
         0,
         0,
@@ -127,21 +130,22 @@
         0,
         0,
         0,
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 22,
+    "days_tracked": 23,
     "total_growth": {
       "views": -193,
       "runs": -7,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": -8.77,
-      "runs": -0.32,
+      "views": -8.39,
+      "runs": -0.3,
       "saves": 0.0
     },
     "percentage_growth": {
@@ -155,13 +159,13 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 234,
+    "total_active_agents": 239,
     "views_rank": 1,
     "runs_rank": 1,
     "views_percentile": 99.6,
     "runs_percentile": 99.6,
     "category": "AI Agent",
-    "category_agent_count": 234,
+    "category_agent_count": 239,
     "vs_average": {
       "views": 0,
       "runs": 0,
