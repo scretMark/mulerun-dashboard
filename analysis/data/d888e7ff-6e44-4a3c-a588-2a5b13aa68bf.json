@@ -1,6 +1,6 @@
 {
   "agent_id": "d888e7ff-6e44-4a3c-a588-2a5b13aa68bf",
-  "generated_at": "2025-12-13T00:00:52.258553",
+  "generated_at": "2025-12-14T00:00:43.990110",
   "basic_info": {
     "title": "n8n stylist",
     "author": "summerail",
@@ -11,13 +11,13 @@
     "published_at": "2025-10-04T14:40:15.184000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/n8n-stylist",
-    "days_since_published": 69
+    "days_since_published": 70
   },
   "performance_metrics": {
     "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 69,
+    "days_tracked": 70,
     "price": 60.0,
     "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 24,
+    "data_points": 25,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-13T08:00:26.854786",
+    "last_recorded": "2025-12-14T08:00:33.104463",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -53,7 +53,8 @@
         "2025-12-10T08:00:24.702216",
         "2025-12-11T08:00:23.962890",
         "2025-12-12T08:00:25.373075",
-        "2025-12-13T08:00:26.854786"
+        "2025-12-13T08:00:26.854786",
+        "2025-12-14T08:00:33.104463"
       ],
       "views": [
         302,
@@ -79,12 +80,14 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "runs": [
         2,
         2,
         1,
+        0,
         0,
         0,
         0,
@@ -131,21 +134,22 @@
         0,
         0,
         0,
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 23,
+    "days_tracked": 24,
     "total_growth": {
       "views": -302,
       "runs": -2,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": -13.13,
-      "runs": -0.09,
+      "views": -12.58,
+      "runs": -0.08,
       "saves": 0.0
     },
     "percentage_growth": {

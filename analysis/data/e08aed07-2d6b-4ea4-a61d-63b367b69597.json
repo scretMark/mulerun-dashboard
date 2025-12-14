@@ -1,6 +1,6 @@
 {
   "agent_id": "e08aed07-2d6b-4ea4-a61d-63b367b69597",
-  "generated_at": "2025-12-13T00:00:53.491806",
+  "generated_at": "2025-12-14T00:00:45.194298",
   "basic_info": {
     "title": "Winter Cinema",
     "author": "luckyy",
@@ -11,13 +11,13 @@
     "published_at": "2025-11-20T15:43:31.761000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@luckyy/winter-cinema",
-    "days_since_published": 22
+    "days_since_published": 23
   },
   "performance_metrics": {
     "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 22,
+    "days_tracked": 23,
     "price": 23.0,
     "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 21,
+    "data_points": 22,
     "first_recorded": "2025-11-23T13:27:48.290198",
-    "last_recorded": "2025-12-13T08:00:26.854786",
+    "last_recorded": "2025-12-14T08:00:33.104463",
     "time_series": {
       "dates": [
         "2025-11-23T13:27:48.290198",
@@ -50,7 +50,8 @@
         "2025-12-10T08:00:24.702216",
         "2025-12-11T08:00:23.962890",
         "2025-12-12T08:00:25.373075",
-        "2025-12-13T08:00:26.854786"
+        "2025-12-13T08:00:26.854786",
+        "2025-12-14T08:00:33.104463"
       ],
       "views": [
         39,
@@ -65,6 +66,7 @@
         58,
         59,
         60,
+        0,
         0,
         0,
         0,
@@ -96,9 +98,11 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -125,15 +129,15 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 19,
+    "days_tracked": 20,
     "total_growth": {
       "views": -39,
       "runs": -49,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": -2.05,
-      "runs": -2.58,
+      "views": -1.95,
+      "runs": -2.45,
       "saves": 0.0
     },
     "percentage_growth": {

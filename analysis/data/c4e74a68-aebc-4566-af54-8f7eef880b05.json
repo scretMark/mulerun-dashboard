@@ -1,6 +1,6 @@
 {
   "agent_id": "c4e74a68-aebc-4566-af54-8f7eef880b05",
-  "generated_at": "2025-12-13T00:00:53.732053",
+  "generated_at": "2025-12-14T00:00:45.423000",
   "basic_info": {
     "title": "CoinAnalyst Pro",
     "author": "Barry",
@@ -11,13 +11,13 @@
     "published_at": "2025-12-06T23:56:50.364000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Barry/coinanalyst-pro",
-    "days_since_published": 6
+    "days_since_published": 7
   },
   "performance_metrics": {
     "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 6,
+    "days_tracked": 7,
     "price": 78.0,
     "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
@@ -25,17 +25,19 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 4,
+    "data_points": 5,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2025-12-13T08:00:26.854786",
+    "last_recorded": "2025-12-14T08:00:33.104463",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
         "2025-12-11T08:00:23.962890",
         "2025-12-12T08:00:25.373075",
-        "2025-12-13T08:00:26.854786"
+        "2025-12-13T08:00:26.854786",
+        "2025-12-14T08:00:33.104463"
       ],
       "views": [
+        0,
         0,
         0,
         0,
@@ -45,9 +47,11 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -57,7 +61,7 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 3,
+    "days_tracked": 4,
     "total_growth": {
       "views": 0,
       "runs": 0,

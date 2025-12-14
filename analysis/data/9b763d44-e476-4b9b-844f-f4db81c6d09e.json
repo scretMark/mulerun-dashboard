@@ -1,6 +1,6 @@
 {
   "agent_id": "9b763d44-e476-4b9b-844f-f4db81c6d09e",
-  "generated_at": "2025-12-13T00:00:53.551708",
+  "generated_at": "2025-12-14T00:00:45.256566",
   "basic_info": {
     "title": "Christmas costume generator",
     "author": "luckyy",
@@ -11,13 +11,13 @@
     "published_at": "2025-11-25T17:16:09.297000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@luckyy/christmas-costume-generator",
-    "days_since_published": 17
+    "days_since_published": 18
   },
   "performance_metrics": {
     "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 17,
+    "days_tracked": 18,
     "price": 28.0,
     "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 14,
+    "data_points": 15,
     "first_recorded": "2025-11-27T08:00:22.157746",
-    "last_recorded": "2025-12-13T08:00:26.854786",
+    "last_recorded": "2025-12-14T08:00:33.104463",
     "time_series": {
       "dates": [
         "2025-11-27T08:00:22.157746",
@@ -43,7 +43,8 @@
         "2025-12-10T08:00:24.702216",
         "2025-12-11T08:00:23.962890",
         "2025-12-12T08:00:25.373075",
-        "2025-12-13T08:00:26.854786"
+        "2025-12-13T08:00:26.854786",
+        "2025-12-14T08:00:33.104463"
       ],
       "views": [
         55,
@@ -51,6 +52,7 @@
         58,
         61,
         62,
+        0,
         0,
         0,
         0,
@@ -75,9 +77,11 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -97,15 +101,15 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 16,
+    "days_tracked": 17,
     "total_growth": {
       "views": -55,
       "runs": -121,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": -3.44,
-      "runs": -7.56,
+      "views": -3.24,
+      "runs": -7.12,
       "saves": 0.0
     },
     "percentage_growth": {

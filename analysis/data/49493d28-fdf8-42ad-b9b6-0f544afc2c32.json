@@ -1,6 +1,6 @@
 {
   "agent_id": "49493d28-fdf8-42ad-b9b6-0f544afc2c32",
-  "generated_at": "2025-12-13T00:00:52.949890",
+  "generated_at": "2025-12-14T00:00:44.637149",
   "basic_info": {
     "title": "Chinese Animal",
     "author": "dotb78",
@@ -11,13 +11,13 @@
     "published_at": "2025-09-25T22:23:02.692000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@dotb78/chinese-animal",
-    "days_since_published": 78
+    "days_since_published": 79
   },
   "performance_metrics": {
     "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 78,
+    "days_tracked": 79,
     "price": 35.0,
     "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 24,
+    "data_points": 25,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-13T08:00:26.854786",
+    "last_recorded": "2025-12-14T08:00:33.104463",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -53,7 +53,8 @@
         "2025-12-10T08:00:24.702216",
         "2025-12-11T08:00:23.962890",
         "2025-12-12T08:00:25.373075",
-        "2025-12-13T08:00:26.854786"
+        "2025-12-13T08:00:26.854786",
+        "2025-12-14T08:00:33.104463"
       ],
       "views": [
         347,
@@ -79,9 +80,11 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "runs": [
+        0,
         0,
         0,
         0,
@@ -131,20 +134,21 @@
         0,
         0,
         0,
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 23,
+    "days_tracked": 24,
     "total_growth": {
       "views": -347,
       "runs": 0,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": -15.09,
+      "views": -14.46,
       "runs": 0.0,
       "saves": 0.0
     },
