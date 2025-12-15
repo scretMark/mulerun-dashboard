@@ -1,6 +1,6 @@
 {
   "agent_id": "b88f4481-003a-4da7-8ab0-ab801f2dde61",
-  "generated_at": "2025-12-14T00:00:42.890345",
+  "generated_at": "2025-12-15T00:00:35.723832",
   "basic_info": {
     "title": "Virtual Try On",
     "author": "PicCopilot",
@@ -11,13 +11,13 @@
     "published_at": "2025-11-11T19:30:42.097000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/virtual-try-on",
-    "days_since_published": 32
+    "days_since_published": 33
   },
   "performance_metrics": {
     "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 32,
+    "days_tracked": 33,
     "price": 0.0,
     "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 26,
+    "data_points": 27,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-14T08:00:33.104463",
+    "last_recorded": "2025-12-15T08:00:24.739668",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -55,7 +55,8 @@
         "2025-12-11T08:00:23.962890",
         "2025-12-12T08:00:25.373075",
         "2025-12-13T08:00:26.854786",
-        "2025-12-14T08:00:33.104463"
+        "2025-12-14T08:00:33.104463",
+        "2025-12-15T08:00:24.739668"
       ],
       "views": [
         280,
@@ -74,6 +75,7 @@
         612,
         669,
         683,
+        0,
         0,
         0,
         0,
@@ -111,9 +113,11 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -145,15 +149,15 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 25,
+    "days_tracked": 26,
     "total_growth": {
       "views": -280,
       "runs": -961,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": -11.2,
-      "runs": -38.44,
+      "views": -10.77,
+      "runs": -36.96,
       "saves": 0.0
     },
     "percentage_growth": {
