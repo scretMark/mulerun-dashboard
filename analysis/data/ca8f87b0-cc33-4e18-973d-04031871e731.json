@@ -1,6 +1,6 @@
 {
   "agent_id": "ca8f87b0-cc33-4e18-973d-04031871e731",
-  "generated_at": "2025-12-15T00:00:35.885134",
+  "generated_at": "2025-12-16T11:10:19.348758",
   "basic_info": {
     "title": "General Browser Operator",
     "author": "Ailurus",
@@ -11,13 +11,13 @@
     "published_at": "2025-10-31T13:30:41.517000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Ailurus/general-browser-operator",
-    "days_since_published": 44
+    "days_since_published": 45
   },
   "performance_metrics": {
     "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 44,
+    "days_tracked": 45,
     "price": 1.0,
     "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 27,
+    "data_points": 28,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-15T08:00:24.739668",
+    "last_recorded": "2025-12-16T19:09:41.063612",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -56,7 +56,8 @@
         "2025-12-12T08:00:25.373075",
         "2025-12-13T08:00:26.854786",
         "2025-12-14T08:00:33.104463",
-        "2025-12-15T08:00:24.739668"
+        "2025-12-15T08:00:24.739668",
+        "2025-12-16T19:09:41.063612"
       ],
       "views": [
         6135,
@@ -75,6 +76,7 @@
         6554,
         6661,
         6682,
+        0,
         0,
         0,
         0,
@@ -114,9 +116,11 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -149,15 +153,15 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 26,
+    "days_tracked": 28,
     "total_growth": {
       "views": -6135,
       "runs": -80,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": -235.96,
-      "runs": -3.08,
+      "views": -219.11,
+      "runs": -2.86,
       "saves": 0.0
     },
     "percentage_growth": {
@@ -171,13 +175,13 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 239,
+    "total_active_agents": 244,
     "views_rank": 1,
     "runs_rank": 1,
     "views_percentile": 99.6,
     "runs_percentile": 99.6,
     "category": "AI Agent",
-    "category_agent_count": 239,
+    "category_agent_count": 244,
     "vs_average": {
       "views": 0,
       "runs": 0,

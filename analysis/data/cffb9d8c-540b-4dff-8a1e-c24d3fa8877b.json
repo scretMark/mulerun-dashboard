@@ -1,6 +1,6 @@
 {
   "agent_id": "cffb9d8c-540b-4dff-8a1e-c24d3fa8877b",
-  "generated_at": "2025-12-15T00:00:36.185392",
+  "generated_at": "2025-12-16T11:10:19.695959",
   "basic_info": {
     "title": "ID Photo",
     "author": "HongwuQz",
@@ -11,13 +11,13 @@
     "published_at": "2025-09-25T12:49:57.242000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@HongwuQz/id-photo",
-    "days_since_published": 80
+    "days_since_published": 81
   },
   "performance_metrics": {
     "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 80,
+    "days_tracked": 81,
     "price": 50.0,
     "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 26,
+    "data_points": 27,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-15T08:00:24.739668",
+    "last_recorded": "2025-12-16T19:09:41.063612",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -55,7 +55,8 @@
         "2025-12-12T08:00:25.373075",
         "2025-12-13T08:00:26.854786",
         "2025-12-14T08:00:33.104463",
-        "2025-12-15T08:00:24.739668"
+        "2025-12-15T08:00:24.739668",
+        "2025-12-16T19:09:41.063612"
       ],
       "views": [
         675,
@@ -73,6 +74,7 @@
         712,
         720,
         720,
+        0,
         0,
         0,
         0,
@@ -111,9 +113,11 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "saves": [
+        0,
         0,
         0,
         0,
@@ -145,15 +149,15 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 25,
+    "days_tracked": 27,
     "total_growth": {
       "views": -675,
       "runs": -17,
       "saves": 0
     },
     "daily_average_growth": {
-      "views": -27.0,
-      "runs": -0.68,
+      "views": -25.0,
+      "runs": -0.63,
       "saves": 0.0
     },
     "percentage_growth": {
@@ -167,13 +171,13 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 239,
+    "total_active_agents": 244,
     "views_rank": 1,
     "runs_rank": 1,
     "views_percentile": 99.6,
     "runs_percentile": 99.6,
     "category": "AI Agent",
-    "category_agent_count": 239,
+    "category_agent_count": 244,
     "vs_average": {
       "views": 0,
       "runs": 0,

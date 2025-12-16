@@ -1,0 +1,86 @@
+{
+  "agent_id": "2e902b59-7a30-4db6-9dd6-670d34e30fb8",
+  "generated_at": "2025-12-16T11:10:22.261164",
+  "basic_info": {
+    "title": "PostcardGenie",
+    "author": "AneX",
+    "description": "Turn your travel photos or ideas into stunning artistic postcards.",
+    "short_description": "Turns travel photos or ideas into artistic digital postcards.",
+    "category": "AI Agent",
+    "is_active": true,
+    "published_at": "2025-12-12T12:32:37.864000",
+    "last_seen": null,
+    "profile_url": "https://mulerun.com/workspace/@AneX/postcardgenie",
+    "days_since_published": 3
+  },
+  "performance_metrics": {
+    "views": 0,
+    "runs": 0,
+    "saves": 0,
+    "days_tracked": 3,
+    "price": 60.0,
+    "engagement_rate": 0,
+    "avg_runs_per_day": 0.0,
+    "avg_views_per_day": 0.0
+  },
+  "historical_trends": {
+    "has_data": true,
+    "data_points": 1,
+    "first_recorded": "2025-12-16T19:09:41.063612",
+    "last_recorded": "2025-12-16T19:09:41.063612",
+    "time_series": {
+      "dates": [
+        "2025-12-16T19:09:41.063612"
+      ],
+      "views": [
+        0
+      ],
+      "runs": [
+        0
+      ],
+      "saves": [
+        0
+      ]
+    }
+  },
+  "growth_analysis": {
+    "has_data": false
+  },
+  "change_history": {
+    "total_changes": 1,
+    "changes": [
+      {
+        "date": "2025-12-16T11:09:42.281872",
+        "type": "new",
+        "description": "New agent published: PostcardGenie",
+        "severity": "medium"
+      }
+    ]
+  },
+  "market_position": {
+    "total_active_agents": 244,
+    "views_rank": 1,
+    "runs_rank": 1,
+    "views_percentile": 99.6,
+    "runs_percentile": 99.6,
+    "category": "AI Agent",
+    "category_agent_count": 244,
+    "vs_average": {
+      "views": 0,
+      "runs": 0,
+      "saves": 0
+    }
+  },
+  "insights": [
+    {
+      "type": "warning",
+      "title": "Low Engagement Rate",
+      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
+    },
+    {
+      "type": "positive",
+      "title": "Top Performer",
+      "description": "This agent ranks in the top 0% by views, placing it among the most popular agents."
+    }
+  ]
+}
