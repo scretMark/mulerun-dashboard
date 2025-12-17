@@ -1,6 +1,6 @@
 {
   "agent_id": "a1d31429-2812-46a5-9371-cd901ee0e441",
-  "generated_at": "2025-12-16T11:10:21.602986",
+  "generated_at": "2025-12-17T00:01:08.595901",
   "basic_info": {
     "title": "SpeechMeme",
     "author": "AllenCreator",
@@ -11,13 +11,13 @@
     "published_at": "2025-10-13T15:47:08.063000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AllenCreator/speehmeme",
-    "days_since_published": 63
+    "days_since_published": 64
   },
   "performance_metrics": {
     "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 63,
+    "days_tracked": 64,
     "price": 25.0,
     "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 27,
+    "data_points": 29,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-16T19:09:41.063612",
+    "last_recorded": "2025-12-17T08:00:57.764340",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -56,7 +56,9 @@
         "2025-12-13T08:00:26.854786",
         "2025-12-14T08:00:33.104463",
         "2025-12-15T08:00:24.739668",
-        "2025-12-16T19:09:41.063612"
+        "2025-12-16T19:09:41.063612",
+        "2025-12-16T21:38:18.856537",
+        "2025-12-17T08:00:57.764340"
       ],
       "views": [
         86,
@@ -74,6 +76,8 @@
         91,
         92,
         92,
+        0,
+        0,
         0,
         0,
         0,
@@ -114,9 +118,13 @@
         0,
         0,
         0,
+        0,
+        0,
         0
       ],
       "saves": [
+        0,
+        0,
         0,
         0,
         0,
@@ -171,13 +179,13 @@
     "changes": []
   },
   "market_position": {
-    "total_active_agents": 244,
+    "total_active_agents": 245,
     "views_rank": 1,
     "runs_rank": 1,
     "views_percentile": 99.6,
     "runs_percentile": 99.6,
     "category": "AI Agent",
-    "category_agent_count": 244,
+    "category_agent_count": 245,
     "vs_average": {
       "views": 0,
       "runs": 0,

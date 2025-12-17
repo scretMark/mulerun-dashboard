@@ -1,6 +1,6 @@
 {
   "agent_id": "e08aed07-2d6b-4ea4-a61d-63b367b69597",
-  "generated_at": "2025-12-16T11:10:21.726910",
+  "generated_at": "2025-12-17T00:01:08.694822",
   "basic_info": {
     "title": "Winter Cinema",
     "author": "luckyy",
@@ -11,13 +11,13 @@
     "published_at": "2025-11-20T15:43:31.761000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@luckyy/winter-cinema",
-    "days_since_published": 25
+    "days_since_published": 26
   },
   "performance_metrics": {
     "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 25,
+    "days_tracked": 26,
     "price": 23.0,
     "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 24,
+    "data_points": 26,
     "first_recorded": "2025-11-23T13:27:48.290198",
-    "last_recorded": "2025-12-16T19:09:41.063612",
+    "last_recorded": "2025-12-17T08:00:57.764340",
     "time_series": {
       "dates": [
         "2025-11-23T13:27:48.290198",
@@ -53,7 +53,9 @@
         "2025-12-13T08:00:26.854786",
         "2025-12-14T08:00:33.104463",
         "2025-12-15T08:00:24.739668",
-        "2025-12-16T19:09:41.063612"
+        "2025-12-16T19:09:41.063612",
+        "2025-12-16T21:38:18.856537",
+        "2025-12-17T08:00:57.764340"
       ],
       "views": [
         39,
@@ -68,6 +70,8 @@
         58,
         59,
         60,
+        0,
+        0,
         0,
         0,
         0,
@@ -105,9 +109,13 @@
         0,
         0,
         0,
+        0,
+        0,
         0
       ],
       "saves": [
+        0,
+        0,
         0,
         0,
         0,
@@ -166,13 +174,13 @@
     ]
   },
   "market_position": {
-    "total_active_agents": 244,
+    "total_active_agents": 245,
     "views_rank": 1,
     "runs_rank": 1,
     "views_percentile": 99.6,
     "runs_percentile": 99.6,
     "category": "AI Agent",
-    "category_agent_count": 244,
+    "category_agent_count": 245,
     "vs_average": {
       "views": 0,
       "runs": 0,

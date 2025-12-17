@@ -1,6 +1,6 @@
 {
   "agent_id": "bd54b71a-e406-4cb8-b8d1-4360a797ee73",
-  "generated_at": "2025-12-16T11:10:22.240229",
+  "generated_at": "2025-12-17T00:01:09.168576",
   "basic_info": {
     "title": "QuotePress-Card Maker",
     "author": "AneX",
@@ -11,13 +11,13 @@
     "published_at": "2025-12-12T13:35:41.437000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AneX/quotepress-card-maker",
-    "days_since_published": 3
+    "days_since_published": 4
   },
   "performance_metrics": {
     "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 3,
+    "days_tracked": 4,
     "price": 60.0,
     "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
@@ -25,26 +25,50 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 1,
+    "data_points": 3,
     "first_recorded": "2025-12-16T19:09:41.063612",
-    "last_recorded": "2025-12-16T19:09:41.063612",
+    "last_recorded": "2025-12-17T08:00:57.764340",
     "time_series": {
       "dates": [
-        "2025-12-16T19:09:41.063612"
+        "2025-12-16T19:09:41.063612",
+        "2025-12-16T21:38:18.856537",
+        "2025-12-17T08:00:57.764340"
       ],
       "views": [
+        0,
+        0,
         0
       ],
       "runs": [
+        0,
+        0,
         0
       ],
       "saves": [
+        0,
+        0,
         0
       ]
     }
   },
   "growth_analysis": {
-    "has_data": false
+    "has_data": true,
+    "days_tracked": 1,
+    "total_growth": {
+      "views": 0,
+      "runs": 0,
+      "saves": 0
+    },
+    "daily_average_growth": {
+      "views": 0.0,
+      "runs": 0.0,
+      "saves": 0.0
+    },
+    "percentage_growth": {
+      "views": 0,
+      "runs": 0,
+      "saves": 0
+    }
   },
   "change_history": {
     "total_changes": 1,
@@ -58,13 +82,13 @@
     ]
   },
   "market_position": {
-    "total_active_agents": 244,
+    "total_active_agents": 245,
     "views_rank": 1,
     "runs_rank": 1,
     "views_percentile": 99.6,
     "runs_percentile": 99.6,
     "category": "AI Agent",
-    "category_agent_count": 244,
+    "category_agent_count": 245,
     "vs_average": {
       "views": 0,
       "runs": 0,

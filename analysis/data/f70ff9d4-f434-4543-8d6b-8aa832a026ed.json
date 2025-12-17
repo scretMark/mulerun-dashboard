@@ -1,23 +1,23 @@
 {
   "agent_id": "f70ff9d4-f434-4543-8d6b-8aa832a026ed",
-  "generated_at": "2025-12-16T11:10:02.989989",
+  "generated_at": "2025-12-17T00:01:03.243390",
   "basic_info": {
     "title": "Instant SEO Blog Writer",
     "author": "YuTou_baby",
     "description": "Plan, research, and publish SEO-ready blog posts—with cover image & structured text—in minutes.",
-    "short_description": "Plans, researches, and writes SEO-ready blog posts with cover image.",
+    "short_description": "Writes and publishes SEO-ready blog posts with images.",
     "category": "AI Agent",
     "is_active": false,
     "published_at": "2025-09-14T14:03:35.759000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@YuTou_baby/instant-seo-blog-writer",
-    "days_since_published": 92
+    "days_since_published": 93
   },
   "performance_metrics": {
     "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 92,
+    "days_tracked": 93,
     "price": 100.0,
     "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 25,
+    "data_points": 27,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-16T19:09:41.063612",
+    "last_recorded": "2025-12-17T08:00:57.764340",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -54,7 +54,9 @@
         "2025-12-13T08:00:26.854786",
         "2025-12-14T08:00:33.104463",
         "2025-12-15T08:00:24.739668",
-        "2025-12-16T19:09:41.063612"
+        "2025-12-16T19:09:41.063612",
+        "2025-12-16T21:38:18.856537",
+        "2025-12-17T08:00:57.764340"
       ],
       "views": [
         1318,
@@ -72,6 +74,8 @@
         1340,
         1340,
         1341,
+        0,
+        0,
         0,
         0,
         0,
@@ -108,9 +112,13 @@
         0,
         0,
         0,
+        0,
+        0,
         0
       ],
       "saves": [
+        0,
+        0,
         0,
         0,
         0,
@@ -159,8 +167,20 @@
     }
   },
   "change_history": {
-    "total_changes": 6,
+    "total_changes": 8,
     "changes": [
+      {
+        "date": "2025-12-17T00:00:58.909856",
+        "type": "new",
+        "description": "New agent published: Instant SEO Blog Writer",
+        "severity": "medium"
+      },
+      {
+        "date": "2025-12-16T13:38:20.096530",
+        "type": "new",
+        "description": "New agent published: Instant SEO Blog Writer",
+        "severity": "medium"
+      },
       {
         "date": "2025-12-16T11:09:42.281872",
         "type": "new",
@@ -200,13 +220,13 @@
     ]
   },
   "market_position": {
-    "total_active_agents": 244,
+    "total_active_agents": 245,
     "views_rank": 1,
     "runs_rank": 1,
     "views_percentile": 99.6,
     "runs_percentile": 99.6,
     "category": "AI Agent",
-    "category_agent_count": 244,
+    "category_agent_count": 245,
     "vs_average": {
       "views": 0,
       "runs": 0,

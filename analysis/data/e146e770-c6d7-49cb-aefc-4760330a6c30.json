@@ -1,6 +1,6 @@
 {
   "agent_id": "e146e770-c6d7-49cb-aefc-4760330a6c30",
-  "generated_at": "2025-12-16T11:10:22.073271",
+  "generated_at": "2025-12-17T00:01:09.017886",
   "basic_info": {
     "title": "Create a different version of yourself",
     "author": "8bit",
@@ -25,18 +25,22 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 5,
+    "data_points": 7,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2025-12-16T19:09:41.063612",
+    "last_recorded": "2025-12-17T08:00:57.764340",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
         "2025-12-13T08:00:26.854786",
         "2025-12-14T08:00:33.104463",
         "2025-12-15T08:00:24.739668",
-        "2025-12-16T19:09:41.063612"
+        "2025-12-16T19:09:41.063612",
+        "2025-12-16T21:38:18.856537",
+        "2025-12-17T08:00:57.764340"
       ],
       "views": [
+        0,
+        0,
         0,
         0,
         0,
@@ -48,9 +52,13 @@
         0,
         0,
         0,
+        0,
+        0,
         0
       ],
       "saves": [
+        0,
+        0,
         0,
         0,
         0,
@@ -61,7 +69,7 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 4,
+    "days_tracked": 5,
     "total_growth": {
       "views": 0,
       "runs": 0,
@@ -90,13 +98,13 @@
     ]
   },
   "market_position": {
-    "total_active_agents": 244,
+    "total_active_agents": 245,
     "views_rank": 1,
     "runs_rank": 1,
     "views_percentile": 99.6,
     "runs_percentile": 99.6,
     "category": "AI Agent",
-    "category_agent_count": 244,
+    "category_agent_count": 245,
     "vs_average": {
       "views": 0,
       "runs": 0,

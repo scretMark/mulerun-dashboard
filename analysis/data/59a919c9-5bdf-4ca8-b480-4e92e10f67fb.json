@@ -1,6 +1,6 @@
 {
   "agent_id": "59a919c9-5bdf-4ca8-b480-4e92e10f67fb",
-  "generated_at": "2025-12-16T11:10:22.025927",
+  "generated_at": "2025-12-17T00:01:08.958993",
   "basic_info": {
     "title": "MyBill Extractor",
     "author": "IAI-Automation",
@@ -25,9 +25,9 @@
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 6,
+    "data_points": 8,
     "first_recorded": "2025-12-11T08:00:23.962890",
-    "last_recorded": "2025-12-16T19:09:41.063612",
+    "last_recorded": "2025-12-17T08:00:57.764340",
     "time_series": {
       "dates": [
         "2025-12-11T08:00:23.962890",
@@ -35,9 +35,13 @@
         "2025-12-13T08:00:26.854786",
         "2025-12-14T08:00:33.104463",
         "2025-12-15T08:00:24.739668",
-        "2025-12-16T19:09:41.063612"
+        "2025-12-16T19:09:41.063612",
+        "2025-12-16T21:38:18.856537",
+        "2025-12-17T08:00:57.764340"
       ],
       "views": [
+        0,
+        0,
         0,
         0,
         0,
@@ -51,9 +55,13 @@
         0,
         0,
         0,
+        0,
+        0,
         0
       ],
       "saves": [
+        0,
+        0,
         0,
         0,
         0,
@@ -65,7 +73,7 @@
   },
   "growth_analysis": {
     "has_data": true,
-    "days_tracked": 5,
+    "days_tracked": 6,
     "total_growth": {
       "views": 0,
       "runs": 0,
@@ -94,13 +102,13 @@
     ]
   },
   "market_position": {
-    "total_active_agents": 244,
+    "total_active_agents": 245,
     "views_rank": 1,
     "runs_rank": 1,
     "views_percentile": 99.6,
     "runs_percentile": 99.6,
     "category": "AI Agent",
-    "category_agent_count": 244,
+    "category_agent_count": 245,
     "vs_average": {
       "views": 0,
       "runs": 0,

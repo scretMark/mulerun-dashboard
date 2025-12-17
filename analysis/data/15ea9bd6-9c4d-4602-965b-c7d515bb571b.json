@@ -1,51 +1,47 @@
 {
-  "agent_id": "1077e2db-e122-4565-acd6-1cf423532dfa",
-  "generated_at": "2025-12-17T00:01:09.199834",
+  "agent_id": "15ea9bd6-9c4d-4602-965b-c7d515bb571b",
+  "generated_at": "2025-12-17T00:01:09.210391",
   "basic_info": {
-    "title": "Character Wallpaper Generator",
-    "author": "AneX",
-    "description": "AI-powered n8n workflow that creates custom anime character wallpapers.\r\nThe Character Wallpaper Generator is an automated n8n workflow that transforms anime character inputs into professional, device...",
-    "short_description": "Transforms anime characters into custom, device-optimized wallpapers.",
+    "title": "Product Mockups Generator",
+    "author": "jackbuilds",
+    "description": "An AI assistant that generates studio-quality product mockups with realistic human models.",
+    "short_description": "",
     "category": "AI Agent",
     "is_active": true,
-    "published_at": "2025-12-12T19:04:12.849000",
+    "published_at": "2025-12-14T12:32:15.666000",
     "last_seen": null,
-    "profile_url": "https://mulerun.com/workspace/@AneX/character-wallpaper-generator",
-    "days_since_published": 4
+    "profile_url": "https://mulerun.com/workspace/@jackbuilds/product-mockups-generator",
+    "days_since_published": 2
   },
   "performance_metrics": {
     "views": 0,
     "runs": 0,
     "saves": 0,
-    "days_tracked": 4,
-    "price": 60.0,
+    "days_tracked": 2,
+    "price": 150.0,
     "engagement_rate": 0,
     "avg_runs_per_day": 0.0,
     "avg_views_per_day": 0.0
   },
   "historical_trends": {
     "has_data": true,
-    "data_points": 3,
-    "first_recorded": "2025-12-16T19:09:41.063612",
+    "data_points": 2,
+    "first_recorded": "2025-12-16T21:38:18.856537",
     "last_recorded": "2025-12-17T08:00:57.764340",
     "time_series": {
       "dates": [
-        "2025-12-16T19:09:41.063612",
         "2025-12-16T21:38:18.856537",
         "2025-12-17T08:00:57.764340"
       ],
       "views": [
         0,
-        0,
         0
       ],
       "runs": [
         0,
-        0,
         0
       ],
       "saves": [
-        0,
         0,
         0
       ]
@@ -74,9 +70,9 @@
     "total_changes": 1,
     "changes": [
       {
-        "date": "2025-12-16T11:09:42.281872",
+        "date": "2025-12-16T13:38:20.096530",
         "type": "new",
-        "description": "New agent published: Character Wallpaper Generator",
+        "description": "New agent published: Product Mockups Generator",
         "severity": "medium"
       }
     ]
