@@ -20,6 +20,12 @@
             --warning: #f59e0b;
             --info: #3b82f6;
 
+            /* Tier Colors */
+            --elite: #8b5cf6;
+            --high: #10b981;
+            --mid: #f59e0b;
+            --low: #64748b;
+
             /* Backgrounds */
             --bg-main: #f8fafc;
             --bg-glass: rgba(255, 255, 255, 0.8);
@@ -98,105 +104,153 @@
         .agent-info h1 {
             font-size: 2.5rem;
             font-weight: 800;
-            letter-spacing: -0.025em;
+            line-height: 1.2;
             margin-bottom: 0.5rem;
-            background: linear-gradient(to right, var(--text-main), var(--primary));
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
         }
 
         .agent-meta {
             display: flex;
-            gap: 1rem;
-            color: var(--text-muted);
-            font-size: 1rem;
+            gap: 0.75rem;
             align-items: center;
-            font-weight: 500;
+            color: var(--text-muted);
+            font-size: 0.95rem;
         }
 
         .status-badge {
-            background: #dcfce7;
-            color: #166534;
             padding: 0.25rem 0.75rem;
-            border-radius: 999px;
+            background: var(--success);
+            color: white;
+            border-radius: 9999px;
             font-size: 0.75rem;
-            font-weight: 700;
+            font-weight: 600;
             text-transform: uppercase;
             letter-spacing: 0.05em;
-            box-shadow: 0 0 0 1px rgba(22, 101, 52, 0.1);
         }
 
         .back-link {
-            padding: 0.75rem 1.25rem;
-            background: white;
-            border: 1px solid var(--border);
-            border-radius: 12px;
-            color: var(--text-main);
+            color: var(--text-muted);
             text-decoration: none;
-            font-weight: 600;
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-            transition: all 0.2s;
-            box-shadow: var(--shadow-sm);
+            font-weight: 500;
+            transition: color 0.2s;
         }
 
         .back-link:hover {
-            border-color: var(--primary);
             color: var(--primary);
-            transform: translateX(-4px);
-            box-shadow: var(--shadow);
         }
 
         /* Grid Layout */
         .grid {
             display: grid;
-            grid-template-columns: 2fr 1fr;
+            grid-template-columns: 1fr 400px;
             gap: 2rem;
-            animation: fadeIn 0.6s ease-out 0.1s backwards;
+            margin-bottom: 2rem;
         }
 
-        @media (max-width: 1024px) {
-            .grid {
-                grid-template-columns: 1fr;
-            }
+        .main-col {
+            display: flex;
+            flex-direction: column;
+            gap: 2rem;
         }
 
-        /* Glass Cards */
+        .side-col {
+            display: flex;
+            flex-direction: column;
+            gap: 2rem;
+        }
+
+        /* Cards */
         .card {
             background: var(--bg-glass);
-            backdrop-filter: blur(12px);
+            backdrop-filter: blur(20px);
             border-radius: var(--radius);
-            box-shadow: var(--shadow-sm);
-            border: 1px solid white;
             padding: 2rem;
-            margin-bottom: 2rem;
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-        }
-
-        .card:hover {
-            transform: translateY(-2px);
-            box-shadow: var(--shadow-lg);
+            box-shadow: var(--shadow);
+            border: 1px solid var(--border);
+            animation: fadeIn 0.5s ease-out;
         }
 
         .card h2 {
-            font-size: 1.25rem;
+            font-size: 1.5rem;
             font-weight: 700;
             margin-bottom: 1.5rem;
-            display: flex;
-            align-items: center;
-            gap: 0.75rem;
             color: var(--text-main);
         }
 
-        .card h2::before {
-            content: '';
-            display: block;
-            width: 6px;
-            height: 24px;
-            background: var(--primary);
-            border-radius: 3px;
-            box-shadow: 0 0 10px rgba(99, 102, 241, 0.4);
+        /* Ranking Metrics */
+        .ranking-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .rank-badge {
+            text-align: center;
+            padding: 1.5rem 1rem;
+            background: linear-gradient(135deg, var(--primary-light) 0%, var(--primary) 100%);
+            border-radius: 0.75rem;
+            color: white;
+        }
+
+        .rank-badge.runs {
+            background: linear-gradient(135deg, #34d399 0%, var(--success) 100%);
+        }
+
+        .rank-badge.likes {
+            background: linear-gradient(135deg, #fbbf24 0%, var(--warning) 100%);
+        }
+
+        .rank-number {
+            font-size: 2.5rem;
+            font-weight: 800;
+            line-height: 1;
+            margin-bottom: 0.25rem;
+        }
+
+        .rank-label {
+            font-size: 0.875rem;
+            opacity: 0.9;
+            font-weight: 500;
+        }
+
+        .rank-percentile {
+            font-size: 0.75rem;
+            opacity: 0.8;
+            margin-top: 0.25rem;
+        }
+
+        /* Tier Badge */
+        .tier-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.75rem 1.5rem;
+            border-radius: 9999px;
+            font-weight: 700;
+            font-size: 1rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-bottom: 1rem;
+        }
+
+        .tier-badge.elite {
+            background: linear-gradient(135deg, #a78bfa 0%, var(--elite) 100%);
+            color: white;
+        }
+
+        .tier-badge.high {
+            background: linear-gradient(135deg, #34d399 0%, var(--high) 100%);
+            color: white;
+        }
+
+        .tier-badge.mid {
+            background: linear-gradient(135deg, #fbbf24 0%, var(--mid) 100%);
+            color: white;
+        }
+
+        .tier-badge.low {
+            background: var(--low);
+            color: white;
         }
 
         /* Metrics */
@@ -204,29 +258,25 @@
             display: grid;
             grid-template-columns: repeat(3, 1fr);
             gap: 1.5rem;
-            margin-bottom: 2rem;
         }
 
         .metric-item {
-            background: rgba(255, 255, 255, 0.5);
-            padding: 1.5rem;
-            border-radius: 1rem;
             text-align: center;
-            border: 1px solid rgba(255, 255, 255, 0.6);
-            transition: all 0.2s;
-        }
-
-        .metric-item:hover {
-            background: white;
-            transform: scale(1.02);
         }
 
         .metric-value {
             font-size: 2rem;
-            font-weight: 800;
+            font-weight: 700;
             color: var(--primary);
-            line-height: 1.2;
             margin-bottom: 0.25rem;
+        }
+
+        .metric-value.positive {
+            color: var(--success);
+        }
+
+        .metric-value.negative {
+            color: var(--danger);
         }
 
         .metric-label {
@@ -235,66 +285,70 @@
             font-weight: 500;
         }
 
+        /* Chart */
+        .chart-container {
+            position: relative;
+            height: 400px;
+            width: 100%;
+        }
+
         /* Insights */
         .insight-item {
             padding: 1.25rem;
-            border-radius: 1rem;
+            border-radius: 0.75rem;
             margin-bottom: 1rem;
-            border-left: 4px solid transparent;
-            background: white;
-            box-shadow: var(--shadow-sm);
+            border-left: 4px solid;
+        }
+
+        .insight-item:last-child {
+            margin-bottom: 0;
         }
 
         .insight-item.positive {
-            background: #f0fdf4;
-            border-left-color: var(--success);
+            background: rgba(16, 185, 129, 0.1);
+            border-color: var(--success);
         }
 
         .insight-item.warning {
-            background: #fffbeb;
-            border-left-color: var(--warning);
+            background: rgba(245, 158, 11, 0.1);
+            border-color: var(--warning);
         }
 
         .insight-item.info {
-            background: #eff6ff;
-            border-left-color: var(--primary);
+            background: rgba(59, 130, 246, 0.1);
+            border-color: var(--info);
         }
 
         .insight-title {
             font-weight: 700;
-            margin-bottom: 0.25rem;
-            color: var(--text-main);
             font-size: 1rem;
+            margin-bottom: 0.5rem;
         }
 
         .insight-desc {
-            font-size: 0.9rem;
+            font-size: 0.875rem;
             color: var(--text-muted);
-            line-height: 1.5;
+            line-height: 1.6;
         }
 
-        /* Chart */
-        .chart-container {
-            position: relative;
-            height: 350px;
-            width: 100%;
-        }
-
-        /* Loading */
+        /* Loading State */
         #loading {
             position: fixed;
-            inset: 0;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
             background: var(--bg-main);
             display: flex;
-            justify-content: center;
             align-items: center;
-            z-index: 100;
+            justify-content: center;
+            z-index: 9999;
         }
 
         .spinner {
-            width: 50px;
-            height: 50px;
-            border: 4px solid rgba(99, 102, 241, 0.1);
+            width: 48px;
+            height: 48px;
+            border: 4px solid var(--border);
             border-top-color: var(--primary);
             border-radius: 50%;
             animation: spin 1s cubic-bezier(0.4, 0, 0.2, 1) infinite;
@@ -329,6 +383,24 @@
         .text-muted {
             color: var(--text-muted);
         }
+
+        .text-center {
+            text-align: center;
+        }
+
+        @media (max-width: 968px) {
+            .grid {
+                grid-template-columns: 1fr;
+            }
+
+            .ranking-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .agent-info h1 {
+                font-size: 2rem;
+            }
+        }
     </style>
 </head>
 
@@ -359,58 +431,64 @@
         <div class="grid">
             <!-- Main Column -->
             <div class="main-col">
-                <!-- Performance Chart -->
+                <!-- Ranking Trends Chart -->
                 <div class="card">
-                    <h2>Performance Trends</h2>
+                    <h2>Ranking Trends <span style="font-size: 0.875rem; font-weight: 400; color: var(--text-muted);">(Lower = Better)</span></h2>
                     <div class="chart-container">
-                        <canvas id="trendsChart"></canvas>
+                        <canvas id="rankingsChart"></canvas>
                     </div>
+                    <p class="text-muted text-sm text-center" style="margin-top: 1rem;">
+                        Chart shows ranking position over time. Lower ranks (#1, #2, #3) are better and appear at the top.
+                    </p>
                 </div>
 
-                <!-- Growth Analysis -->
+                <!-- Ranking Changes -->
                 <div class="card">
-                    <h2>Growth Analysis</h2>
+                    <h2>Ranking Changes</h2>
                     <div class="metrics-row">
                         <div class="metric-item">
-                            <div class="metric-value" id="growthViews">+0</div>
-                            <div class="metric-label">Views Growth</div>
+                            <div class="metric-value" id="change7dViews">-</div>
+                            <div class="metric-label">7-Day Change (Views)</div>
                         </div>
                         <div class="metric-item">
-                            <div class="metric-value" id="growthRuns">+0</div>
-                            <div class="metric-label">Runs Growth</div>
+                            <div class="metric-value" id="change30dViews">-</div>
+                            <div class="metric-label">30-Day Change (Views)</div>
                         </div>
                         <div class="metric-item">
-                            <div class="metric-value" id="growthSaves">+0</div>
-                            <div class="metric-label">Saves Growth</div>
+                            <div class="metric-value" id="bestRank">-</div>
+                            <div class="metric-label">Best Rank Ever</div>
                         </div>
                     </div>
-                    <p id="growthSummary" class="text-muted text-sm" style="text-align: center;"></p>
+                    <p id="trendSummary" class="text-muted text-sm text-center" style="margin-top: 1rem;"></p>
                 </div>
             </div>
 
             <!-- Sidebar Column -->
             <div class="side-col">
-                <!-- Key Metrics -->
+                <!-- Current Rankings -->
                 <div class="card">
-                    <h2>Key Metrics</h2>
-                    <div class="metrics-row" style="grid-template-columns: 1fr 1fr; gap: 1rem;">
-                        <div class="metric-item">
-                            <div class="metric-value" id="totalViews">0</div>
-                            <div class="metric-label">Total Views</div>
+                    <h2>Current Rankings</h2>
+                    <div id="tierBadge"></div>
+                    <div class="ranking-grid">
+                        <div class="rank-badge">
+                            <div class="rank-number" id="viewsRank">-</div>
+                            <div class="rank-label">Views Rank</div>
+                            <div class="rank-percentile" id="viewsPercentile">-</div>
                         </div>
-                        <div class="metric-item">
-                            <div class="metric-value" id="totalRuns">0</div>
-                            <div class="metric-label">Total Runs</div>
+                        <div class="rank-badge runs">
+                            <div class="rank-number" id="runsRank">-</div>
+                            <div class="rank-label">Runs Rank</div>
+                            <div class="rank-percentile" id="runsPercentile">-</div>
                         </div>
-                        <div class="metric-item">
-                            <div class="metric-value" id="engagementRate">0%</div>
-                            <div class="metric-label">Engagement</div>
-                        </div>
-                        <div class="metric-item">
-                            <div class="metric-value" id="avgRuns">0</div>
-                            <div class="metric-label">Daily Runs</div>
+                        <div class="rank-badge likes">
+                            <div class="rank-number" id="likesRank">-</div>
+                            <div class="rank-label">Likes Rank</div>
+                            <div class="rank-percentile" id="likesPercentile">-</div>
                         </div>
                     </div>
+                    <p class="text-muted text-sm text-center">
+                        Out of <span id="totalAgents">-</span> active agents
+                    </p>
                 </div>
 
                 <!-- Insights -->
@@ -418,15 +496,6 @@
                     <h2>AI Insights</h2>
                     <div id="insightsList">
                         <!-- Insights injected here -->
-                    </div>
-                </div>
-
-                <!-- Market Position -->
-                <div class="card">
-                    <h2>Market Position</h2>
-                    <div class="insight-item info">
-                        <div class="insight-title">Top <span id="percentileRank">0</span>%</div>
-                        <div class="insight-desc">Ranked #<span id="rankNum">0</span> by views among all agents</div>
                     </div>
                 </div>
             </div>
@@ -464,30 +533,87 @@
             document.getElementById('agentAuthor').textContent = data.basic_info.author;
             document.title = `${data.basic_info.title} - Analysis`;
 
-            // Logo - construct path from agent ID
+            // Logo
             const logoPath = `../logos/${agentId}.webp`;
             document.getElementById('agentLogo').src = logoPath;
-            // Try to load thumbnail if logo fails (fallback logic handled by onerror in HTML)
 
-            // Metrics
-            document.getElementById('totalViews').textContent = data.performance_metrics.views.toLocaleString();
-            document.getElementById('totalRuns').textContent = data.performance_metrics.runs.toLocaleString();
-            document.getElementById('engagementRate').textContent = data.performance_metrics.engagement_rate + '%';
-            document.getElementById('avgRuns').textContent = data.performance_metrics.avg_runs_per_day;
+            // Tier Badge
+            const tier = data.ranking_metrics.tier;
+            const tierClass = data.ranking_metrics.tier_class;
+            const tierIcons = {
+                'Elite': '👑',
+                'High': '⭐',
+                'Mid': '📊',
+                'Low': '🌱'
+            };
+            document.getElementById('tierBadge').innerHTML = `
+                <div class="tier-badge ${tierClass}">
+                    <span>${tierIcons[tier] || '📊'}</span>
+                    <span>${tier} Tier</span>
+                </div>
+            `;
 
-            // Growth
-            if (data.growth_analysis.has_data) {
-                const formatGrowth = (val) => val > 0 ? '+' + val.toLocaleString() : val.toLocaleString();
+            // Current Rankings
+            const rankings = data.ranking_metrics.current_position;
+            document.getElementById('viewsRank').textContent = '#' + (rankings.views_rank || 'N/A');
+            document.getElementById('runsRank').textContent = '#' + (rankings.runs_rank || 'N/A');
+            document.getElementById('likesRank').textContent = '#' + (rankings.likes_rank || 'N/A');
+            document.getElementById('viewsPercentile').textContent = 'Top ' + rankings.views_percentile + '%';
+            document.getElementById('runsPercentile').textContent = 'Top ' + rankings.runs_percentile + '%';
+            document.getElementById('likesPercentile').textContent = 'Top ' + rankings.likes_percentile + '%';
+            document.getElementById('totalAgents').textContent = rankings.total_agents;
 
-                document.getElementById('growthViews').textContent = formatGrowth(data.growth_analysis.total_growth.views);
-                document.getElementById('growthRuns').textContent = formatGrowth(data.growth_analysis.total_growth.runs);
-                document.getElementById('growthSaves').textContent = formatGrowth(data.growth_analysis.total_growth.saves);
-                document.getElementById('growthSummary').textContent = `Growth tracked over ${data.growth_analysis.days_tracked} days.`;
+            // Ranking Changes
+            if (data.ranking_trends.has_data) {
+                const trends = data.ranking_trends;
+
+                // 7-day change
+                const change7d = trends.last_7_days?.views_rank_change;
+                if (change7d !== undefined && change7d !== null) {
+                    const elem = document.getElementById('change7dViews');
+                    if (change7d < 0) {
+                        elem.textContent = '↑ ' + Math.abs(change7d) + ' positions';
+                        elem.classList.add('positive');
+                    } else if (change7d > 0) {
+                        elem.textContent = '↓ ' + change7d + ' positions';
+                        elem.classList.add('negative');
+                    } else {
+                        elem.textContent = 'No change';
+                    }
+                } else {
+                    document.getElementById('change7dViews').textContent = 'N/A';
+                }
+
+                // 30-day change
+                const change30d = trends.last_30_days?.views_rank_change;
+                if (change30d !== undefined && change30d !== null) {
+                    const elem = document.getElementById('change30dViews');
+                    if (change30d < 0) {
+                        elem.textContent = '↑ ' + Math.abs(change30d) + ' positions';
+                        elem.classList.add('positive');
+                    } else if (change30d > 0) {
+                        elem.textContent = '↓ ' + change30d + ' positions';
+                        elem.classList.add('negative');
+                    } else {
+                        elem.textContent = 'No change';
+                    }
+                } else {
+                    document.getElementById('change30dViews').textContent = 'N/A';
+                }
+
+                // Best rank
+                const bestRank = trends.all_time?.best_views_rank;
+                document.getElementById('bestRank').textContent = bestRank ? '#' + bestRank : 'N/A';
+
+                // Summary
+                const daysTracked = trends.days_tracked;
+                const daysInTop10 = trends.all_time?.days_in_top_10 || 0;
+                document.getElementById('trendSummary').textContent =
+                    `Tracked for ${daysTracked} days. ${daysInTop10 > 0 ? `Spent ${daysInTop10} days in Top 10.` : ''}`;
             }
 
-            // Market Position
-            document.getElementById('percentileRank').textContent = (100 - data.market_position.views_percentile).toFixed(0);
-            document.getElementById('rankNum').textContent = data.market_position.views_rank;
+            // Chart
+            renderRankingsChart(data.historical_rankings);
 
             // Insights
             const insightsContainer = document.getElementById('insightsList');
@@ -502,31 +628,26 @@
                 insightsContainer.appendChild(div);
             });
 
-            // Chart
-            renderChart(data.historical_trends);
-
             // Show App
             document.getElementById('loading').classList.add('hidden');
             document.getElementById('app').classList.remove('hidden');
         }
 
-        function renderChart(trends) {
-            if (!trends.has_data) return;
+        function renderRankingsChart(rankings) {
+            if (!rankings.has_data) {
+                document.querySelector('.chart-container').innerHTML =
+                    '<p class="text-muted text-center">No historical ranking data available yet.</p>';
+                return;
+            }
 
-            const ctx = document.getElementById('trendsChart').getContext('2d');
+            const ctx = document.getElementById('rankingsChart').getContext('2d');
 
             // Format dates
-            const labels = trends.time_series.dates.map(d => new Date(d).toLocaleDateString());
+            const labels = rankings.time_series.dates.map(d => new Date(d).toLocaleDateString());
 
-            // Gradient for Views
-            const gradientViews = ctx.createLinearGradient(0, 0, 0, 400);
-            gradientViews.addColorStop(0, 'rgba(99, 102, 241, 0.5)');
-            gradientViews.addColorStop(1, 'rgba(99, 102, 241, 0.0)');
-
-            // Gradient for Runs
-            const gradientRuns = ctx.createLinearGradient(0, 0, 0, 400);
-            gradientRuns.addColorStop(0, 'rgba(16, 185, 129, 0.5)');
-            gradientRuns.addColorStop(1, 'rgba(16, 185, 129, 0.0)');
+            // Filter out null values for clean display
+            const viewsRankData = rankings.time_series.views_rank;
+            const runsRankData = rankings.time_series.runs_rank;
 
             new Chart(ctx, {
                 type: 'line',
@@ -534,32 +655,34 @@
                     labels: labels,
                     datasets: [
                         {
-                            label: 'Views',
-                            data: trends.time_series.views,
+                            label: 'Views Rank',
+                            data: viewsRankData,
                             borderColor: '#6366f1',
-                            backgroundColor: gradientViews,
+                            backgroundColor: 'rgba(99, 102, 241, 0.1)',
                             borderWidth: 3,
                             tension: 0.4,
-                            fill: true,
+                            fill: false,
                             pointBackgroundColor: '#ffffff',
                             pointBorderColor: '#6366f1',
                             pointBorderWidth: 2,
                             pointRadius: 4,
-                            pointHoverRadius: 6
+                            pointHoverRadius: 6,
+                            spanGaps: true
                         },
                         {
-                            label: 'Runs',
-                            data: trends.time_series.runs,
+                            label: 'Runs Rank',
+                            data: runsRankData,
                             borderColor: '#10b981',
-                            backgroundColor: gradientRuns,
+                            backgroundColor: 'rgba(16, 185, 129, 0.1)',
                             borderWidth: 3,
                             tension: 0.4,
-                            fill: true,
+                            fill: false,
                             pointBackgroundColor: '#ffffff',
                             pointBorderColor: '#10b981',
                             pointBorderWidth: 2,
                             pointRadius: 4,
-                            pointHoverRadius: 6
+                            pointHoverRadius: 6,
+                            spanGaps: true
                         }
                     ]
                 },
@@ -582,14 +705,39 @@
                             bodyFont: { family: "'Outfit', sans-serif", size: 13 },
                             padding: 12,
                             cornerRadius: 8,
-                            displayColors: true
+                            displayColors: true,
+                            callbacks: {
+                                label: function(context) {
+                                    let label = context.dataset.label || '';
+                                    if (label) {
+                                        label += ': ';
+                                    }
+                                    if (context.parsed.y !== null) {
+                                        label += '#' + context.parsed.y;
+                                    }
+                                    return label;
+                                }
+                            }
                         }
                     },
                     scales: {
                         y: {
-                            beginAtZero: true,
-                            grid: { borderDash: [4, 4], color: '#e2e8f0' },
-                            ticks: { font: { family: "'Outfit', sans-serif" } }
+                            reverse: true, // INVERTED: Lower rank = better = top of chart
+                            grid: {
+                                borderDash: [4, 4],
+                                color: '#e2e8f0'
+                            },
+                            ticks: {
+                                font: { family: "'Outfit', sans-serif" },
+                                callback: function(value) {
+                                    return '#' + value;
+                                }
+                            },
+                            title: {
+                                display: true,
+                                text: 'Ranking Position (Lower = Better)',
+                                font: { family: "'Outfit', sans-serif", size: 12, weight: 600 }
+                            }
                         },
                         x: {
                             grid: { display: false },

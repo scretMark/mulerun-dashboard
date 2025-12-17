@@ -1,11 +1,11 @@
 {
   "agent_id": "15ea9bd6-9c4d-4602-965b-c7d515bb571b",
-  "generated_at": "2025-12-17T00:01:09.210391",
+  "generated_at": "2025-12-17T08:24:45.983835",
   "basic_info": {
     "title": "Product Mockups Generator",
     "author": "jackbuilds",
     "description": "An AI assistant that generates studio-quality product mockups with realistic human models.",
-    "short_description": "",
+    "short_description": "Generates studio-quality product mockups with realistic models.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-12-14T12:32:15.666000",
@@ -13,57 +13,77 @@
     "profile_url": "https://mulerun.com/workspace/@jackbuilds/product-mockups-generator",
     "days_since_published": 2
   },
-  "performance_metrics": {
-    "views": 0,
-    "runs": 0,
-    "saves": 0,
-    "days_tracked": 2,
-    "price": 150.0,
-    "engagement_rate": 0,
-    "avg_runs_per_day": 0.0,
-    "avg_views_per_day": 0.0
+  "ranking_metrics": {
+    "current_position": {
+      "views_rank": 226,
+      "runs_rank": 230,
+      "likes_rank": 4,
+      "total_agents": 245,
+      "views_percentile": 7.8,
+      "runs_percentile": 6.1,
+      "likes_percentile": 98.4
+    },
+    "tier": "Elite",
+    "tier_class": "elite",
+    "days_tracked": 0,
+    "price": 150.0
   },
-  "historical_trends": {
+  "ranking_trends": {
     "has_data": true,
-    "data_points": 2,
+    "days_tracked": 1,
+    "last_7_days": {
+      "views_rank_change": -2,
+      "runs_rank_change": 0,
+      "likes_rank_change": -4
+    },
+    "last_30_days": {
+      "views_rank_change": -2,
+      "runs_rank_change": 0,
+      "likes_rank_change": -4
+    },
+    "all_time": {
+      "best_views_rank": 225,
+      "best_runs_rank": 230,
+      "best_likes_rank": 4,
+      "days_in_top_10": 0,
+      "first_rank": 228,
+      "current_rank": 226
+    }
+  },
+  "historical_rankings": {
+    "has_data": true,
+    "data_points": 5,
     "first_recorded": "2025-12-16T21:38:18.856537",
-    "last_recorded": "2025-12-17T08:00:57.764340",
+    "last_recorded": "2025-12-17T16:24:33.627352",
     "time_series": {
       "dates": [
         "2025-12-16T21:38:18.856537",
-        "2025-12-17T08:00:57.764340"
+        "2025-12-17T08:00:57.764340",
+        "2025-12-17T11:30:34.217578",
+        "2025-12-17T13:39:15.961442",
+        "2025-12-17T16:24:33.627352"
       ],
-      "views": [
-        0,
-        0
+      "views_rank": [
+        228,
+        227,
+        225,
+        225,
+        226
       ],
-      "runs": [
-        0,
-        0
+      "runs_rank": [
+        230,
+        230,
+        230,
+        230,
+        230
       ],
-      "saves": [
-        0,
-        0
+      "likes_rank": [
+        8,
+        8,
+        8,
+        8,
+        4
       ]
-    }
-  },
-  "growth_analysis": {
-    "has_data": true,
-    "days_tracked": 1,
-    "total_growth": {
-      "views": 0,
-      "runs": 0,
-      "saves": 0
-    },
-    "daily_average_growth": {
-      "views": 0.0,
-      "runs": 0.0,
-      "saves": 0.0
-    },
-    "percentage_growth": {
-      "views": 0,
-      "runs": 0,
-      "saves": 0
     }
   },
   "change_history": {
@@ -77,30 +97,11 @@
       }
     ]
   },
-  "market_position": {
-    "total_active_agents": 245,
-    "views_rank": 1,
-    "runs_rank": 1,
-    "views_percentile": 99.6,
-    "runs_percentile": 99.6,
-    "category": "AI Agent",
-    "category_agent_count": 245,
-    "vs_average": {
-      "views": 0,
-      "runs": 0,
-      "saves": 0
-    }
-  },
   "insights": [
     {
-      "type": "warning",
-      "title": "Low Engagement Rate",
-      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
-    },
-    {
       "type": "positive",
-      "title": "Top Performer",
-      "description": "This agent ranks in the top 0% by views, placing it among the most popular agents."
+      "title": "Elite Performance",
+      "description": "Ranked #4 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     }
   ]
 }

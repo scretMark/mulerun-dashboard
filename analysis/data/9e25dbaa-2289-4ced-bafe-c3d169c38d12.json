@@ -1,6 +1,6 @@
 {
   "agent_id": "9e25dbaa-2289-4ced-bafe-c3d169c38d12",
-  "generated_at": "2025-12-17T00:01:08.773471",
+  "generated_at": "2025-12-17T08:24:45.563917",
   "basic_info": {
     "title": "Object Letter Crafter",
     "author": "LinkAIBrain",
@@ -13,21 +13,48 @@
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/object-letter-crafter",
     "days_since_published": 14
   },
-  "performance_metrics": {
-    "views": 0,
-    "runs": 0,
-    "saves": 0,
-    "days_tracked": 14,
-    "price": 50.0,
-    "engagement_rate": 0,
-    "avg_runs_per_day": 0.0,
-    "avg_views_per_day": 0.0
+  "ranking_metrics": {
+    "current_position": {
+      "views_rank": 186,
+      "runs_rank": 103,
+      "likes_rank": 192,
+      "total_agents": 245,
+      "views_percentile": 24.1,
+      "runs_percentile": 58.0,
+      "likes_percentile": 21.6
+    },
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 19,
+    "price": 50.0
   },
-  "historical_trends": {
+  "ranking_trends": {
     "has_data": true,
-    "data_points": 12,
+    "days_tracked": 9,
+    "last_7_days": {
+      "views_rank_change": null,
+      "runs_rank_change": null,
+      "likes_rank_change": null
+    },
+    "last_30_days": {
+      "views_rank_change": null,
+      "runs_rank_change": null,
+      "likes_rank_change": null
+    },
+    "all_time": {
+      "best_views_rank": 184,
+      "best_runs_rank": 102,
+      "best_likes_rank": 68,
+      "days_in_top_10": 0,
+      "first_rank": null,
+      "current_rank": 186
+    }
+  },
+  "historical_rankings": {
+    "has_data": true,
+    "data_points": 15,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2025-12-17T08:00:57.764340",
+    "last_recorded": "2025-12-17T16:24:33.627352",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -41,69 +68,62 @@
         "2025-12-15T08:00:24.739668",
         "2025-12-16T19:09:41.063612",
         "2025-12-16T21:38:18.856537",
-        "2025-12-17T08:00:57.764340"
+        "2025-12-17T08:00:57.764340",
+        "2025-12-17T11:30:34.217578",
+        "2025-12-17T13:39:15.961442",
+        "2025-12-17T16:24:33.627352"
       ],
-      "views": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+      "views_rank": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        184,
+        184,
+        186,
+        186,
+        186
       ],
-      "runs": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+      "runs_rank": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        102,
+        102,
+        102,
+        103,
+        103
       ],
-      "saves": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+      "likes_rank": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        68,
+        68,
+        68,
+        68,
+        192
       ]
-    }
-  },
-  "growth_analysis": {
-    "has_data": true,
-    "days_tracked": 8,
-    "total_growth": {
-      "views": 0,
-      "runs": 0,
-      "saves": 0
-    },
-    "daily_average_growth": {
-      "views": 0.0,
-      "runs": 0.0,
-      "saves": 0.0
-    },
-    "percentage_growth": {
-      "views": 0,
-      "runs": 0,
-      "saves": 0
     }
   },
   "change_history": {
@@ -117,30 +137,11 @@
       }
     ]
   },
-  "market_position": {
-    "total_active_agents": 245,
-    "views_rank": 1,
-    "runs_rank": 1,
-    "views_percentile": 99.6,
-    "runs_percentile": 99.6,
-    "category": "AI Agent",
-    "category_agent_count": 245,
-    "vs_average": {
-      "views": 0,
-      "runs": 0,
-      "saves": 0
-    }
-  },
   "insights": [
     {
-      "type": "warning",
-      "title": "Low Engagement Rate",
-      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
-    },
-    {
-      "type": "positive",
-      "title": "Top Performer",
-      "description": "This agent ranks in the top 0% by views, placing it among the most popular agents."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #186 out of 245 active agents."
     }
   ]
 }

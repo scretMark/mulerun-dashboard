@@ -1,6 +1,6 @@
 {
   "agent_id": "ed160fc7-1210-4ac1-b93b-82b8e5cfb936",
-  "generated_at": "2025-12-17T00:01:08.904301",
+  "generated_at": "2025-12-17T08:24:45.720251",
   "basic_info": {
     "title": "Create Your Unique Nail Art",
     "author": "8bit",
@@ -11,23 +11,50 @@
     "published_at": "2025-12-09T00:16:07.180000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/create-your-unique-nail-art",
-    "days_since_published": 7
+    "days_since_published": 8
   },
-  "performance_metrics": {
-    "views": 0,
-    "runs": 0,
-    "saves": 0,
-    "days_tracked": 7,
-    "price": 50.0,
-    "engagement_rate": 0,
-    "avg_runs_per_day": 0.0,
-    "avg_views_per_day": 0.0
+  "ranking_metrics": {
+    "current_position": {
+      "views_rank": 233,
+      "runs_rank": 159,
+      "likes_rank": 19,
+      "total_agents": 245,
+      "views_percentile": 4.9,
+      "runs_percentile": 35.1,
+      "likes_percentile": 92.2
+    },
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 12,
+    "price": 50.0
   },
-  "historical_trends": {
+  "ranking_trends": {
     "has_data": true,
-    "data_points": 9,
+    "days_tracked": 7,
+    "last_7_days": {
+      "views_rank_change": null,
+      "runs_rank_change": null,
+      "likes_rank_change": null
+    },
+    "last_30_days": {
+      "views_rank_change": null,
+      "runs_rank_change": null,
+      "likes_rank_change": null
+    },
+    "all_time": {
+      "best_views_rank": 233,
+      "best_runs_rank": 159,
+      "best_likes_rank": 19,
+      "days_in_top_10": 0,
+      "first_rank": null,
+      "current_rank": 233
+    }
+  },
+  "historical_rankings": {
+    "has_data": true,
+    "data_points": 12,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2025-12-17T08:00:57.764340",
+    "last_recorded": "2025-12-17T16:24:33.627352",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
@@ -38,60 +65,53 @@
         "2025-12-15T08:00:24.739668",
         "2025-12-16T19:09:41.063612",
         "2025-12-16T21:38:18.856537",
-        "2025-12-17T08:00:57.764340"
+        "2025-12-17T08:00:57.764340",
+        "2025-12-17T11:30:34.217578",
+        "2025-12-17T13:39:15.961442",
+        "2025-12-17T16:24:33.627352"
       ],
-      "views": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+      "views_rank": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        234,
+        234,
+        234,
+        234,
+        233
       ],
-      "runs": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+      "runs_rank": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        159,
+        159,
+        159,
+        159,
+        159
       ],
-      "saves": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+      "likes_rank": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        119,
+        119,
+        119,
+        119,
+        19
       ]
-    }
-  },
-  "growth_analysis": {
-    "has_data": true,
-    "days_tracked": 7,
-    "total_growth": {
-      "views": 0,
-      "runs": 0,
-      "saves": 0
-    },
-    "daily_average_growth": {
-      "views": 0.0,
-      "runs": 0.0,
-      "saves": 0.0
-    },
-    "percentage_growth": {
-      "views": 0,
-      "runs": 0,
-      "saves": 0
     }
   },
   "change_history": {
@@ -105,30 +125,11 @@
       }
     ]
   },
-  "market_position": {
-    "total_active_agents": 245,
-    "views_rank": 1,
-    "runs_rank": 1,
-    "views_percentile": 99.6,
-    "runs_percentile": 99.6,
-    "category": "AI Agent",
-    "category_agent_count": 245,
-    "vs_average": {
-      "views": 0,
-      "runs": 0,
-      "saves": 0
-    }
-  },
   "insights": [
     {
-      "type": "warning",
-      "title": "Low Engagement Rate",
-      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
-    },
-    {
       "type": "positive",
-      "title": "Top Performer",
-      "description": "This agent ranks in the top 0% by views, placing it among the most popular agents."
+      "title": "High Performer",
+      "description": "Ranked #19 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

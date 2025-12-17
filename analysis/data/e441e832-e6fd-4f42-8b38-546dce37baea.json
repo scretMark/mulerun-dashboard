@@ -1,6 +1,6 @@
 {
   "agent_id": "e441e832-e6fd-4f42-8b38-546dce37baea",
-  "generated_at": "2025-12-17T00:01:08.754161",
+  "generated_at": "2025-12-17T08:24:45.539100",
   "basic_info": {
     "title": "Bored Ape NFT avatar",
     "author": "Barry",
@@ -11,23 +11,50 @@
     "published_at": "2025-12-01T00:16:36.080000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Barry/bored-ape-nft-avatar",
-    "days_since_published": 15
+    "days_since_published": 16
   },
-  "performance_metrics": {
-    "views": 0,
-    "runs": 0,
-    "saves": 0,
-    "days_tracked": 15,
-    "price": 50.0,
-    "engagement_rate": 0,
-    "avg_runs_per_day": 0.0,
-    "avg_views_per_day": 0.0
+  "ranking_metrics": {
+    "current_position": {
+      "views_rank": 217,
+      "runs_rank": 141,
+      "likes_rank": 34,
+      "total_agents": 245,
+      "views_percentile": 11.4,
+      "runs_percentile": 42.4,
+      "likes_percentile": 86.1
+    },
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 17,
+    "price": 50.0
   },
-  "historical_trends": {
+  "ranking_trends": {
     "has_data": true,
-    "data_points": 14,
+    "days_tracked": 14,
+    "last_7_days": {
+      "views_rank_change": null,
+      "runs_rank_change": null,
+      "likes_rank_change": null
+    },
+    "last_30_days": {
+      "views_rank_change": null,
+      "runs_rank_change": null,
+      "likes_rank_change": null
+    },
+    "all_time": {
+      "best_views_rank": 217,
+      "best_runs_rank": 141,
+      "best_likes_rank": 34,
+      "days_in_top_10": 0,
+      "first_rank": null,
+      "current_rank": 217
+    }
+  },
+  "historical_rankings": {
+    "has_data": true,
+    "data_points": 17,
     "first_recorded": "2025-12-02T16:52:00.461129",
-    "last_recorded": "2025-12-17T08:00:57.764340",
+    "last_recorded": "2025-12-17T16:24:33.627352",
     "time_series": {
       "dates": [
         "2025-12-02T16:52:00.461129",
@@ -43,75 +70,68 @@
         "2025-12-15T08:00:24.739668",
         "2025-12-16T19:09:41.063612",
         "2025-12-16T21:38:18.856537",
-        "2025-12-17T08:00:57.764340"
+        "2025-12-17T08:00:57.764340",
+        "2025-12-17T11:30:34.217578",
+        "2025-12-17T13:39:15.961442",
+        "2025-12-17T16:24:33.627352"
       ],
-      "views": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+      "views_rank": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        217,
+        217,
+        217,
+        217,
+        217
       ],
-      "runs": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+      "runs_rank": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        141,
+        141,
+        141,
+        141,
+        141
       ],
-      "saves": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+      "likes_rank": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        181,
+        181,
+        181,
+        181,
+        34
       ]
-    }
-  },
-  "growth_analysis": {
-    "has_data": true,
-    "days_tracked": 14,
-    "total_growth": {
-      "views": 0,
-      "runs": 0,
-      "saves": 0
-    },
-    "daily_average_growth": {
-      "views": 0.0,
-      "runs": 0.0,
-      "saves": 0.0
-    },
-    "percentage_growth": {
-      "views": 0,
-      "runs": 0,
-      "saves": 0
     }
   },
   "change_history": {
@@ -125,30 +145,11 @@
       }
     ]
   },
-  "market_position": {
-    "total_active_agents": 245,
-    "views_rank": 1,
-    "runs_rank": 1,
-    "views_percentile": 99.6,
-    "runs_percentile": 99.6,
-    "category": "AI Agent",
-    "category_agent_count": 245,
-    "vs_average": {
-      "views": 0,
-      "runs": 0,
-      "saves": 0
-    }
-  },
   "insights": [
     {
-      "type": "warning",
-      "title": "Low Engagement Rate",
-      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
-    },
-    {
       "type": "positive",
-      "title": "Top Performer",
-      "description": "This agent ranks in the top 0% by views, placing it among the most popular agents."
+      "title": "High Performer",
+      "description": "Ranked #34 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

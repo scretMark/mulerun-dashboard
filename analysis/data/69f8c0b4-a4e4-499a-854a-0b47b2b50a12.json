@@ -1,6 +1,6 @@
 {
   "agent_id": "69f8c0b4-a4e4-499a-854a-0b47b2b50a12",
-  "generated_at": "2025-12-17T00:01:08.684683",
+  "generated_at": "2025-12-17T08:24:45.469046",
   "basic_info": {
     "title": "ShadowShift",
     "author": "luckyy",
@@ -13,21 +13,48 @@
     "profile_url": "https://mulerun.com/workspace/@luckyy/shadowshift",
     "days_since_published": 26
   },
-  "performance_metrics": {
-    "views": 0,
-    "runs": 0,
-    "saves": 0,
-    "days_tracked": 26,
-    "price": 23.0,
-    "engagement_rate": 0,
-    "avg_runs_per_day": 0.0,
-    "avg_views_per_day": 0.0
+  "ranking_metrics": {
+    "current_position": {
+      "views_rank": 206,
+      "runs_rank": 112,
+      "likes_rank": 179,
+      "total_agents": 245,
+      "views_percentile": 15.9,
+      "runs_percentile": 54.3,
+      "likes_percentile": 26.9
+    },
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 30,
+    "price": 23.0
   },
-  "historical_trends": {
+  "ranking_trends": {
     "has_data": true,
-    "data_points": 26,
+    "days_tracked": 24,
+    "last_7_days": {
+      "views_rank_change": null,
+      "runs_rank_change": null,
+      "likes_rank_change": null
+    },
+    "last_30_days": {
+      "views_rank_change": null,
+      "runs_rank_change": null,
+      "likes_rank_change": null
+    },
+    "all_time": {
+      "best_views_rank": 206,
+      "best_runs_rank": 111,
+      "best_likes_rank": 167,
+      "days_in_top_10": 0,
+      "first_rank": null,
+      "current_rank": 206
+    }
+  },
+  "historical_rankings": {
+    "has_data": true,
+    "data_points": 29,
     "first_recorded": "2025-11-23T13:27:48.290198",
-    "last_recorded": "2025-12-17T08:00:57.764340",
+    "last_recorded": "2025-12-17T16:24:33.627352",
     "time_series": {
       "dates": [
         "2025-11-23T13:27:48.290198",
@@ -55,111 +82,104 @@
         "2025-12-15T08:00:24.739668",
         "2025-12-16T19:09:41.063612",
         "2025-12-16T21:38:18.856537",
-        "2025-12-17T08:00:57.764340"
+        "2025-12-17T08:00:57.764340",
+        "2025-12-17T11:30:34.217578",
+        "2025-12-17T13:39:15.961442",
+        "2025-12-17T16:24:33.627352"
       ],
-      "views": [
-        47,
-        47,
-        47,
-        47,
-        50,
-        68,
-        70,
-        70,
-        70,
-        70,
-        72,
-        72,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+      "views_rank": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        206,
+        206,
+        206,
+        206,
+        206
       ],
-      "runs": [
-        105,
-        105,
-        105,
-        105,
-        106,
-        92,
-        67,
-        46,
-        46,
-        6,
-        2,
-        1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+      "runs_rank": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        111,
+        112,
+        112,
+        112,
+        112
       ],
-      "saves": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+      "likes_rank": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        167,
+        167,
+        167,
+        167,
+        179
       ]
-    }
-  },
-  "growth_analysis": {
-    "has_data": true,
-    "days_tracked": 23,
-    "total_growth": {
-      "views": -47,
-      "runs": -105,
-      "saves": 0
-    },
-    "daily_average_growth": {
-      "views": -2.04,
-      "runs": -4.57,
-      "saves": 0.0
-    },
-    "percentage_growth": {
-      "views": -100.0,
-      "runs": -100.0,
-      "saves": 0
     }
   },
   "change_history": {
@@ -173,30 +193,11 @@
       }
     ]
   },
-  "market_position": {
-    "total_active_agents": 245,
-    "views_rank": 1,
-    "runs_rank": 1,
-    "views_percentile": 99.6,
-    "runs_percentile": 99.6,
-    "category": "AI Agent",
-    "category_agent_count": 245,
-    "vs_average": {
-      "views": 0,
-      "runs": 0,
-      "saves": 0
-    }
-  },
   "insights": [
     {
-      "type": "warning",
-      "title": "Low Engagement Rate",
-      "description": "The engagement rate is 0.0%, which may indicate the agent description or value proposition could be improved."
-    },
-    {
-      "type": "positive",
-      "title": "Top Performer",
-      "description": "This agent ranks in the top 0% by views, placing it among the most popular agents."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #206 out of 245 active agents."
     }
   ]
 }
