@@ -1,6 +1,6 @@
 {
   "agent_id": "d26cbc72-a70f-4661-815a-cd0075968921",
-  "generated_at": "2025-12-17T08:24:45.887738",
+  "generated_at": "2025-12-18T07:35:36.074804",
   "basic_info": {
     "title": "Pretend I was here",
     "author": "Barry",
@@ -11,26 +11,26 @@
     "published_at": "2025-12-09T09:50:37.765000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Barry/pretend-i-was-here",
-    "days_since_published": 7
+    "days_since_published": 8
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 214,
-      "runs_rank": 119,
+      "views_rank": 215,
+      "runs_rank": 120,
       "likes_rank": 28,
-      "total_agents": 245,
-      "views_percentile": 12.7,
+      "total_agents": 247,
+      "views_percentile": 13.0,
       "runs_percentile": 51.4,
-      "likes_percentile": 88.6
+      "likes_percentile": 88.7
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 9,
+    "days_tracked": 10,
     "price": 46.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 4,
+    "days_tracked": 5,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 28,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 214
+      "current_rank": 215
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 9,
+    "data_points": 10,
     "first_recorded": "2025-12-13T08:00:26.854786",
-    "last_recorded": "2025-12-17T16:24:33.627352",
+    "last_recorded": "2025-12-18T15:35:16.146705",
     "time_series": {
       "dates": [
         "2025-12-13T08:00:26.854786",
@@ -65,7 +65,8 @@
         "2025-12-17T08:00:57.764340",
         "2025-12-17T11:30:34.217578",
         "2025-12-17T13:39:15.961442",
-        "2025-12-17T16:24:33.627352"
+        "2025-12-17T16:24:33.627352",
+        "2025-12-18T15:35:16.146705"
       ],
       "views_rank": [
         null,
@@ -76,7 +77,8 @@
         212,
         212,
         212,
-        214
+        214,
+        215
       ],
       "runs_rank": [
         null,
@@ -87,7 +89,8 @@
         119,
         119,
         119,
-        119
+        119,
+        120
       ],
       "likes_rank": [
         null,
@@ -98,6 +101,7 @@
         156,
         156,
         156,
+        28,
         28
       ]
     }

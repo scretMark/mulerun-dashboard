@@ -1,6 +1,6 @@
 {
   "agent_id": "39f43fbe-bbf5-4eb6-b600-b1d60dafcf8d",
-  "generated_at": "2025-12-17T08:24:44.422081",
+  "generated_at": "2025-12-18T07:35:34.580593",
   "basic_info": {
     "title": "Travel with AI",
     "author": "Rhino",
@@ -11,21 +11,21 @@
     "published_at": "2025-10-16T16:55:46.056000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Rhino/travel-with-ai",
-    "days_since_published": 61
+    "days_since_published": 62
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 65,
       "runs_rank": 63,
-      "likes_rank": 123,
-      "total_agents": 245,
-      "views_percentile": 73.5,
-      "runs_percentile": 74.3,
-      "likes_percentile": 49.8
+      "likes_rank": 125,
+      "total_agents": 247,
+      "views_percentile": 73.7,
+      "runs_percentile": 74.5,
+      "likes_percentile": 49.4
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 54,
+    "days_tracked": 55,
     "price": 40.0
   },
   "ranking_trends": {
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 32,
+    "data_points": 33,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-17T16:24:33.627352",
+    "last_recorded": "2025-12-18T15:35:16.146705",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -88,7 +88,8 @@
         "2025-12-17T08:00:57.764340",
         "2025-12-17T11:30:34.217578",
         "2025-12-17T13:39:15.961442",
-        "2025-12-17T16:24:33.627352"
+        "2025-12-17T16:24:33.627352",
+        "2025-12-18T15:35:16.146705"
       ],
       "views_rank": [
         null,
@@ -118,6 +119,7 @@
         null,
         null,
         null,
+        65,
         65,
         65,
         65,
@@ -156,6 +158,7 @@
         63,
         63,
         63,
+        63,
         63
       ],
       "likes_rank": [
@@ -190,7 +193,8 @@
         100,
         100,
         100,
-        123
+        123,
+        125
       ]
     }
   },
@@ -202,7 +206,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #65 out of 245 active agents."
+      "description": "This agent is currently ranked #65 out of 247 active agents."
     }
   ]
 }

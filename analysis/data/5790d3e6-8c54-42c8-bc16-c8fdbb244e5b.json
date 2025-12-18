@@ -1,6 +1,6 @@
 {
   "agent_id": "5790d3e6-8c54-42c8-bc16-c8fdbb244e5b",
-  "generated_at": "2025-12-17T08:24:45.940127",
+  "generated_at": "2025-12-18T07:35:36.143959",
   "basic_info": {
     "title": "DEEPINSIGHT_Briefing",
     "author": "liang_caoqw1",
@@ -11,21 +11,21 @@
     "published_at": "2025-12-13T21:55:32.074000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@liang_caoqw1/deepinsight-briefing",
-    "days_since_published": 3
+    "days_since_published": 4
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 139,
+      "views_rank": 137,
       "runs_rank": 75,
-      "likes_rank": 105,
-      "total_agents": 245,
-      "views_percentile": 43.3,
-      "runs_percentile": 69.4,
-      "likes_percentile": 57.1
+      "likes_rank": 108,
+      "total_agents": 247,
+      "views_percentile": 44.5,
+      "runs_percentile": 69.6,
+      "likes_percentile": 56.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 5,
+    "days_tracked": 6,
     "price": 50.0
   },
   "ranking_trends": {
@@ -42,19 +42,19 @@
       "likes_rank_change": null
     },
     "all_time": {
-      "best_views_rank": 139,
+      "best_views_rank": 137,
       "best_runs_rank": 73,
       "best_likes_rank": 105,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 139
+      "current_rank": 137
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 6,
+    "data_points": 7,
     "first_recorded": "2025-12-16T19:09:41.063612",
-    "last_recorded": "2025-12-17T16:24:33.627352",
+    "last_recorded": "2025-12-18T15:35:16.146705",
     "time_series": {
       "dates": [
         "2025-12-16T19:09:41.063612",
@@ -62,7 +62,8 @@
         "2025-12-17T08:00:57.764340",
         "2025-12-17T11:30:34.217578",
         "2025-12-17T13:39:15.961442",
-        "2025-12-17T16:24:33.627352"
+        "2025-12-17T16:24:33.627352",
+        "2025-12-18T15:35:16.146705"
       ],
       "views_rank": [
         null,
@@ -70,11 +71,13 @@
         139,
         139,
         139,
-        139
+        139,
+        137
       ],
       "runs_rank": [
         null,
         73,
+        75,
         75,
         75,
         75,
@@ -86,7 +89,8 @@
         229,
         229,
         229,
-        105
+        105,
+        108
       ]
     }
   },
@@ -105,7 +109,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #139 out of 245 active agents."
+      "description": "This agent is currently ranked #137 out of 247 active agents."
     }
   ]
 }

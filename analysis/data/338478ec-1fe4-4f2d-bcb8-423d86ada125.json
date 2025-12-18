@@ -1,6 +1,6 @@
 {
   "agent_id": "338478ec-1fe4-4f2d-bcb8-423d86ada125",
-  "generated_at": "2025-12-17T08:24:44.460208",
+  "generated_at": "2025-12-18T07:35:34.610431",
   "basic_info": {
     "title": "Halloween Popcorn",
     "author": "Lucas",
@@ -11,21 +11,21 @@
     "published_at": "2025-10-29T22:12:35.458000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/halloween-popcorn",
-    "days_since_published": 48
+    "days_since_published": 49
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 102,
-      "runs_rank": 94,
-      "likes_rank": 156,
-      "total_agents": 245,
-      "views_percentile": 58.4,
-      "runs_percentile": 61.6,
-      "likes_percentile": 36.3
+      "runs_rank": 95,
+      "likes_rank": 158,
+      "total_agents": 247,
+      "views_percentile": 58.7,
+      "runs_percentile": 61.5,
+      "likes_percentile": 36.0
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 51,
+    "days_tracked": 52,
     "price": 49.0
   },
   "ranking_trends": {
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 32,
+    "data_points": 33,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-17T16:24:33.627352",
+    "last_recorded": "2025-12-18T15:35:16.146705",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -88,7 +88,8 @@
         "2025-12-17T08:00:57.764340",
         "2025-12-17T11:30:34.217578",
         "2025-12-17T13:39:15.961442",
-        "2025-12-17T16:24:33.627352"
+        "2025-12-17T16:24:33.627352",
+        "2025-12-18T15:35:16.146705"
       ],
       "views_rank": [
         null,
@@ -118,6 +119,7 @@
         null,
         null,
         null,
+        102,
         102,
         102,
         102,
@@ -156,7 +158,8 @@
         94,
         94,
         94,
-        94
+        94,
+        95
       ],
       "likes_rank": [
         null,
@@ -190,7 +193,8 @@
         150,
         150,
         150,
-        156
+        156,
+        158
       ]
     }
   },
@@ -202,7 +206,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #102 out of 245 active agents."
+      "description": "This agent is currently ranked #102 out of 247 active agents."
     }
   ]
 }

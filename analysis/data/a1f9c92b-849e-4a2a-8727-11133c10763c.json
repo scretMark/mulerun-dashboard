@@ -1,6 +1,6 @@
 {
   "agent_id": "a1f9c92b-849e-4a2a-8727-11133c10763c",
-  "generated_at": "2025-12-17T08:24:44.709908",
+  "generated_at": "2025-12-18T07:35:34.854923",
   "basic_info": {
     "title": "Emperor Pet AI",
     "author": "laughing_code",
@@ -11,21 +11,21 @@
     "published_at": "2025-09-28T17:31:46.313000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@laughing_code/emperor-pet-ai",
-    "days_since_published": 79
+    "days_since_published": 80
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 20,
-      "runs_rank": 40,
-      "likes_rank": 130,
-      "total_agents": 245,
-      "views_percentile": 91.8,
-      "runs_percentile": 83.7,
-      "likes_percentile": 46.9
+      "runs_rank": 41,
+      "likes_rank": 132,
+      "total_agents": 247,
+      "views_percentile": 91.9,
+      "runs_percentile": 83.4,
+      "likes_percentile": 46.6
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 56,
+    "days_tracked": 57,
     "price": 70.0
   },
   "ranking_trends": {
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 32,
+    "data_points": 33,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-17T16:24:33.627352",
+    "last_recorded": "2025-12-18T15:35:16.146705",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -88,7 +88,8 @@
         "2025-12-17T08:00:57.764340",
         "2025-12-17T11:30:34.217578",
         "2025-12-17T13:39:15.961442",
-        "2025-12-17T16:24:33.627352"
+        "2025-12-17T16:24:33.627352",
+        "2025-12-18T15:35:16.146705"
       ],
       "views_rank": [
         null,
@@ -118,6 +119,7 @@
         null,
         null,
         null,
+        20,
         20,
         20,
         20,
@@ -156,7 +158,8 @@
         40,
         40,
         40,
-        40
+        40,
+        41
       ],
       "likes_rank": [
         null,
@@ -190,7 +193,8 @@
         183,
         183,
         183,
-        130
+        130,
+        132
       ]
     }
   },

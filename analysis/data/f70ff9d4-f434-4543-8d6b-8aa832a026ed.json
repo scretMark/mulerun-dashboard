@@ -1,27 +1,27 @@
 {
   "agent_id": "f70ff9d4-f434-4543-8d6b-8aa832a026ed",
-  "generated_at": "2025-12-17T08:24:39.485612",
+  "generated_at": "2025-12-18T07:35:29.131245",
   "basic_info": {
     "title": "Instant SEO Blog Writer",
     "author": "YuTou_baby",
     "description": "Plan, research, and publish SEO-ready blog posts—with cover image & structured text—in minutes.",
-    "short_description": "Plans, researches, and writes SEO-ready blog posts instantly.",
+    "short_description": "Write and format SEO-ready blog posts instantly.",
     "category": "AI Agent",
     "is_active": false,
     "published_at": "2025-09-14T14:03:35.759000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@YuTou_baby/instant-seo-blog-writer",
-    "days_since_published": 93
+    "days_since_published": 94
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 25,
       "runs_rank": 36,
-      "likes_rank": 46,
-      "total_agents": 245,
-      "views_percentile": 89.8,
-      "runs_percentile": 85.3,
-      "likes_percentile": 81.2
+      "likes_rank": 47,
+      "total_agents": 247,
+      "views_percentile": 89.9,
+      "runs_percentile": 85.4,
+      "likes_percentile": 81.0
     },
     "tier": "High",
     "tier_class": "high",
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 30,
+    "data_points": 31,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-17T16:24:33.627352",
+    "last_recorded": "2025-12-18T15:35:16.146705",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -86,7 +86,8 @@
         "2025-12-17T08:00:57.764340",
         "2025-12-17T11:30:34.217578",
         "2025-12-17T13:39:15.961442",
-        "2025-12-17T16:24:33.627352"
+        "2025-12-17T16:24:33.627352",
+        "2025-12-18T15:35:16.146705"
       ],
       "views_rank": [
         null,
@@ -114,6 +115,7 @@
         null,
         null,
         null,
+        25,
         25,
         25,
         25,
@@ -150,6 +152,7 @@
         36,
         36,
         36,
+        36,
         36
       ],
       "likes_rank": [
@@ -182,13 +185,20 @@
         162,
         162,
         162,
-        46
+        46,
+        47
       ]
     }
   },
   "change_history": {
-    "total_changes": 11,
+    "total_changes": 12,
     "changes": [
+      {
+        "date": "2025-12-18T07:35:17.296489",
+        "type": "new",
+        "description": "New agent published: Instant SEO Blog Writer",
+        "severity": "medium"
+      },
       {
         "date": "2025-12-17T08:24:34.835736",
         "type": "new",

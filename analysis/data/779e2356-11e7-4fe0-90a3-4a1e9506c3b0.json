@@ -1,6 +1,6 @@
 {
   "agent_id": "779e2356-11e7-4fe0-90a3-4a1e9506c3b0",
-  "generated_at": "2025-12-17T08:24:43.080623",
+  "generated_at": "2025-12-18T07:35:33.281126",
   "basic_info": {
     "title": "Smart Q",
     "author": "QuickBI",
@@ -11,26 +11,26 @@
     "published_at": "2025-11-04T15:33:59.812000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@QuickBI/smart-q",
-    "days_since_published": 42
+    "days_since_published": 43
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 26,
       "runs_rank": 6,
-      "likes_rank": 31,
-      "total_agents": 245,
-      "views_percentile": 89.4,
+      "likes_rank": 42,
+      "total_agents": 247,
+      "views_percentile": 89.5,
       "runs_percentile": 97.6,
-      "likes_percentile": 87.3
+      "likes_percentile": 83.0
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 39,
+    "days_tracked": 40,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 28,
+    "days_tracked": 29,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 33,
+    "data_points": 34,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-17T16:24:33.627352",
+    "last_recorded": "2025-12-18T15:35:16.146705",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -89,7 +89,8 @@
         "2025-12-17T08:00:57.764340",
         "2025-12-17T11:30:34.217578",
         "2025-12-17T13:39:15.961442",
-        "2025-12-17T16:24:33.627352"
+        "2025-12-17T16:24:33.627352",
+        "2025-12-18T15:35:16.146705"
       ],
       "views_rank": [
         null,
@@ -120,6 +121,7 @@
         null,
         null,
         null,
+        26,
         26,
         26,
         26,
@@ -159,6 +161,7 @@
         6,
         6,
         6,
+        6,
         6
       ],
       "likes_rank": [
@@ -194,7 +197,8 @@
         87,
         87,
         87,
-        31
+        31,
+        42
       ]
     }
   },
