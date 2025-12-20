@@ -1,6 +1,6 @@
 {
   "agent_id": "f5f82451-13c5-4a16-bf95-9735363ff935",
-  "generated_at": "2025-12-18T07:35:33.570549",
+  "generated_at": "2025-12-20T00:01:48.305944",
   "basic_info": {
     "title": "StarSnap",
     "author": "YuTou_baby",
@@ -11,26 +11,26 @@
     "published_at": "2025-09-05T23:48:00.962000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@YuTou_baby/starsnap",
-    "days_since_published": 103
+    "days_since_published": 105
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 17,
-      "runs_rank": 11,
-      "likes_rank": 74,
-      "total_agents": 247,
-      "views_percentile": 93.1,
-      "runs_percentile": 95.5,
-      "likes_percentile": 70.0
+      "runs_rank": 12,
+      "likes_rank": 80,
+      "total_agents": 254,
+      "views_percentile": 93.3,
+      "runs_percentile": 95.3,
+      "likes_percentile": 68.5
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 60,
+    "days_tracked": 61,
     "price": 80.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 28,
+    "days_tracked": 30,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 33,
+    "data_points": 34,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-18T15:35:16.146705",
+    "last_recorded": "2025-12-20T08:01:00.398750",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -89,7 +89,8 @@
         "2025-12-17T11:30:34.217578",
         "2025-12-17T13:39:15.961442",
         "2025-12-17T16:24:33.627352",
-        "2025-12-18T15:35:16.146705"
+        "2025-12-18T15:35:16.146705",
+        "2025-12-20T08:01:00.398750"
       ],
       "views_rank": [
         null,
@@ -119,6 +120,7 @@
         null,
         null,
         null,
+        17,
         17,
         17,
         17,
@@ -159,7 +161,8 @@
         10,
         10,
         10,
-        11
+        11,
+        12
       ],
       "likes_rank": [
         null,
@@ -194,7 +197,8 @@
         230,
         230,
         71,
-        74
+        74,
+        80
       ]
     }
   },
@@ -206,12 +210,12 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #11 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #12 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     },
     {
       "type": "info",
       "title": "Premium Agent Success",
-      "description": "Despite $80.0 pricing, this agent ranks #11 in usage - demonstrating strong value proposition."
+      "description": "Despite $80.0 pricing, this agent ranks #12 in usage - demonstrating strong value proposition."
     }
   ]
 }

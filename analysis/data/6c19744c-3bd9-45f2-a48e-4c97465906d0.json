@@ -1,6 +1,6 @@
 {
   "agent_id": "6c19744c-3bd9-45f2-a48e-4c97465906d0",
-  "generated_at": "2025-12-18T07:35:35.797671",
+  "generated_at": "2025-12-20T00:01:47.946045",
   "basic_info": {
     "title": "Mockup Studio Try On",
     "author": "DENNIS",
@@ -11,26 +11,26 @@
     "published_at": "2025-12-04T09:50:58.930000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@DENNIS/mockup-studio-try-on",
-    "days_since_published": 13
+    "days_since_published": 15
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 177,
-      "runs_rank": 145,
-      "likes_rank": 58,
-      "total_agents": 247,
-      "views_percentile": 28.3,
-      "runs_percentile": 41.3,
-      "likes_percentile": 76.5
+      "views_rank": 174,
+      "runs_rank": 146,
+      "likes_rank": 64,
+      "total_agents": 254,
+      "views_percentile": 31.5,
+      "runs_percentile": 42.5,
+      "likes_percentile": 74.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 17,
+    "days_tracked": 18,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 10,
+    "days_tracked": 11,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
@@ -42,19 +42,19 @@
       "likes_rank_change": null
     },
     "all_time": {
-      "best_views_rank": 177,
+      "best_views_rank": 174,
       "best_runs_rank": 145,
       "best_likes_rank": 55,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 177
+      "current_rank": 174
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 16,
+    "data_points": 17,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2025-12-18T15:35:16.146705",
+    "last_recorded": "2025-12-20T08:01:00.398750",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -72,7 +72,8 @@
         "2025-12-17T11:30:34.217578",
         "2025-12-17T13:39:15.961442",
         "2025-12-17T16:24:33.627352",
-        "2025-12-18T15:35:16.146705"
+        "2025-12-18T15:35:16.146705",
+        "2025-12-20T08:01:00.398750"
       ],
       "views_rank": [
         null,
@@ -90,7 +91,8 @@
         185,
         185,
         185,
-        177
+        177,
+        174
       ],
       "runs_rank": [
         null,
@@ -108,7 +110,8 @@
         147,
         147,
         148,
-        145
+        145,
+        146
       ],
       "likes_rank": [
         null,
@@ -126,7 +129,8 @@
         99,
         99,
         55,
-        58
+        58,
+        64
       ]
     }
   },
@@ -145,7 +149,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #177 out of 247 active agents."
+      "description": "This agent is currently ranked #174 out of 254 active agents."
     }
   ]
 }

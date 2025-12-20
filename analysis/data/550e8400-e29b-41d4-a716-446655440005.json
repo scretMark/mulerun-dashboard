@@ -1,6 +1,6 @@
 {
   "agent_id": "550e8400-e29b-41d4-a716-446655440005",
-  "generated_at": "2025-12-18T07:35:33.703168",
+  "generated_at": "2025-12-20T00:01:48.467372",
   "basic_info": {
     "title": "Honkai: Star Rail Booster",
     "author": "Chengbbb0468",
@@ -11,26 +11,26 @@
     "published_at": "2025-10-30T17:57:46.597000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Chengbbb0468/honkai-star-rail-booster",
-    "days_since_published": 48
+    "days_since_published": 50
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 6,
-      "runs_rank": 19,
-      "likes_rank": 120,
-      "total_agents": 247,
+      "runs_rank": 20,
+      "likes_rank": 127,
+      "total_agents": 254,
       "views_percentile": 97.6,
-      "runs_percentile": 92.3,
-      "likes_percentile": 51.4
+      "runs_percentile": 92.1,
+      "likes_percentile": 50.0
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 65,
+    "days_tracked": 66,
     "price": 2.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 28,
+    "days_tracked": 30,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
@@ -45,16 +45,16 @@
       "best_views_rank": 6,
       "best_runs_rank": 19,
       "best_likes_rank": 91,
-      "days_in_top_10": 6,
+      "days_in_top_10": 7,
       "first_rank": null,
       "current_rank": 6
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 33,
+    "data_points": 34,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-18T15:35:16.146705",
+    "last_recorded": "2025-12-20T08:01:00.398750",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -89,7 +89,8 @@
         "2025-12-17T11:30:34.217578",
         "2025-12-17T13:39:15.961442",
         "2025-12-17T16:24:33.627352",
-        "2025-12-18T15:35:16.146705"
+        "2025-12-18T15:35:16.146705",
+        "2025-12-20T08:01:00.398750"
       ],
       "views_rank": [
         null,
@@ -119,6 +120,7 @@
         null,
         null,
         null,
+        6,
         6,
         6,
         6,
@@ -159,7 +161,8 @@
         19,
         19,
         19,
-        19
+        19,
+        20
       ],
       "likes_rank": [
         null,
@@ -194,7 +197,8 @@
         91,
         91,
         118,
-        120
+        120,
+        127
       ]
     }
   },
@@ -209,9 +213,14 @@
       "description": "Ranked #6 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     },
     {
+      "type": "positive",
+      "title": "Consistent Top Performer",
+      "description": "Maintained Top 10 ranking for 7 days - showing sustained excellence and user preference."
+    },
+    {
       "type": "info",
       "title": "Premium Agent Success",
-      "description": "Despite $2.0 pricing, this agent ranks #19 in usage - demonstrating strong value proposition."
+      "description": "Despite $2.0 pricing, this agent ranks #20 in usage - demonstrating strong value proposition."
     }
   ]
 }

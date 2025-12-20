@@ -1,6 +1,6 @@
 {
   "agent_id": "e197ef47-e1a3-43ab-a2b0-aa753bd9785e",
-  "generated_at": "2025-12-18T07:35:34.044422",
+  "generated_at": "2025-12-20T00:01:48.874917",
   "basic_info": {
     "title": "Kawaii Chibi Sticker Pack",
     "author": "AllenCreator",
@@ -11,26 +11,26 @@
     "published_at": "2025-10-07T11:32:03.765000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AllenCreator/kawaii-chibi-sticker-pack",
-    "days_since_published": 71
+    "days_since_published": 73
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 155,
-      "runs_rank": 175,
-      "likes_rank": 49,
-      "total_agents": 247,
-      "views_percentile": 37.2,
-      "runs_percentile": 29.1,
-      "likes_percentile": 80.2
+      "views_rank": 154,
+      "runs_rank": 176,
+      "likes_rank": 59,
+      "total_agents": 254,
+      "views_percentile": 39.4,
+      "runs_percentile": 30.7,
+      "likes_percentile": 76.8
     },
-    "tier": "High",
-    "tier_class": "high",
-    "days_tracked": 55,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 56,
     "price": 20.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 28,
+    "days_tracked": 30,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 47,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 155
+      "current_rank": 154
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 33,
+    "data_points": 34,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-18T15:35:16.146705",
+    "last_recorded": "2025-12-20T08:01:00.398750",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -89,7 +89,8 @@
         "2025-12-17T11:30:34.217578",
         "2025-12-17T13:39:15.961442",
         "2025-12-17T16:24:33.627352",
-        "2025-12-18T15:35:16.146705"
+        "2025-12-18T15:35:16.146705",
+        "2025-12-20T08:01:00.398750"
       ],
       "views_rank": [
         null,
@@ -124,7 +125,8 @@
         154,
         154,
         154,
-        155
+        155,
+        154
       ],
       "runs_rank": [
         null,
@@ -159,7 +161,8 @@
         174,
         174,
         174,
-        175
+        175,
+        176
       ],
       "likes_rank": [
         null,
@@ -194,7 +197,8 @@
         216,
         216,
         47,
-        49
+        49,
+        59
       ]
     }
   },
@@ -204,9 +208,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "High Performer",
-      "description": "Ranked #49 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #154 out of 254 active agents."
     }
   ]
 }

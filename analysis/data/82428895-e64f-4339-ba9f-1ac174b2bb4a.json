@@ -1,6 +1,6 @@
 {
   "agent_id": "82428895-e64f-4339-ba9f-1ac174b2bb4a",
-  "generated_at": "2025-12-18T07:35:33.442392",
+  "generated_at": "2025-12-20T00:01:48.150006",
   "basic_info": {
     "title": "Chibi Sticker Maker",
     "author": "laughing_code",
@@ -11,26 +11,26 @@
     "published_at": "2025-09-28T14:39:41.704000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@laughing_code/chibi-sticker-maker",
-    "days_since_published": 80
+    "days_since_published": 82
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 7,
-      "runs_rank": 5,
-      "likes_rank": 174,
-      "total_agents": 247,
+      "runs_rank": 6,
+      "likes_rank": 181,
+      "total_agents": 254,
       "views_percentile": 97.2,
-      "runs_percentile": 98.0,
-      "likes_percentile": 29.6
+      "runs_percentile": 97.6,
+      "likes_percentile": 28.7
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 60,
+    "days_tracked": 61,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 29,
+    "days_tracked": 31,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
@@ -45,16 +45,16 @@
       "best_views_rank": 7,
       "best_runs_rank": 5,
       "best_likes_rank": 118,
-      "days_in_top_10": 6,
+      "days_in_top_10": 7,
       "first_rank": null,
       "current_rank": 7
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 34,
+    "data_points": 35,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-18T15:35:16.146705",
+    "last_recorded": "2025-12-20T08:01:00.398750",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -90,7 +90,8 @@
         "2025-12-17T11:30:34.217578",
         "2025-12-17T13:39:15.961442",
         "2025-12-17T16:24:33.627352",
-        "2025-12-18T15:35:16.146705"
+        "2025-12-18T15:35:16.146705",
+        "2025-12-20T08:01:00.398750"
       ],
       "views_rank": [
         null,
@@ -121,6 +122,7 @@
         null,
         null,
         null,
+        7,
         7,
         7,
         7,
@@ -162,7 +164,8 @@
         5,
         5,
         5,
-        5
+        5,
+        6
       ],
       "likes_rank": [
         null,
@@ -198,7 +201,8 @@
         118,
         118,
         172,
-        174
+        174,
+        181
       ]
     }
   },
@@ -210,12 +214,17 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #5 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #6 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+    },
+    {
+      "type": "positive",
+      "title": "Consistent Top Performer",
+      "description": "Maintained Top 10 ranking for 7 days - showing sustained excellence and user preference."
     },
     {
       "type": "info",
       "title": "Premium Agent Success",
-      "description": "Despite $50.0 pricing, this agent ranks #5 in usage - demonstrating strong value proposition."
+      "description": "Despite $50.0 pricing, this agent ranks #6 in usage - demonstrating strong value proposition."
     }
   ]
 }

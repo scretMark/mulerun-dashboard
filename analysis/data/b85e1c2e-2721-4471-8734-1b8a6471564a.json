@@ -1,6 +1,6 @@
 {
   "agent_id": "b85e1c2e-2721-4471-8734-1b8a6471564a",
-  "generated_at": "2025-12-18T07:35:34.129091",
+  "generated_at": "2025-12-20T00:01:48.965185",
   "basic_info": {
     "title": "Photo to Sticker",
     "author": "Zane29222",
@@ -11,26 +11,26 @@
     "published_at": "2025-10-11T11:10:42.694000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Zane29222/photo-to-sticker",
-    "days_since_published": 67
+    "days_since_published": 69
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 104,
-      "runs_rank": 72,
-      "likes_rank": 164,
-      "total_agents": 247,
-      "views_percentile": 57.9,
-      "runs_percentile": 70.9,
-      "likes_percentile": 33.6
+      "runs_rank": 71,
+      "likes_rank": 171,
+      "total_agents": 254,
+      "views_percentile": 59.1,
+      "runs_percentile": 72.0,
+      "likes_percentile": 32.7
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 55,
+    "days_tracked": 56,
     "price": 40.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 28,
+    "days_tracked": 30,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
@@ -43,7 +43,7 @@
     },
     "all_time": {
       "best_views_rank": 104,
-      "best_runs_rank": 72,
+      "best_runs_rank": 71,
       "best_likes_rank": 158,
       "days_in_top_10": 0,
       "first_rank": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 33,
+    "data_points": 34,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-18T15:35:16.146705",
+    "last_recorded": "2025-12-20T08:01:00.398750",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -89,7 +89,8 @@
         "2025-12-17T11:30:34.217578",
         "2025-12-17T13:39:15.961442",
         "2025-12-17T16:24:33.627352",
-        "2025-12-18T15:35:16.146705"
+        "2025-12-18T15:35:16.146705",
+        "2025-12-20T08:01:00.398750"
       ],
       "views_rank": [
         null,
@@ -119,6 +120,7 @@
         null,
         null,
         null,
+        104,
         104,
         104,
         104,
@@ -159,7 +161,8 @@
         74,
         74,
         74,
-        72
+        72,
+        71
       ],
       "likes_rank": [
         null,
@@ -194,7 +197,8 @@
         158,
         158,
         161,
-        164
+        164,
+        171
       ]
     }
   },
@@ -206,7 +210,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #104 out of 247 active agents."
+      "description": "This agent is currently ranked #104 out of 254 active agents."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "a1d31429-2812-46a5-9371-cd901ee0e441",
-  "generated_at": "2025-12-18T07:35:35.514721",
+  "generated_at": "2025-12-20T00:01:47.615459",
   "basic_info": {
     "title": "SpeechMeme",
     "author": "AllenCreator",
@@ -11,26 +11,26 @@
     "published_at": "2025-10-13T15:47:08.063000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AllenCreator/speehmeme",
-    "days_since_published": 65
+    "days_since_published": 67
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 189,
-      "runs_rank": 234,
-      "likes_rank": 81,
-      "total_agents": 247,
-      "views_percentile": 23.5,
-      "runs_percentile": 5.3,
-      "likes_percentile": 67.2
+      "runs_rank": 238,
+      "likes_rank": 86,
+      "total_agents": 254,
+      "views_percentile": 25.6,
+      "runs_percentile": 6.3,
+      "likes_percentile": 66.1
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 55,
+    "days_tracked": 56,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 28,
+    "days_tracked": 30,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 33,
+    "data_points": 34,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-18T15:35:16.146705",
+    "last_recorded": "2025-12-20T08:01:00.398750",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -89,7 +89,8 @@
         "2025-12-17T11:30:34.217578",
         "2025-12-17T13:39:15.961442",
         "2025-12-17T16:24:33.627352",
-        "2025-12-18T15:35:16.146705"
+        "2025-12-18T15:35:16.146705",
+        "2025-12-20T08:01:00.398750"
       ],
       "views_rank": [
         null,
@@ -124,6 +125,7 @@
         187,
         187,
         187,
+        189,
         189
       ],
       "runs_rank": [
@@ -159,7 +161,8 @@
         233,
         233,
         233,
-        234
+        234,
+        238
       ],
       "likes_rank": [
         null,
@@ -194,7 +197,8 @@
         25,
         25,
         78,
-        81
+        81,
+        86
       ]
     }
   },
@@ -206,7 +210,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #189 out of 247 active agents."
+      "description": "This agent is currently ranked #189 out of 254 active agents."
     }
   ]
 }

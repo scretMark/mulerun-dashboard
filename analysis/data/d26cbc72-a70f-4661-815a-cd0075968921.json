@@ -1,6 +1,6 @@
 {
   "agent_id": "d26cbc72-a70f-4661-815a-cd0075968921",
-  "generated_at": "2025-12-18T07:35:36.074804",
+  "generated_at": "2025-12-20T00:01:48.259861",
   "basic_info": {
     "title": "Pretend I was here",
     "author": "Barry",
@@ -11,26 +11,26 @@
     "published_at": "2025-12-09T09:50:37.765000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Barry/pretend-i-was-here",
-    "days_since_published": 8
+    "days_since_published": 10
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 215,
+      "views_rank": 218,
       "runs_rank": 120,
-      "likes_rank": 28,
-      "total_agents": 247,
-      "views_percentile": 13.0,
-      "runs_percentile": 51.4,
-      "likes_percentile": 88.7
+      "likes_rank": 26,
+      "total_agents": 254,
+      "views_percentile": 14.2,
+      "runs_percentile": 52.8,
+      "likes_percentile": 89.8
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 10,
+    "days_tracked": 11,
     "price": 46.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 5,
+    "days_tracked": 7,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
@@ -44,17 +44,17 @@
     "all_time": {
       "best_views_rank": 212,
       "best_runs_rank": 119,
-      "best_likes_rank": 28,
+      "best_likes_rank": 26,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 215
+      "current_rank": 218
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 10,
+    "data_points": 11,
     "first_recorded": "2025-12-13T08:00:26.854786",
-    "last_recorded": "2025-12-18T15:35:16.146705",
+    "last_recorded": "2025-12-20T08:01:00.398750",
     "time_series": {
       "dates": [
         "2025-12-13T08:00:26.854786",
@@ -66,7 +66,8 @@
         "2025-12-17T11:30:34.217578",
         "2025-12-17T13:39:15.961442",
         "2025-12-17T16:24:33.627352",
-        "2025-12-18T15:35:16.146705"
+        "2025-12-18T15:35:16.146705",
+        "2025-12-20T08:01:00.398750"
       ],
       "views_rank": [
         null,
@@ -78,7 +79,8 @@
         212,
         212,
         214,
-        215
+        215,
+        218
       ],
       "runs_rank": [
         null,
@@ -90,6 +92,7 @@
         119,
         119,
         119,
+        120,
         120
       ],
       "likes_rank": [
@@ -102,7 +105,8 @@
         156,
         156,
         28,
-        28
+        28,
+        26
       ]
     }
   },
@@ -121,7 +125,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #28 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #26 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

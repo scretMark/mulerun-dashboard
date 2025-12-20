@@ -1,6 +1,6 @@
 {
   "agent_id": "e3f4d21e-15a3-4e46-b199-24b8d5b4aedc",
-  "generated_at": "2025-12-18T07:35:34.330070",
+  "generated_at": "2025-12-20T00:01:49.184133",
   "basic_info": {
     "title": "CookChina AI",
     "author": "Chelestebbb0829",
@@ -11,26 +11,26 @@
     "published_at": "2025-10-17T15:00:54.510000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Chelestebbb0829/cookchina-ai",
-    "days_since_published": 61
+    "days_since_published": 63
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 15,
+      "views_rank": 16,
       "runs_rank": 39,
-      "likes_rank": 3,
-      "total_agents": 247,
-      "views_percentile": 93.9,
-      "runs_percentile": 84.2,
-      "likes_percentile": 98.8
+      "likes_rank": 53,
+      "total_agents": 254,
+      "views_percentile": 93.7,
+      "runs_percentile": 84.6,
+      "likes_percentile": 79.1
     },
-    "tier": "Elite",
-    "tier_class": "elite",
-    "days_tracked": 60,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 61,
     "price": 2.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 28,
+    "days_tracked": 30,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 3,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 15
+      "current_rank": 16
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 33,
+    "data_points": 34,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-18T15:35:16.146705",
+    "last_recorded": "2025-12-20T08:01:00.398750",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -89,7 +89,8 @@
         "2025-12-17T11:30:34.217578",
         "2025-12-17T13:39:15.961442",
         "2025-12-17T16:24:33.627352",
-        "2025-12-18T15:35:16.146705"
+        "2025-12-18T15:35:16.146705",
+        "2025-12-20T08:01:00.398750"
       ],
       "views_rank": [
         null,
@@ -124,7 +125,8 @@
         15,
         15,
         15,
-        15
+        15,
+        16
       ],
       "runs_rank": [
         null,
@@ -159,6 +161,7 @@
         38,
         38,
         38,
+        39,
         39
       ],
       "likes_rank": [
@@ -194,7 +197,8 @@
         24,
         24,
         3,
-        3
+        3,
+        53
       ]
     }
   },
@@ -205,8 +209,8 @@
   "insights": [
     {
       "type": "positive",
-      "title": "Elite Performance",
-      "description": "Ranked #3 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "title": "High Performer",
+      "description": "Ranked #16 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

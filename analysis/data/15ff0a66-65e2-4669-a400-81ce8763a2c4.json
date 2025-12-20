@@ -1,6 +1,6 @@
 {
   "agent_id": "15ff0a66-65e2-4669-a400-81ce8763a2c4",
-  "generated_at": "2025-12-18T07:35:33.980265",
+  "generated_at": "2025-12-20T00:01:48.797356",
   "basic_info": {
     "title": "YouTube Quick Scan",
     "author": "Zane29222",
@@ -11,26 +11,26 @@
     "published_at": "2025-10-06T20:24:45.395000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Zane29222/youtube-quick-scan",
-    "days_since_published": 72
+    "days_since_published": 74
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 32,
-      "runs_rank": 77,
-      "likes_rank": 67,
-      "total_agents": 247,
-      "views_percentile": 87.0,
-      "runs_percentile": 68.8,
-      "likes_percentile": 72.9
+      "runs_rank": 79,
+      "likes_rank": 72,
+      "total_agents": 254,
+      "views_percentile": 87.4,
+      "runs_percentile": 68.9,
+      "likes_percentile": 71.7
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 75,
+    "days_tracked": 76,
     "price": 40.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 28,
+    "days_tracked": 30,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 33,
+    "data_points": 34,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-18T15:35:16.146705",
+    "last_recorded": "2025-12-20T08:01:00.398750",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -89,7 +89,8 @@
         "2025-12-17T11:30:34.217578",
         "2025-12-17T13:39:15.961442",
         "2025-12-17T16:24:33.627352",
-        "2025-12-18T15:35:16.146705"
+        "2025-12-18T15:35:16.146705",
+        "2025-12-20T08:01:00.398750"
       ],
       "views_rank": [
         null,
@@ -124,6 +125,7 @@
         31,
         31,
         31,
+        32,
         32
       ],
       "runs_rank": [
@@ -159,7 +161,8 @@
         77,
         77,
         77,
-        77
+        77,
+        79
       ],
       "likes_rank": [
         null,
@@ -194,7 +197,8 @@
         212,
         212,
         64,
-        67
+        67,
+        72
       ]
     }
   },

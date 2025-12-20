@@ -1,6 +1,6 @@
 {
   "agent_id": "23955924-d6ed-48cc-8ec0-a776427979cb",
-  "generated_at": "2025-12-18T07:35:35.883738",
+  "generated_at": "2025-12-20T00:01:48.034902",
   "basic_info": {
     "title": "Change the color of your pet",
     "author": "8bit",
@@ -11,26 +11,26 @@
     "published_at": "2025-12-08T20:39:24.448000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/change-the-color-of-your-pet",
-    "days_since_published": 9
+    "days_since_published": 11
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 225,
-      "runs_rank": 158,
-      "likes_rank": 30,
-      "total_agents": 247,
-      "views_percentile": 8.9,
-      "runs_percentile": 36.0,
-      "likes_percentile": 87.9
+      "views_rank": 228,
+      "runs_rank": 161,
+      "likes_rank": 28,
+      "total_agents": 254,
+      "views_percentile": 10.2,
+      "runs_percentile": 36.6,
+      "likes_percentile": 89.0
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 13,
+    "days_tracked": 14,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 8,
+    "days_tracked": 10,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
@@ -44,17 +44,17 @@
     "all_time": {
       "best_views_rank": 223,
       "best_runs_rank": 154,
-      "best_likes_rank": 30,
+      "best_likes_rank": 28,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 225
+      "current_rank": 228
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 13,
+    "data_points": 14,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2025-12-18T15:35:16.146705",
+    "last_recorded": "2025-12-20T08:01:00.398750",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
@@ -69,7 +69,8 @@
         "2025-12-17T11:30:34.217578",
         "2025-12-17T13:39:15.961442",
         "2025-12-17T16:24:33.627352",
-        "2025-12-18T15:35:16.146705"
+        "2025-12-18T15:35:16.146705",
+        "2025-12-20T08:01:00.398750"
       ],
       "views_rank": [
         null,
@@ -84,7 +85,8 @@
         223,
         223,
         223,
-        225
+        225,
+        228
       ],
       "runs_rank": [
         null,
@@ -99,7 +101,8 @@
         154,
         155,
         155,
-        158
+        158,
+        161
       ],
       "likes_rank": [
         null,
@@ -114,7 +117,8 @@
         116,
         116,
         30,
-        30
+        30,
+        28
       ]
     }
   },
@@ -133,7 +137,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #30 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #28 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

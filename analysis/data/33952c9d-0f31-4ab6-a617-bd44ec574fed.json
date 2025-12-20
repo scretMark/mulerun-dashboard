@@ -1,6 +1,6 @@
 {
   "agent_id": "33952c9d-0f31-4ab6-a617-bd44ec574fed",
-  "generated_at": "2025-12-18T07:35:35.851591",
+  "generated_at": "2025-12-20T00:01:47.997374",
   "basic_info": {
     "title": "Pixel Avatar Agent ",
     "author": "Matt",
@@ -11,26 +11,26 @@
     "published_at": "2025-12-05T19:04:02.237000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Matt/pixel-avatar-agent",
-    "days_since_published": 12
+    "days_since_published": 14
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 217,
-      "runs_rank": 177,
-      "likes_rank": 38,
-      "total_agents": 247,
-      "views_percentile": 12.1,
-      "runs_percentile": 28.3,
-      "likes_percentile": 84.6
+      "views_rank": 209,
+      "runs_rank": 180,
+      "likes_rank": 42,
+      "total_agents": 254,
+      "views_percentile": 17.7,
+      "runs_percentile": 29.1,
+      "likes_percentile": 83.5
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 14,
+    "days_tracked": 15,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 9,
+    "days_tracked": 11,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
@@ -42,19 +42,19 @@
       "likes_rank_change": null
     },
     "all_time": {
-      "best_views_rank": 216,
+      "best_views_rank": 209,
       "best_runs_rank": 175,
       "best_likes_rank": 37,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 217
+      "current_rank": 209
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 15,
+    "data_points": 16,
     "first_recorded": "2025-12-09T08:00:25.308684",
-    "last_recorded": "2025-12-18T15:35:16.146705",
+    "last_recorded": "2025-12-20T08:01:00.398750",
     "time_series": {
       "dates": [
         "2025-12-09T08:00:25.308684",
@@ -71,7 +71,8 @@
         "2025-12-17T11:30:34.217578",
         "2025-12-17T13:39:15.961442",
         "2025-12-17T16:24:33.627352",
-        "2025-12-18T15:35:16.146705"
+        "2025-12-18T15:35:16.146705",
+        "2025-12-20T08:01:00.398750"
       ],
       "views_rank": [
         null,
@@ -88,7 +89,8 @@
         216,
         216,
         216,
-        217
+        217,
+        209
       ],
       "runs_rank": [
         null,
@@ -105,7 +107,8 @@
         176,
         176,
         176,
-        177
+        177,
+        180
       ],
       "likes_rank": [
         null,
@@ -122,7 +125,8 @@
         221,
         221,
         37,
-        38
+        38,
+        42
       ]
     }
   },
@@ -141,7 +145,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #38 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #42 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

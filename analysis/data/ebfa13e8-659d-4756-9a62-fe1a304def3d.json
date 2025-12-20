@@ -1,6 +1,6 @@
 {
   "agent_id": "ebfa13e8-659d-4756-9a62-fe1a304def3d",
-  "generated_at": "2025-12-18T07:35:33.546767",
+  "generated_at": "2025-12-20T00:01:48.277931",
   "basic_info": {
     "title": "AI Avatars",
     "author": "PicCopilot",
@@ -11,26 +11,26 @@
     "published_at": "2025-11-11T19:36:25.710000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/ai-avatars",
-    "days_since_published": 36
+    "days_since_published": 38
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 116,
+      "views_rank": 117,
       "runs_rank": 22,
-      "likes_rank": 170,
-      "total_agents": 247,
-      "views_percentile": 53.0,
-      "runs_percentile": 91.1,
-      "likes_percentile": 31.2
+      "likes_rank": 177,
+      "total_agents": 254,
+      "views_percentile": 53.9,
+      "runs_percentile": 91.3,
+      "likes_percentile": 30.3
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 53,
+    "days_tracked": 54,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 28,
+    "days_tracked": 30,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 95,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 116
+      "current_rank": 117
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 33,
+    "data_points": 34,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-18T15:35:16.146705",
+    "last_recorded": "2025-12-20T08:01:00.398750",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -89,7 +89,8 @@
         "2025-12-17T11:30:34.217578",
         "2025-12-17T13:39:15.961442",
         "2025-12-17T16:24:33.627352",
-        "2025-12-18T15:35:16.146705"
+        "2025-12-18T15:35:16.146705",
+        "2025-12-20T08:01:00.398750"
       ],
       "views_rank": [
         null,
@@ -124,7 +125,8 @@
         122,
         122,
         119,
-        116
+        116,
+        117
       ],
       "runs_rank": [
         null,
@@ -154,6 +156,7 @@
         null,
         null,
         null,
+        22,
         22,
         22,
         22,
@@ -194,7 +197,8 @@
         95,
         95,
         169,
-        170
+        170,
+        177
       ]
     }
   },

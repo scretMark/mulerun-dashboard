@@ -1,6 +1,6 @@
 {
   "agent_id": "5f299841-8d14-44c9-8988-6bc4ec3a4abc",
-  "generated_at": "2025-12-18T07:35:33.715567",
+  "generated_at": "2025-12-20T00:01:48.480802",
   "basic_info": {
     "title": "Remove Sora2 Video Watermark",
     "author": "Darren",
@@ -11,26 +11,26 @@
     "published_at": "2025-10-20T12:11:44.378000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/remove-sora2-video-watermark",
-    "days_since_published": 58
+    "days_since_published": 60
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 16,
+      "views_rank": 15,
       "runs_rank": 42,
-      "likes_rank": 216,
-      "total_agents": 247,
-      "views_percentile": 93.5,
-      "runs_percentile": 83.0,
+      "likes_rank": 222,
+      "total_agents": 254,
+      "views_percentile": 94.1,
+      "runs_percentile": 83.5,
       "likes_percentile": 12.6
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 53,
+    "days_tracked": 54,
     "price": 101.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 28,
+    "days_tracked": 30,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
@@ -42,19 +42,19 @@
       "likes_rank_change": null
     },
     "all_time": {
-      "best_views_rank": 16,
+      "best_views_rank": 15,
       "best_runs_rank": 41,
       "best_likes_rank": 201,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 16
+      "current_rank": 15
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 33,
+    "data_points": 34,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-18T15:35:16.146705",
+    "last_recorded": "2025-12-20T08:01:00.398750",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -89,7 +89,8 @@
         "2025-12-17T11:30:34.217578",
         "2025-12-17T13:39:15.961442",
         "2025-12-17T16:24:33.627352",
-        "2025-12-18T15:35:16.146705"
+        "2025-12-18T15:35:16.146705",
+        "2025-12-20T08:01:00.398750"
       ],
       "views_rank": [
         null,
@@ -124,7 +125,8 @@
         16,
         16,
         16,
-        16
+        16,
+        15
       ],
       "runs_rank": [
         null,
@@ -159,6 +161,7 @@
         41,
         41,
         41,
+        42,
         42
       ],
       "likes_rank": [
@@ -194,7 +197,8 @@
         201,
         201,
         221,
-        216
+        216,
+        222
       ]
     }
   },
@@ -206,7 +210,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #16 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #15 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

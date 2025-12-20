@@ -1,6 +1,6 @@
 {
   "agent_id": "81dcc6fe-5f37-425b-8ff8-7fc92f3171c8",
-  "generated_at": "2025-12-18T07:35:34.925224",
+  "generated_at": "2025-12-20T00:01:49.926663",
   "basic_info": {
     "title": "Time Gate",
     "author": "LinkAIBrain",
@@ -11,26 +11,26 @@
     "published_at": "2025-09-23T05:42:38.874000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/time-gate",
-    "days_since_published": 86
+    "days_since_published": 87
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 49,
       "runs_rank": 64,
-      "likes_rank": 146,
-      "total_agents": 247,
-      "views_percentile": 80.2,
-      "runs_percentile": 74.1,
-      "likes_percentile": 40.9
+      "likes_rank": 153,
+      "total_agents": 254,
+      "views_percentile": 80.7,
+      "runs_percentile": 74.8,
+      "likes_percentile": 39.8
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 57,
+    "days_tracked": 58,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 28,
+    "days_tracked": 30,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 33,
+    "data_points": 34,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-18T15:35:16.146705",
+    "last_recorded": "2025-12-20T08:01:00.398750",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -89,7 +89,8 @@
         "2025-12-17T11:30:34.217578",
         "2025-12-17T13:39:15.961442",
         "2025-12-17T16:24:33.627352",
-        "2025-12-18T15:35:16.146705"
+        "2025-12-18T15:35:16.146705",
+        "2025-12-20T08:01:00.398750"
       ],
       "views_rank": [
         null,
@@ -119,6 +120,7 @@
         null,
         null,
         null,
+        49,
         49,
         49,
         49,
@@ -159,6 +161,7 @@
         64,
         64,
         64,
+        64,
         64
       ],
       "likes_rank": [
@@ -194,7 +197,8 @@
         146,
         146,
         144,
-        146
+        146,
+        153
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "9f3e2d27-ac24-4ed3-8082-5f67a4d6bf14",
-  "generated_at": "2025-12-18T07:35:35.926245",
+  "generated_at": "2025-12-20T00:01:48.085314",
   "basic_info": {
     "title": "Fireworks Show",
     "author": "LinkAIBrain",
@@ -11,26 +11,26 @@
     "published_at": "2025-12-03T11:04:04.300000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/fireworks-show",
-    "days_since_published": 14
+    "days_since_published": 16
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 237,
-      "runs_rank": 238,
+      "views_rank": 240,
+      "runs_rank": 241,
       "likes_rank": 2,
-      "total_agents": 247,
-      "views_percentile": 4.0,
-      "runs_percentile": 3.6,
+      "total_agents": 254,
+      "views_percentile": 5.5,
+      "runs_percentile": 5.1,
       "likes_percentile": 99.2
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 13,
+    "days_tracked": 14,
     "price": 500.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 8,
+    "days_tracked": 10,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 2,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 237
+      "current_rank": 240
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 13,
+    "data_points": 14,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2025-12-18T15:35:16.146705",
+    "last_recorded": "2025-12-20T08:01:00.398750",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
@@ -69,7 +69,8 @@
         "2025-12-17T11:30:34.217578",
         "2025-12-17T13:39:15.961442",
         "2025-12-17T16:24:33.627352",
-        "2025-12-18T15:35:16.146705"
+        "2025-12-18T15:35:16.146705",
+        "2025-12-20T08:01:00.398750"
       ],
       "views_rank": [
         null,
@@ -84,7 +85,8 @@
         235,
         235,
         235,
-        237
+        237,
+        240
       ],
       "runs_rank": [
         null,
@@ -99,7 +101,8 @@
         236,
         236,
         236,
-        238
+        238,
+        241
       ],
       "likes_rank": [
         null,
@@ -113,6 +116,7 @@
         141,
         141,
         141,
+        2,
         2,
         2
       ]

@@ -1,6 +1,6 @@
 {
   "agent_id": "01045f00-c02f-46eb-951b-8752bb5a6f12",
-  "generated_at": "2025-12-18T07:35:33.377133",
+  "generated_at": "2025-12-20T00:01:48.093501",
   "basic_info": {
     "title": "Youtube Awesome Thumbnail",
     "author": "summerail",
@@ -11,26 +11,26 @@
     "published_at": "2025-11-10T09:52:30.048000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/youtube-awesome-thumbnail",
-    "days_since_published": 37
+    "days_since_published": 39
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 30,
-      "runs_rank": 12,
-      "likes_rank": 212,
-      "total_agents": 247,
-      "views_percentile": 87.9,
-      "runs_percentile": 95.1,
-      "likes_percentile": 14.2
+      "views_rank": 27,
+      "runs_rank": 10,
+      "likes_rank": 229,
+      "total_agents": 254,
+      "views_percentile": 89.4,
+      "runs_percentile": 96.1,
+      "likes_percentile": 9.8
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 40,
+    "days_tracked": 41,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 29,
+    "days_tracked": 31,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
@@ -42,19 +42,19 @@
       "likes_rank_change": null
     },
     "all_time": {
-      "best_views_rank": 30,
-      "best_runs_rank": 12,
+      "best_views_rank": 27,
+      "best_runs_rank": 10,
       "best_likes_rank": 175,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 30
+      "current_rank": 27
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 34,
+    "data_points": 35,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-18T15:35:16.146705",
+    "last_recorded": "2025-12-20T08:01:00.398750",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -90,7 +90,8 @@
         "2025-12-17T11:30:34.217578",
         "2025-12-17T13:39:15.961442",
         "2025-12-17T16:24:33.627352",
-        "2025-12-18T15:35:16.146705"
+        "2025-12-18T15:35:16.146705",
+        "2025-12-20T08:01:00.398750"
       ],
       "views_rank": [
         null,
@@ -126,7 +127,8 @@
         33,
         33,
         33,
-        30
+        30,
+        27
       ],
       "runs_rank": [
         null,
@@ -162,7 +164,8 @@
         12,
         12,
         12,
-        12
+        12,
+        10
       ],
       "likes_rank": [
         null,
@@ -198,7 +201,8 @@
         175,
         175,
         216,
-        212
+        212,
+        229
       ]
     }
   },
@@ -210,7 +214,7 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #12 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #10 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     }
   ]
 }

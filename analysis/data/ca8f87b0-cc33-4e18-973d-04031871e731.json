@@ -1,6 +1,6 @@
 {
   "agent_id": "ca8f87b0-cc33-4e18-973d-04031871e731",
-  "generated_at": "2025-12-18T07:35:33.425073",
+  "generated_at": "2025-12-20T00:01:48.134391",
   "basic_info": {
     "title": "General Browser Operator",
     "author": "Ailurus",
@@ -11,26 +11,26 @@
     "published_at": "2025-10-31T13:30:41.517000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Ailurus/general-browser-operator",
-    "days_since_published": 47
+    "days_since_published": 49
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 3,
       "runs_rank": 1,
-      "likes_rank": 31,
-      "total_agents": 247,
+      "likes_rank": 35,
+      "total_agents": 254,
       "views_percentile": 98.8,
       "runs_percentile": 99.6,
-      "likes_percentile": 87.4
+      "likes_percentile": 86.2
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 64,
+    "days_tracked": 65,
     "price": 1.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 29,
+    "days_tracked": 31,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
@@ -45,16 +45,16 @@
       "best_views_rank": 3,
       "best_runs_rank": 1,
       "best_likes_rank": 31,
-      "days_in_top_10": 6,
+      "days_in_top_10": 7,
       "first_rank": null,
       "current_rank": 3
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 34,
+    "data_points": 35,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-18T15:35:16.146705",
+    "last_recorded": "2025-12-20T08:01:00.398750",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -90,7 +90,8 @@
         "2025-12-17T11:30:34.217578",
         "2025-12-17T13:39:15.961442",
         "2025-12-17T16:24:33.627352",
-        "2025-12-18T15:35:16.146705"
+        "2025-12-18T15:35:16.146705",
+        "2025-12-20T08:01:00.398750"
       ],
       "views_rank": [
         null,
@@ -121,6 +122,7 @@
         null,
         null,
         null,
+        3,
         3,
         3,
         3,
@@ -162,6 +164,7 @@
         1,
         1,
         1,
+        1,
         1
       ],
       "likes_rank": [
@@ -198,7 +201,8 @@
         237,
         237,
         40,
-        31
+        31,
+        35
       ]
     }
   },
@@ -216,6 +220,11 @@
       "type": "positive",
       "title": "Peak Performance",
       "description": "Achieved a best-ever ranking of #3 - demonstrating exceptional potential and market fit."
+    },
+    {
+      "type": "positive",
+      "title": "Consistent Top Performer",
+      "description": "Maintained Top 10 ranking for 7 days - showing sustained excellence and user preference."
     },
     {
       "type": "info",

@@ -1,6 +1,6 @@
 {
   "agent_id": "d888e7ff-6e44-4a3c-a588-2a5b13aa68bf",
-  "generated_at": "2025-12-18T07:35:34.437336",
+  "generated_at": "2025-12-20T00:01:49.306249",
   "basic_info": {
     "title": "n8n stylist",
     "author": "summerail",
@@ -11,26 +11,26 @@
     "published_at": "2025-10-04T14:40:15.184000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/n8n-stylist",
-    "days_since_published": 74
+    "days_since_published": 76
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 97,
-      "runs_rank": 242,
-      "likes_rank": 61,
-      "total_agents": 247,
-      "views_percentile": 60.7,
-      "runs_percentile": 2.0,
-      "likes_percentile": 75.3
+      "views_rank": 98,
+      "runs_rank": 245,
+      "likes_rank": 68,
+      "total_agents": 254,
+      "views_percentile": 61.4,
+      "runs_percentile": 3.5,
+      "likes_percentile": 73.2
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 78,
+    "days_tracked": 79,
     "price": 60.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 28,
+    "days_tracked": 30,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 28,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 97
+      "current_rank": 98
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 33,
+    "data_points": 34,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-18T15:35:16.146705",
+    "last_recorded": "2025-12-20T08:01:00.398750",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -89,7 +89,8 @@
         "2025-12-17T11:30:34.217578",
         "2025-12-17T13:39:15.961442",
         "2025-12-17T16:24:33.627352",
-        "2025-12-18T15:35:16.146705"
+        "2025-12-18T15:35:16.146705",
+        "2025-12-20T08:01:00.398750"
       ],
       "views_rank": [
         null,
@@ -124,7 +125,8 @@
         98,
         98,
         98,
-        97
+        97,
+        98
       ],
       "runs_rank": [
         null,
@@ -159,7 +161,8 @@
         240,
         240,
         240,
-        242
+        242,
+        245
       ],
       "likes_rank": [
         null,
@@ -194,7 +197,8 @@
         28,
         28,
         60,
-        61
+        61,
+        68
       ]
     }
   },
@@ -206,7 +210,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #97 out of 247 active agents."
+      "description": "This agent is currently ranked #98 out of 254 active agents."
     }
   ]
 }

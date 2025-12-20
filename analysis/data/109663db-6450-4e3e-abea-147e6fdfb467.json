@@ -1,6 +1,6 @@
 {
   "agent_id": "109663db-6450-4e3e-abea-147e6fdfb467",
-  "generated_at": "2025-12-18T07:35:34.499512",
+  "generated_at": "2025-12-20T00:01:49.389702",
   "basic_info": {
     "title": "Last Will - AI Deduction game",
     "author": "Losure",
@@ -11,26 +11,26 @@
     "published_at": "2025-10-30T18:03:09.916000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Losure/last-will-ai-deduction-game",
-    "days_since_published": 48
+    "days_since_published": 50
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 21,
       "runs_rank": 48,
-      "likes_rank": 7,
-      "total_agents": 247,
-      "views_percentile": 91.5,
-      "runs_percentile": 80.6,
-      "likes_percentile": 97.2
+      "likes_rank": 4,
+      "total_agents": 254,
+      "views_percentile": 91.7,
+      "runs_percentile": 81.1,
+      "likes_percentile": 98.4
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 65,
+    "days_tracked": 66,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 28,
+    "days_tracked": 30,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
@@ -44,7 +44,7 @@
     "all_time": {
       "best_views_rank": 21,
       "best_runs_rank": 46,
-      "best_likes_rank": 7,
+      "best_likes_rank": 4,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 21
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 33,
+    "data_points": 34,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-18T15:35:16.146705",
+    "last_recorded": "2025-12-20T08:01:00.398750",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -89,7 +89,8 @@
         "2025-12-17T11:30:34.217578",
         "2025-12-17T13:39:15.961442",
         "2025-12-17T16:24:33.627352",
-        "2025-12-18T15:35:16.146705"
+        "2025-12-18T15:35:16.146705",
+        "2025-12-20T08:01:00.398750"
       ],
       "views_rank": [
         null,
@@ -119,6 +120,7 @@
         null,
         null,
         null,
+        21,
         21,
         21,
         21,
@@ -159,6 +161,7 @@
         46,
         46,
         46,
+        48,
         48
       ],
       "likes_rank": [
@@ -194,7 +197,8 @@
         122,
         122,
         18,
-        7
+        7,
+        4
       ]
     }
   },
@@ -206,7 +210,7 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #7 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #4 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     }
   ]
 }
