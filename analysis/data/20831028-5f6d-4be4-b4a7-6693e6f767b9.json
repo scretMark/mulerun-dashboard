@@ -1,6 +1,6 @@
 {
   "agent_id": "20831028-5f6d-4be4-b4a7-6693e6f767b9",
-  "generated_at": "2025-12-20T00:01:48.402087",
+  "generated_at": "2025-12-21T00:01:13.104736",
   "basic_info": {
     "title": "Background Remover Lite",
     "author": "nzwhouxvbbb094f",
@@ -11,7 +11,7 @@
     "published_at": "2025-12-09T17:26:42.045000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@nzwhouxvbbb094f/background-remover-lite",
-    "days_since_published": 10
+    "days_since_published": 11
   },
   "ranking_metrics": {
     "current_position": {
@@ -25,14 +25,22 @@
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 1,
+    "days_tracked": 2,
     "price": 1.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 0,
-    "last_7_days": {},
-    "last_30_days": {},
+    "days_tracked": 1,
+    "last_7_days": {
+      "views_rank_change": 0,
+      "runs_rank_change": 0,
+      "likes_rank_change": 0
+    },
+    "last_30_days": {
+      "views_rank_change": 0,
+      "runs_rank_change": 0,
+      "likes_rank_change": 0
+    },
     "all_time": {
       "best_views_rank": 238,
       "best_runs_rank": 221,
@@ -44,20 +52,24 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 1,
+    "data_points": 2,
     "first_recorded": "2025-12-20T08:01:00.398750",
-    "last_recorded": "2025-12-20T08:01:00.398750",
+    "last_recorded": "2025-12-21T08:00:59.558309",
     "time_series": {
       "dates": [
-        "2025-12-20T08:01:00.398750"
+        "2025-12-20T08:01:00.398750",
+        "2025-12-21T08:00:59.558309"
       ],
       "views_rank": [
+        238,
         238
       ],
       "runs_rank": [
+        221,
         221
       ],
       "likes_rank": [
+        21,
         21
       ]
     }

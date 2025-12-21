@@ -1,6 +1,6 @@
 {
   "agent_id": "577765da-c912-4cc2-9dac-80d0035058ca",
-  "generated_at": "2025-12-20T00:01:48.408115",
+  "generated_at": "2025-12-21T00:01:13.116386",
   "basic_info": {
     "title": "Paper Review Agent - Universal",
     "author": "charlin",
@@ -11,7 +11,7 @@
     "published_at": "2025-11-24T17:06:07.448000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@charlin/paper-review-agent-universal",
-    "days_since_published": 25
+    "days_since_published": 26
   },
   "ranking_metrics": {
     "current_position": {
@@ -25,14 +25,22 @@
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 0,
+    "days_tracked": 1,
     "price": 66.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 0,
-    "last_7_days": {},
-    "last_30_days": {},
+    "days_tracked": 1,
+    "last_7_days": {
+      "views_rank_change": 0,
+      "runs_rank_change": 0,
+      "likes_rank_change": 0
+    },
+    "last_30_days": {
+      "views_rank_change": 0,
+      "runs_rank_change": 0,
+      "likes_rank_change": 0
+    },
     "all_time": {
       "best_views_rank": 234,
       "best_runs_rank": 231,
@@ -44,20 +52,24 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 1,
+    "data_points": 2,
     "first_recorded": "2025-12-20T08:01:00.398750",
-    "last_recorded": "2025-12-20T08:01:00.398750",
+    "last_recorded": "2025-12-21T08:00:59.558309",
     "time_series": {
       "dates": [
-        "2025-12-20T08:01:00.398750"
+        "2025-12-20T08:01:00.398750",
+        "2025-12-21T08:00:59.558309"
       ],
       "views_rank": [
+        234,
         234
       ],
       "runs_rank": [
+        231,
         231
       ],
       "likes_rank": [
+        76,
         76
       ]
     }

@@ -1,6 +1,6 @@
 {
   "agent_id": "8bd3ff56-3c2a-4b13-aaff-071e8177fe99",
-  "generated_at": "2025-12-20T00:01:48.377882",
+  "generated_at": "2025-12-21T00:01:13.055428",
   "basic_info": {
     "title": "Super Pet Styler",
     "author": "kai_tiane5y",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-16T18:44:25.415000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@kai_tiane5y/super-pet-styler",
-    "days_since_published": 3
+    "days_since_published": 4
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 167,
       "runs_rank": 85,
-      "likes_rank": 44,
+      "likes_rank": 43,
       "total_agents": 254,
       "views_percentile": 34.3,
       "runs_percentile": 66.5,
-      "likes_percentile": 82.7
+      "likes_percentile": 83.1
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 2,
+    "days_tracked": 3,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 1,
+    "days_tracked": 2,
     "last_7_days": {
       "views_rank_change": -4,
       "runs_rank_change": -6,
-      "likes_rank_change": 7
+      "likes_rank_change": 6
     },
     "last_30_days": {
       "views_rank_change": -4,
       "runs_rank_change": -6,
-      "likes_rank_change": 7
+      "likes_rank_change": 6
     },
     "all_time": {
       "best_views_rank": 167,
@@ -52,25 +52,29 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 2,
+    "data_points": 3,
     "first_recorded": "2025-12-18T15:35:16.146705",
-    "last_recorded": "2025-12-20T08:01:00.398750",
+    "last_recorded": "2025-12-21T08:00:59.558309",
     "time_series": {
       "dates": [
         "2025-12-18T15:35:16.146705",
-        "2025-12-20T08:01:00.398750"
+        "2025-12-20T08:01:00.398750",
+        "2025-12-21T08:00:59.558309"
       ],
       "views_rank": [
         171,
+        167,
         167
       ],
       "runs_rank": [
         91,
+        85,
         85
       ],
       "likes_rank": [
         37,
-        44
+        44,
+        43
       ]
     }
   },
@@ -89,7 +93,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #44 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #43 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

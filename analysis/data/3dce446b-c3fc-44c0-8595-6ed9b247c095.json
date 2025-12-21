@@ -1,6 +1,6 @@
 {
   "agent_id": "3dce446b-c3fc-44c0-8595-6ed9b247c095",
-  "generated_at": "2025-12-20T00:01:48.201062",
+  "generated_at": "2025-12-21T00:01:09.924005",
   "basic_info": {
     "title": "Paper Review Agent",
     "author": "charlin",
@@ -11,26 +11,26 @@
     "published_at": "2025-10-27T22:31:35.340000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@charlin/paper-review-agent",
-    "days_since_published": 53
+    "days_since_published": 54
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 12,
       "runs_rank": 31,
-      "likes_rank": 238,
+      "likes_rank": 235,
       "total_agents": 254,
       "views_percentile": 95.3,
       "runs_percentile": 87.8,
-      "likes_percentile": 6.3
+      "likes_percentile": 7.5
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 55,
+    "days_tracked": 56,
     "price": 60.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 31,
+    "days_tracked": 32,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 35,
+    "data_points": 36,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-20T08:01:00.398750",
+    "last_recorded": "2025-12-21T08:00:59.558309",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -91,7 +91,8 @@
         "2025-12-17T13:39:15.961442",
         "2025-12-17T16:24:33.627352",
         "2025-12-18T15:35:16.146705",
-        "2025-12-20T08:01:00.398750"
+        "2025-12-20T08:01:00.398750",
+        "2025-12-21T08:00:59.558309"
       ],
       "views_rank": [
         null,
@@ -122,6 +123,7 @@
         null,
         null,
         null,
+        12,
         12,
         12,
         12,
@@ -165,6 +167,7 @@
         29,
         29,
         30,
+        31,
         31
       ],
       "likes_rank": [
@@ -202,7 +205,8 @@
         104,
         224,
         229,
-        238
+        238,
+        235
       ]
     }
   },

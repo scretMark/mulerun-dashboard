@@ -1,6 +1,6 @@
 {
   "agent_id": "ca22ef2a-7104-4d88-86a5-106d9008cd6b",
-  "generated_at": "2025-12-20T00:01:48.427497",
+  "generated_at": "2025-12-21T00:01:13.151080",
   "basic_info": {
     "title": "Xmas Monster Market",
     "author": "Norsizu",
@@ -11,32 +11,40 @@
     "published_at": "2025-12-19T16:34:38.383000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/xmas-monster-market",
-    "days_since_published": 0
+    "days_since_published": 1
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": null,
       "runs_rank": null,
-      "likes_rank": 51,
+      "likes_rank": 49,
       "total_agents": 254,
       "views_percentile": 0,
       "runs_percentile": 0,
-      "likes_percentile": 79.9
+      "likes_percentile": 80.7
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 0,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 1,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 0,
-    "last_7_days": {},
-    "last_30_days": {},
+    "days_tracked": 1,
+    "last_7_days": {
+      "views_rank_change": null,
+      "runs_rank_change": null,
+      "likes_rank_change": -2
+    },
+    "last_30_days": {
+      "views_rank_change": null,
+      "runs_rank_change": null,
+      "likes_rank_change": -2
+    },
     "all_time": {
       "best_views_rank": null,
       "best_runs_rank": null,
-      "best_likes_rank": 51,
+      "best_likes_rank": 49,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": null
@@ -44,21 +52,25 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 1,
+    "data_points": 2,
     "first_recorded": "2025-12-20T08:01:00.398750",
-    "last_recorded": "2025-12-20T08:01:00.398750",
+    "last_recorded": "2025-12-21T08:00:59.558309",
     "time_series": {
       "dates": [
-        "2025-12-20T08:01:00.398750"
+        "2025-12-20T08:01:00.398750",
+        "2025-12-21T08:00:59.558309"
       ],
       "views_rank": [
+        null,
         null
       ],
       "runs_rank": [
+        null,
         null
       ],
       "likes_rank": [
-        51
+        51,
+        49
       ]
     }
   },
@@ -75,9 +87,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #N/A out of 254 active agents."
+      "type": "positive",
+      "title": "High Performer",
+      "description": "Ranked #49 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }
