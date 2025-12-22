@@ -1,6 +1,6 @@
 {
   "agent_id": "c3d718a1-2ae0-4f63-a4b3-d0a9f7f241d4",
-  "generated_at": "2025-12-21T00:01:12.313458",
+  "generated_at": "2025-12-22T00:01:11.417087",
   "basic_info": {
     "title": "Core Burst",
     "author": "Excel",
@@ -11,26 +11,26 @@
     "published_at": "2025-10-11T10:30:07.114000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Excel/core-burst",
-    "days_since_published": 70
+    "days_since_published": 71
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 203,
+      "views_rank": 202,
       "runs_rank": null,
-      "likes_rank": 178,
+      "likes_rank": 176,
       "total_agents": 254,
-      "views_percentile": 20.1,
+      "views_percentile": 20.5,
       "runs_percentile": 0,
-      "likes_percentile": 29.9
+      "likes_percentile": 30.7
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 67,
+    "days_tracked": 68,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 31,
+    "days_tracked": 32,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 34,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 203
+      "current_rank": 202
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 35,
+    "data_points": 36,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-21T08:00:59.558309",
+    "last_recorded": "2025-12-22T08:00:59.663056",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -91,7 +91,8 @@
         "2025-12-17T16:24:33.627352",
         "2025-12-18T15:35:16.146705",
         "2025-12-20T08:01:00.398750",
-        "2025-12-21T08:00:59.558309"
+        "2025-12-21T08:00:59.558309",
+        "2025-12-22T08:00:59.663056"
       ],
       "views_rank": [
         null,
@@ -128,7 +129,8 @@
         200,
         202,
         203,
-        203
+        203,
+        202
       ],
       "runs_rank": [
         null,
@@ -164,6 +166,7 @@
         245,
         245,
         248,
+        null,
         null,
         null
       ],
@@ -202,7 +205,8 @@
         167,
         169,
         176,
-        178
+        178,
+        176
       ]
     }
   },
@@ -214,7 +218,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #203 out of 254 active agents."
+      "description": "This agent is currently ranked #202 out of 254 active agents."
     }
   ]
 }

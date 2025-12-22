@@ -1,6 +1,6 @@
 {
   "agent_id": "15ff0a66-65e2-4669-a400-81ce8763a2c4",
-  "generated_at": "2025-12-21T00:01:10.395834",
+  "generated_at": "2025-12-22T00:01:09.682094",
   "basic_info": {
     "title": "YouTube Quick Scan",
     "author": "Zane29222",
@@ -11,26 +11,26 @@
     "published_at": "2025-10-06T20:24:45.395000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Zane29222/youtube-quick-scan",
-    "days_since_published": 75
+    "days_since_published": 76
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 32,
+      "views_rank": 31,
       "runs_rank": 79,
-      "likes_rank": 74,
+      "likes_rank": 72,
       "total_agents": 254,
-      "views_percentile": 87.4,
+      "views_percentile": 87.8,
       "runs_percentile": 68.9,
-      "likes_percentile": 70.9
+      "likes_percentile": 71.7
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 77,
+    "days_tracked": 78,
     "price": 40.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 31,
+    "days_tracked": 32,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 64,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 32
+      "current_rank": 31
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 35,
+    "data_points": 36,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-21T08:00:59.558309",
+    "last_recorded": "2025-12-22T08:00:59.663056",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -91,7 +91,8 @@
         "2025-12-17T16:24:33.627352",
         "2025-12-18T15:35:16.146705",
         "2025-12-20T08:01:00.398750",
-        "2025-12-21T08:00:59.558309"
+        "2025-12-21T08:00:59.558309",
+        "2025-12-22T08:00:59.663056"
       ],
       "views_rank": [
         null,
@@ -128,7 +129,8 @@
         31,
         32,
         32,
-        32
+        32,
+        31
       ],
       "runs_rank": [
         null,
@@ -164,6 +166,7 @@
         77,
         77,
         77,
+        79,
         79,
         79
       ],
@@ -202,7 +205,8 @@
         64,
         67,
         72,
-        74
+        74,
+        72
       ]
     }
   },
@@ -214,7 +218,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #32 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #31 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

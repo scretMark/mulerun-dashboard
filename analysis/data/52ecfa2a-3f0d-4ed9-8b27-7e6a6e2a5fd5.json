@@ -1,6 +1,6 @@
 {
   "agent_id": "52ecfa2a-3f0d-4ed9-8b27-7e6a6e2a5fd5",
-  "generated_at": "2025-12-21T00:01:11.957397",
+  "generated_at": "2025-12-22T00:01:11.136527",
   "basic_info": {
     "title": "Calorie Counter",
     "author": "wujin",
@@ -11,26 +11,26 @@
     "published_at": "2025-10-07T12:55:04.113000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@wujin/calorie-counter",
-    "days_since_published": 74
+    "days_since_published": 75
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 133,
       "runs_rank": 186,
-      "likes_rank": 241,
+      "likes_rank": 242,
       "total_agents": 254,
       "views_percentile": 47.6,
       "runs_percentile": 26.8,
-      "likes_percentile": 5.1
+      "likes_percentile": 4.7
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 62,
+    "days_tracked": 63,
     "price": 30.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 31,
+    "days_tracked": 32,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 35,
+    "data_points": 36,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-21T08:00:59.558309",
+    "last_recorded": "2025-12-22T08:00:59.663056",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -91,7 +91,8 @@
         "2025-12-17T16:24:33.627352",
         "2025-12-18T15:35:16.146705",
         "2025-12-20T08:01:00.398750",
-        "2025-12-21T08:00:59.558309"
+        "2025-12-21T08:00:59.558309",
+        "2025-12-22T08:00:59.663056"
       ],
       "views_rank": [
         null,
@@ -126,6 +127,7 @@
         132,
         132,
         132,
+        133,
         133,
         133,
         133
@@ -165,6 +167,7 @@
         186,
         183,
         186,
+        186,
         186
       ],
       "likes_rank": [
@@ -202,7 +205,8 @@
         223,
         234,
         241,
-        241
+        241,
+        242
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "59d31c99-6023-4634-93cf-6470d3e7bc2b",
-  "generated_at": "2025-12-21T00:01:13.009390",
+  "generated_at": "2025-12-22T00:01:11.919470",
   "basic_info": {
     "title": "image matting",
     "author": "jumdata",
@@ -11,26 +11,26 @@
     "published_at": "2025-12-12T09:37:01.780000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@jumdata/image-matting",
-    "days_since_published": 8
+    "days_since_published": 9
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 204,
       "runs_rank": 205,
-      "likes_rank": 48,
+      "likes_rank": 51,
       "total_agents": 254,
       "views_percentile": 19.7,
       "runs_percentile": 19.3,
-      "likes_percentile": 81.1
+      "likes_percentile": 79.9
     },
-    "tier": "High",
-    "tier_class": "high",
-    "days_tracked": 8,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 9,
     "price": 20.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 4,
+    "days_tracked": 5,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 9,
+    "data_points": 10,
     "first_recorded": "2025-12-16T19:09:41.063612",
-    "last_recorded": "2025-12-21T08:00:59.558309",
+    "last_recorded": "2025-12-22T08:00:59.663056",
     "time_series": {
       "dates": [
         "2025-12-16T19:09:41.063612",
@@ -65,7 +65,8 @@
         "2025-12-17T16:24:33.627352",
         "2025-12-18T15:35:16.146705",
         "2025-12-20T08:01:00.398750",
-        "2025-12-21T08:00:59.558309"
+        "2025-12-21T08:00:59.558309",
+        "2025-12-22T08:00:59.663056"
       ],
       "views_rank": [
         null,
@@ -75,6 +76,7 @@
         213,
         213,
         211,
+        204,
         204,
         204
       ],
@@ -87,6 +89,7 @@
         201,
         202,
         205,
+        205,
         205
       ],
       "likes_rank": [
@@ -98,7 +101,8 @@
         43,
         45,
         null,
-        48
+        48,
+        51
       ]
     }
   },
@@ -115,9 +119,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "High Performer",
-      "description": "Ranked #48 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #204 out of 254 active agents."
     }
   ]
 }

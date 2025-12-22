@@ -1,6 +1,6 @@
 {
   "agent_id": "a6b8beaa-a431-4ae4-9f51-044fbdcd64f0",
-  "generated_at": "2025-12-21T00:01:12.849431",
+  "generated_at": "2025-12-22T00:01:11.808481",
   "basic_info": {
     "title": "Festival Purikura",
     "author": "Norsizu",
@@ -11,26 +11,26 @@
     "published_at": "2025-12-09T19:56:57.349000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/festival-purikura",
-    "days_since_published": 11
+    "days_since_published": 12
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 223,
-      "runs_rank": 127,
-      "likes_rank": 5,
+      "runs_rank": 128,
+      "likes_rank": 4,
       "total_agents": 254,
       "views_percentile": 12.2,
-      "runs_percentile": 50.0,
-      "likes_percentile": 98.0
+      "runs_percentile": 49.6,
+      "likes_percentile": 98.4
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 13,
+    "days_tracked": 14,
     "price": 75.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 9,
+    "days_tracked": 10,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 13,
+    "data_points": 14,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2025-12-21T08:00:59.558309",
+    "last_recorded": "2025-12-22T08:00:59.663056",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -69,7 +69,8 @@
         "2025-12-17T16:24:33.627352",
         "2025-12-18T15:35:16.146705",
         "2025-12-20T08:01:00.398750",
-        "2025-12-21T08:00:59.558309"
+        "2025-12-21T08:00:59.558309",
+        "2025-12-22T08:00:59.663056"
       ],
       "views_rank": [
         null,
@@ -83,6 +84,7 @@
         219,
         219,
         221,
+        223,
         223,
         223
       ],
@@ -99,7 +101,8 @@
         125,
         126,
         127,
-        127
+        127,
+        128
       ],
       "likes_rank": [
         null,
@@ -114,7 +117,8 @@
         1,
         1,
         5,
-        5
+        5,
+        4
       ]
     }
   },
@@ -133,7 +137,7 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #5 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #4 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     }
   ]
 }
