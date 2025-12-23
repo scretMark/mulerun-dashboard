@@ -1,6 +1,6 @@
 {
   "agent_id": "577765da-c912-4cc2-9dac-80d0035058ca",
-  "generated_at": "2025-12-22T00:01:11.994580",
+  "generated_at": "2025-12-23T00:01:30.455034",
   "basic_info": {
     "title": "Paper Review Agent - Universal",
     "author": "charlin",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-24T17:06:07.448000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@charlin/paper-review-agent-universal",
-    "days_since_published": 27
+    "days_since_published": 28
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 234,
-      "runs_rank": 231,
-      "likes_rank": 76,
-      "total_agents": 254,
-      "views_percentile": 7.9,
-      "runs_percentile": 9.1,
-      "likes_percentile": 70.1
+      "views_rank": 236,
+      "runs_rank": 234,
+      "likes_rank": 83,
+      "total_agents": 260,
+      "views_percentile": 9.2,
+      "runs_percentile": 10.0,
+      "likes_percentile": 68.1
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 2,
+    "days_tracked": 3,
     "price": 66.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 1,
+    "days_tracked": 2,
     "last_7_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": 0,
-      "likes_rank_change": 0
+      "views_rank_change": 2,
+      "runs_rank_change": 3,
+      "likes_rank_change": 7
     },
     "last_30_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": 0,
-      "likes_rank_change": 0
+      "views_rank_change": 2,
+      "runs_rank_change": 3,
+      "likes_rank_change": 7
     },
     "all_time": {
       "best_views_rank": 234,
@@ -47,34 +47,38 @@
       "best_likes_rank": 76,
       "days_in_top_10": 0,
       "first_rank": 234,
-      "current_rank": 234
+      "current_rank": 236
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 3,
+    "data_points": 4,
     "first_recorded": "2025-12-20T08:01:00.398750",
-    "last_recorded": "2025-12-22T08:00:59.663056",
+    "last_recorded": "2025-12-23T08:00:59.635142",
     "time_series": {
       "dates": [
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
-        "2025-12-22T08:00:59.663056"
+        "2025-12-22T08:00:59.663056",
+        "2025-12-23T08:00:59.635142"
       ],
       "views_rank": [
         234,
         234,
-        234
+        234,
+        236
       ],
       "runs_rank": [
         231,
         231,
-        231
+        231,
+        234
       ],
       "likes_rank": [
         76,
         76,
-        76
+        76,
+        83
       ]
     }
   },
@@ -93,7 +97,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #234 out of 254 active agents."
+      "description": "This agent is currently ranked #236 out of 260 active agents."
     }
   ]
 }

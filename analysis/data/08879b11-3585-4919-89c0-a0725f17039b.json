@@ -1,6 +1,6 @@
 {
   "agent_id": "08879b11-3585-4919-89c0-a0725f17039b",
-  "generated_at": "2025-12-22T00:01:10.224629",
+  "generated_at": "2025-12-23T00:01:28.504990",
   "basic_info": {
     "title": "Amazon Product Search",
     "author": "createAny",
@@ -11,26 +11,26 @@
     "published_at": "2025-10-13T18:19:42.979000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@createAny/amazon-product-search",
-    "days_since_published": 69
+    "days_since_published": 70
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 147,
-      "runs_rank": 131,
-      "likes_rank": 80,
-      "total_agents": 254,
-      "views_percentile": 42.1,
-      "runs_percentile": 48.4,
-      "likes_percentile": 68.5
+      "views_rank": 142,
+      "runs_rank": 134,
+      "likes_rank": 85,
+      "total_agents": 260,
+      "views_percentile": 45.4,
+      "runs_percentile": 48.5,
+      "likes_percentile": 67.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 68,
+    "days_tracked": 69,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 32,
+    "days_tracked": 33,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
@@ -42,19 +42,19 @@
       "likes_rank_change": null
     },
     "all_time": {
-      "best_views_rank": 147,
+      "best_views_rank": 142,
       "best_runs_rank": 129,
       "best_likes_rank": 30,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 147
+      "current_rank": 142
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 36,
+    "data_points": 37,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-22T08:00:59.663056",
+    "last_recorded": "2025-12-23T08:00:59.635142",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -92,7 +92,8 @@
         "2025-12-18T15:35:16.146705",
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
-        "2025-12-22T08:00:59.663056"
+        "2025-12-22T08:00:59.663056",
+        "2025-12-23T08:00:59.635142"
       ],
       "views_rank": [
         null,
@@ -130,7 +131,8 @@
         151,
         148,
         148,
-        147
+        147,
+        142
       ],
       "runs_rank": [
         null,
@@ -168,7 +170,8 @@
         130,
         130,
         130,
-        131
+        131,
+        134
       ],
       "likes_rank": [
         null,
@@ -206,7 +209,8 @@
         73,
         79,
         79,
-        80
+        80,
+        85
       ]
     }
   },
@@ -218,7 +222,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #147 out of 254 active agents."
+      "description": "This agent is currently ranked #142 out of 260 active agents."
     }
   ]
 }

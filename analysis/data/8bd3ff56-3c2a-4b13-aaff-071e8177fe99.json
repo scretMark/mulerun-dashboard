@@ -1,6 +1,6 @@
 {
   "agent_id": "8bd3ff56-3c2a-4b13-aaff-071e8177fe99",
-  "generated_at": "2025-12-22T00:01:11.957404",
+  "generated_at": "2025-12-23T00:01:30.411831",
   "basic_info": {
     "title": "Super Pet Styler",
     "author": "kai_tiane5y",
@@ -11,65 +11,68 @@
     "published_at": "2025-12-16T18:44:25.415000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@kai_tiane5y/super-pet-styler",
-    "days_since_published": 5
+    "days_since_published": 6
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 166,
+      "views_rank": 163,
       "runs_rank": 85,
-      "likes_rank": 37,
-      "total_agents": 254,
-      "views_percentile": 34.6,
-      "runs_percentile": 66.5,
-      "likes_percentile": 85.4
+      "likes_rank": 45,
+      "total_agents": 260,
+      "views_percentile": 37.3,
+      "runs_percentile": 67.3,
+      "likes_percentile": 82.7
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 4,
+    "days_tracked": 5,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 3,
+    "days_tracked": 4,
     "last_7_days": {
-      "views_rank_change": -5,
+      "views_rank_change": -8,
       "runs_rank_change": -6,
-      "likes_rank_change": 0
+      "likes_rank_change": 8
     },
     "last_30_days": {
-      "views_rank_change": -5,
+      "views_rank_change": -8,
       "runs_rank_change": -6,
-      "likes_rank_change": 0
+      "likes_rank_change": 8
     },
     "all_time": {
-      "best_views_rank": 166,
+      "best_views_rank": 163,
       "best_runs_rank": 85,
       "best_likes_rank": 37,
       "days_in_top_10": 0,
       "first_rank": 171,
-      "current_rank": 166
+      "current_rank": 163
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 4,
+    "data_points": 5,
     "first_recorded": "2025-12-18T15:35:16.146705",
-    "last_recorded": "2025-12-22T08:00:59.663056",
+    "last_recorded": "2025-12-23T08:00:59.635142",
     "time_series": {
       "dates": [
         "2025-12-18T15:35:16.146705",
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
-        "2025-12-22T08:00:59.663056"
+        "2025-12-22T08:00:59.663056",
+        "2025-12-23T08:00:59.635142"
       ],
       "views_rank": [
         171,
         167,
         167,
-        166
+        166,
+        163
       ],
       "runs_rank": [
         91,
+        85,
         85,
         85,
         85
@@ -78,7 +81,8 @@
         37,
         44,
         43,
-        37
+        37,
+        45
       ]
     }
   },
@@ -97,7 +101,12 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #37 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #45 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+    },
+    {
+      "type": "positive",
+      "title": "Hot Trend",
+      "description": "Up 8 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

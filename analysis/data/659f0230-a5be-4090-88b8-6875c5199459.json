@@ -1,6 +1,6 @@
 {
   "agent_id": "659f0230-a5be-4090-88b8-6875c5199459",
-  "generated_at": "2025-12-22T00:01:10.902620",
+  "generated_at": "2025-12-23T00:01:29.203308",
   "basic_info": {
     "title": "Virtual High Five",
     "author": "Norsizu",
@@ -11,26 +11,26 @@
     "published_at": "2025-10-05T22:47:31.583000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/virtual-high-five",
-    "days_since_published": 77
+    "days_since_published": 78
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 90,
-      "runs_rank": 135,
-      "likes_rank": 113,
-      "total_agents": 254,
-      "views_percentile": 64.6,
-      "runs_percentile": 46.9,
-      "likes_percentile": 55.5
+      "runs_rank": 137,
+      "likes_rank": 119,
+      "total_agents": 260,
+      "views_percentile": 65.4,
+      "runs_percentile": 47.3,
+      "likes_percentile": 54.2
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 58,
+    "days_tracked": 59,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 32,
+    "days_tracked": 33,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 36,
+    "data_points": 37,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-22T08:00:59.663056",
+    "last_recorded": "2025-12-23T08:00:59.635142",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -92,7 +92,8 @@
         "2025-12-18T15:35:16.146705",
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
-        "2025-12-22T08:00:59.663056"
+        "2025-12-22T08:00:59.663056",
+        "2025-12-23T08:00:59.635142"
       ],
       "views_rank": [
         null,
@@ -122,6 +123,7 @@
         null,
         null,
         null,
+        90,
         90,
         90,
         90,
@@ -168,7 +170,8 @@
         134,
         135,
         135,
-        135
+        135,
+        137
       ],
       "likes_rank": [
         null,
@@ -206,7 +209,8 @@
         106,
         113,
         113,
-        113
+        113,
+        119
       ]
     }
   },
@@ -218,7 +222,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #90 out of 254 active agents."
+      "description": "This agent is currently ranked #90 out of 260 active agents."
     }
   ]
 }

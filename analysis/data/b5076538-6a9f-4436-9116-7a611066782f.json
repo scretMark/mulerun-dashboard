@@ -1,6 +1,6 @@
 {
   "agent_id": "b5076538-6a9f-4436-9116-7a611066782f",
-  "generated_at": "2025-12-22T00:01:12.013223",
+  "generated_at": "2025-12-23T00:01:30.476434",
   "basic_info": {
     "title": "Tiny Me in a Jar",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-19T16:29:05.699000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/tiny-me-in-a-jar",
-    "days_since_published": 2
+    "days_since_published": 3
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": null,
       "runs_rank": null,
-      "likes_rank": 40,
-      "total_agents": 254,
+      "likes_rank": 46,
+      "total_agents": 260,
       "views_percentile": 0,
       "runs_percentile": 0,
-      "likes_percentile": 84.3
+      "likes_percentile": 82.3
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 2,
+    "days_tracked": 3,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 1,
+    "days_tracked": 2,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 0
+      "likes_rank_change": 6
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 0
+      "likes_rank_change": 6
     },
     "all_time": {
       "best_views_rank": null,
@@ -52,16 +52,18 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 3,
+    "data_points": 4,
     "first_recorded": "2025-12-20T08:01:00.398750",
-    "last_recorded": "2025-12-22T08:00:59.663056",
+    "last_recorded": "2025-12-23T08:00:59.635142",
     "time_series": {
       "dates": [
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
-        "2025-12-22T08:00:59.663056"
+        "2025-12-22T08:00:59.663056",
+        "2025-12-23T08:00:59.635142"
       ],
       "views_rank": [
+        null,
         null,
         null,
         null
@@ -69,12 +71,14 @@
       "runs_rank": [
         250,
         250,
+        null,
         null
       ],
       "likes_rank": [
         40,
         40,
-        40
+        40,
+        46
       ]
     }
   },
@@ -93,7 +97,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #40 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #46 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

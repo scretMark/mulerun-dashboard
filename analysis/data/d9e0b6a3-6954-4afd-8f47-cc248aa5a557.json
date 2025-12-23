@@ -1,6 +1,6 @@
 {
   "agent_id": "d9e0b6a3-6954-4afd-8f47-cc248aa5a557",
-  "generated_at": "2025-12-22T00:01:10.418195",
+  "generated_at": "2025-12-23T00:01:28.654298",
   "basic_info": {
     "title": "Marvel fan",
     "author": "Darren",
@@ -11,26 +11,26 @@
     "published_at": "2025-09-22T21:42:27.400000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/marvel-fan",
-    "days_since_published": 90
+    "days_since_published": 91
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 87,
-      "runs_rank": 152,
-      "likes_rank": 216,
-      "total_agents": 254,
-      "views_percentile": 65.7,
-      "runs_percentile": 40.2,
-      "likes_percentile": 15.0
+      "runs_rank": 156,
+      "likes_rank": 223,
+      "total_agents": 260,
+      "views_percentile": 66.5,
+      "runs_percentile": 40.0,
+      "likes_percentile": 14.2
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 91,
+    "days_tracked": 92,
     "price": 66.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 32,
+    "days_tracked": 33,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 36,
+    "data_points": 37,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-22T08:00:59.663056",
+    "last_recorded": "2025-12-23T08:00:59.635142",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -92,7 +92,8 @@
         "2025-12-18T15:35:16.146705",
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
-        "2025-12-22T08:00:59.663056"
+        "2025-12-22T08:00:59.663056",
+        "2025-12-23T08:00:59.635142"
       ],
       "views_rank": [
         null,
@@ -123,6 +124,7 @@
         null,
         null,
         86,
+        87,
         87,
         87,
         87,
@@ -168,7 +170,8 @@
         147,
         152,
         152,
-        152
+        152,
+        156
       ],
       "likes_rank": [
         null,
@@ -206,7 +209,8 @@
         206,
         212,
         218,
-        216
+        216,
+        223
       ]
     }
   },
@@ -218,7 +222,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #87 out of 254 active agents."
+      "description": "This agent is currently ranked #87 out of 260 active agents."
     }
   ]
 }

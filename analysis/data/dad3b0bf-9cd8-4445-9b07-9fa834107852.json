@@ -1,6 +1,6 @@
 {
   "agent_id": "dad3b0bf-9cd8-4445-9b07-9fa834107852",
-  "generated_at": "2025-12-22T00:01:12.032187",
+  "generated_at": "2025-12-23T00:01:30.497976",
   "basic_info": {
     "title": "You in a Snow Globe",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-19T16:16:07.657000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/you-in-a-snow-globe",
-    "days_since_published": 2
+    "days_since_published": 3
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": null,
       "runs_rank": null,
-      "likes_rank": 53,
-      "total_agents": 254,
+      "likes_rank": 51,
+      "total_agents": 260,
       "views_percentile": 0,
       "runs_percentile": 0,
-      "likes_percentile": 79.1
+      "likes_percentile": 80.4
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 2,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 3,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 1,
+    "days_tracked": 2,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 5
+      "likes_rank_change": 3
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 5
+      "likes_rank_change": 3
     },
     "all_time": {
       "best_views_rank": null,
@@ -52,16 +52,18 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 3,
+    "data_points": 4,
     "first_recorded": "2025-12-20T08:01:00.398750",
-    "last_recorded": "2025-12-22T08:00:59.663056",
+    "last_recorded": "2025-12-23T08:00:59.635142",
     "time_series": {
       "dates": [
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
-        "2025-12-22T08:00:59.663056"
+        "2025-12-22T08:00:59.663056",
+        "2025-12-23T08:00:59.635142"
       ],
       "views_rank": [
+        null,
         null,
         null,
         null
@@ -69,12 +71,14 @@
       "runs_rank": [
         null,
         null,
+        null,
         null
       ],
       "likes_rank": [
         48,
         null,
-        53
+        53,
+        51
       ]
     }
   },
@@ -91,9 +95,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #N/A out of 254 active agents."
+      "type": "positive",
+      "title": "High Performer",
+      "description": "Ranked #51 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

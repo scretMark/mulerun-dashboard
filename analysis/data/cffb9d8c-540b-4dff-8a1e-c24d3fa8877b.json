@@ -1,6 +1,6 @@
 {
   "agent_id": "cffb9d8c-540b-4dff-8a1e-c24d3fa8877b",
-  "generated_at": "2025-12-22T00:01:09.480095",
+  "generated_at": "2025-12-23T00:01:27.844311",
   "basic_info": {
     "title": "ID Photo",
     "author": "HongwuQz",
@@ -11,26 +11,26 @@
     "published_at": "2025-09-25T12:49:57.242000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@HongwuQz/id-photo",
-    "days_since_published": 87
+    "days_since_published": 88
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 52,
       "runs_rank": 69,
-      "likes_rank": 221,
-      "total_agents": 254,
-      "views_percentile": 79.5,
-      "runs_percentile": 72.8,
-      "likes_percentile": 13.0
+      "likes_rank": 230,
+      "total_agents": 260,
+      "views_percentile": 80.0,
+      "runs_percentile": 73.5,
+      "likes_percentile": 11.5
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 63,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 64,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 32,
+    "days_tracked": 33,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 36,
+    "data_points": 37,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-22T08:00:59.663056",
+    "last_recorded": "2025-12-23T08:00:59.635142",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -92,7 +92,8 @@
         "2025-12-18T15:35:16.146705",
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
-        "2025-12-22T08:00:59.663056"
+        "2025-12-22T08:00:59.663056",
+        "2025-12-23T08:00:59.635142"
       ],
       "views_rank": [
         null,
@@ -122,6 +123,7 @@
         null,
         null,
         null,
+        52,
         52,
         52,
         52,
@@ -168,6 +170,7 @@
         67,
         69,
         69,
+        69,
         69
       ],
       "likes_rank": [
@@ -206,7 +209,8 @@
         217,
         223,
         221,
-        221
+        221,
+        230
       ]
     }
   },
@@ -216,9 +220,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #52 out of 254 active agents."
+      "type": "positive",
+      "title": "High Performer",
+      "description": "Ranked #52 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

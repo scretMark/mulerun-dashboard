@@ -1,6 +1,6 @@
 {
   "agent_id": "2e902b59-7a30-4db6-9dd6-670d34e30fb8",
-  "generated_at": "2025-12-22T00:01:11.928937",
+  "generated_at": "2025-12-23T00:01:30.378651",
   "basic_info": {
     "title": "PostcardGenie",
     "author": "AneX",
@@ -11,26 +11,26 @@
     "published_at": "2025-12-12T12:32:37.864000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AneX/postcardgenie",
-    "days_since_published": 9
+    "days_since_published": 10
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 230,
-      "runs_rank": 189,
-      "likes_rank": 8,
-      "total_agents": 254,
-      "views_percentile": 9.4,
-      "runs_percentile": 25.6,
-      "likes_percentile": 96.9
+      "views_rank": 235,
+      "runs_rank": 192,
+      "likes_rank": 6,
+      "total_agents": 260,
+      "views_percentile": 9.6,
+      "runs_percentile": 26.2,
+      "likes_percentile": 97.7
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 9,
+    "days_tracked": 10,
     "price": 60.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 5,
+    "days_tracked": 6,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
@@ -44,17 +44,17 @@
     "all_time": {
       "best_views_rank": 228,
       "best_runs_rank": 182,
-      "best_likes_rank": 7,
+      "best_likes_rank": 6,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 230
+      "current_rank": 235
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 10,
+    "data_points": 11,
     "first_recorded": "2025-12-16T19:09:41.063612",
-    "last_recorded": "2025-12-22T08:00:59.663056",
+    "last_recorded": "2025-12-23T08:00:59.635142",
     "time_series": {
       "dates": [
         "2025-12-16T19:09:41.063612",
@@ -66,7 +66,8 @@
         "2025-12-18T15:35:16.146705",
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
-        "2025-12-22T08:00:59.663056"
+        "2025-12-22T08:00:59.663056",
+        "2025-12-23T08:00:59.635142"
       ],
       "views_rank": [
         null,
@@ -78,7 +79,8 @@
         229,
         230,
         230,
-        230
+        230,
+        235
       ],
       "runs_rank": [
         null,
@@ -90,7 +92,8 @@
         186,
         189,
         189,
-        189
+        189,
+        192
       ],
       "likes_rank": [
         null,
@@ -102,7 +105,8 @@
         14,
         7,
         7,
-        8
+        8,
+        6
       ]
     }
   },
@@ -121,7 +125,7 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #8 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #6 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     }
   ]
 }
