@@ -1,6 +1,6 @@
 {
   "agent_id": "c3b92a66-f220-456f-bbe1-628e2e9f1d23",
-  "generated_at": "2025-12-23T00:01:28.549816",
+  "generated_at": "2025-12-24T00:01:15.800752",
   "basic_info": {
     "title": "AI Social Creator and Publisher",
     "author": "AmjidAlibbb1401",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-14T14:51:34.645000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AmjidAlibbb1401/ai-social-creator-and-publisher",
-    "days_since_published": 99
+    "days_since_published": 100
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 30,
       "runs_rank": 116,
-      "likes_rank": 104,
-      "total_agents": 260,
+      "likes_rank": 118,
+      "total_agents": 261,
       "views_percentile": 88.5,
-      "runs_percentile": 55.4,
-      "likes_percentile": 60.0
+      "runs_percentile": 55.6,
+      "likes_percentile": 54.8
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 101,
+    "days_tracked": 102,
     "price": 3.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 33,
+    "days_tracked": 34,
     "last_7_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 1,
+      "runs_rank_change": 1,
+      "likes_rank_change": -109
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 37,
+    "data_points": 38,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-23T08:00:59.635142",
+    "last_recorded": "2025-12-24T08:01:01.461546",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -93,7 +93,8 @@
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
-        "2025-12-23T08:00:59.635142"
+        "2025-12-23T08:00:59.635142",
+        "2025-12-24T08:01:01.461546"
       ],
       "views_rank": [
         null,
@@ -132,6 +133,7 @@
         30,
         30,
         30,
+        30,
         30
       ],
       "runs_rank": [
@@ -167,6 +169,7 @@
         115,
         115,
         115,
+        116,
         116,
         116,
         116,
@@ -210,7 +213,8 @@
         97,
         97,
         97,
-        104
+        104,
+        118
       ]
     }
   },

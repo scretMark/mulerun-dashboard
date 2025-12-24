@@ -1,6 +1,6 @@
 {
   "agent_id": "b18c7e0e-462d-4904-857f-e9bf4658e7c9",
-  "generated_at": "2025-12-23T00:01:27.742962",
+  "generated_at": "2025-12-24T00:01:15.023286",
   "basic_info": {
     "title": "Me And My Mini-Me",
     "author": "YuTou_baby",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-19T20:13:16.719000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@YuTou_baby/me-and-my-mini-me",
-    "days_since_published": 94
+    "days_since_published": 95
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 19,
       "runs_rank": 22,
-      "likes_rank": 216,
-      "total_agents": 260,
+      "likes_rank": 178,
+      "total_agents": 261,
       "views_percentile": 92.7,
-      "runs_percentile": 91.5,
-      "likes_percentile": 16.9
+      "runs_percentile": 91.6,
+      "likes_percentile": 31.8
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 64,
+    "days_tracked": 65,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 33,
+    "days_tracked": 34,
     "last_7_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 0,
+      "runs_rank_change": 2,
+      "likes_rank_change": 117
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 37,
+    "data_points": 38,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-23T08:00:59.635142",
+    "last_recorded": "2025-12-24T08:01:01.461546",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -93,7 +93,8 @@
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
-        "2025-12-23T08:00:59.635142"
+        "2025-12-23T08:00:59.635142",
+        "2025-12-24T08:01:01.461546"
       ],
       "views_rank": [
         null,
@@ -123,6 +124,7 @@
         null,
         null,
         null,
+        19,
         19,
         19,
         19,
@@ -171,6 +173,7 @@
         21,
         21,
         22,
+        22,
         22
       ],
       "likes_rank": [
@@ -210,7 +213,8 @@
         209,
         208,
         208,
-        216
+        216,
+        178
       ]
     }
   },
@@ -223,6 +227,11 @@
       "type": "positive",
       "title": "High Performer",
       "description": "Ranked #19 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+    },
+    {
+      "type": "info",
+      "title": "Stable Leader",
+      "description": "Maintained #19 ranking for 7+ days - showing consistent market position and reliability."
     },
     {
       "type": "info",

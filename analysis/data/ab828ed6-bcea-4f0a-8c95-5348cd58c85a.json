@@ -1,6 +1,6 @@
 {
   "agent_id": "ab828ed6-bcea-4f0a-8c95-5348cd58c85a",
-  "generated_at": "2025-12-23T00:01:27.711111",
+  "generated_at": "2025-12-24T00:01:14.985889",
   "basic_info": {
     "title": "Text-to-speech",
     "author": "PicCopilot",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-11T19:40:27.710000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/text-to-speech",
-    "days_since_published": 41
+    "days_since_published": 42
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 95,
       "runs_rank": 24,
-      "likes_rank": 5,
-      "total_agents": 260,
-      "views_percentile": 63.5,
+      "likes_rank": 89,
+      "total_agents": 261,
+      "views_percentile": 63.6,
       "runs_percentile": 90.8,
-      "likes_percentile": 98.1
+      "likes_percentile": 65.9
     },
-    "tier": "Elite",
-    "tier_class": "elite",
-    "days_tracked": 57,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 58,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 33,
+    "days_tracked": 34,
     "last_7_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": -6,
+      "runs_rank_change": 3,
+      "likes_rank_change": -66
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 37,
+    "data_points": 38,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-23T08:00:59.635142",
+    "last_recorded": "2025-12-24T08:01:01.461546",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -93,7 +93,8 @@
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
-        "2025-12-23T08:00:59.635142"
+        "2025-12-23T08:00:59.635142",
+        "2025-12-24T08:01:01.461546"
       ],
       "views_rank": [
         null,
@@ -132,6 +133,7 @@
         94,
         94,
         94,
+        95,
         95
       ],
       "runs_rank": [
@@ -169,6 +171,7 @@
         21,
         21,
         23,
+        24,
         24,
         24,
         24
@@ -210,7 +213,8 @@
         1,
         6,
         5,
-        5
+        5,
+        89
       ]
     }
   },
@@ -221,8 +225,13 @@
   "insights": [
     {
       "type": "positive",
-      "title": "Elite Performance",
-      "description": "Ranked #5 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "title": "High Performer",
+      "description": "Ranked #24 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+    },
+    {
+      "type": "positive",
+      "title": "Hot Trend",
+      "description": "Up 6 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

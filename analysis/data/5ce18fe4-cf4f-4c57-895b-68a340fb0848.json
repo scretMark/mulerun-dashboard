@@ -1,6 +1,6 @@
 {
   "agent_id": "5ce18fe4-cf4f-4c57-895b-68a340fb0848",
-  "generated_at": "2025-12-23T00:01:27.875365",
+  "generated_at": "2025-12-24T00:01:15.209293",
   "basic_info": {
     "title": "AI Portrait Painting at Gallery",
     "author": "Jayden",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-12T14:15:30.649000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Jayden/ai-portrait-painting-at-gallery",
-    "days_since_published": 40
+    "days_since_published": 41
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 239,
       "runs_rank": null,
-      "likes_rank": 205,
-      "total_agents": 260,
-      "views_percentile": 8.1,
+      "likes_rank": 239,
+      "total_agents": 261,
+      "views_percentile": 8.4,
       "runs_percentile": 0,
-      "likes_percentile": 21.2
+      "likes_percentile": 8.4
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 42,
+    "days_tracked": 43,
     "price": 49.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 33,
+    "days_tracked": 34,
     "last_7_days": {
-      "views_rank_change": null,
+      "views_rank_change": 7,
       "runs_rank_change": null,
-      "likes_rank_change": null
+      "likes_rank_change": -1
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 37,
+    "data_points": 38,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-23T08:00:59.635142",
+    "last_recorded": "2025-12-24T08:01:01.461546",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -93,7 +93,8 @@
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
-        "2025-12-23T08:00:59.635142"
+        "2025-12-23T08:00:59.635142",
+        "2025-12-24T08:01:01.461546"
       ],
       "views_rank": [
         null,
@@ -132,6 +133,7 @@
         237,
         237,
         236,
+        239,
         239
       ],
       "runs_rank": [
@@ -171,6 +173,7 @@
         246,
         246,
         246,
+        null,
         null
       ],
       "likes_rank": [
@@ -210,7 +213,8 @@
         197,
         197,
         196,
-        205
+        205,
+        239
       ]
     }
   },
@@ -222,7 +226,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #239 out of 260 active agents."
+      "description": "This agent is currently ranked #239 out of 261 active agents."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "cdb7a712-fb55-4bb8-ac8d-2081aab17a27",
-  "generated_at": "2025-12-23T00:01:28.295782",
+  "generated_at": "2025-12-24T00:01:15.589298",
   "basic_info": {
     "title": "Colorful Magazine Cover Image Generation",
     "author": "Jayden",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-04T18:21:51.011000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Jayden/colorful-magazine-cover-image-generation",
-    "days_since_published": 48
+    "days_since_published": 49
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 154,
       "runs_rank": 195,
-      "likes_rank": 77,
-      "total_agents": 260,
-      "views_percentile": 40.8,
-      "runs_percentile": 25.0,
-      "likes_percentile": 70.4
+      "likes_rank": 75,
+      "total_agents": 261,
+      "views_percentile": 41.0,
+      "runs_percentile": 25.3,
+      "likes_percentile": 71.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 50,
+    "days_tracked": 51,
     "price": 40.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 33,
+    "days_tracked": 34,
     "last_7_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 3,
+      "runs_rank_change": 10,
+      "likes_rank_change": -58
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 37,
+    "data_points": 38,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-23T08:00:59.635142",
+    "last_recorded": "2025-12-24T08:01:01.461546",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -93,7 +93,8 @@
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
-        "2025-12-23T08:00:59.635142"
+        "2025-12-23T08:00:59.635142",
+        "2025-12-24T08:01:01.461546"
       ],
       "views_rank": [
         null,
@@ -132,6 +133,7 @@
         153,
         153,
         153,
+        154,
         154
       ],
       "runs_rank": [
@@ -171,6 +173,7 @@
         192,
         192,
         192,
+        195,
         195
       ],
       "likes_rank": [
@@ -210,7 +213,8 @@
         71,
         71,
         71,
-        77
+        77,
+        75
       ]
     }
   },
@@ -222,7 +226,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #154 out of 260 active agents."
+      "description": "This agent is currently ranked #154 out of 261 active agents."
     }
   ]
 }

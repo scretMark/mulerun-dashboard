@@ -1,6 +1,6 @@
 {
   "agent_id": "9cf98873-2ee2-4cf5-9440-4deead20c036",
-  "generated_at": "2025-12-23T00:01:29.927893",
+  "generated_at": "2025-12-24T00:01:17.242511",
   "basic_info": {
     "title": "See Your Bodybuilding Physique in One Click",
     "author": "Matt",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-03T16:33:11.999000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Matt/see-your-bodybuilding-physique-in-one-click",
-    "days_since_published": 19
+    "days_since_published": 20
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 199,
-      "runs_rank": 133,
-      "likes_rank": 21,
-      "total_agents": 260,
-      "views_percentile": 23.5,
-      "runs_percentile": 48.8,
-      "likes_percentile": 91.9
+      "views_rank": 198,
+      "runs_rank": 132,
+      "likes_rank": 33,
+      "total_agents": 261,
+      "views_percentile": 24.1,
+      "runs_percentile": 49.4,
+      "likes_percentile": 87.4
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 23,
+    "days_tracked": 24,
     "price": 55.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 14,
+    "days_tracked": 15,
     "last_7_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 3,
+      "runs_rank_change": 2,
+      "likes_rank_change": -160
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 5,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 199
+      "current_rank": 198
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 20,
+    "data_points": 21,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2025-12-23T08:00:59.635142",
+    "last_recorded": "2025-12-24T08:01:01.461546",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -76,7 +76,8 @@
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
-        "2025-12-23T08:00:59.635142"
+        "2025-12-23T08:00:59.635142",
+        "2025-12-24T08:01:01.461546"
       ],
       "views_rank": [
         null,
@@ -98,7 +99,8 @@
         197,
         197,
         197,
-        199
+        199,
+        198
       ],
       "runs_rank": [
         null,
@@ -120,7 +122,8 @@
         131,
         131,
         132,
-        133
+        133,
+        132
       ],
       "likes_rank": [
         null,
@@ -142,7 +145,8 @@
         19,
         19,
         19,
-        21
+        21,
+        33
       ]
     }
   },
@@ -161,7 +165,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #21 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #33 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

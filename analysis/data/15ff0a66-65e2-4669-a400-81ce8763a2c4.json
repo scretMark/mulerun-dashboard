@@ -1,6 +1,6 @@
 {
   "agent_id": "15ff0a66-65e2-4669-a400-81ce8763a2c4",
-  "generated_at": "2025-12-23T00:01:28.006511",
+  "generated_at": "2025-12-24T00:01:15.336974",
   "basic_info": {
     "title": "YouTube Quick Scan",
     "author": "Zane29222",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-06T20:24:45.395000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Zane29222/youtube-quick-scan",
-    "days_since_published": 77
+    "days_since_published": 78
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 31,
       "runs_rank": 79,
-      "likes_rank": 78,
-      "total_agents": 260,
+      "likes_rank": 56,
+      "total_agents": 261,
       "views_percentile": 88.1,
-      "runs_percentile": 69.6,
-      "likes_percentile": 70.0
+      "runs_percentile": 69.7,
+      "likes_percentile": 78.5
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 79,
+    "days_tracked": 80,
     "price": 40.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 33,
+    "days_tracked": 34,
     "last_7_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 0,
+      "runs_rank_change": 2,
+      "likes_rank_change": -156
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -44,7 +44,7 @@
     "all_time": {
       "best_views_rank": 31,
       "best_runs_rank": 77,
-      "best_likes_rank": 64,
+      "best_likes_rank": 56,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 31
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 37,
+    "data_points": 38,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-23T08:00:59.635142",
+    "last_recorded": "2025-12-24T08:01:01.461546",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -93,7 +93,8 @@
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
-        "2025-12-23T08:00:59.635142"
+        "2025-12-23T08:00:59.635142",
+        "2025-12-24T08:01:01.461546"
       ],
       "views_rank": [
         null,
@@ -132,6 +133,7 @@
         32,
         32,
         31,
+        31,
         31
       ],
       "runs_rank": [
@@ -168,6 +170,7 @@
         77,
         77,
         77,
+        79,
         79,
         79,
         79,
@@ -210,7 +213,8 @@
         72,
         74,
         72,
-        78
+        78,
+        56
       ]
     }
   },

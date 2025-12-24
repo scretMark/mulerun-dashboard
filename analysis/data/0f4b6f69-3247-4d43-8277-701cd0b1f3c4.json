@@ -1,6 +1,6 @@
 {
   "agent_id": "0f4b6f69-3247-4d43-8277-701cd0b1f3c4",
-  "generated_at": "2025-12-23T00:01:27.605853",
+  "generated_at": "2025-12-24T00:01:14.857725",
   "basic_info": {
     "title": "ResumePic for LinkedIn",
     "author": "Zane29222",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-03T21:58:06.997000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Zane29222/resumepic-for-linkedin",
-    "days_since_published": 49
+    "days_since_published": 50
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 8,
       "runs_rank": 11,
-      "likes_rank": null,
-      "total_agents": 260,
+      "likes_rank": 30,
+      "total_agents": 261,
       "views_percentile": 96.9,
       "runs_percentile": 95.8,
-      "likes_percentile": 0
+      "likes_percentile": 88.5
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 60,
+    "days_tracked": 61,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "last_7_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 0,
+      "runs_rank_change": 0,
+      "likes_rank_change": -53
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -44,17 +44,17 @@
     "all_time": {
       "best_views_rank": 8,
       "best_runs_rank": 10,
-      "best_likes_rank": 83,
-      "days_in_top_10": 10,
+      "best_likes_rank": 30,
+      "days_in_top_10": 11,
       "first_rank": null,
       "current_rank": 8
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 38,
+    "data_points": 39,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-23T08:00:59.635142",
+    "last_recorded": "2025-12-24T08:01:01.461546",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -94,7 +94,8 @@
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
-        "2025-12-23T08:00:59.635142"
+        "2025-12-23T08:00:59.635142",
+        "2025-12-24T08:01:01.461546"
       ],
       "views_rank": [
         null,
@@ -125,6 +126,7 @@
         null,
         null,
         null,
+        8,
         8,
         8,
         8,
@@ -174,6 +176,7 @@
         11,
         11,
         11,
+        11,
         11
       ],
       "likes_rank": [
@@ -214,7 +217,8 @@
         248,
         243,
         245,
-        null
+        null,
+        30
       ]
     }
   },
@@ -231,7 +235,12 @@
     {
       "type": "positive",
       "title": "Consistent Top Performer",
-      "description": "Maintained Top 10 ranking for 10 days - showing sustained excellence and user preference."
+      "description": "Maintained Top 10 ranking for 11 days - showing sustained excellence and user preference."
+    },
+    {
+      "type": "info",
+      "title": "Stable Leader",
+      "description": "Maintained #8 ranking for 7+ days - showing consistent market position and reliability."
     },
     {
       "type": "info",

@@ -1,6 +1,6 @@
 {
   "agent_id": "4bf111d7-9e01-421e-9557-5da3ebb1c935",
-  "generated_at": "2025-12-23T00:01:29.778620",
+  "generated_at": "2025-12-24T00:01:17.044357",
   "basic_info": {
     "title": " Hand-Drawn Doodle Ads Generator",
     "author": "Aronlong",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-16T10:03:28.847000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aronlong/hand-drawn-doodle-ads-generator",
-    "days_since_published": 36
+    "days_since_published": 37
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 202,
       "runs_rank": 126,
-      "likes_rank": 12,
-      "total_agents": 260,
-      "views_percentile": 22.3,
-      "runs_percentile": 51.5,
-      "likes_percentile": 95.4
+      "likes_rank": 80,
+      "total_agents": 261,
+      "views_percentile": 22.6,
+      "runs_percentile": 51.7,
+      "likes_percentile": 69.3
     },
-    "tier": "Elite",
-    "tier_class": "elite",
-    "days_tracked": 36,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 37,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 31,
+    "days_tracked": 32,
     "last_7_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 3,
+      "runs_rank_change": 3,
+      "likes_rank_change": -111
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 35,
+    "data_points": 36,
     "first_recorded": "2025-11-21T14:09:56.591648",
-    "last_recorded": "2025-12-23T08:00:59.635142",
+    "last_recorded": "2025-12-24T08:01:01.461546",
     "time_series": {
       "dates": [
         "2025-11-21T14:09:56.591648",
@@ -91,7 +91,8 @@
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
-        "2025-12-23T08:00:59.635142"
+        "2025-12-23T08:00:59.635142",
+        "2025-12-24T08:01:01.461546"
       ],
       "views_rank": [
         null,
@@ -128,6 +129,7 @@
         199,
         200,
         200,
+        202,
         202
       ],
       "runs_rank": [
@@ -165,6 +167,7 @@
         124,
         124,
         124,
+        126,
         126
       ],
       "likes_rank": [
@@ -202,7 +205,8 @@
         12,
         13,
         13,
-        12
+        12,
+        80
       ]
     }
   },
@@ -219,9 +223,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "Elite Performance",
-      "description": "Ranked #12 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #202 out of 261 active agents."
     }
   ]
 }

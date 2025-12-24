@@ -1,6 +1,6 @@
 {
   "agent_id": "9b763d44-e476-4b9b-844f-f4db81c6d09e",
-  "generated_at": "2025-12-23T00:01:29.864221",
+  "generated_at": "2025-12-24T00:01:17.185869",
   "basic_info": {
     "title": "Christmas costume generator",
     "author": "luckyy",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-25T17:16:09.297000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@luckyy/christmas-costume-generator",
-    "days_since_published": 27
+    "days_since_published": 28
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 211,
       "runs_rank": 86,
-      "likes_rank": 193,
-      "total_agents": 260,
-      "views_percentile": 18.8,
-      "runs_percentile": 66.9,
-      "likes_percentile": 25.8
+      "likes_rank": 174,
+      "total_agents": 261,
+      "views_percentile": 19.2,
+      "runs_percentile": 67.0,
+      "likes_percentile": 33.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 26,
+    "days_tracked": 27,
     "price": 28.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 26,
+    "days_tracked": 27,
     "last_7_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 3,
+      "runs_rank_change": 2,
+      "likes_rank_change": 8
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 27,
+    "data_points": 28,
     "first_recorded": "2025-11-27T08:00:22.157746",
-    "last_recorded": "2025-12-23T08:00:59.635142",
+    "last_recorded": "2025-12-24T08:01:01.461546",
     "time_series": {
       "dates": [
         "2025-11-27T08:00:22.157746",
@@ -83,7 +83,8 @@
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
-        "2025-12-23T08:00:59.635142"
+        "2025-12-23T08:00:59.635142",
+        "2025-12-24T08:01:01.461546"
       ],
       "views_rank": [
         null,
@@ -112,6 +113,7 @@
         213,
         213,
         211,
+        211,
         211
       ],
       "runs_rank": [
@@ -138,6 +140,7 @@
         84,
         84,
         85,
+        86,
         86,
         86,
         86,
@@ -170,7 +173,8 @@
         192,
         193,
         191,
-        193
+        193,
+        174
       ]
     }
   },
@@ -189,7 +193,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #211 out of 260 active agents."
+      "description": "This agent is currently ranked #211 out of 261 active agents."
     }
   ]
 }

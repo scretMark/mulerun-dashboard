@@ -1,6 +1,6 @@
 {
   "agent_id": "3dce446b-c3fc-44c0-8595-6ed9b247c095",
-  "generated_at": "2025-12-23T00:01:27.595103",
+  "generated_at": "2025-12-24T00:01:14.846690",
   "basic_info": {
     "title": "Paper Review Agent",
     "author": "charlin",
@@ -11,29 +11,29 @@
     "published_at": "2025-10-27T22:31:35.340000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@charlin/paper-review-agent",
-    "days_since_published": 56
+    "days_since_published": 57
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 12,
       "runs_rank": 31,
-      "likes_rank": 244,
-      "total_agents": 260,
+      "likes_rank": null,
+      "total_agents": 261,
       "views_percentile": 95.4,
       "runs_percentile": 88.1,
-      "likes_percentile": 6.2
+      "likes_percentile": 0
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 58,
+    "days_tracked": 59,
     "price": 60.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "last_7_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
+      "views_rank_change": 0,
+      "runs_rank_change": 2,
       "likes_rank_change": null
     },
     "last_30_days": {
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 38,
+    "data_points": 39,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-23T08:00:59.635142",
+    "last_recorded": "2025-12-24T08:01:01.461546",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -94,7 +94,8 @@
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
-        "2025-12-23T08:00:59.635142"
+        "2025-12-23T08:00:59.635142",
+        "2025-12-24T08:01:01.461546"
       ],
       "views_rank": [
         null,
@@ -125,6 +126,7 @@
         null,
         null,
         null,
+        12,
         12,
         12,
         12,
@@ -174,6 +176,7 @@
         31,
         31,
         31,
+        31,
         31
       ],
       "likes_rank": [
@@ -214,7 +217,8 @@
         238,
         235,
         241,
-        244
+        244,
+        null
       ]
     }
   },
@@ -227,6 +231,11 @@
       "type": "positive",
       "title": "Elite Performance",
       "description": "Ranked #12 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+    },
+    {
+      "type": "info",
+      "title": "Stable Leader",
+      "description": "Maintained #12 ranking for 7+ days - showing consistent market position and reliability."
     }
   ]
 }

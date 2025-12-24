@@ -1,6 +1,6 @@
 {
   "agent_id": "4d9b4916-1311-4716-ba98-3bba7d803df3",
-  "generated_at": "2025-12-23T00:01:28.155863",
+  "generated_at": "2025-12-24T00:01:15.491852",
   "basic_info": {
     "title": "Content Pilot AI",
     "author": "cqplaquemh41i2k",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-13T18:50:29.799000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@cqplaquemh41i2k/content-pilot-ai",
-    "days_since_published": 70
+    "days_since_published": 71
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 105,
       "runs_rank": 54,
-      "likes_rank": 178,
-      "total_agents": 260,
-      "views_percentile": 59.6,
-      "runs_percentile": 79.2,
-      "likes_percentile": 31.5
+      "likes_rank": 191,
+      "total_agents": 261,
+      "views_percentile": 59.8,
+      "runs_percentile": 79.3,
+      "likes_percentile": 26.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 69,
+    "days_tracked": 70,
     "price": 15.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 33,
+    "days_tracked": 34,
     "last_7_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": -5,
+      "runs_rank_change": -7,
+      "likes_rank_change": 124
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 37,
+    "data_points": 38,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-23T08:00:59.635142",
+    "last_recorded": "2025-12-24T08:01:01.461546",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -93,7 +93,8 @@
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
-        "2025-12-23T08:00:59.635142"
+        "2025-12-23T08:00:59.635142",
+        "2025-12-24T08:01:01.461546"
       ],
       "views_rank": [
         null,
@@ -132,6 +133,7 @@
         106,
         106,
         106,
+        105,
         105
       ],
       "runs_rank": [
@@ -171,6 +173,7 @@
         56,
         55,
         55,
+        54,
         54
       ],
       "likes_rank": [
@@ -210,7 +213,8 @@
         172,
         173,
         172,
-        178
+        178,
+        191
       ]
     }
   },
@@ -222,7 +226,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #105 out of 260 active agents."
+      "description": "This agent is currently ranked #105 out of 261 active agents."
     }
   ]
 }

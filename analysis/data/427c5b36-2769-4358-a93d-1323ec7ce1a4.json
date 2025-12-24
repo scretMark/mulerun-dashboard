@@ -1,6 +1,6 @@
 {
   "agent_id": "427c5b36-2769-4358-a93d-1323ec7ce1a4",
-  "generated_at": "2025-12-23T00:01:27.985487",
+  "generated_at": "2025-12-24T00:01:15.316057",
   "basic_info": {
     "title": "Podcast Generator",
     "author": "AngryBerry",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-03T22:43:10.783000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AngryBerry/podcast-generator",
-    "days_since_published": 49
+    "days_since_published": 50
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 109,
-      "runs_rank": 106,
-      "likes_rank": 219,
-      "total_agents": 260,
-      "views_percentile": 58.1,
-      "runs_percentile": 59.2,
-      "likes_percentile": 15.8
+      "runs_rank": 104,
+      "likes_rank": 238,
+      "total_agents": 261,
+      "views_percentile": 58.2,
+      "runs_percentile": 60.2,
+      "likes_percentile": 8.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 60,
+    "days_tracked": 61,
     "price": 160.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 33,
+    "days_tracked": 34,
     "last_7_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 0,
+      "runs_rank_change": -3,
+      "likes_rank_change": 65
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 37,
+    "data_points": 38,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-23T08:00:59.635142",
+    "last_recorded": "2025-12-24T08:01:01.461546",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -93,7 +93,8 @@
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
-        "2025-12-23T08:00:59.635142"
+        "2025-12-23T08:00:59.635142",
+        "2025-12-24T08:01:01.461546"
       ],
       "views_rank": [
         null,
@@ -130,6 +131,7 @@
         106,
         107,
         108,
+        109,
         109,
         109,
         109
@@ -171,7 +173,8 @@
         104,
         104,
         104,
-        106
+        106,
+        104
       ],
       "likes_rank": [
         null,
@@ -210,7 +213,8 @@
         216,
         216,
         213,
-        219
+        219,
+        238
       ]
     }
   },
@@ -222,7 +226,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #109 out of 260 active agents."
+      "description": "This agent is currently ranked #109 out of 261 active agents."
     }
   ]
 }

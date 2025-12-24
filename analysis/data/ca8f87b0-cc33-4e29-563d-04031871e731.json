@@ -1,6 +1,6 @@
 {
   "agent_id": "ca8f87b0-cc33-4e29-563d-04031871e731",
-  "generated_at": "2025-12-23T00:01:28.231864",
+  "generated_at": "2025-12-24T00:01:15.535558",
   "basic_info": {
     "title": "Blender MCP AI Agent",
     "author": "Siddhartbbafa48",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-30T17:48:01.927000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Siddhartbbafa48/blender-mcp-ai-agent",
-    "days_since_published": 53
+    "days_since_published": 54
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 11,
       "runs_rank": 29,
-      "likes_rank": 220,
-      "total_agents": 260,
+      "likes_rank": 198,
+      "total_agents": 261,
       "views_percentile": 95.8,
-      "runs_percentile": 88.8,
-      "likes_percentile": 15.4
+      "runs_percentile": 88.9,
+      "likes_percentile": 24.1
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 69,
+    "days_tracked": 70,
     "price": 2.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 33,
+    "days_tracked": 34,
     "last_7_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 0,
+      "runs_rank_change": 2,
+      "likes_rank_change": 101
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 37,
+    "data_points": 38,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-23T08:00:59.635142",
+    "last_recorded": "2025-12-24T08:01:01.461546",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -93,7 +93,8 @@
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
-        "2025-12-23T08:00:59.635142"
+        "2025-12-23T08:00:59.635142",
+        "2025-12-24T08:01:01.461546"
       ],
       "views_rank": [
         null,
@@ -123,6 +124,7 @@
         null,
         null,
         null,
+        11,
         11,
         11,
         11,
@@ -171,6 +173,7 @@
         29,
         29,
         29,
+        29,
         29
       ],
       "likes_rank": [
@@ -210,7 +213,8 @@
         213,
         214,
         215,
-        220
+        220,
+        198
       ]
     }
   },
@@ -223,6 +227,11 @@
       "type": "positive",
       "title": "Elite Performance",
       "description": "Ranked #11 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+    },
+    {
+      "type": "info",
+      "title": "Stable Leader",
+      "description": "Maintained #11 ranking for 7+ days - showing consistent market position and reliability."
     },
     {
       "type": "info",

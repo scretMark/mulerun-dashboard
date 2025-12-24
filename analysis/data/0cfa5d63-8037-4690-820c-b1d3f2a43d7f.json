@@ -1,6 +1,6 @@
 {
   "agent_id": "0cfa5d63-8037-4690-820c-b1d3f2a43d7f",
-  "generated_at": "2025-12-23T00:01:30.528612",
+  "generated_at": "2025-12-24T00:01:17.891989",
   "basic_info": {
     "title": "Reddit to YouTube Script - laughing_code",
     "author": "laughing_code",
@@ -11,54 +11,66 @@
     "published_at": "2025-12-22T12:25:46.444000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@laughing_code/reddit-to-youtube-script-laughing-code",
-    "days_since_published": 0
+    "days_since_published": 1
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 228,
-      "runs_rank": 238,
-      "likes_rank": 44,
-      "total_agents": 260,
-      "views_percentile": 12.3,
-      "runs_percentile": 8.5,
-      "likes_percentile": 83.1
+      "views_rank": 220,
+      "runs_rank": 237,
+      "likes_rank": 93,
+      "total_agents": 261,
+      "views_percentile": 15.7,
+      "runs_percentile": 9.2,
+      "likes_percentile": 64.4
     },
-    "tier": "High",
-    "tier_class": "high",
-    "days_tracked": 0,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 1,
     "price": 90.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 0,
-    "last_7_days": {},
-    "last_30_days": {},
+    "days_tracked": 1,
+    "last_7_days": {
+      "views_rank_change": -8,
+      "runs_rank_change": -1,
+      "likes_rank_change": 49
+    },
+    "last_30_days": {
+      "views_rank_change": -8,
+      "runs_rank_change": -1,
+      "likes_rank_change": 49
+    },
     "all_time": {
-      "best_views_rank": 228,
-      "best_runs_rank": 238,
+      "best_views_rank": 220,
+      "best_runs_rank": 237,
       "best_likes_rank": 44,
       "days_in_top_10": 0,
       "first_rank": 228,
-      "current_rank": 228
+      "current_rank": 220
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 1,
+    "data_points": 2,
     "first_recorded": "2025-12-23T08:00:59.635142",
-    "last_recorded": "2025-12-23T08:00:59.635142",
+    "last_recorded": "2025-12-24T08:01:01.461546",
     "time_series": {
       "dates": [
-        "2025-12-23T08:00:59.635142"
+        "2025-12-23T08:00:59.635142",
+        "2025-12-24T08:01:01.461546"
       ],
       "views_rank": [
-        228
+        228,
+        220
       ],
       "runs_rank": [
-        238
+        238,
+        237
       ],
       "likes_rank": [
-        44
+        44,
+        93
       ]
     }
   },
@@ -76,8 +88,8 @@
   "insights": [
     {
       "type": "positive",
-      "title": "High Performer",
-      "description": "Ranked #44 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "title": "Hot Trend",
+      "description": "Up 8 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

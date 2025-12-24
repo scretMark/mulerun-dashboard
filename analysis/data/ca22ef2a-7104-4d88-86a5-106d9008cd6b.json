@@ -1,6 +1,6 @@
 {
   "agent_id": "ca22ef2a-7104-4d88-86a5-106d9008cd6b",
-  "generated_at": "2025-12-23T00:01:30.487223",
+  "generated_at": "2025-12-24T00:01:17.840700",
   "basic_info": {
     "title": "Xmas Monster Market",
     "author": "Norsizu",
@@ -11,40 +11,40 @@
     "published_at": "2025-12-19T16:34:38.383000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/xmas-monster-market",
-    "days_since_published": 3
+    "days_since_published": 4
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": null,
       "runs_rank": null,
-      "likes_rank": 52,
-      "total_agents": 260,
+      "likes_rank": 42,
+      "total_agents": 261,
       "views_percentile": 0,
       "runs_percentile": 0,
-      "likes_percentile": 80.0
+      "likes_percentile": 83.9
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 3,
+    "days_tracked": 4,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 2,
+    "days_tracked": 4,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 1
+      "likes_rank_change": -9
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 1
+      "likes_rank_change": -9
     },
     "all_time": {
       "best_views_rank": null,
       "best_runs_rank": null,
-      "best_likes_rank": 49,
+      "best_likes_rank": 42,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": null
@@ -52,17 +52,19 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 4,
+    "data_points": 5,
     "first_recorded": "2025-12-20T08:01:00.398750",
-    "last_recorded": "2025-12-23T08:00:59.635142",
+    "last_recorded": "2025-12-24T08:01:01.461546",
     "time_series": {
       "dates": [
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
-        "2025-12-23T08:00:59.635142"
+        "2025-12-23T08:00:59.635142",
+        "2025-12-24T08:01:01.461546"
       ],
       "views_rank": [
+        null,
         null,
         null,
         null,
@@ -72,13 +74,15 @@
         null,
         null,
         null,
+        null,
         null
       ],
       "likes_rank": [
         51,
         49,
         52,
-        52
+        52,
+        42
       ]
     }
   },
@@ -97,7 +101,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #52 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #42 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

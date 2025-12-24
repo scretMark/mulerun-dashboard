@@ -1,6 +1,6 @@
 {
   "agent_id": "32bc9f8a-17c7-4254-88a6-e4da68e8eee7",
-  "generated_at": "2025-12-23T00:01:29.115847",
+  "generated_at": "2025-12-24T00:01:16.334208",
   "basic_info": {
     "title": "Mecha Pet",
     "author": "LinkAIBrain",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-18T21:12:44.890000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/mecha-pet",
-    "days_since_published": 95
+    "days_since_published": 96
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 61,
       "runs_rank": 96,
-      "likes_rank": 160,
-      "total_agents": 260,
-      "views_percentile": 76.5,
-      "runs_percentile": 63.1,
-      "likes_percentile": 38.5
+      "likes_rank": 228,
+      "total_agents": 261,
+      "views_percentile": 76.6,
+      "runs_percentile": 63.2,
+      "likes_percentile": 12.6
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 97,
+    "days_tracked": 98,
     "price": 30.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 33,
+    "days_tracked": 34,
     "last_7_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 1,
+      "runs_rank_change": 1,
+      "likes_rank_change": 166
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 37,
+    "data_points": 38,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-23T08:00:59.635142",
+    "last_recorded": "2025-12-24T08:01:01.461546",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -93,7 +93,8 @@
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
-        "2025-12-23T08:00:59.635142"
+        "2025-12-23T08:00:59.635142",
+        "2025-12-24T08:01:01.461546"
       ],
       "views_rank": [
         null,
@@ -132,6 +133,7 @@
         60,
         60,
         60,
+        61,
         61
       ],
       "runs_rank": [
@@ -167,6 +169,7 @@
         95,
         95,
         95,
+        96,
         96,
         96,
         96,
@@ -210,7 +213,8 @@
         154,
         155,
         155,
-        160
+        160,
+        228
       ]
     }
   },
@@ -222,7 +226,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #61 out of 260 active agents."
+      "description": "This agent is currently ranked #61 out of 261 active agents."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "1509720e-e203-4e72-bb61-03d4d9a72d92",
-  "generated_at": "2025-12-23T00:01:27.854833",
+  "generated_at": "2025-12-24T00:01:15.148893",
   "basic_info": {
     "title": "Doc2Presentation",
     "author": "charlin",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-16T00:13:38.438000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@charlin/doc2presentation",
-    "days_since_published": 67
+    "days_since_published": 68
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 54,
       "runs_rank": 87,
-      "likes_rank": 55,
-      "total_agents": 260,
-      "views_percentile": 79.2,
-      "runs_percentile": 66.5,
-      "likes_percentile": 78.8
+      "likes_rank": 35,
+      "total_agents": 261,
+      "views_percentile": 79.3,
+      "runs_percentile": 66.7,
+      "likes_percentile": 86.6
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 63,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 64,
     "price": 100.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 33,
+    "days_tracked": 34,
     "last_7_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 0,
+      "runs_rank_change": -2,
+      "likes_rank_change": -209
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -44,7 +44,7 @@
     "all_time": {
       "best_views_rank": 54,
       "best_runs_rank": 87,
-      "best_likes_rank": 42,
+      "best_likes_rank": 35,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 54
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 37,
+    "data_points": 38,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-23T08:00:59.635142",
+    "last_recorded": "2025-12-24T08:01:01.461546",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -93,7 +93,8 @@
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
-        "2025-12-23T08:00:59.635142"
+        "2025-12-23T08:00:59.635142",
+        "2025-12-24T08:01:01.461546"
       ],
       "views_rank": [
         null,
@@ -123,6 +124,7 @@
         null,
         null,
         null,
+        54,
         54,
         54,
         54,
@@ -171,6 +173,7 @@
         90,
         90,
         90,
+        87,
         87
       ],
       "likes_rank": [
@@ -210,7 +213,8 @@
         52,
         51,
         45,
-        55
+        55,
+        35
       ]
     }
   },
@@ -220,9 +224,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #54 out of 260 active agents."
+      "type": "positive",
+      "title": "High Performer",
+      "description": "Ranked #35 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

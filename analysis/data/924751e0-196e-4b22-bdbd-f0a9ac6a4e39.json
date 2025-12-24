@@ -1,6 +1,6 @@
 {
   "agent_id": "924751e0-196e-4b22-bdbd-f0a9ac6a4e39",
-  "generated_at": "2025-12-23T00:01:27.533818",
+  "generated_at": "2025-12-24T00:01:14.784118",
   "basic_info": {
     "title": "Equity Investment Research ",
     "author": "FundaAI",
@@ -11,29 +11,29 @@
     "published_at": "2025-10-30T17:49:56.152000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@FundaAI/equity-investment-research",
-    "days_since_published": 53
+    "days_since_published": 54
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 2,
       "runs_rank": 4,
       "likes_rank": null,
-      "total_agents": 260,
+      "total_agents": 261,
       "views_percentile": 99.2,
       "runs_percentile": 98.5,
       "likes_percentile": 0
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 69,
+    "days_tracked": 70,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "last_7_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
+      "views_rank_change": 0,
+      "runs_rank_change": 0,
       "likes_rank_change": null
     },
     "last_30_days": {
@@ -45,16 +45,16 @@
       "best_views_rank": 2,
       "best_runs_rank": 4,
       "best_likes_rank": 81,
-      "days_in_top_10": 10,
+      "days_in_top_10": 11,
       "first_rank": null,
       "current_rank": 2
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 38,
+    "data_points": 39,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-23T08:00:59.635142",
+    "last_recorded": "2025-12-24T08:01:01.461546",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -94,7 +94,8 @@
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
-        "2025-12-23T08:00:59.635142"
+        "2025-12-23T08:00:59.635142",
+        "2025-12-24T08:01:01.461546"
       ],
       "views_rank": [
         null,
@@ -125,6 +126,7 @@
         null,
         null,
         null,
+        2,
         2,
         2,
         2,
@@ -174,6 +176,7 @@
         4,
         4,
         4,
+        4,
         4
       ],
       "likes_rank": [
@@ -214,6 +217,7 @@
         243,
         249,
         243,
+        null,
         null
       ]
     }
@@ -236,7 +240,12 @@
     {
       "type": "positive",
       "title": "Consistent Top Performer",
-      "description": "Maintained Top 10 ranking for 10 days - showing sustained excellence and user preference."
+      "description": "Maintained Top 10 ranking for 11 days - showing sustained excellence and user preference."
+    },
+    {
+      "type": "info",
+      "title": "Stable Leader",
+      "description": "Maintained #2 ranking for 7+ days - showing consistent market position and reliability."
     }
   ]
 }

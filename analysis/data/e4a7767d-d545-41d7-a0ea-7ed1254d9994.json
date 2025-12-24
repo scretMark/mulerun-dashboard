@@ -1,6 +1,6 @@
 {
   "agent_id": "e4a7767d-d545-41d7-a0ea-7ed1254d9994",
-  "generated_at": "2025-12-23T00:01:29.815363",
+  "generated_at": "2025-12-24T00:01:17.074617",
   "basic_info": {
     "title": "Nano Sketch Design",
     "author": "Aronlong",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-20T10:00:25.694000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aronlong/nano-sketch-design",
-    "days_since_published": 32
+    "days_since_published": 33
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 216,
       "runs_rank": 163,
-      "likes_rank": 62,
-      "total_agents": 260,
-      "views_percentile": 16.9,
-      "runs_percentile": 37.3,
-      "likes_percentile": 76.2
+      "likes_rank": 53,
+      "total_agents": 261,
+      "views_percentile": 17.2,
+      "runs_percentile": 37.5,
+      "likes_percentile": 79.7
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 35,
+    "days_tracked": 36,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 29,
+    "days_tracked": 30,
     "last_7_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 1,
+      "runs_rank_change": -16,
+      "likes_rank_change": 21
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 34,
+    "data_points": 35,
     "first_recorded": "2025-11-23T13:27:48.290198",
-    "last_recorded": "2025-12-23T08:00:59.635142",
+    "last_recorded": "2025-12-24T08:01:01.461546",
     "time_series": {
       "dates": [
         "2025-11-23T13:27:48.290198",
@@ -90,7 +90,8 @@
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
-        "2025-12-23T08:00:59.635142"
+        "2025-12-23T08:00:59.635142",
+        "2025-12-24T08:01:01.461546"
       ],
       "views_rank": [
         null,
@@ -122,6 +123,7 @@
         215,
         215,
         215,
+        216,
         216,
         216,
         216,
@@ -162,6 +164,7 @@
         168,
         168,
         168,
+        163,
         163
       ],
       "likes_rank": [
@@ -198,7 +201,8 @@
         60,
         61,
         61,
-        62
+        62,
+        53
       ]
     }
   },
@@ -217,7 +221,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #216 out of 260 active agents."
+      "description": "This agent is currently ranked #216 out of 261 active agents."
     }
   ]
 }

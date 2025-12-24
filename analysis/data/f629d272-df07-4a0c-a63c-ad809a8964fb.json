@@ -1,6 +1,6 @@
 {
   "agent_id": "f629d272-df07-4a0c-a63c-ad809a8964fb",
-  "generated_at": "2025-12-23T00:01:29.762084",
+  "generated_at": "2025-12-24T00:01:17.033654",
   "basic_info": {
     "title": "Amazon Product SEO Research",
     "author": "createAny",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-28T21:43:09.391000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@createAny/amazon-product-seo-research",
-    "days_since_published": 55
+    "days_since_published": 56
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 189,
+      "views_rank": 190,
       "runs_rank": 190,
-      "likes_rank": 127,
-      "total_agents": 260,
-      "views_percentile": 27.3,
-      "runs_percentile": 26.9,
-      "likes_percentile": 51.2
+      "likes_rank": 27,
+      "total_agents": 261,
+      "views_percentile": 27.2,
+      "runs_percentile": 27.2,
+      "likes_percentile": 89.7
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 59,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 60,
     "price": 99.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 33,
+    "days_tracked": 34,
     "last_7_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 2,
+      "runs_rank_change": 4,
+      "likes_rank_change": -197
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -44,17 +44,17 @@
     "all_time": {
       "best_views_rank": 188,
       "best_runs_rank": 182,
-      "best_likes_rank": 113,
+      "best_likes_rank": 27,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 189
+      "current_rank": 190
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 37,
+    "data_points": 38,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-23T08:00:59.635142",
+    "last_recorded": "2025-12-24T08:01:01.461546",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -93,7 +93,8 @@
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
-        "2025-12-23T08:00:59.635142"
+        "2025-12-23T08:00:59.635142",
+        "2025-12-24T08:01:01.461546"
       ],
       "views_rank": [
         null,
@@ -132,7 +133,8 @@
         188,
         188,
         188,
-        189
+        189,
+        190
       ],
       "runs_rank": [
         null,
@@ -171,6 +173,7 @@
         187,
         187,
         187,
+        190,
         190
       ],
       "likes_rank": [
@@ -210,7 +213,8 @@
         126,
         124,
         124,
-        127
+        127,
+        27
       ]
     }
   },
@@ -220,9 +224,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #189 out of 260 active agents."
+      "type": "positive",
+      "title": "High Performer",
+      "description": "Ranked #27 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "d2061c9a-ea91-4838-b825-ec338b9778cf",
-  "generated_at": "2025-12-23T00:01:28.528478",
+  "generated_at": "2025-12-24T00:01:15.779983",
   "basic_info": {
     "title": "Be the Headline",
     "author": "harry",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-20T18:12:05.708000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@harry/be-the-headline",
-    "days_since_published": 63
+    "days_since_published": 64
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 177,
-      "runs_rank": 169,
-      "likes_rank": 122,
-      "total_agents": 260,
-      "views_percentile": 31.9,
-      "runs_percentile": 35.0,
-      "likes_percentile": 53.1
+      "runs_rank": 171,
+      "likes_rank": 139,
+      "total_agents": 261,
+      "views_percentile": 32.2,
+      "runs_percentile": 34.5,
+      "likes_percentile": 46.7
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 64,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 65,
     "price": 48.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 33,
+    "days_tracked": 34,
     "last_7_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 4,
+      "runs_rank_change": 14,
+      "likes_rank_change": -71
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 37,
+    "data_points": 38,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-23T08:00:59.635142",
+    "last_recorded": "2025-12-24T08:01:01.461546",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -93,7 +93,8 @@
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
-        "2025-12-23T08:00:59.635142"
+        "2025-12-23T08:00:59.635142",
+        "2025-12-24T08:01:01.461546"
       ],
       "views_rank": [
         null,
@@ -132,6 +133,7 @@
         176,
         176,
         176,
+        177,
         177
       ],
       "runs_rank": [
@@ -171,7 +173,8 @@
         163,
         163,
         163,
-        169
+        169,
+        171
       ],
       "likes_rank": [
         null,
@@ -210,7 +213,8 @@
         118,
         116,
         116,
-        122
+        122,
+        139
       ]
     }
   },
@@ -222,7 +226,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #177 out of 260 active agents."
+      "description": "This agent is currently ranked #177 out of 261 active agents."
     }
   ]
 }

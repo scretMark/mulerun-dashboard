@@ -1,6 +1,6 @@
 {
   "agent_id": "ad1c4d06-705b-47c4-b9f1-6abee261b6f9",
-  "generated_at": "2025-12-23T00:01:28.571147",
+  "generated_at": "2025-12-24T00:01:15.821315",
   "basic_info": {
     "title": "Food Image to Recipe",
     "author": "vktsbiy414205x1",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-07T20:08:53.831000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@vktsbiy414205x1/food-image-to-recipe",
-    "days_since_published": 76
+    "days_since_published": 77
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 38,
-      "runs_rank": 27,
-      "likes_rank": 235,
-      "total_agents": 260,
-      "views_percentile": 85.4,
-      "runs_percentile": 89.6,
-      "likes_percentile": 9.6
+      "views_rank": 39,
+      "runs_rank": 28,
+      "likes_rank": 218,
+      "total_agents": 261,
+      "views_percentile": 85.1,
+      "runs_percentile": 89.3,
+      "likes_percentile": 16.5
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 64,
+    "days_tracked": 65,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 33,
+    "days_tracked": 34,
     "last_7_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 0,
+      "runs_rank_change": 3,
+      "likes_rank_change": 143
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 75,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 38
+      "current_rank": 39
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 37,
+    "data_points": 38,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-23T08:00:59.635142",
+    "last_recorded": "2025-12-24T08:01:01.461546",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -93,7 +93,8 @@
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
-        "2025-12-23T08:00:59.635142"
+        "2025-12-23T08:00:59.635142",
+        "2025-12-24T08:01:01.461546"
       ],
       "views_rank": [
         null,
@@ -132,7 +133,8 @@
         38,
         38,
         38,
-        38
+        38,
+        39
       ],
       "runs_rank": [
         null,
@@ -171,7 +173,8 @@
         26,
         27,
         27,
-        27
+        27,
+        28
       ],
       "likes_rank": [
         null,
@@ -210,7 +213,8 @@
         227,
         222,
         228,
-        235
+        235,
+        218
       ]
     }
   },
@@ -222,12 +226,12 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #27 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #28 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     },
     {
       "type": "info",
       "title": "Premium Agent Success",
-      "description": "Despite $50.0 pricing, this agent ranks #27 in usage - demonstrating strong value proposition."
+      "description": "Despite $50.0 pricing, this agent ranks #28 in usage - demonstrating strong value proposition."
     }
   ]
 }

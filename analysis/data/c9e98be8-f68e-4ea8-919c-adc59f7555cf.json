@@ -1,6 +1,6 @@
 {
   "agent_id": "c9e98be8-f68e-4ea8-919c-adc59f7555cf",
-  "generated_at": "2025-12-23T00:01:27.471946",
+  "generated_at": "2025-12-24T00:01:14.719629",
   "basic_info": {
     "title": "UPCV Resume Gen ",
     "author": "upcv",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-12T11:14:49.973000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@upcv/upcv-resume-gen",
-    "days_since_published": 40
+    "days_since_published": 41
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 78,
+      "views_rank": 77,
       "runs_rank": 13,
-      "likes_rank": 156,
-      "total_agents": 260,
-      "views_percentile": 70.0,
+      "likes_rank": 34,
+      "total_agents": 261,
+      "views_percentile": 70.5,
       "runs_percentile": 95.0,
-      "likes_percentile": 40.0
+      "likes_percentile": 87.0
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 43,
+    "days_tracked": 44,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "last_7_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": -4,
+      "runs_rank_change": 0,
+      "likes_rank_change": -68
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -42,19 +42,19 @@
       "likes_rank_change": null
     },
     "all_time": {
-      "best_views_rank": 78,
+      "best_views_rank": 77,
       "best_runs_rank": 13,
-      "best_likes_rank": 102,
+      "best_likes_rank": 34,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 78
+      "current_rank": 77
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 38,
+    "data_points": 39,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-23T08:00:59.635142",
+    "last_recorded": "2025-12-24T08:01:01.461546",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -94,7 +94,8 @@
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
-        "2025-12-23T08:00:59.635142"
+        "2025-12-23T08:00:59.635142",
+        "2025-12-24T08:01:01.461546"
       ],
       "views_rank": [
         null,
@@ -134,7 +135,8 @@
         80,
         80,
         80,
-        78
+        78,
+        77
       ],
       "runs_rank": [
         null,
@@ -165,6 +167,7 @@
         null,
         null,
         null,
+        13,
         13,
         13,
         13,
@@ -214,7 +217,8 @@
         151,
         151,
         153,
-        156
+        156,
+        34
       ]
     }
   },

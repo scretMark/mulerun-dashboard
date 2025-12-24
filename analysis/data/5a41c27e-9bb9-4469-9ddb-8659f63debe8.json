@@ -1,6 +1,6 @@
 {
   "agent_id": "5a41c27e-9bb9-4469-9ddb-8659f63debe8",
-  "generated_at": "2025-12-23T00:01:29.293668",
+  "generated_at": "2025-12-24T00:01:16.523892",
   "basic_info": {
     "title": "chalkboard STICK PEOPLE with real heads",
     "author": "Darren",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-20T11:36:22.916000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/chalkboard-stick-people-with-real-heads",
-    "days_since_published": 63
+    "days_since_published": 64
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 120,
+      "views_rank": 121,
       "runs_rank": 225,
-      "likes_rank": 165,
-      "total_agents": 260,
-      "views_percentile": 53.8,
-      "runs_percentile": 13.5,
-      "likes_percentile": 36.5
+      "likes_rank": 229,
+      "total_agents": 261,
+      "views_percentile": 53.6,
+      "runs_percentile": 13.8,
+      "likes_percentile": 12.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 64,
+    "days_tracked": 65,
     "price": 51.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 33,
+    "days_tracked": 34,
     "last_7_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 5,
+      "runs_rank_change": 10,
+      "likes_rank_change": 212
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 17,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 120
+      "current_rank": 121
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 37,
+    "data_points": 38,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-23T08:00:59.635142",
+    "last_recorded": "2025-12-24T08:01:01.461546",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -93,7 +93,8 @@
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
-        "2025-12-23T08:00:59.635142"
+        "2025-12-23T08:00:59.635142",
+        "2025-12-24T08:01:01.461546"
       ],
       "views_rank": [
         null,
@@ -132,7 +133,8 @@
         120,
         120,
         120,
-        120
+        120,
+        121
       ],
       "runs_rank": [
         null,
@@ -171,6 +173,7 @@
         222,
         222,
         222,
+        225,
         225
       ],
       "likes_rank": [
@@ -210,7 +213,8 @@
         161,
         159,
         159,
-        165
+        165,
+        229
       ]
     }
   },
@@ -222,7 +226,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #120 out of 260 active agents."
+      "description": "This agent is currently ranked #121 out of 261 active agents."
     }
   ]
 }

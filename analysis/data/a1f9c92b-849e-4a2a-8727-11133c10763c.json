@@ -1,6 +1,6 @@
 {
   "agent_id": "a1f9c92b-849e-4a2a-8727-11133c10763c",
-  "generated_at": "2025-12-23T00:01:28.949411",
+  "generated_at": "2025-12-24T00:01:16.169590",
   "basic_info": {
     "title": "Emperor Pet AI",
     "author": "laughing_code",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-28T17:31:46.313000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@laughing_code/emperor-pet-ai",
-    "days_since_published": 85
+    "days_since_published": 86
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 20,
-      "runs_rank": 41,
-      "likes_rank": 144,
-      "total_agents": 260,
+      "runs_rank": 40,
+      "likes_rank": 130,
+      "total_agents": 261,
       "views_percentile": 92.3,
-      "runs_percentile": 84.2,
-      "likes_percentile": 44.6
+      "runs_percentile": 84.7,
+      "likes_percentile": 50.2
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 61,
+    "days_tracked": 62,
     "price": 70.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 33,
+    "days_tracked": 34,
     "last_7_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 0,
+      "runs_rank_change": 0,
+      "likes_rank_change": -53
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 37,
+    "data_points": 38,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-23T08:00:59.635142",
+    "last_recorded": "2025-12-24T08:01:01.461546",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -93,7 +93,8 @@
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
-        "2025-12-23T08:00:59.635142"
+        "2025-12-23T08:00:59.635142",
+        "2025-12-24T08:01:01.461546"
       ],
       "views_rank": [
         null,
@@ -123,6 +124,7 @@
         null,
         null,
         null,
+        20,
         20,
         20,
         20,
@@ -171,7 +173,8 @@
         41,
         41,
         41,
-        41
+        41,
+        40
       ],
       "likes_rank": [
         null,
@@ -210,7 +213,8 @@
         139,
         140,
         139,
-        144
+        144,
+        130
       ]
     }
   },
@@ -223,6 +227,11 @@
       "type": "positive",
       "title": "High Performer",
       "description": "Ranked #20 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+    },
+    {
+      "type": "info",
+      "title": "Stable Leader",
+      "description": "Maintained #20 ranking for 7+ days - showing consistent market position and reliability."
     }
   ]
 }

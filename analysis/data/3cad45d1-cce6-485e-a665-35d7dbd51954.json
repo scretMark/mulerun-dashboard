@@ -1,6 +1,6 @@
 {
   "agent_id": "3cad45d1-cce6-485e-a665-35d7dbd51954",
-  "generated_at": "2025-12-23T00:01:28.690311",
+  "generated_at": "2025-12-24T00:01:15.931917",
   "basic_info": {
     "title": "Companion of the Storm",
     "author": "Darren",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-20T11:32:32.791000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/companion-of-the-storm",
-    "days_since_published": 63
+    "days_since_published": 64
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 111,
-      "runs_rank": 180,
-      "likes_rank": 109,
-      "total_agents": 260,
-      "views_percentile": 57.3,
-      "runs_percentile": 30.8,
-      "likes_percentile": 58.1
+      "runs_rank": 181,
+      "likes_rank": 120,
+      "total_agents": 261,
+      "views_percentile": 57.5,
+      "runs_percentile": 30.7,
+      "likes_percentile": 54.0
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 59,
+    "days_tracked": 60,
     "price": 51.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 33,
+    "days_tracked": 34,
     "last_7_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 4,
+      "runs_rank_change": 8,
+      "likes_rank_change": -95
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 37,
+    "data_points": 38,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-23T08:00:59.635142",
+    "last_recorded": "2025-12-24T08:01:01.461546",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -93,7 +93,8 @@
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
-        "2025-12-23T08:00:59.635142"
+        "2025-12-23T08:00:59.635142",
+        "2025-12-24T08:01:01.461546"
       ],
       "views_rank": [
         null,
@@ -129,6 +130,7 @@
         108,
         109,
         109,
+        111,
         111,
         111,
         111,
@@ -171,7 +173,8 @@
         177,
         178,
         178,
-        180
+        180,
+        181
       ],
       "likes_rank": [
         null,
@@ -210,7 +213,8 @@
         103,
         103,
         103,
-        109
+        109,
+        120
       ]
     }
   },
@@ -222,7 +226,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #111 out of 260 active agents."
+      "description": "This agent is currently ranked #111 out of 261 active agents."
     }
   ]
 }

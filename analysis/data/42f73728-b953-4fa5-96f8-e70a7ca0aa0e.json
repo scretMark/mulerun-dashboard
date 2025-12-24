@@ -1,6 +1,6 @@
 {
   "agent_id": "42f73728-b953-4fa5-96f8-e70a7ca0aa0e",
-  "generated_at": "2025-12-23T00:01:27.732317",
+  "generated_at": "2025-12-24T00:01:15.010742",
   "basic_info": {
     "title": "Winter Embrace",
     "author": "Norsizu",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-06T14:48:19.484000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/winter-embrace",
-    "days_since_published": 46
+    "days_since_published": 47
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 89,
       "runs_rank": 94,
-      "likes_rank": 208,
-      "total_agents": 260,
-      "views_percentile": 65.8,
-      "runs_percentile": 63.8,
-      "likes_percentile": 20.0
+      "likes_rank": 176,
+      "total_agents": 261,
+      "views_percentile": 65.9,
+      "runs_percentile": 64.0,
+      "likes_percentile": 32.6
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 49,
+    "days_tracked": 50,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 33,
+    "days_tracked": 34,
     "last_7_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 0,
+      "runs_rank_change": 1,
+      "likes_rank_change": 65
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 37,
+    "data_points": 38,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-23T08:00:59.635142",
+    "last_recorded": "2025-12-24T08:01:01.461546",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -93,7 +93,8 @@
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
-        "2025-12-23T08:00:59.635142"
+        "2025-12-23T08:00:59.635142",
+        "2025-12-24T08:01:01.461546"
       ],
       "views_rank": [
         null,
@@ -123,6 +124,7 @@
         null,
         null,
         null,
+        89,
         89,
         89,
         89,
@@ -171,6 +173,7 @@
         94,
         94,
         94,
+        94,
         94
       ],
       "likes_rank": [
@@ -210,7 +213,8 @@
         201,
         201,
         201,
-        208
+        208,
+        176
       ]
     }
   },
@@ -222,7 +226,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #89 out of 260 active agents."
+      "description": "This agent is currently ranked #89 out of 261 active agents."
     }
   ]
 }

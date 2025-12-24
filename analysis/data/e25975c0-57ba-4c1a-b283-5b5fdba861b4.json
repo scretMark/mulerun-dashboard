@@ -1,6 +1,6 @@
 {
   "agent_id": "e25975c0-57ba-4c1a-b283-5b5fdba861b4",
-  "generated_at": "2025-12-23T00:01:28.809266",
+  "generated_at": "2025-12-24T00:01:16.035952",
   "basic_info": {
     "title": "Tattoo-Style Pencil Sketch Generator",
     "author": "AFei_AITalk",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-04T16:24:00.105000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AFei_AITalk/tattoo-style-pencil-sketch-generator",
-    "days_since_published": 48
+    "days_since_published": 49
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 151,
+      "views_rank": 152,
       "runs_rank": 232,
-      "likes_rank": 7,
-      "total_agents": 260,
-      "views_percentile": 41.9,
-      "runs_percentile": 10.8,
-      "likes_percentile": 97.3
+      "likes_rank": 38,
+      "total_agents": 261,
+      "views_percentile": 41.8,
+      "runs_percentile": 11.1,
+      "likes_percentile": 85.4
     },
-    "tier": "Elite",
-    "tier_class": "elite",
-    "days_tracked": 50,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 51,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 33,
+    "days_tracked": 34,
     "last_7_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 3,
+      "runs_rank_change": 10,
+      "likes_rank_change": -71
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 7,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 151
+      "current_rank": 152
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 37,
+    "data_points": 38,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-23T08:00:59.635142",
+    "last_recorded": "2025-12-24T08:01:01.461546",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -93,7 +93,8 @@
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
-        "2025-12-23T08:00:59.635142"
+        "2025-12-23T08:00:59.635142",
+        "2025-12-24T08:01:01.461546"
       ],
       "views_rank": [
         null,
@@ -132,7 +133,8 @@
         151,
         151,
         151,
-        151
+        151,
+        152
       ],
       "runs_rank": [
         null,
@@ -171,6 +173,7 @@
         227,
         227,
         227,
+        232,
         232
       ],
       "likes_rank": [
@@ -210,7 +213,8 @@
         11,
         11,
         12,
-        7
+        7,
+        38
       ]
     }
   },
@@ -221,8 +225,8 @@
   "insights": [
     {
       "type": "positive",
-      "title": "Elite Performance",
-      "description": "Ranked #7 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "title": "High Performer",
+      "description": "Ranked #38 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

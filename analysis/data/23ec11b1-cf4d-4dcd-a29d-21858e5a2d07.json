@@ -1,6 +1,6 @@
 {
   "agent_id": "23ec11b1-cf4d-4dcd-a29d-21858e5a2d07",
-  "generated_at": "2025-12-23T00:01:29.006272",
+  "generated_at": "2025-12-24T00:01:16.224292",
   "basic_info": {
     "title": "Decorate A Room",
     "author": "laughing_code",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-28T17:37:12.367000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@laughing_code/decorate-a-room",
-    "days_since_published": 85
+    "days_since_published": 86
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 43,
       "runs_rank": 73,
-      "likes_rank": 150,
-      "total_agents": 260,
+      "likes_rank": 14,
+      "total_agents": 261,
       "views_percentile": 83.5,
-      "runs_percentile": 71.9,
-      "likes_percentile": 42.3
+      "runs_percentile": 72.0,
+      "likes_percentile": 94.6
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 88,
+    "days_tracked": 89,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 33,
+    "days_tracked": 34,
     "last_7_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 1,
+      "runs_rank_change": 0,
+      "likes_rank_change": -118
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -44,7 +44,7 @@
     "all_time": {
       "best_views_rank": 42,
       "best_runs_rank": 72,
-      "best_likes_rank": 132,
+      "best_likes_rank": 14,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 43
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 37,
+    "data_points": 38,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-23T08:00:59.635142",
+    "last_recorded": "2025-12-24T08:01:01.461546",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -93,7 +93,8 @@
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
-        "2025-12-23T08:00:59.635142"
+        "2025-12-23T08:00:59.635142",
+        "2025-12-24T08:01:01.461546"
       ],
       "views_rank": [
         null,
@@ -129,6 +130,7 @@
         42,
         42,
         42,
+        43,
         43,
         43,
         43,
@@ -171,6 +173,7 @@
         74,
         74,
         75,
+        73,
         73
       ],
       "likes_rank": [
@@ -210,7 +213,8 @@
         141,
         141,
         144,
-        150
+        150,
+        14
       ]
     }
   },
@@ -222,7 +226,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #43 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #14 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "51db6cad-29a6-465e-be01-acd44664deeb",
-  "generated_at": "2025-12-23T00:01:30.317935",
+  "generated_at": "2025-12-24T00:01:17.650278",
   "basic_info": {
     "title": "Design your cup",
     "author": "8bit",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-09T15:24:54.449000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/design-your-cup",
-    "days_since_published": 13
+    "days_since_published": 14
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": null,
       "runs_rank": 211,
-      "likes_rank": 100,
-      "total_agents": 260,
+      "likes_rank": 76,
+      "total_agents": 261,
       "views_percentile": 0,
-      "runs_percentile": 18.8,
-      "likes_percentile": 61.5
+      "runs_percentile": 19.2,
+      "likes_percentile": 70.9
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 14,
+    "days_tracked": 15,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 10,
+    "days_tracked": 11,
     "last_7_days": {
       "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "runs_rank_change": 9,
+      "likes_rank_change": -83
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -44,7 +44,7 @@
     "all_time": {
       "best_views_rank": 244,
       "best_runs_rank": 201,
-      "best_likes_rank": 100,
+      "best_likes_rank": 76,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": null
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 14,
+    "data_points": 15,
     "first_recorded": "2025-12-13T08:00:26.854786",
-    "last_recorded": "2025-12-23T08:00:59.635142",
+    "last_recorded": "2025-12-24T08:01:01.461546",
     "time_series": {
       "dates": [
         "2025-12-13T08:00:26.854786",
@@ -70,7 +70,8 @@
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
-        "2025-12-23T08:00:59.635142"
+        "2025-12-23T08:00:59.635142",
+        "2025-12-24T08:01:01.461546"
       ],
       "views_rank": [
         null,
@@ -86,6 +87,7 @@
         249,
         249,
         249,
+        null,
         null
       ],
       "runs_rank": [
@@ -102,6 +104,7 @@
         206,
         206,
         206,
+        211,
         211
       ],
       "likes_rank": [
@@ -118,7 +121,8 @@
         100,
         100,
         100,
-        100
+        100,
+        76
       ]
     }
   },
@@ -137,7 +141,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #N/A out of 260 active agents."
+      "description": "This agent is currently ranked #N/A out of 261 active agents."
     }
   ]
 }

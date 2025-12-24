@@ -1,6 +1,6 @@
 {
   "agent_id": "0066aba1-5246-4c07-870b-f2bffb4396a9",
-  "generated_at": "2025-12-23T00:01:27.943287",
+  "generated_at": "2025-12-24T00:01:15.274121",
   "basic_info": {
     "title": "Cinematic Rooftop",
     "author": "Lucas",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-12T18:53:01.452000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/cinematic-rooftop",
-    "days_since_published": 40
+    "days_since_published": 41
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 238,
       "runs_rank": null,
-      "likes_rank": 201,
-      "total_agents": 260,
-      "views_percentile": 8.5,
+      "likes_rank": 214,
+      "total_agents": 261,
+      "views_percentile": 8.8,
       "runs_percentile": 0,
-      "likes_percentile": 22.7
+      "likes_percentile": 18.0
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 42,
+    "days_tracked": 43,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 33,
+    "days_tracked": 34,
     "last_7_days": {
-      "views_rank_change": null,
+      "views_rank_change": 11,
       "runs_rank_change": null,
-      "likes_rank_change": null
+      "likes_rank_change": -27
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 37,
+    "data_points": 38,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-23T08:00:59.635142",
+    "last_recorded": "2025-12-24T08:01:01.461546",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -93,7 +93,8 @@
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
-        "2025-12-23T08:00:59.635142"
+        "2025-12-23T08:00:59.635142",
+        "2025-12-24T08:01:01.461546"
       ],
       "views_rank": [
         null,
@@ -132,6 +133,7 @@
         233,
         233,
         233,
+        238,
         238
       ],
       "runs_rank": [
@@ -171,6 +173,7 @@
         null,
         null,
         250,
+        null,
         null
       ],
       "likes_rank": [
@@ -210,7 +213,8 @@
         194,
         194,
         195,
-        201
+        201,
+        214
       ]
     }
   },
@@ -222,7 +226,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #238 out of 260 active agents."
+      "description": "This agent is currently ranked #238 out of 261 active agents."
     }
   ]
 }

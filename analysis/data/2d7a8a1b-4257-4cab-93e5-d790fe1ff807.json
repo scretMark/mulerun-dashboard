@@ -1,6 +1,6 @@
 {
   "agent_id": "2d7a8a1b-4257-4cab-93e5-d790fe1ff807",
-  "generated_at": "2025-12-23T00:01:30.508679",
+  "generated_at": "2025-12-24T00:01:17.861285",
   "basic_info": {
     "title": "Shorts Script Factory",
     "author": "ali_mohammed2tm",
@@ -11,54 +11,66 @@
     "published_at": "2025-12-18T02:09:10.785000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@ali_mohammed2tm/shorts-script-factory",
-    "days_since_published": 4
+    "days_since_published": 5
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 186,
-      "runs_rank": 120,
-      "likes_rank": 8,
-      "total_agents": 260,
-      "views_percentile": 28.5,
-      "runs_percentile": 53.8,
-      "likes_percentile": 96.9
+      "views_rank": 180,
+      "runs_rank": 118,
+      "likes_rank": 91,
+      "total_agents": 261,
+      "views_percentile": 31.0,
+      "runs_percentile": 54.8,
+      "likes_percentile": 65.1
     },
-    "tier": "Elite",
-    "tier_class": "elite",
-    "days_tracked": 0,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 1,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 0,
-    "last_7_days": {},
-    "last_30_days": {},
+    "days_tracked": 1,
+    "last_7_days": {
+      "views_rank_change": -6,
+      "runs_rank_change": -2,
+      "likes_rank_change": 83
+    },
+    "last_30_days": {
+      "views_rank_change": -6,
+      "runs_rank_change": -2,
+      "likes_rank_change": 83
+    },
     "all_time": {
-      "best_views_rank": 186,
-      "best_runs_rank": 120,
+      "best_views_rank": 180,
+      "best_runs_rank": 118,
       "best_likes_rank": 8,
       "days_in_top_10": 0,
       "first_rank": 186,
-      "current_rank": 186
+      "current_rank": 180
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 1,
+    "data_points": 2,
     "first_recorded": "2025-12-23T08:00:59.635142",
-    "last_recorded": "2025-12-23T08:00:59.635142",
+    "last_recorded": "2025-12-24T08:01:01.461546",
     "time_series": {
       "dates": [
-        "2025-12-23T08:00:59.635142"
+        "2025-12-23T08:00:59.635142",
+        "2025-12-24T08:01:01.461546"
       ],
       "views_rank": [
-        186
+        186,
+        180
       ],
       "runs_rank": [
-        120
+        120,
+        118
       ],
       "likes_rank": [
-        8
+        8,
+        91
       ]
     }
   },
@@ -76,8 +88,8 @@
   "insights": [
     {
       "type": "positive",
-      "title": "Elite Performance",
-      "description": "Ranked #8 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "title": "Hot Trend",
+      "description": "Up 6 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

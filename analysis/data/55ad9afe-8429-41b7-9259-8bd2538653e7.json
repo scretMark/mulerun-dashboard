@@ -1,6 +1,6 @@
 {
   "agent_id": "55ad9afe-8429-41b7-9259-8bd2538653e7",
-  "generated_at": "2025-12-23T00:01:28.374987",
+  "generated_at": "2025-12-24T00:01:15.651993",
   "basic_info": {
     "title": "LinkMatch: Smart Job Matcher",
     "author": "YuTou_baby",
@@ -11,30 +11,30 @@
     "published_at": "2025-08-21T21:03:54.436000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@YuTou_baby/linkmatch-smart-job-matcher",
-    "days_since_published": 123
+    "days_since_published": 124
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 29,
       "runs_rank": 38,
-      "likes_rank": 25,
-      "total_agents": 260,
-      "views_percentile": 88.8,
+      "likes_rank": 45,
+      "total_agents": 261,
+      "views_percentile": 88.9,
       "runs_percentile": 85.4,
-      "likes_percentile": 90.4
+      "likes_percentile": 82.8
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 101,
+    "days_tracked": 102,
     "price": 8.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 33,
+    "days_tracked": 34,
     "last_7_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 1,
+      "runs_rank_change": 1,
+      "likes_rank_change": -112
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 37,
+    "data_points": 38,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-23T08:00:59.635142",
+    "last_recorded": "2025-12-24T08:01:01.461546",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -93,7 +93,8 @@
         "2025-12-20T08:01:00.398750",
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
-        "2025-12-23T08:00:59.635142"
+        "2025-12-23T08:00:59.635142",
+        "2025-12-24T08:01:01.461546"
       ],
       "views_rank": [
         null,
@@ -129,6 +130,7 @@
         28,
         28,
         28,
+        29,
         29,
         29,
         29,
@@ -171,6 +173,7 @@
         38,
         38,
         38,
+        38,
         38
       ],
       "likes_rank": [
@@ -210,7 +213,8 @@
         24,
         25,
         24,
-        25
+        25,
+        45
       ]
     }
   },
@@ -222,7 +226,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #25 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #29 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }
