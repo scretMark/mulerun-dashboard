@@ -1,6 +1,6 @@
 {
   "agent_id": "bf05b9d8-f133-4873-8976-2939575dacdb",
-  "generated_at": "2025-12-24T00:01:17.483128",
+  "generated_at": "2025-12-25T00:01:15.874221",
   "basic_info": {
     "title": "Your profession in the 20th century",
     "author": "8bit",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-09T14:26:51.198000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/your-profession-in-the-20th-century",
-    "days_since_published": 14
+    "days_since_published": 15
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 231,
       "runs_rank": 121,
-      "likes_rank": 61,
-      "total_agents": 261,
-      "views_percentile": 11.5,
-      "runs_percentile": 53.6,
-      "likes_percentile": 76.6
+      "likes_rank": 78,
+      "total_agents": 262,
+      "views_percentile": 11.8,
+      "runs_percentile": 53.8,
+      "likes_percentile": 70.2
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 16,
+    "days_tracked": 17,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 12,
+    "days_tracked": 13,
     "last_7_days": {
-      "views_rank_change": 7,
-      "runs_rank_change": 3,
-      "likes_rank_change": -86
+      "views_rank_change": 4,
+      "runs_rank_change": 2,
+      "likes_rank_change": 67
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 16,
+    "data_points": 17,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2025-12-24T08:01:01.461546",
+    "last_recorded": "2025-12-25T08:01:00.196993",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -72,7 +72,8 @@
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
-        "2025-12-24T08:01:01.461546"
+        "2025-12-24T08:01:01.461546",
+        "2025-12-25T08:01:00.196993"
       ],
       "views_rank": [
         null,
@@ -89,6 +90,7 @@
         229,
         229,
         229,
+        231,
         231,
         231
       ],
@@ -108,6 +110,7 @@
         120,
         120,
         121,
+        121,
         121
       ],
       "likes_rank": [
@@ -126,7 +129,8 @@
         9,
         10,
         13,
-        61
+        61,
+        78
       ]
     }
   },
@@ -145,7 +149,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #231 out of 261 active agents."
+      "description": "This agent is currently ranked #231 out of 262 active agents."
     }
   ]
 }

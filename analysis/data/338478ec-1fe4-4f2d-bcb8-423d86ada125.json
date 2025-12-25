@@ -1,6 +1,6 @@
 {
   "agent_id": "338478ec-1fe4-4f2d-bcb8-423d86ada125",
-  "generated_at": "2025-12-24T00:01:15.910696",
+  "generated_at": "2025-12-25T00:01:14.564098",
   "basic_info": {
     "title": "Halloween Popcorn",
     "author": "Lucas",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-29T22:12:35.458000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/halloween-popcorn",
-    "days_since_published": 55
+    "days_since_published": 56
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 104,
+      "views_rank": 108,
       "runs_rank": 95,
-      "likes_rank": 169,
-      "total_agents": 261,
-      "views_percentile": 60.2,
-      "runs_percentile": 63.6,
-      "likes_percentile": 35.2
+      "likes_rank": 174,
+      "total_agents": 262,
+      "views_percentile": 58.8,
+      "runs_percentile": 63.7,
+      "likes_percentile": 33.6
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 57,
+    "days_tracked": 58,
     "price": 49.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "last_7_days": {
-      "views_rank_change": 2,
-      "runs_rank_change": 1,
-      "likes_rank_change": 19
+      "views_rank_change": 6,
+      "runs_rank_change": 0,
+      "likes_rank_change": 16
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 150,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 104
+      "current_rank": 108
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 38,
+    "data_points": 39,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-24T08:01:01.461546",
+    "last_recorded": "2025-12-25T08:01:00.196993",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -94,7 +94,8 @@
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
-        "2025-12-24T08:01:01.461546"
+        "2025-12-24T08:01:01.461546",
+        "2025-12-25T08:01:00.196993"
       ],
       "views_rank": [
         null,
@@ -134,7 +135,8 @@
         103,
         104,
         104,
-        104
+        104,
+        108
       ],
       "runs_rank": [
         null,
@@ -169,6 +171,7 @@
         94,
         94,
         94,
+        95,
         95,
         95,
         95,
@@ -214,7 +217,8 @@
         166,
         166,
         171,
-        169
+        169,
+        174
       ]
     }
   },
@@ -226,7 +230,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #104 out of 261 active agents."
+      "description": "This agent is currently ranked #108 out of 262 active agents."
     }
   ]
 }

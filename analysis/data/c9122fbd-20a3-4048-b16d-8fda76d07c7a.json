@@ -1,6 +1,6 @@
 {
   "agent_id": "c9122fbd-20a3-4048-b16d-8fda76d07c7a",
-  "generated_at": "2025-12-24T00:01:17.544529",
+  "generated_at": "2025-12-25T00:01:15.925810",
   "basic_info": {
     "title": "Design your quilt",
     "author": "8bit",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-09T11:20:27.693000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/design-your-quilt",
-    "days_since_published": 14
+    "days_since_published": 15
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": null,
       "runs_rank": 215,
-      "likes_rank": 69,
-      "total_agents": 261,
+      "likes_rank": 84,
+      "total_agents": 262,
       "views_percentile": 0,
-      "runs_percentile": 17.6,
-      "likes_percentile": 73.6
+      "runs_percentile": 17.9,
+      "likes_percentile": 67.9
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 16,
+    "days_tracked": 17,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 12,
+    "days_tracked": 13,
     "last_7_days": {
       "views_rank_change": null,
-      "runs_rank_change": 9,
-      "likes_rank_change": -69
+      "runs_rank_change": 8,
+      "likes_rank_change": 36
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 16,
+    "data_points": 17,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2025-12-24T08:01:01.461546",
+    "last_recorded": "2025-12-25T08:01:00.196993",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -72,7 +72,8 @@
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
-        "2025-12-24T08:01:01.461546"
+        "2025-12-24T08:01:01.461546",
+        "2025-12-25T08:01:00.196993"
       ],
       "views_rank": [
         null,
@@ -90,6 +91,7 @@
         244,
         244,
         250,
+        null,
         null
       ],
       "runs_rank": [
@@ -107,6 +109,7 @@
         211,
         211,
         211,
+        215,
         215,
         215
       ],
@@ -126,7 +129,8 @@
         46,
         48,
         48,
-        69
+        69,
+        84
       ]
     }
   },
@@ -145,7 +149,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #N/A out of 261 active agents."
+      "description": "This agent is currently ranked #N/A out of 262 active agents."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "6daddca4-ff6f-4e6e-8b50-c38ea9c93c8b",
-  "generated_at": "2025-12-24T00:01:16.794021",
+  "generated_at": "2025-12-25T00:01:15.287745",
   "basic_info": {
     "title": "Movie Poster Design",
     "author": "summerail",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-12T14:14:16.439000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/movie-poster-design",
-    "days_since_published": 72
+    "days_since_published": 73
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 153,
       "runs_rank": 131,
-      "likes_rank": 181,
-      "total_agents": 261,
-      "views_percentile": 41.4,
-      "runs_percentile": 49.8,
-      "likes_percentile": 30.7
+      "likes_rank": 186,
+      "total_agents": 262,
+      "views_percentile": 41.6,
+      "runs_percentile": 50.0,
+      "likes_percentile": 29.0
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 67,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 68,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "last_7_days": {
       "views_rank_change": 3,
-      "runs_rank_change": 5,
-      "likes_rank_change": 177
+      "runs_rank_change": 3,
+      "likes_rank_change": -42
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 38,
+    "data_points": 39,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-24T08:01:01.461546",
+    "last_recorded": "2025-12-25T08:01:00.196993",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -94,7 +94,8 @@
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
-        "2025-12-24T08:01:01.461546"
+        "2025-12-24T08:01:01.461546",
+        "2025-12-25T08:01:00.196993"
       ],
       "views_rank": [
         null,
@@ -133,6 +134,7 @@
         152,
         152,
         152,
+        153,
         153,
         153
       ],
@@ -174,6 +176,7 @@
         128,
         129,
         131,
+        131,
         131
       ],
       "likes_rank": [
@@ -214,7 +217,8 @@
         236,
         234,
         239,
-        181
+        181,
+        186
       ]
     }
   },
@@ -226,7 +230,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #153 out of 261 active agents."
+      "description": "This agent is currently ranked #153 out of 262 active agents."
     }
   ]
 }

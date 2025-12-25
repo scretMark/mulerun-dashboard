@@ -1,6 +1,6 @@
 {
   "agent_id": "53e9294d-534f-4e59-9ebb-2098952c4641",
-  "generated_at": "2025-12-24T00:01:17.766709",
+  "generated_at": "2025-12-25T00:01:16.150700",
   "basic_info": {
     "title": "Pixel Christmas Dance Maker",
     "author": "nzwhouxvbbb094f",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-12T16:35:29.767000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@nzwhouxvbbb094f/pixel-christmas-dance-maker",
-    "days_since_published": 11
+    "days_since_published": 12
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 229,
       "runs_rank": 233,
-      "likes_rank": 40,
-      "total_agents": 261,
-      "views_percentile": 12.3,
-      "runs_percentile": 10.7,
-      "likes_percentile": 84.7
+      "likes_rank": 58,
+      "total_agents": 262,
+      "views_percentile": 12.6,
+      "runs_percentile": 11.1,
+      "likes_percentile": 77.9
     },
-    "tier": "High",
-    "tier_class": "high",
-    "days_tracked": 6,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 7,
     "price": 71.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 5,
+    "days_tracked": 6,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": -4,
-      "likes_rank_change": 13
+      "likes_rank_change": 31
     },
     "last_30_days": {
       "views_rank_change": 1,
       "runs_rank_change": -4,
-      "likes_rank_change": 13
+      "likes_rank_change": 31
     },
     "all_time": {
       "best_views_rank": 227,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 6,
+    "data_points": 7,
     "first_recorded": "2025-12-18T15:35:16.146705",
-    "last_recorded": "2025-12-24T08:01:01.461546",
+    "last_recorded": "2025-12-25T08:01:00.196993",
     "time_series": {
       "dates": [
         "2025-12-18T15:35:16.146705",
@@ -62,13 +62,15 @@
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
-        "2025-12-24T08:01:01.461546"
+        "2025-12-24T08:01:01.461546",
+        "2025-12-25T08:01:00.196993"
       ],
       "views_rank": [
         228,
         227,
         227,
         227,
+        229,
         229,
         229
       ],
@@ -78,6 +80,7 @@
         230,
         230,
         233,
+        233,
         233
       ],
       "likes_rank": [
@@ -86,7 +89,8 @@
         29,
         29,
         16,
-        40
+        40,
+        58
       ]
     }
   },
@@ -103,9 +107,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "High Performer",
-      "description": "Ranked #40 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #229 out of 262 active agents."
     }
   ]
 }

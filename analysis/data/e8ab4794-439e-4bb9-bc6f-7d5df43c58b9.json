@@ -1,6 +1,6 @@
 {
   "agent_id": "e8ab4794-439e-4bb9-bc6f-7d5df43c58b9",
-  "generated_at": "2025-12-24T00:01:17.626856",
+  "generated_at": "2025-12-25T00:01:16.007779",
   "basic_info": {
     "title": "Navarasa Actor - The 9 Emotions Grid",
     "author": "hemanth_ching9j",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-12T01:07:30.535000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@hemanth_ching9j/navarasa-actor-the-9-emotions-grid",
-    "days_since_published": 11
+    "days_since_published": 12
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 210,
-      "runs_rank": 168,
-      "likes_rank": 36,
-      "total_agents": 261,
-      "views_percentile": 19.5,
-      "runs_percentile": 35.6,
-      "likes_percentile": 86.2
+      "runs_rank": 169,
+      "likes_rank": 54,
+      "total_agents": 262,
+      "views_percentile": 19.8,
+      "runs_percentile": 35.5,
+      "likes_percentile": 79.4
     },
-    "tier": "High",
-    "tier_class": "high",
-    "days_tracked": 15,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 16,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 11,
+    "days_tracked": 12,
     "last_7_days": {
-      "views_rank_change": 6,
-      "runs_rank_change": -1,
-      "likes_rank_change": -175
+      "views_rank_change": 5,
+      "runs_rank_change": -3,
+      "likes_rank_change": 31
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 15,
+    "data_points": 16,
     "first_recorded": "2025-12-13T08:00:26.854786",
-    "last_recorded": "2025-12-24T08:01:01.461546",
+    "last_recorded": "2025-12-25T08:01:00.196993",
     "time_series": {
       "dates": [
         "2025-12-13T08:00:26.854786",
@@ -71,7 +71,8 @@
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
-        "2025-12-24T08:01:01.461546"
+        "2025-12-24T08:01:01.461546",
+        "2025-12-25T08:01:00.196993"
       ],
       "views_rank": [
         null,
@@ -87,6 +88,7 @@
         208,
         209,
         209,
+        210,
         210,
         210
       ],
@@ -105,7 +107,8 @@
         175,
         175,
         167,
-        168
+        168,
+        169
       ],
       "likes_rank": [
         null,
@@ -122,7 +125,8 @@
         22,
         21,
         20,
-        36
+        36,
+        54
       ]
     }
   },
@@ -139,9 +143,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "High Performer",
-      "description": "Ranked #36 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #210 out of 262 active agents."
     }
   ]
 }

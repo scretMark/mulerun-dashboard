@@ -1,6 +1,6 @@
 {
   "agent_id": "55ad9afe-8429-41b7-9259-8bd2538653e7",
-  "generated_at": "2025-12-24T00:01:15.651993",
+  "generated_at": "2025-12-25T00:01:14.279297",
   "basic_info": {
     "title": "LinkMatch: Smart Job Matcher",
     "author": "YuTou_baby",
@@ -11,30 +11,30 @@
     "published_at": "2025-08-21T21:03:54.436000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@YuTou_baby/linkmatch-smart-job-matcher",
-    "days_since_published": 124
+    "days_since_published": 125
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 29,
       "runs_rank": 38,
-      "likes_rank": 45,
-      "total_agents": 261,
+      "likes_rank": 63,
+      "total_agents": 262,
       "views_percentile": 88.9,
-      "runs_percentile": 85.4,
-      "likes_percentile": 82.8
+      "runs_percentile": 85.5,
+      "likes_percentile": 76.0
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 102,
+    "days_tracked": 103,
     "price": 8.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 1,
-      "likes_rank_change": -112
+      "likes_rank_change": 42
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 38,
+    "data_points": 39,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-24T08:01:01.461546",
+    "last_recorded": "2025-12-25T08:01:00.196993",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -94,7 +94,8 @@
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
-        "2025-12-24T08:01:01.461546"
+        "2025-12-24T08:01:01.461546",
+        "2025-12-25T08:01:00.196993"
       ],
       "views_rank": [
         null,
@@ -130,6 +131,7 @@
         28,
         28,
         28,
+        29,
         29,
         29,
         29,
@@ -174,6 +176,7 @@
         38,
         38,
         38,
+        38,
         38
       ],
       "likes_rank": [
@@ -214,7 +217,8 @@
         25,
         24,
         25,
-        45
+        45,
+        63
       ]
     }
   },

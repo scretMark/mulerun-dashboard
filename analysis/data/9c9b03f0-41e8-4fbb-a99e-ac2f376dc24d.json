@@ -1,6 +1,6 @@
 {
   "agent_id": "9c9b03f0-41e8-4fbb-a99e-ac2f376dc24d",
-  "generated_at": "2025-12-24T00:01:15.198259",
+  "generated_at": "2025-12-25T00:01:13.711051",
   "basic_info": {
     "title": "YouTube Video to Social Content",
     "author": "YuTou_baby",
@@ -11,30 +11,30 @@
     "published_at": "2025-08-27T11:52:15.881000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@YuTou_baby/youtube-video-to-social-content",
-    "days_since_published": 118
+    "days_since_published": 119
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 13,
       "runs_rank": 55,
-      "likes_rank": 15,
-      "total_agents": 261,
+      "likes_rank": 34,
+      "total_agents": 262,
       "views_percentile": 95.0,
-      "runs_percentile": 78.9,
-      "likes_percentile": 94.3
+      "runs_percentile": 79.0,
+      "likes_percentile": 87.0
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 58,
+    "days_tracked": 59,
     "price": 8.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 2,
-      "likes_rank_change": -177
+      "runs_rank_change": 1,
+      "likes_rank_change": -196
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 38,
+    "data_points": 39,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-24T08:01:01.461546",
+    "last_recorded": "2025-12-25T08:01:00.196993",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -94,7 +94,8 @@
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
-        "2025-12-24T08:01:01.461546"
+        "2025-12-24T08:01:01.461546",
+        "2025-12-25T08:01:00.196993"
       ],
       "views_rank": [
         null,
@@ -124,6 +125,7 @@
         null,
         null,
         null,
+        13,
         13,
         13,
         13,
@@ -174,6 +176,7 @@
         54,
         54,
         55,
+        55,
         55
       ],
       "likes_rank": [
@@ -214,7 +217,8 @@
         234,
         240,
         248,
-        15
+        15,
+        34
       ]
     }
   },

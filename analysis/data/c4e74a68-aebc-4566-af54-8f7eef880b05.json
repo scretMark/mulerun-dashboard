@@ -1,6 +1,6 @@
 {
   "agent_id": "c4e74a68-aebc-4566-af54-8f7eef880b05",
-  "generated_at": "2025-12-24T00:01:17.357562",
+  "generated_at": "2025-12-25T00:01:15.794202",
   "basic_info": {
     "title": "CoinAnalyst Pro",
     "author": "Barry",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-06T23:56:50.364000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Barry/coinanalyst-pro",
-    "days_since_published": 17
+    "days_since_published": 18
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 221,
-      "runs_rank": 133,
-      "likes_rank": 24,
-      "total_agents": 261,
-      "views_percentile": 15.3,
-      "runs_percentile": 49.0,
-      "likes_percentile": 90.8
+      "runs_rank": 134,
+      "likes_rank": 42,
+      "total_agents": 262,
+      "views_percentile": 15.6,
+      "runs_percentile": 48.9,
+      "likes_percentile": 84.0
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 18,
+    "days_tracked": 19,
     "price": 78.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 14,
+    "days_tracked": 15,
     "last_7_days": {
       "views_rank_change": 7,
       "runs_rank_change": 5,
-      "likes_rank_change": -130
+      "likes_rank_change": 30
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 18,
+    "data_points": 19,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2025-12-24T08:01:01.461546",
+    "last_recorded": "2025-12-25T08:01:00.196993",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
@@ -74,7 +74,8 @@
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
-        "2025-12-24T08:01:01.461546"
+        "2025-12-24T08:01:01.461546",
+        "2025-12-25T08:01:00.196993"
       ],
       "views_rank": [
         null,
@@ -94,6 +95,7 @@
         217,
         217,
         220,
+        221,
         221
       ],
       "runs_rank": [
@@ -114,7 +116,8 @@
         129,
         130,
         132,
-        133
+        133,
+        134
       ],
       "likes_rank": [
         null,
@@ -134,7 +137,8 @@
         10,
         11,
         11,
-        24
+        24,
+        42
       ]
     }
   },
@@ -153,7 +157,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #24 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #42 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "d9e0b6a3-6954-4afd-8f47-cc248aa5a557",
-  "generated_at": "2025-12-24T00:01:15.898874",
+  "generated_at": "2025-12-25T00:01:14.553267",
   "basic_info": {
     "title": "Marvel fan",
     "author": "Darren",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-22T21:42:27.400000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/marvel-fan",
-    "days_since_published": 92
+    "days_since_published": 93
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 87,
-      "runs_rank": 156,
-      "likes_rank": 216,
-      "total_agents": 261,
-      "views_percentile": 66.7,
-      "runs_percentile": 40.2,
-      "likes_percentile": 17.2
+      "views_rank": 88,
+      "runs_rank": 157,
+      "likes_rank": 221,
+      "total_agents": 262,
+      "views_percentile": 66.4,
+      "runs_percentile": 40.1,
+      "likes_percentile": 15.6
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 93,
+    "days_tracked": 94,
     "price": 66.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "last_7_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": 12,
-      "likes_rank_change": 158
+      "views_rank_change": 1,
+      "runs_rank_change": 10,
+      "likes_rank_change": 15
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 58,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 87
+      "current_rank": 88
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 38,
+    "data_points": 39,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-24T08:01:01.461546",
+    "last_recorded": "2025-12-25T08:01:00.196993",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -94,7 +94,8 @@
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
-        "2025-12-24T08:01:01.461546"
+        "2025-12-24T08:01:01.461546",
+        "2025-12-25T08:01:00.196993"
       ],
       "views_rank": [
         null,
@@ -134,7 +135,8 @@
         87,
         87,
         87,
-        87
+        87,
+        88
       ],
       "runs_rank": [
         null,
@@ -174,7 +176,8 @@
         152,
         152,
         156,
-        156
+        156,
+        157
       ],
       "likes_rank": [
         null,
@@ -214,7 +217,8 @@
         218,
         216,
         223,
-        216
+        216,
+        221
       ]
     }
   },
@@ -226,7 +230,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #87 out of 261 active agents."
+      "description": "This agent is currently ranked #88 out of 262 active agents."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "6faa15dc-b0e8-499f-8ff7-8cc9c0553837",
-  "generated_at": "2025-12-24T00:01:15.963379",
+  "generated_at": "2025-12-25T00:01:14.615746",
   "basic_info": {
     "title": "Minimalist Origami Photo",
     "author": "Darren",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-20T11:31:28.113000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/minimalist-origami-photo",
-    "days_since_published": 64
+    "days_since_published": 65
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 130,
+      "views_rank": 132,
       "runs_rank": 140,
-      "likes_rank": 171,
-      "total_agents": 261,
-      "views_percentile": 50.2,
-      "runs_percentile": 46.4,
-      "likes_percentile": 34.5
+      "likes_rank": 176,
+      "total_agents": 262,
+      "views_percentile": 49.6,
+      "runs_percentile": 46.6,
+      "likes_percentile": 32.8
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 60,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 61,
     "price": 51.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "last_7_days": {
-      "views_rank_change": 2,
-      "runs_rank_change": 6,
-      "likes_rank_change": 166
+      "views_rank_change": 3,
+      "runs_rank_change": 5,
+      "likes_rank_change": 9
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 5,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 130
+      "current_rank": 132
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 38,
+    "data_points": 39,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-24T08:01:01.461546",
+    "last_recorded": "2025-12-25T08:01:00.196993",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -94,7 +94,8 @@
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
-        "2025-12-24T08:01:01.461546"
+        "2025-12-24T08:01:01.461546",
+        "2025-12-25T08:01:00.196993"
       ],
       "views_rank": [
         null,
@@ -134,7 +135,8 @@
         129,
         129,
         130,
-        130
+        130,
+        132
       ],
       "runs_rank": [
         null,
@@ -174,6 +176,7 @@
         137,
         137,
         139,
+        140,
         140
       ],
       "likes_rank": [
@@ -214,7 +217,8 @@
         172,
         173,
         179,
-        171
+        171,
+        176
       ]
     }
   },
@@ -226,7 +230,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #130 out of 261 active agents."
+      "description": "This agent is currently ranked #132 out of 262 active agents."
     }
   ]
 }

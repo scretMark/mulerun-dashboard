@@ -1,6 +1,6 @@
 {
   "agent_id": "69f8c0b4-a4e4-499a-854a-0b47b2b50a12",
-  "generated_at": "2025-12-24T00:01:17.054527",
+  "generated_at": "2025-12-25T00:01:15.538064",
   "basic_info": {
     "title": "ShadowShift",
     "author": "luckyy",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-20T19:16:57.498000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@luckyy/shadowshift",
-    "days_since_published": 33
+    "days_since_published": 34
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 217,
       "runs_rank": 113,
-      "likes_rank": 192,
-      "total_agents": 261,
-      "views_percentile": 16.9,
-      "runs_percentile": 56.7,
-      "likes_percentile": 26.4
+      "likes_rank": 197,
+      "total_agents": 262,
+      "views_percentile": 17.2,
+      "runs_percentile": 56.9,
+      "likes_percentile": 24.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 36,
+    "days_tracked": 37,
     "price": 23.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 30,
+    "days_tracked": 31,
     "last_7_days": {
-      "views_rank_change": 11,
-      "runs_rank_change": 1,
-      "likes_rank_change": 25
+      "views_rank_change": 10,
+      "runs_rank_change": 0,
+      "likes_rank_change": 16
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 35,
+    "data_points": 36,
     "first_recorded": "2025-11-23T13:27:48.290198",
-    "last_recorded": "2025-12-24T08:01:01.461546",
+    "last_recorded": "2025-12-25T08:01:00.196993",
     "time_series": {
       "dates": [
         "2025-11-23T13:27:48.290198",
@@ -91,7 +91,8 @@
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
-        "2025-12-24T08:01:01.461546"
+        "2025-12-24T08:01:01.461546",
+        "2025-12-25T08:01:00.196993"
       ],
       "views_rank": [
         null,
@@ -128,6 +129,7 @@
         214,
         214,
         217,
+        217,
         217
       ],
       "runs_rank": [
@@ -160,6 +162,7 @@
         112,
         112,
         112,
+        113,
         113,
         113,
         113,
@@ -202,7 +205,8 @@
         188,
         188,
         192,
-        192
+        192,
+        197
       ]
     }
   },
@@ -221,7 +225,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #217 out of 261 active agents."
+      "description": "This agent is currently ranked #217 out of 262 active agents."
     }
   ]
 }

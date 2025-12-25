@@ -1,6 +1,6 @@
 {
   "agent_id": "c99a32bb-719f-4046-a55f-c195e46968be",
-  "generated_at": "2025-12-24T00:01:16.410665",
+  "generated_at": "2025-12-25T00:01:14.969068",
   "basic_info": {
     "title": "Hyper-realistic carved wooden",
     "author": "AllenCreator",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-06T15:10:53.711000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AllenCreator/hyper-realistic-carved-wooden",
-    "days_since_published": 78
+    "days_since_published": 79
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 86,
       "runs_rank": 98,
-      "likes_rank": 7,
-      "total_agents": 261,
-      "views_percentile": 67.0,
-      "runs_percentile": 62.5,
-      "likes_percentile": 97.3
+      "likes_rank": 16,
+      "total_agents": 262,
+      "views_percentile": 67.2,
+      "runs_percentile": 62.6,
+      "likes_percentile": 93.9
     },
-    "tier": "Elite",
-    "tier_class": "elite",
-    "days_tracked": 60,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 61,
     "price": 15.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 1,
-      "likes_rank_change": -113
+      "runs_rank_change": 0,
+      "likes_rank_change": -77
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 38,
+    "data_points": 39,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-24T08:01:01.461546",
+    "last_recorded": "2025-12-25T08:01:00.196993",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -94,7 +94,8 @@
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
-        "2025-12-24T08:01:01.461546"
+        "2025-12-24T08:01:01.461546",
+        "2025-12-25T08:01:00.196993"
       ],
       "views_rank": [
         null,
@@ -134,6 +135,7 @@
         85,
         86,
         86,
+        86,
         86
       ],
       "runs_rank": [
@@ -169,6 +171,7 @@
         97,
         97,
         97,
+        98,
         98,
         98,
         98,
@@ -214,7 +217,8 @@
         102,
         102,
         108,
-        7
+        7,
+        16
       ]
     }
   },
@@ -225,8 +229,8 @@
   "insights": [
     {
       "type": "positive",
-      "title": "Elite Performance",
-      "description": "Ranked #7 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "title": "High Performer",
+      "description": "Ranked #16 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

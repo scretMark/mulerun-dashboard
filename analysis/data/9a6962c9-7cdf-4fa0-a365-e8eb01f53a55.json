@@ -1,6 +1,6 @@
 {
   "agent_id": "9a6962c9-7cdf-4fa0-a365-e8eb01f53a55",
-  "generated_at": "2025-12-24T00:01:16.307863",
+  "generated_at": "2025-12-25T00:01:14.882958",
   "basic_info": {
     "title": "Holiday Costume",
     "author": "LinkAIBrain",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-23T22:12:01.948000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/holiday-costume",
-    "days_since_published": 91
+    "days_since_published": 92
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 57,
       "runs_rank": 90,
-      "likes_rank": 148,
-      "total_agents": 261,
+      "likes_rank": 155,
+      "total_agents": 262,
       "views_percentile": 78.2,
-      "runs_percentile": 65.5,
-      "likes_percentile": 43.3
+      "runs_percentile": 65.6,
+      "likes_percentile": 40.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 58,
+    "days_tracked": 59,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 4,
-      "likes_rank_change": -20
+      "likes_rank_change": 15
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 38,
+    "data_points": 39,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-24T08:01:01.461546",
+    "last_recorded": "2025-12-25T08:01:00.196993",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -94,7 +94,8 @@
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
-        "2025-12-24T08:01:01.461546"
+        "2025-12-24T08:01:01.461546",
+        "2025-12-25T08:01:00.196993"
       ],
       "views_rank": [
         null,
@@ -124,6 +125,7 @@
         null,
         null,
         null,
+        57,
         57,
         57,
         57,
@@ -174,6 +176,7 @@
         88,
         88,
         89,
+        90,
         90
       ],
       "likes_rank": [
@@ -214,7 +217,8 @@
         148,
         148,
         154,
-        148
+        148,
+        155
       ]
     }
   },
@@ -226,7 +230,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #57 out of 261 active agents."
+      "description": "This agent is currently ranked #57 out of 262 active agents."
     }
   ]
 }

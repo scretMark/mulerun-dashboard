@@ -1,6 +1,6 @@
 {
   "agent_id": "5f299841-8d14-44c9-8988-6bc4ec3a4abc",
-  "generated_at": "2025-12-24T00:01:15.072720",
+  "generated_at": "2025-12-25T00:01:13.601664",
   "basic_info": {
     "title": "Remove Sora2 Video Watermark",
     "author": "Darren",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-20T12:11:44.378000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/remove-sora2-video-watermark",
-    "days_since_published": 64
+    "days_since_published": 65
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 15,
       "runs_rank": 42,
-      "likes_rank": 219,
-      "total_agents": 261,
+      "likes_rank": 226,
+      "total_agents": 262,
       "views_percentile": 94.3,
-      "runs_percentile": 83.9,
-      "likes_percentile": 16.1
+      "runs_percentile": 84.0,
+      "likes_percentile": 13.7
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 58,
+    "days_tracked": 59,
     "price": 101.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "last_7_days": {
       "views_rank_change": -1,
-      "runs_rank_change": 1,
-      "likes_rank_change": 18
+      "runs_rank_change": 0,
+      "likes_rank_change": 10
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 38,
+    "data_points": 39,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-24T08:01:01.461546",
+    "last_recorded": "2025-12-25T08:01:00.196993",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -94,7 +94,8 @@
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
-        "2025-12-24T08:01:01.461546"
+        "2025-12-24T08:01:01.461546",
+        "2025-12-25T08:01:00.196993"
       ],
       "views_rank": [
         null,
@@ -134,6 +135,7 @@
         15,
         15,
         15,
+        15,
         15
       ],
       "runs_rank": [
@@ -169,6 +171,7 @@
         41,
         41,
         41,
+        42,
         42,
         42,
         42,
@@ -214,7 +217,8 @@
         223,
         225,
         229,
-        219
+        219,
+        226
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "bd3b3d85-2d39-491c-9311-5a11d6019569",
-  "generated_at": "2025-12-24T00:01:17.912797",
+  "generated_at": "2025-12-25T00:01:16.274063",
   "basic_info": {
     "title": "Serene Calm - Sounds and Meditation Experience",
     "author": "Serenetech",
@@ -11,66 +11,70 @@
     "published_at": "2025-12-19T18:30:49.675000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Serenetech/serene-calm-sounds-and-meditation-experience",
-    "days_since_published": 4
+    "days_since_published": 5
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 242,
+      "views_rank": 238,
       "runs_rank": null,
-      "likes_rank": 247,
-      "total_agents": 261,
-      "views_percentile": 7.3,
+      "likes_rank": null,
+      "total_agents": 262,
+      "views_percentile": 9.2,
       "runs_percentile": 0,
-      "likes_percentile": 5.4
+      "likes_percentile": 0
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 1,
+    "days_tracked": 2,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 1,
+    "days_tracked": 2,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 183
+      "likes_rank_change": null
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 183
+      "likes_rank_change": null
     },
     "all_time": {
-      "best_views_rank": 242,
+      "best_views_rank": 238,
       "best_runs_rank": null,
       "best_likes_rank": 64,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 242
+      "current_rank": 238
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 2,
+    "data_points": 3,
     "first_recorded": "2025-12-23T08:00:59.635142",
-    "last_recorded": "2025-12-24T08:01:01.461546",
+    "last_recorded": "2025-12-25T08:01:00.196993",
     "time_series": {
       "dates": [
         "2025-12-23T08:00:59.635142",
-        "2025-12-24T08:01:01.461546"
+        "2025-12-24T08:01:01.461546",
+        "2025-12-25T08:01:00.196993"
       ],
       "views_rank": [
         null,
-        242
+        242,
+        238
       ],
       "runs_rank": [
+        null,
         null,
         null
       ],
       "likes_rank": [
         64,
-        247
+        247,
+        null
       ]
     }
   },
@@ -89,7 +93,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #242 out of 261 active agents."
+      "description": "This agent is currently ranked #238 out of 262 active agents."
     }
   ]
 }

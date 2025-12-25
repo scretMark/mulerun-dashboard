@@ -1,6 +1,6 @@
 {
   "agent_id": "e25975c0-57ba-4c1a-b283-5b5fdba861b4",
-  "generated_at": "2025-12-24T00:01:16.035952",
+  "generated_at": "2025-12-25T00:01:14.658394",
   "basic_info": {
     "title": "Tattoo-Style Pencil Sketch Generator",
     "author": "AFei_AITalk",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-04T16:24:00.105000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AFei_AITalk/tattoo-style-pencil-sketch-generator",
-    "days_since_published": 49
+    "days_since_published": 50
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 152,
       "runs_rank": 232,
-      "likes_rank": 38,
-      "total_agents": 261,
-      "views_percentile": 41.8,
-      "runs_percentile": 11.1,
-      "likes_percentile": 85.4
+      "likes_rank": 56,
+      "total_agents": 262,
+      "views_percentile": 42.0,
+      "runs_percentile": 11.5,
+      "likes_percentile": 78.6
     },
-    "tier": "High",
-    "tier_class": "high",
-    "days_tracked": 51,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 52,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "last_7_days": {
       "views_rank_change": 3,
-      "runs_rank_change": 10,
-      "likes_rank_change": -71
+      "runs_rank_change": 9,
+      "likes_rank_change": 43
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 38,
+    "data_points": 39,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-24T08:01:01.461546",
+    "last_recorded": "2025-12-25T08:01:00.196993",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -94,7 +94,8 @@
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
-        "2025-12-24T08:01:01.461546"
+        "2025-12-24T08:01:01.461546",
+        "2025-12-25T08:01:00.196993"
       ],
       "views_rank": [
         null,
@@ -134,6 +135,7 @@
         151,
         151,
         151,
+        152,
         152
       ],
       "runs_rank": [
@@ -173,6 +175,7 @@
         227,
         227,
         227,
+        232,
         232,
         232
       ],
@@ -214,7 +217,8 @@
         11,
         12,
         7,
-        38
+        38,
+        56
       ]
     }
   },
@@ -224,9 +228,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "High Performer",
-      "description": "Ranked #38 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #152 out of 262 active agents."
     }
   ]
 }

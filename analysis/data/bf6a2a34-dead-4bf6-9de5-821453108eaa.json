@@ -1,6 +1,6 @@
 {
   "agent_id": "bf6a2a34-dead-4bf6-9de5-821453108eaa",
-  "generated_at": "2025-12-24T00:01:14.960851",
+  "generated_at": "2025-12-25T00:01:13.505074",
   "basic_info": {
     "title": "ProHeadshot Studio",
     "author": "Darren",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-20T11:36:43.297000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/proheadshot-studio",
-    "days_since_published": 64
+    "days_since_published": 65
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 37,
       "runs_rank": 44,
-      "likes_rank": 226,
-      "total_agents": 261,
-      "views_percentile": 85.8,
-      "runs_percentile": 83.1,
+      "likes_rank": 227,
+      "total_agents": 262,
+      "views_percentile": 85.9,
+      "runs_percentile": 83.2,
       "likes_percentile": 13.4
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 65,
+    "days_tracked": 66,
     "price": 51.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "last_7_days": {
       "views_rank_change": -1,
       "runs_rank_change": 0,
-      "likes_rank_change": 98
+      "likes_rank_change": -20
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 38,
+    "data_points": 39,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-24T08:01:01.461546",
+    "last_recorded": "2025-12-25T08:01:00.196993",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -94,7 +94,8 @@
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
-        "2025-12-24T08:01:01.461546"
+        "2025-12-24T08:01:01.461546",
+        "2025-12-25T08:01:00.196993"
       ],
       "views_rank": [
         null,
@@ -134,6 +135,7 @@
         39,
         39,
         39,
+        37,
         37
       ],
       "runs_rank": [
@@ -165,6 +167,7 @@
         null,
         null,
         45,
+        44,
         44,
         44,
         44,
@@ -214,7 +217,8 @@
         244,
         246,
         null,
-        226
+        226,
+        227
       ]
     }
   },

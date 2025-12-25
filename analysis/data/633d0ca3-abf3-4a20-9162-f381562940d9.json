@@ -1,6 +1,6 @@
 {
   "agent_id": "633d0ca3-abf3-4a20-9162-f381562940d9",
-  "generated_at": "2025-12-24T00:01:15.295110",
+  "generated_at": "2025-12-25T00:01:13.824558",
   "basic_info": {
     "title": "Kabutack Agent",
     "author": "Ailurus",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-30T18:00:14.557000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Ailurus/kabutack-agent",
-    "days_since_published": 54
+    "days_since_published": 55
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 48,
+      "views_rank": 47,
       "runs_rank": 49,
-      "likes_rank": 220,
-      "total_agents": 261,
-      "views_percentile": 81.6,
-      "runs_percentile": 81.2,
-      "likes_percentile": 15.7
+      "likes_rank": 223,
+      "total_agents": 262,
+      "views_percentile": 82.1,
+      "runs_percentile": 81.3,
+      "likes_percentile": 14.9
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 70,
+    "days_tracked": 71,
     "price": 1.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "last_7_days": {
-      "views_rank_change": 0,
+      "views_rank_change": -1,
       "runs_rank_change": 0,
-      "likes_rank_change": 114
+      "likes_rank_change": -19
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -42,19 +42,19 @@
       "likes_rank_change": null
     },
     "all_time": {
-      "best_views_rank": 48,
+      "best_views_rank": 47,
       "best_runs_rank": 48,
       "best_likes_rank": 106,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 48
+      "current_rank": 47
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 38,
+    "data_points": 39,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-24T08:01:01.461546",
+    "last_recorded": "2025-12-25T08:01:00.196993",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -94,7 +94,8 @@
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
-        "2025-12-24T08:01:01.461546"
+        "2025-12-24T08:01:01.461546",
+        "2025-12-25T08:01:00.196993"
       ],
       "views_rank": [
         null,
@@ -134,7 +135,8 @@
         48,
         48,
         48,
-        48
+        48,
+        47
       ],
       "runs_rank": [
         null,
@@ -166,6 +168,7 @@
         null,
         48,
         48,
+        49,
         49,
         49,
         49,
@@ -214,7 +217,8 @@
         null,
         null,
         null,
-        220
+        220,
+        223
       ]
     }
   },
@@ -226,7 +230,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #48 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #47 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

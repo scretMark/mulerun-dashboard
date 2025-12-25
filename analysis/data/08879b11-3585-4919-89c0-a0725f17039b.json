@@ -1,6 +1,6 @@
 {
   "agent_id": "08879b11-3585-4919-89c0-a0725f17039b",
-  "generated_at": "2025-12-24T00:01:15.757565",
+  "generated_at": "2025-12-25T00:01:14.411928",
   "basic_info": {
     "title": "Amazon Product Search",
     "author": "createAny",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-13T18:19:42.979000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@createAny/amazon-product-search",
-    "days_since_published": 71
+    "days_since_published": 72
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 143,
-      "runs_rank": 134,
-      "likes_rank": 3,
-      "total_agents": 261,
-      "views_percentile": 45.2,
-      "runs_percentile": 48.7,
-      "likes_percentile": 98.9
+      "runs_rank": 132,
+      "likes_rank": 10,
+      "total_agents": 262,
+      "views_percentile": 45.4,
+      "runs_percentile": 49.6,
+      "likes_percentile": 96.2
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 70,
+    "days_tracked": 71,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "last_7_days": {
-      "views_rank_change": -9,
-      "runs_rank_change": 5,
-      "likes_rank_change": -27
+      "views_rank_change": -8,
+      "runs_rank_change": 2,
+      "likes_rank_change": -63
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 38,
+    "data_points": 39,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-24T08:01:01.461546",
+    "last_recorded": "2025-12-25T08:01:00.196993",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -94,7 +94,8 @@
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
-        "2025-12-24T08:01:01.461546"
+        "2025-12-24T08:01:01.461546",
+        "2025-12-25T08:01:00.196993"
       ],
       "views_rank": [
         null,
@@ -134,6 +135,7 @@
         148,
         147,
         142,
+        143,
         143
       ],
       "runs_rank": [
@@ -174,7 +176,8 @@
         130,
         131,
         134,
-        134
+        134,
+        132
       ],
       "likes_rank": [
         null,
@@ -214,7 +217,8 @@
         79,
         80,
         85,
-        3
+        3,
+        10
       ]
     }
   },
@@ -226,12 +230,12 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #3 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #10 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     },
     {
       "type": "positive",
       "title": "Hot Trend",
-      "description": "Up 9 positions in just 7 days - currently trending and gaining rapid visibility!"
+      "description": "Up 8 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

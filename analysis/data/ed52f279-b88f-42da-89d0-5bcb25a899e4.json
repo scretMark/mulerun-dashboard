@@ -1,6 +1,6 @@
 {
   "agent_id": "ed52f279-b88f-42da-89d0-5bcb25a899e4",
-  "generated_at": "2025-12-24T00:01:14.889608",
+  "generated_at": "2025-12-25T00:01:13.453230",
   "basic_info": {
     "title": "White Background",
     "author": "PicCopilot",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-11T19:24:00.925000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/white-background",
-    "days_since_published": 42
+    "days_since_published": 43
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 161,
+      "views_rank": 163,
       "runs_rank": 26,
-      "likes_rank": 215,
-      "total_agents": 261,
-      "views_percentile": 38.3,
-      "runs_percentile": 90.0,
-      "likes_percentile": 17.6
+      "likes_rank": 220,
+      "total_agents": 262,
+      "views_percentile": 37.8,
+      "runs_percentile": 90.1,
+      "likes_percentile": 16.0
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 45,
+    "days_tracked": 46,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 35,
+    "days_tracked": 36,
     "last_7_days": {
-      "views_rank_change": -2,
+      "views_rank_change": 0,
       "runs_rank_change": 3,
-      "likes_rank_change": 119
+      "likes_rank_change": 24
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 96,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 161
+      "current_rank": 163
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 39,
+    "data_points": 40,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-24T08:01:01.461546",
+    "last_recorded": "2025-12-25T08:01:00.196993",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -95,7 +95,8 @@
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
-        "2025-12-24T08:01:01.461546"
+        "2025-12-24T08:01:01.461546",
+        "2025-12-25T08:01:00.196993"
       ],
       "views_rank": [
         null,
@@ -136,7 +137,8 @@
         161,
         160,
         161,
-        161
+        161,
+        163
       ],
       "runs_rank": [
         null,
@@ -176,6 +178,7 @@
         24,
         25,
         25,
+        26,
         26,
         26
       ],
@@ -218,7 +221,8 @@
         210,
         204,
         210,
-        215
+        215,
+        220
       ]
     }
   },

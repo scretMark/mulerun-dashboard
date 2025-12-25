@@ -1,6 +1,6 @@
 {
   "agent_id": "e441e832-e6fd-4f42-8b38-546dce37baea",
-  "generated_at": "2025-12-24T00:01:17.199092",
+  "generated_at": "2025-12-25T00:01:15.623423",
   "basic_info": {
     "title": "Bored Ape NFT avatar",
     "author": "Barry",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-01T00:16:36.080000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Barry/bored-ape-nft-avatar",
-    "days_since_published": 22
+    "days_since_published": 23
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 226,
       "runs_rank": 148,
-      "likes_rank": 74,
-      "total_agents": 261,
-      "views_percentile": 13.4,
-      "runs_percentile": 43.3,
-      "likes_percentile": 71.6
+      "likes_rank": 90,
+      "total_agents": 262,
+      "views_percentile": 13.7,
+      "runs_percentile": 43.5,
+      "likes_percentile": 65.6
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 23,
+    "days_tracked": 24,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 21,
+    "days_tracked": 22,
     "last_7_days": {
-      "views_rank_change": 9,
-      "runs_rank_change": 7,
-      "likes_rank_change": -107
+      "views_rank_change": 6,
+      "runs_rank_change": 6,
+      "likes_rank_change": 56
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 23,
+    "data_points": 24,
     "first_recorded": "2025-12-02T16:52:00.461129",
-    "last_recorded": "2025-12-24T08:01:01.461546",
+    "last_recorded": "2025-12-25T08:01:00.196993",
     "time_series": {
       "dates": [
         "2025-12-02T16:52:00.461129",
@@ -79,7 +79,8 @@
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
-        "2025-12-24T08:01:01.461546"
+        "2025-12-24T08:01:01.461546",
+        "2025-12-25T08:01:00.196993"
       ],
       "views_rank": [
         null,
@@ -104,6 +105,7 @@
         222,
         222,
         225,
+        226,
         226
       ],
       "runs_rank": [
@@ -129,6 +131,7 @@
         144,
         144,
         147,
+        148,
         148
       ],
       "likes_rank": [
@@ -154,7 +157,8 @@
         32,
         31,
         37,
-        74
+        74,
+        90
       ]
     }
   },
@@ -173,7 +177,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #226 out of 261 active agents."
+      "description": "This agent is currently ranked #226 out of 262 active agents."
     }
   ]
 }

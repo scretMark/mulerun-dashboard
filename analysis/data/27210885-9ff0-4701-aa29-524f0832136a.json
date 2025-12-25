@@ -1,6 +1,6 @@
 {
   "agent_id": "27210885-9ff0-4701-aa29-524f0832136a",
-  "generated_at": "2025-12-24T00:01:14.825961",
+  "generated_at": "2025-12-25T00:01:13.389316",
   "basic_info": {
     "title": "Remove Watermark",
     "author": "PicCopilot",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-11T19:20:11.823000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/remove-watermark",
-    "days_since_published": 42
+    "days_since_published": 43
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 160,
       "runs_rank": 25,
-      "likes_rank": 21,
-      "total_agents": 261,
-      "views_percentile": 38.7,
-      "runs_percentile": 90.4,
-      "likes_percentile": 92.0
+      "likes_rank": 38,
+      "total_agents": 262,
+      "views_percentile": 38.9,
+      "runs_percentile": 90.5,
+      "likes_percentile": 85.5
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 45,
+    "days_tracked": 46,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 35,
+    "days_tracked": 36,
     "last_7_days": {
       "views_rank_change": -5,
       "runs_rank_change": 1,
-      "likes_rank_change": -205
+      "likes_rank_change": -163
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 39,
+    "data_points": 40,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-24T08:01:01.461546",
+    "last_recorded": "2025-12-25T08:01:00.196993",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -95,7 +95,8 @@
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
-        "2025-12-24T08:01:01.461546"
+        "2025-12-24T08:01:01.461546",
+        "2025-12-25T08:01:00.196993"
       ],
       "views_rank": [
         null,
@@ -136,6 +137,7 @@
         162,
         162,
         162,
+        160,
         160
       ],
       "runs_rank": [
@@ -176,6 +178,7 @@
         25,
         26,
         26,
+        25,
         25,
         25
       ],
@@ -218,7 +221,8 @@
         203,
         203,
         211,
-        21
+        21,
+        38
       ]
     }
   },
@@ -230,7 +234,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #21 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #25 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

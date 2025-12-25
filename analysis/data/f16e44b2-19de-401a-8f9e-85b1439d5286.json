@@ -1,6 +1,6 @@
 {
   "agent_id": "f16e44b2-19de-401a-8f9e-85b1439d5286",
-  "generated_at": "2025-12-24T00:01:17.532931",
+  "generated_at": "2025-12-25T00:01:15.915807",
   "basic_info": {
     "title": "The room turns into Chinese style",
     "author": "8bit",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-09T10:00:12.121000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/the-room-turns-into-chinese-style",
-    "days_since_published": 14
+    "days_since_published": 15
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": null,
-      "runs_rank": 203,
-      "likes_rank": 87,
-      "total_agents": 261,
+      "runs_rank": 204,
+      "likes_rank": 102,
+      "total_agents": 262,
       "views_percentile": 0,
-      "runs_percentile": 22.2,
-      "likes_percentile": 66.7
+      "runs_percentile": 22.1,
+      "likes_percentile": 61.1
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 16,
+    "days_tracked": 17,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 12,
+    "days_tracked": 13,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": 9,
-      "likes_rank_change": 28
+      "likes_rank_change": 56
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 16,
+    "data_points": 17,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2025-12-24T08:01:01.461546",
+    "last_recorded": "2025-12-25T08:01:00.196993",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -72,7 +72,8 @@
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
-        "2025-12-24T08:01:01.461546"
+        "2025-12-24T08:01:01.461546",
+        "2025-12-25T08:01:00.196993"
       ],
       "views_rank": [
         null,
@@ -89,6 +90,7 @@
         250,
         250,
         250,
+        null,
         null,
         null
       ],
@@ -108,7 +110,8 @@
         197,
         197,
         201,
-        203
+        203,
+        204
       ],
       "likes_rank": [
         null,
@@ -126,7 +129,8 @@
         45,
         46,
         47,
-        87
+        87,
+        102
       ]
     }
   },
@@ -145,7 +149,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #N/A out of 261 active agents."
+      "description": "This agent is currently ranked #N/A out of 262 active agents."
     }
   ]
 }

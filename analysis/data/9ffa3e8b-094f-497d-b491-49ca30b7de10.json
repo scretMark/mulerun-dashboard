@@ -1,6 +1,6 @@
 {
   "agent_id": "9ffa3e8b-094f-497d-b491-49ca30b7de10",
-  "generated_at": "2025-12-24T00:01:14.794404",
+  "generated_at": "2025-12-25T00:01:13.356464",
   "basic_info": {
     "title": "Product Creativity Lab",
     "author": "Aichimp",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-10T11:19:13.755000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aichimp/product-creativity-lab",
-    "days_since_published": 43
+    "days_since_published": 44
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 63,
+      "views_rank": 62,
       "runs_rank": 34,
-      "likes_rank": 12,
-      "total_agents": 261,
-      "views_percentile": 75.9,
+      "likes_rank": 27,
+      "total_agents": 262,
+      "views_percentile": 76.3,
       "runs_percentile": 87.0,
-      "likes_percentile": 95.4
+      "likes_percentile": 89.7
     },
-    "tier": "Elite",
-    "tier_class": "elite",
-    "days_tracked": 75,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 76,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 35,
+    "days_tracked": 36,
     "last_7_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": -1,
-      "likes_rank_change": -93
+      "views_rank_change": -1,
+      "runs_rank_change": 0,
+      "likes_rank_change": -153
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -42,19 +42,19 @@
       "likes_rank_change": null
     },
     "all_time": {
-      "best_views_rank": 63,
+      "best_views_rank": 62,
       "best_runs_rank": 34,
       "best_likes_rank": 12,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 63
+      "current_rank": 62
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 39,
+    "data_points": 40,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-24T08:01:01.461546",
+    "last_recorded": "2025-12-25T08:01:00.196993",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -95,7 +95,8 @@
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
-        "2025-12-24T08:01:01.461546"
+        "2025-12-24T08:01:01.461546",
+        "2025-12-25T08:01:00.196993"
       ],
       "views_rank": [
         null,
@@ -136,7 +137,8 @@
         63,
         63,
         63,
-        63
+        63,
+        62
       ],
       "runs_rank": [
         null,
@@ -172,6 +174,7 @@
         35,
         35,
         35,
+        34,
         34,
         34,
         34,
@@ -218,7 +221,8 @@
         189,
         189,
         195,
-        12
+        12,
+        27
       ]
     }
   },
@@ -229,8 +233,8 @@
   "insights": [
     {
       "type": "positive",
-      "title": "Elite Performance",
-      "description": "Ranked #12 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "title": "High Performer",
+      "description": "Ranked #27 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

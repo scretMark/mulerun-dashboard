@@ -1,6 +1,6 @@
 {
   "agent_id": "e146e770-c6d7-49cb-aefc-4760330a6c30",
-  "generated_at": "2025-12-24T00:01:17.521231",
+  "generated_at": "2025-12-25T00:01:15.905118",
   "basic_info": {
     "title": "Create a different version of yourself",
     "author": "8bit",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-09T08:51:39.646000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/create-a-different-version-of-yourself",
-    "days_since_published": 14
+    "days_since_published": 15
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 248,
-      "runs_rank": 198,
-      "likes_rank": 110,
-      "total_agents": 261,
+      "views_rank": 249,
+      "runs_rank": 199,
+      "likes_rank": 120,
+      "total_agents": 262,
       "views_percentile": 5.0,
-      "runs_percentile": 24.1,
-      "likes_percentile": 57.9
+      "runs_percentile": 24.0,
+      "likes_percentile": 54.2
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 16,
+    "days_tracked": 17,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 12,
+    "days_tracked": 13,
     "last_7_days": {
-      "views_rank_change": 15,
-      "runs_rank_change": 9,
-      "likes_rank_change": -35
+      "views_rank_change": 13,
+      "runs_rank_change": 7,
+      "likes_rank_change": 61
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 57,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 248
+      "current_rank": 249
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 16,
+    "data_points": 17,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2025-12-24T08:01:01.461546",
+    "last_recorded": "2025-12-25T08:01:00.196993",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -72,7 +72,8 @@
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
-        "2025-12-24T08:01:01.461546"
+        "2025-12-24T08:01:01.461546",
+        "2025-12-25T08:01:00.196993"
       ],
       "views_rank": [
         null,
@@ -90,7 +91,8 @@
         239,
         239,
         245,
-        248
+        248,
+        249
       ],
       "runs_rank": [
         null,
@@ -108,7 +110,8 @@
         194,
         194,
         198,
-        198
+        198,
+        199
       ],
       "likes_rank": [
         null,
@@ -126,7 +129,8 @@
         65,
         65,
         69,
-        110
+        110,
+        120
       ]
     }
   },
@@ -145,7 +149,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #248 out of 261 active agents."
+      "description": "This agent is currently ranked #249 out of 262 active agents."
     }
   ]
 }

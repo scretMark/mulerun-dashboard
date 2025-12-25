@@ -1,6 +1,6 @@
 {
   "agent_id": "f287a273-a8e9-4f84-bcad-d14484f88465",
-  "generated_at": "2025-12-24T00:01:16.133767",
+  "generated_at": "2025-12-25T00:01:14.754912",
   "basic_info": {
     "title": "Ethereal Bloom",
     "author": "Lucas",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-04T22:06:12.064000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/ethereal-bloom",
-    "days_since_published": 49
+    "days_since_published": 50
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 215,
       "runs_rank": null,
-      "likes_rank": 182,
-      "total_agents": 261,
-      "views_percentile": 17.6,
+      "likes_rank": 187,
+      "total_agents": 262,
+      "views_percentile": 17.9,
       "runs_percentile": 0,
-      "likes_percentile": 30.3
+      "likes_percentile": 28.6
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 51,
+    "days_tracked": 52,
     "price": 49.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "last_7_days": {
-      "views_rank_change": 8,
+      "views_rank_change": 7,
       "runs_rank_change": null,
-      "likes_rank_change": 58
+      "likes_rank_change": -46
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 38,
+    "data_points": 39,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-24T08:01:01.461546",
+    "last_recorded": "2025-12-25T08:01:00.196993",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -94,7 +94,8 @@
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
-        "2025-12-24T08:01:01.461546"
+        "2025-12-24T08:01:01.461546",
+        "2025-12-25T08:01:00.196993"
       ],
       "views_rank": [
         null,
@@ -133,6 +134,7 @@
         211,
         211,
         212,
+        215,
         215,
         215
       ],
@@ -174,6 +176,7 @@
         248,
         248,
         null,
+        null,
         null
       ],
       "likes_rank": [
@@ -214,7 +217,8 @@
         239,
         237,
         243,
-        182
+        182,
+        187
       ]
     }
   },
@@ -226,7 +230,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #215 out of 261 active agents."
+      "description": "This agent is currently ranked #215 out of 262 active agents."
     }
   ]
 }

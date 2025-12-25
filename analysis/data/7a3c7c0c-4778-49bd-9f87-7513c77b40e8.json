@@ -1,6 +1,6 @@
 {
   "agent_id": "7a3c7c0c-4778-49bd-9f87-7513c77b40e8",
-  "generated_at": "2025-12-24T00:01:15.481115",
+  "generated_at": "2025-12-25T00:01:14.070587",
   "basic_info": {
     "title": "Illustrate Mind Spark 2",
     "author": "Rhino",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-30T14:30:28.773000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Rhino/illustrate-mind-spark-2",
-    "days_since_published": 84
+    "days_since_published": 85
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 107,
+      "views_rank": 106,
       "runs_rank": 176,
-      "likes_rank": 193,
-      "total_agents": 261,
-      "views_percentile": 59.0,
-      "runs_percentile": 32.6,
-      "likes_percentile": 26.1
+      "likes_rank": 18,
+      "total_agents": 262,
+      "views_percentile": 59.5,
+      "runs_percentile": 32.8,
+      "likes_percentile": 93.1
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 84,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 85,
     "price": 30.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "last_7_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": 4,
-      "likes_rank_change": 4
+      "views_rank_change": 0,
+      "runs_rank_change": 3,
+      "likes_rank_change": -157
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -44,17 +44,17 @@
     "all_time": {
       "best_views_rank": 106,
       "best_runs_rank": 171,
-      "best_likes_rank": 175,
+      "best_likes_rank": 18,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 107
+      "current_rank": 106
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 38,
+    "data_points": 39,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-24T08:01:01.461546",
+    "last_recorded": "2025-12-25T08:01:00.196993",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -94,7 +94,8 @@
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
-        "2025-12-24T08:01:01.461546"
+        "2025-12-24T08:01:01.461546",
+        "2025-12-25T08:01:00.196993"
       ],
       "views_rank": [
         null,
@@ -134,7 +135,8 @@
         108,
         108,
         108,
-        107
+        107,
+        106
       ],
       "runs_rank": [
         null,
@@ -174,6 +176,7 @@
         176,
         176,
         178,
+        176,
         176
       ],
       "likes_rank": [
@@ -214,7 +217,8 @@
         183,
         184,
         190,
-        193
+        193,
+        18
       ]
     }
   },
@@ -224,9 +228,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #107 out of 261 active agents."
+      "type": "positive",
+      "title": "High Performer",
+      "description": "Ranked #18 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

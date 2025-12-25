@@ -1,6 +1,6 @@
 {
   "agent_id": "9f3e2d27-ac24-4ed3-8082-5f67a4d6bf14",
-  "generated_at": "2025-12-24T00:01:17.415090",
+  "generated_at": "2025-12-25T00:01:15.843652",
   "basic_info": {
     "title": "Fireworks Show",
     "author": "LinkAIBrain",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-03T11:04:04.300000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/fireworks-show",
-    "days_since_published": 20
+    "days_since_published": 21
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 240,
+      "views_rank": 242,
       "runs_rank": 240,
-      "likes_rank": 79,
-      "total_agents": 261,
-      "views_percentile": 8.0,
-      "runs_percentile": 8.0,
-      "likes_percentile": 69.7
+      "likes_rank": 94,
+      "total_agents": 262,
+      "views_percentile": 7.6,
+      "runs_percentile": 8.4,
+      "likes_percentile": 64.1
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 18,
+    "days_tracked": 19,
     "price": 500.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 14,
+    "days_tracked": 15,
     "last_7_days": {
       "views_rank_change": 5,
-      "runs_rank_change": 4,
-      "likes_rank_change": -62
+      "runs_rank_change": 2,
+      "likes_rank_change": 92
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 2,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 240
+      "current_rank": 242
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 18,
+    "data_points": 19,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2025-12-24T08:01:01.461546",
+    "last_recorded": "2025-12-25T08:01:00.196993",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
@@ -74,7 +74,8 @@
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
-        "2025-12-24T08:01:01.461546"
+        "2025-12-24T08:01:01.461546",
+        "2025-12-25T08:01:00.196993"
       ],
       "views_rank": [
         null,
@@ -94,7 +95,8 @@
         240,
         240,
         246,
-        240
+        240,
+        242
       ],
       "runs_rank": [
         null,
@@ -114,6 +116,7 @@
         241,
         241,
         246,
+        240,
         240
       ],
       "likes_rank": [
@@ -134,7 +137,8 @@
         2,
         2,
         2,
-        79
+        79,
+        94
       ]
     }
   },
@@ -153,7 +157,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #240 out of 261 active agents."
+      "description": "This agent is currently ranked #242 out of 262 active agents."
     }
   ]
 }

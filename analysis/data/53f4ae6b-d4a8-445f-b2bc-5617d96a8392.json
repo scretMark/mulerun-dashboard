@@ -1,6 +1,6 @@
 {
   "agent_id": "53f4ae6b-d4a8-445f-b2bc-5617d96a8392",
-  "generated_at": "2025-12-24T00:01:15.557084",
+  "generated_at": "2025-12-25T00:01:14.163822",
   "basic_info": {
     "title": "Illustrate Mind Spark to Social",
     "author": "Rhino",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-15T13:01:39.091000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Rhino/illustrate-mind-spark-to-social",
-    "days_since_published": 99
+    "days_since_published": 100
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 65,
       "runs_rank": 72,
-      "likes_rank": 57,
-      "total_agents": 261,
-      "views_percentile": 75.1,
-      "runs_percentile": 72.4,
-      "likes_percentile": 78.2
+      "likes_rank": 75,
+      "total_agents": 262,
+      "views_percentile": 75.2,
+      "runs_percentile": 72.5,
+      "likes_percentile": 71.4
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 98,
+    "days_tracked": 99,
     "price": 8.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 3,
-      "likes_rank_change": -85
+      "runs_rank_change": 2,
+      "likes_rank_change": 6
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 38,
+    "data_points": 39,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-24T08:01:01.461546",
+    "last_recorded": "2025-12-25T08:01:00.196993",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -94,7 +94,8 @@
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
-        "2025-12-24T08:01:01.461546"
+        "2025-12-24T08:01:01.461546",
+        "2025-12-25T08:01:00.196993"
       ],
       "views_rank": [
         null,
@@ -133,6 +134,7 @@
         64,
         64,
         64,
+        65,
         65,
         65
       ],
@@ -174,6 +176,7 @@
         71,
         71,
         71,
+        72,
         72
       ],
       "likes_rank": [
@@ -214,7 +217,8 @@
         75,
         75,
         81,
-        57
+        57,
+        75
       ]
     }
   },
@@ -226,7 +230,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #65 out of 261 active agents."
+      "description": "This agent is currently ranked #65 out of 262 active agents."
     }
   ]
 }

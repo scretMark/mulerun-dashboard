@@ -1,6 +1,6 @@
 {
   "agent_id": "4f4a42b9-7895-4b4b-97a4-ef96cf8dcdcd",
-  "generated_at": "2025-12-24T00:01:15.599531",
+  "generated_at": "2025-12-25T00:01:14.214969",
   "basic_info": {
     "title": "YouTube All Languages Subtitles",
     "author": "Darren",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-10T20:41:02.236000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/youtube-all-languages-subtitles",
-    "days_since_published": 74
+    "days_since_published": 75
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 158,
+      "views_rank": 159,
       "runs_rank": 186,
-      "likes_rank": 217,
-      "total_agents": 261,
-      "views_percentile": 39.5,
-      "runs_percentile": 28.7,
-      "likes_percentile": 16.9
+      "likes_rank": 222,
+      "total_agents": 262,
+      "views_percentile": 39.3,
+      "runs_percentile": 29.0,
+      "likes_percentile": 15.3
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 72,
+    "days_tracked": 73,
     "price": 38.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "last_7_days": {
       "views_rank_change": 5,
-      "runs_rank_change": 6,
-      "likes_rank_change": 141
+      "runs_rank_change": 5,
+      "likes_rank_change": 3
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 76,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 158
+      "current_rank": 159
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 38,
+    "data_points": 39,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-24T08:01:01.461546",
+    "last_recorded": "2025-12-25T08:01:00.196993",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -94,7 +94,8 @@
         "2025-12-21T08:00:59.558309",
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
-        "2025-12-24T08:01:01.461546"
+        "2025-12-24T08:01:01.461546",
+        "2025-12-25T08:01:00.196993"
       ],
       "views_rank": [
         null,
@@ -134,7 +135,8 @@
         155,
         157,
         158,
-        158
+        158,
+        159
       ],
       "runs_rank": [
         null,
@@ -174,6 +176,7 @@
         183,
         183,
         185,
+        186,
         186
       ],
       "likes_rank": [
@@ -214,7 +217,8 @@
         224,
         222,
         231,
-        217
+        217,
+        222
       ]
     }
   },
@@ -226,7 +230,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #158 out of 261 active agents."
+      "description": "This agent is currently ranked #159 out of 262 active agents."
     }
   ]
 }
