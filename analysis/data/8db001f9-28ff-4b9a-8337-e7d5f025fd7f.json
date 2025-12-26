@@ -1,6 +1,6 @@
 {
   "agent_id": "8db001f9-28ff-4b9a-8337-e7d5f025fd7f",
-  "generated_at": "2025-12-25T00:01:13.442361",
+  "generated_at": "2025-12-26T00:01:24.330047",
   "basic_info": {
     "title": "YouTube Thumbnail",
     "author": "summerail",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-09T16:48:38.136000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/youtube-thumbnail",
-    "days_since_published": 76
+    "days_since_published": 77
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 36,
       "runs_rank": 43,
-      "likes_rank": 215,
-      "total_agents": 262,
-      "views_percentile": 86.3,
-      "runs_percentile": 83.6,
-      "likes_percentile": 17.9
+      "likes_rank": 226,
+      "total_agents": 267,
+      "views_percentile": 86.5,
+      "runs_percentile": 83.9,
+      "likes_percentile": 15.4
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 59,
+    "days_tracked": 60,
     "price": 30.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 36,
+    "days_tracked": 37,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": 12
+      "likes_rank_change": 16
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 40,
+    "data_points": 41,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-25T08:01:00.196993",
+    "last_recorded": "2025-12-26T08:00:54.905148",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -96,7 +96,8 @@
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
-        "2025-12-25T08:01:00.196993"
+        "2025-12-25T08:01:00.196993",
+        "2025-12-26T08:00:54.905148"
       ],
       "views_rank": [
         null,
@@ -131,6 +132,7 @@
         37,
         37,
         37,
+        36,
         36,
         36,
         36,
@@ -180,6 +182,7 @@
         43,
         43,
         43,
+        43,
         43
       ],
       "likes_rank": [
@@ -222,7 +225,8 @@
         209,
         209,
         225,
-        215
+        215,
+        226
       ]
     }
   },

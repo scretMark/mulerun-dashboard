@@ -1,6 +1,6 @@
 {
   "agent_id": "1509720e-e203-4e72-bb61-03d4d9a72d92",
-  "generated_at": "2025-12-25T00:01:13.698769",
+  "generated_at": "2025-12-26T00:01:24.602870",
   "basic_info": {
     "title": "Doc2Presentation",
     "author": "charlin",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-16T00:13:38.438000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@charlin/doc2presentation",
-    "days_since_published": 69
+    "days_since_published": 70
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 54,
       "runs_rank": 87,
-      "likes_rank": 53,
-      "total_agents": 262,
-      "views_percentile": 79.4,
-      "runs_percentile": 66.8,
-      "likes_percentile": 79.8
+      "likes_rank": 63,
+      "total_agents": 267,
+      "views_percentile": 79.8,
+      "runs_percentile": 67.4,
+      "likes_percentile": 76.4
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 65,
+    "days_tracked": 66,
     "price": 100.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 35,
+    "days_tracked": 36,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": -2,
-      "likes_rank_change": 9
+      "runs_rank_change": -3,
+      "likes_rank_change": 11
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 39,
+    "data_points": 40,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-25T08:01:00.196993",
+    "last_recorded": "2025-12-26T08:00:54.905148",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -95,7 +95,8 @@
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
-        "2025-12-25T08:01:00.196993"
+        "2025-12-25T08:01:00.196993",
+        "2025-12-26T08:00:54.905148"
       ],
       "views_rank": [
         null,
@@ -125,6 +126,7 @@
         null,
         null,
         null,
+        54,
         54,
         54,
         54,
@@ -177,6 +179,7 @@
         90,
         87,
         87,
+        87,
         87
       ],
       "likes_rank": [
@@ -218,7 +221,8 @@
         45,
         55,
         35,
-        53
+        53,
+        63
       ]
     }
   },
@@ -230,7 +234,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #54 out of 262 active agents."
+      "description": "This agent is currently ranked #54 out of 267 active agents."
     }
   ]
 }

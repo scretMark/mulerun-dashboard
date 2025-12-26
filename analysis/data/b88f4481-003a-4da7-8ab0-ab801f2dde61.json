@@ -1,6 +1,6 @@
 {
   "agent_id": "b88f4481-003a-4da7-8ab0-ab801f2dde61",
-  "generated_at": "2025-12-25T00:01:13.206849",
+  "generated_at": "2025-12-26T00:01:24.030180",
   "basic_info": {
     "title": "Virtual Try On",
     "author": "PicCopilot",
@@ -11,28 +11,28 @@
     "published_at": "2025-11-11T19:30:42.097000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/virtual-try-on",
-    "days_since_published": 43
+    "days_since_published": 44
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 40,
       "runs_rank": 7,
       "likes_rank": null,
-      "total_agents": 262,
-      "views_percentile": 84.7,
-      "runs_percentile": 97.3,
+      "total_agents": 267,
+      "views_percentile": 85.0,
+      "runs_percentile": 97.4,
       "likes_percentile": 0
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 46,
+    "days_tracked": 47,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 36,
+    "days_tracked": 37,
     "last_7_days": {
-      "views_rank_change": -3,
+      "views_rank_change": -2,
       "runs_rank_change": 0,
       "likes_rank_change": null
     },
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 40,
+    "data_points": 41,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-25T08:01:00.196993",
+    "last_recorded": "2025-12-26T08:00:54.905148",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -96,7 +96,8 @@
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
-        "2025-12-25T08:01:00.196993"
+        "2025-12-25T08:01:00.196993",
+        "2025-12-26T08:00:54.905148"
       ],
       "views_rank": [
         null,
@@ -138,6 +139,7 @@
         41,
         41,
         41,
+        40,
         40
       ],
       "runs_rank": [
@@ -169,6 +171,7 @@
         null,
         null,
         null,
+        7,
         7,
         7,
         7,
@@ -221,6 +224,7 @@
         209,
         210,
         215,
+        null,
         null,
         null
       ]

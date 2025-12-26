@@ -1,6 +1,6 @@
 {
   "agent_id": "f312d26e-e790-4571-a881-2af89a281851",
-  "generated_at": "2025-12-25T00:01:16.188439",
+  "generated_at": "2025-12-26T00:01:26.994904",
   "basic_info": {
     "title": "Cozy Xmas Cube",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-19T16:25:54.256000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/cozy-xmas-cube",
-    "days_since_published": 5
+    "days_since_published": 6
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": null,
       "runs_rank": null,
-      "likes_rank": 118,
-      "total_agents": 262,
+      "likes_rank": 124,
+      "total_agents": 267,
       "views_percentile": 0,
       "runs_percentile": 0,
-      "likes_percentile": 55.0
+      "likes_percentile": 53.6
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 5,
+    "days_tracked": 6,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 4,
+    "days_tracked": 5,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 69
+      "likes_rank_change": 75
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 69
+      "likes_rank_change": 75
     },
     "all_time": {
       "best_views_rank": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 6,
+    "data_points": 7,
     "first_recorded": "2025-12-20T08:01:00.398750",
-    "last_recorded": "2025-12-25T08:01:00.196993",
+    "last_recorded": "2025-12-26T08:00:54.905148",
     "time_series": {
       "dates": [
         "2025-12-20T08:01:00.398750",
@@ -62,9 +62,11 @@
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
-        "2025-12-25T08:01:00.196993"
+        "2025-12-25T08:01:00.196993",
+        "2025-12-26T08:00:54.905148"
       ],
       "views_rank": [
+        null,
         null,
         null,
         null,
@@ -78,6 +80,7 @@
         247,
         null,
         null,
+        null,
         null
       ],
       "likes_rank": [
@@ -86,7 +89,8 @@
         null,
         53,
         108,
-        118
+        118,
+        124
       ]
     }
   },
@@ -105,7 +109,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #N/A out of 262 active agents."
+      "description": "This agent is currently ranked #N/A out of 267 active agents."
     }
   ]
 }

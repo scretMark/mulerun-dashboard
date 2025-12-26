@@ -1,6 +1,6 @@
 {
   "agent_id": "6faa15dc-b0e8-499f-8ff7-8cc9c0553837",
-  "generated_at": "2025-12-25T00:01:14.615746",
+  "generated_at": "2025-12-26T00:01:25.465258",
   "basic_info": {
     "title": "Minimalist Origami Photo",
     "author": "Darren",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-20T11:31:28.113000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/minimalist-origami-photo",
-    "days_since_published": 65
+    "days_since_published": 66
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 132,
       "runs_rank": 140,
-      "likes_rank": 176,
-      "total_agents": 262,
-      "views_percentile": 49.6,
-      "runs_percentile": 46.6,
-      "likes_percentile": 32.8
+      "likes_rank": 7,
+      "total_agents": 267,
+      "views_percentile": 50.6,
+      "runs_percentile": 47.6,
+      "likes_percentile": 97.4
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 61,
+    "tier": "Elite",
+    "tier_class": "elite",
+    "days_tracked": 62,
     "price": 51.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 35,
+    "days_tracked": 36,
     "last_7_days": {
       "views_rank_change": 3,
-      "runs_rank_change": 5,
-      "likes_rank_change": 9
+      "runs_rank_change": 3,
+      "likes_rank_change": -166
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 39,
+    "data_points": 40,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-25T08:01:00.196993",
+    "last_recorded": "2025-12-26T08:00:54.905148",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -95,7 +95,8 @@
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
-        "2025-12-25T08:01:00.196993"
+        "2025-12-25T08:01:00.196993",
+        "2025-12-26T08:00:54.905148"
       ],
       "views_rank": [
         null,
@@ -136,6 +137,7 @@
         129,
         130,
         130,
+        132,
         132
       ],
       "runs_rank": [
@@ -176,6 +178,7 @@
         137,
         137,
         139,
+        140,
         140,
         140
       ],
@@ -218,7 +221,8 @@
         173,
         179,
         171,
-        176
+        176,
+        7
       ]
     }
   },
@@ -228,9 +232,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #132 out of 262 active agents."
+      "type": "positive",
+      "title": "Elite Performance",
+      "description": "Ranked #7 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     }
   ]
 }

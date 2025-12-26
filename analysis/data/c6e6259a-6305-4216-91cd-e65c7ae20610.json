@@ -1,6 +1,6 @@
 {
   "agent_id": "c6e6259a-6305-4216-91cd-e65c7ae20610",
-  "generated_at": "2025-12-25T00:01:14.861970",
+  "generated_at": "2025-12-26T00:01:25.734963",
   "basic_info": {
     "title": "EduCard Generator",
     "author": "LunarAITalk",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-14T14:19:31.754000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LunarAITalk/educard-generator",
-    "days_since_published": 101
+    "days_since_published": 102
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 50,
       "runs_rank": 83,
-      "likes_rank": 21,
-      "total_agents": 262,
-      "views_percentile": 80.9,
-      "runs_percentile": 68.3,
-      "likes_percentile": 92.0
+      "likes_rank": 27,
+      "total_agents": 267,
+      "views_percentile": 81.3,
+      "runs_percentile": 68.9,
+      "likes_percentile": 89.9
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 103,
+    "days_tracked": 104,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 35,
+    "days_tracked": 36,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": -97
+      "likes_rank_change": -94
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 39,
+    "data_points": 40,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-25T08:01:00.196993",
+    "last_recorded": "2025-12-26T08:00:54.905148",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -95,7 +95,8 @@
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
-        "2025-12-25T08:01:00.196993"
+        "2025-12-25T08:01:00.196993",
+        "2025-12-26T08:00:54.905148"
       ],
       "views_rank": [
         null,
@@ -125,6 +126,7 @@
         null,
         null,
         null,
+        50,
         50,
         50,
         50,
@@ -177,6 +179,7 @@
         83,
         83,
         83,
+        83,
         83
       ],
       "likes_rank": [
@@ -218,7 +221,8 @@
         125,
         132,
         160,
-        21
+        21,
+        27
       ]
     }
   },
@@ -230,7 +234,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #21 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #27 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

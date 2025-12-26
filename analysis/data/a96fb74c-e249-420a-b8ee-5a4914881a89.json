@@ -1,6 +1,6 @@
 {
   "agent_id": "a96fb74c-e249-420a-b8ee-5a4914881a89",
-  "generated_at": "2025-12-25T00:01:16.237145",
+  "generated_at": "2025-12-26T00:01:27.038782",
   "basic_info": {
     "title": "Great Wall Memory Portrait",
     "author": "Matt",
@@ -11,21 +11,21 @@
     "published_at": "2025-12-19T18:22:14.659000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Matt/great-wall-memory-portrait",
-    "days_since_published": 5
+    "days_since_published": 6
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 193,
       "runs_rank": 125,
-      "likes_rank": 107,
-      "total_agents": 262,
-      "views_percentile": 26.3,
-      "runs_percentile": 52.3,
-      "likes_percentile": 59.2
+      "likes_rank": 110,
+      "total_agents": 267,
+      "views_percentile": 27.7,
+      "runs_percentile": 53.2,
+      "likes_percentile": 58.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 2,
+    "days_tracked": 3,
     "price": 55.0
   },
   "ranking_trends": {
@@ -34,12 +34,12 @@
     "last_7_days": {
       "views_rank_change": -4,
       "runs_rank_change": 1,
-      "likes_rank_change": 65
+      "likes_rank_change": 68
     },
     "last_30_days": {
       "views_rank_change": -4,
       "runs_rank_change": 1,
-      "likes_rank_change": 65
+      "likes_rank_change": 68
     },
     "all_time": {
       "best_views_rank": 193,
@@ -52,29 +52,33 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 3,
+    "data_points": 4,
     "first_recorded": "2025-12-23T08:00:59.635142",
-    "last_recorded": "2025-12-25T08:01:00.196993",
+    "last_recorded": "2025-12-26T08:00:54.905148",
     "time_series": {
       "dates": [
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
-        "2025-12-25T08:01:00.196993"
+        "2025-12-25T08:01:00.196993",
+        "2025-12-26T08:00:54.905148"
       ],
       "views_rank": [
         197,
         197,
+        193,
         193
       ],
       "runs_rank": [
         124,
         124,
+        125,
         125
       ],
       "likes_rank": [
         42,
         83,
-        107
+        107,
+        110
       ]
     }
   },
@@ -93,7 +97,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #193 out of 262 active agents."
+      "description": "This agent is currently ranked #193 out of 267 active agents."
     }
   ]
 }

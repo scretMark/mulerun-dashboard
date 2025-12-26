@@ -1,6 +1,6 @@
 {
   "agent_id": "ad1c4d06-705b-47c4-b9f1-6abee261b6f9",
-  "generated_at": "2025-12-25T00:01:14.478335",
+  "generated_at": "2025-12-26T00:01:25.323688",
   "basic_info": {
     "title": "Food Image to Recipe",
     "author": "vktsbiy414205x1",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-07T20:08:53.831000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@vktsbiy414205x1/food-image-to-recipe",
-    "days_since_published": 78
+    "days_since_published": 79
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 38,
       "runs_rank": 28,
-      "likes_rank": 224,
-      "total_agents": 262,
-      "views_percentile": 85.5,
-      "runs_percentile": 89.3,
-      "likes_percentile": 14.5
+      "likes_rank": 227,
+      "total_agents": 267,
+      "views_percentile": 85.8,
+      "runs_percentile": 89.5,
+      "likes_percentile": 15.0
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 66,
+    "days_tracked": 67,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 35,
+    "days_tracked": 36,
     "last_7_days": {
-      "views_rank_change": -1,
-      "runs_rank_change": 3,
-      "likes_rank_change": 10
+      "views_rank_change": 0,
+      "runs_rank_change": 2,
+      "likes_rank_change": 0
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 39,
+    "data_points": 40,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-25T08:01:00.196993",
+    "last_recorded": "2025-12-26T08:00:54.905148",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -95,7 +95,8 @@
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
-        "2025-12-25T08:01:00.196993"
+        "2025-12-25T08:01:00.196993",
+        "2025-12-26T08:00:54.905148"
       ],
       "views_rank": [
         null,
@@ -136,6 +137,7 @@
         38,
         38,
         39,
+        38,
         38
       ],
       "runs_rank": [
@@ -176,6 +178,7 @@
         27,
         27,
         27,
+        28,
         28,
         28
       ],
@@ -218,7 +221,8 @@
         228,
         235,
         218,
-        224
+        224,
+        227
       ]
     }
   },

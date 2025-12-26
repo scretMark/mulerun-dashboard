@@ -1,6 +1,6 @@
 {
   "agent_id": "ca2574af-c9bf-4260-98d2-ea4e56d09142",
-  "generated_at": "2025-12-25T00:01:14.574455",
+  "generated_at": "2025-12-26T00:01:25.425061",
   "basic_info": {
     "title": "FilmFace Changer",
     "author": "Darren",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-29T20:46:29.926000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/filmface-changer",
-    "days_since_published": 86
+    "days_since_published": 87
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 110,
       "runs_rank": 119,
-      "likes_rank": 13,
-      "total_agents": 262,
-      "views_percentile": 58.0,
-      "runs_percentile": 54.6,
-      "likes_percentile": 95.0
+      "likes_rank": 20,
+      "total_agents": 267,
+      "views_percentile": 58.8,
+      "runs_percentile": 55.4,
+      "likes_percentile": 92.5
     },
-    "tier": "Elite",
-    "tier_class": "elite",
-    "days_tracked": 61,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 62,
     "price": 66.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 35,
+    "days_tracked": 36,
     "last_7_days": {
-      "views_rank_change": 2,
+      "views_rank_change": 0,
       "runs_rank_change": 1,
-      "likes_rank_change": -96
+      "likes_rank_change": -97
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 39,
+    "data_points": 40,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-25T08:01:00.196993",
+    "last_recorded": "2025-12-26T08:00:54.905148",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -95,7 +95,8 @@
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
-        "2025-12-25T08:01:00.196993"
+        "2025-12-25T08:01:00.196993",
+        "2025-12-26T08:00:54.905148"
       ],
       "views_rank": [
         null,
@@ -131,6 +132,7 @@
         109,
         108,
         108,
+        110,
         110,
         110,
         110,
@@ -177,6 +179,7 @@
         118,
         118,
         119,
+        119,
         119
       ],
       "likes_rank": [
@@ -218,7 +221,8 @@
         118,
         124,
         102,
-        13
+        13,
+        20
       ]
     }
   },
@@ -229,8 +233,8 @@
   "insights": [
     {
       "type": "positive",
-      "title": "Elite Performance",
-      "description": "Ranked #13 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "title": "High Performer",
+      "description": "Ranked #20 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

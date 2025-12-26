@@ -1,6 +1,6 @@
 {
   "agent_id": "9540b1a3-2ffb-4a11-95d2-53ed0995637a",
-  "generated_at": "2025-12-25T00:01:13.785892",
+  "generated_at": "2025-12-26T00:01:24.674350",
   "basic_info": {
     "title": "ExplainerVideoGen",
     "author": "2_lullakah",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-07T10:24:37.592000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@2_lullakah/explainervideogen",
-    "days_since_published": 47
+    "days_since_published": 48
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 85,
-      "runs_rank": 122,
-      "likes_rank": 24,
-      "total_agents": 262,
-      "views_percentile": 67.6,
-      "runs_percentile": 53.4,
-      "likes_percentile": 90.8
+      "views_rank": 86,
+      "runs_rank": 121,
+      "likes_rank": 34,
+      "total_agents": 267,
+      "views_percentile": 67.8,
+      "runs_percentile": 54.7,
+      "likes_percentile": 87.3
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 50,
+    "days_tracked": 51,
     "price": 48.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 35,
+    "days_tracked": 36,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": -1,
-      "likes_rank_change": -31
+      "runs_rank_change": -2,
+      "likes_rank_change": -23
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -43,18 +43,18 @@
     },
     "all_time": {
       "best_views_rank": 85,
-      "best_runs_rank": 122,
+      "best_runs_rank": 121,
       "best_likes_rank": 11,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 85
+      "current_rank": 86
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 39,
+    "data_points": 40,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-25T08:01:00.196993",
+    "last_recorded": "2025-12-26T08:00:54.905148",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -95,7 +95,8 @@
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
-        "2025-12-25T08:01:00.196993"
+        "2025-12-25T08:01:00.196993",
+        "2025-12-26T08:00:54.905148"
       ],
       "views_rank": [
         null,
@@ -136,7 +137,8 @@
         85,
         85,
         85,
-        85
+        85,
+        86
       ],
       "runs_rank": [
         null,
@@ -177,7 +179,8 @@
         123,
         125,
         125,
-        122
+        122,
+        121
       ],
       "likes_rank": [
         null,
@@ -218,7 +221,8 @@
         58,
         63,
         11,
-        24
+        24,
+        34
       ]
     }
   },
@@ -230,7 +234,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #24 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #34 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

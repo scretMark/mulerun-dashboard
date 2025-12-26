@@ -1,6 +1,6 @@
 {
   "agent_id": "52ecfa2a-3f0d-4ed9-8b27-7e6a6e2a5fd5",
-  "generated_at": "2025-12-25T00:01:15.210158",
+  "generated_at": "2025-12-26T00:01:26.085895",
   "basic_info": {
     "title": "Calorie Counter",
     "author": "wujin",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-07T12:55:04.113000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@wujin/calorie-counter",
-    "days_since_published": 78
+    "days_since_published": 79
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 135,
-      "runs_rank": 189,
-      "likes_rank": 246,
-      "total_agents": 262,
-      "views_percentile": 48.5,
-      "runs_percentile": 27.9,
-      "likes_percentile": 6.1
+      "runs_rank": 192,
+      "likes_rank": null,
+      "total_agents": 267,
+      "views_percentile": 49.4,
+      "runs_percentile": 28.1,
+      "likes_percentile": 0
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 66,
+    "days_tracked": 67,
     "price": 30.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 35,
+    "days_tracked": 36,
     "last_7_days": {
       "views_rank_change": 2,
       "runs_rank_change": 6,
-      "likes_rank_change": 12
+      "likes_rank_change": null
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 39,
+    "data_points": 40,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-25T08:01:00.196993",
+    "last_recorded": "2025-12-26T08:00:54.905148",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -95,7 +95,8 @@
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
-        "2025-12-25T08:01:00.196993"
+        "2025-12-25T08:01:00.196993",
+        "2025-12-26T08:00:54.905148"
       ],
       "views_rank": [
         null,
@@ -136,6 +137,7 @@
         133,
         134,
         134,
+        135,
         135
       ],
       "runs_rank": [
@@ -177,7 +179,8 @@
         186,
         189,
         189,
-        189
+        189,
+        192
       ],
       "likes_rank": [
         null,
@@ -218,7 +221,8 @@
         242,
         240,
         244,
-        246
+        246,
+        null
       ]
     }
   },
@@ -230,7 +234,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #135 out of 262 active agents."
+      "description": "This agent is currently ranked #135 out of 267 active agents."
     }
   ]
 }

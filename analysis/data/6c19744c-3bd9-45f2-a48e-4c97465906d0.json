@@ -1,6 +1,6 @@
 {
   "agent_id": "6c19744c-3bd9-45f2-a48e-4c97465906d0",
-  "generated_at": "2025-12-25T00:01:15.720561",
+  "generated_at": "2025-12-26T00:01:26.522648",
   "basic_info": {
     "title": "Mockup Studio Try On",
     "author": "DENNIS",
@@ -11,29 +11,29 @@
     "published_at": "2025-12-04T09:50:58.930000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@DENNIS/mockup-studio-try-on",
-    "days_since_published": 20
+    "days_since_published": 21
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 171,
       "runs_rank": 147,
-      "likes_rank": 123,
-      "total_agents": 262,
-      "views_percentile": 34.7,
-      "runs_percentile": 43.9,
-      "likes_percentile": 53.1
+      "likes_rank": 129,
+      "total_agents": 267,
+      "views_percentile": 36.0,
+      "runs_percentile": 44.9,
+      "likes_percentile": 51.7
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 23,
+    "days_tracked": 24,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 16,
+    "days_tracked": 17,
     "last_7_days": {
-      "views_rank_change": -6,
-      "runs_rank_change": 2,
+      "views_rank_change": -3,
+      "runs_rank_change": 1,
       "likes_rank_change": 65
     },
     "last_30_days": {
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 22,
+    "data_points": 23,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2025-12-25T08:01:00.196993",
+    "last_recorded": "2025-12-26T08:00:54.905148",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -78,7 +78,8 @@
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
-        "2025-12-25T08:01:00.196993"
+        "2025-12-25T08:01:00.196993",
+        "2025-12-26T08:00:54.905148"
       ],
       "views_rank": [
         null,
@@ -102,6 +103,7 @@
         174,
         171,
         173,
+        171,
         171
       ],
       "runs_rank": [
@@ -125,6 +127,7 @@
         146,
         146,
         146,
+        147,
         147,
         147
       ],
@@ -150,7 +153,8 @@
         64,
         67,
         109,
-        123
+        123,
+        129
       ]
     }
   },
@@ -167,9 +171,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "Hot Trend",
-      "description": "Up 6 positions in just 7 days - currently trending and gaining rapid visibility!"
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #171 out of 267 active agents."
     }
   ]
 }

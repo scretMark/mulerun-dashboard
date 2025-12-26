@@ -1,6 +1,6 @@
 {
   "agent_id": "5790d3e6-8c54-42c8-bc16-c8fdbb244e5b",
-  "generated_at": "2025-12-25T00:01:16.080674",
+  "generated_at": "2025-12-26T00:01:26.879764",
   "basic_info": {
     "title": "DEEPINSIGHT_Briefing",
     "author": "liang_caoqw1",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-13T21:55:32.074000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@liang_caoqw1/deepinsight-briefing",
-    "days_since_published": 11
+    "days_since_published": 12
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 131,
-      "runs_rank": 79,
-      "likes_rank": 133,
-      "total_agents": 262,
-      "views_percentile": 50.0,
-      "runs_percentile": 69.8,
-      "likes_percentile": 49.2
+      "runs_rank": 78,
+      "likes_rank": 23,
+      "total_agents": 267,
+      "views_percentile": 50.9,
+      "runs_percentile": 70.8,
+      "likes_percentile": 91.4
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 12,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 13,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 8,
+    "days_tracked": 9,
     "last_7_days": {
-      "views_rank_change": -6,
-      "runs_rank_change": 4,
-      "likes_rank_change": 25
+      "views_rank_change": -5,
+      "runs_rank_change": 1,
+      "likes_rank_change": -91
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -44,7 +44,7 @@
     "all_time": {
       "best_views_rank": 131,
       "best_runs_rank": 73,
-      "best_likes_rank": 105,
+      "best_likes_rank": 23,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 131
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 13,
+    "data_points": 14,
     "first_recorded": "2025-12-16T19:09:41.063612",
-    "last_recorded": "2025-12-25T08:01:00.196993",
+    "last_recorded": "2025-12-26T08:00:54.905148",
     "time_series": {
       "dates": [
         "2025-12-16T19:09:41.063612",
@@ -69,7 +69,8 @@
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
-        "2025-12-25T08:01:00.196993"
+        "2025-12-25T08:01:00.196993",
+        "2025-12-26T08:00:54.905148"
       ],
       "views_rank": [
         null,
@@ -84,6 +85,7 @@
         134,
         133,
         133,
+        131,
         131
       ],
       "runs_rank": [
@@ -99,7 +101,8 @@
         77,
         77,
         78,
-        79
+        79,
+        78
       ],
       "likes_rank": [
         null,
@@ -114,7 +117,8 @@
         115,
         121,
         124,
-        133
+        133,
+        23
       ]
     }
   },
@@ -132,8 +136,8 @@
   "insights": [
     {
       "type": "positive",
-      "title": "Hot Trend",
-      "description": "Up 6 positions in just 7 days - currently trending and gaining rapid visibility!"
+      "title": "High Performer",
+      "description": "Ranked #23 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

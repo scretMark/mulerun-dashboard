@@ -1,6 +1,6 @@
 {
   "agent_id": "b52490b5-59b2-4d47-8437-f4278542febd",
-  "generated_at": "2025-12-25T00:01:14.266613",
+  "generated_at": "2025-12-26T00:01:25.098878",
   "basic_info": {
     "title": "Quipple Meme Generator",
     "author": "akirakai",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-12T17:17:32.318000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@akirakai/quipple-meme-generator",
-    "days_since_published": 103
+    "days_since_published": 104
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 25,
       "runs_rank": 20,
-      "likes_rank": 9,
-      "total_agents": 262,
-      "views_percentile": 90.5,
-      "runs_percentile": 92.4,
-      "likes_percentile": 96.6
+      "likes_rank": 16,
+      "total_agents": 267,
+      "views_percentile": 90.6,
+      "runs_percentile": 92.5,
+      "likes_percentile": 94.0
     },
-    "tier": "Elite",
-    "tier_class": "elite",
-    "days_tracked": 103,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 104,
     "price": 0.5
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 35,
+    "days_tracked": 36,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 2,
-      "likes_rank_change": -128
+      "runs_rank_change": 1,
+      "likes_rank_change": -126
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 39,
+    "data_points": 40,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-25T08:01:00.196993",
+    "last_recorded": "2025-12-26T08:00:54.905148",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -95,7 +95,8 @@
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
-        "2025-12-25T08:01:00.196993"
+        "2025-12-25T08:01:00.196993",
+        "2025-12-26T08:00:54.905148"
       ],
       "views_rank": [
         null,
@@ -136,6 +137,7 @@
         24,
         24,
         24,
+        25,
         25
       ],
       "runs_rank": [
@@ -174,6 +176,7 @@
         18,
         19,
         19,
+        20,
         20,
         20,
         20,
@@ -218,7 +221,8 @@
         143,
         147,
         5,
-        9
+        9,
+        16
       ]
     }
   },
@@ -229,8 +233,8 @@
   "insights": [
     {
       "type": "positive",
-      "title": "Elite Performance",
-      "description": "Ranked #9 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "title": "High Performer",
+      "description": "Ranked #16 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     },
     {
       "type": "info",

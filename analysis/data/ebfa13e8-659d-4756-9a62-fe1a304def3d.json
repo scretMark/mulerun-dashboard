@@ -1,6 +1,6 @@
 {
   "agent_id": "ebfa13e8-659d-4756-9a62-fe1a304def3d",
-  "generated_at": "2025-12-25T00:01:13.463377",
+  "generated_at": "2025-12-26T00:01:24.358331",
   "basic_info": {
     "title": "AI Avatars",
     "author": "PicCopilot",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-11T19:36:25.710000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/ai-avatars",
-    "days_since_published": 43
+    "days_since_published": 44
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 113,
-      "runs_rank": 23,
-      "likes_rank": 20,
-      "total_agents": 262,
-      "views_percentile": 56.9,
-      "runs_percentile": 91.2,
-      "likes_percentile": 92.4
+      "views_rank": 111,
+      "runs_rank": 22,
+      "likes_rank": 29,
+      "total_agents": 267,
+      "views_percentile": 58.4,
+      "runs_percentile": 91.8,
+      "likes_percentile": 89.1
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 59,
+    "days_tracked": 60,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 35,
+    "days_tracked": 36,
     "last_7_days": {
-      "views_rank_change": -3,
-      "runs_rank_change": 1,
-      "likes_rank_change": -150
+      "views_rank_change": -6,
+      "runs_rank_change": 0,
+      "likes_rank_change": -148
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -42,19 +42,19 @@
       "likes_rank_change": null
     },
     "all_time": {
-      "best_views_rank": 113,
+      "best_views_rank": 111,
       "best_runs_rank": 22,
       "best_likes_rank": 8,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 113
+      "current_rank": 111
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 39,
+    "data_points": 40,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-25T08:01:00.196993",
+    "last_recorded": "2025-12-26T08:00:54.905148",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -95,7 +95,8 @@
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
-        "2025-12-25T08:01:00.196993"
+        "2025-12-25T08:01:00.196993",
+        "2025-12-26T08:00:54.905148"
       ],
       "views_rank": [
         null,
@@ -136,7 +137,8 @@
         116,
         116,
         115,
-        113
+        113,
+        111
       ],
       "runs_rank": [
         null,
@@ -177,7 +179,8 @@
         23,
         23,
         23,
-        23
+        23,
+        22
       ],
       "likes_rank": [
         null,
@@ -218,7 +221,8 @@
         178,
         186,
         8,
-        20
+        20,
+        29
       ]
     }
   },
@@ -230,7 +234,12 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #20 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #22 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+    },
+    {
+      "type": "positive",
+      "title": "Hot Trend",
+      "description": "Up 6 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

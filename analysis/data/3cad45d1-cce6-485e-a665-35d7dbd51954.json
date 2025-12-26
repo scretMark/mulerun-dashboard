@@ -1,6 +1,6 @@
 {
   "agent_id": "3cad45d1-cce6-485e-a665-35d7dbd51954",
-  "generated_at": "2025-12-25T00:01:14.584876",
+  "generated_at": "2025-12-26T00:01:25.434564",
   "basic_info": {
     "title": "Companion of the Storm",
     "author": "Darren",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-20T11:32:32.791000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/companion-of-the-storm",
-    "days_since_published": 65
+    "days_since_published": 66
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 112,
-      "runs_rank": 181,
-      "likes_rank": 129,
-      "total_agents": 262,
-      "views_percentile": 57.3,
-      "runs_percentile": 30.9,
-      "likes_percentile": 50.8
+      "views_rank": 113,
+      "runs_rank": 183,
+      "likes_rank": 138,
+      "total_agents": 267,
+      "views_percentile": 57.7,
+      "runs_percentile": 31.5,
+      "likes_percentile": 48.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 61,
+    "days_tracked": 62,
     "price": 51.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 35,
+    "days_tracked": 36,
     "last_7_days": {
-      "views_rank_change": 3,
-      "runs_rank_change": 7,
-      "likes_rank_change": 33
+      "views_rank_change": 2,
+      "runs_rank_change": 6,
+      "likes_rank_change": 35
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 92,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 112
+      "current_rank": 113
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 39,
+    "data_points": 40,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-25T08:01:00.196993",
+    "last_recorded": "2025-12-26T08:00:54.905148",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -95,7 +95,8 @@
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
-        "2025-12-25T08:01:00.196993"
+        "2025-12-25T08:01:00.196993",
+        "2025-12-26T08:00:54.905148"
       ],
       "views_rank": [
         null,
@@ -136,7 +137,8 @@
         111,
         111,
         111,
-        112
+        112,
+        113
       ],
       "runs_rank": [
         null,
@@ -177,7 +179,8 @@
         178,
         180,
         181,
-        181
+        181,
+        183
       ],
       "likes_rank": [
         null,
@@ -218,7 +221,8 @@
         103,
         109,
         120,
-        129
+        129,
+        138
       ]
     }
   },
@@ -230,7 +234,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #112 out of 262 active agents."
+      "description": "This agent is currently ranked #113 out of 267 active agents."
     }
   ]
 }

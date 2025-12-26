@@ -1,6 +1,6 @@
 {
   "agent_id": "80395f29-5f6a-46c5-8d69-ac5180b121bd",
-  "generated_at": "2025-12-25T00:01:15.375446",
+  "generated_at": "2025-12-26T00:01:26.238932",
   "basic_info": {
     "title": "Al Murshid - Peace be upon you",
     "author": "xyLin",
@@ -11,29 +11,29 @@
     "published_at": "2025-10-11T17:28:01.522000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@xyLin/al-murshid-peace-be-upon-you",
-    "days_since_published": 74
+    "days_since_published": 75
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 172,
-      "runs_rank": 224,
-      "likes_rank": 189,
-      "total_agents": 262,
-      "views_percentile": 34.4,
-      "runs_percentile": 14.5,
-      "likes_percentile": 27.9
+      "runs_rank": 227,
+      "likes_rank": 195,
+      "total_agents": 267,
+      "views_percentile": 35.6,
+      "runs_percentile": 15.0,
+      "likes_percentile": 27.0
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 72,
+    "days_tracked": 73,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 35,
+    "days_tracked": 36,
     "last_7_days": {
       "views_rank_change": -7,
-      "runs_rank_change": 0,
+      "runs_rank_change": -1,
       "likes_rank_change": -37
     },
     "last_30_days": {
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 39,
+    "data_points": 40,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-25T08:01:00.196993",
+    "last_recorded": "2025-12-26T08:00:54.905148",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -95,7 +95,8 @@
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
-        "2025-12-25T08:01:00.196993"
+        "2025-12-25T08:01:00.196993",
+        "2025-12-26T08:00:54.905148"
       ],
       "views_rank": [
         null,
@@ -136,6 +137,7 @@
         179,
         170,
         171,
+        172,
         172
       ],
       "runs_rank": [
@@ -177,7 +179,8 @@
         228,
         230,
         230,
-        224
+        224,
+        227
       ],
       "likes_rank": [
         null,
@@ -218,7 +221,8 @@
         232,
         247,
         184,
-        189
+        189,
+        195
       ]
     }
   },

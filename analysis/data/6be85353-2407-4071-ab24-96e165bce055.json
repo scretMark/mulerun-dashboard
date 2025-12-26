@@ -1,6 +1,6 @@
 {
   "agent_id": "6be85353-2407-4071-ab24-96e165bce055",
-  "generated_at": "2025-12-25T00:01:15.983091",
+  "generated_at": "2025-12-26T00:01:26.801484",
   "basic_info": {
     "title": "The Pet Fruit on the Tree",
     "author": "8bit",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-10T15:04:26.066000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/the-pet-fruit-on-the-tree",
-    "days_since_published": 14
+    "days_since_published": 15
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": null,
-      "runs_rank": 249,
-      "likes_rank": 116,
-      "total_agents": 262,
+      "runs_rank": null,
+      "likes_rank": 8,
+      "total_agents": 267,
       "views_percentile": 0,
-      "runs_percentile": 5.0,
-      "likes_percentile": 55.7
+      "runs_percentile": 0,
+      "likes_percentile": 97.0
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 17,
+    "tier": "Elite",
+    "tier_class": "elite",
+    "days_tracked": 18,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 13,
+    "days_tracked": 14,
     "last_7_days": {
       "views_rank_change": null,
-      "runs_rank_change": 9,
-      "likes_rank_change": 73
+      "runs_rank_change": null,
+      "likes_rank_change": -33
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -44,7 +44,7 @@
     "all_time": {
       "best_views_rank": 246,
       "best_runs_rank": 238,
-      "best_likes_rank": 40,
+      "best_likes_rank": 8,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": null
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 17,
+    "data_points": 18,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2025-12-25T08:01:00.196993",
+    "last_recorded": "2025-12-26T08:00:54.905148",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -73,7 +73,8 @@
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
-        "2025-12-25T08:01:00.196993"
+        "2025-12-25T08:01:00.196993",
+        "2025-12-26T08:00:54.905148"
       ],
       "views_rank": [
         null,
@@ -87,6 +88,7 @@
         246,
         246,
         248,
+        null,
         null,
         null,
         null,
@@ -111,7 +113,8 @@
         243,
         248,
         248,
-        249
+        249,
+        null
       ],
       "likes_rank": [
         null,
@@ -130,7 +133,8 @@
         42,
         40,
         106,
-        116
+        116,
+        8
       ]
     }
   },
@@ -147,9 +151,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #N/A out of 262 active agents."
+      "type": "positive",
+      "title": "Elite Performance",
+      "description": "Ranked #8 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     }
   ]
 }

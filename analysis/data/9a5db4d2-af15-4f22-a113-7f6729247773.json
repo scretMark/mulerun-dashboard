@@ -1,6 +1,6 @@
 {
   "agent_id": "9a5db4d2-af15-4f22-a113-7f6729247773",
-  "generated_at": "2025-12-25T00:01:16.265061",
+  "generated_at": "2025-12-26T00:01:27.063126",
   "basic_info": {
     "title": "Hand-Drawn Santa Me",
     "author": "Norsizu",
@@ -11,21 +11,21 @@
     "published_at": "2025-12-22T10:20:25.768000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/hand-drawn-santa-me",
-    "days_since_published": 2
+    "days_since_published": 3
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": null,
-      "runs_rank": 246,
-      "likes_rank": 86,
-      "total_agents": 262,
+      "runs_rank": null,
+      "likes_rank": 103,
+      "total_agents": 267,
       "views_percentile": 0,
-      "runs_percentile": 6.1,
-      "likes_percentile": 67.2
+      "runs_percentile": 0,
+      "likes_percentile": 61.4
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 2,
+    "days_tracked": 3,
     "price": 45.0
   },
   "ranking_trends": {
@@ -33,13 +33,13 @@
     "days_tracked": 2,
     "last_7_days": {
       "views_rank_change": null,
-      "runs_rank_change": 1,
-      "likes_rank_change": 30
+      "runs_rank_change": null,
+      "likes_rank_change": 47
     },
     "last_30_days": {
       "views_rank_change": null,
-      "runs_rank_change": 1,
-      "likes_rank_change": 30
+      "runs_rank_change": null,
+      "likes_rank_change": 47
     },
     "all_time": {
       "best_views_rank": null,
@@ -52,16 +52,18 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 3,
+    "data_points": 4,
     "first_recorded": "2025-12-23T08:00:59.635142",
-    "last_recorded": "2025-12-25T08:01:00.196993",
+    "last_recorded": "2025-12-26T08:00:54.905148",
     "time_series": {
       "dates": [
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
-        "2025-12-25T08:01:00.196993"
+        "2025-12-25T08:01:00.196993",
+        "2025-12-26T08:00:54.905148"
       ],
       "views_rank": [
+        null,
         null,
         null,
         null
@@ -69,12 +71,14 @@
       "runs_rank": [
         245,
         246,
-        246
+        246,
+        null
       ],
       "likes_rank": [
         56,
         71,
-        86
+        86,
+        103
       ]
     }
   },
@@ -93,7 +97,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #N/A out of 262 active agents."
+      "description": "This agent is currently ranked #N/A out of 267 active agents."
     }
   ]
 }

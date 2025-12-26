@@ -1,6 +1,6 @@
 {
   "agent_id": "a81c11a0-b414-44cb-a449-c5d1e43ed341",
-  "generated_at": "2025-12-25T00:01:15.043607",
+  "generated_at": "2025-12-26T00:01:25.931813",
   "basic_info": {
     "title": "HallowMe",
     "author": "DENNIS",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-31T15:15:17.615000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@DENNIS/hallowme",
-    "days_since_published": 54
+    "days_since_published": 55
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 105,
       "runs_rank": 112,
-      "likes_rank": 162,
-      "total_agents": 262,
-      "views_percentile": 59.9,
-      "runs_percentile": 57.3,
-      "likes_percentile": 38.2
+      "likes_rank": 168,
+      "total_agents": 267,
+      "views_percentile": 60.7,
+      "runs_percentile": 58.1,
+      "likes_percentile": 37.1
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 59,
+    "days_tracked": 60,
     "price": 150.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 35,
+    "days_tracked": 36,
     "last_7_days": {
       "views_rank_change": 2,
       "runs_rank_change": 0,
-      "likes_rank_change": 55
+      "likes_rank_change": 53
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 39,
+    "data_points": 40,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-25T08:01:00.196993",
+    "last_recorded": "2025-12-26T08:00:54.905148",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -95,7 +95,8 @@
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
-        "2025-12-25T08:01:00.196993"
+        "2025-12-25T08:01:00.196993",
+        "2025-12-26T08:00:54.905148"
       ],
       "views_rank": [
         null,
@@ -136,6 +137,7 @@
         103,
         103,
         103,
+        105,
         105
       ],
       "runs_rank": [
@@ -171,6 +173,7 @@
         111,
         111,
         111,
+        112,
         112,
         112,
         112,
@@ -218,7 +221,8 @@
         114,
         120,
         155,
-        162
+        162,
+        168
       ]
     }
   },
@@ -230,7 +234,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #105 out of 262 active agents."
+      "description": "This agent is currently ranked #105 out of 267 active agents."
     }
   ]
 }

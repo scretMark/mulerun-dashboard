@@ -1,6 +1,6 @@
 {
   "agent_id": "d7b85cff-5179-46c7-a1e5-09560f825c92",
-  "generated_at": "2025-12-25T00:01:13.237784",
+  "generated_at": "2025-12-26T00:01:24.067428",
   "basic_info": {
     "title": "AI Model Swap",
     "author": "PicCopilot",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-11T19:26:53.701000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/ai-model-swap",
-    "days_since_published": 43
+    "days_since_published": 44
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 74,
       "runs_rank": 9,
-      "likes_rank": 29,
-      "total_agents": 262,
-      "views_percentile": 71.8,
+      "likes_rank": 38,
+      "total_agents": 267,
+      "views_percentile": 72.3,
       "runs_percentile": 96.6,
-      "likes_percentile": 88.9
+      "likes_percentile": 85.8
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 46,
+    "days_tracked": 47,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 36,
+    "days_tracked": 37,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 0,
-      "likes_rank_change": -23
+      "runs_rank_change": 1,
+      "likes_rank_change": -16
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 40,
+    "data_points": 41,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-25T08:01:00.196993",
+    "last_recorded": "2025-12-26T08:00:54.905148",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -96,7 +96,8 @@
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
-        "2025-12-25T08:01:00.196993"
+        "2025-12-25T08:01:00.196993",
+        "2025-12-26T08:00:54.905148"
       ],
       "views_rank": [
         null,
@@ -137,6 +138,7 @@
         73,
         73,
         73,
+        74,
         74,
         74
       ],
@@ -180,6 +182,7 @@
         8,
         8,
         8,
+        9,
         9
       ],
       "likes_rank": [
@@ -222,7 +225,8 @@
         55,
         58,
         19,
-        29
+        29,
+        38
       ]
     }
   },

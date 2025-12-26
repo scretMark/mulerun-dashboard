@@ -1,6 +1,6 @@
 {
   "agent_id": "cffb9d8c-540b-4dff-8a1e-c24d3fa8877b",
-  "generated_at": "2025-12-25T00:01:13.686511",
+  "generated_at": "2025-12-26T00:01:24.592565",
   "basic_info": {
     "title": "ID Photo",
     "author": "HongwuQz",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-25T12:49:57.242000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@HongwuQz/id-photo",
-    "days_since_published": 90
+    "days_since_published": 91
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 52,
       "runs_rank": 69,
-      "likes_rank": 188,
-      "total_agents": 262,
-      "views_percentile": 80.2,
-      "runs_percentile": 73.7,
-      "likes_percentile": 28.2
+      "likes_rank": 190,
+      "total_agents": 267,
+      "views_percentile": 80.5,
+      "runs_percentile": 74.2,
+      "likes_percentile": 28.8
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 66,
+    "days_tracked": 67,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 35,
+    "days_tracked": 36,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 2,
-      "likes_rank_change": -29
+      "runs_rank_change": 0,
+      "likes_rank_change": -33
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 39,
+    "data_points": 40,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-25T08:01:00.196993",
+    "last_recorded": "2025-12-26T08:00:54.905148",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -95,7 +95,8 @@
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
-        "2025-12-25T08:01:00.196993"
+        "2025-12-25T08:01:00.196993",
+        "2025-12-26T08:00:54.905148"
       ],
       "views_rank": [
         null,
@@ -125,6 +126,7 @@
         null,
         null,
         null,
+        52,
         52,
         52,
         52,
@@ -177,6 +179,7 @@
         69,
         69,
         68,
+        69,
         69
       ],
       "likes_rank": [
@@ -218,7 +221,8 @@
         221,
         230,
         183,
-        188
+        188,
+        190
       ]
     }
   },

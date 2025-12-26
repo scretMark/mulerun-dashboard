@@ -1,6 +1,6 @@
 {
   "agent_id": "9a3a6654-4fc6-4489-b012-70750d3d05a4",
-  "generated_at": "2025-12-25T00:01:15.461342",
+  "generated_at": "2025-12-26T00:01:26.320045",
   "basic_info": {
     "title": "FrostyPunster",
     "author": "hoainamluci",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-14T00:45:06.127000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@hoainamluci/frostypunster",
-    "days_since_published": 71
+    "days_since_published": 72
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 195,
       "runs_rank": null,
-      "likes_rank": 140,
-      "total_agents": 262,
-      "views_percentile": 25.6,
+      "likes_rank": 148,
+      "total_agents": 267,
+      "views_percentile": 27.0,
       "runs_percentile": 0,
-      "likes_percentile": 46.6
+      "likes_percentile": 44.6
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 71,
+    "days_tracked": 72,
     "price": 70.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 35,
+    "days_tracked": 36,
     "last_7_days": {
       "views_rank_change": 3,
       "runs_rank_change": null,
-      "likes_rank_change": 55
+      "likes_rank_change": 56
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 39,
+    "data_points": 40,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-25T08:01:00.196993",
+    "last_recorded": "2025-12-26T08:00:54.905148",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -95,7 +95,8 @@
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
-        "2025-12-25T08:01:00.196993"
+        "2025-12-25T08:01:00.196993",
+        "2025-12-26T08:00:54.905148"
       ],
       "views_rank": [
         null,
@@ -136,6 +137,7 @@
         192,
         193,
         194,
+        195,
         195
       ],
       "runs_rank": [
@@ -172,6 +174,7 @@
         246,
         246,
         247,
+        null,
         null,
         null,
         null,
@@ -218,7 +221,8 @@
         92,
         96,
         136,
-        140
+        140,
+        148
       ]
     }
   },
@@ -230,7 +234,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #195 out of 262 active agents."
+      "description": "This agent is currently ranked #195 out of 267 active agents."
     }
   ]
 }

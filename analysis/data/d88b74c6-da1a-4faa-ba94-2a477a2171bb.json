@@ -1,6 +1,6 @@
 {
   "agent_id": "d88b74c6-da1a-4faa-ba94-2a477a2171bb",
-  "generated_at": "2025-12-25T00:01:13.323803",
+  "generated_at": "2025-12-26T00:01:24.177769",
   "basic_info": {
     "title": "Swap Faces",
     "author": "PicCopilot",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-11T19:43:39.105000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/swap-faces",
-    "days_since_published": 43
+    "days_since_published": 44
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 107,
+      "views_rank": 108,
       "runs_rank": 18,
-      "likes_rank": 190,
-      "total_agents": 262,
-      "views_percentile": 59.2,
-      "runs_percentile": 93.1,
-      "likes_percentile": 27.5
+      "likes_rank": 196,
+      "total_agents": 267,
+      "views_percentile": 59.6,
+      "runs_percentile": 93.3,
+      "likes_percentile": 26.6
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 59,
+    "days_tracked": 60,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 36,
+    "days_tracked": 37,
     "last_7_days": {
-      "views_rank_change": 2,
+      "views_rank_change": 3,
       "runs_rank_change": 2,
-      "likes_rank_change": -56
+      "likes_rank_change": null
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 135,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 107
+      "current_rank": 108
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 40,
+    "data_points": 41,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-25T08:01:00.196993",
+    "last_recorded": "2025-12-26T08:00:54.905148",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -96,7 +96,8 @@
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
-        "2025-12-25T08:01:00.196993"
+        "2025-12-25T08:01:00.196993",
+        "2025-12-26T08:00:54.905148"
       ],
       "views_rank": [
         null,
@@ -138,7 +139,8 @@
         107,
         107,
         108,
-        107
+        107,
+        108
       ],
       "runs_rank": [
         null,
@@ -177,6 +179,7 @@
         16,
         16,
         16,
+        18,
         18,
         18,
         18,
@@ -222,7 +225,8 @@
         null,
         null,
         185,
-        190
+        190,
+        196
       ]
     }
   },

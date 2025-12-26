@@ -1,6 +1,6 @@
 {
   "agent_id": "6350d3ee-dee8-4b5f-ba61-19cfef1448c8",
-  "generated_at": "2025-12-25T00:01:15.758571",
+  "generated_at": "2025-12-26T00:01:26.550363",
   "basic_info": {
     "title": "Youtube Thumbnail",
     "author": "pxzzf1010_cr73m",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-05T20:32:44.732000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@pxzzf1010_cr73m/youtube-thumbnail",
-    "days_since_published": 19
+    "days_since_published": 20
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 87,
-      "runs_rank": 13,
-      "likes_rank": 26,
-      "total_agents": 262,
-      "views_percentile": 66.8,
-      "runs_percentile": 95.0,
-      "likes_percentile": 90.1
+      "views_rank": 85,
+      "runs_rank": 12,
+      "likes_rank": 31,
+      "total_agents": 267,
+      "views_percentile": 68.2,
+      "runs_percentile": 95.5,
+      "likes_percentile": 88.4
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 20,
+    "days_tracked": 21,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 16,
+    "days_tracked": 17,
     "last_7_days": {
-      "views_rank_change": -40,
-      "runs_rank_change": -25,
-      "likes_rank_change": -91
+      "views_rank_change": -24,
+      "runs_rank_change": -16,
+      "likes_rank_change": -92
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -42,19 +42,19 @@
       "likes_rank_change": null
     },
     "all_time": {
-      "best_views_rank": 87,
-      "best_runs_rank": 13,
+      "best_views_rank": 85,
+      "best_runs_rank": 12,
       "best_likes_rank": 26,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 87
+      "current_rank": 85
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 21,
+    "data_points": 22,
     "first_recorded": "2025-12-09T08:00:25.308684",
-    "last_recorded": "2025-12-25T08:01:00.196993",
+    "last_recorded": "2025-12-26T08:00:54.905148",
     "time_series": {
       "dates": [
         "2025-12-09T08:00:25.308684",
@@ -77,7 +77,8 @@
         "2025-12-22T08:00:59.663056",
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
-        "2025-12-25T08:01:00.196993"
+        "2025-12-25T08:01:00.196993",
+        "2025-12-26T08:00:54.905148"
       ],
       "views_rank": [
         null,
@@ -100,7 +101,8 @@
         102,
         94,
         90,
-        87
+        87,
+        85
       ],
       "runs_rank": [
         null,
@@ -123,7 +125,8 @@
         16,
         14,
         15,
-        13
+        13,
+        12
       ],
       "likes_rank": [
         null,
@@ -146,7 +149,8 @@
         122,
         131,
         126,
-        26
+        26,
+        31
       ]
     }
   },
@@ -165,17 +169,17 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #13 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #12 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     },
     {
       "type": "positive",
       "title": "Hot Trend",
-      "description": "Up 40 positions in just 7 days - currently trending and gaining rapid visibility!"
+      "description": "Up 24 positions in just 7 days - currently trending and gaining rapid visibility!"
     },
     {
       "type": "info",
       "title": "Premium Agent Success",
-      "description": "Despite $10.0 pricing, this agent ranks #13 in usage - demonstrating strong value proposition."
+      "description": "Despite $10.0 pricing, this agent ranks #12 in usage - demonstrating strong value proposition."
     }
   ]
 }
