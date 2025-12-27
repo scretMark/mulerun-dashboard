@@ -1,6 +1,6 @@
 {
   "agent_id": "c525d316-9c6a-4c92-b5cc-a9180132be24",
-  "generated_at": "2025-12-26T00:01:26.259383",
+  "generated_at": "2025-12-27T00:01:31.197421",
   "basic_info": {
     "title": "GeoCraft",
     "author": "Docker",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-11T09:36:27.740000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Docker/geocraft",
-    "days_since_published": 75
+    "days_since_published": 76
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 191,
-      "runs_rank": 249,
-      "likes_rank": 119,
-      "total_agents": 267,
-      "views_percentile": 28.5,
-      "runs_percentile": 6.7,
-      "likes_percentile": 55.4
+      "runs_rank": null,
+      "likes_rank": 128,
+      "total_agents": 273,
+      "views_percentile": 30.0,
+      "runs_percentile": 0,
+      "likes_percentile": 53.1
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 62,
+    "days_tracked": 63,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 36,
+    "days_tracked": 37,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 9,
-      "likes_rank_change": 34
+      "runs_rank_change": null,
+      "likes_rank_change": 44
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 40,
+    "data_points": 41,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-26T08:00:54.905148",
+    "last_recorded": "2025-12-27T08:01:00.423663",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -96,7 +96,8 @@
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
         "2025-12-25T08:01:00.196993",
-        "2025-12-26T08:00:54.905148"
+        "2025-12-26T08:00:54.905148",
+        "2025-12-27T08:01:00.423663"
       ],
       "views_rank": [
         null,
@@ -136,6 +137,7 @@
         190,
         190,
         190,
+        191,
         191,
         191,
         191
@@ -180,7 +182,8 @@
         244,
         245,
         245,
-        249
+        249,
+        null
       ],
       "likes_rank": [
         null,
@@ -222,7 +225,8 @@
         91,
         95,
         108,
-        119
+        119,
+        128
       ]
     }
   },
@@ -234,7 +238,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #191 out of 267 active agents."
+      "description": "This agent is currently ranked #191 out of 273 active agents."
     }
   ]
 }

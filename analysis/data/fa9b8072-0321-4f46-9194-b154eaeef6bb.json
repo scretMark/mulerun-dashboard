@@ -1,6 +1,6 @@
 {
   "agent_id": "fa9b8072-0321-4f46-9194-b154eaeef6bb",
-  "generated_at": "2025-12-26T00:01:24.929556",
+  "generated_at": "2025-12-27T00:01:29.944217",
   "basic_info": {
     "title": "Ink Alive",
     "author": "AllenCreator",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-12T17:38:21.168000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AllenCreator/ink-alive",
-    "days_since_published": 74
+    "days_since_published": 75
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 182,
-      "runs_rank": 100,
-      "likes_rank": 166,
-      "total_agents": 267,
-      "views_percentile": 31.8,
-      "runs_percentile": 62.5,
-      "likes_percentile": 37.8
+      "views_rank": 181,
+      "runs_rank": 99,
+      "likes_rank": 11,
+      "total_agents": 273,
+      "views_percentile": 33.7,
+      "runs_percentile": 63.7,
+      "likes_percentile": 96.0
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 62,
+    "tier": "Elite",
+    "tier_class": "elite",
+    "days_tracked": 63,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 36,
+    "days_tracked": 37,
     "last_7_days": {
-      "views_rank_change": 2,
-      "runs_rank_change": 0,
-      "likes_rank_change": 83
+      "views_rank_change": 1,
+      "runs_rank_change": -1,
+      "likes_rank_change": -72
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -43,18 +43,18 @@
     },
     "all_time": {
       "best_views_rank": 180,
-      "best_runs_rank": 100,
+      "best_runs_rank": 99,
       "best_likes_rank": 2,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 182
+      "current_rank": 181
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 40,
+    "data_points": 41,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-26T08:00:54.905148",
+    "last_recorded": "2025-12-27T08:01:00.423663",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -96,7 +96,8 @@
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
         "2025-12-25T08:01:00.196993",
-        "2025-12-26T08:00:54.905148"
+        "2025-12-26T08:00:54.905148",
+        "2025-12-27T08:01:00.423663"
       ],
       "views_rank": [
         null,
@@ -138,7 +139,8 @@
         181,
         182,
         182,
-        182
+        182,
+        181
       ],
       "runs_rank": [
         null,
@@ -180,7 +182,8 @@
         100,
         100,
         100,
-        100
+        100,
+        99
       ],
       "likes_rank": [
         null,
@@ -222,7 +225,8 @@
         89,
         150,
         158,
-        166
+        166,
+        11
       ]
     }
   },
@@ -232,9 +236,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #182 out of 267 active agents."
+      "type": "positive",
+      "title": "Elite Performance",
+      "description": "Ranked #11 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     }
   ]
 }

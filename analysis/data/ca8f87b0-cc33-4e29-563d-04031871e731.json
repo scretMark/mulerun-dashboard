@@ -1,6 +1,6 @@
 {
   "agent_id": "ca8f87b0-cc33-4e29-563d-04031871e731",
-  "generated_at": "2025-12-26T00:01:24.968836",
+  "generated_at": "2025-12-27T00:01:29.978371",
   "basic_info": {
     "title": "Blender MCP AI Agent",
     "author": "Siddhartbbafa48",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-30T17:48:01.927000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Siddhartbbafa48/blender-mcp-ai-agent",
-    "days_since_published": 56
+    "days_since_published": 57
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 11,
       "runs_rank": 30,
-      "likes_rank": 205,
-      "total_agents": 267,
-      "views_percentile": 95.9,
-      "runs_percentile": 88.8,
-      "likes_percentile": 23.2
+      "likes_rank": 215,
+      "total_agents": 273,
+      "views_percentile": 96.0,
+      "runs_percentile": 89.0,
+      "likes_percentile": 21.2
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 72,
+    "days_tracked": 73,
     "price": 2.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 36,
+    "days_tracked": 37,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 1,
-      "likes_rank_change": -8
+      "likes_rank_change": 1
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 40,
+    "data_points": 41,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-26T08:00:54.905148",
+    "last_recorded": "2025-12-27T08:01:00.423663",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -96,7 +96,8 @@
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
         "2025-12-25T08:01:00.196993",
-        "2025-12-26T08:00:54.905148"
+        "2025-12-26T08:00:54.905148",
+        "2025-12-27T08:01:00.423663"
       ],
       "views_rank": [
         null,
@@ -126,6 +127,7 @@
         null,
         null,
         null,
+        11,
         11,
         11,
         11,
@@ -180,6 +182,7 @@
         29,
         29,
         30,
+        30,
         30
       ],
       "likes_rank": [
@@ -222,7 +225,8 @@
         220,
         198,
         211,
-        205
+        205,
+        215
       ]
     }
   },

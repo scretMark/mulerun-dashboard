@@ -1,6 +1,6 @@
 {
   "agent_id": "01045f00-c02f-46eb-951b-8752bb5a6f12",
-  "generated_at": "2025-12-26T00:01:24.191191",
+  "generated_at": "2025-12-27T00:01:29.339663",
   "basic_info": {
     "title": "Youtube Awesome Thumbnail",
     "author": "summerail",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-10T09:52:30.048000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/youtube-awesome-thumbnail",
-    "days_since_published": 45
+    "days_since_published": 46
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 24,
+      "views_rank": 23,
       "runs_rank": 8,
-      "likes_rank": 56,
-      "total_agents": 267,
-      "views_percentile": 91.0,
-      "runs_percentile": 97.0,
-      "likes_percentile": 79.0
+      "likes_rank": 68,
+      "total_agents": 273,
+      "views_percentile": 91.6,
+      "runs_percentile": 97.1,
+      "likes_percentile": 75.1
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 47,
+    "days_tracked": 48,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 37,
+    "days_tracked": 38,
     "last_7_days": {
-      "views_rank_change": -3,
+      "views_rank_change": -4,
       "runs_rank_change": -2,
-      "likes_rank_change": -173
+      "likes_rank_change": -157
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -42,19 +42,19 @@
       "likes_rank_change": null
     },
     "all_time": {
-      "best_views_rank": 24,
+      "best_views_rank": 23,
       "best_runs_rank": 8,
       "best_likes_rank": 28,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 24
+      "current_rank": 23
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 41,
+    "data_points": 42,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-26T08:00:54.905148",
+    "last_recorded": "2025-12-27T08:01:00.423663",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -97,7 +97,8 @@
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
         "2025-12-25T08:01:00.196993",
-        "2025-12-26T08:00:54.905148"
+        "2025-12-26T08:00:54.905148",
+        "2025-12-27T08:01:00.423663"
       ],
       "views_rank": [
         null,
@@ -140,7 +141,8 @@
         26,
         26,
         24,
-        24
+        24,
+        23
       ],
       "runs_rank": [
         null,
@@ -182,6 +184,7 @@
         10,
         10,
         9,
+        8,
         8,
         8
       ],
@@ -226,7 +229,8 @@
         228,
         28,
         48,
-        56
+        56,
+        68
       ]
     }
   },

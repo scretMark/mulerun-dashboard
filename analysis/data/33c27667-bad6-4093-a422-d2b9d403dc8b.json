@@ -1,6 +1,6 @@
 {
   "agent_id": "33c27667-bad6-4093-a422-d2b9d403dc8b",
-  "generated_at": "2025-12-26T00:01:25.973642",
+  "generated_at": "2025-12-27T00:01:30.904343",
   "basic_info": {
     "title": "An Exploded VIEW",
     "author": "Darren",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-07T16:12:19.379000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/an-exploded-view",
-    "days_since_published": 79
+    "days_since_published": 80
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 119,
-      "runs_rank": 123,
-      "likes_rank": 5,
-      "total_agents": 267,
-      "views_percentile": 55.4,
-      "runs_percentile": 53.9,
-      "likes_percentile": 98.1
+      "runs_rank": 124,
+      "likes_rank": 3,
+      "total_agents": 273,
+      "views_percentile": 56.4,
+      "runs_percentile": 54.6,
+      "likes_percentile": 98.9
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 62,
+    "days_tracked": 63,
     "price": 48.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 36,
+    "days_tracked": 37,
     "last_7_days": {
       "views_rank_change": -2,
-      "runs_rank_change": 2,
-      "likes_rank_change": -86
+      "runs_rank_change": 3,
+      "likes_rank_change": -88
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -44,7 +44,7 @@
     "all_time": {
       "best_views_rank": 117,
       "best_runs_rank": 120,
-      "best_likes_rank": 4,
+      "best_likes_rank": 3,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 119
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 40,
+    "data_points": 41,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-26T08:00:54.905148",
+    "last_recorded": "2025-12-27T08:01:00.423663",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -96,7 +96,8 @@
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
         "2025-12-25T08:01:00.196993",
-        "2025-12-26T08:00:54.905148"
+        "2025-12-26T08:00:54.905148",
+        "2025-12-27T08:01:00.423663"
       ],
       "views_rank": [
         null,
@@ -136,6 +137,7 @@
         121,
         121,
         121,
+        119,
         119,
         119,
         119
@@ -180,7 +182,8 @@
         122,
         122,
         123,
-        123
+        123,
+        124
       ],
       "likes_rank": [
         null,
@@ -222,7 +225,8 @@
         98,
         137,
         4,
-        5
+        5,
+        3
       ]
     }
   },
@@ -234,7 +238,7 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #5 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #3 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     }
   ]
 }

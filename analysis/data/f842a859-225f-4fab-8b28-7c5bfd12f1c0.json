@@ -1,6 +1,6 @@
 {
   "agent_id": "f842a859-225f-4fab-8b28-7c5bfd12f1c0",
-  "generated_at": "2025-12-26T00:01:26.075907",
+  "generated_at": "2025-12-27T00:01:31.008425",
   "basic_info": {
     "title": "Excuse Saviour",
     "author": "Excel",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-05T18:21:23.665000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Excel/excuse-saviour",
-    "days_since_published": 81
+    "days_since_published": 82
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 129,
-      "runs_rank": 135,
-      "likes_rank": 185,
-      "total_agents": 267,
-      "views_percentile": 51.7,
-      "runs_percentile": 49.4,
-      "likes_percentile": 30.7
+      "runs_rank": 138,
+      "likes_rank": 192,
+      "total_agents": 273,
+      "views_percentile": 52.7,
+      "runs_percentile": 49.5,
+      "likes_percentile": 29.7
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 67,
+    "days_tracked": 68,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 36,
+    "days_tracked": 37,
     "last_7_days": {
-      "views_rank_change": -1,
-      "runs_rank_change": 2,
-      "likes_rank_change": -26
+      "views_rank_change": -2,
+      "runs_rank_change": 5,
+      "likes_rank_change": -20
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 40,
+    "data_points": 41,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-26T08:00:54.905148",
+    "last_recorded": "2025-12-27T08:01:00.423663",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -96,7 +96,8 @@
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
         "2025-12-25T08:01:00.196993",
-        "2025-12-26T08:00:54.905148"
+        "2025-12-26T08:00:54.905148",
+        "2025-12-27T08:01:00.423663"
       ],
       "views_rank": [
         null,
@@ -138,6 +139,7 @@
         129,
         128,
         128,
+        129,
         129
       ],
       "runs_rank": [
@@ -180,7 +182,8 @@
         135,
         135,
         135,
-        135
+        135,
+        138
       ],
       "likes_rank": [
         null,
@@ -222,7 +225,8 @@
         218,
         179,
         184,
-        185
+        185,
+        192
       ]
     }
   },
@@ -234,7 +238,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #129 out of 267 active agents."
+      "description": "This agent is currently ranked #129 out of 273 active agents."
     }
   ]
 }

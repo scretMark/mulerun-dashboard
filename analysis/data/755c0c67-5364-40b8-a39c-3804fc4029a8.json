@@ -1,6 +1,6 @@
 {
   "agent_id": "755c0c67-5364-40b8-a39c-3804fc4029a8",
-  "generated_at": "2025-12-26T00:01:26.269385",
+  "generated_at": "2025-12-27T00:01:31.207562",
   "basic_info": {
     "title": "Your Nobel Moment",
     "author": "Norsizu",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-13T11:03:06.303000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/your-nobel-moment",
-    "days_since_published": 73
+    "days_since_published": 74
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 197,
+      "views_rank": 198,
       "runs_rank": null,
-      "likes_rank": 151,
-      "total_agents": 267,
-      "views_percentile": 26.2,
+      "likes_rank": 160,
+      "total_agents": 273,
+      "views_percentile": 27.5,
       "runs_percentile": 0,
-      "likes_percentile": 43.4
+      "likes_percentile": 41.4
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 62,
+    "days_tracked": 63,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 36,
+    "days_tracked": 37,
     "last_7_days": {
-      "views_rank_change": 2,
+      "views_rank_change": 3,
       "runs_rank_change": null,
-      "likes_rank_change": 5
+      "likes_rank_change": 14
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 27,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 197
+      "current_rank": 198
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 40,
+    "data_points": 41,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-26T08:00:54.905148",
+    "last_recorded": "2025-12-27T08:01:00.423663",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -96,7 +96,8 @@
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
         "2025-12-25T08:01:00.196993",
-        "2025-12-26T08:00:54.905148"
+        "2025-12-26T08:00:54.905148",
+        "2025-12-27T08:01:00.423663"
       ],
       "views_rank": [
         null,
@@ -138,7 +139,8 @@
         196,
         196,
         197,
-        197
+        197,
+        198
       ],
       "runs_rank": [
         null,
@@ -179,6 +181,7 @@
         244,
         250,
         250,
+        null,
         null,
         null
       ],
@@ -222,7 +225,8 @@
         152,
         132,
         142,
-        151
+        151,
+        160
       ]
     }
   },
@@ -234,7 +238,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #197 out of 267 active agents."
+      "description": "This agent is currently ranked #198 out of 273 active agents."
     }
   ]
 }

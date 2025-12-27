@@ -1,6 +1,6 @@
 {
   "agent_id": "8e470909-1a3c-4515-8e97-1c192a3fa462",
-  "generated_at": "2025-12-26T00:01:26.870650",
+  "generated_at": "2025-12-27T00:01:31.831742",
   "basic_info": {
     "title": "ID Photo Generator",
     "author": "pxzzf1010_cr73m",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-10T19:26:05.510000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@pxzzf1010_cr73m/id-photo-generator",
-    "days_since_published": 15
+    "days_since_published": 16
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 245,
-      "runs_rank": 199,
-      "likes_rank": 47,
-      "total_agents": 267,
-      "views_percentile": 8.2,
-      "runs_percentile": 25.5,
-      "likes_percentile": 82.4
+      "views_rank": 249,
+      "runs_rank": 203,
+      "likes_rank": 56,
+      "total_agents": 273,
+      "views_percentile": 8.8,
+      "runs_percentile": 25.6,
+      "likes_percentile": 79.5
     },
-    "tier": "High",
-    "tier_class": "high",
-    "days_tracked": 17,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 18,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 13,
+    "days_tracked": 14,
     "last_7_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": -3,
-      "likes_rank_change": -9
+      "views_rank_change": 4,
+      "runs_rank_change": 1,
+      "likes_rank_change": 2
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 39,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 245
+      "current_rank": 249
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 17,
+    "data_points": 18,
     "first_recorded": "2025-12-13T08:00:26.854786",
-    "last_recorded": "2025-12-26T08:00:54.905148",
+    "last_recorded": "2025-12-27T08:01:00.423663",
     "time_series": {
       "dates": [
         "2025-12-13T08:00:26.854786",
@@ -73,7 +73,8 @@
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
         "2025-12-25T08:01:00.196993",
-        "2025-12-26T08:00:54.905148"
+        "2025-12-26T08:00:54.905148",
+        "2025-12-27T08:01:00.423663"
       ],
       "views_rank": [
         null,
@@ -92,7 +93,8 @@
         242,
         243,
         243,
-        245
+        245,
+        249
       ],
       "runs_rank": [
         null,
@@ -111,7 +113,8 @@
         197,
         196,
         197,
-        199
+        199,
+        203
       ],
       "likes_rank": [
         null,
@@ -130,7 +133,8 @@
         57,
         94,
         39,
-        47
+        47,
+        56
       ]
     }
   },
@@ -147,9 +151,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "High Performer",
-      "description": "Ranked #47 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #249 out of 273 active agents."
     }
   ]
 }

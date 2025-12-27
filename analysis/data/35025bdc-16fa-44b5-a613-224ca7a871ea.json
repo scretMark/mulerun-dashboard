@@ -1,6 +1,6 @@
 {
   "agent_id": "35025bdc-16fa-44b5-a613-224ca7a871ea",
-  "generated_at": "2025-12-26T00:01:24.582416",
+  "generated_at": "2025-12-27T00:01:29.631225",
   "basic_info": {
     "title": "Portraitify AI",
     "author": "DENNIS",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-28T15:03:29.770000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@DENNIS/portraitify-ai",
-    "days_since_published": 88
+    "days_since_published": 89
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 83,
+      "views_rank": 84,
       "runs_rank": 79,
-      "likes_rank": 46,
-      "total_agents": 267,
-      "views_percentile": 68.9,
-      "runs_percentile": 70.4,
-      "likes_percentile": 82.8
+      "likes_rank": 55,
+      "total_agents": 273,
+      "views_percentile": 69.2,
+      "runs_percentile": 71.1,
+      "likes_percentile": 79.9
     },
-    "tier": "High",
-    "tier_class": "high",
-    "days_tracked": 88,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 89,
     "price": 100.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 36,
+    "days_tracked": 37,
     "last_7_days": {
-      "views_rank_change": 0,
+      "views_rank_change": 1,
       "runs_rank_change": 1,
-      "likes_rank_change": -158
+      "likes_rank_change": -152
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 23,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 83
+      "current_rank": 84
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 40,
+    "data_points": 41,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-26T08:00:54.905148",
+    "last_recorded": "2025-12-27T08:01:00.423663",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -96,7 +96,8 @@
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
         "2025-12-25T08:01:00.196993",
-        "2025-12-26T08:00:54.905148"
+        "2025-12-26T08:00:54.905148",
+        "2025-12-27T08:01:00.423663"
       ],
       "views_rank": [
         null,
@@ -138,7 +139,8 @@
         83,
         82,
         83,
-        83
+        83,
+        84
       ],
       "runs_rank": [
         null,
@@ -180,6 +182,7 @@
         78,
         77,
         78,
+        79,
         79
       ],
       "likes_rank": [
@@ -222,7 +225,8 @@
         214,
         23,
         37,
-        46
+        46,
+        55
       ]
     }
   },
@@ -232,9 +236,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "High Performer",
-      "description": "Ranked #46 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #84 out of 273 active agents."
     }
   ]
 }

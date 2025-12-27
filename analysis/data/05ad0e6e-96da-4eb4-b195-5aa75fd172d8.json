@@ -1,6 +1,6 @@
 {
   "agent_id": "05ad0e6e-96da-4eb4-b195-5aa75fd172d8",
-  "generated_at": "2025-12-26T00:01:26.330296",
+  "generated_at": "2025-12-27T00:01:31.273254",
   "basic_info": {
     "title": "Knowledge Card Factory",
     "author": "createAny",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-21T13:57:48.270000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@createAny/knowledge-card-factory",
-    "days_since_published": 65
+    "days_since_published": 66
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 168,
-      "runs_rank": 165,
-      "likes_rank": 186,
-      "total_agents": 267,
-      "views_percentile": 37.1,
-      "runs_percentile": 38.2,
-      "likes_percentile": 30.3
+      "runs_rank": 170,
+      "likes_rank": 197,
+      "total_agents": 273,
+      "views_percentile": 38.5,
+      "runs_percentile": 37.7,
+      "likes_percentile": 27.8
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 67,
+    "days_tracked": 68,
     "price": 20.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 36,
+    "days_tracked": 37,
     "last_7_days": {
       "views_rank_change": -2,
-      "runs_rank_change": -17,
-      "likes_rank_change": -12
+      "runs_rank_change": -12,
+      "likes_rank_change": -1
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 40,
+    "data_points": 41,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-26T08:00:54.905148",
+    "last_recorded": "2025-12-27T08:01:00.423663",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -96,7 +96,8 @@
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
         "2025-12-25T08:01:00.196993",
-        "2025-12-26T08:00:54.905148"
+        "2025-12-26T08:00:54.905148",
+        "2025-12-27T08:01:00.423663"
       ],
       "views_rank": [
         null,
@@ -137,6 +138,7 @@
         170,
         172,
         169,
+        168,
         168,
         168
       ],
@@ -180,7 +182,8 @@
         182,
         167,
         164,
-        165
+        165,
+        170
       ],
       "likes_rank": [
         null,
@@ -222,7 +225,8 @@
         200,
         180,
         180,
-        186
+        186,
+        197
       ]
     }
   },
@@ -234,7 +238,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #168 out of 267 active agents."
+      "description": "This agent is currently ranked #168 out of 273 active agents."
     }
   ]
 }

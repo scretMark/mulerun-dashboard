@@ -1,6 +1,6 @@
 {
   "agent_id": "716dff18-e29c-4218-b10b-7b1f36576f87",
-  "generated_at": "2025-12-26T00:01:26.014338",
+  "generated_at": "2025-12-27T00:01:30.946029",
   "basic_info": {
     "title": "Party Polaroid Duo",
     "author": "Norsizu",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-08T22:13:35.010000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/party-polaroid-duo",
-    "days_since_published": 78
+    "days_since_published": 79
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 130,
-      "runs_rank": 161,
-      "likes_rank": 155,
-      "total_agents": 267,
-      "views_percentile": 51.3,
-      "runs_percentile": 39.7,
-      "likes_percentile": 41.9
+      "runs_rank": 166,
+      "likes_rank": 168,
+      "total_agents": 273,
+      "views_percentile": 52.4,
+      "runs_percentile": 39.2,
+      "likes_percentile": 38.5
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 62,
+    "days_tracked": 63,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 36,
+    "days_tracked": 37,
     "last_7_days": {
       "views_rank_change": 2,
-      "runs_rank_change": 3,
-      "likes_rank_change": 54
+      "runs_rank_change": 8,
+      "likes_rank_change": 67
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 40,
+    "data_points": 41,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-26T08:00:54.905148",
+    "last_recorded": "2025-12-27T08:01:00.423663",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -96,7 +96,8 @@
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
         "2025-12-25T08:01:00.196993",
-        "2025-12-26T08:00:54.905148"
+        "2025-12-26T08:00:54.905148",
+        "2025-12-27T08:01:00.423663"
       ],
       "views_rank": [
         null,
@@ -138,6 +139,7 @@
         128,
         129,
         129,
+        130,
         130
       ],
       "runs_rank": [
@@ -180,7 +182,8 @@
         160,
         160,
         160,
-        161
+        161,
+        166
       ],
       "likes_rank": [
         null,
@@ -222,7 +225,8 @@
         107,
         140,
         147,
-        155
+        155,
+        168
       ]
     }
   },
@@ -234,7 +238,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #130 out of 267 active agents."
+      "description": "This agent is currently ranked #130 out of 273 active agents."
     }
   ]
 }
