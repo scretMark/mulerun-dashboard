@@ -1,6 +1,6 @@
 {
   "agent_id": "7c8b8f87-8a69-4e98-aa2a-a6b7cc148e7e",
-  "generated_at": "2025-12-27T00:01:32.090816",
+  "generated_at": "2025-12-28T00:01:06.608515",
   "basic_info": {
     "title": "FrozenFrame AI",
     "author": "Lucas",
@@ -11,21 +11,21 @@
     "published_at": "2025-12-25T01:10:29.525000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/frozenframe-ai",
-    "days_since_published": 1
+    "days_since_published": 2
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": null,
       "runs_rank": null,
-      "likes_rank": 24,
+      "likes_rank": 25,
       "total_agents": 273,
       "views_percentile": 0,
       "runs_percentile": 0,
-      "likes_percentile": 91.2
+      "likes_percentile": 90.8
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 1,
+    "days_tracked": 2,
     "price": 50.0
   },
   "ranking_trends": {
@@ -34,12 +34,12 @@
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 11
+      "likes_rank_change": 12
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 11
+      "likes_rank_change": 12
     },
     "all_time": {
       "best_views_rank": null,
@@ -52,25 +52,29 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 2,
+    "data_points": 3,
     "first_recorded": "2025-12-26T08:00:54.905148",
-    "last_recorded": "2025-12-27T08:01:00.423663",
+    "last_recorded": "2025-12-28T08:00:53.773046",
     "time_series": {
       "dates": [
         "2025-12-26T08:00:54.905148",
-        "2025-12-27T08:01:00.423663"
+        "2025-12-27T08:01:00.423663",
+        "2025-12-28T08:00:53.773046"
       ],
       "views_rank": [
+        null,
         null,
         null
       ],
       "runs_rank": [
         null,
+        null,
         null
       ],
       "likes_rank": [
         13,
-        24
+        24,
+        25
       ]
     }
   },
@@ -89,7 +93,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #24 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #25 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "03d920f7-6199-4bd0-9379-5fac38051523",
-  "generated_at": "2025-12-27T00:01:32.048009",
+  "generated_at": "2025-12-28T00:01:06.563613",
   "basic_info": {
     "title": "Viral Shorts AI Architect",
     "author": "yuzhou",
@@ -11,21 +11,21 @@
     "published_at": "2025-12-20T21:05:43.834000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@yuzhou/viral-shorts-ai-architect",
-    "days_since_published": 6
+    "days_since_published": 7
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": null,
+      "views_rank": 249,
       "runs_rank": null,
-      "likes_rank": 125,
+      "likes_rank": 126,
       "total_agents": 273,
-      "views_percentile": 0,
+      "views_percentile": 8.8,
       "runs_percentile": 0,
-      "likes_percentile": 54.2
+      "likes_percentile": 53.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 2,
+    "days_tracked": 3,
     "price": 25.0
   },
   "ranking_trends": {
@@ -34,39 +34,42 @@
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 29
+      "likes_rank_change": 30
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 29
+      "likes_rank_change": 30
     },
     "all_time": {
-      "best_views_rank": 250,
+      "best_views_rank": 249,
       "best_runs_rank": null,
       "best_likes_rank": 96,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": null
+      "current_rank": 249
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 3,
+    "data_points": 4,
     "first_recorded": "2025-12-25T08:01:00.196993",
-    "last_recorded": "2025-12-27T08:01:00.423663",
+    "last_recorded": "2025-12-28T08:00:53.773046",
     "time_series": {
       "dates": [
         "2025-12-25T08:01:00.196993",
         "2025-12-26T08:00:54.905148",
-        "2025-12-27T08:01:00.423663"
+        "2025-12-27T08:01:00.423663",
+        "2025-12-28T08:00:53.773046"
       ],
       "views_rank": [
         null,
         250,
-        null
+        null,
+        249
       ],
       "runs_rank": [
+        null,
         null,
         null,
         null
@@ -74,7 +77,8 @@
       "likes_rank": [
         96,
         116,
-        125
+        125,
+        126
       ]
     }
   },
@@ -93,7 +97,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #N/A out of 273 active agents."
+      "description": "This agent is currently ranked #249 out of 273 active agents."
     }
   ]
 }

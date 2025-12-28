@@ -1,6 +1,6 @@
 {
   "agent_id": "a96fb74c-e249-420a-b8ee-5a4914881a89",
-  "generated_at": "2025-12-27T00:01:31.995822",
+  "generated_at": "2025-12-28T00:01:06.509508",
   "basic_info": {
     "title": "Great Wall Memory Portrait",
     "author": "Matt",
@@ -11,21 +11,21 @@
     "published_at": "2025-12-19T18:22:14.659000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Matt/great-wall-memory-portrait",
-    "days_since_published": 7
+    "days_since_published": 8
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 195,
-      "runs_rank": 126,
-      "likes_rank": 119,
+      "runs_rank": 125,
+      "likes_rank": 121,
       "total_agents": 273,
       "views_percentile": 28.6,
-      "runs_percentile": 53.8,
-      "likes_percentile": 56.4
+      "runs_percentile": 54.2,
+      "likes_percentile": 55.7
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 4,
+    "days_tracked": 5,
     "price": 55.0
   },
   "ranking_trends": {
@@ -33,13 +33,13 @@
     "days_tracked": 4,
     "last_7_days": {
       "views_rank_change": -2,
-      "runs_rank_change": 2,
-      "likes_rank_change": 77
+      "runs_rank_change": 1,
+      "likes_rank_change": 79
     },
     "last_30_days": {
       "views_rank_change": -2,
-      "runs_rank_change": 2,
-      "likes_rank_change": 77
+      "runs_rank_change": 1,
+      "likes_rank_change": 79
     },
     "all_time": {
       "best_views_rank": 193,
@@ -52,22 +52,24 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 5,
+    "data_points": 6,
     "first_recorded": "2025-12-23T08:00:59.635142",
-    "last_recorded": "2025-12-27T08:01:00.423663",
+    "last_recorded": "2025-12-28T08:00:53.773046",
     "time_series": {
       "dates": [
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
         "2025-12-25T08:01:00.196993",
         "2025-12-26T08:00:54.905148",
-        "2025-12-27T08:01:00.423663"
+        "2025-12-27T08:01:00.423663",
+        "2025-12-28T08:00:53.773046"
       ],
       "views_rank": [
         197,
         197,
         193,
         193,
+        195,
         195
       ],
       "runs_rank": [
@@ -75,14 +77,16 @@
         124,
         125,
         125,
-        126
+        126,
+        125
       ],
       "likes_rank": [
         42,
         83,
         107,
         110,
-        119
+        119,
+        121
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "881a7eb3-94ed-421b-942a-075e5392c04e",
-  "generated_at": "2025-12-27T00:01:32.121327",
+  "generated_at": "2025-12-28T00:01:06.675150",
   "basic_info": {
     "title": "Kitchen Shuffle",
     "author": "nzwhouxvbbb094f",
@@ -11,28 +11,36 @@
     "published_at": "2025-12-25T16:03:11.023000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@nzwhouxvbbb094f/kitchen-shuffle",
-    "days_since_published": 1
+    "days_since_published": 2
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": null,
       "runs_rank": null,
-      "likes_rank": 37,
+      "likes_rank": 38,
       "total_agents": 273,
       "views_percentile": 0,
       "runs_percentile": 0,
-      "likes_percentile": 86.4
+      "likes_percentile": 86.1
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 0,
+    "days_tracked": 1,
     "price": 35.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 0,
-    "last_7_days": {},
-    "last_30_days": {},
+    "days_tracked": 1,
+    "last_7_days": {
+      "views_rank_change": null,
+      "runs_rank_change": null,
+      "likes_rank_change": 1
+    },
+    "last_30_days": {
+      "views_rank_change": null,
+      "runs_rank_change": null,
+      "likes_rank_change": 1
+    },
     "all_time": {
       "best_views_rank": null,
       "best_runs_rank": null,
@@ -44,21 +52,25 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 1,
+    "data_points": 2,
     "first_recorded": "2025-12-27T08:01:00.423663",
-    "last_recorded": "2025-12-27T08:01:00.423663",
+    "last_recorded": "2025-12-28T08:00:53.773046",
     "time_series": {
       "dates": [
-        "2025-12-27T08:01:00.423663"
+        "2025-12-27T08:01:00.423663",
+        "2025-12-28T08:00:53.773046"
       ],
       "views_rank": [
+        null,
         null
       ],
       "runs_rank": [
+        null,
         null
       ],
       "likes_rank": [
-        37
+        37,
+        38
       ]
     }
   },
@@ -77,7 +89,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #37 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #38 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

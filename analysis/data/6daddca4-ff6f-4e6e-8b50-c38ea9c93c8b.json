@@ -1,6 +1,6 @@
 {
   "agent_id": "6daddca4-ff6f-4e6e-8b50-c38ea9c93c8b",
-  "generated_at": "2025-12-27T00:01:31.091527",
+  "generated_at": "2025-12-28T00:01:05.542717",
   "basic_info": {
     "title": "Movie Poster Design",
     "author": "summerail",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-12T14:14:16.439000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/movie-poster-design",
-    "days_since_published": 75
+    "days_since_published": 76
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 153,
-      "runs_rank": 133,
-      "likes_rank": 198,
+      "runs_rank": 134,
+      "likes_rank": 197,
       "total_agents": 273,
       "views_percentile": 44.0,
-      "runs_percentile": 51.3,
-      "likes_percentile": 27.5
+      "runs_percentile": 50.9,
+      "likes_percentile": 27.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 70,
+    "days_tracked": 71,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 37,
+    "days_tracked": 38,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 5,
-      "likes_rank_change": -38
+      "runs_rank_change": 6,
+      "likes_rank_change": -39
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 41,
+    "data_points": 42,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-27T08:01:00.423663",
+    "last_recorded": "2025-12-28T08:00:53.773046",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -97,7 +97,8 @@
         "2025-12-24T08:01:01.461546",
         "2025-12-25T08:01:00.196993",
         "2025-12-26T08:00:54.905148",
-        "2025-12-27T08:01:00.423663"
+        "2025-12-27T08:01:00.423663",
+        "2025-12-28T08:00:53.773046"
       ],
       "views_rank": [
         null,
@@ -136,6 +137,7 @@
         152,
         152,
         152,
+        153,
         153,
         153,
         153,
@@ -183,7 +185,8 @@
         131,
         131,
         131,
-        133
+        133,
+        134
       ],
       "likes_rank": [
         null,
@@ -226,7 +229,8 @@
         181,
         186,
         192,
-        198
+        198,
+        197
       ]
     }
   },

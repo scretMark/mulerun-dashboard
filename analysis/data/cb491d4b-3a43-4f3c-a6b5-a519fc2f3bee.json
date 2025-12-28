@@ -1,6 +1,6 @@
 {
   "agent_id": "cb491d4b-3a43-4f3c-a6b5-a519fc2f3bee",
-  "generated_at": "2025-12-27T00:01:32.127452",
+  "generated_at": "2025-12-28T00:01:06.686491",
   "basic_info": {
     "title": "Serene Chat-Style Assessment",
     "author": "Serenetech",
@@ -11,28 +11,36 @@
     "published_at": "2025-12-22T14:48:12.852000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Serenetech/serene-chat-style-assessment",
-    "days_since_published": 4
+    "days_since_published": 5
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": null,
       "runs_rank": null,
-      "likes_rank": 59,
+      "likes_rank": 60,
       "total_agents": 273,
       "views_percentile": 0,
       "runs_percentile": 0,
-      "likes_percentile": 78.4
+      "likes_percentile": 78.0
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 0,
+    "days_tracked": 1,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 0,
-    "last_7_days": {},
-    "last_30_days": {},
+    "days_tracked": 1,
+    "last_7_days": {
+      "views_rank_change": null,
+      "runs_rank_change": null,
+      "likes_rank_change": 1
+    },
+    "last_30_days": {
+      "views_rank_change": null,
+      "runs_rank_change": null,
+      "likes_rank_change": 1
+    },
     "all_time": {
       "best_views_rank": null,
       "best_runs_rank": null,
@@ -44,21 +52,25 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 1,
+    "data_points": 2,
     "first_recorded": "2025-12-27T08:01:00.423663",
-    "last_recorded": "2025-12-27T08:01:00.423663",
+    "last_recorded": "2025-12-28T08:00:53.773046",
     "time_series": {
       "dates": [
-        "2025-12-27T08:01:00.423663"
+        "2025-12-27T08:01:00.423663",
+        "2025-12-28T08:00:53.773046"
       ],
       "views_rank": [
+        null,
         null
       ],
       "runs_rank": [
+        null,
         null
       ],
       "likes_rank": [
-        59
+        59,
+        60
       ]
     }
   },

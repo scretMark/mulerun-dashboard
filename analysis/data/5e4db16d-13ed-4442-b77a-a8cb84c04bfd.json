@@ -1,6 +1,6 @@
 {
   "agent_id": "5e4db16d-13ed-4442-b77a-a8cb84c04bfd",
-  "generated_at": "2025-12-27T00:01:31.671165",
+  "generated_at": "2025-12-28T00:01:06.178360",
   "basic_info": {
     "title": "Cartoon Cookbook",
     "author": "Barry",
@@ -11,28 +11,28 @@
     "published_at": "2025-12-10T11:31:33.615000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Barry/cartoon-cookbook",
-    "days_since_published": 16
+    "days_since_published": 17
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 215,
+      "views_rank": 216,
       "runs_rank": 130,
       "likes_rank": 92,
       "total_agents": 273,
-      "views_percentile": 21.2,
+      "views_percentile": 20.9,
       "runs_percentile": 52.4,
       "likes_percentile": 66.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 19,
+    "days_tracked": 20,
     "price": 48.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 15,
+    "days_tracked": 16,
     "last_7_days": {
-      "views_rank_change": 3,
+      "views_rank_change": 4,
       "runs_rank_change": 4,
       "likes_rank_change": 66
     },
@@ -47,14 +47,14 @@
       "best_likes_rank": 22,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 215
+      "current_rank": 216
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 19,
+    "data_points": 20,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2025-12-27T08:01:00.423663",
+    "last_recorded": "2025-12-28T08:00:53.773046",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -75,7 +75,8 @@
         "2025-12-24T08:01:01.461546",
         "2025-12-25T08:01:00.196993",
         "2025-12-26T08:00:54.905148",
-        "2025-12-27T08:01:00.423663"
+        "2025-12-27T08:01:00.423663",
+        "2025-12-28T08:00:53.773046"
       ],
       "views_rank": [
         null,
@@ -96,7 +97,8 @@
         214,
         211,
         212,
-        215
+        215,
+        216
       ],
       "runs_rank": [
         null,
@@ -117,6 +119,7 @@
         128,
         128,
         128,
+        130,
         130
       ],
       "likes_rank": [
@@ -138,6 +141,7 @@
         47,
         69,
         82,
+        92,
         92
       ]
     }
@@ -157,7 +161,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #215 out of 273 active agents."
+      "description": "This agent is currently ranked #216 out of 273 active agents."
     }
   ]
 }

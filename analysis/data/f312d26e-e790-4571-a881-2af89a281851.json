@@ -1,6 +1,6 @@
 {
   "agent_id": "f312d26e-e790-4571-a881-2af89a281851",
-  "generated_at": "2025-12-27T00:01:31.952000",
+  "generated_at": "2025-12-28T00:01:06.465414",
   "basic_info": {
     "title": "Cozy Xmas Cube",
     "author": "Norsizu",
@@ -11,21 +11,21 @@
     "published_at": "2025-12-19T16:25:54.256000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/cozy-xmas-cube",
-    "days_since_published": 7
+    "days_since_published": 8
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": null,
       "runs_rank": null,
-      "likes_rank": 133,
+      "likes_rank": 134,
       "total_agents": 273,
       "views_percentile": 0,
       "runs_percentile": 0,
-      "likes_percentile": 51.3
+      "likes_percentile": 50.9
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 7,
+    "days_tracked": 8,
     "price": 45.0
   },
   "ranking_trends": {
@@ -34,12 +34,12 @@
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 86
+      "likes_rank_change": 87
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 84
+      "likes_rank_change": 85
     },
     "all_time": {
       "best_views_rank": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 8,
+    "data_points": 9,
     "first_recorded": "2025-12-20T08:01:00.398750",
-    "last_recorded": "2025-12-27T08:01:00.423663",
+    "last_recorded": "2025-12-28T08:00:53.773046",
     "time_series": {
       "dates": [
         "2025-12-20T08:01:00.398750",
@@ -64,9 +64,11 @@
         "2025-12-24T08:01:01.461546",
         "2025-12-25T08:01:00.196993",
         "2025-12-26T08:00:54.905148",
-        "2025-12-27T08:01:00.423663"
+        "2025-12-27T08:01:00.423663",
+        "2025-12-28T08:00:53.773046"
       ],
       "views_rank": [
+        null,
         null,
         null,
         null,
@@ -84,6 +86,7 @@
         null,
         null,
         null,
+        null,
         null
       ],
       "likes_rank": [
@@ -94,7 +97,8 @@
         108,
         118,
         124,
-        133
+        133,
+        134
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "20831028-5f6d-4be4-b4a7-6693e6f767b9",
-  "generated_at": "2025-12-27T00:01:31.934163",
+  "generated_at": "2025-12-28T00:01:06.447276",
   "basic_info": {
     "title": "Background Remover Lite",
     "author": "nzwhouxvbbb094f",
@@ -11,21 +11,21 @@
     "published_at": "2025-12-09T17:26:42.045000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@nzwhouxvbbb094f/background-remover-lite",
-    "days_since_published": 17
+    "days_since_published": 18
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": null,
       "runs_rank": 232,
-      "likes_rank": 101,
+      "likes_rank": 102,
       "total_agents": 273,
       "views_percentile": 0,
       "runs_percentile": 15.0,
-      "likes_percentile": 63.0
+      "likes_percentile": 62.6
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 8,
+    "days_tracked": 9,
     "price": 1.0
   },
   "ranking_trends": {
@@ -34,12 +34,12 @@
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": 11,
-      "likes_rank_change": 80
+      "likes_rank_change": 81
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": 11,
-      "likes_rank_change": 80
+      "likes_rank_change": 81
     },
     "all_time": {
       "best_views_rank": 238,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 8,
+    "data_points": 9,
     "first_recorded": "2025-12-20T08:01:00.398750",
-    "last_recorded": "2025-12-27T08:01:00.423663",
+    "last_recorded": "2025-12-28T08:00:53.773046",
     "time_series": {
       "dates": [
         "2025-12-20T08:01:00.398750",
@@ -64,7 +64,8 @@
         "2025-12-24T08:01:01.461546",
         "2025-12-25T08:01:00.196993",
         "2025-12-26T08:00:54.905148",
-        "2025-12-27T08:01:00.423663"
+        "2025-12-27T08:01:00.423663",
+        "2025-12-28T08:00:53.773046"
       ],
       "views_rank": [
         238,
@@ -74,6 +75,7 @@
         245,
         246,
         249,
+        null,
         null
       ],
       "runs_rank": [
@@ -84,6 +86,7 @@
         224,
         225,
         229,
+        232,
         232
       ],
       "likes_rank": [
@@ -94,7 +97,8 @@
         63,
         80,
         89,
-        101
+        101,
+        102
       ]
     }
   },

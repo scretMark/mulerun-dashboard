@@ -1,6 +1,6 @@
 {
   "agent_id": "cbcf5928-6089-4bbc-88f8-16b41f1e6952",
-  "generated_at": "2025-12-27T00:01:32.082044",
+  "generated_at": "2025-12-28T00:01:06.599391",
   "basic_info": {
     "title": "Y2K Xmas Portraits AI",
     "author": "Lucas",
@@ -11,21 +11,21 @@
     "published_at": "2025-12-25T01:14:04.109000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/y2k-xmas-portraits-ai",
-    "days_since_published": 1
+    "days_since_published": 2
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": null,
       "runs_rank": null,
-      "likes_rank": 1,
+      "likes_rank": 100,
       "total_agents": 273,
       "views_percentile": 0,
       "runs_percentile": 0,
-      "likes_percentile": 99.6
+      "likes_percentile": 63.4
     },
-    "tier": "Elite",
-    "tier_class": "elite",
-    "days_tracked": 1,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 2,
     "price": 50.0
   },
   "ranking_trends": {
@@ -34,12 +34,12 @@
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": -1
+      "likes_rank_change": 98
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": -1
+      "likes_rank_change": 98
     },
     "all_time": {
       "best_views_rank": null,
@@ -52,25 +52,29 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 2,
+    "data_points": 3,
     "first_recorded": "2025-12-26T08:00:54.905148",
-    "last_recorded": "2025-12-27T08:01:00.423663",
+    "last_recorded": "2025-12-28T08:00:53.773046",
     "time_series": {
       "dates": [
         "2025-12-26T08:00:54.905148",
-        "2025-12-27T08:01:00.423663"
+        "2025-12-27T08:01:00.423663",
+        "2025-12-28T08:00:53.773046"
       ],
       "views_rank": [
+        null,
         null,
         null
       ],
       "runs_rank": [
         null,
+        null,
         null
       ],
       "likes_rank": [
         2,
-        1
+        1,
+        100
       ]
     }
   },
@@ -87,9 +91,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "Elite Performance",
-      "description": "Ranked #1 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #N/A out of 273 active agents."
     }
   ]
 }

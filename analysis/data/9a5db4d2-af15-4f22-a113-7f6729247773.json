@@ -1,6 +1,6 @@
 {
   "agent_id": "9a5db4d2-af15-4f22-a113-7f6729247773",
-  "generated_at": "2025-12-27T00:01:32.021680",
+  "generated_at": "2025-12-28T00:01:06.535936",
   "basic_info": {
     "title": "Hand-Drawn Santa Me",
     "author": "Norsizu",
@@ -11,21 +11,21 @@
     "published_at": "2025-12-22T10:20:25.768000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/hand-drawn-santa-me",
-    "days_since_published": 4
+    "days_since_published": 5
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": null,
       "runs_rank": null,
-      "likes_rank": 112,
+      "likes_rank": 113,
       "total_agents": 273,
       "views_percentile": 0,
       "runs_percentile": 0,
-      "likes_percentile": 59.0
+      "likes_percentile": 58.6
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 4,
+    "days_tracked": 5,
     "price": 45.0
   },
   "ranking_trends": {
@@ -34,12 +34,12 @@
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 56
+      "likes_rank_change": 57
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 56
+      "likes_rank_change": 57
     },
     "all_time": {
       "best_views_rank": null,
@@ -52,18 +52,20 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 5,
+    "data_points": 6,
     "first_recorded": "2025-12-23T08:00:59.635142",
-    "last_recorded": "2025-12-27T08:01:00.423663",
+    "last_recorded": "2025-12-28T08:00:53.773046",
     "time_series": {
       "dates": [
         "2025-12-23T08:00:59.635142",
         "2025-12-24T08:01:01.461546",
         "2025-12-25T08:01:00.196993",
         "2025-12-26T08:00:54.905148",
-        "2025-12-27T08:01:00.423663"
+        "2025-12-27T08:01:00.423663",
+        "2025-12-28T08:00:53.773046"
       ],
       "views_rank": [
+        null,
         null,
         null,
         null,
@@ -75,6 +77,7 @@
         246,
         246,
         null,
+        null,
         null
       ],
       "likes_rank": [
@@ -82,7 +85,8 @@
         71,
         86,
         103,
-        112
+        112,
+        113
       ]
     }
   },
