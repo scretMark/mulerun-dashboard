@@ -1,6 +1,6 @@
 {
   "agent_id": "e146e770-c6d7-49cb-aefc-4760330a6c30",
-  "generated_at": "2025-12-28T00:01:06.201517",
+  "generated_at": "2025-12-29T00:01:14.165580",
   "basic_info": {
     "title": "Create a different version of yourself",
     "author": "8bit",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-09T08:51:39.646000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/create-a-different-version-of-yourself",
-    "days_since_published": 18
+    "days_since_published": 19
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": null,
       "runs_rank": 205,
-      "likes_rank": 141,
+      "likes_rank": 140,
       "total_agents": 273,
       "views_percentile": 0,
       "runs_percentile": 24.9,
-      "likes_percentile": 48.4
+      "likes_percentile": 48.7
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 20,
+    "days_tracked": 21,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 16,
+    "days_tracked": 17,
     "last_7_days": {
       "views_rank_change": null,
-      "runs_rank_change": 11,
-      "likes_rank_change": 76
+      "runs_rank_change": 7,
+      "likes_rank_change": 71
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 20,
+    "data_points": 21,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2025-12-28T08:00:53.773046",
+    "last_recorded": "2025-12-29T08:01:02.439009",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -76,7 +76,8 @@
         "2025-12-25T08:01:00.196993",
         "2025-12-26T08:00:54.905148",
         "2025-12-27T08:01:00.423663",
-        "2025-12-28T08:00:53.773046"
+        "2025-12-28T08:00:53.773046",
+        "2025-12-29T08:01:02.439009"
       ],
       "views_rank": [
         null,
@@ -96,6 +97,7 @@
         245,
         248,
         249,
+        null,
         null,
         null,
         null
@@ -120,6 +122,7 @@
         199,
         201,
         205,
+        205,
         205
       ],
       "likes_rank": [
@@ -142,7 +145,8 @@
         120,
         130,
         140,
-        141
+        141,
+        140
       ]
     }
   },

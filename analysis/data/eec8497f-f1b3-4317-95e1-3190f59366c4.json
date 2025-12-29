@@ -1,6 +1,6 @@
 {
   "agent_id": "eec8497f-f1b3-4317-95e1-3190f59366c4",
-  "generated_at": "2025-12-28T00:01:04.799903",
+  "generated_at": "2025-12-29T00:01:12.903547",
   "basic_info": {
     "title": "AskHeurist",
     "author": "AskHeurist",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-14T10:14:58.206000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AskHeurist/askheurist",
-    "days_since_published": 74
+    "days_since_published": 75
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 179,
-      "runs_rank": 216,
-      "likes_rank": 218,
+      "runs_rank": 215,
+      "likes_rank": 220,
       "total_agents": 273,
       "views_percentile": 34.4,
-      "runs_percentile": 20.9,
-      "likes_percentile": 20.1
+      "runs_percentile": 21.2,
+      "likes_percentile": 19.4
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 74,
+    "days_tracked": 75,
     "price": 150.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 38,
+    "days_tracked": 39,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 12,
-      "likes_rank_change": -22
+      "runs_rank_change": 9,
+      "likes_rank_change": -26
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 42,
+    "data_points": 43,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-28T08:00:53.773046",
+    "last_recorded": "2025-12-29T08:01:02.439009",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -98,7 +98,8 @@
         "2025-12-25T08:01:00.196993",
         "2025-12-26T08:00:54.905148",
         "2025-12-27T08:01:00.423663",
-        "2025-12-28T08:00:53.773046"
+        "2025-12-28T08:00:53.773046",
+        "2025-12-29T08:01:02.439009"
       ],
       "views_rank": [
         null,
@@ -140,6 +141,7 @@
         178,
         178,
         178,
+        179,
         179,
         179,
         179
@@ -186,7 +188,8 @@
         208,
         211,
         215,
-        216
+        216,
+        215
       ],
       "likes_rank": [
         null,
@@ -230,7 +233,8 @@
         206,
         212,
         219,
-        218
+        218,
+        220
       ]
     }
   },

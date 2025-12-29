@@ -1,6 +1,6 @@
 {
   "agent_id": "779e2356-11e7-4fe0-90a3-4a1e9506c3b0",
-  "generated_at": "2025-12-28T00:01:03.193112",
+  "generated_at": "2025-12-29T00:01:11.452290",
   "basic_info": {
     "title": "Smart Q",
     "author": "QuickBI",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-04T15:33:59.812000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@QuickBI/smart-q",
-    "days_since_published": 53
+    "days_since_published": 54
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 25,
       "runs_rank": 5,
-      "likes_rank": 2,
+      "likes_rank": 9,
       "total_agents": 273,
       "views_percentile": 90.8,
       "runs_percentile": 98.2,
-      "likes_percentile": 99.3
+      "likes_percentile": 96.7
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 49,
+    "days_tracked": 50,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 39,
+    "days_tracked": 40,
     "last_7_days": {
-      "views_rank_change": -1,
+      "views_rank_change": -2,
       "runs_rank_change": 0,
-      "likes_rank_change": -42
+      "likes_rank_change": -23
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 43,
+    "data_points": 44,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-28T08:00:53.773046",
+    "last_recorded": "2025-12-29T08:01:02.439009",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -99,7 +99,8 @@
         "2025-12-25T08:01:00.196993",
         "2025-12-26T08:00:54.905148",
         "2025-12-27T08:01:00.423663",
-        "2025-12-28T08:00:53.773046"
+        "2025-12-28T08:00:53.773046",
+        "2025-12-29T08:01:02.439009"
       ],
       "views_rank": [
         null,
@@ -144,6 +145,7 @@
         27,
         27,
         25,
+        25,
         25
       ],
       "runs_rank": [
@@ -181,6 +183,7 @@
         6,
         6,
         6,
+        5,
         5,
         5,
         5,
@@ -234,7 +237,8 @@
         87,
         97,
         5,
-        2
+        2,
+        9
       ]
     }
   },
@@ -246,7 +250,7 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #2 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #5 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     }
   ]
 }

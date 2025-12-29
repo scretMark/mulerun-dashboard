@@ -1,6 +1,6 @@
 {
   "agent_id": "93db55d2-7fe5-408d-82ac-ae2e97422987",
-  "generated_at": "2025-12-28T00:01:06.663470",
+  "generated_at": "2025-12-29T00:01:14.605590",
   "basic_info": {
     "title": "Fashion Reels",
     "author": "PicCopilot",
@@ -11,40 +11,40 @@
     "published_at": "2025-12-23T14:08:06.614000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/ai-model-video",
-    "days_since_published": 4
+    "days_since_published": 5
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 241,
       "runs_rank": 237,
-      "likes_rank": 45,
+      "likes_rank": 44,
       "total_agents": 273,
       "views_percentile": 11.7,
       "runs_percentile": 13.2,
-      "likes_percentile": 83.5
+      "likes_percentile": 83.9
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 1,
+    "days_tracked": 2,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 1,
+    "days_tracked": 2,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 0,
-      "likes_rank_change": 0
+      "likes_rank_change": -1
     },
     "last_30_days": {
       "views_rank_change": 1,
       "runs_rank_change": 0,
-      "likes_rank_change": 0
+      "likes_rank_change": -1
     },
     "all_time": {
       "best_views_rank": 240,
       "best_runs_rank": 237,
-      "best_likes_rank": 45,
+      "best_likes_rank": 44,
       "days_in_top_10": 0,
       "first_rank": 240,
       "current_rank": 241
@@ -52,25 +52,29 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 2,
+    "data_points": 3,
     "first_recorded": "2025-12-27T08:01:00.423663",
-    "last_recorded": "2025-12-28T08:00:53.773046",
+    "last_recorded": "2025-12-29T08:01:02.439009",
     "time_series": {
       "dates": [
         "2025-12-27T08:01:00.423663",
-        "2025-12-28T08:00:53.773046"
+        "2025-12-28T08:00:53.773046",
+        "2025-12-29T08:01:02.439009"
       ],
       "views_rank": [
         240,
+        241,
         241
       ],
       "runs_rank": [
+        237,
         237,
         237
       ],
       "likes_rank": [
         45,
-        45
+        45,
+        44
       ]
     }
   },
@@ -89,7 +93,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #45 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #44 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }
