@@ -1,6 +1,6 @@
 {
   "agent_id": "c16d3179-561b-4c4c-8fca-632da002faad",
-  "generated_at": "2025-12-29T00:01:12.097952",
+  "generated_at": "2025-12-30T00:01:02.954867",
   "basic_info": {
     "title": "A nine-grid of headshots",
     "author": "laughing_code",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-28T13:13:34.793000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@laughing_code/a-nine-grid-of-headshots",
-    "days_since_published": 91
+    "days_since_published": 92
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 60,
       "runs_rank": 66,
-      "likes_rank": 153,
+      "likes_rank": 51,
       "total_agents": 273,
       "views_percentile": 78.0,
       "runs_percentile": 75.8,
-      "likes_percentile": 44.0
+      "likes_percentile": 81.3
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 94,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 95,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 39,
+    "days_tracked": 40,
     "last_7_days": {
       "views_rank_change": 2,
       "runs_rank_change": 0,
-      "likes_rank_change": 13
+      "likes_rank_change": -89
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -44,7 +44,7 @@
     "all_time": {
       "best_views_rank": 58,
       "best_runs_rank": 65,
-      "best_likes_rank": 126,
+      "best_likes_rank": 51,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 60
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 43,
+    "data_points": 44,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-29T08:01:02.439009",
+    "last_recorded": "2025-12-30T08:00:51.754083",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -99,7 +99,8 @@
         "2025-12-26T08:00:54.905148",
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
-        "2025-12-29T08:01:02.439009"
+        "2025-12-29T08:01:02.439009",
+        "2025-12-30T08:00:51.754083"
       ],
       "views_rank": [
         null,
@@ -144,6 +145,7 @@
         60,
         60,
         60,
+        60,
         60
       ],
       "runs_rank": [
@@ -182,6 +184,7 @@
         65,
         65,
         65,
+        66,
         66,
         66,
         66,
@@ -234,7 +237,8 @@
         144,
         152,
         153,
-        153
+        153,
+        51
       ]
     }
   },
@@ -244,9 +248,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #60 out of 273 active agents."
+      "type": "positive",
+      "title": "High Performer",
+      "description": "Ranked #51 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

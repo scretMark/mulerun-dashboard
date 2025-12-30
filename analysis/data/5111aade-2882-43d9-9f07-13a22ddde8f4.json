@@ -1,6 +1,6 @@
 {
   "agent_id": "5111aade-2882-43d9-9f07-13a22ddde8f4",
-  "generated_at": "2025-12-29T00:01:12.932332",
+  "generated_at": "2025-12-30T00:01:03.742934",
   "basic_info": {
     "title": "Nimbus",
     "author": "Norsizu",
@@ -11,29 +11,29 @@
     "published_at": "2025-10-14T22:46:52.487000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/nimbus",
-    "days_since_published": 75
+    "days_since_published": 76
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 206,
-      "runs_rank": 227,
+      "runs_rank": 228,
       "likes_rank": null,
       "total_agents": 273,
       "views_percentile": 24.5,
-      "runs_percentile": 16.8,
+      "runs_percentile": 16.5,
       "likes_percentile": 0
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 65,
+    "days_tracked": 66,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 39,
+    "days_tracked": 40,
     "last_7_days": {
       "views_rank_change": 3,
-      "runs_rank_change": 7,
+      "runs_rank_change": 8,
       "likes_rank_change": null
     },
     "last_30_days": {
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 43,
+    "data_points": 44,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-29T08:01:02.439009",
+    "last_recorded": "2025-12-30T08:00:51.754083",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -99,7 +99,8 @@
         "2025-12-26T08:00:54.905148",
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
-        "2025-12-29T08:01:02.439009"
+        "2025-12-29T08:01:02.439009",
+        "2025-12-30T08:00:51.754083"
       ],
       "views_rank": [
         null,
@@ -142,6 +143,7 @@
         203,
         204,
         204,
+        206,
         206,
         206,
         206
@@ -189,7 +191,8 @@
         224,
         227,
         227,
-        227
+        227,
+        228
       ],
       "likes_rank": [
         null,
@@ -233,6 +236,7 @@
         235,
         240,
         247,
+        null,
         null,
         null
       ]

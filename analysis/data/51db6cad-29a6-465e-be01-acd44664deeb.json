@@ -1,6 +1,6 @@
 {
   "agent_id": "51db6cad-29a6-465e-be01-acd44664deeb",
-  "generated_at": "2025-12-29T00:01:14.266720",
+  "generated_at": "2025-12-30T00:01:05.084263",
   "basic_info": {
     "title": "Design your cup",
     "author": "8bit",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-09T15:24:54.449000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/design-your-cup",
-    "days_since_published": 19
+    "days_since_published": 20
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": null,
-      "runs_rank": 219,
-      "likes_rank": 117,
+      "runs_rank": 220,
+      "likes_rank": 130,
       "total_agents": 273,
       "views_percentile": 0,
-      "runs_percentile": 19.8,
-      "likes_percentile": 57.1
+      "runs_percentile": 19.4,
+      "likes_percentile": 52.4
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 20,
+    "days_tracked": 21,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 16,
+    "days_tracked": 17,
     "last_7_days": {
       "views_rank_change": null,
-      "runs_rank_change": 8,
-      "likes_rank_change": 17
+      "runs_rank_change": 9,
+      "likes_rank_change": 30
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 20,
+    "data_points": 21,
     "first_recorded": "2025-12-13T08:00:26.854786",
-    "last_recorded": "2025-12-29T08:01:02.439009",
+    "last_recorded": "2025-12-30T08:00:51.754083",
     "time_series": {
       "dates": [
         "2025-12-13T08:00:26.854786",
@@ -76,7 +76,8 @@
         "2025-12-26T08:00:54.905148",
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
-        "2025-12-29T08:01:02.439009"
+        "2025-12-29T08:01:02.439009",
+        "2025-12-30T08:00:51.754083"
       ],
       "views_rank": [
         null,
@@ -92,6 +93,7 @@
         249,
         249,
         249,
+        null,
         null,
         null,
         null,
@@ -120,7 +122,8 @@
         215,
         219,
         219,
-        219
+        219,
+        220
       ],
       "likes_rank": [
         null,
@@ -142,7 +145,8 @@
         107,
         116,
         117,
-        117
+        117,
+        130
       ]
     }
   },

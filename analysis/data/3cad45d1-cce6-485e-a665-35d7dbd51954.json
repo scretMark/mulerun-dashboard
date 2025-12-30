@@ -1,6 +1,6 @@
 {
   "agent_id": "3cad45d1-cce6-485e-a665-35d7dbd51954",
-  "generated_at": "2025-12-29T00:01:12.757740",
+  "generated_at": "2025-12-30T00:01:03.585732",
   "basic_info": {
     "title": "Companion of the Storm",
     "author": "Darren",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-20T11:32:32.791000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/companion-of-the-storm",
-    "days_since_published": 69
+    "days_since_published": 70
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 113,
       "runs_rank": 189,
-      "likes_rank": 147,
+      "likes_rank": 159,
       "total_agents": 273,
       "views_percentile": 58.6,
       "runs_percentile": 30.8,
-      "likes_percentile": 46.2
+      "likes_percentile": 41.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 65,
+    "days_tracked": 66,
     "price": 51.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 39,
+    "days_tracked": 40,
     "last_7_days": {
       "views_rank_change": 2,
       "runs_rank_change": 9,
-      "likes_rank_change": 38
+      "likes_rank_change": 50
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 43,
+    "data_points": 44,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-29T08:01:02.439009",
+    "last_recorded": "2025-12-30T08:00:51.754083",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -99,7 +99,8 @@
         "2025-12-26T08:00:54.905148",
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
-        "2025-12-29T08:01:02.439009"
+        "2025-12-29T08:01:02.439009",
+        "2025-12-30T08:00:51.754083"
       ],
       "views_rank": [
         null,
@@ -141,6 +142,7 @@
         111,
         111,
         112,
+        113,
         113,
         113,
         113,
@@ -189,6 +191,7 @@
         183,
         189,
         189,
+        189,
         189
       ],
       "likes_rank": [
@@ -234,7 +237,8 @@
         138,
         147,
         147,
-        147
+        147,
+        159
       ]
     }
   },

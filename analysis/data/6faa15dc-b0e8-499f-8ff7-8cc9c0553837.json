@@ -1,6 +1,6 @@
 {
   "agent_id": "6faa15dc-b0e8-499f-8ff7-8cc9c0553837",
-  "generated_at": "2025-12-29T00:01:12.832971",
+  "generated_at": "2025-12-30T00:01:03.620028",
   "basic_info": {
     "title": "Minimalist Origami Photo",
     "author": "Darren",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-20T11:31:28.113000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/minimalist-origami-photo",
-    "days_since_published": 69
+    "days_since_published": 70
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 133,
+      "views_rank": 134,
       "runs_rank": 143,
-      "likes_rank": 4,
+      "likes_rank": 2,
       "total_agents": 273,
-      "views_percentile": 51.3,
+      "views_percentile": 50.9,
       "runs_percentile": 47.6,
-      "likes_percentile": 98.5
+      "likes_percentile": 99.3
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 65,
+    "days_tracked": 66,
     "price": 51.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 39,
+    "days_tracked": 40,
     "last_7_days": {
-      "views_rank_change": 3,
+      "views_rank_change": 4,
       "runs_rank_change": 4,
-      "likes_rank_change": -175
+      "likes_rank_change": -177
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -44,17 +44,17 @@
     "all_time": {
       "best_views_rank": 128,
       "best_runs_rank": 134,
-      "best_likes_rank": 4,
+      "best_likes_rank": 2,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 133
+      "current_rank": 134
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 43,
+    "data_points": 44,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-29T08:01:02.439009",
+    "last_recorded": "2025-12-30T08:00:51.754083",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -99,7 +99,8 @@
         "2025-12-26T08:00:54.905148",
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
-        "2025-12-29T08:01:02.439009"
+        "2025-12-29T08:01:02.439009",
+        "2025-12-30T08:00:51.754083"
       ],
       "views_rank": [
         null,
@@ -144,7 +145,8 @@
         132,
         132,
         132,
-        133
+        133,
+        134
       ],
       "runs_rank": [
         null,
@@ -189,6 +191,7 @@
         140,
         142,
         142,
+        143,
         143
       ],
       "likes_rank": [
@@ -234,7 +237,8 @@
         7,
         6,
         4,
-        4
+        4,
+        2
       ]
     }
   },
@@ -246,7 +250,7 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #4 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #2 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     }
   ]
 }

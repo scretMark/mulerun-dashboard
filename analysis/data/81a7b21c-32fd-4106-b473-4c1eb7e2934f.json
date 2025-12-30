@@ -1,6 +1,6 @@
 {
   "agent_id": "81a7b21c-32fd-4106-b473-4c1eb7e2934f",
-  "generated_at": "2025-12-29T00:01:12.797779",
+  "generated_at": "2025-12-30T00:01:03.596875",
   "basic_info": {
     "title": "Elon Musk I Love YOU",
     "author": "Darren",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-20T11:38:39.595000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/elon-musk-i-love-you",
-    "days_since_published": 69
+    "days_since_published": 70
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 118,
-      "runs_rank": 163,
-      "likes_rank": 203,
+      "runs_rank": 167,
+      "likes_rank": 209,
       "total_agents": 273,
       "views_percentile": 56.8,
-      "runs_percentile": 40.3,
-      "likes_percentile": 25.6
+      "runs_percentile": 38.8,
+      "likes_percentile": 23.4
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 70,
+    "days_tracked": 71,
     "price": 51.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 39,
+    "days_tracked": 40,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 6,
-      "likes_rank_change": 36
+      "runs_rank_change": 10,
+      "likes_rank_change": 42
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 43,
+    "data_points": 44,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-29T08:01:02.439009",
+    "last_recorded": "2025-12-30T08:00:51.754083",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -99,7 +99,8 @@
         "2025-12-26T08:00:54.905148",
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
-        "2025-12-29T08:01:02.439009"
+        "2025-12-29T08:01:02.439009",
+        "2025-12-30T08:00:51.754083"
       ],
       "views_rank": [
         null,
@@ -138,6 +139,7 @@
         115,
         115,
         115,
+        118,
         118,
         118,
         118,
@@ -189,7 +191,8 @@
         158,
         163,
         163,
-        163
+        163,
+        167
       ],
       "likes_rank": [
         null,
@@ -234,7 +237,8 @@
         198,
         204,
         204,
-        203
+        203,
+        209
       ]
     }
   },

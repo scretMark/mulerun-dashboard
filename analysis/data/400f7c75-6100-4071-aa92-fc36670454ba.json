@@ -1,6 +1,6 @@
 {
   "agent_id": "400f7c75-6100-4071-aa92-fc36670454ba",
-  "generated_at": "2025-12-29T00:01:12.913113",
+  "generated_at": "2025-12-30T00:01:03.719184",
   "basic_info": {
     "title": "Cozy Christmas Glow",
     "author": "Lucas",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-22T12:41:26.838000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/cozy-christmas-glow",
-    "days_since_published": 67
+    "days_since_published": 68
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 186,
-      "runs_rank": 246,
-      "likes_rank": 248,
+      "runs_rank": 247,
+      "likes_rank": null,
       "total_agents": 273,
       "views_percentile": 31.9,
-      "runs_percentile": 9.9,
-      "likes_percentile": 9.2
+      "runs_percentile": 9.5,
+      "likes_percentile": 0
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 69,
+    "days_tracked": 70,
     "price": 49.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 39,
+    "days_tracked": 40,
     "last_7_days": {
       "views_rank_change": 2,
-      "runs_rank_change": 10,
-      "likes_rank_change": 49
+      "runs_rank_change": 11,
+      "likes_rank_change": null
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 43,
+    "data_points": 44,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-29T08:01:02.439009",
+    "last_recorded": "2025-12-30T08:00:51.754083",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -99,7 +99,8 @@
         "2025-12-26T08:00:54.905148",
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
-        "2025-12-29T08:01:02.439009"
+        "2025-12-29T08:01:02.439009",
+        "2025-12-30T08:00:51.754083"
       ],
       "views_rank": [
         null,
@@ -144,6 +145,7 @@
         186,
         186,
         185,
+        186,
         186
       ],
       "runs_rank": [
@@ -189,7 +191,8 @@
         241,
         246,
         246,
-        246
+        246,
+        247
       ],
       "likes_rank": [
         null,
@@ -234,7 +237,8 @@
         245,
         null,
         250,
-        248
+        248,
+        null
       ]
     }
   },

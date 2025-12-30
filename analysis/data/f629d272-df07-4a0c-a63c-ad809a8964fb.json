@@ -1,6 +1,6 @@
 {
   "agent_id": "f629d272-df07-4a0c-a63c-ad809a8964fb",
-  "generated_at": "2025-12-29T00:01:13.781183",
+  "generated_at": "2025-12-30T00:01:04.578391",
   "basic_info": {
     "title": "Amazon Product SEO Research",
     "author": "createAny",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-28T21:43:09.391000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@createAny/amazon-product-seo-research",
-    "days_since_published": 61
+    "days_since_published": 62
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 188,
-      "runs_rank": 199,
-      "likes_rank": 65,
+      "runs_rank": 201,
+      "likes_rank": 78,
       "total_agents": 273,
       "views_percentile": 31.1,
-      "runs_percentile": 27.1,
-      "likes_percentile": 76.2
+      "runs_percentile": 26.4,
+      "likes_percentile": 71.4
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 65,
+    "days_tracked": 66,
     "price": 99.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 39,
+    "days_tracked": 40,
     "last_7_days": {
       "views_rank_change": -1,
-      "runs_rank_change": 9,
-      "likes_rank_change": -62
+      "runs_rank_change": 11,
+      "likes_rank_change": -49
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 43,
+    "data_points": 44,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-29T08:01:02.439009",
+    "last_recorded": "2025-12-30T08:00:51.754083",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -99,7 +99,8 @@
         "2025-12-26T08:00:54.905148",
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
-        "2025-12-29T08:01:02.439009"
+        "2025-12-29T08:01:02.439009",
+        "2025-12-30T08:00:51.754083"
       ],
       "views_rank": [
         null,
@@ -143,6 +144,7 @@
         189,
         188,
         189,
+        188,
         188,
         188
       ],
@@ -189,7 +191,8 @@
         194,
         199,
         199,
-        199
+        199,
+        201
       ],
       "likes_rank": [
         null,
@@ -234,7 +237,8 @@
         54,
         65,
         65,
-        65
+        65,
+        78
       ]
     }
   },

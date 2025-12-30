@@ -1,6 +1,6 @@
 {
   "agent_id": "1812ad5a-5354-4019-b0e8-6e490197a0b6",
-  "generated_at": "2025-12-29T00:01:12.495938",
+  "generated_at": "2025-12-30T00:01:03.333493",
   "basic_info": {
     "title": "Black and White Portrait",
     "author": "Zane29222",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-10T21:32:27.685000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Zane29222/black-and-white-portrait",
-    "days_since_published": 79
+    "days_since_published": 80
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 51,
       "runs_rank": 54,
-      "likes_rank": 184,
+      "likes_rank": 192,
       "total_agents": 273,
       "views_percentile": 81.3,
       "runs_percentile": 80.2,
-      "likes_percentile": 32.6
+      "likes_percentile": 29.7
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 76,
+    "days_tracked": 77,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 39,
+    "days_tracked": 40,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 1,
-      "likes_rank_change": 23
+      "likes_rank_change": 31
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 43,
+    "data_points": 44,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-29T08:01:02.439009",
+    "last_recorded": "2025-12-30T08:00:51.754083",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -99,7 +99,8 @@
         "2025-12-26T08:00:54.905148",
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
-        "2025-12-29T08:01:02.439009"
+        "2025-12-29T08:01:02.439009",
+        "2025-12-30T08:00:51.754083"
       ],
       "views_rank": [
         null,
@@ -129,6 +130,7 @@
         null,
         null,
         null,
+        51,
         51,
         51,
         51,
@@ -189,6 +191,7 @@
         54,
         54,
         54,
+        54,
         54
       ],
       "likes_rank": [
@@ -234,7 +237,8 @@
         177,
         184,
         184,
-        184
+        184,
+        192
       ]
     }
   },

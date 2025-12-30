@@ -1,6 +1,6 @@
 {
   "agent_id": "ca5710ab-c6da-4201-9221-b596b53f9857",
-  "generated_at": "2025-12-29T00:01:13.498036",
+  "generated_at": "2025-12-30T00:01:04.322558",
   "basic_info": {
     "title": "Ink Wash Painting",
     "author": "Darren",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-20T11:31:54.304000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/ink-wash-painting",
-    "days_since_published": 69
+    "days_since_published": 70
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 150,
-      "runs_rank": 235,
-      "likes_rank": 169,
+      "runs_rank": 237,
+      "likes_rank": 41,
       "total_agents": 273,
       "views_percentile": 45.1,
-      "runs_percentile": 13.9,
-      "likes_percentile": 38.1
+      "runs_percentile": 13.2,
+      "likes_percentile": 85.0
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 65,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 66,
     "price": 51.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 39,
+    "days_tracked": 40,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 8,
-      "likes_rank_change": 33
+      "runs_rank_change": 10,
+      "likes_rank_change": -95
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 43,
+    "data_points": 44,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-29T08:01:02.439009",
+    "last_recorded": "2025-12-30T08:00:51.754083",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -99,7 +99,8 @@
         "2025-12-26T08:00:54.905148",
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
-        "2025-12-29T08:01:02.439009"
+        "2025-12-29T08:01:02.439009",
+        "2025-12-30T08:00:51.754083"
       ],
       "views_rank": [
         null,
@@ -142,6 +143,7 @@
         149,
         149,
         149,
+        150,
         150,
         150,
         150
@@ -189,7 +191,8 @@
         232,
         235,
         235,
-        235
+        235,
+        237
       ],
       "likes_rank": [
         null,
@@ -234,7 +237,8 @@
         160,
         169,
         169,
-        169
+        169,
+        41
       ]
     }
   },
@@ -244,9 +248,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #150 out of 273 active agents."
+      "type": "positive",
+      "title": "High Performer",
+      "description": "Ranked #41 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

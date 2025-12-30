@@ -1,6 +1,6 @@
 {
   "agent_id": "16e32d82-da3c-478f-869d-20e2ab1bb886",
-  "generated_at": "2025-12-29T00:01:13.417826",
+  "generated_at": "2025-12-30T00:01:04.244100",
   "basic_info": {
     "title": "Puzzle toy characters",
     "author": "Darren",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-22T21:44:40.342000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/puzzle-toy-characters",
-    "days_since_published": 97
+    "days_since_published": 98
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 143,
-      "runs_rank": 226,
-      "likes_rank": 194,
+      "runs_rank": 227,
+      "likes_rank": 200,
       "total_agents": 273,
       "views_percentile": 47.6,
-      "runs_percentile": 17.2,
-      "likes_percentile": 28.9
+      "runs_percentile": 16.8,
+      "likes_percentile": 26.7
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 95,
+    "days_tracked": 96,
     "price": 48.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 39,
+    "days_tracked": 40,
     "last_7_days": {
       "views_rank_change": 3,
-      "runs_rank_change": 7,
-      "likes_rank_change": -8
+      "runs_rank_change": 8,
+      "likes_rank_change": -2
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 43,
+    "data_points": 44,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-29T08:01:02.439009",
+    "last_recorded": "2025-12-30T08:00:51.754083",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -99,7 +99,8 @@
         "2025-12-26T08:00:54.905148",
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
-        "2025-12-29T08:01:02.439009"
+        "2025-12-29T08:01:02.439009",
+        "2025-12-30T08:00:51.754083"
       ],
       "views_rank": [
         null,
@@ -143,6 +144,7 @@
         142,
         142,
         142,
+        143,
         143,
         143
       ],
@@ -189,7 +191,8 @@
         223,
         226,
         226,
-        226
+        226,
+        227
       ],
       "likes_rank": [
         null,
@@ -234,7 +237,8 @@
         187,
         193,
         193,
-        194
+        194,
+        200
       ]
     }
   },

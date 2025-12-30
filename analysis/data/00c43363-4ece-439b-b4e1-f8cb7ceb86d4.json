@@ -1,6 +1,6 @@
 {
   "agent_id": "00c43363-4ece-439b-b4e1-f8cb7ceb86d4",
-  "generated_at": "2025-12-29T00:01:14.581341",
+  "generated_at": "2025-12-30T00:01:05.418575",
   "basic_info": {
     "title": "SoulSync Chat AI  Companion",
     "author": "Eren_kaif",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-25T12:10:36.534000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Eren_kaif/soulsync-ai-agent",
-    "days_since_published": 3
+    "days_since_published": 4
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 197,
+      "views_rank": 198,
       "runs_rank": 109,
-      "likes_rank": 54,
+      "likes_rank": 67,
       "total_agents": 273,
-      "views_percentile": 27.8,
+      "views_percentile": 27.5,
       "runs_percentile": 60.1,
-      "likes_percentile": 80.2
+      "likes_percentile": 75.5
     },
-    "tier": "High",
-    "tier_class": "high",
-    "days_tracked": 2,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 3,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
     "days_tracked": 2,
     "last_7_days": {
-      "views_rank_change": 0,
+      "views_rank_change": 1,
       "runs_rank_change": -1,
-      "likes_rank_change": -4
+      "likes_rank_change": 9
     },
     "last_30_days": {
-      "views_rank_change": 0,
+      "views_rank_change": 1,
       "runs_rank_change": -1,
-      "likes_rank_change": -4
+      "likes_rank_change": 9
     },
     "all_time": {
       "best_views_rank": 197,
@@ -47,34 +47,38 @@
       "best_likes_rank": 54,
       "days_in_top_10": 0,
       "first_rank": 197,
-      "current_rank": 197
+      "current_rank": 198
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 3,
+    "data_points": 4,
     "first_recorded": "2025-12-27T08:01:00.423663",
-    "last_recorded": "2025-12-29T08:01:02.439009",
+    "last_recorded": "2025-12-30T08:00:51.754083",
     "time_series": {
       "dates": [
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
-        "2025-12-29T08:01:02.439009"
+        "2025-12-29T08:01:02.439009",
+        "2025-12-30T08:00:51.754083"
       ],
       "views_rank": [
         197,
         197,
-        197
+        197,
+        198
       ],
       "runs_rank": [
         110,
         108,
+        109,
         109
       ],
       "likes_rank": [
         58,
         54,
-        54
+        54,
+        67
       ]
     }
   },
@@ -91,9 +95,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "High Performer",
-      "description": "Ranked #54 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #198 out of 273 active agents."
     }
   ]
 }

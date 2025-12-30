@@ -1,6 +1,6 @@
 {
   "agent_id": "f8a1b72e-a50d-4b78-beb3-b6df59c6d848",
-  "generated_at": "2025-12-29T00:01:13.919225",
+  "generated_at": "2025-12-30T00:01:04.681885",
   "basic_info": {
     "title": "VibeMimic",
     "author": "LinkAIBrain",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-04T07:39:09.075000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/vibemimic",
-    "days_since_published": 24
+    "days_since_published": 25
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 187,
-      "runs_rank": 129,
-      "likes_rank": 126,
+      "runs_rank": 130,
+      "likes_rank": 140,
       "total_agents": 273,
       "views_percentile": 31.5,
-      "runs_percentile": 52.7,
-      "likes_percentile": 53.8
+      "runs_percentile": 52.4,
+      "likes_percentile": 48.7
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 29,
+    "days_tracked": 30,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 20,
+    "days_tracked": 21,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 2,
-      "likes_rank_change": 60
+      "runs_rank_change": 3,
+      "likes_rank_change": 74
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 26,
+    "data_points": 27,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2025-12-29T08:01:02.439009",
+    "last_recorded": "2025-12-30T08:00:51.754083",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -82,7 +82,8 @@
         "2025-12-26T08:00:54.905148",
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
-        "2025-12-29T08:01:02.439009"
+        "2025-12-29T08:01:02.439009",
+        "2025-12-30T08:00:51.754083"
       ],
       "views_rank": [
         null,
@@ -108,6 +109,7 @@
         188,
         188,
         189,
+        187,
         187,
         187,
         187
@@ -138,7 +140,8 @@
         127,
         129,
         129,
-        129
+        129,
+        130
       ],
       "likes_rank": [
         null,
@@ -166,7 +169,8 @@
         118,
         117,
         119,
-        126
+        126,
+        140
       ]
     }
   },

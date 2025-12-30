@@ -1,6 +1,6 @@
 {
   "agent_id": "b18c7e0e-462d-4904-857f-e9bf4658e7c9",
-  "generated_at": "2025-12-29T00:01:11.843069",
+  "generated_at": "2025-12-30T00:01:02.701747",
   "basic_info": {
     "title": "Me And My Mini-Me",
     "author": "YuTou_baby",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-19T20:13:16.719000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@YuTou_baby/me-and-my-mini-me",
-    "days_since_published": 100
+    "days_since_published": 101
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 19,
-      "runs_rank": 25,
-      "likes_rank": 201,
+      "runs_rank": 26,
+      "likes_rank": 203,
       "total_agents": 273,
       "views_percentile": 93.0,
-      "runs_percentile": 90.8,
-      "likes_percentile": 26.4
+      "runs_percentile": 90.5,
+      "likes_percentile": 25.6
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 70,
+    "days_tracked": 71,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 39,
+    "days_tracked": 40,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 3,
-      "likes_rank_change": -15
+      "runs_rank_change": 4,
+      "likes_rank_change": -13
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 43,
+    "data_points": 44,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-29T08:01:02.439009",
+    "last_recorded": "2025-12-30T08:00:51.754083",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -99,7 +99,8 @@
         "2025-12-26T08:00:54.905148",
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
-        "2025-12-29T08:01:02.439009"
+        "2025-12-29T08:01:02.439009",
+        "2025-12-30T08:00:51.754083"
       ],
       "views_rank": [
         null,
@@ -129,6 +130,7 @@
         null,
         null,
         null,
+        19,
         19,
         19,
         19,
@@ -189,7 +191,8 @@
         23,
         23,
         25,
-        25
+        25,
+        26
       ],
       "likes_rank": [
         null,
@@ -234,7 +237,8 @@
         194,
         200,
         200,
-        201
+        201,
+        203
       ]
     }
   },
@@ -256,7 +260,7 @@
     {
       "type": "info",
       "title": "Premium Agent Success",
-      "description": "Despite $50.0 pricing, this agent ranks #25 in usage - demonstrating strong value proposition."
+      "description": "Despite $50.0 pricing, this agent ranks #26 in usage - demonstrating strong value proposition."
     }
   ]
 }

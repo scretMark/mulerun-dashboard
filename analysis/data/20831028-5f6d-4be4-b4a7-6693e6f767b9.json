@@ -1,6 +1,6 @@
 {
   "agent_id": "20831028-5f6d-4be4-b4a7-6693e6f767b9",
-  "generated_at": "2025-12-29T00:01:14.367161",
+  "generated_at": "2025-12-30T00:01:05.204959",
   "basic_info": {
     "title": "Background Remover Lite",
     "author": "nzwhouxvbbb094f",
@@ -11,21 +11,21 @@
     "published_at": "2025-12-09T17:26:42.045000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@nzwhouxvbbb094f/background-remover-lite",
-    "days_since_published": 19
+    "days_since_published": 20
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": null,
-      "runs_rank": 232,
-      "likes_rank": 102,
+      "runs_rank": 231,
+      "likes_rank": 115,
       "total_agents": 273,
       "views_percentile": 0,
-      "runs_percentile": 15.0,
-      "likes_percentile": 62.6
+      "runs_percentile": 15.4,
+      "likes_percentile": 57.9
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 10,
+    "days_tracked": 11,
     "price": 1.0
   },
   "ranking_trends": {
@@ -33,13 +33,13 @@
     "days_tracked": 9,
     "last_7_days": {
       "views_rank_change": null,
-      "runs_rank_change": 8,
-      "likes_rank_change": 76
+      "runs_rank_change": 7,
+      "likes_rank_change": 89
     },
     "last_30_days": {
       "views_rank_change": null,
-      "runs_rank_change": 11,
-      "likes_rank_change": 81
+      "runs_rank_change": 10,
+      "likes_rank_change": 94
     },
     "all_time": {
       "best_views_rank": 238,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 10,
+    "data_points": 11,
     "first_recorded": "2025-12-20T08:01:00.398750",
-    "last_recorded": "2025-12-29T08:01:02.439009",
+    "last_recorded": "2025-12-30T08:00:51.754083",
     "time_series": {
       "dates": [
         "2025-12-20T08:01:00.398750",
@@ -66,7 +66,8 @@
         "2025-12-26T08:00:54.905148",
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
-        "2025-12-29T08:01:02.439009"
+        "2025-12-29T08:01:02.439009",
+        "2025-12-30T08:00:51.754083"
       ],
       "views_rank": [
         238,
@@ -76,6 +77,7 @@
         245,
         246,
         249,
+        null,
         null,
         null,
         null
@@ -90,7 +92,8 @@
         229,
         232,
         232,
-        232
+        232,
+        231
       ],
       "likes_rank": [
         21,
@@ -102,7 +105,8 @@
         89,
         101,
         102,
-        102
+        102,
+        115
       ]
     }
   },

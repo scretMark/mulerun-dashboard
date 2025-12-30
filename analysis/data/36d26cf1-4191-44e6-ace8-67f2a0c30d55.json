@@ -1,6 +1,6 @@
 {
   "agent_id": "36d26cf1-4191-44e6-ace8-67f2a0c30d55",
-  "generated_at": "2025-12-29T00:01:11.909397",
+  "generated_at": "2025-12-30T00:01:02.770025",
   "basic_info": {
     "title": "Video Face Swap",
     "author": "Darren",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-05T16:24:10.619000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/video-face-swap",
-    "days_since_published": 84
+    "days_since_published": 85
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 70,
-      "runs_rank": 68,
-      "likes_rank": 48,
+      "views_rank": 71,
+      "runs_rank": 69,
+      "likes_rank": 61,
       "total_agents": 273,
-      "views_percentile": 74.4,
-      "runs_percentile": 75.1,
-      "likes_percentile": 82.4
+      "views_percentile": 74.0,
+      "runs_percentile": 74.7,
+      "likes_percentile": 77.7
     },
-    "tier": "High",
-    "tier_class": "high",
-    "days_tracked": 65,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 66,
     "price": 99.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 39,
+    "days_tracked": 40,
     "last_7_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": 0,
-      "likes_rank_change": -100
+      "views_rank_change": 2,
+      "runs_rank_change": 1,
+      "likes_rank_change": -87
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 40,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 70
+      "current_rank": 71
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 43,
+    "data_points": 44,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-29T08:01:02.439009",
+    "last_recorded": "2025-12-30T08:00:51.754083",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -99,7 +99,8 @@
         "2025-12-26T08:00:54.905148",
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
-        "2025-12-29T08:01:02.439009"
+        "2025-12-29T08:01:02.439009",
+        "2025-12-30T08:00:51.754083"
       ],
       "views_rank": [
         null,
@@ -144,7 +145,8 @@
         69,
         69,
         69,
-        70
+        70,
+        71
       ],
       "runs_rank": [
         null,
@@ -189,7 +191,8 @@
         68,
         68,
         68,
-        68
+        68,
+        69
       ],
       "likes_rank": [
         null,
@@ -234,7 +237,8 @@
         40,
         49,
         null,
-        48
+        48,
+        61
       ]
     }
   },
@@ -244,9 +248,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "High Performer",
-      "description": "Ranked #48 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #71 out of 273 active agents."
     }
   ]
 }

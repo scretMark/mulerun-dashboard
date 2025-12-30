@@ -1,31 +1,31 @@
 {
   "agent_id": "cb491d4b-3a43-4f3c-a6b5-a519fc2f3bee",
-  "generated_at": "2025-12-29T00:01:14.621682",
+  "generated_at": "2025-12-30T00:01:05.464360",
   "basic_info": {
     "title": "Serene Chat-Style Assessment",
     "author": "Serenetech",
-    "description": "Discover your personality through a natural, AI-powered chat.",
+    "description": "Discover your personality through a natural, AI-powered chat.\nWelcome to Serene Chat-Style Assessment — your journey to self-discovery unfolds through a natural conversation, powered by AI.\nDo you rea...",
     "short_description": "Assess personality and gain insights through chat.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-12-22T14:48:12.852000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Serenetech/serene-chat-style-assessment",
-    "days_since_published": 6
+    "days_since_published": 7
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": null,
       "runs_rank": null,
-      "likes_rank": 60,
+      "likes_rank": 73,
       "total_agents": 273,
       "views_percentile": 0,
       "runs_percentile": 0,
-      "likes_percentile": 78.0
+      "likes_percentile": 73.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 2,
+    "days_tracked": 3,
     "price": 0.0
   },
   "ranking_trends": {
@@ -34,12 +34,12 @@
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 1
+      "likes_rank_change": 14
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 1
+      "likes_rank_change": 14
     },
     "all_time": {
       "best_views_rank": null,
@@ -52,16 +52,18 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 3,
+    "data_points": 4,
     "first_recorded": "2025-12-27T08:01:00.423663",
-    "last_recorded": "2025-12-29T08:01:02.439009",
+    "last_recorded": "2025-12-30T08:00:51.754083",
     "time_series": {
       "dates": [
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
-        "2025-12-29T08:01:02.439009"
+        "2025-12-29T08:01:02.439009",
+        "2025-12-30T08:00:51.754083"
       ],
       "views_rank": [
+        null,
         null,
         null,
         null
@@ -69,12 +71,14 @@
       "runs_rank": [
         null,
         null,
+        null,
         null
       ],
       "likes_rank": [
         59,
         60,
-        60
+        60,
+        73
       ]
     }
   },

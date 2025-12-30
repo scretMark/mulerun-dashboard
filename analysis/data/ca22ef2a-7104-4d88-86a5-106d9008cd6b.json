@@ -1,6 +1,6 @@
 {
   "agent_id": "ca22ef2a-7104-4d88-86a5-106d9008cd6b",
-  "generated_at": "2025-12-29T00:01:14.410751",
+  "generated_at": "2025-12-30T00:01:05.249850",
   "basic_info": {
     "title": "Xmas Monster Market",
     "author": "Norsizu",
@@ -11,21 +11,21 @@
     "published_at": "2025-12-19T16:34:38.383000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/xmas-monster-market",
-    "days_since_published": 9
+    "days_since_published": 10
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": null,
       "runs_rank": null,
-      "likes_rank": 82,
+      "likes_rank": 96,
       "total_agents": 273,
       "views_percentile": 0,
       "runs_percentile": 0,
-      "likes_percentile": 70.0
+      "likes_percentile": 64.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 9,
+    "days_tracked": 10,
     "price": 45.0
   },
   "ranking_trends": {
@@ -34,12 +34,12 @@
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 30
+      "likes_rank_change": 44
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 31
+      "likes_rank_change": 45
     },
     "all_time": {
       "best_views_rank": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 10,
+    "data_points": 11,
     "first_recorded": "2025-12-20T08:01:00.398750",
-    "last_recorded": "2025-12-29T08:01:02.439009",
+    "last_recorded": "2025-12-30T08:00:51.754083",
     "time_series": {
       "dates": [
         "2025-12-20T08:01:00.398750",
@@ -66,9 +66,11 @@
         "2025-12-26T08:00:54.905148",
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
-        "2025-12-29T08:01:02.439009"
+        "2025-12-29T08:01:02.439009",
+        "2025-12-30T08:00:51.754083"
       ],
       "views_rank": [
+        null,
         null,
         null,
         null,
@@ -90,6 +92,7 @@
         null,
         null,
         null,
+        null,
         null
       ],
       "likes_rank": [
@@ -102,7 +105,8 @@
         71,
         81,
         82,
-        82
+        82,
+        96
       ]
     }
   },

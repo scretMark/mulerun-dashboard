@@ -1,6 +1,6 @@
 {
   "agent_id": "93db55d2-7fe5-408d-82ac-ae2e97422987",
-  "generated_at": "2025-12-29T00:01:14.605590",
+  "generated_at": "2025-12-30T00:01:05.446399",
   "basic_info": {
     "title": "Fashion Reels",
     "author": "PicCopilot",
@@ -11,21 +11,21 @@
     "published_at": "2025-12-23T14:08:06.614000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/ai-model-video",
-    "days_since_published": 5
+    "days_since_published": 6
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 241,
-      "runs_rank": 237,
-      "likes_rank": 44,
+      "runs_rank": 235,
+      "likes_rank": 66,
       "total_agents": 273,
       "views_percentile": 11.7,
-      "runs_percentile": 13.2,
-      "likes_percentile": 83.9
+      "runs_percentile": 13.9,
+      "likes_percentile": 75.8
     },
-    "tier": "High",
-    "tier_class": "high",
-    "days_tracked": 2,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 3,
     "price": 0.0
   },
   "ranking_trends": {
@@ -33,17 +33,17 @@
     "days_tracked": 2,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 0,
-      "likes_rank_change": -1
+      "runs_rank_change": -2,
+      "likes_rank_change": 21
     },
     "last_30_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 0,
-      "likes_rank_change": -1
+      "runs_rank_change": -2,
+      "likes_rank_change": 21
     },
     "all_time": {
       "best_views_rank": 240,
-      "best_runs_rank": 237,
+      "best_runs_rank": 235,
       "best_likes_rank": 44,
       "days_in_top_10": 0,
       "first_rank": 240,
@@ -52,29 +52,33 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 3,
+    "data_points": 4,
     "first_recorded": "2025-12-27T08:01:00.423663",
-    "last_recorded": "2025-12-29T08:01:02.439009",
+    "last_recorded": "2025-12-30T08:00:51.754083",
     "time_series": {
       "dates": [
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
-        "2025-12-29T08:01:02.439009"
+        "2025-12-29T08:01:02.439009",
+        "2025-12-30T08:00:51.754083"
       ],
       "views_rank": [
         240,
+        241,
         241,
         241
       ],
       "runs_rank": [
         237,
         237,
-        237
+        237,
+        235
       ],
       "likes_rank": [
         45,
         45,
-        44
+        44,
+        66
       ]
     }
   },
@@ -91,9 +95,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "High Performer",
-      "description": "Ranked #44 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #241 out of 273 active agents."
     }
   ]
 }

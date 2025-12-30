@@ -1,6 +1,6 @@
 {
   "agent_id": "4bee3a8f-d8c4-4504-9984-5ff55659a871",
-  "generated_at": "2025-12-29T00:01:13.570248",
+  "generated_at": "2025-12-30T00:01:04.379641",
   "basic_info": {
     "title": "REMOVE Video Background",
     "author": "Darren",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-09T22:09:15.655000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/remove-video-background",
-    "days_since_published": 80
+    "days_since_published": 81
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 154,
       "runs_rank": null,
-      "likes_rank": 238,
+      "likes_rank": 236,
       "total_agents": 273,
       "views_percentile": 43.6,
       "runs_percentile": 0,
-      "likes_percentile": 12.8
+      "likes_percentile": 13.6
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 81,
+    "days_tracked": 82,
     "price": 288.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 39,
+    "days_tracked": 40,
     "last_7_days": {
       "views_rank_change": -2,
       "runs_rank_change": null,
-      "likes_rank_change": -7
+      "likes_rank_change": -9
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 43,
+    "data_points": 44,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-29T08:01:02.439009",
+    "last_recorded": "2025-12-30T08:00:51.754083",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -99,7 +99,8 @@
         "2025-12-26T08:00:54.905148",
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
-        "2025-12-29T08:01:02.439009"
+        "2025-12-29T08:01:02.439009",
+        "2025-12-30T08:00:51.754083"
       ],
       "views_rank": [
         null,
@@ -144,6 +145,7 @@
         155,
         155,
         154,
+        154,
         154
       ],
       "runs_rank": [
@@ -183,6 +185,7 @@
         249,
         249,
         249,
+        null,
         null,
         null,
         null,
@@ -234,7 +237,8 @@
         222,
         234,
         238,
-        238
+        238,
+        236
       ]
     }
   },
