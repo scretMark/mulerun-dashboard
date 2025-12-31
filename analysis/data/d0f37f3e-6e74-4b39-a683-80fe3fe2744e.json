@@ -1,6 +1,6 @@
 {
   "agent_id": "d0f37f3e-6e74-4b39-a683-80fe3fe2744e",
-  "generated_at": "2025-12-30T00:01:02.358524",
+  "generated_at": "2025-12-31T00:01:23.453377",
   "basic_info": {
     "title": "Product Creative Studio",
     "author": "Aichimp",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-18T18:12:01.652000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aichimp/product-creative-studio",
-    "days_since_published": 72
+    "days_since_published": 73
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 40,
+      "views_rank": 38,
       "runs_rank": 17,
-      "likes_rank": 80,
-      "total_agents": 273,
-      "views_percentile": 85.3,
-      "runs_percentile": 93.8,
-      "likes_percentile": 70.7
+      "likes_rank": 87,
+      "total_agents": 277,
+      "views_percentile": 86.3,
+      "runs_percentile": 93.9,
+      "likes_percentile": 68.6
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 51,
+    "days_tracked": 52,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "last_7_days": {
-      "views_rank_change": -4,
+      "views_rank_change": -6,
       "runs_rank_change": 0,
-      "likes_rank_change": null
+      "likes_rank_change": 58
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -42,19 +42,19 @@
       "likes_rank_change": null
     },
     "all_time": {
-      "best_views_rank": 40,
+      "best_views_rank": 38,
       "best_runs_rank": 15,
       "best_likes_rank": 29,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 40
+      "current_rank": 38
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 45,
+    "data_points": 46,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-30T08:00:51.754083",
+    "last_recorded": "2025-12-31T08:00:58.854286",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -101,7 +101,8 @@
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
-        "2025-12-30T08:00:51.754083"
+        "2025-12-30T08:00:51.754083",
+        "2025-12-31T08:00:58.854286"
       ],
       "views_rank": [
         null,
@@ -148,7 +149,8 @@
         42,
         42,
         42,
-        40
+        40,
+        38
       ],
       "runs_rank": [
         null,
@@ -187,6 +189,7 @@
         15,
         15,
         15,
+        17,
         17,
         17,
         17,
@@ -242,7 +245,8 @@
         67,
         69,
         68,
-        80
+        80,
+        87
       ]
     }
   },
@@ -255,6 +259,11 @@
       "type": "positive",
       "title": "High Performer",
       "description": "Ranked #17 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+    },
+    {
+      "type": "positive",
+      "title": "Hot Trend",
+      "description": "Up 6 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

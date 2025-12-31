@@ -1,6 +1,6 @@
 {
   "agent_id": "c55f8b40-1659-4417-95f0-14b5ad4cd1e2",
-  "generated_at": "2025-12-30T00:01:05.427677",
+  "generated_at": "2025-12-31T00:01:26.608185",
   "basic_info": {
     "title": "FreeAI Builder",
     "author": "li_alan7qd",
@@ -11,74 +11,78 @@
     "published_at": "2025-12-24T00:43:06.317000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@li_alan7qd/freeai-builder",
-    "days_since_published": 5
+    "days_since_published": 6
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 216,
-      "runs_rank": 128,
-      "likes_rank": 10,
-      "total_agents": 273,
-      "views_percentile": 20.9,
-      "runs_percentile": 53.1,
-      "likes_percentile": 96.3
+      "views_rank": 205,
+      "runs_rank": 123,
+      "likes_rank": 49,
+      "total_agents": 277,
+      "views_percentile": 26.0,
+      "runs_percentile": 55.6,
+      "likes_percentile": 82.3
     },
-    "tier": "Elite",
-    "tier_class": "elite",
-    "days_tracked": 3,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 4,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 2,
+    "days_tracked": 3,
     "last_7_days": {
-      "views_rank_change": 3,
-      "runs_rank_change": 1,
-      "likes_rank_change": -3
+      "views_rank_change": -8,
+      "runs_rank_change": -4,
+      "likes_rank_change": 36
     },
     "last_30_days": {
-      "views_rank_change": 3,
-      "runs_rank_change": 1,
-      "likes_rank_change": -3
+      "views_rank_change": -8,
+      "runs_rank_change": -4,
+      "likes_rank_change": 36
     },
     "all_time": {
-      "best_views_rank": 213,
-      "best_runs_rank": 127,
+      "best_views_rank": 205,
+      "best_runs_rank": 123,
       "best_likes_rank": 10,
       "days_in_top_10": 0,
       "first_rank": 213,
-      "current_rank": 216
+      "current_rank": 205
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 4,
+    "data_points": 5,
     "first_recorded": "2025-12-27T08:01:00.423663",
-    "last_recorded": "2025-12-30T08:00:51.754083",
+    "last_recorded": "2025-12-31T08:00:58.854286",
     "time_series": {
       "dates": [
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
-        "2025-12-30T08:00:51.754083"
+        "2025-12-30T08:00:51.754083",
+        "2025-12-31T08:00:58.854286"
       ],
       "views_rank": [
         213,
         214,
         214,
-        216
+        216,
+        205
       ],
       "runs_rank": [
         127,
         127,
         127,
-        128
+        128,
+        123
       ],
       "likes_rank": [
         13,
         13,
         13,
-        10
+        10,
+        49
       ]
     }
   },
@@ -96,8 +100,13 @@
   "insights": [
     {
       "type": "positive",
-      "title": "Elite Performance",
-      "description": "Ranked #10 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "title": "High Performer",
+      "description": "Ranked #49 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+    },
+    {
+      "type": "positive",
+      "title": "Hot Trend",
+      "description": "Up 8 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

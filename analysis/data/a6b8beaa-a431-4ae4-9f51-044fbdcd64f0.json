@@ -1,6 +1,6 @@
 {
   "agent_id": "a6b8beaa-a431-4ae4-9f51-044fbdcd64f0",
-  "generated_at": "2025-12-30T00:01:04.984346",
+  "generated_at": "2025-12-31T00:01:26.230902",
   "basic_info": {
     "title": "Festival Purikura",
     "author": "Norsizu",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-09T19:56:57.349000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/festival-purikura",
-    "days_since_published": 20
+    "days_since_published": 21
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 233,
+      "views_rank": 236,
       "runs_rank": 133,
-      "likes_rank": 114,
-      "total_agents": 273,
-      "views_percentile": 14.7,
-      "runs_percentile": 51.3,
-      "likes_percentile": 58.2
+      "likes_rank": 119,
+      "total_agents": 277,
+      "views_percentile": 14.8,
+      "runs_percentile": 52.0,
+      "likes_percentile": 57.0
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 22,
+    "days_tracked": 23,
     "price": 75.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 18,
+    "days_tracked": 19,
     "last_7_days": {
-      "views_rank_change": 6,
+      "views_rank_change": 8,
       "runs_rank_change": 3,
-      "likes_rank_change": 110
+      "likes_rank_change": 60
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 1,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 233
+      "current_rank": 236
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 22,
+    "data_points": 23,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2025-12-30T08:00:51.754083",
+    "last_recorded": "2025-12-31T08:00:58.854286",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -78,7 +78,8 @@
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
-        "2025-12-30T08:00:51.754083"
+        "2025-12-30T08:00:51.754083",
+        "2025-12-31T08:00:58.854286"
       ],
       "views_rank": [
         null,
@@ -102,7 +103,8 @@
         233,
         233,
         233,
-        233
+        233,
+        236
       ],
       "runs_rank": [
         null,
@@ -126,6 +128,7 @@
         132,
         132,
         132,
+        133,
         133
       ],
       "likes_rank": [
@@ -150,7 +153,8 @@
         99,
         101,
         101,
-        114
+        114,
+        119
       ]
     }
   },
@@ -169,7 +173,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #233 out of 273 active agents."
+      "description": "This agent is currently ranked #236 out of 277 active agents."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "52ecfa2a-3f0d-4ed9-8b27-7e6a6e2a5fd5",
-  "generated_at": "2025-12-30T00:01:04.278533",
+  "generated_at": "2025-12-31T00:01:25.451879",
   "basic_info": {
     "title": "Calorie Counter",
     "author": "wujin",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-07T12:55:04.113000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@wujin/calorie-counter",
-    "days_since_published": 83
+    "days_since_published": 84
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 135,
       "runs_rank": 197,
-      "likes_rank": 22,
-      "total_agents": 273,
-      "views_percentile": 50.5,
-      "runs_percentile": 27.8,
-      "likes_percentile": 91.9
+      "likes_rank": 17,
+      "total_agents": 277,
+      "views_percentile": 51.3,
+      "runs_percentile": 28.9,
+      "likes_percentile": 93.9
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 71,
+    "days_tracked": 72,
     "price": 30.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 40,
+    "days_tracked": 41,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 8,
-      "likes_rank_change": -218
+      "likes_rank_change": -227
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -44,7 +44,7 @@
     "all_time": {
       "best_views_rank": 132,
       "best_runs_rank": 183,
-      "best_likes_rank": 22,
+      "best_likes_rank": 17,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 135
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 44,
+    "data_points": 45,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-30T08:00:51.754083",
+    "last_recorded": "2025-12-31T08:00:58.854286",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -100,7 +100,8 @@
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
-        "2025-12-30T08:00:51.754083"
+        "2025-12-30T08:00:51.754083",
+        "2025-12-31T08:00:58.854286"
       ],
       "views_rank": [
         null,
@@ -141,6 +142,7 @@
         133,
         134,
         134,
+        135,
         135,
         135,
         135,
@@ -192,6 +194,7 @@
         197,
         197,
         197,
+        197,
         197
       ],
       "likes_rank": [
@@ -238,7 +241,8 @@
         25,
         26,
         26,
-        22
+        22,
+        17
       ]
     }
   },
@@ -250,7 +254,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #22 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #17 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

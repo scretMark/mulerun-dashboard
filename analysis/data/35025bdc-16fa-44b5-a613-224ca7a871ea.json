@@ -1,6 +1,6 @@
 {
   "agent_id": "35025bdc-16fa-44b5-a613-224ca7a871ea",
-  "generated_at": "2025-12-30T00:01:02.816059",
+  "generated_at": "2025-12-31T00:01:23.893564",
   "basic_info": {
     "title": "Portraitify AI",
     "author": "DENNIS",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-28T15:03:29.770000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@DENNIS/portraitify-ai",
-    "days_since_published": 92
+    "days_since_published": 93
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 84,
       "runs_rank": 79,
-      "likes_rank": 69,
-      "total_agents": 273,
-      "views_percentile": 69.2,
-      "runs_percentile": 71.1,
-      "likes_percentile": 74.7
+      "likes_rank": 74,
+      "total_agents": 277,
+      "views_percentile": 69.7,
+      "runs_percentile": 71.5,
+      "likes_percentile": 73.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 92,
+    "days_tracked": 93,
     "price": 100.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 40,
+    "days_tracked": 41,
     "last_7_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": 1,
-      "likes_rank_change": -145
+      "views_rank_change": 2,
+      "runs_rank_change": 2,
+      "likes_rank_change": 51
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 44,
+    "data_points": 45,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-30T08:00:51.754083",
+    "last_recorded": "2025-12-31T08:00:58.854286",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -100,7 +100,8 @@
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
-        "2025-12-30T08:00:51.754083"
+        "2025-12-30T08:00:51.754083",
+        "2025-12-31T08:00:58.854286"
       ],
       "views_rank": [
         null,
@@ -146,6 +147,7 @@
         84,
         84,
         84,
+        84,
         84
       ],
       "runs_rank": [
@@ -188,6 +190,7 @@
         78,
         77,
         78,
+        79,
         79,
         79,
         79,
@@ -238,7 +241,8 @@
         55,
         55,
         55,
-        69
+        69,
+        74
       ]
     }
   },
@@ -250,7 +254,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #84 out of 273 active agents."
+      "description": "This agent is currently ranked #84 out of 277 active agents."
     }
   ]
 }

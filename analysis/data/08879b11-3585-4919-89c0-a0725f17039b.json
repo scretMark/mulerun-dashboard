@@ -1,6 +1,6 @@
 {
   "agent_id": "08879b11-3585-4919-89c0-a0725f17039b",
-  "generated_at": "2025-12-30T00:01:03.408804",
+  "generated_at": "2025-12-31T00:01:24.540436",
   "basic_info": {
     "title": "Amazon Product Search",
     "author": "createAny",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-13T18:19:42.979000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@createAny/amazon-product-search",
-    "days_since_published": 77
+    "days_since_published": 78
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 138,
       "runs_rank": 134,
-      "likes_rank": 18,
-      "total_agents": 273,
-      "views_percentile": 49.5,
-      "runs_percentile": 50.9,
-      "likes_percentile": 93.4
+      "likes_rank": 24,
+      "total_agents": 277,
+      "views_percentile": 50.2,
+      "runs_percentile": 51.6,
+      "likes_percentile": 91.3
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 76,
+    "days_tracked": 77,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 40,
+    "days_tracked": 41,
     "last_7_days": {
-      "views_rank_change": -4,
+      "views_rank_change": -5,
       "runs_rank_change": 0,
-      "likes_rank_change": -67
+      "likes_rank_change": 21
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 44,
+    "data_points": 45,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-30T08:00:51.754083",
+    "last_recorded": "2025-12-31T08:00:58.854286",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -100,7 +100,8 @@
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
-        "2025-12-30T08:00:51.754083"
+        "2025-12-30T08:00:51.754083",
+        "2025-12-31T08:00:58.854286"
       ],
       "views_rank": [
         null,
@@ -146,6 +147,7 @@
         143,
         140,
         140,
+        138,
         138
       ],
       "runs_rank": [
@@ -191,6 +193,7 @@
         132,
         134,
         133,
+        134,
         134,
         134
       ],
@@ -238,7 +241,8 @@
         18,
         21,
         23,
-        18
+        18,
+        24
       ]
     }
   },
@@ -250,7 +254,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #18 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #24 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

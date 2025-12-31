@@ -1,6 +1,6 @@
 {
   "agent_id": "7a3c7c0c-4778-49bd-9f87-7513c77b40e8",
-  "generated_at": "2025-12-30T00:01:03.126735",
+  "generated_at": "2025-12-31T00:01:24.237776",
   "basic_info": {
     "title": "Illustrate Mind Spark 2",
     "author": "Rhino",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-30T14:30:28.773000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Rhino/illustrate-mind-spark-2",
-    "days_since_published": 90
+    "days_since_published": 91
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 105,
       "runs_rank": 182,
-      "likes_rank": 30,
-      "total_agents": 273,
-      "views_percentile": 61.5,
-      "runs_percentile": 33.3,
-      "likes_percentile": 89.0
+      "likes_rank": 29,
+      "total_agents": 277,
+      "views_percentile": 62.1,
+      "runs_percentile": 34.3,
+      "likes_percentile": 89.5
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 90,
+    "days_tracked": 91,
     "price": 30.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 40,
+    "days_tracked": 41,
     "last_7_days": {
-      "views_rank_change": -3,
-      "runs_rank_change": 4,
-      "likes_rank_change": -160
+      "views_rank_change": -2,
+      "runs_rank_change": 6,
+      "likes_rank_change": -164
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 44,
+    "data_points": 45,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-30T08:00:51.754083",
+    "last_recorded": "2025-12-31T08:00:58.854286",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -100,7 +100,8 @@
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
-        "2025-12-30T08:00:51.754083"
+        "2025-12-30T08:00:51.754083",
+        "2025-12-31T08:00:58.854286"
       ],
       "views_rank": [
         null,
@@ -146,6 +147,7 @@
         104,
         105,
         105,
+        105,
         105
       ],
       "runs_rank": [
@@ -189,6 +191,7 @@
         176,
         176,
         177,
+        182,
         182,
         182,
         182,
@@ -238,7 +241,8 @@
         29,
         30,
         30,
-        30
+        30,
+        29
       ]
     }
   },
@@ -250,7 +254,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #30 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #29 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

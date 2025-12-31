@@ -1,6 +1,6 @@
 {
   "agent_id": "a6421a08-2caa-40d3-a842-a738e82cb5b2",
-  "generated_at": "2025-12-30T00:01:04.404586",
+  "generated_at": "2025-12-31T00:01:25.601786",
   "basic_info": {
     "title": "One prompt 10 replies",
     "author": "MonkeyE",
@@ -11,29 +11,29 @@
     "published_at": "2025-10-18T11:03:57.331000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@MonkeyE/one-prompt-10-replies",
-    "days_since_published": 72
+    "days_since_published": 73
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 165,
       "runs_rank": 180,
       "likes_rank": null,
-      "total_agents": 273,
-      "views_percentile": 39.6,
-      "runs_percentile": 34.1,
+      "total_agents": 277,
+      "views_percentile": 40.4,
+      "runs_percentile": 35.0,
       "likes_percentile": 0
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 72,
+    "days_tracked": 73,
     "price": 1.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 40,
+    "days_tracked": 41,
     "last_7_days": {
       "views_rank_change": 6,
-      "runs_rank_change": 7,
+      "runs_rank_change": 6,
       "likes_rank_change": null
     },
     "last_30_days": {
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 44,
+    "data_points": 45,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-30T08:00:51.754083",
+    "last_recorded": "2025-12-31T08:00:58.854286",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -100,7 +100,8 @@
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
-        "2025-12-30T08:00:51.754083"
+        "2025-12-30T08:00:51.754083",
+        "2025-12-31T08:00:58.854286"
       ],
       "views_rank": [
         null,
@@ -146,6 +147,7 @@
         164,
         165,
         165,
+        165,
         165
       ],
       "runs_rank": [
@@ -189,6 +191,7 @@
         174,
         174,
         174,
+        180,
         180,
         180,
         180,
@@ -238,6 +241,7 @@
         248,
         248,
         247,
+        null,
         null
       ]
     }
@@ -250,7 +254,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #165 out of 273 active agents."
+      "description": "This agent is currently ranked #165 out of 277 active agents."
     }
   ]
 }

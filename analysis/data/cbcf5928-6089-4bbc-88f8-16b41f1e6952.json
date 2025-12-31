@@ -1,6 +1,6 @@
 {
   "agent_id": "cbcf5928-6089-4bbc-88f8-16b41f1e6952",
-  "generated_at": "2025-12-30T00:01:05.400881",
+  "generated_at": "2025-12-31T00:01:26.580090",
   "basic_info": {
     "title": "Y2K Xmas Portraits AI",
     "author": "Lucas",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-25T01:14:04.109000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/y2k-xmas-portraits-ai",
-    "days_since_published": 4
+    "days_since_published": 5
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": null,
       "runs_rank": null,
-      "likes_rank": 27,
-      "total_agents": 273,
+      "likes_rank": 25,
+      "total_agents": 277,
       "views_percentile": 0,
       "runs_percentile": 0,
-      "likes_percentile": 90.1
+      "likes_percentile": 91.0
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 4,
+    "days_tracked": 5,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 3,
+    "days_tracked": 5,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 25
+      "likes_rank_change": 23
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 25
+      "likes_rank_change": 23
     },
     "all_time": {
       "best_views_rank": null,
@@ -52,18 +52,20 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 5,
+    "data_points": 6,
     "first_recorded": "2025-12-26T08:00:54.905148",
-    "last_recorded": "2025-12-30T08:00:51.754083",
+    "last_recorded": "2025-12-31T08:00:58.854286",
     "time_series": {
       "dates": [
         "2025-12-26T08:00:54.905148",
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
-        "2025-12-30T08:00:51.754083"
+        "2025-12-30T08:00:51.754083",
+        "2025-12-31T08:00:58.854286"
       ],
       "views_rank": [
+        null,
         null,
         null,
         null,
@@ -75,6 +77,7 @@
         null,
         null,
         null,
+        null,
         null
       ],
       "likes_rank": [
@@ -82,7 +85,8 @@
         1,
         100,
         20,
-        27
+        27,
+        25
       ]
     }
   },
@@ -101,7 +105,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #27 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #25 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

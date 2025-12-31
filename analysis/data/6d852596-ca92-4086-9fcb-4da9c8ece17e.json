@@ -1,6 +1,6 @@
 {
   "agent_id": "6d852596-ca92-4086-9fcb-4da9c8ece17e",
-  "generated_at": "2025-12-30T00:01:04.630213",
+  "generated_at": "2025-12-31T00:01:25.878588",
   "basic_info": {
     "title": "Banana Pro Canvas",
     "author": "Aronlong",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-20T20:11:49.993000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aronlong/banana-pro-canvas",
-    "days_since_published": 39
+    "days_since_published": 40
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 63,
+      "views_rank": 62,
       "runs_rank": 67,
-      "likes_rank": 89,
-      "total_agents": 273,
-      "views_percentile": 76.9,
-      "runs_percentile": 75.5,
-      "likes_percentile": 67.4
+      "likes_rank": 95,
+      "total_agents": 277,
+      "views_percentile": 77.6,
+      "runs_percentile": 75.8,
+      "likes_percentile": 65.7
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 35,
+    "days_tracked": 36,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "last_7_days": {
-      "views_rank_change": -3,
+      "views_rank_change": -4,
       "runs_rank_change": 0,
-      "likes_rank_change": 75
+      "likes_rank_change": 58
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -42,19 +42,19 @@
       "likes_rank_change": null
     },
     "all_time": {
-      "best_views_rank": 63,
+      "best_views_rank": 62,
       "best_runs_rank": 66,
       "best_likes_rank": 1,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 63
+      "current_rank": 62
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 35,
+    "data_points": 36,
     "first_recorded": "2025-11-26T08:00:32.046352",
-    "last_recorded": "2025-12-30T08:00:51.754083",
+    "last_recorded": "2025-12-31T08:00:58.854286",
     "time_series": {
       "dates": [
         "2025-11-26T08:00:32.046352",
@@ -91,7 +91,8 @@
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
-        "2025-12-30T08:00:51.754083"
+        "2025-12-30T08:00:51.754083",
+        "2025-12-31T08:00:58.854286"
       ],
       "views_rank": [
         null,
@@ -128,7 +129,8 @@
         64,
         64,
         64,
-        63
+        63,
+        62
       ],
       "runs_rank": [
         null,
@@ -155,6 +157,7 @@
         66,
         66,
         66,
+        67,
         67,
         67,
         67,
@@ -202,7 +205,8 @@
         75,
         76,
         76,
-        89
+        89,
+        95
       ]
     }
   },
@@ -221,7 +225,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #63 out of 273 active agents."
+      "description": "This agent is currently ranked #62 out of 277 active agents."
     }
   ]
 }

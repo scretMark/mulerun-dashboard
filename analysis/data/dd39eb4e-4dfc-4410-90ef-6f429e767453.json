@@ -1,6 +1,6 @@
 {
   "agent_id": "dd39eb4e-4dfc-4410-90ef-6f429e767453",
-  "generated_at": "2025-12-30T00:01:04.722193",
+  "generated_at": "2025-12-31T00:01:25.990793",
   "basic_info": {
     "title": "Christmas Studio",
     "author": "DENNIS",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-04T09:23:54.267000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@DENNIS/christmas-studio",
-    "days_since_published": 25
+    "days_since_published": 26
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 197,
-      "runs_rank": 154,
-      "likes_rank": 112,
-      "total_agents": 273,
-      "views_percentile": 27.8,
-      "runs_percentile": 43.6,
-      "likes_percentile": 59.0
+      "views_rank": 194,
+      "runs_rank": 151,
+      "likes_rank": 116,
+      "total_agents": 277,
+      "views_percentile": 30.0,
+      "runs_percentile": 45.5,
+      "likes_percentile": 58.1
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 28,
+    "days_tracked": 29,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 21,
+    "days_tracked": 22,
     "last_7_days": {
-      "views_rank_change": 2,
-      "runs_rank_change": 0,
-      "likes_rank_change": 69
+      "views_rank_change": -1,
+      "runs_rank_change": -3,
+      "likes_rank_change": 65
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 7,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 197
+      "current_rank": 194
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 27,
+    "data_points": 28,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2025-12-30T08:00:51.754083",
+    "last_recorded": "2025-12-31T08:00:58.854286",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -83,7 +83,8 @@
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
-        "2025-12-30T08:00:51.754083"
+        "2025-12-30T08:00:51.754083",
+        "2025-12-31T08:00:58.854286"
       ],
       "views_rank": [
         null,
@@ -112,7 +113,8 @@
         196,
         196,
         196,
-        197
+        197,
+        194
       ],
       "runs_rank": [
         null,
@@ -141,7 +143,8 @@
         152,
         153,
         153,
-        154
+        154,
+        151
       ],
       "likes_rank": [
         null,
@@ -170,7 +173,8 @@
         97,
         98,
         98,
-        112
+        112,
+        116
       ]
     }
   },
@@ -189,7 +193,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #197 out of 273 active agents."
+      "description": "This agent is currently ranked #194 out of 277 active agents."
     }
   ]
 }

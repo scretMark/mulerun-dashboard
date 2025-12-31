@@ -1,6 +1,6 @@
 {
   "agent_id": "ed52f279-b88f-42da-89d0-5bcb25a899e4",
-  "generated_at": "2025-12-30T00:01:02.564976",
+  "generated_at": "2025-12-31T00:01:23.631334",
   "basic_info": {
     "title": "White Background",
     "author": "PicCopilot",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-11T19:24:00.925000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/white-background",
-    "days_since_published": 48
+    "days_since_published": 49
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 158,
+      "views_rank": 151,
       "runs_rank": 25,
-      "likes_rank": 241,
-      "total_agents": 273,
-      "views_percentile": 42.1,
-      "runs_percentile": 90.8,
-      "likes_percentile": 11.7
+      "likes_rank": 240,
+      "total_agents": 277,
+      "views_percentile": 45.5,
+      "runs_percentile": 91.0,
+      "likes_percentile": 13.4
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 51,
+    "days_tracked": 52,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "last_7_days": {
-      "views_rank_change": -3,
+      "views_rank_change": -10,
       "runs_rank_change": -1,
-      "likes_rank_change": 31
+      "likes_rank_change": 25
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -42,19 +42,19 @@
       "likes_rank_change": null
     },
     "all_time": {
-      "best_views_rank": 156,
+      "best_views_rank": 151,
       "best_runs_rank": 23,
       "best_likes_rank": 96,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 158
+      "current_rank": 151
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 45,
+    "data_points": 46,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-30T08:00:51.754083",
+    "last_recorded": "2025-12-31T08:00:58.854286",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -101,7 +101,8 @@
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
-        "2025-12-30T08:00:51.754083"
+        "2025-12-30T08:00:51.754083",
+        "2025-12-31T08:00:58.854286"
       ],
       "views_rank": [
         null,
@@ -148,7 +149,8 @@
         161,
         157,
         156,
-        158
+        158,
+        151
       ],
       "runs_rank": [
         null,
@@ -195,6 +197,7 @@
         26,
         26,
         26,
+        25,
         25
       ],
       "likes_rank": [
@@ -242,7 +245,8 @@
         239,
         240,
         235,
-        241
+        241,
+        240
       ]
     }
   },
@@ -255,6 +259,11 @@
       "type": "positive",
       "title": "High Performer",
       "description": "Ranked #25 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+    },
+    {
+      "type": "positive",
+      "title": "Hot Trend",
+      "description": "Up 10 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "4bee3a8f-d8c4-4504-9984-5ff55659a871",
-  "generated_at": "2025-12-30T00:01:04.379641",
+  "generated_at": "2025-12-31T00:01:25.575703",
   "basic_info": {
     "title": "REMOVE Video Background",
     "author": "Darren",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-09T22:09:15.655000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/remove-video-background",
-    "days_since_published": 81
+    "days_since_published": 82
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 154,
+      "views_rank": 155,
       "runs_rank": null,
-      "likes_rank": 236,
-      "total_agents": 273,
-      "views_percentile": 43.6,
+      "likes_rank": 242,
+      "total_agents": 277,
+      "views_percentile": 44.0,
       "runs_percentile": 0,
-      "likes_percentile": 13.6
+      "likes_percentile": 12.6
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 82,
+    "days_tracked": 83,
     "price": 288.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 40,
+    "days_tracked": 41,
     "last_7_days": {
-      "views_rank_change": -2,
+      "views_rank_change": 0,
       "runs_rank_change": null,
-      "likes_rank_change": -9
+      "likes_rank_change": 21
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 29,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 154
+      "current_rank": 155
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 44,
+    "data_points": 45,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-30T08:00:51.754083",
+    "last_recorded": "2025-12-31T08:00:58.854286",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -100,7 +100,8 @@
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
-        "2025-12-30T08:00:51.754083"
+        "2025-12-30T08:00:51.754083",
+        "2025-12-31T08:00:58.854286"
       ],
       "views_rank": [
         null,
@@ -146,7 +147,8 @@
         155,
         154,
         154,
-        154
+        154,
+        155
       ],
       "runs_rank": [
         null,
@@ -185,6 +187,7 @@
         249,
         249,
         249,
+        null,
         null,
         null,
         null,
@@ -238,7 +241,8 @@
         234,
         238,
         238,
-        236
+        236,
+        242
       ]
     }
   },
@@ -250,7 +254,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #154 out of 273 active agents."
+      "description": "This agent is currently ranked #155 out of 277 active agents."
     }
   ]
 }

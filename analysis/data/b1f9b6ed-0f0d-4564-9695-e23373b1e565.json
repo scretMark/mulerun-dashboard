@@ -1,6 +1,6 @@
 {
   "agent_id": "b1f9b6ed-0f0d-4564-9695-e23373b1e565",
-  "generated_at": "2025-12-30T00:01:03.030877",
+  "generated_at": "2025-12-31T00:01:24.135369",
   "basic_info": {
     "title": "Pose Grid Generator",
     "author": "laughing_code",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-28T14:14:02.445000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@laughing_code/pose-grid-generator",
-    "days_since_published": 92
+    "days_since_published": 93
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 28,
       "runs_rank": 33,
-      "likes_rank": 166,
-      "total_agents": 273,
-      "views_percentile": 89.7,
-      "runs_percentile": 87.9,
-      "likes_percentile": 39.2
+      "likes_rank": 170,
+      "total_agents": 277,
+      "views_percentile": 89.9,
+      "runs_percentile": 88.1,
+      "likes_percentile": 38.6
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 95,
+    "days_tracked": 96,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 40,
+    "days_tracked": 41,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": 15
+      "likes_rank_change": 37
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 44,
+    "data_points": 45,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-30T08:00:51.754083",
+    "last_recorded": "2025-12-31T08:00:58.854286",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -100,7 +100,8 @@
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
-        "2025-12-30T08:00:51.754083"
+        "2025-12-30T08:00:51.754083",
+        "2025-12-31T08:00:58.854286"
       ],
       "views_rank": [
         null,
@@ -136,6 +137,7 @@
         27,
         27,
         27,
+        28,
         28,
         28,
         28,
@@ -192,6 +194,7 @@
         33,
         33,
         33,
+        33,
         33
       ],
       "likes_rank": [
@@ -238,7 +241,8 @@
         157,
         157,
         158,
-        166
+        166,
+        170
       ]
     }
   },

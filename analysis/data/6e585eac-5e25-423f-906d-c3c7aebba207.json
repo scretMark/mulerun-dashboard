@@ -1,6 +1,6 @@
 {
   "agent_id": "6e585eac-5e25-423f-906d-c3c7aebba207",
-  "generated_at": "2025-12-30T00:01:03.656004",
+  "generated_at": "2025-12-31T00:01:24.787276",
   "basic_info": {
     "title": "AI Car Wrap Color Change",
     "author": "Jayden",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-10T10:31:34.514000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Jayden/ai-car-wrap-color-change",
-    "days_since_published": 49
+    "days_since_published": 50
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 145,
-      "runs_rank": 146,
-      "likes_rank": 29,
-      "total_agents": 273,
-      "views_percentile": 46.9,
-      "runs_percentile": 46.5,
-      "likes_percentile": 89.4
+      "views_rank": 144,
+      "runs_rank": 148,
+      "likes_rank": 58,
+      "total_agents": 277,
+      "views_percentile": 48.0,
+      "runs_percentile": 46.6,
+      "likes_percentile": 79.1
     },
-    "tier": "High",
-    "tier_class": "high",
-    "days_tracked": 55,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 56,
     "price": 69.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 40,
+    "days_tracked": 41,
     "last_7_days": {
-      "views_rank_change": -3,
-      "runs_rank_change": 1,
-      "likes_rank_change": -174
+      "views_rank_change": -4,
+      "runs_rank_change": 2,
+      "likes_rank_change": -182
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 29,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 145
+      "current_rank": 144
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 44,
+    "data_points": 45,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-30T08:00:51.754083",
+    "last_recorded": "2025-12-31T08:00:58.854286",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -100,7 +100,8 @@
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
-        "2025-12-30T08:00:51.754083"
+        "2025-12-30T08:00:51.754083",
+        "2025-12-31T08:00:58.854286"
       ],
       "views_rank": [
         null,
@@ -146,7 +147,8 @@
         145,
         145,
         145,
-        145
+        145,
+        144
       ],
       "runs_rank": [
         null,
@@ -192,7 +194,8 @@
         148,
         149,
         149,
-        146
+        146,
+        148
       ],
       "likes_rank": [
         null,
@@ -238,7 +241,8 @@
         249,
         249,
         null,
-        29
+        29,
+        58
       ]
     }
   },
@@ -248,9 +252,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "High Performer",
-      "description": "Ranked #29 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #144 out of 277 active agents."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "980aa77e-92a0-46fa-996e-6bf665c1febe",
-  "generated_at": "2025-12-30T00:01:04.026807",
+  "generated_at": "2025-12-31T00:01:25.234317",
   "basic_info": {
     "title": "LegoFigBox",
     "author": "HongwuQz",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-25T12:41:18.171000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@HongwuQz/legofigbox",
-    "days_since_published": 95
+    "days_since_published": 96
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 98,
       "runs_rank": 97,
-      "likes_rank": 183,
-      "total_agents": 273,
-      "views_percentile": 64.1,
-      "runs_percentile": 64.5,
-      "likes_percentile": 33.0
+      "likes_rank": 188,
+      "total_agents": 277,
+      "views_percentile": 64.6,
+      "runs_percentile": 65.0,
+      "likes_percentile": 32.1
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 95,
+    "days_tracked": 96,
     "price": 20.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 40,
+    "days_tracked": 41,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 0,
-      "likes_rank_change": 66
+      "likes_rank_change": 32
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 44,
+    "data_points": 45,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-30T08:00:51.754083",
+    "last_recorded": "2025-12-31T08:00:58.854286",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -100,7 +100,8 @@
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
-        "2025-12-30T08:00:51.754083"
+        "2025-12-30T08:00:51.754083",
+        "2025-12-31T08:00:58.854286"
       ],
       "views_rank": [
         null,
@@ -146,6 +147,7 @@
         97,
         97,
         98,
+        98,
         98
       ],
       "runs_rank": [
@@ -181,6 +183,7 @@
         96,
         96,
         96,
+        97,
         97,
         97,
         97,
@@ -238,7 +241,8 @@
         177,
         176,
         176,
-        183
+        183,
+        188
       ]
     }
   },
@@ -250,7 +254,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #98 out of 273 active agents."
+      "description": "This agent is currently ranked #98 out of 277 active agents."
     }
   ]
 }

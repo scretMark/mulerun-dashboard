@@ -1,6 +1,6 @@
 {
   "agent_id": "15ff0a66-65e2-4669-a400-81ce8763a2c4",
-  "generated_at": "2025-12-30T00:01:02.986908",
+  "generated_at": "2025-12-31T00:01:24.088900",
   "basic_info": {
     "title": "YouTube Quick Scan",
     "author": "Zane29222",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-06T20:24:45.395000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Zane29222/youtube-quick-scan",
-    "days_since_published": 84
+    "days_since_published": 85
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 31,
       "runs_rank": 80,
-      "likes_rank": 5,
-      "total_agents": 273,
-      "views_percentile": 88.6,
-      "runs_percentile": 70.7,
-      "likes_percentile": 98.2
+      "likes_rank": 6,
+      "total_agents": 277,
+      "views_percentile": 88.8,
+      "runs_percentile": 71.1,
+      "likes_percentile": 97.8
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 86,
+    "days_tracked": 87,
     "price": 40.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 40,
+    "days_tracked": 41,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 1,
-      "likes_rank_change": -73
+      "likes_rank_change": -50
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 44,
+    "data_points": 45,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-30T08:00:51.754083",
+    "last_recorded": "2025-12-31T08:00:58.854286",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -100,7 +100,8 @@
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
-        "2025-12-30T08:00:51.754083"
+        "2025-12-30T08:00:51.754083",
+        "2025-12-31T08:00:58.854286"
       ],
       "views_rank": [
         null,
@@ -138,6 +139,7 @@
         32,
         32,
         32,
+        31,
         31,
         31,
         31,
@@ -192,6 +194,7 @@
         80,
         80,
         80,
+        80,
         80
       ],
       "likes_rank": [
@@ -238,7 +241,8 @@
         9,
         7,
         7,
-        5
+        5,
+        6
       ]
     }
   },
@@ -250,7 +254,7 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #5 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #6 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     }
   ]
 }

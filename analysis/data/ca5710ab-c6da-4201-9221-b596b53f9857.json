@@ -1,6 +1,6 @@
 {
   "agent_id": "ca5710ab-c6da-4201-9221-b596b53f9857",
-  "generated_at": "2025-12-30T00:01:04.322558",
+  "generated_at": "2025-12-31T00:01:25.496235",
   "basic_info": {
     "title": "Ink Wash Painting",
     "author": "Darren",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-20T11:31:54.304000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/ink-wash-painting",
-    "days_since_published": 70
+    "days_since_published": 71
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 150,
-      "runs_rank": 237,
-      "likes_rank": 41,
-      "total_agents": 273,
-      "views_percentile": 45.1,
-      "runs_percentile": 13.2,
-      "likes_percentile": 85.0
+      "runs_rank": 238,
+      "likes_rank": 40,
+      "total_agents": 277,
+      "views_percentile": 45.8,
+      "runs_percentile": 14.1,
+      "likes_percentile": 85.6
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 66,
+    "days_tracked": 67,
     "price": 51.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 40,
+    "days_tracked": 41,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 10,
-      "likes_rank_change": -95
+      "runs_rank_change": 11,
+      "likes_rank_change": -106
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 44,
+    "data_points": 45,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-30T08:00:51.754083",
+    "last_recorded": "2025-12-31T08:00:58.854286",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -100,7 +100,8 @@
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
-        "2025-12-30T08:00:51.754083"
+        "2025-12-30T08:00:51.754083",
+        "2025-12-31T08:00:58.854286"
       ],
       "views_rank": [
         null,
@@ -143,6 +144,7 @@
         149,
         149,
         149,
+        150,
         150,
         150,
         150,
@@ -192,7 +194,8 @@
         235,
         235,
         235,
-        237
+        237,
+        238
       ],
       "likes_rank": [
         null,
@@ -238,7 +241,8 @@
         169,
         169,
         169,
-        41
+        41,
+        40
       ]
     }
   },
@@ -250,7 +254,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #41 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #40 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

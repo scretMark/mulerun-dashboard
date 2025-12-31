@@ -1,6 +1,6 @@
 {
   "agent_id": "d26cbc72-a70f-4661-815a-cd0075968921",
-  "generated_at": "2025-12-30T00:01:05.031454",
+  "generated_at": "2025-12-31T00:01:26.271176",
   "basic_info": {
     "title": "Pretend I was here",
     "author": "Barry",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-09T09:50:37.765000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Barry/pretend-i-was-here",
-    "days_since_published": 20
+    "days_since_published": 21
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 225,
       "runs_rank": 122,
-      "likes_rank": 97,
-      "total_agents": 273,
-      "views_percentile": 17.6,
-      "runs_percentile": 55.3,
-      "likes_percentile": 64.5
+      "likes_rank": 105,
+      "total_agents": 277,
+      "views_percentile": 18.8,
+      "runs_percentile": 56.0,
+      "likes_percentile": 62.1
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 21,
+    "days_tracked": 22,
     "price": 46.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 17,
+    "days_tracked": 18,
     "last_7_days": {
       "views_rank_change": 6,
-      "runs_rank_change": 3,
-      "likes_rank_change": 75
+      "runs_rank_change": 2,
+      "likes_rank_change": 61
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 21,
+    "data_points": 22,
     "first_recorded": "2025-12-13T08:00:26.854786",
-    "last_recorded": "2025-12-30T08:00:51.754083",
+    "last_recorded": "2025-12-31T08:00:58.854286",
     "time_series": {
       "dates": [
         "2025-12-13T08:00:26.854786",
@@ -77,7 +77,8 @@
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
-        "2025-12-30T08:00:51.754083"
+        "2025-12-30T08:00:51.754083",
+        "2025-12-31T08:00:58.854286"
       ],
       "views_rank": [
         null,
@@ -100,6 +101,7 @@
         224,
         224,
         224,
+        225,
         225
       ],
       "runs_rank": [
@@ -123,6 +125,7 @@
         121,
         121,
         121,
+        122,
         122
       ],
       "likes_rank": [
@@ -146,7 +149,8 @@
         83,
         84,
         84,
-        97
+        97,
+        105
       ]
     }
   },
@@ -165,7 +169,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #225 out of 273 active agents."
+      "description": "This agent is currently ranked #225 out of 277 active agents."
     }
   ]
 }

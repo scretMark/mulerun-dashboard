@@ -1,6 +1,6 @@
 {
   "agent_id": "15ea9bd6-9c4d-4602-965b-c7d515bb571b",
-  "generated_at": "2025-12-30T00:01:05.158384",
+  "generated_at": "2025-12-31T00:01:26.375635",
   "basic_info": {
     "title": "Product Mockups Generator",
     "author": "jackbuilds",
@@ -11,50 +11,50 @@
     "published_at": "2025-12-14T12:32:15.666000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@jackbuilds/product-mockups-generator",
-    "days_since_published": 15
+    "days_since_published": 16
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 199,
+      "views_rank": 198,
       "runs_rank": 185,
-      "likes_rank": 134,
-      "total_agents": 273,
-      "views_percentile": 27.1,
-      "runs_percentile": 32.2,
-      "likes_percentile": 50.9
+      "likes_rank": 144,
+      "total_agents": 277,
+      "views_percentile": 28.5,
+      "runs_percentile": 33.2,
+      "likes_percentile": 48.0
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 12,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 13,
     "price": 150.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 13,
+    "days_tracked": 14,
     "last_7_days": {
-      "views_rank_change": -5,
-      "runs_rank_change": 8,
-      "likes_rank_change": 95
+      "views_rank_change": -6,
+      "runs_rank_change": 6,
+      "likes_rank_change": 59
     },
     "last_30_days": {
-      "views_rank_change": -29,
+      "views_rank_change": -30,
       "runs_rank_change": -45,
-      "likes_rank_change": 126
+      "likes_rank_change": 136
     },
     "all_time": {
-      "best_views_rank": 199,
+      "best_views_rank": 198,
       "best_runs_rank": 174,
       "best_likes_rank": 4,
       "days_in_top_10": 0,
       "first_rank": 228,
-      "current_rank": 199
+      "current_rank": 198
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 17,
+    "data_points": 18,
     "first_recorded": "2025-12-16T21:38:18.856537",
-    "last_recorded": "2025-12-30T08:00:51.754083",
+    "last_recorded": "2025-12-31T08:00:58.854286",
     "time_series": {
       "dates": [
         "2025-12-16T21:38:18.856537",
@@ -73,7 +73,8 @@
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
-        "2025-12-30T08:00:51.754083"
+        "2025-12-30T08:00:51.754083",
+        "2025-12-31T08:00:58.854286"
       ],
       "views_rank": [
         228,
@@ -92,7 +93,8 @@
         201,
         201,
         200,
-        199
+        199,
+        198
       ],
       "runs_rank": [
         230,
@@ -108,6 +110,7 @@
         179,
         179,
         180,
+        185,
         185,
         185,
         185,
@@ -130,7 +133,8 @@
         120,
         122,
         122,
-        134
+        134,
+        144
       ]
     }
   },
@@ -149,12 +153,17 @@
     {
       "type": "positive",
       "title": "Rising Star",
-      "description": "Improved by 29 positions in views ranking over the last 30 days - showing strong momentum!"
+      "description": "Improved by 30 positions in views ranking over the last 30 days - showing strong momentum!"
     },
     {
       "type": "positive",
       "title": "Growing Usage",
       "description": "Runs ranking improved by 45 positions in the last 30 days - users are actively engaging with this agent!"
+    },
+    {
+      "type": "positive",
+      "title": "Hot Trend",
+      "description": "Up 6 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

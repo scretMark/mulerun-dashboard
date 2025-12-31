@@ -1,6 +1,6 @@
 {
   "agent_id": "93db55d2-7fe5-408d-82ac-ae2e97422987",
-  "generated_at": "2025-12-30T00:01:05.446399",
+  "generated_at": "2025-12-31T00:01:26.630472",
   "basic_info": {
     "title": "Fashion Reels",
     "author": "PicCopilot",
@@ -11,74 +11,78 @@
     "published_at": "2025-12-23T14:08:06.614000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/ai-model-video",
-    "days_since_published": 6
+    "days_since_published": 7
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 241,
-      "runs_rank": 235,
-      "likes_rank": 66,
-      "total_agents": 273,
-      "views_percentile": 11.7,
-      "runs_percentile": 13.9,
-      "likes_percentile": 75.8
+      "views_rank": 238,
+      "runs_rank": 232,
+      "likes_rank": 65,
+      "total_agents": 277,
+      "views_percentile": 14.1,
+      "runs_percentile": 16.2,
+      "likes_percentile": 76.5
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 3,
+    "days_tracked": 4,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 2,
+    "days_tracked": 3,
     "last_7_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": -2,
-      "likes_rank_change": 21
+      "views_rank_change": -2,
+      "runs_rank_change": -5,
+      "likes_rank_change": 20
     },
     "last_30_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": -2,
-      "likes_rank_change": 21
+      "views_rank_change": -2,
+      "runs_rank_change": -5,
+      "likes_rank_change": 20
     },
     "all_time": {
-      "best_views_rank": 240,
-      "best_runs_rank": 235,
+      "best_views_rank": 238,
+      "best_runs_rank": 232,
       "best_likes_rank": 44,
       "days_in_top_10": 0,
       "first_rank": 240,
-      "current_rank": 241
+      "current_rank": 238
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 4,
+    "data_points": 5,
     "first_recorded": "2025-12-27T08:01:00.423663",
-    "last_recorded": "2025-12-30T08:00:51.754083",
+    "last_recorded": "2025-12-31T08:00:58.854286",
     "time_series": {
       "dates": [
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
-        "2025-12-30T08:00:51.754083"
+        "2025-12-30T08:00:51.754083",
+        "2025-12-31T08:00:58.854286"
       ],
       "views_rank": [
         240,
         241,
         241,
-        241
+        241,
+        238
       ],
       "runs_rank": [
         237,
         237,
         237,
-        235
+        235,
+        232
       ],
       "likes_rank": [
         45,
         45,
         44,
-        66
+        66,
+        65
       ]
     }
   },
@@ -97,7 +101,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #241 out of 273 active agents."
+      "description": "This agent is currently ranked #238 out of 277 active agents."
     }
   ]
 }

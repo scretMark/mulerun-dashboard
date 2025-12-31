@@ -1,6 +1,6 @@
 {
   "agent_id": "dad3b0bf-9cd8-4445-9b07-9fa834107852",
-  "generated_at": "2025-12-30T00:01:05.261094",
+  "generated_at": "2025-12-31T00:01:26.464182",
   "basic_info": {
     "title": "You in a Snow Globe",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-19T16:16:07.657000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/you-in-a-snow-globe",
-    "days_since_published": 10
+    "days_since_published": 11
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": null,
       "runs_rank": null,
-      "likes_rank": 133,
-      "total_agents": 273,
+      "likes_rank": 139,
+      "total_agents": 277,
       "views_percentile": 0,
       "runs_percentile": 0,
-      "likes_percentile": 51.3
+      "likes_percentile": 49.8
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 10,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 11,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 9,
+    "days_tracked": 10,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 82
+      "likes_rank_change": 51
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 85
+      "likes_rank_change": 91
     },
     "all_time": {
       "best_views_rank": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 11,
+    "data_points": 12,
     "first_recorded": "2025-12-20T08:01:00.398750",
-    "last_recorded": "2025-12-30T08:00:51.754083",
+    "last_recorded": "2025-12-31T08:00:58.854286",
     "time_series": {
       "dates": [
         "2025-12-20T08:01:00.398750",
@@ -67,9 +67,11 @@
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
-        "2025-12-30T08:00:51.754083"
+        "2025-12-30T08:00:51.754083",
+        "2025-12-31T08:00:58.854286"
       ],
       "views_rank": [
+        null,
         null,
         null,
         null,
@@ -93,6 +95,7 @@
         null,
         null,
         null,
+        null,
         null
       ],
       "likes_rank": [
@@ -106,7 +109,8 @@
         118,
         120,
         120,
-        133
+        133,
+        139
       ]
     }
   },
@@ -125,7 +129,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #N/A out of 273 active agents."
+      "description": "This agent is currently ranked #N/A out of 277 active agents."
     }
   ]
 }

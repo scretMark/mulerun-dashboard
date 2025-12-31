@@ -1,6 +1,6 @@
 {
   "agent_id": "49e12476-9522-4b0f-97b3-f1a6ba2d4185",
-  "generated_at": "2025-12-30T00:01:04.255262",
+  "generated_at": "2025-12-31T00:01:25.427891",
   "basic_info": {
     "title": "LIGHT TRAIL CHROMATIC ABERRATION",
     "author": "Darren",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-09T11:41:03.488000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/light-trail-chromatic-aberration",
-    "days_since_published": 81
+    "days_since_published": 82
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 142,
-      "runs_rank": 246,
-      "likes_rank": 100,
-      "total_agents": 273,
-      "views_percentile": 48.0,
-      "runs_percentile": 9.9,
-      "likes_percentile": 63.4
+      "runs_rank": 247,
+      "likes_rank": 1,
+      "total_agents": 277,
+      "views_percentile": 48.7,
+      "runs_percentile": 10.8,
+      "likes_percentile": 99.6
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 66,
+    "tier": "Elite",
+    "tier_class": "elite",
+    "days_tracked": 67,
     "price": 66.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 40,
+    "days_tracked": 41,
     "last_7_days": {
-      "views_rank_change": 3,
-      "runs_rank_change": 11,
-      "likes_rank_change": -1
+      "views_rank_change": 1,
+      "runs_rank_change": 12,
+      "likes_rank_change": -96
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 44,
+    "data_points": 45,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-30T08:00:51.754083",
+    "last_recorded": "2025-12-31T08:00:58.854286",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -100,7 +100,8 @@
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
-        "2025-12-30T08:00:51.754083"
+        "2025-12-30T08:00:51.754083",
+        "2025-12-31T08:00:58.854286"
       ],
       "views_rank": [
         null,
@@ -144,6 +145,7 @@
         141,
         141,
         141,
+        142,
         142,
         142,
         142
@@ -192,7 +194,8 @@
         245,
         245,
         245,
-        246
+        246,
+        247
       ],
       "likes_rank": [
         null,
@@ -238,7 +241,8 @@
         2,
         1,
         1,
-        100
+        100,
+        1
       ]
     }
   },
@@ -248,9 +252,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #142 out of 273 active agents."
+      "type": "positive",
+      "title": "Elite Performance",
+      "description": "Ranked #1 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     }
   ]
 }

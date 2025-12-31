@@ -1,6 +1,6 @@
 {
   "agent_id": "c02c83d4-a483-45cb-be07-32b755d60355",
-  "generated_at": "2025-12-30T00:01:04.711969",
+  "generated_at": "2025-12-31T00:01:25.980169",
   "basic_info": {
     "title": "Zootopia Selfie-You Nick and Judy",
     "author": "Matt",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-03T10:40:10.086000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Matt/zootopia-selfie-you-nick-and-judy",
-    "days_since_published": 26
+    "days_since_published": 27
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 224,
       "runs_rank": 181,
-      "likes_rank": 118,
-      "total_agents": 273,
-      "views_percentile": 17.9,
-      "runs_percentile": 33.7,
-      "likes_percentile": 56.8
+      "likes_rank": 123,
+      "total_agents": 277,
+      "views_percentile": 19.1,
+      "runs_percentile": 34.7,
+      "likes_percentile": 55.6
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 30,
+    "days_tracked": 31,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 21,
+    "days_tracked": 22,
     "last_7_days": {
       "views_rank_change": 6,
-      "runs_rank_change": 7,
-      "likes_rank_change": 109
+      "runs_rank_change": 6,
+      "likes_rank_change": 59
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 27,
+    "data_points": 28,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2025-12-30T08:00:51.754083",
+    "last_recorded": "2025-12-31T08:00:58.854286",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -83,7 +83,8 @@
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
-        "2025-12-30T08:00:51.754083"
+        "2025-12-30T08:00:51.754083",
+        "2025-12-31T08:00:58.854286"
       ],
       "views_rank": [
         null,
@@ -112,6 +113,7 @@
         223,
         223,
         223,
+        224,
         224
       ],
       "runs_rank": [
@@ -138,6 +140,7 @@
         175,
         175,
         176,
+        181,
         181,
         181,
         181,
@@ -170,7 +173,8 @@
         104,
         105,
         105,
-        118
+        118,
+        123
       ]
     }
   },
@@ -189,7 +193,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #224 out of 273 active agents."
+      "description": "This agent is currently ranked #224 out of 277 active agents."
     }
   ]
 }

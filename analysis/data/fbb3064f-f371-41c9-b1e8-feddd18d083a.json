@@ -1,6 +1,6 @@
 {
   "agent_id": "fbb3064f-f371-41c9-b1e8-feddd18d083a",
-  "generated_at": "2025-12-30T00:01:04.467822",
+  "generated_at": "2025-12-31T00:01:25.669095",
   "basic_info": {
     "title": "Nobelize Me",
     "author": "Aichimp",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-10T13:13:16.209000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aichimp/nobelize-me",
-    "days_since_published": 80
+    "days_since_published": 81
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 185,
-      "runs_rank": 214,
-      "likes_rank": 234,
-      "total_agents": 273,
-      "views_percentile": 32.2,
-      "runs_percentile": 21.6,
-      "likes_percentile": 14.3
+      "runs_rank": 216,
+      "likes_rank": 238,
+      "total_agents": 277,
+      "views_percentile": 33.2,
+      "runs_percentile": 22.0,
+      "likes_percentile": 14.1
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 66,
+    "days_tracked": 67,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 40,
+    "days_tracked": 41,
     "last_7_days": {
-      "views_rank_change": 3,
-      "runs_rank_change": 9,
-      "likes_rank_change": 37
+      "views_rank_change": 2,
+      "runs_rank_change": 10,
+      "likes_rank_change": 25
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 44,
+    "data_points": 45,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-30T08:00:51.754083",
+    "last_recorded": "2025-12-31T08:00:58.854286",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -100,7 +100,8 @@
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
-        "2025-12-30T08:00:51.754083"
+        "2025-12-30T08:00:51.754083",
+        "2025-12-31T08:00:58.854286"
       ],
       "views_rank": [
         null,
@@ -145,6 +146,7 @@
         184,
         184,
         184,
+        185,
         185,
         185
       ],
@@ -192,7 +194,8 @@
         213,
         213,
         213,
-        214
+        214,
+        216
       ],
       "likes_rank": [
         null,
@@ -238,7 +241,8 @@
         230,
         228,
         229,
-        234
+        234,
+        238
       ]
     }
   },
@@ -250,7 +254,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #185 out of 273 active agents."
+      "description": "This agent is currently ranked #185 out of 277 active agents."
     }
   ]
 }
