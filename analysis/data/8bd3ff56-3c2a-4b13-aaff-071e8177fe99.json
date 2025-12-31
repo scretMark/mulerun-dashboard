@@ -1,6 +1,6 @@
 {
   "agent_id": "8bd3ff56-3c2a-4b13-aaff-071e8177fe99",
-  "generated_at": "2025-12-31T00:01:26.386565",
+  "generated_at": "2025-12-31T10:26:41.562432",
   "basic_info": {
     "title": "Super Pet Styler",
     "author": "kai_tiane5y",
@@ -17,29 +17,29 @@
     "current_position": {
       "views_rank": 157,
       "runs_rank": 73,
-      "likes_rank": 110,
+      "likes_rank": 108,
       "total_agents": 277,
       "views_percentile": 43.3,
       "runs_percentile": 73.6,
-      "likes_percentile": 60.3
+      "likes_percentile": 61.0
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 13,
+    "days_tracked": 15,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 12,
+    "days_tracked": 13,
     "last_7_days": {
-      "views_rank_change": -8,
-      "runs_rank_change": -11,
-      "likes_rank_change": 58
+      "views_rank_change": 3,
+      "runs_rank_change": 0,
+      "likes_rank_change": 43
     },
     "last_30_days": {
       "views_rank_change": -14,
       "runs_rank_change": -18,
-      "likes_rank_change": 73
+      "likes_rank_change": 71
     },
     "all_time": {
       "best_views_rank": 154,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 13,
+    "data_points": 15,
     "first_recorded": "2025-12-18T15:35:16.146705",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-12-18T15:35:16.146705",
@@ -69,7 +69,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         171,
@@ -84,6 +86,8 @@
         155,
         155,
         155,
+        157,
+        157,
         157
       ],
       "runs_rank": [
@@ -93,6 +97,8 @@
         85,
         85,
         84,
+        73,
+        73,
         73,
         73,
         73,
@@ -114,7 +120,9 @@
         89,
         89,
         103,
-        110
+        110,
+        108,
+        108
       ]
     }
   },
@@ -139,11 +147,6 @@
       "type": "positive",
       "title": "Growing Usage",
       "description": "Runs ranking improved by 18 positions in the last 30 days - users are actively engaging with this agent!"
-    },
-    {
-      "type": "positive",
-      "title": "Hot Trend",
-      "description": "Up 8 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

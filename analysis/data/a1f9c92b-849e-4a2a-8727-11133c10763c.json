@@ -1,6 +1,6 @@
 {
   "agent_id": "a1f9c92b-849e-4a2a-8727-11133c10763c",
-  "generated_at": "2025-12-31T00:01:24.958771",
+  "generated_at": "2025-12-31T10:26:40.142205",
   "basic_info": {
     "title": "Emperor Pet AI",
     "author": "laughing_code",
@@ -25,16 +25,16 @@
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 69,
+    "days_tracked": 71,
     "price": 70.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 2,
-      "likes_rank_change": 38
+      "likes_rank_change": 30
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 45,
+    "data_points": 47,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -101,7 +101,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -148,6 +150,8 @@
         20,
         20,
         20,
+        21,
+        21,
         21
       ],
       "runs_rank": [
@@ -192,6 +196,8 @@
         40,
         41,
         41,
+        42,
+        42,
         42,
         42,
         42,
@@ -242,6 +248,8 @@
         152,
         152,
         164,
+        168,
+        168,
         168
       ]
     }

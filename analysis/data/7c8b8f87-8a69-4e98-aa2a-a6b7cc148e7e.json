@@ -1,6 +1,6 @@
 {
   "agent_id": "7c8b8f87-8a69-4e98-aa2a-a6b7cc148e7e",
-  "generated_at": "2025-12-31T00:01:26.589416",
+  "generated_at": "2025-12-31T10:26:41.753479",
   "basic_info": {
     "title": "FrozenFrame AI",
     "author": "Lucas",
@@ -11,21 +11,21 @@
     "published_at": "2025-12-25T01:10:29.525000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/frozenframe-ai",
-    "days_since_published": 5
+    "days_since_published": 6
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": null,
-      "runs_rank": null,
-      "likes_rank": 26,
+      "views_rank": 263,
+      "runs_rank": 275,
+      "likes_rank": 7,
       "total_agents": 277,
-      "views_percentile": 0,
-      "runs_percentile": 0,
-      "likes_percentile": 90.6
+      "views_percentile": 5.1,
+      "runs_percentile": 0.7,
+      "likes_percentile": 97.5
     },
-    "tier": "High",
-    "tier_class": "high",
-    "days_tracked": 5,
+    "tier": "Elite",
+    "tier_class": "elite",
+    "days_tracked": 7,
     "price": 50.0
   },
   "ranking_trends": {
@@ -34,27 +34,27 @@
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 13
+      "likes_rank_change": -6
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 13
+      "likes_rank_change": -6
     },
     "all_time": {
-      "best_views_rank": null,
-      "best_runs_rank": null,
-      "best_likes_rank": 13,
+      "best_views_rank": 263,
+      "best_runs_rank": 275,
+      "best_likes_rank": 7,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": null
+      "current_rank": 263
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 6,
+    "data_points": 8,
     "first_recorded": "2025-12-26T08:00:54.905148",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-12-26T08:00:54.905148",
@@ -62,7 +62,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -70,7 +72,9 @@
         null,
         null,
         null,
-        null
+        null,
+        264,
+        263
       ],
       "runs_rank": [
         null,
@@ -78,7 +82,9 @@
         null,
         null,
         null,
-        null
+        null,
+        276,
+        275
       ],
       "likes_rank": [
         13,
@@ -86,7 +92,9 @@
         25,
         21,
         28,
-        26
+        26,
+        23,
+        7
       ]
     }
   },
@@ -104,8 +112,8 @@
   "insights": [
     {
       "type": "positive",
-      "title": "High Performer",
-      "description": "Ranked #26 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "title": "Elite Performance",
+      "description": "Ranked #7 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     }
   ]
 }

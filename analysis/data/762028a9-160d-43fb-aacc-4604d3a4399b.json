@@ -1,6 +1,6 @@
 {
   "agent_id": "762028a9-160d-43fb-aacc-4604d3a4399b",
-  "generated_at": "2025-12-31T00:01:26.676311",
+  "generated_at": "2025-12-31T10:26:41.860611",
   "basic_info": {
     "title": "The Cosmic Birthday Reader",
     "author": "Eren_kaif",
@@ -15,50 +15,66 @@
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": null,
-      "runs_rank": null,
-      "likes_rank": 56,
+      "views_rank": 269,
+      "runs_rank": 266,
+      "likes_rank": 51,
       "total_agents": 277,
-      "views_percentile": 0,
-      "runs_percentile": 0,
-      "likes_percentile": 79.8
+      "views_percentile": 2.9,
+      "runs_percentile": 4.0,
+      "likes_percentile": 81.6
     },
-    "tier": "Mid",
-    "tier_class": "mid",
+    "tier": "High",
+    "tier_class": "high",
     "days_tracked": 0,
     "price": 30.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 0,
-    "last_7_days": {},
-    "last_30_days": {},
+    "days_tracked": 1,
+    "last_7_days": {
+      "views_rank_change": null,
+      "runs_rank_change": null,
+      "likes_rank_change": -5
+    },
+    "last_30_days": {
+      "views_rank_change": null,
+      "runs_rank_change": null,
+      "likes_rank_change": -5
+    },
     "all_time": {
-      "best_views_rank": null,
-      "best_runs_rank": null,
-      "best_likes_rank": 56,
+      "best_views_rank": 269,
+      "best_runs_rank": 266,
+      "best_likes_rank": 51,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": null
+      "current_rank": 269
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 1,
+    "data_points": 3,
     "first_recorded": "2025-12-31T08:00:58.854286",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
-        null
+        null,
+        269,
+        269
       ],
       "runs_rank": [
-        null
+        null,
+        266,
+        266
       ],
       "likes_rank": [
-        56
+        56,
+        52,
+        51
       ]
     }
   },
@@ -75,9 +91,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #N/A out of 277 active agents."
+      "type": "positive",
+      "title": "High Performer",
+      "description": "Ranked #51 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "4d9b4916-1311-4716-ba98-3bba7d803df3",
-  "generated_at": "2025-12-31T00:01:24.249173",
+  "generated_at": "2025-12-31T10:26:39.481711",
   "basic_info": {
     "title": "Content Pilot AI",
     "author": "cqplaquemh41i2k",
@@ -15,26 +15,26 @@
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 99,
+      "views_rank": 97,
       "runs_rank": 52,
-      "likes_rank": 218,
+      "likes_rank": 217,
       "total_agents": 277,
-      "views_percentile": 64.3,
+      "views_percentile": 65.0,
       "runs_percentile": 81.2,
-      "likes_percentile": 21.3
+      "likes_percentile": 21.7
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 77,
+    "days_tracked": 79,
     "price": 15.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "last_7_days": {
       "views_rank_change": -6,
-      "runs_rank_change": -2,
-      "likes_rank_change": 27
+      "runs_rank_change": -1,
+      "likes_rank_change": 21
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -42,19 +42,19 @@
       "likes_rank_change": null
     },
     "all_time": {
-      "best_views_rank": 99,
+      "best_views_rank": 97,
       "best_runs_rank": 52,
       "best_likes_rank": 67,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 99
+      "current_rank": 97
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 45,
+    "data_points": 47,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -101,7 +101,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -148,7 +150,9 @@
         102,
         102,
         102,
-        99
+        99,
+        97,
+        97
       ],
       "runs_rank": [
         null,
@@ -190,6 +194,8 @@
         54,
         54,
         53,
+        52,
+        52,
         52,
         52,
         52,
@@ -242,7 +248,9 @@
         209,
         209,
         215,
-        218
+        218,
+        217,
+        217
       ]
     }
   },

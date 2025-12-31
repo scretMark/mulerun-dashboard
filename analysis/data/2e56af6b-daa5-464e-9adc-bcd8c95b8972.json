@@ -1,6 +1,6 @@
 {
   "agent_id": "2e56af6b-daa5-464e-9adc-bcd8c95b8972",
-  "generated_at": "2025-12-31T00:01:25.177312",
+  "generated_at": "2025-12-31T10:26:40.348142",
   "basic_info": {
     "title": "Realistic 3D Figure",
     "author": "Darren",
@@ -17,24 +17,24 @@
     "current_position": {
       "views_rank": 83,
       "runs_rank": 83,
-      "likes_rank": null,
+      "likes_rank": 251,
       "total_agents": 277,
       "views_percentile": 70.0,
       "runs_percentile": 70.0,
-      "likes_percentile": 0
+      "likes_percentile": 9.4
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 72,
+    "days_tracked": 74,
     "price": 51.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "last_7_days": {
       "views_rank_change": 3,
-      "runs_rank_change": 2,
-      "likes_rank_change": null
+      "runs_rank_change": 1,
+      "likes_rank_change": 19
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 45,
+    "data_points": 47,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -101,7 +101,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -148,6 +150,8 @@
         82,
         82,
         83,
+        83,
+        83,
         83
       ],
       "runs_rank": [
@@ -191,6 +195,8 @@
         81,
         82,
         82,
+        83,
+        83,
         83,
         83,
         83,
@@ -242,7 +248,9 @@
         244,
         246,
         250,
-        null
+        null,
+        251,
+        251
       ]
     }
   },

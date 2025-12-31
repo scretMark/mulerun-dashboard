@@ -1,6 +1,6 @@
 {
   "agent_id": "ed84b6b3-201c-4342-83dd-6dd45506f382",
-  "generated_at": "2025-12-31T00:01:26.293534",
+  "generated_at": "2025-12-31T10:26:41.473751",
   "basic_info": {
     "title": "TableRay - DOCX Table Autofill Agent",
     "author": "kfyj16401_cr7ns",
@@ -17,22 +17,22 @@
     "current_position": {
       "views_rank": 183,
       "runs_rank": 141,
-      "likes_rank": null,
+      "likes_rank": 277,
       "total_agents": 277,
       "views_percentile": 33.9,
       "runs_percentile": 49.1,
-      "likes_percentile": 0
+      "likes_percentile": 0.0
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 22,
+    "days_tracked": 24,
     "price": 100.0
   },
   "ranking_trends": {
     "has_data": true,
     "days_tracked": 18,
     "last_7_days": {
-      "views_rank_change": -2,
+      "views_rank_change": -1,
       "runs_rank_change": 4,
       "likes_rank_change": null
     },
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 22,
+    "data_points": 24,
     "first_recorded": "2025-12-13T08:00:26.854786",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-12-13T08:00:26.854786",
@@ -78,7 +78,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -97,6 +99,8 @@
         192,
         185,
         184,
+        183,
+        183,
         183,
         183,
         183,
@@ -126,6 +130,8 @@
         140,
         141,
         141,
+        141,
+        141,
         141
       ],
       "likes_rank": [
@@ -150,7 +156,9 @@
         null,
         null,
         null,
-        null
+        null,
+        277,
+        277
       ]
     }
   },

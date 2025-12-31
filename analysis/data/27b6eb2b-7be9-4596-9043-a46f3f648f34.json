@@ -1,6 +1,6 @@
 {
   "agent_id": "27b6eb2b-7be9-4596-9043-a46f3f648f34",
-  "generated_at": "2025-12-31T00:01:23.852430",
+  "generated_at": "2025-12-31T10:26:39.087217",
   "basic_info": {
     "title": "Style Clone",
     "author": "PicCopilot",
@@ -17,24 +17,24 @@
     "current_position": {
       "views_rank": 132,
       "runs_rank": 29,
-      "likes_rank": 231,
+      "likes_rank": 233,
       "total_agents": 277,
       "views_percentile": 52.3,
       "runs_percentile": 89.5,
-      "likes_percentile": 16.6
+      "likes_percentile": 15.9
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 52,
+    "days_tracked": 54,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "last_7_days": {
-      "views_rank_change": -8,
-      "runs_rank_change": -1,
-      "likes_rank_change": 32
+      "views_rank_change": -4,
+      "runs_rank_change": 0,
+      "likes_rank_change": 26
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 45,
+    "data_points": 47,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -101,7 +101,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -148,6 +150,8 @@
         136,
         136,
         132,
+        132,
+        132,
         132
       ],
       "runs_rank": [
@@ -189,6 +193,8 @@
         30,
         30,
         30,
+        29,
+        29,
         29,
         29,
         29,
@@ -242,7 +248,9 @@
         214,
         222,
         229,
-        231
+        231,
+        233,
+        233
       ]
     }
   },
@@ -255,11 +263,6 @@
       "type": "positive",
       "title": "High Performer",
       "description": "Ranked #29 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
-    },
-    {
-      "type": "positive",
-      "title": "Hot Trend",
-      "description": "Up 8 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

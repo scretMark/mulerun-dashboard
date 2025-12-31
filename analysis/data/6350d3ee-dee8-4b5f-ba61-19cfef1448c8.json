@@ -1,6 +1,6 @@
 {
   "agent_id": "6350d3ee-dee8-4b5f-ba61-19cfef1448c8",
-  "generated_at": "2025-12-31T00:01:26.045153",
+  "generated_at": "2025-12-31T10:26:41.221491",
   "basic_info": {
     "title": "Youtube Thumbnail",
     "author": "pxzzf1010_cr73m",
@@ -15,26 +15,26 @@
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 67,
-      "runs_rank": 6,
-      "likes_rank": 55,
+      "views_rank": 61,
+      "runs_rank": 4,
+      "likes_rank": 58,
       "total_agents": 277,
-      "views_percentile": 75.8,
-      "runs_percentile": 97.8,
-      "likes_percentile": 80.1
+      "views_percentile": 78.0,
+      "runs_percentile": 98.6,
+      "likes_percentile": 79.1
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 26,
+    "days_tracked": 28,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
     "days_tracked": 22,
     "last_7_days": {
-      "views_rank_change": -23,
+      "views_rank_change": -26,
       "runs_rank_change": -9,
-      "likes_rank_change": -71
+      "likes_rank_change": 32
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -42,19 +42,19 @@
       "likes_rank_change": null
     },
     "all_time": {
-      "best_views_rank": 67,
-      "best_runs_rank": 6,
+      "best_views_rank": 61,
+      "best_runs_rank": 4,
       "best_likes_rank": 26,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 67
+      "current_rank": 61
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 27,
+    "data_points": 29,
     "first_recorded": "2025-12-09T08:00:25.308684",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-12-09T08:00:25.308684",
@@ -83,7 +83,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -112,7 +114,9 @@
         75,
         75,
         69,
-        67
+        67,
+        61,
+        61
       ],
       "runs_rank": [
         null,
@@ -141,7 +145,9 @@
         8,
         7,
         6,
-        6
+        6,
+        4,
+        4
       ],
       "likes_rank": [
         null,
@@ -170,7 +176,9 @@
         43,
         40,
         54,
-        55
+        55,
+        59,
+        58
       ]
     }
   },
@@ -189,17 +197,17 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #6 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #4 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     },
     {
       "type": "positive",
       "title": "Hot Trend",
-      "description": "Up 23 positions in just 7 days - currently trending and gaining rapid visibility!"
+      "description": "Up 26 positions in just 7 days - currently trending and gaining rapid visibility!"
     },
     {
       "type": "info",
       "title": "Premium Agent Success",
-      "description": "Despite $10.0 pricing, this agent ranks #6 in usage - demonstrating strong value proposition."
+      "description": "Despite $10.0 pricing, this agent ranks #4 in usage - demonstrating strong value proposition."
     }
   ]
 }

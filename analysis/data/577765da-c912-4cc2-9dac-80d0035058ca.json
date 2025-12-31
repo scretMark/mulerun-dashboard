@@ -1,6 +1,6 @@
 {
   "agent_id": "577765da-c912-4cc2-9dac-80d0035058ca",
-  "generated_at": "2025-12-31T00:01:26.425044",
+  "generated_at": "2025-12-31T10:26:41.600919",
   "basic_info": {
     "title": "Paper Review Agent - Universal",
     "author": "charlin",
@@ -17,29 +17,29 @@
     "current_position": {
       "views_rank": 237,
       "runs_rank": 244,
-      "likes_rank": 156,
+      "likes_rank": 158,
       "total_agents": 277,
       "views_percentile": 14.4,
       "runs_percentile": 11.9,
-      "likes_percentile": 43.7
+      "likes_percentile": 43.0
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 11,
+    "days_tracked": 13,
     "price": 66.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 10,
+    "days_tracked": 11,
     "last_7_days": {
-      "views_rank_change": 3,
+      "views_rank_change": 1,
       "runs_rank_change": 10,
-      "likes_rank_change": 43
+      "likes_rank_change": 39
     },
     "last_30_days": {
       "views_rank_change": 3,
       "runs_rank_change": 13,
-      "likes_rank_change": 80
+      "likes_rank_change": 82
     },
     "all_time": {
       "best_views_rank": 234,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 12,
+    "data_points": 14,
     "first_recorded": "2025-12-20T08:01:00.398750",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-12-20T08:01:00.398750",
@@ -68,7 +68,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         234,
@@ -82,6 +84,8 @@
         240,
         238,
         234,
+        237,
+        237,
         237
       ],
       "runs_rank": [
@@ -96,6 +100,8 @@
         243,
         243,
         243,
+        244,
+        244,
         244
       ],
       "likes_rank": [
@@ -110,7 +116,9 @@
         142,
         139,
         152,
-        156
+        156,
+        157,
+        158
       ]
     }
   },

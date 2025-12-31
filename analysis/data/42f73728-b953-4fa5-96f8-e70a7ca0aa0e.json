@@ -1,6 +1,6 @@
 {
   "agent_id": "42f73728-b953-4fa5-96f8-e70a7ca0aa0e",
-  "generated_at": "2025-12-31T00:01:23.753969",
+  "generated_at": "2025-12-31T10:26:39.008800",
   "basic_info": {
     "title": "Winter Embrace",
     "author": "Norsizu",
@@ -25,16 +25,16 @@
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 57,
+    "days_tracked": 59,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "last_7_days": {
-      "views_rank_change": 1,
+      "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": 30
+      "likes_rank_change": 24
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 45,
+    "data_points": 47,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -101,7 +101,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -148,6 +150,8 @@
         90,
         90,
         90,
+        90,
+        90,
         90
       ],
       "runs_rank": [
@@ -183,6 +187,8 @@
         93,
         93,
         93,
+        94,
+        94,
         94,
         94,
         94,
@@ -242,6 +248,8 @@
         194,
         195,
         202,
+        206,
+        206,
         206
       ]
     }

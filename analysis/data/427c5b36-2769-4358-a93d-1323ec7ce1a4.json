@@ -1,6 +1,6 @@
 {
   "agent_id": "427c5b36-2769-4358-a93d-1323ec7ce1a4",
-  "generated_at": "2025-12-31T00:01:24.046773",
+  "generated_at": "2025-12-31T10:26:39.272040",
   "basic_info": {
     "title": "Podcast Generator",
     "author": "AngryBerry",
@@ -17,24 +17,24 @@
     "current_position": {
       "views_rank": 106,
       "runs_rank": 107,
-      "likes_rank": null,
+      "likes_rank": 255,
       "total_agents": 277,
       "views_percentile": 61.7,
       "runs_percentile": 61.4,
-      "likes_percentile": 0
+      "likes_percentile": 7.9
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 68,
+    "days_tracked": 70,
     "price": 160.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "last_7_days": {
-      "views_rank_change": -3,
+      "views_rank_change": 2,
       "runs_rank_change": 3,
-      "likes_rank_change": null
+      "likes_rank_change": 16
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 45,
+    "data_points": 47,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -101,7 +101,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -145,6 +147,8 @@
         104,
         104,
         105,
+        106,
+        106,
         106,
         106,
         106,
@@ -195,6 +199,8 @@
         106,
         106,
         106,
+        107,
+        107,
         107
       ],
       "likes_rank": [
@@ -242,7 +248,9 @@
         null,
         null,
         null,
-        null
+        null,
+        255,
+        255
       ]
     }
   },

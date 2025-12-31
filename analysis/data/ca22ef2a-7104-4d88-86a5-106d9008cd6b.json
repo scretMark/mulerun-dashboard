@@ -1,6 +1,6 @@
 {
   "agent_id": "ca22ef2a-7104-4d88-86a5-106d9008cd6b",
-  "generated_at": "2025-12-31T00:01:26.453721",
+  "generated_at": "2025-12-31T10:26:41.627707",
   "basic_info": {
     "title": "Xmas Monster Market",
     "author": "Norsizu",
@@ -15,26 +15,26 @@
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": null,
-      "runs_rank": null,
+      "views_rank": 273,
+      "runs_rank": 272,
       "likes_rank": 103,
       "total_agents": 277,
-      "views_percentile": 0,
-      "runs_percentile": 0,
+      "views_percentile": 1.4,
+      "runs_percentile": 1.8,
       "likes_percentile": 62.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 11,
+    "days_tracked": 13,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 10,
+    "days_tracked": 11,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 61
+      "likes_rank_change": 43
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -42,19 +42,19 @@
       "likes_rank_change": 52
     },
     "all_time": {
-      "best_views_rank": null,
-      "best_runs_rank": null,
+      "best_views_rank": 273,
+      "best_runs_rank": 272,
       "best_likes_rank": 42,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": null
+      "current_rank": 273
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 12,
+    "data_points": 14,
     "first_recorded": "2025-12-20T08:01:00.398750",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-12-20T08:01:00.398750",
@@ -68,7 +68,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -82,7 +84,9 @@
         null,
         null,
         null,
-        null
+        null,
+        273,
+        273
       ],
       "runs_rank": [
         null,
@@ -96,7 +100,9 @@
         null,
         null,
         null,
-        null
+        null,
+        272,
+        272
       ],
       "likes_rank": [
         51,
@@ -110,6 +116,8 @@
         82,
         82,
         96,
+        103,
+        103,
         103
       ]
     }
@@ -129,7 +137,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #N/A out of 277 active agents."
+      "description": "This agent is currently ranked #273 out of 277 active agents."
     }
   ]
 }

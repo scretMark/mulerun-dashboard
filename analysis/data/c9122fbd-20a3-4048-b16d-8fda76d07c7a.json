@@ -1,6 +1,6 @@
 {
   "agent_id": "c9122fbd-20a3-4048-b16d-8fda76d07c7a",
-  "generated_at": "2025-12-31T00:01:26.211145",
+  "generated_at": "2025-12-31T10:26:41.393877",
   "basic_info": {
     "title": "Design your quilt",
     "author": "8bit",
@@ -15,17 +15,17 @@
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": null,
+      "views_rank": 262,
       "runs_rank": 224,
       "likes_rank": 132,
       "total_agents": 277,
-      "views_percentile": 0,
+      "views_percentile": 5.4,
       "runs_percentile": 19.1,
       "likes_percentile": 52.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 23,
+    "days_tracked": 25,
     "price": 50.0
   },
   "ranking_trends": {
@@ -34,7 +34,7 @@
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": 9,
-      "likes_rank_change": 63
+      "likes_rank_change": 48
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 45,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": null
+      "current_rank": 262
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 23,
+    "data_points": 25,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -79,7 +79,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -104,7 +106,9 @@
         null,
         null,
         null,
-        null
+        null,
+        262,
+        262
       ],
       "runs_rank": [
         null,
@@ -129,6 +133,8 @@
         222,
         222,
         223,
+        224,
+        224,
         224
       ],
       "likes_rank": [
@@ -154,6 +160,8 @@
         114,
         114,
         127,
+        132,
+        132,
         132
       ]
     }
@@ -173,7 +181,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #N/A out of 277 active agents."
+      "description": "This agent is currently ranked #262 out of 277 active agents."
     }
   ]
 }

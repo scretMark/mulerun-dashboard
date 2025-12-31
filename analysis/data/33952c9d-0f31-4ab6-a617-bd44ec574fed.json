@@ -1,6 +1,6 @@
 {
   "agent_id": "33952c9d-0f31-4ab6-a617-bd44ec574fed",
-  "generated_at": "2025-12-31T00:01:26.055187",
+  "generated_at": "2025-12-31T10:26:41.234137",
   "basic_info": {
     "title": "Pixel Avatar Agent ",
     "author": "Matt",
@@ -17,24 +17,24 @@
     "current_position": {
       "views_rank": 220,
       "runs_rank": 191,
-      "likes_rank": 115,
+      "likes_rank": 114,
       "total_agents": 277,
       "views_percentile": 20.6,
       "runs_percentile": 31.0,
-      "likes_percentile": 58.5
+      "likes_percentile": 58.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 26,
+    "days_tracked": 28,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
     "days_tracked": 22,
     "last_7_days": {
-      "views_rank_change": 8,
+      "views_rank_change": 7,
       "runs_rank_change": 8,
-      "likes_rank_change": null
+      "likes_rank_change": 46
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 27,
+    "data_points": 29,
     "first_recorded": "2025-12-09T08:00:25.308684",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-12-09T08:00:25.308684",
@@ -83,7 +83,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -112,6 +114,8 @@
         217,
         218,
         219,
+        220,
+        220,
         220
       ],
       "runs_rank": [
@@ -137,6 +141,8 @@
         183,
         183,
         185,
+        191,
+        191,
         191,
         191,
         191,
@@ -170,7 +176,9 @@
         94,
         95,
         109,
-        115
+        115,
+        114,
+        114
       ]
     }
   },

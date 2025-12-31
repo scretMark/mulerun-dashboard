@@ -1,6 +1,6 @@
 {
   "agent_id": "b051b2ff-4f2e-423c-8175-bb74d23ce607",
-  "generated_at": "2025-12-31T00:01:23.712222",
+  "generated_at": "2025-12-31T10:26:38.976930",
   "basic_info": {
     "title": "Subtitle Translate AI Pro",
     "author": "Skynetbbb0bb3",
@@ -17,24 +17,24 @@
     "current_position": {
       "views_rank": 74,
       "runs_rank": 63,
-      "likes_rank": null,
+      "likes_rank": 268,
       "total_agents": 277,
       "views_percentile": 73.3,
       "runs_percentile": 77.3,
-      "likes_percentile": 0
+      "likes_percentile": 3.2
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 65,
+    "days_tracked": 67,
     "price": 90.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "last_7_days": {
       "views_rank_change": 3,
-      "runs_rank_change": 1,
-      "likes_rank_change": null
+      "runs_rank_change": 0,
+      "likes_rank_change": 24
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 45,
+    "data_points": 47,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -101,7 +101,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -148,6 +150,8 @@
         72,
         72,
         74,
+        74,
+        74,
         74
       ],
       "runs_rank": [
@@ -189,6 +193,8 @@
         62,
         62,
         62,
+        63,
+        63,
         63,
         63,
         63,
@@ -242,7 +248,9 @@
         null,
         null,
         null,
-        null
+        null,
+        268,
+        268
       ]
     }
   },

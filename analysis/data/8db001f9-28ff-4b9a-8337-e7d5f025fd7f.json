@@ -1,6 +1,6 @@
 {
   "agent_id": "8db001f9-28ff-4b9a-8337-e7d5f025fd7f",
-  "generated_at": "2025-12-31T00:01:23.612821",
+  "generated_at": "2025-12-31T10:26:38.884339",
   "basic_info": {
     "title": "YouTube Thumbnail",
     "author": "summerail",
@@ -17,24 +17,24 @@
     "current_position": {
       "views_rank": 35,
       "runs_rank": 44,
-      "likes_rank": 245,
+      "likes_rank": 238,
       "total_agents": 277,
       "views_percentile": 87.4,
       "runs_percentile": 84.1,
-      "likes_percentile": 11.6
+      "likes_percentile": 14.1
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 65,
+    "days_tracked": 67,
     "price": 30.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 42,
+    "days_tracked": 43,
     "last_7_days": {
       "views_rank_change": -1,
       "runs_rank_change": 1,
-      "likes_rank_change": 20
+      "likes_rank_change": 23
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 46,
+    "data_points": 48,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -102,7 +102,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -146,6 +148,8 @@
         36,
         36,
         36,
+        35,
+        35,
         35,
         35,
         35,
@@ -198,6 +202,8 @@
         44,
         44,
         44,
+        44,
+        44,
         44
       ],
       "likes_rank": [
@@ -246,7 +252,9 @@
         239,
         233,
         238,
-        245
+        245,
+        238,
+        238
       ]
     }
   },

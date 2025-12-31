@@ -1,6 +1,6 @@
 {
   "agent_id": "8cbc569d-cd48-4162-91f4-8689474c4320",
-  "generated_at": "2025-12-31T00:01:24.170374",
+  "generated_at": "2025-12-31T10:26:39.387122",
   "basic_info": {
     "title": "PDF 3D Flipbook",
     "author": "summerail",
@@ -17,24 +17,24 @@
     "current_position": {
       "views_rank": 166,
       "runs_rank": 226,
-      "likes_rank": 4,
+      "likes_rank": 3,
       "total_agents": 277,
       "views_percentile": 40.1,
       "runs_percentile": 18.4,
-      "likes_percentile": 98.6
+      "likes_percentile": 98.9
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 77,
+    "days_tracked": 79,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "last_7_days": {
-      "views_rank_change": -1,
+      "views_rank_change": 0,
       "runs_rank_change": 9,
-      "likes_rank_change": -164
+      "likes_rank_change": -97
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 45,
+    "data_points": 47,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -101,7 +101,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -142,6 +144,8 @@
         164,
         166,
         167,
+        166,
+        166,
         166,
         166,
         166,
@@ -195,6 +199,8 @@
         224,
         224,
         225,
+        226,
+        226,
         226
       ],
       "likes_rank": [
@@ -242,7 +248,9 @@
         9,
         2,
         1,
-        4
+        4,
+        2,
+        3
       ]
     }
   },
@@ -254,7 +262,7 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #4 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #3 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     }
   ]
 }

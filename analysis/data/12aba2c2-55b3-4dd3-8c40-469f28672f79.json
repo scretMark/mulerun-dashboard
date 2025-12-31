@@ -1,6 +1,6 @@
 {
   "agent_id": "12aba2c2-55b3-4dd3-8c40-469f28672f79",
-  "generated_at": "2025-12-31T00:01:26.561265",
+  "generated_at": "2025-12-31T10:26:41.725941",
   "basic_info": {
     "title": "Speech to Text for Lite Version",
     "author": "zhoudshu",
@@ -15,31 +15,31 @@
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 239,
+      "views_rank": 240,
       "runs_rank": 187,
-      "likes_rank": 101,
+      "likes_rank": 99,
       "total_agents": 277,
-      "views_percentile": 13.7,
+      "views_percentile": 13.4,
       "runs_percentile": 32.5,
-      "likes_percentile": 63.5
+      "likes_percentile": 64.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 5,
+    "days_tracked": 7,
     "price": 20.0
   },
   "ranking_trends": {
     "has_data": true,
     "days_tracked": 5,
     "last_7_days": {
-      "views_rank_change": 1,
+      "views_rank_change": 2,
       "runs_rank_change": -1,
-      "likes_rank_change": 31
+      "likes_rank_change": 29
     },
     "last_30_days": {
-      "views_rank_change": 1,
+      "views_rank_change": 2,
       "runs_rank_change": -1,
-      "likes_rank_change": 31
+      "likes_rank_change": 29
     },
     "all_time": {
       "best_views_rank": 236,
@@ -47,14 +47,14 @@
       "best_likes_rank": 70,
       "days_in_top_10": 0,
       "first_rank": 238,
-      "current_rank": 239
+      "current_rank": 240
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 6,
+    "data_points": 8,
     "first_recorded": "2025-12-26T08:00:54.905148",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-12-26T08:00:54.905148",
@@ -62,7 +62,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         238,
@@ -70,10 +72,14 @@
         236,
         236,
         237,
-        239
+        239,
+        240,
+        240
       ],
       "runs_rank": [
         188,
+        187,
+        187,
         187,
         187,
         187,
@@ -86,7 +92,9 @@
         81,
         81,
         94,
-        101
+        101,
+        99,
+        99
       ]
     }
   },
@@ -105,7 +113,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #239 out of 277 active agents."
+      "description": "This agent is currently ranked #240 out of 277 active agents."
     }
   ]
 }

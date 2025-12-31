@@ -1,6 +1,6 @@
 {
   "agent_id": "a63716fe-8230-49c7-8ea3-a9c1846e5e5c",
-  "generated_at": "2025-12-31T00:01:26.493883",
+  "generated_at": "2025-12-31T10:26:41.664257",
   "basic_info": {
     "title": "Viral Script Humanizer",
     "author": "pxzzf1010_cr73m",
@@ -16,29 +16,29 @@
   "ranking_metrics": {
     "current_position": {
       "views_rank": 235,
-      "runs_rank": 194,
+      "runs_rank": 195,
       "likes_rank": 143,
       "total_agents": 277,
       "views_percentile": 15.2,
-      "runs_percentile": 30.0,
+      "runs_percentile": 29.6,
       "likes_percentile": 48.4
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 8,
+    "days_tracked": 10,
     "price": 15.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 7,
+    "days_tracked": 8,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 7,
-      "likes_rank_change": 57
+      "runs_rank_change": 8,
+      "likes_rank_change": 39
     },
     "last_30_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 7,
+      "runs_rank_change": 8,
       "likes_rank_change": 102
     },
     "all_time": {
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 9,
+    "data_points": 11,
     "first_recorded": "2025-12-23T08:00:59.635142",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-12-23T08:00:59.635142",
@@ -65,7 +65,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         234,
@@ -76,6 +78,8 @@
         235,
         235,
         236,
+        235,
+        235,
         235
       ],
       "runs_rank": [
@@ -87,7 +91,9 @@
         195,
         195,
         194,
-        194
+        194,
+        195,
+        195
       ],
       "likes_rank": [
         41,
@@ -98,6 +104,8 @@
         127,
         128,
         137,
+        143,
+        143,
         143
       ]
     }

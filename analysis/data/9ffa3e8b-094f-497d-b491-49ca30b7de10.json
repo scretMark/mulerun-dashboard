@@ -1,6 +1,6 @@
 {
   "agent_id": "9ffa3e8b-094f-497d-b491-49ca30b7de10",
-  "generated_at": "2025-12-31T00:01:23.521992",
+  "generated_at": "2025-12-31T10:26:38.773151",
   "basic_info": {
     "title": "Product Creativity Lab",
     "author": "Aichimp",
@@ -17,24 +17,24 @@
     "current_position": {
       "views_rank": 60,
       "runs_rank": 34,
-      "likes_rank": 53,
+      "likes_rank": 44,
       "total_agents": 277,
       "views_percentile": 78.3,
       "runs_percentile": 87.7,
-      "likes_percentile": 80.9
+      "likes_percentile": 84.1
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 82,
+    "days_tracked": 84,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 42,
+    "days_tracked": 43,
     "last_7_days": {
-      "views_rank_change": -3,
+      "views_rank_change": -2,
       "runs_rank_change": 0,
-      "likes_rank_change": 41
+      "likes_rank_change": 17
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 46,
+    "data_points": 48,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -102,7 +102,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -150,6 +152,8 @@
         61,
         61,
         61,
+        60,
+        60,
         60
       ],
       "runs_rank": [
@@ -186,6 +190,8 @@
         35,
         35,
         35,
+        34,
+        34,
         34,
         34,
         34,
@@ -246,7 +252,9 @@
         39,
         43,
         46,
-        53
+        53,
+        44,
+        44
       ]
     }
   },

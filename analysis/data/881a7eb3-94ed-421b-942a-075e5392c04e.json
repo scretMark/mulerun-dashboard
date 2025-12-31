@@ -1,6 +1,6 @@
 {
   "agent_id": "881a7eb3-94ed-421b-942a-075e5392c04e",
-  "generated_at": "2025-12-31T00:01:26.641090",
+  "generated_at": "2025-12-31T10:26:41.818920",
   "basic_info": {
     "title": "Kitchen Shuffle",
     "author": "nzwhouxvbbb094f",
@@ -15,74 +15,82 @@
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": null,
-      "runs_rank": null,
-      "likes_rank": 59,
+      "views_rank": 277,
+      "runs_rank": 263,
+      "likes_rank": 55,
       "total_agents": 277,
-      "views_percentile": 0,
-      "runs_percentile": 0,
-      "likes_percentile": 78.7
+      "views_percentile": 0.0,
+      "runs_percentile": 5.1,
+      "likes_percentile": 80.1
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 4,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 6,
     "price": 35.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 3,
+    "days_tracked": 4,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 22
+      "likes_rank_change": 18
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 22
+      "likes_rank_change": 18
     },
     "all_time": {
-      "best_views_rank": null,
-      "best_runs_rank": null,
+      "best_views_rank": 277,
+      "best_runs_rank": 263,
       "best_likes_rank": 37,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": null
+      "current_rank": 277
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 5,
+    "data_points": 7,
     "first_recorded": "2025-12-27T08:01:00.423663",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
         null,
         null,
         null,
-        null
+        null,
+        277,
+        277
       ],
       "runs_rank": [
         null,
         null,
         null,
         null,
-        null
+        null,
+        263,
+        263
       ],
       "likes_rank": [
         37,
         38,
         38,
         47,
-        59
+        59,
+        56,
+        55
       ]
     }
   },
@@ -99,9 +107,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #N/A out of 277 active agents."
+      "type": "positive",
+      "title": "High Performer",
+      "description": "Ranked #55 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

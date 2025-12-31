@@ -1,6 +1,6 @@
 {
   "agent_id": "e25975c0-57ba-4c1a-b283-5b5fdba861b4",
-  "generated_at": "2025-12-31T00:01:24.797955",
+  "generated_at": "2025-12-31T10:26:39.998487",
   "basic_info": {
     "title": "Tattoo-Style Pencil Sketch Generator",
     "author": "AFei_AITalk",
@@ -15,26 +15,26 @@
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 152,
-      "runs_rank": 241,
+      "views_rank": 153,
+      "runs_rank": 242,
       "likes_rank": 97,
       "total_agents": 277,
-      "views_percentile": 45.1,
-      "runs_percentile": 13.0,
+      "views_percentile": 44.8,
+      "runs_percentile": 12.6,
       "likes_percentile": 65.0
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 58,
+    "days_tracked": 60,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "last_7_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": 9,
-      "likes_rank_change": 59
+      "views_rank_change": 1,
+      "runs_rank_change": 10,
+      "likes_rank_change": 41
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 7,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 152
+      "current_rank": 153
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 45,
+    "data_points": 47,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -101,7 +101,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -148,7 +150,9 @@
         151,
         151,
         151,
-        152
+        152,
+        153,
+        153
       ],
       "runs_rank": [
         null,
@@ -195,7 +199,9 @@
         239,
         239,
         240,
-        241
+        241,
+        242,
+        242
       ],
       "likes_rank": [
         null,
@@ -242,6 +248,8 @@
         78,
         78,
         91,
+        97,
+        97,
         97
       ]
     }
@@ -254,7 +262,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #152 out of 277 active agents."
+      "description": "This agent is currently ranked #153 out of 277 active agents."
     }
   ]
 }

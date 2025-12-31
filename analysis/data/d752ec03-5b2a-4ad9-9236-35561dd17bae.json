@@ -1,6 +1,6 @@
 {
   "agent_id": "d752ec03-5b2a-4ad9-9236-35561dd17bae",
-  "generated_at": "2025-12-31T00:01:25.345815",
+  "generated_at": "2025-12-31T10:26:40.509017",
   "basic_info": {
     "title": "SpaceLeap and MemoryHug",
     "author": "HongwuQz",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-20T05:56:33.234000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@HongwuQz/spaceleap-and-memoryhug",
-    "days_since_published": 101
+    "days_since_published": 102
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 125,
       "runs_rank": 228,
-      "likes_rank": 227,
+      "likes_rank": 228,
       "total_agents": 277,
       "views_percentile": 54.9,
       "runs_percentile": 17.7,
-      "likes_percentile": 18.1
+      "likes_percentile": 17.7
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 99,
+    "days_tracked": 101,
     "price": 60.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "last_7_days": {
-      "views_rank_change": 2,
+      "views_rank_change": 1,
       "runs_rank_change": 10,
-      "likes_rank_change": 19
+      "likes_rank_change": 18
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 45,
+    "data_points": 47,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -101,7 +101,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -145,6 +147,8 @@
         124,
         123,
         123,
+        125,
+        125,
         125,
         125,
         125,
@@ -195,6 +199,8 @@
         225,
         225,
         226,
+        228,
+        228,
         228
       ],
       "likes_rank": [
@@ -242,7 +248,9 @@
         215,
         217,
         224,
-        227
+        227,
+        228,
+        228
       ]
     }
   },

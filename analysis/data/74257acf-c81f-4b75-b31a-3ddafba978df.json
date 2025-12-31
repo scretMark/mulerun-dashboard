@@ -1,6 +1,6 @@
 {
   "agent_id": "74257acf-c81f-4b75-b31a-3ddafba978df",
-  "generated_at": "2025-12-31T00:01:26.065265",
+  "generated_at": "2025-12-31T10:26:41.247271",
   "basic_info": {
     "title": "Image to 3D Figure",
     "author": "nzwhouxvbbb094f",
@@ -17,15 +17,15 @@
     "current_position": {
       "views_rank": 214,
       "runs_rank": 179,
-      "likes_rank": 128,
+      "likes_rank": 129,
       "total_agents": 277,
       "views_percentile": 22.7,
       "runs_percentile": 35.4,
-      "likes_percentile": 53.8
+      "likes_percentile": 53.4
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 26,
+    "days_tracked": 28,
     "price": 6.0
   },
   "ranking_trends": {
@@ -33,8 +33,8 @@
     "days_tracked": 22,
     "last_7_days": {
       "views_rank_change": 6,
-      "runs_rank_change": 7,
-      "likes_rank_change": 63
+      "runs_rank_change": 6,
+      "likes_rank_change": 47
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 27,
+    "data_points": 29,
     "first_recorded": "2025-12-09T08:00:25.308684",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-12-09T08:00:25.308684",
@@ -83,7 +83,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -112,6 +114,8 @@
         211,
         211,
         212,
+        214,
+        214,
         214
       ],
       "runs_rank": [
@@ -137,6 +141,8 @@
         172,
         173,
         173,
+        179,
+        179,
         179,
         179,
         179,
@@ -170,7 +176,9 @@
         109,
         109,
         122,
-        128
+        128,
+        129,
+        129
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "9f2af205-abf8-435e-a29f-0cfa00daa24a",
-  "generated_at": "2025-12-31T00:01:26.552036",
+  "generated_at": "2025-12-31T10:26:41.716567",
   "basic_info": {
     "title": "PDF Mind",
     "author": "Aichimp",
@@ -15,46 +15,46 @@
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 199,
+      "views_rank": 198,
       "runs_rank": 166,
-      "likes_rank": 82,
+      "likes_rank": 81,
       "total_agents": 277,
-      "views_percentile": 28.2,
+      "views_percentile": 28.5,
       "runs_percentile": 40.1,
-      "likes_percentile": 70.4
+      "likes_percentile": 70.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 5,
+    "days_tracked": 7,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
     "days_tracked": 5,
     "last_7_days": {
-      "views_rank_change": -14,
+      "views_rank_change": -15,
       "runs_rank_change": -9,
-      "likes_rank_change": 31
+      "likes_rank_change": 30
     },
     "last_30_days": {
-      "views_rank_change": -14,
+      "views_rank_change": -15,
       "runs_rank_change": -9,
-      "likes_rank_change": 31
+      "likes_rank_change": 30
     },
     "all_time": {
-      "best_views_rank": 199,
+      "best_views_rank": 198,
       "best_runs_rank": 166,
       "best_likes_rank": 51,
       "days_in_top_10": 0,
       "first_rank": 213,
-      "current_rank": 199
+      "current_rank": 198
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 6,
+    "data_points": 8,
     "first_recorded": "2025-12-26T08:00:54.905148",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-12-26T08:00:54.905148",
@@ -62,7 +62,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         213,
@@ -70,7 +72,9 @@
         205,
         204,
         200,
-        199
+        199,
+        198,
+        198
       ],
       "runs_rank": [
         175,
@@ -78,6 +82,8 @@
         176,
         172,
         174,
+        166,
+        166,
         166
       ],
       "likes_rank": [
@@ -86,7 +92,9 @@
         61,
         63,
         76,
-        82
+        82,
+        81,
+        81
       ]
     }
   },
@@ -105,12 +113,12 @@
     {
       "type": "positive",
       "title": "Rising Star",
-      "description": "Improved by 14 positions in views ranking over the last 30 days - showing strong momentum!"
+      "description": "Improved by 15 positions in views ranking over the last 30 days - showing strong momentum!"
     },
     {
       "type": "positive",
       "title": "Hot Trend",
-      "description": "Up 14 positions in just 7 days - currently trending and gaining rapid visibility!"
+      "description": "Up 15 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

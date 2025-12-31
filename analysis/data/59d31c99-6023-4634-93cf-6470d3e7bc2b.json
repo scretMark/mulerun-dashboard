@@ -1,6 +1,6 @@
 {
   "agent_id": "59d31c99-6023-4634-93cf-6470d3e7bc2b",
-  "generated_at": "2025-12-31T00:01:26.345500",
+  "generated_at": "2025-12-31T10:26:41.524009",
   "basic_info": {
     "title": "image matting",
     "author": "jumdata",
@@ -11,7 +11,7 @@
     "published_at": "2025-12-12T09:37:01.780000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@jumdata/image-matting",
-    "days_since_published": 18
+    "days_since_published": 19
   },
   "ranking_metrics": {
     "current_position": {
@@ -25,16 +25,16 @@
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 18,
+    "days_tracked": 20,
     "price": 20.0
   },
   "ranking_trends": {
     "has_data": true,
     "days_tracked": 14,
     "last_7_days": {
-      "views_rank_change": -3,
-      "runs_rank_change": -63,
-      "likes_rank_change": 61
+      "views_rank_change": 2,
+      "runs_rank_change": -50,
+      "likes_rank_change": 43
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 19,
+    "data_points": 21,
     "first_recorded": "2025-12-16T19:09:41.063612",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-12-16T19:09:41.063612",
@@ -75,7 +75,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -95,6 +97,8 @@
         202,
         202,
         202,
+        203,
+        203,
         203,
         203
       ],
@@ -117,6 +121,8 @@
         175,
         171,
         153,
+        146,
+        146,
         146
       ],
       "likes_rank": [
@@ -138,6 +144,8 @@
         83,
         83,
         95,
+        102,
+        102,
         102
       ]
     }

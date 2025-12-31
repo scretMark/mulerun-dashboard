@@ -1,6 +1,6 @@
 {
   "agent_id": "6c19744c-3bd9-45f2-a48e-4c97465906d0",
-  "generated_at": "2025-12-31T00:01:26.012101",
+  "generated_at": "2025-12-31T10:26:41.181221",
   "basic_info": {
     "title": "Mockup Studio Try On",
     "author": "DENNIS",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-04T09:50:58.930000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@DENNIS/mockup-studio-try-on",
-    "days_since_published": 26
+    "days_since_published": 27
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 171,
       "runs_rank": 147,
-      "likes_rank": 158,
+      "likes_rank": 155,
       "total_agents": 277,
       "views_percentile": 38.3,
       "runs_percentile": 46.9,
-      "likes_percentile": 43.0
+      "likes_percentile": 44.0
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 29,
+    "days_tracked": 31,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 22,
+    "days_tracked": 23,
     "last_7_days": {
-      "views_rank_change": -2,
+      "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": 49
+      "likes_rank_change": 32
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 28,
+    "data_points": 30,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -84,7 +84,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -114,6 +116,8 @@
         171,
         171,
         172,
+        171,
+        171,
         171
       ],
       "runs_rank": [
@@ -144,6 +148,8 @@
         151,
         152,
         152,
+        147,
+        147,
         147
       ],
       "likes_rank": [
@@ -174,7 +180,9 @@
         139,
         142,
         154,
-        158
+        158,
+        155,
+        155
       ]
     }
   },

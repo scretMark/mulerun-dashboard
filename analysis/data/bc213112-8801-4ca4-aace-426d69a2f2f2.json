@@ -1,6 +1,6 @@
 {
   "agent_id": "bc213112-8801-4ca4-aace-426d69a2f2f2",
-  "generated_at": "2025-12-31T00:01:24.918202",
+  "generated_at": "2025-12-31T10:26:40.090434",
   "basic_info": {
     "title": "Judy Hopps Cosplay Filter",
     "author": "Lucas",
@@ -15,26 +15,26 @@
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 160,
-      "runs_rank": null,
-      "likes_rank": 14,
+      "views_rank": 159,
+      "runs_rank": 262,
+      "likes_rank": 27,
       "total_agents": 277,
-      "views_percentile": 42.2,
-      "runs_percentile": 0,
-      "likes_percentile": 94.9
+      "views_percentile": 42.6,
+      "runs_percentile": 5.4,
+      "likes_percentile": 90.3
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 57,
+    "days_tracked": 59,
     "price": 49.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "last_7_days": {
-      "views_rank_change": 3,
-      "runs_rank_change": null,
-      "likes_rank_change": -232
+      "views_rank_change": 2,
+      "runs_rank_change": 15,
+      "likes_rank_change": 19
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 8,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 160
+      "current_rank": 159
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 45,
+    "data_points": 47,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -101,7 +101,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -148,7 +150,9 @@
         158,
         157,
         159,
-        160
+        160,
+        159,
+        159
       ],
       "runs_rank": [
         null,
@@ -195,7 +199,9 @@
         null,
         null,
         null,
-        null
+        null,
+        262,
+        262
       ],
       "likes_rank": [
         null,
@@ -242,7 +248,9 @@
         24,
         18,
         17,
-        14
+        14,
+        27,
+        27
       ]
     }
   },
@@ -254,7 +262,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #14 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #27 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

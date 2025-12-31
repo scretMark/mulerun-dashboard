@@ -1,6 +1,6 @@
 {
   "agent_id": "060c2d29-6d0f-41ef-aa16-bd4a000e1ef5",
-  "generated_at": "2025-12-31T00:01:23.567065",
+  "generated_at": "2025-12-31T10:26:38.823271",
   "basic_info": {
     "title": "Auto Short Video Creator",
     "author": "GrahamRabbb0e02",
@@ -17,24 +17,24 @@
     "current_position": {
       "views_rank": 4,
       "runs_rank": 12,
-      "likes_rank": 12,
+      "likes_rank": 18,
       "total_agents": 277,
       "views_percentile": 98.6,
       "runs_percentile": 95.7,
-      "likes_percentile": 95.7
+      "likes_percentile": 93.5
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 69,
+    "days_tracked": 71,
     "price": 386.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 42,
+    "days_tracked": 43,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 2,
-      "likes_rank_change": -161
+      "likes_rank_change": -160
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -45,16 +45,16 @@
       "best_views_rank": 4,
       "best_runs_rank": 8,
       "best_likes_rank": 11,
-      "days_in_top_10": 18,
+      "days_in_top_10": 20,
       "first_rank": null,
       "current_rank": 4
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 46,
+    "data_points": 48,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -102,7 +102,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -133,6 +135,8 @@
         null,
         null,
         null,
+        4,
+        4,
         4,
         4,
         4,
@@ -198,6 +202,8 @@
         11,
         11,
         12,
+        12,
+        12,
         12
       ],
       "likes_rank": [
@@ -246,7 +252,9 @@
         198,
         200,
         11,
-        12
+        12,
+        16,
+        18
       ]
     }
   },
@@ -263,7 +271,7 @@
     {
       "type": "positive",
       "title": "Consistent Top Performer",
-      "description": "Maintained Top 10 ranking for 18 days - showing sustained excellence and user preference."
+      "description": "Maintained Top 10 ranking for 20 days - showing sustained excellence and user preference."
     },
     {
       "type": "info",

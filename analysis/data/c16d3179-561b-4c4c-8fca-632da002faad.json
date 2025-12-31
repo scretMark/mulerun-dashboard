@@ -1,6 +1,6 @@
 {
   "agent_id": "c16d3179-561b-4c4c-8fca-632da002faad",
-  "generated_at": "2025-12-31T00:01:24.035918",
+  "generated_at": "2025-12-31T10:26:39.259260",
   "basic_info": {
     "title": "A nine-grid of headshots",
     "author": "laughing_code",
@@ -15,26 +15,26 @@
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 61,
+      "views_rank": 62,
       "runs_rank": 66,
-      "likes_rank": 52,
+      "likes_rank": 49,
       "total_agents": 277,
-      "views_percentile": 78.0,
+      "views_percentile": 77.6,
       "runs_percentile": 76.2,
-      "likes_percentile": 81.2
+      "likes_percentile": 82.3
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 96,
+    "days_tracked": 98,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "last_7_days": {
       "views_rank_change": 2,
       "runs_rank_change": 0,
-      "likes_rank_change": -75
+      "likes_rank_change": -86
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -44,17 +44,17 @@
     "all_time": {
       "best_views_rank": 58,
       "best_runs_rank": 65,
-      "best_likes_rank": 51,
+      "best_likes_rank": 49,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 61
+      "current_rank": 62
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 45,
+    "data_points": 47,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -101,7 +101,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -148,7 +150,9 @@
         60,
         60,
         60,
-        61
+        61,
+        62,
+        62
       ],
       "runs_rank": [
         null,
@@ -186,6 +190,8 @@
         65,
         65,
         65,
+        66,
+        66,
         66,
         66,
         66,
@@ -242,7 +248,9 @@
         153,
         153,
         51,
-        52
+        52,
+        null,
+        49
       ]
     }
   },
@@ -254,7 +262,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #52 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #49 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

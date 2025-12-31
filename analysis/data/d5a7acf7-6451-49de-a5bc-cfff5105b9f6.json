@@ -1,6 +1,6 @@
 {
   "agent_id": "d5a7acf7-6451-49de-a5bc-cfff5105b9f6",
-  "generated_at": "2025-12-31T00:01:24.214082",
+  "generated_at": "2025-12-31T10:26:39.444127",
   "basic_info": {
     "title": "Caption AI",
     "author": "yrmrazvdd2108ay",
@@ -16,25 +16,25 @@
   "ranking_metrics": {
     "current_position": {
       "views_rank": 79,
-      "runs_rank": 88,
-      "likes_rank": 243,
+      "runs_rank": 87,
+      "likes_rank": 242,
       "total_agents": 277,
       "views_percentile": 71.5,
-      "runs_percentile": 68.2,
-      "likes_percentile": 12.3
+      "runs_percentile": 68.6,
+      "likes_percentile": 12.6
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 90,
+    "days_tracked": 92,
     "price": 9.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 0,
-      "likes_rank_change": 20
+      "runs_rank_change": -1,
+      "likes_rank_change": 14
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 45,
+    "data_points": 47,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -101,7 +101,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -148,6 +150,8 @@
         79,
         79,
         80,
+        79,
+        79,
         79
       ],
       "runs_rank": [
@@ -195,7 +199,9 @@
         88,
         88,
         88,
-        88
+        88,
+        87,
+        87
       ],
       "likes_rank": [
         null,
@@ -242,7 +248,9 @@
         230,
         228,
         237,
-        243
+        243,
+        241,
+        242
       ]
     }
   },

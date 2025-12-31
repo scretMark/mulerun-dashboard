@@ -1,6 +1,6 @@
 {
   "agent_id": "8e470909-1a3c-4515-8e97-1c192a3fa462",
-  "generated_at": "2025-12-31T00:01:26.314585",
+  "generated_at": "2025-12-31T10:26:41.495207",
   "basic_info": {
     "title": "ID Photo Generator",
     "author": "pxzzf1010_cr73m",
@@ -15,26 +15,26 @@
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": null,
-      "runs_rank": 196,
+      "views_rank": 252,
+      "runs_rank": 198,
       "likes_rank": 73,
       "total_agents": 277,
-      "views_percentile": 0,
-      "runs_percentile": 29.2,
+      "views_percentile": 9.0,
+      "runs_percentile": 28.5,
       "likes_percentile": 73.6
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 22,
+    "days_tracked": 24,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
     "days_tracked": 18,
     "last_7_days": {
-      "views_rank_change": null,
-      "runs_rank_change": 0,
-      "likes_rank_change": -21
+      "views_rank_change": 9,
+      "runs_rank_change": 1,
+      "likes_rank_change": 34
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 39,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": null
+      "current_rank": 252
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 22,
+    "data_points": 24,
     "first_recorded": "2025-12-13T08:00:26.854786",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-12-13T08:00:26.854786",
@@ -78,7 +78,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -102,7 +104,9 @@
         250,
         null,
         250,
-        null
+        null,
+        252,
+        252
       ],
       "runs_rank": [
         null,
@@ -126,7 +130,9 @@
         203,
         203,
         196,
-        196
+        196,
+        198,
+        198
       ],
       "likes_rank": [
         null,
@@ -150,6 +156,8 @@
         57,
         57,
         68,
+        73,
+        73,
         73
       ]
     }
@@ -169,7 +177,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #N/A out of 277 active agents."
+      "description": "This agent is currently ranked #252 out of 277 active agents."
     }
   ]
 }

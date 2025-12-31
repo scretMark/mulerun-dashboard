@@ -1,6 +1,6 @@
 {
   "agent_id": "5790d3e6-8c54-42c8-bc16-c8fdbb244e5b",
-  "generated_at": "2025-12-31T00:01:26.324318",
+  "generated_at": "2025-12-31T10:26:41.504481",
   "basic_info": {
     "title": "DEEPINSIGHT_Briefing",
     "author": "liang_caoqw1",
@@ -25,16 +25,16 @@
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 18,
+    "days_tracked": 20,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
     "days_tracked": 14,
     "last_7_days": {
-      "views_rank_change": -5,
-      "runs_rank_change": 0,
-      "likes_rank_change": -83
+      "views_rank_change": -3,
+      "runs_rank_change": -1,
+      "likes_rank_change": -92
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 19,
+    "data_points": 21,
     "first_recorded": "2025-12-16T19:09:41.063612",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-12-16T19:09:41.063612",
@@ -75,7 +75,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -96,6 +98,8 @@
         130,
         130,
         128,
+        128,
+        128,
         128
       ],
       "runs_rank": [
@@ -112,6 +116,8 @@
         77,
         78,
         79,
+        78,
+        78,
         78,
         78,
         78,
@@ -138,6 +144,8 @@
         31,
         31,
         40,
+        41,
+        41,
         41
       ]
     }

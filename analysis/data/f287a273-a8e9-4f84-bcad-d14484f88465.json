@@ -1,6 +1,6 @@
 {
   "agent_id": "f287a273-a8e9-4f84-bcad-d14484f88465",
-  "generated_at": "2025-12-31T00:01:24.931426",
+  "generated_at": "2025-12-31T10:26:40.112192",
   "basic_info": {
     "title": "Ethereal Bloom",
     "author": "Lucas",
@@ -16,25 +16,25 @@
   "ranking_metrics": {
     "current_position": {
       "views_rank": 222,
-      "runs_rank": null,
+      "runs_rank": 268,
       "likes_rank": 210,
       "total_agents": 277,
       "views_percentile": 19.9,
-      "runs_percentile": 0,
+      "runs_percentile": 3.2,
       "likes_percentile": 24.2
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 58,
+    "days_tracked": 60,
     "price": 49.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "last_7_days": {
       "views_rank_change": 7,
       "runs_rank_change": null,
-      "likes_rank_change": 28
+      "likes_rank_change": 23
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 45,
+    "data_points": 47,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -101,7 +101,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -147,6 +149,8 @@
         221,
         221,
         221,
+        222,
+        222,
         222,
         222
       ],
@@ -195,7 +199,9 @@
         null,
         null,
         null,
-        null
+        null,
+        268,
+        268
       ],
       "likes_rank": [
         null,
@@ -242,6 +248,8 @@
         199,
         199,
         206,
+        210,
+        210,
         210
       ]
     }

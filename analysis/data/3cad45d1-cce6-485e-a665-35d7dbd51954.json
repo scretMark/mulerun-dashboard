@@ -1,6 +1,6 @@
 {
   "agent_id": "3cad45d1-cce6-485e-a665-35d7dbd51954",
-  "generated_at": "2025-12-31T00:01:24.720395",
+  "generated_at": "2025-12-31T10:26:39.923186",
   "basic_info": {
     "title": "Companion of the Storm",
     "author": "Darren",
@@ -15,26 +15,26 @@
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 113,
+      "views_rank": 114,
       "runs_rank": 189,
       "likes_rank": 163,
       "total_agents": 277,
-      "views_percentile": 59.2,
+      "views_percentile": 58.8,
       "runs_percentile": 31.8,
       "likes_percentile": 41.2
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 67,
+    "days_tracked": 69,
     "price": 51.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "last_7_days": {
       "views_rank_change": 2,
       "runs_rank_change": 8,
-      "likes_rank_change": 43
+      "likes_rank_change": 34
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 92,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 113
+      "current_rank": 114
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 45,
+    "data_points": 47,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -101,7 +101,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -148,7 +150,9 @@
         113,
         113,
         113,
-        113
+        113,
+        114,
+        114
       ],
       "runs_rank": [
         null,
@@ -191,6 +195,8 @@
         181,
         181,
         183,
+        189,
+        189,
         189,
         189,
         189,
@@ -242,6 +248,8 @@
         147,
         147,
         159,
+        163,
+        163,
         163
       ]
     }
@@ -254,7 +262,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #113 out of 277 active agents."
+      "description": "This agent is currently ranked #114 out of 277 active agents."
     }
   ]
 }

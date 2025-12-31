@@ -1,6 +1,6 @@
 {
   "agent_id": "e00f297d-d5c8-4e32-9a24-2fefa1f1bdc2",
-  "generated_at": "2025-12-31T00:01:25.562745",
+  "generated_at": "2025-12-31T10:26:40.718027",
   "basic_info": {
     "title": "TRON Ares Neon Filter",
     "author": "Lucas",
@@ -17,24 +17,24 @@
     "current_position": {
       "views_rank": 167,
       "runs_rank": 190,
-      "likes_rank": 190,
+      "likes_rank": 191,
       "total_agents": 277,
       "views_percentile": 39.7,
       "runs_percentile": 31.4,
-      "likes_percentile": 31.4
+      "likes_percentile": 31.0
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 73,
+    "days_tracked": 75,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "last_7_days": {
-      "views_rank_change": 1,
+      "views_rank_change": 0,
       "runs_rank_change": 8,
-      "likes_rank_change": 33
+      "likes_rank_change": 27
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 45,
+    "data_points": 47,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -101,7 +101,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -142,6 +144,8 @@
         163,
         165,
         166,
+        167,
+        167,
         167,
         167,
         167,
@@ -195,6 +199,8 @@
         190,
         190,
         190,
+        190,
+        190,
         190
       ],
       "likes_rank": [
@@ -242,7 +248,9 @@
         179,
         179,
         186,
-        190
+        190,
+        191,
+        191
       ]
     }
   },

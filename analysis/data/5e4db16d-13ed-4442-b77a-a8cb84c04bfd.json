@@ -1,6 +1,6 @@
 {
   "agent_id": "5e4db16d-13ed-4442-b77a-a8cb84c04bfd",
-  "generated_at": "2025-12-31T00:01:26.171246",
+  "generated_at": "2025-12-31T10:26:41.352086",
   "basic_info": {
     "title": "Cartoon Cookbook",
     "author": "Barry",
@@ -17,24 +17,24 @@
     "current_position": {
       "views_rank": 216,
       "runs_rank": 131,
-      "likes_rank": 111,
+      "likes_rank": 112,
       "total_agents": 277,
       "views_percentile": 22.0,
       "runs_percentile": 52.7,
-      "likes_percentile": 59.9
+      "likes_percentile": 59.6
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 23,
+    "days_tracked": 25,
     "price": 48.0
   },
   "ranking_trends": {
     "has_data": true,
     "days_tracked": 19,
     "last_7_days": {
-      "views_rank_change": 2,
+      "views_rank_change": 5,
       "runs_rank_change": 3,
-      "likes_rank_change": 64
+      "likes_rank_change": 43
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 23,
+    "data_points": 25,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -79,7 +79,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -104,6 +106,8 @@
         216,
         215,
         214,
+        216,
+        216,
         216
       ],
       "runs_rank": [
@@ -128,6 +132,8 @@
         130,
         130,
         130,
+        131,
+        131,
         131,
         131
       ],
@@ -154,7 +160,9 @@
         92,
         93,
         106,
-        111
+        111,
+        112,
+        112
       ]
     }
   },

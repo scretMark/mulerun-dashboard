@@ -1,6 +1,6 @@
 {
   "agent_id": "d7b85cff-5179-46c7-a1e5-09560f825c92",
-  "generated_at": "2025-12-31T00:01:23.405955",
+  "generated_at": "2025-12-31T10:26:38.640690",
   "basic_info": {
     "title": "AI Model Swap",
     "author": "PicCopilot",
@@ -17,24 +17,24 @@
     "current_position": {
       "views_rank": 71,
       "runs_rank": 11,
-      "likes_rank": 72,
+      "likes_rank": 70,
       "total_agents": 277,
       "views_percentile": 74.4,
       "runs_percentile": 96.0,
-      "likes_percentile": 74.0
+      "likes_percentile": 74.7
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 52,
+    "days_tracked": 54,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 42,
+    "days_tracked": 43,
     "last_7_days": {
       "views_rank_change": -3,
-      "runs_rank_change": 3,
-      "likes_rank_change": 53
+      "runs_rank_change": 2,
+      "likes_rank_change": 41
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 46,
+    "data_points": 48,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -102,7 +102,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -150,6 +152,8 @@
         74,
         73,
         73,
+        71,
+        71,
         71
       ],
       "runs_rank": [
@@ -198,6 +202,8 @@
         10,
         10,
         10,
+        11,
+        11,
         11
       ],
       "likes_rank": [
@@ -246,7 +252,9 @@
         44,
         53,
         57,
-        72
+        72,
+        70,
+        70
       ]
     }
   },

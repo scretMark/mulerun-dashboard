@@ -1,6 +1,6 @@
 {
   "agent_id": "b02c82d6-cc3b-46d5-8802-2faa73867f5e",
-  "generated_at": "2025-12-31T00:01:23.739902",
+  "generated_at": "2025-12-31T10:26:38.997810",
   "basic_info": {
     "title": "All-In-One Downloader",
     "author": "JackCodebbb0c85",
@@ -17,20 +17,20 @@
     "current_position": {
       "views_rank": 10,
       "runs_rank": 19,
-      "likes_rank": null,
+      "likes_rank": 263,
       "total_agents": 277,
       "views_percentile": 96.4,
       "runs_percentile": 93.1,
-      "likes_percentile": 0
+      "likes_percentile": 5.1
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 65,
+    "days_tracked": 67,
     "price": 5.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
@@ -45,16 +45,16 @@
       "best_views_rank": 10,
       "best_runs_rank": 17,
       "best_likes_rank": 88,
-      "days_in_top_10": 18,
+      "days_in_top_10": 20,
       "first_rank": null,
       "current_rank": 10
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 45,
+    "data_points": 47,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -101,7 +101,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -131,6 +133,8 @@
         null,
         null,
         null,
+        10,
+        10,
         10,
         10,
         10,
@@ -195,6 +199,8 @@
         19,
         19,
         19,
+        19,
+        19,
         19
       ],
       "likes_rank": [
@@ -242,7 +248,9 @@
         null,
         null,
         null,
-        null
+        null,
+        262,
+        263
       ]
     }
   },
@@ -259,7 +267,7 @@
     {
       "type": "positive",
       "title": "Consistent Top Performer",
-      "description": "Maintained Top 10 ranking for 18 days - showing sustained excellence and user preference."
+      "description": "Maintained Top 10 ranking for 20 days - showing sustained excellence and user preference."
     },
     {
       "type": "info",

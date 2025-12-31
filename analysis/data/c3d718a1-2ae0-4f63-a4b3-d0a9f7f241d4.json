@@ -1,6 +1,6 @@
 {
   "agent_id": "c3d718a1-2ae0-4f63-a4b3-d0a9f7f241d4",
-  "generated_at": "2025-12-31T00:01:25.791249",
+  "generated_at": "2025-12-31T10:26:40.932301",
   "basic_info": {
     "title": "Core Burst",
     "author": "Excel",
@@ -16,25 +16,25 @@
   "ranking_metrics": {
     "current_position": {
       "views_rank": 207,
-      "runs_rank": null,
+      "runs_rank": 273,
       "likes_rank": 201,
       "total_agents": 277,
       "views_percentile": 25.3,
-      "runs_percentile": 0,
+      "runs_percentile": 1.4,
       "likes_percentile": 27.4
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 77,
+    "days_tracked": 79,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": null,
-      "likes_rank_change": 29
+      "likes_rank_change": 24
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 45,
+    "data_points": 47,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -101,7 +101,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -148,6 +150,8 @@
         209,
         209,
         208,
+        207,
+        207,
         207
       ],
       "runs_rank": [
@@ -195,7 +199,9 @@
         null,
         null,
         null,
-        null
+        null,
+        273,
+        273
       ],
       "likes_rank": [
         null,
@@ -242,6 +248,8 @@
         189,
         189,
         197,
+        201,
+        201,
         201
       ]
     }

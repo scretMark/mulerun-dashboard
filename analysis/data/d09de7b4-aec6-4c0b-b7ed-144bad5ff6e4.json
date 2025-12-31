@@ -1,6 +1,6 @@
 {
   "agent_id": "d09de7b4-aec6-4c0b-b7ed-144bad5ff6e4",
-  "generated_at": "2025-12-31T00:01:26.240885",
+  "generated_at": "2025-12-31T10:26:41.423097",
   "basic_info": {
     "title": "Open Eyes in Photo ",
     "author": "zhoudshu_zhoj7m",
@@ -17,24 +17,24 @@
     "current_position": {
       "views_rank": 208,
       "runs_rank": 193,
-      "likes_rank": 126,
+      "likes_rank": 127,
       "total_agents": 277,
       "views_percentile": 24.9,
       "runs_percentile": 30.3,
-      "likes_percentile": 54.5
+      "likes_percentile": 54.2
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 23,
+    "days_tracked": 25,
     "price": 20.0
   },
   "ranking_trends": {
     "has_data": true,
     "days_tracked": 19,
     "last_7_days": {
-      "views_rank_change": 7,
+      "views_rank_change": 5,
       "runs_rank_change": 8,
-      "likes_rank_change": 59
+      "likes_rank_change": 44
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 23,
+    "data_points": 25,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -79,7 +79,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -104,6 +106,8 @@
         207,
         207,
         207,
+        208,
+        208,
         208
       ],
       "runs_rank": [
@@ -125,6 +129,8 @@
         185,
         185,
         187,
+        193,
+        193,
         193,
         193,
         193,
@@ -154,7 +160,9 @@
         112,
         112,
         125,
-        126
+        126,
+        127,
+        127
       ]
     }
   },

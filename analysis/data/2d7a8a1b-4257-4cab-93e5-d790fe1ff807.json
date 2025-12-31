@@ -1,6 +1,6 @@
 {
   "agent_id": "2d7a8a1b-4257-4cab-93e5-d790fe1ff807",
-  "generated_at": "2025-12-31T00:01:26.474437",
+  "generated_at": "2025-12-31T10:26:41.645641",
   "basic_info": {
     "title": "Shorts Script Factory",
     "author": "ali_mohammed2tm",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-18T02:09:10.785000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@ali_mohammed2tm/shorts-script-factory",
-    "days_since_published": 12
+    "days_since_published": 13
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 173,
+      "views_rank": 174,
       "runs_rank": 120,
-      "likes_rank": 46,
+      "likes_rank": 52,
       "total_agents": 277,
-      "views_percentile": 37.5,
+      "views_percentile": 37.2,
       "runs_percentile": 56.7,
-      "likes_percentile": 83.4
+      "likes_percentile": 81.2
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 8,
+    "days_tracked": 10,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 7,
+    "days_tracked": 8,
     "last_7_days": {
-      "views_rank_change": -7,
+      "views_rank_change": -6,
       "runs_rank_change": 2,
-      "likes_rank_change": -45
+      "likes_rank_change": 24
     },
     "last_30_days": {
-      "views_rank_change": -13,
+      "views_rank_change": -12,
       "runs_rank_change": 0,
-      "likes_rank_change": 38
+      "likes_rank_change": 44
     },
     "all_time": {
       "best_views_rank": 173,
@@ -47,14 +47,14 @@
       "best_likes_rank": 8,
       "days_in_top_10": 0,
       "first_rank": 186,
-      "current_rank": 173
+      "current_rank": 174
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 9,
+    "data_points": 11,
     "first_recorded": "2025-12-23T08:00:59.635142",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-12-23T08:00:59.635142",
@@ -65,7 +65,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         186,
@@ -76,7 +78,9 @@
         174,
         174,
         173,
-        173
+        173,
+        174,
+        174
       ],
       "runs_rank": [
         120,
@@ -86,6 +90,8 @@
         119,
         119,
         119,
+        120,
+        120,
         120,
         120
       ],
@@ -98,7 +104,9 @@
         40,
         39,
         44,
-        46
+        46,
+        53,
+        52
       ]
     }
   },
@@ -117,17 +125,17 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #46 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #52 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     },
     {
       "type": "positive",
       "title": "Rising Star",
-      "description": "Improved by 13 positions in views ranking over the last 30 days - showing strong momentum!"
+      "description": "Improved by 12 positions in views ranking over the last 30 days - showing strong momentum!"
     },
     {
       "type": "positive",
       "title": "Hot Trend",
-      "description": "Up 7 positions in just 7 days - currently trending and gaining rapid visibility!"
+      "description": "Up 6 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

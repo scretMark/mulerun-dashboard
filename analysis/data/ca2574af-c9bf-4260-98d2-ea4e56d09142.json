@@ -1,6 +1,6 @@
 {
   "agent_id": "ca2574af-c9bf-4260-98d2-ea4e56d09142",
-  "generated_at": "2025-12-31T00:01:24.709523",
+  "generated_at": "2025-12-31T10:26:39.911309",
   "basic_info": {
     "title": "FilmFace Changer",
     "author": "Darren",
@@ -17,24 +17,24 @@
     "current_position": {
       "views_rank": 111,
       "runs_rank": 121,
-      "likes_rank": 16,
+      "likes_rank": 26,
       "total_agents": 277,
       "views_percentile": 59.9,
       "runs_percentile": 56.3,
-      "likes_percentile": 94.2
+      "likes_percentile": 90.6
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 67,
+    "days_tracked": 69,
     "price": 66.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 2,
-      "likes_rank_change": -86
+      "likes_rank_change": 13
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 45,
+    "data_points": 47,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -101,7 +101,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -144,6 +146,8 @@
         110,
         110,
         110,
+        111,
+        111,
         111,
         111,
         111,
@@ -195,6 +199,8 @@
         120,
         120,
         121,
+        121,
+        121,
         121
       ],
       "likes_rank": [
@@ -242,7 +248,9 @@
         23,
         22,
         20,
-        16
+        16,
+        26,
+        26
       ]
     }
   },
@@ -254,7 +262,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #16 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #26 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

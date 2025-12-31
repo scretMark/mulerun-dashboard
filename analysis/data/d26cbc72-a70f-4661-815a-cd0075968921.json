@@ -1,6 +1,6 @@
 {
   "agent_id": "d26cbc72-a70f-4661-815a-cd0075968921",
-  "generated_at": "2025-12-31T00:01:26.271176",
+  "generated_at": "2025-12-31T10:26:41.452591",
   "basic_info": {
     "title": "Pretend I was here",
     "author": "Barry",
@@ -11,7 +11,7 @@
     "published_at": "2025-12-09T09:50:37.765000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Barry/pretend-i-was-here",
-    "days_since_published": 21
+    "days_since_published": 22
   },
   "ranking_metrics": {
     "current_position": {
@@ -25,16 +25,16 @@
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 22,
+    "days_tracked": 24,
     "price": 46.0
   },
   "ranking_trends": {
     "has_data": true,
     "days_tracked": 18,
     "last_7_days": {
-      "views_rank_change": 6,
+      "views_rank_change": 5,
       "runs_rank_change": 2,
-      "likes_rank_change": 61
+      "likes_rank_change": 44
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 22,
+    "data_points": 24,
     "first_recorded": "2025-12-13T08:00:26.854786",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-12-13T08:00:26.854786",
@@ -78,7 +78,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -101,6 +103,8 @@
         224,
         224,
         224,
+        225,
+        225,
         225,
         225
       ],
@@ -126,6 +130,8 @@
         121,
         121,
         122,
+        122,
+        122,
         122
       ],
       "likes_rank": [
@@ -150,6 +156,8 @@
         84,
         84,
         97,
+        105,
+        105,
         105
       ]
     }

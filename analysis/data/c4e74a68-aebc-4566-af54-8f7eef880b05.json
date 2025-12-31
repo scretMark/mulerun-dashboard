@@ -1,6 +1,6 @@
 {
   "agent_id": "c4e74a68-aebc-4566-af54-8f7eef880b05",
-  "generated_at": "2025-12-31T00:01:26.076554",
+  "generated_at": "2025-12-31T10:26:41.259404",
   "basic_info": {
     "title": "CoinAnalyst Pro",
     "author": "Barry",
@@ -15,26 +15,26 @@
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 219,
+      "views_rank": 218,
       "runs_rank": 137,
-      "likes_rank": 79,
+      "likes_rank": 80,
       "total_agents": 277,
-      "views_percentile": 20.9,
+      "views_percentile": 21.3,
       "runs_percentile": 50.5,
-      "likes_percentile": 71.5
+      "likes_percentile": 71.1
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 25,
+    "days_tracked": 27,
     "price": 78.0
   },
   "ranking_trends": {
     "has_data": true,
     "days_tracked": 21,
     "last_7_days": {
-      "views_rank_change": -2,
-      "runs_rank_change": 4,
-      "likes_rank_change": 55
+      "views_rank_change": -3,
+      "runs_rank_change": 3,
+      "likes_rank_change": 38
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 10,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 219
+      "current_rank": 218
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 25,
+    "data_points": 27,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
@@ -81,7 +81,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -108,7 +110,9 @@
         219,
         217,
         218,
-        219
+        219,
+        218,
+        218
       ],
       "runs_rank": [
         null,
@@ -133,6 +137,8 @@
         134,
         136,
         136,
+        137,
+        137,
         137,
         137,
         137
@@ -162,7 +168,9 @@
         63,
         61,
         74,
-        79
+        79,
+        79,
+        80
       ]
     }
   },
@@ -181,7 +189,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #219 out of 277 active agents."
+      "description": "This agent is currently ranked #218 out of 277 active agents."
     }
   ]
 }

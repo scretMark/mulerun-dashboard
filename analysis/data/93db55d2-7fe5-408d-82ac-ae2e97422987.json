@@ -1,6 +1,6 @@
 {
   "agent_id": "93db55d2-7fe5-408d-82ac-ae2e97422987",
-  "generated_at": "2025-12-31T00:01:26.630472",
+  "generated_at": "2025-12-31T10:26:41.808630",
   "basic_info": {
     "title": "Fashion Reels",
     "author": "PicCopilot",
@@ -17,29 +17,29 @@
     "current_position": {
       "views_rank": 238,
       "runs_rank": 232,
-      "likes_rank": 65,
+      "likes_rank": 66,
       "total_agents": 277,
       "views_percentile": 14.1,
       "runs_percentile": 16.2,
-      "likes_percentile": 76.5
+      "likes_percentile": 76.2
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 4,
+    "days_tracked": 6,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 3,
+    "days_tracked": 4,
     "last_7_days": {
       "views_rank_change": -2,
       "runs_rank_change": -5,
-      "likes_rank_change": 20
+      "likes_rank_change": 21
     },
     "last_30_days": {
       "views_rank_change": -2,
       "runs_rank_change": -5,
-      "likes_rank_change": 20
+      "likes_rank_change": 21
     },
     "all_time": {
       "best_views_rank": 238,
@@ -52,22 +52,26 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 5,
+    "data_points": 7,
     "first_recorded": "2025-12-27T08:01:00.423663",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-12-27T08:01:00.423663",
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         240,
         241,
         241,
         241,
+        238,
+        238,
         238
       ],
       "runs_rank": [
@@ -75,6 +79,8 @@
         237,
         237,
         235,
+        232,
+        232,
         232
       ],
       "likes_rank": [
@@ -82,7 +88,9 @@
         45,
         44,
         66,
-        65
+        65,
+        66,
+        66
       ]
     }
   },

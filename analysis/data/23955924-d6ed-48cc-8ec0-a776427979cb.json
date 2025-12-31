@@ -1,6 +1,6 @@
 {
   "agent_id": "23955924-d6ed-48cc-8ec0-a776427979cb",
-  "generated_at": "2025-12-31T00:01:26.087064",
+  "generated_at": "2025-12-31T10:26:41.271859",
   "basic_info": {
     "title": "Change the color of your pet",
     "author": "8bit",
@@ -17,24 +17,24 @@
     "current_position": {
       "views_rank": 246,
       "runs_rank": 176,
-      "likes_rank": 13,
+      "likes_rank": 14,
       "total_agents": 277,
       "views_percentile": 11.2,
       "runs_percentile": 36.5,
-      "likes_percentile": 95.3
+      "likes_percentile": 94.9
     },
-    "tier": "Elite",
-    "tier_class": "elite",
-    "days_tracked": 25,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 27,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
     "days_tracked": 21,
     "last_7_days": {
-      "views_rank_change": 13,
-      "runs_rank_change": 11,
-      "likes_rank_change": 11
+      "views_rank_change": 12,
+      "runs_rank_change": 9,
+      "likes_rank_change": 7
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 25,
+    "data_points": 27,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
@@ -81,7 +81,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -108,6 +110,8 @@
         244,
         244,
         244,
+        246,
+        246,
         246
       ],
       "runs_rank": [
@@ -134,6 +138,8 @@
         172,
         172,
         174,
+        176,
+        176,
         176,
         176
       ],
@@ -162,7 +168,9 @@
         15,
         14,
         14,
-        13
+        13,
+        12,
+        14
       ]
     }
   },
@@ -180,8 +188,8 @@
   "insights": [
     {
       "type": "positive",
-      "title": "Elite Performance",
-      "description": "Ranked #13 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "title": "High Performer",
+      "description": "Ranked #14 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

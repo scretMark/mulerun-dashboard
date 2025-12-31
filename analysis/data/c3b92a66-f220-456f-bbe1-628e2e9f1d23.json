@@ -1,6 +1,6 @@
 {
   "agent_id": "c3b92a66-f220-456f-bbe1-628e2e9f1d23",
-  "generated_at": "2025-12-31T00:01:24.584562",
+  "generated_at": "2025-12-31T10:26:39.794643",
   "basic_info": {
     "title": "AI Social Creator and Publisher",
     "author": "AmjidAlibbb1401",
@@ -17,24 +17,24 @@
     "current_position": {
       "views_rank": 30,
       "runs_rank": 118,
-      "likes_rank": 23,
+      "likes_rank": 60,
       "total_agents": 277,
       "views_percentile": 89.2,
       "runs_percentile": 57.4,
-      "likes_percentile": 91.7
+      "likes_percentile": 78.3
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 109,
+    "days_tracked": 111,
     "price": 3.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 2,
-      "likes_rank_change": -95
+      "likes_rank_change": -67
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 45,
+    "data_points": 47,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -101,7 +101,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -137,6 +139,8 @@
         29,
         29,
         29,
+        30,
+        30,
         30,
         30,
         30,
@@ -195,6 +199,8 @@
         117,
         117,
         118,
+        118,
+        118,
         118
       ],
       "likes_rank": [
@@ -242,7 +248,9 @@
         17,
         16,
         23,
-        23
+        23,
+        47,
+        60
       ]
     }
   },
@@ -254,7 +262,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #23 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #30 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

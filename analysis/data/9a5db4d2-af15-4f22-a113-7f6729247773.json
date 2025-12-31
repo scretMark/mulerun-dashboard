@@ -1,6 +1,6 @@
 {
   "agent_id": "9a5db4d2-af15-4f22-a113-7f6729247773",
-  "generated_at": "2025-12-31T00:01:26.514377",
+  "generated_at": "2025-12-31T10:26:41.681901",
   "basic_info": {
     "title": "Hand-Drawn Santa Me",
     "author": "Norsizu",
@@ -11,50 +11,50 @@
     "published_at": "2025-12-22T10:20:25.768000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/hand-drawn-santa-me",
-    "days_since_published": 8
+    "days_since_published": 9
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": null,
-      "runs_rank": null,
+      "views_rank": 270,
+      "runs_rank": 259,
       "likes_rank": 131,
       "total_agents": 277,
-      "views_percentile": 0,
-      "runs_percentile": 0,
+      "views_percentile": 2.5,
+      "runs_percentile": 6.5,
       "likes_percentile": 52.7
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 8,
+    "days_tracked": 10,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 7,
+    "days_tracked": 8,
     "last_7_days": {
       "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": 60
+      "runs_rank_change": 13,
+      "likes_rank_change": 45
     },
     "last_30_days": {
       "views_rank_change": null,
-      "runs_rank_change": null,
+      "runs_rank_change": 14,
       "likes_rank_change": 75
     },
     "all_time": {
-      "best_views_rank": null,
+      "best_views_rank": 270,
       "best_runs_rank": 245,
       "best_likes_rank": 56,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": null
+      "current_rank": 270
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 9,
+    "data_points": 11,
     "first_recorded": "2025-12-23T08:00:59.635142",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-12-23T08:00:59.635142",
@@ -65,7 +65,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -76,7 +78,9 @@
         null,
         null,
         null,
-        null
+        null,
+        270,
+        270
       ],
       "runs_rank": [
         245,
@@ -87,7 +91,9 @@
         null,
         null,
         null,
-        null
+        null,
+        259,
+        259
       ],
       "likes_rank": [
         56,
@@ -98,6 +104,8 @@
         113,
         113,
         126,
+        131,
+        131,
         131
       ]
     }
@@ -117,7 +125,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #N/A out of 277 active agents."
+      "description": "This agent is currently ranked #270 out of 277 active agents."
     }
   ]
 }

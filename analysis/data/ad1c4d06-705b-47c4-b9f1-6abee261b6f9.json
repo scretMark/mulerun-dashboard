@@ -1,6 +1,6 @@
 {
   "agent_id": "ad1c4d06-705b-47c4-b9f1-6abee261b6f9",
-  "generated_at": "2025-12-31T00:01:24.606889",
+  "generated_at": "2025-12-31T10:26:39.815241",
   "basic_info": {
     "title": "Food Image to Recipe",
     "author": "vktsbiy414205x1",
@@ -17,24 +17,24 @@
     "current_position": {
       "views_rank": 40,
       "runs_rank": 28,
-      "likes_rank": 237,
+      "likes_rank": 249,
       "total_agents": 277,
       "views_percentile": 85.6,
       "runs_percentile": 89.9,
-      "likes_percentile": 14.4
+      "likes_percentile": 10.1
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 72,
+    "days_tracked": 74,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "last_7_days": {
-      "views_rank_change": 1,
+      "views_rank_change": 2,
       "runs_rank_change": 0,
-      "likes_rank_change": 19
+      "likes_rank_change": 25
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 45,
+    "data_points": 47,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -101,7 +101,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -148,6 +150,8 @@
         39,
         39,
         39,
+        40,
+        40,
         40
       ],
       "runs_rank": [
@@ -188,6 +192,8 @@
         27,
         27,
         27,
+        28,
+        28,
         28,
         28,
         28,
@@ -242,7 +248,9 @@
         231,
         239,
         244,
-        237
+        237,
+        249,
+        249
       ]
     }
   },

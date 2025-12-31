@@ -1,6 +1,6 @@
 {
   "agent_id": "0cfa5d63-8037-4690-820c-b1d3f2a43d7f",
-  "generated_at": "2025-12-31T00:01:26.503469",
+  "generated_at": "2025-12-31T10:26:41.673186",
   "basic_info": {
     "title": "Reddit to YouTube Script - laughing_code",
     "author": "laughing_code",
@@ -16,30 +16,30 @@
   "ranking_metrics": {
     "current_position": {
       "views_rank": 210,
-      "runs_rank": 236,
-      "likes_rank": 62,
+      "runs_rank": 238,
+      "likes_rank": 61,
       "total_agents": 277,
       "views_percentile": 24.2,
-      "runs_percentile": 14.8,
-      "likes_percentile": 77.6
+      "runs_percentile": 14.1,
+      "likes_percentile": 78.0
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 8,
+    "days_tracked": 10,
     "price": 90.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 7,
+    "days_tracked": 8,
     "last_7_days": {
-      "views_rank_change": -10,
-      "runs_rank_change": -1,
-      "likes_rank_change": -31
+      "views_rank_change": -8,
+      "runs_rank_change": 1,
+      "likes_rank_change": 30
     },
     "last_30_days": {
       "views_rank_change": -18,
-      "runs_rank_change": -2,
-      "likes_rank_change": 18
+      "runs_rank_change": 0,
+      "likes_rank_change": 17
     },
     "all_time": {
       "best_views_rank": 209,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 9,
+    "data_points": 11,
     "first_recorded": "2025-12-23T08:00:59.635142",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-12-23T08:00:59.635142",
@@ -65,7 +65,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         228,
@@ -76,6 +78,8 @@
         213,
         213,
         209,
+        210,
+        210,
         210
       ],
       "runs_rank": [
@@ -87,7 +91,9 @@
         241,
         241,
         234,
-        236
+        236,
+        237,
+        238
       ],
       "likes_rank": [
         44,
@@ -98,7 +104,9 @@
         47,
         47,
         60,
-        62
+        62,
+        61,
+        61
       ]
     }
   },
@@ -122,7 +130,7 @@
     {
       "type": "positive",
       "title": "Hot Trend",
-      "description": "Up 10 positions in just 7 days - currently trending and gaining rapid visibility!"
+      "description": "Up 8 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

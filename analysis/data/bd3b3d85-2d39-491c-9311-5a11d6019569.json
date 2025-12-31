@@ -1,6 +1,6 @@
 {
   "agent_id": "bd3b3d85-2d39-491c-9311-5a11d6019569",
-  "generated_at": "2025-12-31T00:01:26.523826",
+  "generated_at": "2025-12-31T10:26:41.690647",
   "basic_info": {
     "title": "Serene Calm - Sounds and Meditation Experience",
     "author": "Serenetech",
@@ -15,46 +15,46 @@
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 240,
-      "runs_rank": 98,
-      "likes_rank": null,
+      "views_rank": 239,
+      "runs_rank": 96,
+      "likes_rank": 267,
       "total_agents": 277,
-      "views_percentile": 13.4,
-      "runs_percentile": 64.6,
-      "likes_percentile": 0
+      "views_percentile": 13.7,
+      "runs_percentile": 65.3,
+      "likes_percentile": 3.6
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 8,
+    "days_tracked": 10,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 7,
+    "days_tracked": 8,
     "last_7_days": {
-      "views_rank_change": -2,
+      "views_rank_change": 1,
       "runs_rank_change": null,
       "likes_rank_change": null
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": null
+      "likes_rank_change": 203
     },
     "all_time": {
       "best_views_rank": 237,
-      "best_runs_rank": 98,
+      "best_runs_rank": 96,
       "best_likes_rank": 64,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 240
+      "current_rank": 239
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 9,
+    "data_points": 11,
     "first_recorded": "2025-12-23T08:00:59.635142",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-12-23T08:00:59.635142",
@@ -65,7 +65,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -76,7 +78,9 @@
         242,
         242,
         243,
-        240
+        240,
+        239,
+        239
       ],
       "runs_rank": [
         null,
@@ -87,7 +91,9 @@
         144,
         133,
         111,
-        98
+        98,
+        96,
+        96
       ],
       "likes_rank": [
         64,
@@ -98,7 +104,9 @@
         null,
         null,
         null,
-        null
+        null,
+        266,
+        267
       ]
     }
   },
@@ -117,7 +125,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #240 out of 277 active agents."
+      "description": "This agent is currently ranked #239 out of 277 active agents."
     }
   ]
 }

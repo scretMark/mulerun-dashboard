@@ -1,6 +1,6 @@
 {
   "agent_id": "60a6478e-f11d-488c-b7d0-2f5df389b879",
-  "generated_at": "2025-12-31T00:01:26.220994",
+  "generated_at": "2025-12-31T10:26:41.403142",
   "basic_info": {
     "title": "Background Eraser Pro",
     "author": "nzwhouxvbbb094f",
@@ -15,26 +15,26 @@
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": null,
+      "views_rank": 260,
       "runs_rank": 211,
       "likes_rank": 135,
       "total_agents": 277,
-      "views_percentile": 0,
+      "views_percentile": 6.1,
       "runs_percentile": 23.8,
       "likes_percentile": 51.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 23,
+    "days_tracked": 25,
     "price": 6.0
   },
   "ranking_trends": {
     "has_data": true,
     "days_tracked": 19,
     "last_7_days": {
-      "views_rank_change": null,
+      "views_rank_change": 10,
       "runs_rank_change": -3,
-      "likes_rank_change": 58
+      "likes_rank_change": 42
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 1,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": null
+      "current_rank": 260
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 23,
+    "data_points": 25,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -79,7 +79,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -104,7 +106,9 @@
         null,
         null,
         null,
-        null
+        null,
+        260,
+        260
       ],
       "runs_rank": [
         null,
@@ -129,6 +133,8 @@
         217,
         217,
         210,
+        211,
+        211,
         211
       ],
       "likes_rank": [
@@ -154,6 +160,8 @@
         115,
         116,
         129,
+        135,
+        135,
         135
       ]
     }
@@ -173,7 +181,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #N/A out of 277 active agents."
+      "description": "This agent is currently ranked #260 out of 277 active agents."
     }
   ]
 }

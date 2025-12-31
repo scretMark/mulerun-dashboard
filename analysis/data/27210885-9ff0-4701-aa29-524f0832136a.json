@@ -1,6 +1,6 @@
 {
   "agent_id": "27210885-9ff0-4701-aa29-524f0832136a",
-  "generated_at": "2025-12-31T00:01:23.555402",
+  "generated_at": "2025-12-31T10:26:38.810675",
   "basic_info": {
     "title": "Remove Watermark",
     "author": "PicCopilot",
@@ -15,26 +15,26 @@
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 156,
+      "views_rank": 155,
       "runs_rank": 23,
       "likes_rank": 78,
       "total_agents": 277,
-      "views_percentile": 43.7,
+      "views_percentile": 44.0,
       "runs_percentile": 91.7,
       "likes_percentile": 71.8
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 52,
+    "days_tracked": 54,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 42,
+    "days_tracked": 43,
     "last_7_days": {
-      "views_rank_change": -4,
+      "views_rank_change": -5,
       "runs_rank_change": -2,
-      "likes_rank_change": 57
+      "likes_rank_change": 40
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -42,19 +42,19 @@
       "likes_rank_change": null
     },
     "all_time": {
-      "best_views_rank": 156,
+      "best_views_rank": 155,
       "best_runs_rank": 23,
       "best_likes_rank": 21,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 156
+      "current_rank": 155
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 46,
+    "data_points": 48,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -102,7 +102,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -150,7 +152,9 @@
         162,
         161,
         156,
-        156
+        156,
+        155,
+        155
       ],
       "runs_rank": [
         null,
@@ -196,6 +200,8 @@
         25,
         25,
         24,
+        23,
+        23,
         23,
         23,
         23
@@ -246,6 +252,8 @@
         58,
         56,
         70,
+        78,
+        78,
         78
       ]
     }

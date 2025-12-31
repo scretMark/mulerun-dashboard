@@ -1,6 +1,6 @@
 {
   "agent_id": "7a3c7c0c-4778-49bd-9f87-7513c77b40e8",
-  "generated_at": "2025-12-31T00:01:24.237776",
+  "generated_at": "2025-12-31T10:26:39.470712",
   "basic_info": {
     "title": "Illustrate Mind Spark 2",
     "author": "Rhino",
@@ -17,24 +17,24 @@
     "current_position": {
       "views_rank": 105,
       "runs_rank": 182,
-      "likes_rank": 29,
+      "likes_rank": 28,
       "total_agents": 277,
       "views_percentile": 62.1,
       "runs_percentile": 34.3,
-      "likes_percentile": 89.5
+      "likes_percentile": 89.9
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 91,
+    "days_tracked": 93,
     "price": 30.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "last_7_days": {
-      "views_rank_change": -2,
+      "views_rank_change": -1,
       "runs_rank_change": 6,
-      "likes_rank_change": -164
+      "likes_rank_change": 10
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 45,
+    "data_points": 47,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -101,7 +101,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -148,6 +150,8 @@
         105,
         105,
         105,
+        105,
+        105,
         105
       ],
       "runs_rank": [
@@ -191,6 +195,8 @@
         176,
         176,
         177,
+        182,
+        182,
         182,
         182,
         182,
@@ -242,7 +248,9 @@
         30,
         30,
         30,
-        29
+        29,
+        28,
+        28
       ]
     }
   },
@@ -254,7 +262,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #29 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #28 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

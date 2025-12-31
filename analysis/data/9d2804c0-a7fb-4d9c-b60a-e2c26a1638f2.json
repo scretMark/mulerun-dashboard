@@ -1,6 +1,6 @@
 {
   "agent_id": "9d2804c0-a7fb-4d9c-b60a-e2c26a1638f2",
-  "generated_at": "2025-12-31T00:01:24.904908",
+  "generated_at": "2025-12-31T10:26:40.076585",
   "basic_info": {
     "title": "Outfit Decomposition",
     "author": "zafmlrxoaw869hw",
@@ -16,25 +16,25 @@
   "ranking_metrics": {
     "current_position": {
       "views_rank": 215,
-      "runs_rank": null,
+      "runs_rank": 253,
       "likes_rank": 147,
       "total_agents": 277,
       "views_percentile": 22.4,
-      "runs_percentile": 0,
+      "runs_percentile": 8.7,
       "likes_percentile": 46.9
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 77,
+    "days_tracked": 79,
     "price": 70.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "last_7_days": {
       "views_rank_change": 6,
-      "runs_rank_change": null,
-      "likes_rank_change": 51
+      "runs_rank_change": 11,
+      "likes_rank_change": 38
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 45,
+    "data_points": 47,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-31T08:00:58.854286",
+    "last_recorded": "2025-12-31T18:26:28.928134",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -101,7 +101,9 @@
         "2025-12-28T08:00:53.773046",
         "2025-12-29T08:01:02.439009",
         "2025-12-30T08:00:51.754083",
-        "2025-12-31T08:00:58.854286"
+        "2025-12-31T08:00:58.854286",
+        "2025-12-31T18:03:05.562602",
+        "2025-12-31T18:26:28.928134"
       ],
       "views_rank": [
         null,
@@ -148,6 +150,8 @@
         215,
         216,
         213,
+        215,
+        215,
         215
       ],
       "runs_rank": [
@@ -195,7 +199,9 @@
         250,
         250,
         250,
-        null
+        null,
+        253,
+        253
       ],
       "likes_rank": [
         null,
@@ -242,6 +248,8 @@
         130,
         130,
         142,
+        147,
+        147,
         147
       ]
     }
