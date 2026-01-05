@@ -1,6 +1,6 @@
 {
   "agent_id": "ca8f87b0-cc33-4e29-563d-04031871e731",
-  "generated_at": "2025-12-31T10:26:39.527823",
+  "generated_at": "2026-01-05T00:01:31.334062",
   "basic_info": {
     "title": "Blender MCP AI Agent",
     "author": "Siddhartbbafa48",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-30T17:48:01.927000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Siddhartbbafa48/blender-mcp-ai-agent",
-    "days_since_published": 61
+    "days_since_published": 66
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 11,
-      "runs_rank": 30,
+      "runs_rank": 31,
       "likes_rank": 232,
-      "total_agents": 277,
-      "views_percentile": 96.0,
-      "runs_percentile": 89.2,
-      "likes_percentile": 16.2
+      "total_agents": 282,
+      "views_percentile": 96.1,
+      "runs_percentile": 89.0,
+      "likes_percentile": 17.7
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 79,
+    "days_tracked": 80,
     "price": 2.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 42,
+    "days_tracked": 46,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 0,
-      "likes_rank_change": 21
+      "runs_rank_change": 1,
+      "likes_rank_change": 4
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 47,
+    "data_points": 48,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-31T18:26:28.928134",
+    "last_recorded": "2026-01-05T08:01:10.022221",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -103,7 +103,8 @@
         "2025-12-30T08:00:51.754083",
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
-        "2025-12-31T18:26:28.928134"
+        "2025-12-31T18:26:28.928134",
+        "2026-01-05T08:01:10.022221"
       ],
       "views_rank": [
         null,
@@ -133,6 +134,7 @@
         null,
         null,
         null,
+        11,
         11,
         11,
         11,
@@ -201,7 +203,8 @@
         30,
         30,
         30,
-        30
+        30,
+        31
       ],
       "likes_rank": [
         null,
@@ -250,6 +253,7 @@
         228,
         233,
         232,
+        232,
         232
       ]
     }
@@ -268,11 +272,6 @@
       "type": "info",
       "title": "Stable Leader",
       "description": "Maintained #11 ranking for 7+ days - showing consistent market position and reliability."
-    },
-    {
-      "type": "info",
-      "title": "Premium Agent Success",
-      "description": "Despite $2.0 pricing, this agent ranks #30 in usage - demonstrating strong value proposition."
     }
   ]
 }

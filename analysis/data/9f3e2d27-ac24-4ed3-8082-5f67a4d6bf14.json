@@ -1,6 +1,6 @@
 {
   "agent_id": "9f3e2d27-ac24-4ed3-8082-5f67a4d6bf14",
-  "generated_at": "2025-12-31T10:26:41.310823",
+  "generated_at": "2026-01-05T00:01:33.019879",
   "basic_info": {
     "title": "Fireworks Show",
     "author": "LinkAIBrain",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-03T11:04:04.300000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/fireworks-show",
-    "days_since_published": 27
+    "days_since_published": 32
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 230,
-      "runs_rank": 235,
-      "likes_rank": 79,
-      "total_agents": 277,
-      "views_percentile": 17.0,
-      "runs_percentile": 15.2,
-      "likes_percentile": 71.5
+      "views_rank": 219,
+      "runs_rank": 221,
+      "likes_rank": 81,
+      "total_agents": 282,
+      "views_percentile": 22.3,
+      "runs_percentile": 21.6,
+      "likes_percentile": 71.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 27,
+    "days_tracked": 28,
     "price": 500.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 21,
+    "days_tracked": 26,
     "last_7_days": {
-      "views_rank_change": -12,
-      "runs_rank_change": -5,
-      "likes_rank_change": -15
+      "views_rank_change": -11,
+      "runs_rank_change": -21,
+      "likes_rank_change": 6
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -42,19 +42,19 @@
       "likes_rank_change": null
     },
     "all_time": {
-      "best_views_rank": 228,
-      "best_runs_rank": 235,
+      "best_views_rank": 219,
+      "best_runs_rank": 221,
       "best_likes_rank": 2,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 230
+      "current_rank": 219
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 27,
+    "data_points": 28,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2025-12-31T18:26:28.928134",
+    "last_recorded": "2026-01-05T08:01:10.022221",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
@@ -83,7 +83,8 @@
         "2025-12-30T08:00:51.754083",
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
-        "2025-12-31T18:26:28.928134"
+        "2025-12-31T18:26:28.928134",
+        "2026-01-05T08:01:10.022221"
       ],
       "views_rank": [
         null,
@@ -112,7 +113,8 @@
         230,
         232,
         230,
-        230
+        230,
+        219
       ],
       "runs_rank": [
         null,
@@ -141,7 +143,8 @@
         242,
         243,
         238,
-        235
+        235,
+        221
       ],
       "likes_rank": [
         null,
@@ -170,7 +173,8 @@
         75,
         81,
         80,
-        79
+        79,
+        81
       ]
     }
   },
@@ -189,7 +193,7 @@
     {
       "type": "positive",
       "title": "Hot Trend",
-      "description": "Up 12 positions in just 7 days - currently trending and gaining rapid visibility!"
+      "description": "Up 11 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

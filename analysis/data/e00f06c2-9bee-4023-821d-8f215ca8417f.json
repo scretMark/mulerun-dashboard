@@ -1,0 +1,83 @@
+{
+  "agent_id": "e00f06c2-9bee-4023-821d-8f215ca8417f",
+  "generated_at": "2026-01-05T00:01:33.630583",
+  "basic_info": {
+    "title": "Sales Advisor",
+    "author": "SmartQ",
+    "description": "Automate end-to-end sales workflows with AI-powered Skills.",
+    "short_description": "Automates sales workflows, generates content, and summarizes meetings.",
+    "category": "AI Agent",
+    "is_active": true,
+    "published_at": "2026-01-01T02:59:46.639000",
+    "last_seen": null,
+    "profile_url": "https://mulerun.com/workspace/@SmartQ/winnexo",
+    "days_since_published": 3
+  },
+  "ranking_metrics": {
+    "current_position": {
+      "views_rank": 126,
+      "runs_rank": 107,
+      "likes_rank": 106,
+      "total_agents": 282,
+      "views_percentile": 55.3,
+      "runs_percentile": 62.1,
+      "likes_percentile": 62.4
+    },
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 3,
+    "price": 0.0
+  },
+  "ranking_trends": {
+    "has_data": true,
+    "days_tracked": 0,
+    "last_7_days": {},
+    "last_30_days": {},
+    "all_time": {
+      "best_views_rank": 126,
+      "best_runs_rank": 107,
+      "best_likes_rank": 106,
+      "days_in_top_10": 0,
+      "first_rank": 126,
+      "current_rank": 126
+    }
+  },
+  "historical_rankings": {
+    "has_data": true,
+    "data_points": 1,
+    "first_recorded": "2026-01-05T08:01:10.022221",
+    "last_recorded": "2026-01-05T08:01:10.022221",
+    "time_series": {
+      "dates": [
+        "2026-01-05T08:01:10.022221"
+      ],
+      "views_rank": [
+        126
+      ],
+      "runs_rank": [
+        107
+      ],
+      "likes_rank": [
+        106
+      ]
+    }
+  },
+  "change_history": {
+    "total_changes": 1,
+    "changes": [
+      {
+        "date": "2026-01-05T00:01:11.387205",
+        "type": "new",
+        "description": "New agent published: Sales Advisor",
+        "severity": "medium"
+      }
+    ]
+  },
+  "insights": [
+    {
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #126 out of 282 active agents."
+    }
+  ]
+}

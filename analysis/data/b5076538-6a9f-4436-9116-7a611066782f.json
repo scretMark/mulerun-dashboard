@@ -1,6 +1,6 @@
 {
   "agent_id": "b5076538-6a9f-4436-9116-7a611066782f",
-  "generated_at": "2025-12-31T10:26:41.619084",
+  "generated_at": "2026-01-05T00:01:33.364922",
   "basic_info": {
     "title": "Tiny Me in a Jar",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-19T16:29:05.699000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/tiny-me-in-a-jar",
-    "days_since_published": 11
+    "days_since_published": 16
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 274,
-      "runs_rank": 276,
-      "likes_rank": 154,
-      "total_agents": 277,
-      "views_percentile": 1.1,
+      "views_rank": 281,
+      "runs_rank": 281,
+      "likes_rank": 157,
+      "total_agents": 282,
+      "views_percentile": 0.4,
       "runs_percentile": 0.4,
-      "likes_percentile": 44.4
+      "likes_percentile": 44.3
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 13,
+    "days_tracked": 14,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 11,
+    "days_tracked": 16,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 37
+      "likes_rank_change": 8
     },
     "last_30_days": {
       "views_rank_change": null,
-      "runs_rank_change": 26,
-      "likes_rank_change": 114
+      "runs_rank_change": 31,
+      "likes_rank_change": 117
     },
     "all_time": {
       "best_views_rank": 274,
@@ -47,14 +47,14 @@
       "best_likes_rank": 40,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 274
+      "current_rank": 281
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 14,
+    "data_points": 15,
     "first_recorded": "2025-12-20T08:01:00.398750",
-    "last_recorded": "2025-12-31T18:26:28.928134",
+    "last_recorded": "2026-01-05T08:01:10.022221",
     "time_series": {
       "dates": [
         "2025-12-20T08:01:00.398750",
@@ -70,7 +70,8 @@
         "2025-12-30T08:00:51.754083",
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
-        "2025-12-31T18:26:28.928134"
+        "2025-12-31T18:26:28.928134",
+        "2026-01-05T08:01:10.022221"
       ],
       "views_rank": [
         null,
@@ -86,7 +87,8 @@
         null,
         null,
         274,
-        274
+        274,
+        281
       ],
       "runs_rank": [
         250,
@@ -102,7 +104,8 @@
         null,
         null,
         275,
-        276
+        276,
+        281
       ],
       "likes_rank": [
         40,
@@ -118,7 +121,8 @@
         149,
         154,
         154,
-        154
+        154,
+        157
       ]
     }
   },
@@ -137,7 +141,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #274 out of 277 active agents."
+      "description": "This agent is currently ranked #281 out of 282 active agents."
     }
   ]
 }

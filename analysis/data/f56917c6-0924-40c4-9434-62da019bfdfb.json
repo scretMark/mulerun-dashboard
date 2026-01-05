@@ -1,6 +1,6 @@
 {
   "agent_id": "f56917c6-0924-40c4-9434-62da019bfdfb",
-  "generated_at": "2025-12-31T10:26:39.845464",
+  "generated_at": "2026-01-05T00:01:31.706163",
   "basic_info": {
     "title": "HairStyle AI",
     "author": "HongwuQz",
@@ -11,29 +11,29 @@
     "published_at": "2025-09-20T05:08:42.924000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@HongwuQz/hairstyle-ai",
-    "days_since_published": 102
+    "days_since_published": 106
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 55,
+      "views_rank": 56,
       "runs_rank": 59,
-      "likes_rank": 274,
-      "total_agents": 277,
+      "likes_rank": 277,
+      "total_agents": 282,
       "views_percentile": 80.1,
-      "runs_percentile": 78.7,
-      "likes_percentile": 1.1
+      "runs_percentile": 79.1,
+      "likes_percentile": 1.8
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 101,
+    "days_tracked": 102,
     "price": 26.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 42,
+    "days_tracked": 46,
     "last_7_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": 1,
+      "views_rank_change": 1,
+      "runs_rank_change": 0,
       "likes_rank_change": null
     },
     "last_30_days": {
@@ -47,14 +47,14 @@
       "best_likes_rank": 122,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 55
+      "current_rank": 56
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 47,
+    "data_points": 48,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-31T18:26:28.928134",
+    "last_recorded": "2026-01-05T08:01:10.022221",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -103,7 +103,8 @@
         "2025-12-30T08:00:51.754083",
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
-        "2025-12-31T18:26:28.928134"
+        "2025-12-31T18:26:28.928134",
+        "2026-01-05T08:01:10.022221"
       ],
       "views_rank": [
         null,
@@ -152,7 +153,8 @@
         55,
         55,
         55,
-        55
+        55,
+        56
       ],
       "runs_rank": [
         null,
@@ -197,6 +199,7 @@
         58,
         58,
         58,
+        59,
         59,
         59,
         59,
@@ -250,7 +253,8 @@
         null,
         null,
         275,
-        274
+        274,
+        277
       ]
     }
   },
@@ -262,7 +266,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #55 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #56 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

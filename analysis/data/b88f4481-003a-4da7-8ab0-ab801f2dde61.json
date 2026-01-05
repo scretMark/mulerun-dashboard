@@ -1,6 +1,6 @@
 {
   "agent_id": "b88f4481-003a-4da7-8ab0-ab801f2dde61",
-  "generated_at": "2025-12-31T10:26:38.615024",
+  "generated_at": "2026-01-05T00:01:30.413048",
   "basic_info": {
     "title": "Virtual Try On",
     "author": "PicCopilot",
@@ -11,29 +11,29 @@
     "published_at": "2025-11-11T19:30:42.097000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/virtual-try-on",
-    "days_since_published": 49
+    "days_since_published": 54
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 37,
+      "views_rank": 36,
       "runs_rank": 8,
-      "likes_rank": 262,
-      "total_agents": 277,
-      "views_percentile": 86.6,
-      "runs_percentile": 97.1,
-      "likes_percentile": 5.4
+      "likes_rank": 268,
+      "total_agents": 282,
+      "views_percentile": 87.2,
+      "runs_percentile": 97.2,
+      "likes_percentile": 5.0
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 54,
+    "days_tracked": 55,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 43,
+    "days_tracked": 47,
     "last_7_days": {
-      "views_rank_change": -3,
-      "runs_rank_change": 1,
+      "views_rank_change": -1,
+      "runs_rank_change": 0,
       "likes_rank_change": null
     },
     "last_30_days": {
@@ -42,19 +42,19 @@
       "likes_rank_change": null
     },
     "all_time": {
-      "best_views_rank": 37,
+      "best_views_rank": 36,
       "best_runs_rank": 7,
       "best_likes_rank": 85,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 37
+      "current_rank": 36
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 48,
+    "data_points": 49,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-31T18:26:28.928134",
+    "last_recorded": "2026-01-05T08:01:10.022221",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -104,7 +104,8 @@
         "2025-12-30T08:00:51.754083",
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
-        "2025-12-31T18:26:28.928134"
+        "2025-12-31T18:26:28.928134",
+        "2026-01-05T08:01:10.022221"
       ],
       "views_rank": [
         null,
@@ -154,7 +155,8 @@
         37,
         37,
         37,
-        37
+        37,
+        36
       ],
       "runs_rank": [
         null,
@@ -200,6 +202,7 @@
         7,
         7,
         7,
+        8,
         8,
         8,
         8,
@@ -254,7 +257,8 @@
         null,
         null,
         267,
-        262
+        262,
+        268
       ]
     }
   },

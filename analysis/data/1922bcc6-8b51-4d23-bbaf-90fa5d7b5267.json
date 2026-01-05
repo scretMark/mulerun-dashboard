@@ -1,80 +1,84 @@
 {
   "agent_id": "1922bcc6-8b51-4d23-bbaf-90fa5d7b5267",
-  "generated_at": "2025-12-31T10:26:41.850472",
+  "generated_at": "2026-01-05T00:01:33.598328",
   "basic_info": {
     "title": "Chat With Youtube Video",
     "author": "Eren_kaif",
-    "description": "Chat with any YouTube video—paste a link and get fast, focused answers on demand.\nFinding key points in long videos is slow. ⏳\nJumping around timestamps wastes time and attention. 😵\nThis workflow fix...",
+    "description": "Chat with any YouTube video and get fast, focused answers on demand.",
     "short_description": "Chat with YouTube videos to get instant answers.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-12-27T21:43:09.382000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Eren_kaif/chat-with-youtube-video",
-    "days_since_published": 3
+    "days_since_published": 8
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 268,
-      "runs_rank": 258,
-      "likes_rank": 42,
-      "total_agents": 277,
-      "views_percentile": 3.2,
-      "runs_percentile": 6.9,
-      "likes_percentile": 84.8
+      "views_rank": 271,
+      "runs_rank": 262,
+      "likes_rank": 31,
+      "total_agents": 282,
+      "views_percentile": 3.9,
+      "runs_percentile": 7.1,
+      "likes_percentile": 89.0
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 0,
+    "days_tracked": 4,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 1,
+    "days_tracked": 5,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": -2
+      "likes_rank_change": -13
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": -2
+      "likes_rank_change": -13
     },
     "all_time": {
       "best_views_rank": 268,
       "best_runs_rank": 258,
-      "best_likes_rank": 42,
+      "best_likes_rank": 31,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 268
+      "current_rank": 271
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 3,
+    "data_points": 4,
     "first_recorded": "2025-12-31T08:00:58.854286",
-    "last_recorded": "2025-12-31T18:26:28.928134",
+    "last_recorded": "2026-01-05T08:01:10.022221",
     "time_series": {
       "dates": [
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
-        "2025-12-31T18:26:28.928134"
+        "2025-12-31T18:26:28.928134",
+        "2026-01-05T08:01:10.022221"
       ],
       "views_rank": [
         null,
         268,
-        268
+        268,
+        271
       ],
       "runs_rank": [
         null,
         258,
-        258
+        258,
+        262
       ],
       "likes_rank": [
         44,
         42,
-        42
+        42,
+        31
       ]
     }
   },
@@ -93,7 +97,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #42 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #31 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

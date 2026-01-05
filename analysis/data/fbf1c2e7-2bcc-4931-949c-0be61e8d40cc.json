@@ -1,6 +1,6 @@
 {
   "agent_id": "fbf1c2e7-2bcc-4931-949c-0be61e8d40cc",
-  "generated_at": "2025-12-31T10:26:40.167476",
+  "generated_at": "2026-01-05T00:01:32.007231",
   "basic_info": {
     "title": "Portrait Elevate",
     "author": "jyvdzb224259haj",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-20T19:22:33.124000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@jyvdzb224259haj/portrait-elevate",
-    "days_since_published": 101
+    "days_since_published": 106
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 33,
       "runs_rank": 53,
-      "likes_rank": 184,
-      "total_agents": 277,
-      "views_percentile": 88.1,
-      "runs_percentile": 80.9,
-      "likes_percentile": 33.6
+      "likes_rank": 188,
+      "total_agents": 282,
+      "views_percentile": 88.3,
+      "runs_percentile": 81.2,
+      "likes_percentile": 33.3
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 104,
+    "days_tracked": 105,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 42,
+    "days_tracked": 46,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 1,
-      "likes_rank_change": 28
+      "runs_rank_change": 0,
+      "likes_rank_change": 9
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 47,
+    "data_points": 48,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-31T18:26:28.928134",
+    "last_recorded": "2026-01-05T08:01:10.022221",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -103,7 +103,8 @@
         "2025-12-30T08:00:51.754083",
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
-        "2025-12-31T18:26:28.928134"
+        "2025-12-31T18:26:28.928134",
+        "2026-01-05T08:01:10.022221"
       ],
       "views_rank": [
         null,
@@ -138,6 +139,7 @@
         32,
         32,
         32,
+        33,
         33,
         33,
         33,
@@ -201,6 +203,7 @@
         53,
         53,
         53,
+        53,
         53
       ],
       "likes_rank": [
@@ -250,7 +253,8 @@
         179,
         183,
         184,
-        184
+        184,
+        188
       ]
     }
   },

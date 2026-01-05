@@ -1,6 +1,6 @@
 {
   "agent_id": "017c8118-0f78-43e2-8b24-a1b7e4b6d5a2",
-  "generated_at": "2025-12-31T10:26:38.866501",
+  "generated_at": "2026-01-05T00:01:30.634963",
   "basic_info": {
     "title": "veeverse-tarot",
     "author": "veeverseai",
@@ -17,24 +17,24 @@
     "current_position": {
       "views_rank": 115,
       "runs_rank": 70,
-      "likes_rank": 152,
-      "total_agents": 277,
-      "views_percentile": 58.5,
-      "runs_percentile": 74.7,
-      "likes_percentile": 45.1
+      "likes_rank": 158,
+      "total_agents": 282,
+      "views_percentile": 59.2,
+      "runs_percentile": 75.2,
+      "likes_percentile": 44.0
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 52,
+    "days_tracked": 53,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 43,
+    "days_tracked": 47,
     "last_7_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": -1,
-      "likes_rank_change": 38
+      "views_rank_change": 0,
+      "runs_rank_change": 0,
+      "likes_rank_change": 10
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 45,
+    "data_points": 46,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-31T18:26:28.928134",
+    "last_recorded": "2026-01-05T08:01:10.022221",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -101,7 +101,8 @@
         "2025-12-30T08:00:51.754083",
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
-        "2025-12-31T18:26:28.928134"
+        "2025-12-31T18:26:28.928134",
+        "2026-01-05T08:01:10.022221"
       ],
       "views_rank": [
         null,
@@ -148,6 +149,7 @@
         115,
         114,
         115,
+        115,
         115
       ],
       "runs_rank": [
@@ -190,6 +192,7 @@
         71,
         71,
         71,
+        70,
         70,
         70,
         70,
@@ -242,7 +245,8 @@
         148,
         151,
         152,
-        152
+        152,
+        158
       ]
     }
   },
@@ -285,7 +289,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #115 out of 277 active agents."
+      "description": "This agent is currently ranked #115 out of 282 active agents."
     }
   ]
 }

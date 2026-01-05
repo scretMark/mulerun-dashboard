@@ -1,45 +1,45 @@
 {
   "agent_id": "00c43363-4ece-439b-b4e1-f8cb7ceb86d4",
-  "generated_at": "2025-12-31T10:26:41.762908",
+  "generated_at": "2026-01-05T00:01:33.523247",
   "basic_info": {
     "title": "SoulSync Chat AI  Companion",
     "author": "Eren_kaif",
-    "description": "This agent provides a unique conversational experience by letting you choose your perfect AI companion. ",
+    "description": "Offer three AI companions for fun, knowledge, or emotional support.",
     "short_description": "Chat with AI companions for fun, knowledge, or support.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-12-25T12:10:36.534000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Eren_kaif/soulsync-ai-agent",
-    "days_since_published": 5
+    "days_since_published": 10
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 200,
-      "runs_rank": 110,
-      "likes_rank": 75,
-      "total_agents": 277,
-      "views_percentile": 27.8,
-      "runs_percentile": 60.3,
-      "likes_percentile": 72.9
+      "views_rank": 201,
+      "runs_rank": 111,
+      "likes_rank": 74,
+      "total_agents": 282,
+      "views_percentile": 28.7,
+      "runs_percentile": 60.6,
+      "likes_percentile": 73.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 6,
+    "days_tracked": 7,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 4,
+    "days_tracked": 9,
     "last_7_days": {
       "views_rank_change": 3,
-      "runs_rank_change": 0,
-      "likes_rank_change": 17
+      "runs_rank_change": 2,
+      "likes_rank_change": 7
     },
     "last_30_days": {
-      "views_rank_change": 3,
-      "runs_rank_change": 0,
-      "likes_rank_change": 17
+      "views_rank_change": 4,
+      "runs_rank_change": 1,
+      "likes_rank_change": 16
     },
     "all_time": {
       "best_views_rank": 197,
@@ -47,14 +47,14 @@
       "best_likes_rank": 54,
       "days_in_top_10": 0,
       "first_rank": 197,
-      "current_rank": 200
+      "current_rank": 201
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 7,
+    "data_points": 8,
     "first_recorded": "2025-12-27T08:01:00.423663",
-    "last_recorded": "2025-12-31T18:26:28.928134",
+    "last_recorded": "2026-01-05T08:01:10.022221",
     "time_series": {
       "dates": [
         "2025-12-27T08:01:00.423663",
@@ -63,7 +63,8 @@
         "2025-12-30T08:00:51.754083",
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
-        "2025-12-31T18:26:28.928134"
+        "2025-12-31T18:26:28.928134",
+        "2026-01-05T08:01:10.022221"
       ],
       "views_rank": [
         197,
@@ -72,7 +73,8 @@
         198,
         200,
         200,
-        200
+        200,
+        201
       ],
       "runs_rank": [
         110,
@@ -81,7 +83,8 @@
         109,
         110,
         110,
-        110
+        110,
+        111
       ],
       "likes_rank": [
         58,
@@ -90,7 +93,8 @@
         67,
         76,
         75,
-        75
+        75,
+        74
       ]
     }
   },
@@ -109,7 +113,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #200 out of 277 active agents."
+      "description": "This agent is currently ranked #201 out of 282 active agents."
     }
   ]
 }

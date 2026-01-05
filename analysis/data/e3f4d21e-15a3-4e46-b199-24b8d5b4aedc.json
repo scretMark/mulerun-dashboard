@@ -1,6 +1,6 @@
 {
   "agent_id": "e3f4d21e-15a3-4e46-b199-24b8d5b4aedc",
-  "generated_at": "2025-12-31T10:26:39.621621",
+  "generated_at": "2026-01-05T00:01:31.441084",
   "basic_info": {
     "title": "CookChina AI",
     "author": "Chelestebbb0829",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-17T15:00:54.510000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Chelestebbb0829/cookchina-ai",
-    "days_since_published": 74
+    "days_since_published": 79
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 17,
       "runs_rank": 40,
-      "likes_rank": 125,
-      "total_agents": 277,
-      "views_percentile": 93.9,
-      "runs_percentile": 85.6,
-      "likes_percentile": 54.9
+      "likes_rank": 130,
+      "total_agents": 282,
+      "views_percentile": 94.0,
+      "runs_percentile": 85.8,
+      "likes_percentile": 53.9
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 74,
+    "days_tracked": 75,
     "price": 2.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 42,
+    "days_tracked": 46,
     "last_7_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": 1,
-      "likes_rank_change": 40
+      "views_rank_change": 0,
+      "runs_rank_change": 0,
+      "likes_rank_change": 9
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 47,
+    "data_points": 48,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-31T18:26:28.928134",
+    "last_recorded": "2026-01-05T08:01:10.022221",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -103,7 +103,8 @@
         "2025-12-30T08:00:51.754083",
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
-        "2025-12-31T18:26:28.928134"
+        "2025-12-31T18:26:28.928134",
+        "2026-01-05T08:01:10.022221"
       ],
       "views_rank": [
         null,
@@ -146,6 +147,7 @@
         16,
         16,
         16,
+        17,
         17,
         17,
         17,
@@ -201,6 +203,7 @@
         40,
         40,
         40,
+        40,
         40
       ],
       "likes_rank": [
@@ -250,7 +253,8 @@
         121,
         127,
         125,
-        125
+        125,
+        130
       ]
     }
   },
@@ -263,6 +267,11 @@
       "type": "positive",
       "title": "High Performer",
       "description": "Ranked #17 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+    },
+    {
+      "type": "info",
+      "title": "Stable Leader",
+      "description": "Maintained #17 ranking for 7+ days - showing consistent market position and reliability."
     }
   ]
 }

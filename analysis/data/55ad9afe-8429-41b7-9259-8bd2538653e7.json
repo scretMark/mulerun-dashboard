@@ -1,6 +1,6 @@
 {
   "agent_id": "55ad9afe-8429-41b7-9259-8bd2538653e7",
-  "generated_at": "2025-12-31T10:26:39.641811",
+  "generated_at": "2026-01-05T00:01:31.487430",
   "basic_info": {
     "title": "LinkMatch: Smart Job Matcher",
     "author": "YuTou_baby",
@@ -11,30 +11,30 @@
     "published_at": "2025-08-21T21:03:54.436000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@YuTou_baby/linkmatch-smart-job-matcher",
-    "days_since_published": 131
+    "days_since_published": 136
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 29,
-      "runs_rank": 38,
-      "likes_rank": 106,
-      "total_agents": 277,
-      "views_percentile": 89.5,
-      "runs_percentile": 86.3,
-      "likes_percentile": 61.7
+      "runs_rank": 39,
+      "likes_rank": 112,
+      "total_agents": 282,
+      "views_percentile": 89.7,
+      "runs_percentile": 86.2,
+      "likes_percentile": 60.3
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 111,
+    "days_tracked": 112,
     "price": 8.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 42,
+    "days_tracked": 46,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 0,
-      "likes_rank_change": 43
+      "runs_rank_change": 1,
+      "likes_rank_change": 11
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 47,
+    "data_points": 48,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-31T18:26:28.928134",
+    "last_recorded": "2026-01-05T08:01:10.022221",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -103,7 +103,8 @@
         "2025-12-30T08:00:51.754083",
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
-        "2025-12-31T18:26:28.928134"
+        "2025-12-31T18:26:28.928134",
+        "2026-01-05T08:01:10.022221"
       ],
       "views_rank": [
         null,
@@ -139,6 +140,7 @@
         28,
         28,
         28,
+        29,
         29,
         29,
         29,
@@ -201,7 +203,8 @@
         38,
         38,
         38,
-        38
+        38,
+        39
       ],
       "likes_rank": [
         null,
@@ -250,7 +253,8 @@
         101,
         106,
         106,
-        106
+        106,
+        112
       ]
     }
   },

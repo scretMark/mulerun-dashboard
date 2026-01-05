@@ -1,6 +1,6 @@
 {
   "agent_id": "9ffa3e8b-094f-497d-b491-49ca30b7de10",
-  "generated_at": "2025-12-31T10:26:38.773151",
+  "generated_at": "2026-01-05T00:01:30.556842",
   "basic_info": {
     "title": "Product Creativity Lab",
     "author": "Aichimp",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-10T11:19:13.755000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aichimp/product-creativity-lab",
-    "days_since_published": 50
+    "days_since_published": 55
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 60,
-      "runs_rank": 34,
-      "likes_rank": 44,
-      "total_agents": 277,
-      "views_percentile": 78.3,
-      "runs_percentile": 87.7,
-      "likes_percentile": 84.1
+      "runs_rank": 33,
+      "likes_rank": 55,
+      "total_agents": 282,
+      "views_percentile": 78.7,
+      "runs_percentile": 88.3,
+      "likes_percentile": 80.5
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 84,
+    "days_tracked": 85,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 43,
+    "days_tracked": 47,
     "last_7_days": {
-      "views_rank_change": -2,
-      "runs_rank_change": 0,
-      "likes_rank_change": 17
+      "views_rank_change": -1,
+      "runs_rank_change": -1,
+      "likes_rank_change": 9
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -43,7 +43,7 @@
     },
     "all_time": {
       "best_views_rank": 60,
-      "best_runs_rank": 34,
+      "best_runs_rank": 33,
       "best_likes_rank": 12,
       "days_in_top_10": 0,
       "first_rank": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 48,
+    "data_points": 49,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-31T18:26:28.928134",
+    "last_recorded": "2026-01-05T08:01:10.022221",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -104,7 +104,8 @@
         "2025-12-30T08:00:51.754083",
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
-        "2025-12-31T18:26:28.928134"
+        "2025-12-31T18:26:28.928134",
+        "2026-01-05T08:01:10.022221"
       ],
       "views_rank": [
         null,
@@ -152,6 +153,7 @@
         61,
         61,
         61,
+        60,
         60,
         60,
         60
@@ -204,7 +206,8 @@
         34,
         34,
         34,
-        34
+        34,
+        33
       ],
       "likes_rank": [
         null,
@@ -254,7 +257,8 @@
         46,
         53,
         44,
-        44
+        44,
+        55
       ]
     }
   },
@@ -266,7 +270,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #34 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #33 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

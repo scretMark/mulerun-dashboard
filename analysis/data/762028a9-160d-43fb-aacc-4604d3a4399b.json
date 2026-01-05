@@ -1,80 +1,84 @@
 {
   "agent_id": "762028a9-160d-43fb-aacc-4604d3a4399b",
-  "generated_at": "2025-12-31T10:26:41.860611",
+  "generated_at": "2026-01-05T00:01:33.609317",
   "basic_info": {
     "title": "The Cosmic Birthday Reader",
     "author": "Eren_kaif",
-    "description": "Enter your birth date to reveal your unique NASA space image and get a personalized AI cosmic reading.\r\nThe Cosmic Birthday Reader is your personal time-traveling astronomer and mystic guide. It seaml...",
+    "description": "Reveal your unique NASA APOD by birth date with AI cosmic reading.",
     "short_description": "Find NASA birthdate image and a cosmic reading.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-12-26T15:27:50.220000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Eren_kaif/the-cosmic-birthday-reader",
-    "days_since_published": 4
+    "days_since_published": 9
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 269,
-      "runs_rank": 266,
-      "likes_rank": 51,
-      "total_agents": 277,
-      "views_percentile": 2.9,
-      "runs_percentile": 4.0,
-      "likes_percentile": 81.6
+      "views_rank": 274,
+      "runs_rank": 271,
+      "likes_rank": 41,
+      "total_agents": 282,
+      "views_percentile": 2.8,
+      "runs_percentile": 3.9,
+      "likes_percentile": 85.5
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 0,
+    "days_tracked": 4,
     "price": 30.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 1,
+    "days_tracked": 5,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": -5
+      "likes_rank_change": -15
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": -5
+      "likes_rank_change": -15
     },
     "all_time": {
       "best_views_rank": 269,
       "best_runs_rank": 266,
-      "best_likes_rank": 51,
+      "best_likes_rank": 41,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 269
+      "current_rank": 274
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 3,
+    "data_points": 4,
     "first_recorded": "2025-12-31T08:00:58.854286",
-    "last_recorded": "2025-12-31T18:26:28.928134",
+    "last_recorded": "2026-01-05T08:01:10.022221",
     "time_series": {
       "dates": [
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
-        "2025-12-31T18:26:28.928134"
+        "2025-12-31T18:26:28.928134",
+        "2026-01-05T08:01:10.022221"
       ],
       "views_rank": [
         null,
         269,
-        269
+        269,
+        274
       ],
       "runs_rank": [
         null,
         266,
-        266
+        266,
+        271
       ],
       "likes_rank": [
         56,
         52,
-        51
+        51,
+        41
       ]
     }
   },
@@ -93,7 +97,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #51 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #41 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

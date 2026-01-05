@@ -1,6 +1,6 @@
 {
   "agent_id": "a6055106-2028-4a04-b278-4ace2a187f0e",
-  "generated_at": "2025-12-31T10:26:39.560292",
+  "generated_at": "2026-01-05T00:01:31.371085",
   "basic_info": {
     "title": "Amazing Caricature Generator",
     "author": "Darren",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-20T11:37:45.353000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/amazing-caricature-generator",
-    "days_since_published": 71
+    "days_since_published": 76
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 73,
       "runs_rank": 58,
-      "likes_rank": 36,
-      "total_agents": 277,
-      "views_percentile": 73.6,
-      "runs_percentile": 79.1,
-      "likes_percentile": 87.0
+      "likes_rank": 25,
+      "total_agents": 282,
+      "views_percentile": 74.1,
+      "runs_percentile": 79.4,
+      "likes_percentile": 91.1
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 74,
+    "days_tracked": 75,
     "price": 51.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 42,
+    "days_tracked": 46,
     "last_7_days": {
-      "views_rank_change": 3,
-      "runs_rank_change": 1,
-      "likes_rank_change": 25
+      "views_rank_change": 1,
+      "runs_rank_change": 0,
+      "likes_rank_change": 10
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 47,
+    "data_points": 48,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-31T18:26:28.928134",
+    "last_recorded": "2026-01-05T08:01:10.022221",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -103,7 +103,8 @@
         "2025-12-30T08:00:51.754083",
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
-        "2025-12-31T18:26:28.928134"
+        "2025-12-31T18:26:28.928134",
+        "2026-01-05T08:01:10.022221"
       ],
       "views_rank": [
         null,
@@ -152,6 +153,7 @@
         72,
         73,
         73,
+        73,
         73
       ],
       "runs_rank": [
@@ -198,6 +200,7 @@
         57,
         57,
         57,
+        58,
         58,
         58,
         58,
@@ -250,7 +253,8 @@
         15,
         34,
         36,
-        36
+        36,
+        25
       ]
     }
   },
@@ -262,7 +266,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #36 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #25 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

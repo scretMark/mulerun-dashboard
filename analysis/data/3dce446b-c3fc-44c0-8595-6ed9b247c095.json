@@ -1,6 +1,6 @@
 {
   "agent_id": "3dce446b-c3fc-44c0-8595-6ed9b247c095",
-  "generated_at": "2025-12-31T10:26:38.837254",
+  "generated_at": "2026-01-05T00:01:30.612974",
   "basic_info": {
     "title": "Paper Review Agent",
     "author": "charlin",
@@ -11,29 +11,29 @@
     "published_at": "2025-10-27T22:31:35.340000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@charlin/paper-review-agent",
-    "days_since_published": 64
+    "days_since_published": 69
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 12,
-      "runs_rank": 31,
-      "likes_rank": 264,
-      "total_agents": 277,
+      "runs_rank": 30,
+      "likes_rank": 267,
+      "total_agents": 282,
       "views_percentile": 95.7,
-      "runs_percentile": 88.8,
-      "likes_percentile": 4.7
+      "runs_percentile": 89.4,
+      "likes_percentile": 5.3
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 68,
+    "days_tracked": 69,
     "price": 60.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 43,
+    "days_tracked": 47,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 0,
+      "runs_rank_change": -1,
       "likes_rank_change": null
     },
     "last_30_days": {
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 48,
+    "data_points": 49,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2025-12-31T18:26:28.928134",
+    "last_recorded": "2026-01-05T08:01:10.022221",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -104,7 +104,8 @@
         "2025-12-30T08:00:51.754083",
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
-        "2025-12-31T18:26:28.928134"
+        "2025-12-31T18:26:28.928134",
+        "2026-01-05T08:01:10.022221"
       ],
       "views_rank": [
         null,
@@ -135,6 +136,7 @@
         null,
         null,
         null,
+        12,
         12,
         12,
         12,
@@ -204,7 +206,8 @@
         31,
         31,
         31,
-        31
+        31,
+        30
       ],
       "likes_rank": [
         null,
@@ -254,7 +257,8 @@
         null,
         null,
         263,
-        264
+        264,
+        267
       ]
     }
   },
@@ -272,6 +276,11 @@
       "type": "info",
       "title": "Stable Leader",
       "description": "Maintained #12 ranking for 7+ days - showing consistent market position and reliability."
+    },
+    {
+      "type": "info",
+      "title": "Premium Agent Success",
+      "description": "Despite $60.0 pricing, this agent ranks #30 in usage - demonstrating strong value proposition."
     }
   ]
 }

@@ -1,45 +1,45 @@
 {
   "agent_id": "9a5db4d2-af15-4f22-a113-7f6729247773",
-  "generated_at": "2025-12-31T10:26:41.681901",
+  "generated_at": "2026-01-05T00:01:33.434612",
   "basic_info": {
     "title": "Hand-Drawn Santa Me",
     "author": "Norsizu",
-    "description": "Create beautiful, hand-drawn colored-pencil Christmas portraits from your own photos.",
+    "description": "Turn your photos into hand-drawn colored-pencil Christmas portraits.",
     "short_description": "Transforms photos into personalized hand-drawn Santa-themed portraits.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-12-22T10:20:25.768000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/hand-drawn-santa-me",
-    "days_since_published": 9
+    "days_since_published": 13
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 270,
-      "runs_rank": 259,
-      "likes_rank": 131,
-      "total_agents": 277,
+      "views_rank": 275,
+      "runs_rank": 263,
+      "likes_rank": 135,
+      "total_agents": 282,
       "views_percentile": 2.5,
-      "runs_percentile": 6.5,
-      "likes_percentile": 52.7
+      "runs_percentile": 6.7,
+      "likes_percentile": 52.1
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 10,
+    "days_tracked": 11,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 8,
+    "days_tracked": 13,
     "last_7_days": {
       "views_rank_change": null,
-      "runs_rank_change": 13,
-      "likes_rank_change": 45
+      "runs_rank_change": null,
+      "likes_rank_change": 9
     },
     "last_30_days": {
       "views_rank_change": null,
-      "runs_rank_change": 14,
-      "likes_rank_change": 75
+      "runs_rank_change": 18,
+      "likes_rank_change": 79
     },
     "all_time": {
       "best_views_rank": 270,
@@ -47,14 +47,14 @@
       "best_likes_rank": 56,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 270
+      "current_rank": 275
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 11,
+    "data_points": 12,
     "first_recorded": "2025-12-23T08:00:59.635142",
-    "last_recorded": "2025-12-31T18:26:28.928134",
+    "last_recorded": "2026-01-05T08:01:10.022221",
     "time_series": {
       "dates": [
         "2025-12-23T08:00:59.635142",
@@ -67,7 +67,8 @@
         "2025-12-30T08:00:51.754083",
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
-        "2025-12-31T18:26:28.928134"
+        "2025-12-31T18:26:28.928134",
+        "2026-01-05T08:01:10.022221"
       ],
       "views_rank": [
         null,
@@ -80,7 +81,8 @@
         null,
         null,
         270,
-        270
+        270,
+        275
       ],
       "runs_rank": [
         245,
@@ -93,7 +95,8 @@
         null,
         null,
         259,
-        259
+        259,
+        263
       ],
       "likes_rank": [
         56,
@@ -106,7 +109,8 @@
         126,
         131,
         131,
-        131
+        131,
+        135
       ]
     }
   },
@@ -125,7 +129,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #270 out of 277 active agents."
+      "description": "This agent is currently ranked #275 out of 282 active agents."
     }
   ]
 }

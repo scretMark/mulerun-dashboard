@@ -1,6 +1,6 @@
 {
   "agent_id": "5f299841-8d14-44c9-8988-6bc4ec3a4abc",
-  "generated_at": "2025-12-31T10:26:39.061704",
+  "generated_at": "2026-01-05T00:01:30.819116",
   "basic_info": {
     "title": "Remove Sora2 Video Watermark",
     "author": "Darren",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-20T12:11:44.378000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/remove-sora2-video-watermark",
-    "days_since_published": 71
+    "days_since_published": 76
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 15,
-      "runs_rank": 39,
-      "likes_rank": 48,
-      "total_agents": 277,
-      "views_percentile": 94.6,
-      "runs_percentile": 85.9,
-      "likes_percentile": 82.7
+      "views_rank": 16,
+      "runs_rank": 38,
+      "likes_rank": 18,
+      "total_agents": 282,
+      "views_percentile": 94.3,
+      "runs_percentile": 86.5,
+      "likes_percentile": 93.6
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 67,
+    "days_tracked": 68,
     "price": 101.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 42,
+    "days_tracked": 46,
     "last_7_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": -3,
-      "likes_rank_change": -178
+      "views_rank_change": 1,
+      "runs_rank_change": -1,
+      "likes_rank_change": -35
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -43,18 +43,18 @@
     },
     "all_time": {
       "best_views_rank": 15,
-      "best_runs_rank": 39,
-      "best_likes_rank": 48,
+      "best_runs_rank": 38,
+      "best_likes_rank": 18,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 15
+      "current_rank": 16
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 47,
+    "data_points": 48,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-31T18:26:28.928134",
+    "last_recorded": "2026-01-05T08:01:10.022221",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -103,7 +103,8 @@
         "2025-12-30T08:00:51.754083",
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
-        "2025-12-31T18:26:28.928134"
+        "2025-12-31T18:26:28.928134",
+        "2026-01-05T08:01:10.022221"
       ],
       "views_rank": [
         null,
@@ -152,7 +153,8 @@
         15,
         15,
         15,
-        15
+        15,
+        16
       ],
       "runs_rank": [
         null,
@@ -201,7 +203,8 @@
         39,
         39,
         39,
-        39
+        39,
+        38
       ],
       "likes_rank": [
         null,
@@ -250,7 +253,8 @@
         53,
         51,
         49,
-        48
+        48,
+        18
       ]
     }
   },
@@ -262,12 +266,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #15 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
-    },
-    {
-      "type": "info",
-      "title": "Stable Leader",
-      "description": "Maintained #15 ranking for 7+ days - showing consistent market position and reliability."
+      "description": "Ranked #16 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

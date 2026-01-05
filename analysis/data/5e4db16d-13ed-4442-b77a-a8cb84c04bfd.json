@@ -1,40 +1,40 @@
 {
   "agent_id": "5e4db16d-13ed-4442-b77a-a8cb84c04bfd",
-  "generated_at": "2025-12-31T10:26:41.352086",
+  "generated_at": "2026-01-05T00:01:33.062673",
   "basic_info": {
     "title": "Cartoon Cookbook",
     "author": "Barry",
-    "description": "Instantly transform your culinary ideas into visual, hand-drawn recipe guides.",
+    "description": "Instantly transform culinary ideas into hand-drawn recipe guides.",
     "short_description": "Visualize recipes with hand-drawn, step-by-step cartoon illustrations.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-12-10T11:31:33.615000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Barry/cartoon-cookbook",
-    "days_since_published": 20
+    "days_since_published": 25
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 216,
-      "runs_rank": 131,
-      "likes_rank": 112,
-      "total_agents": 277,
-      "views_percentile": 22.0,
-      "runs_percentile": 52.7,
-      "likes_percentile": 59.6
+      "views_rank": 217,
+      "runs_rank": 133,
+      "likes_rank": 121,
+      "total_agents": 282,
+      "views_percentile": 23.0,
+      "runs_percentile": 52.8,
+      "likes_percentile": 57.1
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 25,
+    "days_tracked": 26,
     "price": 48.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 19,
+    "days_tracked": 24,
     "last_7_days": {
-      "views_rank_change": 5,
-      "runs_rank_change": 3,
-      "likes_rank_change": 43
+      "views_rank_change": 3,
+      "runs_rank_change": 2,
+      "likes_rank_change": 15
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 22,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 216
+      "current_rank": 217
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 25,
+    "data_points": 26,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2025-12-31T18:26:28.928134",
+    "last_recorded": "2026-01-05T08:01:10.022221",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -81,7 +81,8 @@
         "2025-12-30T08:00:51.754083",
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
-        "2025-12-31T18:26:28.928134"
+        "2025-12-31T18:26:28.928134",
+        "2026-01-05T08:01:10.022221"
       ],
       "views_rank": [
         null,
@@ -108,7 +109,8 @@
         214,
         216,
         216,
-        216
+        216,
+        217
       ],
       "runs_rank": [
         null,
@@ -135,7 +137,8 @@
         131,
         131,
         131,
-        131
+        131,
+        133
       ],
       "likes_rank": [
         null,
@@ -162,7 +165,8 @@
         106,
         111,
         112,
-        112
+        112,
+        121
       ]
     }
   },
@@ -181,7 +185,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #216 out of 277 active agents."
+      "description": "This agent is currently ranked #217 out of 282 active agents."
     }
   ]
 }

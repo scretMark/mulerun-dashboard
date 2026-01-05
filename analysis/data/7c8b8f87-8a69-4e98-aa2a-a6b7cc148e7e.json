@@ -1,45 +1,45 @@
 {
   "agent_id": "7c8b8f87-8a69-4e98-aa2a-a6b7cc148e7e",
-  "generated_at": "2025-12-31T10:26:41.753479",
+  "generated_at": "2026-01-05T00:01:33.513088",
   "basic_info": {
     "title": "FrozenFrame AI",
     "author": "Lucas",
-    "description": "Transform your portrait into a stunning, photorealistic “frozen in ice” scene with cracks and frosty textures, preserving every detail.",
+    "description": "Turn your photo into a realistic frozen-in-ice portrait instantly.",
     "short_description": "Transform photos into realistic frozen-in-ice portraits instantly.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-12-25T01:10:29.525000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/frozenframe-ai",
-    "days_since_published": 6
+    "days_since_published": 10
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 263,
-      "runs_rank": 275,
-      "likes_rank": 7,
-      "total_agents": 277,
-      "views_percentile": 5.1,
+      "views_rank": 268,
+      "runs_rank": 280,
+      "likes_rank": 59,
+      "total_agents": 282,
+      "views_percentile": 5.0,
       "runs_percentile": 0.7,
-      "likes_percentile": 97.5
+      "likes_percentile": 79.1
     },
-    "tier": "Elite",
-    "tier_class": "elite",
-    "days_tracked": 7,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 8,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 5,
+    "days_tracked": 10,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": -6
+      "likes_rank_change": 31
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": -6
+      "likes_rank_change": 46
     },
     "all_time": {
       "best_views_rank": 263,
@@ -47,14 +47,14 @@
       "best_likes_rank": 7,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 263
+      "current_rank": 268
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 8,
+    "data_points": 9,
     "first_recorded": "2025-12-26T08:00:54.905148",
-    "last_recorded": "2025-12-31T18:26:28.928134",
+    "last_recorded": "2026-01-05T08:01:10.022221",
     "time_series": {
       "dates": [
         "2025-12-26T08:00:54.905148",
@@ -64,7 +64,8 @@
         "2025-12-30T08:00:51.754083",
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
-        "2025-12-31T18:26:28.928134"
+        "2025-12-31T18:26:28.928134",
+        "2026-01-05T08:01:10.022221"
       ],
       "views_rank": [
         null,
@@ -74,7 +75,8 @@
         null,
         null,
         264,
-        263
+        263,
+        268
       ],
       "runs_rank": [
         null,
@@ -84,7 +86,8 @@
         null,
         null,
         276,
-        275
+        275,
+        280
       ],
       "likes_rank": [
         13,
@@ -94,7 +97,8 @@
         28,
         26,
         23,
-        7
+        7,
+        59
       ]
     }
   },
@@ -111,9 +115,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "Elite Performance",
-      "description": "Ranked #7 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #268 out of 282 active agents."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "d888e7ff-6e44-4a3c-a588-2a5b13aa68bf",
-  "generated_at": "2025-12-31T10:26:39.717511",
+  "generated_at": "2026-01-05T00:01:31.571566",
   "basic_info": {
     "title": "n8n stylist",
     "author": "summerail",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-04T14:40:15.184000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/n8n-stylist",
-    "days_since_published": 87
+    "days_since_published": 92
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 101,
-      "runs_rank": 261,
-      "likes_rank": 109,
-      "total_agents": 277,
-      "views_percentile": 63.5,
-      "runs_percentile": 5.8,
-      "likes_percentile": 60.6
+      "views_rank": 99,
+      "runs_rank": 266,
+      "likes_rank": 117,
+      "total_agents": 282,
+      "views_percentile": 64.9,
+      "runs_percentile": 5.7,
+      "likes_percentile": 58.5
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 92,
+    "days_tracked": 93,
     "price": 60.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 42,
+    "days_tracked": 46,
     "last_7_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": 11,
-      "likes_rank_change": 38
+      "views_rank_change": -1,
+      "runs_rank_change": null,
+      "likes_rank_change": 9
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 28,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 101
+      "current_rank": 99
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 47,
+    "data_points": 48,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-31T18:26:28.928134",
+    "last_recorded": "2026-01-05T08:01:10.022221",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -103,7 +103,8 @@
         "2025-12-30T08:00:51.754083",
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
-        "2025-12-31T18:26:28.928134"
+        "2025-12-31T18:26:28.928134",
+        "2026-01-05T08:01:10.022221"
       ],
       "views_rank": [
         null,
@@ -152,7 +153,8 @@
         100,
         101,
         101,
-        101
+        101,
+        99
       ],
       "runs_rank": [
         null,
@@ -201,7 +203,8 @@
         null,
         null,
         261,
-        261
+        261,
+        266
       ],
       "likes_rank": [
         null,
@@ -250,7 +253,8 @@
         108,
         114,
         109,
-        109
+        109,
+        117
       ]
     }
   },
@@ -262,7 +266,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #101 out of 277 active agents."
+      "description": "This agent is currently ranked #99 out of 282 active agents."
     }
   ]
 }

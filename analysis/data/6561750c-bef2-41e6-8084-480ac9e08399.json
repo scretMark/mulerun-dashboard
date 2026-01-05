@@ -1,45 +1,45 @@
 {
   "agent_id": "6561750c-bef2-41e6-8084-480ac9e08399",
-  "generated_at": "2025-12-31T10:26:41.734633",
+  "generated_at": "2026-01-05T00:01:33.493267",
   "basic_info": {
     "title": "Technical Writing Assistant",
     "author": "Zane29222",
-    "description": "An AI editor for researchers to convert technical drafts into dense, publication-ready writing.",
+    "description": "Refine technical drafts into dense, publication-ready academic paper.",
     "short_description": "Refine technical drafts into dense, publication-ready writing.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-12-24T16:37:29.173000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Zane29222/technical-writing-helper",
-    "days_since_published": 6
+    "days_since_published": 11
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 251,
-      "runs_rank": 227,
-      "likes_rank": 96,
-      "total_agents": 277,
-      "views_percentile": 9.4,
-      "runs_percentile": 18.1,
-      "likes_percentile": 65.3
+      "views_rank": 252,
+      "runs_rank": 232,
+      "likes_rank": 101,
+      "total_agents": 282,
+      "views_percentile": 10.6,
+      "runs_percentile": 17.7,
+      "likes_percentile": 64.2
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 7,
+    "days_tracked": 8,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 5,
+    "days_tracked": 10,
     "last_7_days": {
-      "views_rank_change": null,
-      "runs_rank_change": -1,
-      "likes_rank_change": 30
+      "views_rank_change": 3,
+      "runs_rank_change": 2,
+      "likes_rank_change": 11
     },
     "last_30_days": {
       "views_rank_change": null,
-      "runs_rank_change": -1,
-      "likes_rank_change": 30
+      "runs_rank_change": 4,
+      "likes_rank_change": 35
     },
     "all_time": {
       "best_views_rank": 249,
@@ -47,14 +47,14 @@
       "best_likes_rank": 66,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 251
+      "current_rank": 252
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 8,
+    "data_points": 9,
     "first_recorded": "2025-12-26T08:00:54.905148",
-    "last_recorded": "2025-12-31T18:26:28.928134",
+    "last_recorded": "2026-01-05T08:01:10.022221",
     "time_series": {
       "dates": [
         "2025-12-26T08:00:54.905148",
@@ -64,7 +64,8 @@
         "2025-12-30T08:00:51.754083",
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
-        "2025-12-31T18:26:28.928134"
+        "2025-12-31T18:26:28.928134",
+        "2026-01-05T08:01:10.022221"
       ],
       "views_rank": [
         null,
@@ -74,7 +75,8 @@
         249,
         250,
         251,
-        251
+        251,
+        252
       ],
       "runs_rank": [
         228,
@@ -84,7 +86,8 @@
         230,
         227,
         227,
-        227
+        227,
+        232
       ],
       "likes_rank": [
         66,
@@ -94,7 +97,8 @@
         90,
         96,
         96,
-        96
+        96,
+        101
       ]
     }
   },
@@ -113,7 +117,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #251 out of 277 active agents."
+      "description": "This agent is currently ranked #252 out of 282 active agents."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "33c27667-bad6-4093-a422-d2b9d403dc8b",
-  "generated_at": "2025-12-31T10:26:40.489174",
+  "generated_at": "2026-01-05T00:01:32.311493",
   "basic_info": {
     "title": "An Exploded VIEW",
     "author": "Darren",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-07T16:12:19.379000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/an-exploded-view",
-    "days_since_published": 84
+    "days_since_published": 89
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 120,
-      "runs_rank": 127,
-      "likes_rank": 56,
-      "total_agents": 277,
-      "views_percentile": 56.7,
-      "runs_percentile": 54.2,
-      "likes_percentile": 79.8
+      "runs_rank": 128,
+      "likes_rank": 49,
+      "total_agents": 282,
+      "views_percentile": 57.4,
+      "runs_percentile": 54.6,
+      "likes_percentile": 82.6
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 69,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 70,
     "price": 48.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 42,
+    "days_tracked": 46,
     "last_7_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": 4,
-      "likes_rank_change": 52
+      "views_rank_change": 0,
+      "runs_rank_change": 2,
+      "likes_rank_change": 4
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 47,
+    "data_points": 48,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2025-12-31T18:26:28.928134",
+    "last_recorded": "2026-01-05T08:01:10.022221",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -103,7 +103,8 @@
         "2025-12-30T08:00:51.754083",
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
-        "2025-12-31T18:26:28.928134"
+        "2025-12-31T18:26:28.928134",
+        "2026-01-05T08:01:10.022221"
       ],
       "views_rank": [
         null,
@@ -149,6 +150,7 @@
         119,
         119,
         119,
+        120,
         120,
         120,
         120,
@@ -201,7 +203,8 @@
         126,
         127,
         127,
-        127
+        127,
+        128
       ],
       "likes_rank": [
         null,
@@ -250,7 +253,8 @@
         45,
         60,
         57,
-        56
+        56,
+        49
       ]
     }
   },
@@ -260,9 +264,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #120 out of 277 active agents."
+      "type": "positive",
+      "title": "High Performer",
+      "description": "Ranked #49 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

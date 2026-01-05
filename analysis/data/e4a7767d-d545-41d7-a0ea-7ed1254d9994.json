@@ -1,6 +1,6 @@
 {
   "agent_id": "e4a7767d-d545-41d7-a0ea-7ed1254d9994",
-  "generated_at": "2025-12-31T10:26:40.995735",
+  "generated_at": "2026-01-05T00:01:32.779690",
   "basic_info": {
     "title": "Nano Sketch Design",
     "author": "Aronlong",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-20T10:00:25.694000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aronlong/nano-sketch-design",
-    "days_since_published": 41
+    "days_since_published": 45
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 221,
-      "runs_rank": 167,
-      "likes_rank": 23,
-      "total_agents": 277,
-      "views_percentile": 20.2,
-      "runs_percentile": 39.7,
-      "likes_percentile": 91.7
+      "views_rank": 224,
+      "runs_rank": 172,
+      "likes_rank": 13,
+      "total_agents": 282,
+      "views_percentile": 20.6,
+      "runs_percentile": 39.0,
+      "likes_percentile": 95.4
     },
-    "tier": "High",
-    "tier_class": "high",
-    "days_tracked": 45,
+    "tier": "Elite",
+    "tier_class": "elite",
+    "days_tracked": 46,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 38,
+    "days_tracked": 42,
     "last_7_days": {
-      "views_rank_change": 5,
-      "runs_rank_change": 2,
-      "likes_rank_change": -49
+      "views_rank_change": 3,
+      "runs_rank_change": -3,
+      "likes_rank_change": -89
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -44,17 +44,17 @@
     "all_time": {
       "best_views_rank": 215,
       "best_runs_rank": 163,
-      "best_likes_rank": 19,
+      "best_likes_rank": 13,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 221
+      "current_rank": 224
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 44,
+    "data_points": 45,
     "first_recorded": "2025-11-23T13:27:48.290198",
-    "last_recorded": "2025-12-31T18:26:28.928134",
+    "last_recorded": "2026-01-05T08:01:10.022221",
     "time_series": {
       "dates": [
         "2025-11-23T13:27:48.290198",
@@ -100,7 +100,8 @@
         "2025-12-30T08:00:51.754083",
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
-        "2025-12-31T18:26:28.928134"
+        "2025-12-31T18:26:28.928134",
+        "2026-01-05T08:01:10.022221"
       ],
       "views_rank": [
         null,
@@ -146,7 +147,8 @@
         221,
         221,
         221,
-        221
+        221,
+        224
       ],
       "runs_rank": [
         null,
@@ -192,7 +194,8 @@
         175,
         167,
         167,
-        167
+        167,
+        172
       ],
       "likes_rank": [
         null,
@@ -238,7 +241,8 @@
         102,
         19,
         20,
-        23
+        23,
+        13
       ]
     }
   },
@@ -256,8 +260,8 @@
   "insights": [
     {
       "type": "positive",
-      "title": "High Performer",
-      "description": "Ranked #23 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "title": "Elite Performance",
+      "description": "Ranked #13 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     }
   ]
 }

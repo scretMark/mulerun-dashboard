@@ -1,40 +1,40 @@
 {
   "agent_id": "d26cbc72-a70f-4661-815a-cd0075968921",
-  "generated_at": "2025-12-31T10:26:41.452591",
+  "generated_at": "2026-01-05T00:01:33.168779",
   "basic_info": {
     "title": "Pretend I was here",
     "author": "Barry",
-    "description": "Turn your photos into realistic travel memories at any landmark instantly.",
+    "description": "Turn your photos into realistic travel memories at any landmark.",
     "short_description": "Place yourself in famous landmarks for realistic travel photos.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-12-09T09:50:37.765000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Barry/pretend-i-was-here",
-    "days_since_published": 22
+    "days_since_published": 26
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 225,
-      "runs_rank": 122,
-      "likes_rank": 105,
-      "total_agents": 277,
-      "views_percentile": 18.8,
+      "views_rank": 228,
+      "runs_rank": 124,
+      "likes_rank": 110,
+      "total_agents": 282,
+      "views_percentile": 19.1,
       "runs_percentile": 56.0,
-      "likes_percentile": 62.1
+      "likes_percentile": 61.0
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 24,
+    "days_tracked": 25,
     "price": 46.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 18,
+    "days_tracked": 23,
     "last_7_days": {
-      "views_rank_change": 5,
+      "views_rank_change": 3,
       "runs_rank_change": 2,
-      "likes_rank_change": 44
+      "likes_rank_change": 13
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 17,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 225
+      "current_rank": 228
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 24,
+    "data_points": 25,
     "first_recorded": "2025-12-13T08:00:26.854786",
-    "last_recorded": "2025-12-31T18:26:28.928134",
+    "last_recorded": "2026-01-05T08:01:10.022221",
     "time_series": {
       "dates": [
         "2025-12-13T08:00:26.854786",
@@ -80,7 +80,8 @@
         "2025-12-30T08:00:51.754083",
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
-        "2025-12-31T18:26:28.928134"
+        "2025-12-31T18:26:28.928134",
+        "2026-01-05T08:01:10.022221"
       ],
       "views_rank": [
         null,
@@ -106,7 +107,8 @@
         225,
         225,
         225,
-        225
+        225,
+        228
       ],
       "runs_rank": [
         null,
@@ -132,7 +134,8 @@
         122,
         122,
         122,
-        122
+        122,
+        124
       ],
       "likes_rank": [
         null,
@@ -158,7 +161,8 @@
         97,
         105,
         105,
-        105
+        105,
+        110
       ]
     }
   },
@@ -177,7 +181,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #225 out of 277 active agents."
+      "description": "This agent is currently ranked #228 out of 282 active agents."
     }
   ]
 }

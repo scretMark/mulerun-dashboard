@@ -1,6 +1,6 @@
 {
   "agent_id": "59d31c99-6023-4634-93cf-6470d3e7bc2b",
-  "generated_at": "2025-12-31T10:26:41.524009",
+  "generated_at": "2026-01-05T00:01:33.251766",
   "basic_info": {
     "title": "image matting",
     "author": "jumdata",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-12T09:37:01.780000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@jumdata/image-matting",
-    "days_since_published": 19
+    "days_since_published": 23
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 203,
-      "runs_rank": 146,
-      "likes_rank": 102,
-      "total_agents": 277,
-      "views_percentile": 26.7,
-      "runs_percentile": 47.3,
-      "likes_percentile": 63.2
+      "views_rank": 206,
+      "runs_rank": 137,
+      "likes_rank": 108,
+      "total_agents": 282,
+      "views_percentile": 27.0,
+      "runs_percentile": 51.4,
+      "likes_percentile": 61.7
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 20,
+    "days_tracked": 21,
     "price": 20.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 14,
+    "days_tracked": 19,
     "last_7_days": {
-      "views_rank_change": 2,
-      "runs_rank_change": -50,
-      "likes_rank_change": 43
+      "views_rank_change": 3,
+      "runs_rank_change": -16,
+      "likes_rank_change": 13
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -43,18 +43,18 @@
     },
     "all_time": {
       "best_views_rank": 200,
-      "best_runs_rank": 146,
+      "best_runs_rank": 137,
       "best_likes_rank": 41,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 203
+      "current_rank": 206
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 21,
+    "data_points": 22,
     "first_recorded": "2025-12-16T19:09:41.063612",
-    "last_recorded": "2025-12-31T18:26:28.928134",
+    "last_recorded": "2026-01-05T08:01:10.022221",
     "time_series": {
       "dates": [
         "2025-12-16T19:09:41.063612",
@@ -77,7 +77,8 @@
         "2025-12-30T08:00:51.754083",
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
-        "2025-12-31T18:26:28.928134"
+        "2025-12-31T18:26:28.928134",
+        "2026-01-05T08:01:10.022221"
       ],
       "views_rank": [
         null,
@@ -100,7 +101,8 @@
         203,
         203,
         203,
-        203
+        203,
+        206
       ],
       "runs_rank": [
         null,
@@ -123,7 +125,8 @@
         153,
         146,
         146,
-        146
+        146,
+        137
       ],
       "likes_rank": [
         null,
@@ -146,7 +149,8 @@
         95,
         102,
         102,
-        102
+        102,
+        108
       ]
     }
   },
@@ -165,7 +169,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #203 out of 277 active agents."
+      "description": "This agent is currently ranked #206 out of 282 active agents."
     }
   ]
 }
