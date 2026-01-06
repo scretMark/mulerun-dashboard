@@ -1,6 +1,6 @@
 {
   "agent_id": "5e4db16d-13ed-4442-b77a-a8cb84c04bfd",
-  "generated_at": "2026-01-05T00:01:33.062673",
+  "generated_at": "2026-01-06T00:01:24.164849",
   "basic_info": {
     "title": "Cartoon Cookbook",
     "author": "Barry",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-10T11:31:33.615000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Barry/cartoon-cookbook",
-    "days_since_published": 25
+    "days_since_published": 26
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 217,
-      "runs_rank": 133,
-      "likes_rank": 121,
+      "runs_rank": 134,
+      "likes_rank": 120,
       "total_agents": 282,
       "views_percentile": 23.0,
-      "runs_percentile": 52.8,
-      "likes_percentile": 57.1
+      "runs_percentile": 52.5,
+      "likes_percentile": 57.4
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 26,
+    "days_tracked": 27,
     "price": 48.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 24,
+    "days_tracked": 25,
     "last_7_days": {
-      "views_rank_change": 3,
-      "runs_rank_change": 2,
-      "likes_rank_change": 15
+      "views_rank_change": 1,
+      "runs_rank_change": 3,
+      "likes_rank_change": 9
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 26,
+    "data_points": 27,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2026-01-05T08:01:10.022221",
+    "last_recorded": "2026-01-06T08:01:10.823440",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -82,7 +82,8 @@
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
         "2025-12-31T18:26:28.928134",
-        "2026-01-05T08:01:10.022221"
+        "2026-01-05T08:01:10.022221",
+        "2026-01-06T08:01:10.823440"
       ],
       "views_rank": [
         null,
@@ -110,6 +111,7 @@
         216,
         216,
         216,
+        217,
         217
       ],
       "runs_rank": [
@@ -138,7 +140,8 @@
         131,
         131,
         131,
-        133
+        133,
+        134
       ],
       "likes_rank": [
         null,
@@ -166,7 +169,8 @@
         111,
         112,
         112,
-        121
+        121,
+        120
       ]
     }
   },

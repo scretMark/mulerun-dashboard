@@ -1,40 +1,40 @@
 {
   "agent_id": "ed160fc7-1210-4ac1-b93b-82b8e5cfb936",
-  "generated_at": "2026-01-05T00:01:32.989139",
+  "generated_at": "2026-01-06T00:01:24.095057",
   "basic_info": {
     "title": "Create Your Unique Nail Art",
     "author": "8bit",
-    "description": "An AI agent that transforms your images into unique, creative nail art designs in seconds.",
+    "description": "Turn your images into unique, creative nail art designs in seconds.",
     "short_description": "Generate unique nail art designs from your photos.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-12-09T00:16:07.180000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/create-your-unique-nail-art",
-    "days_since_published": 26
+    "days_since_published": 27
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 262,
       "runs_rank": 182,
-      "likes_rank": 126,
+      "likes_rank": 124,
       "total_agents": 282,
       "views_percentile": 7.1,
       "runs_percentile": 35.5,
-      "likes_percentile": 55.3
+      "likes_percentile": 56.0
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 28,
+    "days_tracked": 29,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 26,
+    "days_tracked": 27,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": 4,
-      "likes_rank_change": 9
+      "likes_rank_change": 2
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 28,
+    "data_points": 29,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2026-01-05T08:01:10.022221",
+    "last_recorded": "2026-01-06T08:01:10.823440",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
@@ -84,7 +84,8 @@
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
         "2025-12-31T18:26:28.928134",
-        "2026-01-05T08:01:10.022221"
+        "2026-01-05T08:01:10.022221",
+        "2026-01-06T08:01:10.823440"
       ],
       "views_rank": [
         null,
@@ -114,6 +115,7 @@
         null,
         256,
         256,
+        262,
         262
       ],
       "runs_rank": [
@@ -144,6 +146,7 @@
         178,
         178,
         178,
+        182,
         182
       ],
       "likes_rank": [
@@ -174,7 +177,8 @@
         122,
         122,
         122,
-        126
+        126,
+        124
       ]
     }
   },

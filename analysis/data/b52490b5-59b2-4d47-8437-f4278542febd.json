@@ -1,6 +1,6 @@
 {
   "agent_id": "b52490b5-59b2-4d47-8437-f4278542febd",
-  "generated_at": "2026-01-05T00:01:31.457556",
+  "generated_at": "2026-01-06T00:01:22.339022",
   "basic_info": {
     "title": "Quipple Meme Generator",
     "author": "akirakai",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-12T17:17:32.318000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@akirakai/quipple-meme-generator",
-    "days_since_published": 114
+    "days_since_published": 115
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 27,
       "runs_rank": 20,
-      "likes_rank": 12,
+      "likes_rank": 11,
       "total_agents": 282,
       "views_percentile": 90.4,
       "runs_percentile": 92.9,
-      "likes_percentile": 95.7
+      "likes_percentile": 96.1
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 112,
+    "days_tracked": 113,
     "price": 0.5
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 46,
+    "days_tracked": 47,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": -9
+      "likes_rank_change": -16
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 48,
+    "data_points": 49,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-05T08:01:10.022221",
+    "last_recorded": "2026-01-06T08:01:10.823440",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -104,7 +104,8 @@
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
         "2025-12-31T18:26:28.928134",
-        "2026-01-05T08:01:10.022221"
+        "2026-01-05T08:01:10.022221",
+        "2026-01-06T08:01:10.823440"
       ],
       "views_rank": [
         null,
@@ -154,6 +155,7 @@
         27,
         27,
         27,
+        27,
         27
       ],
       "runs_rank": [
@@ -192,6 +194,7 @@
         18,
         19,
         19,
+        20,
         20,
         20,
         20,
@@ -254,7 +257,8 @@
         27,
         17,
         19,
-        12
+        12,
+        11
       ]
     }
   },
@@ -266,7 +270,7 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #12 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #11 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     },
     {
       "type": "info",

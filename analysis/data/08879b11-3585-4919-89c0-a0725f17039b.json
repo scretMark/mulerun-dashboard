@@ -1,6 +1,6 @@
 {
   "agent_id": "08879b11-3585-4919-89c0-a0725f17039b",
-  "generated_at": "2026-01-05T00:01:31.607014",
+  "generated_at": "2026-01-06T00:01:22.466727",
   "basic_info": {
     "title": "Amazon Product Search",
     "author": "createAny",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-13T18:19:42.979000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@createAny/amazon-product-search",
-    "days_since_published": 83
+    "days_since_published": 84
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 134,
-      "runs_rank": 135,
-      "likes_rank": 11,
+      "views_rank": 133,
+      "runs_rank": 136,
+      "likes_rank": 19,
       "total_agents": 282,
-      "views_percentile": 52.5,
-      "runs_percentile": 52.1,
-      "likes_percentile": 96.1
+      "views_percentile": 52.8,
+      "runs_percentile": 51.8,
+      "likes_percentile": 93.3
     },
-    "tier": "Elite",
-    "tier_class": "elite",
-    "days_tracked": 80,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 81,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 46,
+    "days_tracked": 47,
     "last_7_days": {
-      "views_rank_change": -4,
-      "runs_rank_change": 1,
-      "likes_rank_change": -7
+      "views_rank_change": -5,
+      "runs_rank_change": 2,
+      "likes_rank_change": -5
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -42,19 +42,19 @@
       "likes_rank_change": null
     },
     "all_time": {
-      "best_views_rank": 134,
+      "best_views_rank": 133,
       "best_runs_rank": 129,
       "best_likes_rank": 3,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 134
+      "current_rank": 133
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 48,
+    "data_points": 49,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-05T08:01:10.022221",
+    "last_recorded": "2026-01-06T08:01:10.823440",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -104,7 +104,8 @@
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
         "2025-12-31T18:26:28.928134",
-        "2026-01-05T08:01:10.022221"
+        "2026-01-05T08:01:10.022221",
+        "2026-01-06T08:01:10.823440"
       ],
       "views_rank": [
         null,
@@ -154,7 +155,8 @@
         138,
         137,
         137,
-        134
+        134,
+        133
       ],
       "runs_rank": [
         null,
@@ -204,7 +206,8 @@
         134,
         134,
         134,
-        135
+        135,
+        136
       ],
       "likes_rank": [
         null,
@@ -254,7 +257,8 @@
         24,
         25,
         25,
-        11
+        11,
+        19
       ]
     }
   },
@@ -265,8 +269,8 @@
   "insights": [
     {
       "type": "positive",
-      "title": "Elite Performance",
-      "description": "Ranked #11 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "title": "High Performer",
+      "description": "Ranked #19 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

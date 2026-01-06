@@ -1,6 +1,6 @@
 {
   "agent_id": "c10ae341-6770-4502-825a-f04f2e82a977",
-  "generated_at": "2026-01-05T00:01:31.548002",
+  "generated_at": "2026-01-06T00:01:22.411680",
   "basic_info": {
     "title": "Ghibli Image Generator",
     "author": "Darren",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-22T21:33:31.876000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/ghibili-image-generator",
-    "days_since_published": 104
+    "days_since_published": 105
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 92,
-      "runs_rank": 102,
+      "runs_rank": 103,
       "likes_rank": 155,
       "total_agents": 282,
       "views_percentile": 67.4,
-      "runs_percentile": 63.8,
+      "runs_percentile": 63.5,
       "likes_percentile": 45.0
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 100,
+    "days_tracked": 101,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 46,
+    "days_tracked": 47,
     "last_7_days": {
-      "views_rank_change": -1,
+      "views_rank_change": 0,
       "runs_rank_change": 1,
-      "likes_rank_change": 11
+      "likes_rank_change": 6
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 48,
+    "data_points": 49,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-05T08:01:10.022221",
+    "last_recorded": "2026-01-06T08:01:10.823440",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -104,7 +104,8 @@
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
         "2025-12-31T18:26:28.928134",
-        "2026-01-05T08:01:10.022221"
+        "2026-01-05T08:01:10.022221",
+        "2026-01-06T08:01:10.823440"
       ],
       "views_rank": [
         null,
@@ -151,6 +152,7 @@
         92,
         92,
         93,
+        92,
         92,
         92,
         92,
@@ -204,7 +206,8 @@
         102,
         102,
         102,
-        102
+        102,
+        103
       ],
       "likes_rank": [
         null,
@@ -254,6 +257,7 @@
         149,
         149,
         149,
+        155,
         155
       ]
     }

@@ -1,6 +1,6 @@
 {
   "agent_id": "e00f06c2-9bee-4023-821d-8f215ca8417f",
-  "generated_at": "2026-01-05T00:01:33.630583",
+  "generated_at": "2026-01-06T00:01:24.873553",
   "basic_info": {
     "title": "Sales Advisor",
     "author": "SmartQ",
@@ -11,53 +11,65 @@
     "published_at": "2026-01-01T02:59:46.639000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@SmartQ/winnexo",
-    "days_since_published": 3
+    "days_since_published": 4
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 126,
-      "runs_rank": 107,
+      "views_rank": 117,
+      "runs_rank": 102,
       "likes_rank": 106,
       "total_agents": 282,
-      "views_percentile": 55.3,
-      "runs_percentile": 62.1,
+      "views_percentile": 58.5,
+      "runs_percentile": 63.8,
       "likes_percentile": 62.4
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 3,
+    "days_tracked": 4,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 0,
-    "last_7_days": {},
-    "last_30_days": {},
+    "days_tracked": 1,
+    "last_7_days": {
+      "views_rank_change": -9,
+      "runs_rank_change": -5,
+      "likes_rank_change": 0
+    },
+    "last_30_days": {
+      "views_rank_change": -9,
+      "runs_rank_change": -5,
+      "likes_rank_change": 0
+    },
     "all_time": {
-      "best_views_rank": 126,
-      "best_runs_rank": 107,
+      "best_views_rank": 117,
+      "best_runs_rank": 102,
       "best_likes_rank": 106,
       "days_in_top_10": 0,
       "first_rank": 126,
-      "current_rank": 126
+      "current_rank": 117
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 1,
+    "data_points": 2,
     "first_recorded": "2026-01-05T08:01:10.022221",
-    "last_recorded": "2026-01-05T08:01:10.022221",
+    "last_recorded": "2026-01-06T08:01:10.823440",
     "time_series": {
       "dates": [
-        "2026-01-05T08:01:10.022221"
+        "2026-01-05T08:01:10.022221",
+        "2026-01-06T08:01:10.823440"
       ],
       "views_rank": [
-        126
+        126,
+        117
       ],
       "runs_rank": [
-        107
+        107,
+        102
       ],
       "likes_rank": [
+        106,
         106
       ]
     }
@@ -75,9 +87,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #126 out of 282 active agents."
+      "type": "positive",
+      "title": "Hot Trend",
+      "description": "Up 9 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

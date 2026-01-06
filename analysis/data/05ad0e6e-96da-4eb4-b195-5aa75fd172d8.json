@@ -1,6 +1,6 @@
 {
   "agent_id": "05ad0e6e-96da-4eb4-b195-5aa75fd172d8",
-  "generated_at": "2026-01-05T00:01:32.704316",
+  "generated_at": "2026-01-06T00:01:23.792910",
   "basic_info": {
     "title": "Knowledge Card Factory",
     "author": "createAny",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-21T13:57:48.270000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@createAny/knowledge-card-factory",
-    "days_since_published": 75
+    "days_since_published": 76
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 168,
       "runs_rank": 171,
-      "likes_rank": 213,
+      "likes_rank": 214,
       "total_agents": 282,
       "views_percentile": 40.4,
       "runs_percentile": 39.4,
-      "likes_percentile": 24.5
+      "likes_percentile": 24.1
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 75,
+    "days_tracked": 76,
     "price": 20.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 46,
+    "days_tracked": 47,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": -2,
-      "likes_rank_change": 8
+      "runs_rank_change": -4,
+      "likes_rank_change": 5
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 48,
+    "data_points": 49,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-05T08:01:10.022221",
+    "last_recorded": "2026-01-06T08:01:10.823440",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -104,7 +104,8 @@
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
         "2025-12-31T18:26:28.928134",
-        "2026-01-05T08:01:10.022221"
+        "2026-01-05T08:01:10.022221",
+        "2026-01-06T08:01:10.823440"
       ],
       "views_rank": [
         null,
@@ -145,6 +146,7 @@
         170,
         172,
         169,
+        168,
         168,
         168,
         168,
@@ -204,6 +206,7 @@
         175,
         175,
         175,
+        171,
         171
       ],
       "likes_rank": [
@@ -254,7 +257,8 @@
         209,
         209,
         209,
-        213
+        213,
+        214
       ]
     }
   },

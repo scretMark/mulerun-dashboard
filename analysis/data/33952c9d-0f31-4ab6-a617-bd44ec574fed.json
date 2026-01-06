@@ -1,40 +1,40 @@
 {
   "agent_id": "33952c9d-0f31-4ab6-a617-bd44ec574fed",
-  "generated_at": "2026-01-05T00:01:32.948244",
+  "generated_at": "2026-01-06T00:01:24.054419",
   "basic_info": {
     "title": "Pixel Avatar Agent ",
     "author": "Matt",
-    "description": "Turn portraits into retro 8-bit pixel art icons with pastel background.",
+    "description": "Turn portraits into retro 8-bit pixel icons with pastel background.",
     "short_description": "Transforms portraits into retro 8-bit pixel art avatars.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-12-05T19:04:02.237000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Matt/pixel-avatar-agent",
-    "days_since_published": 30
+    "days_since_published": 31
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 225,
       "runs_rank": 195,
-      "likes_rank": 120,
+      "likes_rank": 119,
       "total_agents": 282,
       "views_percentile": 20.2,
       "runs_percentile": 30.9,
-      "likes_percentile": 57.4
+      "likes_percentile": 57.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 29,
+    "days_tracked": 30,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 27,
+    "days_tracked": 28,
     "last_7_days": {
-      "views_rank_change": 6,
+      "views_rank_change": 5,
       "runs_rank_change": 4,
-      "likes_rank_change": 11
+      "likes_rank_change": 4
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 30,
+    "data_points": 31,
     "first_recorded": "2025-12-09T08:00:25.308684",
-    "last_recorded": "2026-01-05T08:01:10.022221",
+    "last_recorded": "2026-01-06T08:01:10.823440",
     "time_series": {
       "dates": [
         "2025-12-09T08:00:25.308684",
@@ -86,7 +86,8 @@
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
         "2025-12-31T18:26:28.928134",
-        "2026-01-05T08:01:10.022221"
+        "2026-01-05T08:01:10.022221",
+        "2026-01-06T08:01:10.823440"
       ],
       "views_rank": [
         null,
@@ -118,6 +119,7 @@
         220,
         220,
         220,
+        225,
         225
       ],
       "runs_rank": [
@@ -150,6 +152,7 @@
         191,
         191,
         191,
+        195,
         195
       ],
       "likes_rank": [
@@ -182,7 +185,8 @@
         115,
         114,
         114,
-        120
+        120,
+        119
       ]
     }
   },

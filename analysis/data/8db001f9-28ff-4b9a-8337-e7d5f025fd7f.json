@@ -1,6 +1,6 @@
 {
   "agent_id": "8db001f9-28ff-4b9a-8337-e7d5f025fd7f",
-  "generated_at": "2026-01-05T00:01:30.647780",
+  "generated_at": "2026-01-06T00:01:21.511820",
   "basic_info": {
     "title": "YouTube Thumbnail",
     "author": "summerail",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-09T16:48:38.136000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/youtube-thumbnail",
-    "days_since_published": 87
+    "days_since_published": 88
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 34,
       "runs_rank": 44,
-      "likes_rank": 246,
+      "likes_rank": 252,
       "total_agents": 282,
       "views_percentile": 87.9,
       "runs_percentile": 84.4,
-      "likes_percentile": 12.8
+      "likes_percentile": 10.6
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 68,
+    "days_tracked": 69,
     "price": 30.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 47,
+    "days_tracked": 48,
     "last_7_days": {
       "views_rank_change": -1,
       "runs_rank_change": 0,
-      "likes_rank_change": 8
+      "likes_rank_change": 7
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 49,
+    "data_points": 50,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-05T08:01:10.022221",
+    "last_recorded": "2026-01-06T08:01:10.823440",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -105,7 +105,8 @@
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
         "2025-12-31T18:26:28.928134",
-        "2026-01-05T08:01:10.022221"
+        "2026-01-05T08:01:10.022221",
+        "2026-01-06T08:01:10.823440"
       ],
       "views_rank": [
         null,
@@ -156,6 +157,7 @@
         35,
         35,
         35,
+        34,
         34
       ],
       "runs_rank": [
@@ -200,6 +202,7 @@
         43,
         43,
         43,
+        44,
         44,
         44,
         44,
@@ -258,7 +261,8 @@
         245,
         238,
         238,
-        246
+        246,
+        252
       ]
     }
   },

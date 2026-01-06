@@ -1,6 +1,6 @@
 {
   "agent_id": "338478ec-1fe4-4f2d-bcb8-423d86ada125",
-  "generated_at": "2026-01-05T00:01:31.762824",
+  "generated_at": "2026-01-06T00:01:22.640858",
   "basic_info": {
     "title": "Halloween Popcorn",
     "author": "Lucas",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-29T22:12:35.458000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/halloween-popcorn",
-    "days_since_published": 67
+    "days_since_published": 68
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 108,
       "runs_rank": 97,
-      "likes_rank": 206,
+      "likes_rank": 205,
       "total_agents": 282,
       "views_percentile": 61.7,
       "runs_percentile": 65.6,
-      "likes_percentile": 27.0
+      "likes_percentile": 27.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 67,
+    "days_tracked": 68,
     "price": 49.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 46,
+    "days_tracked": 47,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 2,
-      "likes_rank_change": 10
+      "likes_rank_change": 5
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 48,
+    "data_points": 49,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-05T08:01:10.022221",
+    "last_recorded": "2026-01-06T08:01:10.823440",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -104,7 +104,8 @@
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
         "2025-12-31T18:26:28.928134",
-        "2026-01-05T08:01:10.022221"
+        "2026-01-05T08:01:10.022221",
+        "2026-01-06T08:01:10.823440"
       ],
       "views_rank": [
         null,
@@ -150,6 +151,7 @@
         108,
         109,
         109,
+        108,
         108,
         108,
         108,
@@ -204,6 +206,7 @@
         95,
         95,
         95,
+        97,
         97
       ],
       "likes_rank": [
@@ -254,7 +257,8 @@
         200,
         200,
         200,
-        206
+        206,
+        205
       ]
     }
   },

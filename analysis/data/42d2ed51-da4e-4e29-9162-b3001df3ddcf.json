@@ -1,6 +1,6 @@
 {
   "agent_id": "42d2ed51-da4e-4e29-9162-b3001df3ddcf",
-  "generated_at": "2026-01-05T00:01:31.382790",
+  "generated_at": "2026-01-06T00:01:22.212956",
   "basic_info": {
     "title": "3-Panel Photo Story",
     "author": "Lucas",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-28T19:35:20.624000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/3-panel-photo-story",
-    "days_since_published": 68
+    "days_since_published": 69
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 117,
-      "runs_rank": 106,
-      "likes_rank": 23,
+      "views_rank": 118,
+      "runs_rank": 107,
+      "likes_rank": 24,
       "total_agents": 282,
-      "views_percentile": 58.5,
-      "runs_percentile": 62.4,
-      "likes_percentile": 91.8
+      "views_percentile": 58.2,
+      "runs_percentile": 62.1,
+      "likes_percentile": 91.5
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 68,
+    "days_tracked": 69,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 46,
+    "days_tracked": 47,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 2,
-      "likes_rank_change": -13
+      "runs_rank_change": 1,
+      "likes_rank_change": -11
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 23,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 117
+      "current_rank": 118
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 48,
+    "data_points": 49,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-05T08:01:10.022221",
+    "last_recorded": "2026-01-06T08:01:10.823440",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -104,7 +104,8 @@
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
         "2025-12-31T18:26:28.928134",
-        "2026-01-05T08:01:10.022221"
+        "2026-01-05T08:01:10.022221",
+        "2026-01-06T08:01:10.823440"
       ],
       "views_rank": [
         null,
@@ -154,7 +155,8 @@
         117,
         117,
         117,
-        117
+        117,
+        118
       ],
       "runs_rank": [
         null,
@@ -204,7 +206,8 @@
         106,
         106,
         106,
-        106
+        106,
+        107
       ],
       "likes_rank": [
         null,
@@ -254,7 +257,8 @@
         35,
         33,
         33,
-        23
+        23,
+        24
       ]
     }
   },
@@ -266,7 +270,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #23 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #24 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

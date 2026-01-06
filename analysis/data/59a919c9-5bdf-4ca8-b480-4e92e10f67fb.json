@@ -1,40 +1,40 @@
 {
   "agent_id": "59a919c9-5bdf-4ca8-b480-4e92e10f67fb",
-  "generated_at": "2026-01-05T00:01:33.042078",
+  "generated_at": "2026-01-06T00:01:24.145718",
   "basic_info": {
     "title": "MyBill Extractor",
     "author": "IAI-Automation",
-    "description": "AI-powered bill extraction that turns images/PDFs into structured, validated data in seconds.",
+    "description": "Extract and validate bill data from images/PDFs in seconds.",
     "short_description": "Extracts and validates structured data from bill images/PDFs.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-12-07T03:32:31.920000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@IAI-Automation/mybill-extractor",
-    "days_since_published": 28
+    "days_since_published": 29
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 179,
-      "runs_rank": 118,
-      "likes_rank": 230,
+      "views_rank": 180,
+      "runs_rank": 119,
+      "likes_rank": 228,
       "total_agents": 282,
-      "views_percentile": 36.5,
-      "runs_percentile": 58.2,
-      "likes_percentile": 18.4
+      "views_percentile": 36.2,
+      "runs_percentile": 57.8,
+      "likes_percentile": 19.1
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 27,
+    "days_tracked": 28,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 25,
+    "days_tracked": 26,
     "last_7_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": 1,
-      "likes_rank_change": 7
+      "views_rank_change": 2,
+      "runs_rank_change": 2,
+      "likes_rank_change": 2
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 140,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 179
+      "current_rank": 180
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 27,
+    "data_points": 28,
     "first_recorded": "2025-12-11T08:00:23.962890",
-    "last_recorded": "2026-01-05T08:01:10.022221",
+    "last_recorded": "2026-01-06T08:01:10.823440",
     "time_series": {
       "dates": [
         "2025-12-11T08:00:23.962890",
@@ -83,7 +83,8 @@
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
         "2025-12-31T18:26:28.928134",
-        "2026-01-05T08:01:10.022221"
+        "2026-01-05T08:01:10.022221",
+        "2026-01-06T08:01:10.823440"
       ],
       "views_rank": [
         null,
@@ -112,7 +113,8 @@
         178,
         178,
         178,
-        179
+        179,
+        180
       ],
       "runs_rank": [
         null,
@@ -141,7 +143,8 @@
         117,
         117,
         117,
-        118
+        118,
+        119
       ],
       "likes_rank": [
         null,
@@ -170,7 +173,8 @@
         226,
         227,
         227,
-        230
+        230,
+        228
       ]
     }
   },
@@ -189,7 +193,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #179 out of 282 active agents."
+      "description": "This agent is currently ranked #180 out of 282 active agents."
     }
   ]
 }

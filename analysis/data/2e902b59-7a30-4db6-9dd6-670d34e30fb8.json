@@ -1,6 +1,6 @@
 {
   "agent_id": "2e902b59-7a30-4db6-9dd6-670d34e30fb8",
-  "generated_at": "2026-01-05T00:01:33.263430",
+  "generated_at": "2026-01-06T00:01:24.348178",
   "basic_info": {
     "title": "PostcardGenie",
     "author": "AneX",
@@ -11,7 +11,7 @@
     "published_at": "2025-12-12T12:32:37.864000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AneX/postcardgenie",
-    "days_since_published": 23
+    "days_since_published": 24
   },
   "ranking_metrics": {
     "current_position": {
@@ -25,16 +25,16 @@
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 21,
+    "days_tracked": 22,
     "price": 60.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 19,
+    "days_tracked": 20,
     "last_7_days": {
-      "views_rank_change": 9,
-      "runs_rank_change": 4,
-      "likes_rank_change": -8
+      "views_rank_change": 7,
+      "runs_rank_change": 3,
+      "likes_rank_change": -7
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 22,
+    "data_points": 23,
     "first_recorded": "2025-12-16T19:09:41.063612",
-    "last_recorded": "2026-01-05T08:01:10.022221",
+    "last_recorded": "2026-01-06T08:01:10.823440",
     "time_series": {
       "dates": [
         "2025-12-16T19:09:41.063612",
@@ -78,7 +78,8 @@
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
         "2025-12-31T18:26:28.928134",
-        "2026-01-05T08:01:10.022221"
+        "2026-01-05T08:01:10.022221",
+        "2026-01-06T08:01:10.823440"
       ],
       "views_rank": [
         null,
@@ -102,6 +103,7 @@
         249,
         250,
         250,
+        256,
         256
       ],
       "runs_rank": [
@@ -126,6 +128,7 @@
         203,
         203,
         203,
+        206,
         206
       ],
       "likes_rank": [
@@ -150,6 +153,7 @@
         33,
         32,
         32,
+        26,
         26
       ]
     }

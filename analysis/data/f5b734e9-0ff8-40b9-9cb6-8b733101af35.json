@@ -1,6 +1,6 @@
 {
   "agent_id": "f5b734e9-0ff8-40b9-9cb6-8b733101af35",
-  "generated_at": "2026-01-05T00:01:31.874466",
+  "generated_at": "2026-01-06T00:01:22.792192",
   "basic_info": {
     "title": "Micro-Course Builder",
     "author": "qdtqhbeim395zbp",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-16T12:26:13.461000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@qdtqhbeim395zbp/micro-course-builder",
-    "days_since_published": 80
+    "days_since_published": 81
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 151,
-      "runs_rank": 181,
-      "likes_rank": 56,
+      "views_rank": 150,
+      "runs_rank": 179,
+      "likes_rank": 52,
       "total_agents": 282,
-      "views_percentile": 46.5,
-      "runs_percentile": 35.8,
-      "likes_percentile": 80.1
+      "views_percentile": 46.8,
+      "runs_percentile": 36.5,
+      "likes_percentile": 81.6
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 77,
+    "days_tracked": 78,
     "price": 30.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 46,
+    "days_tracked": 47,
     "last_7_days": {
-      "views_rank_change": 2,
-      "runs_rank_change": 4,
-      "likes_rank_change": 8
+      "views_rank_change": 1,
+      "runs_rank_change": 2,
+      "likes_rank_change": -2
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 25,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 151
+      "current_rank": 150
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 48,
+    "data_points": 49,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-05T08:01:10.022221",
+    "last_recorded": "2026-01-06T08:01:10.823440",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -104,7 +104,8 @@
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
         "2025-12-31T18:26:28.928134",
-        "2026-01-05T08:01:10.022221"
+        "2026-01-05T08:01:10.022221",
+        "2026-01-06T08:01:10.823440"
       ],
       "views_rank": [
         null,
@@ -154,7 +155,8 @@
         149,
         149,
         149,
-        151
+        151,
+        150
       ],
       "runs_rank": [
         null,
@@ -204,7 +206,8 @@
         177,
         177,
         177,
-        181
+        181,
+        179
       ],
       "likes_rank": [
         null,
@@ -254,7 +257,8 @@
         54,
         51,
         null,
-        56
+        56,
+        52
       ]
     }
   },
@@ -266,7 +270,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #56 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #52 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

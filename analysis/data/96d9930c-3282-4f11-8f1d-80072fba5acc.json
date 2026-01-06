@@ -1,6 +1,6 @@
 {
   "agent_id": "96d9930c-3282-4f11-8f1d-80072fba5acc",
-  "generated_at": "2026-01-05T00:01:33.586644",
+  "generated_at": "2026-01-06T00:01:24.830836",
   "basic_info": {
     "title": "LearningPodcast",
     "author": "createAny",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-27T13:15:06.327000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@createAny/learnningpodcast",
-    "days_since_published": 8
+    "days_since_published": 9
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 230,
       "runs_rank": 184,
-      "likes_rank": 17,
+      "likes_rank": 18,
       "total_agents": 282,
       "views_percentile": 18.4,
       "runs_percentile": 34.8,
-      "likes_percentile": 94.0
+      "likes_percentile": 93.6
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 5,
+    "days_tracked": 6,
     "price": 19.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 5,
+    "days_tracked": 6,
     "last_7_days": {
       "views_rank_change": 3,
       "runs_rank_change": -15,
-      "likes_rank_change": -11
+      "likes_rank_change": -10
     },
     "last_30_days": {
       "views_rank_change": 3,
       "runs_rank_change": -15,
-      "likes_rank_change": -11
+      "likes_rank_change": -10
     },
     "all_time": {
       "best_views_rank": 227,
@@ -52,33 +52,37 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 4,
+    "data_points": 5,
     "first_recorded": "2025-12-31T08:00:58.854286",
-    "last_recorded": "2026-01-05T08:01:10.022221",
+    "last_recorded": "2026-01-06T08:01:10.823440",
     "time_series": {
       "dates": [
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
         "2025-12-31T18:26:28.928134",
-        "2026-01-05T08:01:10.022221"
+        "2026-01-05T08:01:10.022221",
+        "2026-01-06T08:01:10.823440"
       ],
       "views_rank": [
         227,
         228,
         228,
+        230,
         230
       ],
       "runs_rank": [
         199,
         194,
         194,
+        184,
         184
       ],
       "likes_rank": [
         28,
         24,
         24,
-        17
+        17,
+        18
       ]
     }
   },
@@ -97,7 +101,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #17 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #18 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     },
     {
       "type": "positive",

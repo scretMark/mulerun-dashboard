@@ -1,40 +1,40 @@
 {
   "agent_id": "910d7312-122e-4fdd-a71a-32461ad1319c",
-  "generated_at": "2026-01-05T00:01:33.009272",
+  "generated_at": "2026-01-06T00:01:24.115256",
   "basic_info": {
     "title": "Cute Pet Outfit Generate",
     "author": "8bit",
-    "description": "Generates hyper-realistic, adorable pet outfits in styled scenes, tailored for pet owners seeking playful content.",
+    "description": "Dress your pet in cute, hyper-realistic outfits set in styled scenes.",
     "short_description": "Generate realistic outfits for your pet photos.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-12-08T21:17:46.986000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/cute-pet-outfit-generate",
-    "days_since_published": 27
+    "days_since_published": 28
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 265,
+      "views_rank": 264,
       "runs_rank": 215,
       "likes_rank": 94,
       "total_agents": 282,
-      "views_percentile": 6.0,
+      "views_percentile": 6.4,
       "runs_percentile": 23.8,
       "likes_percentile": 66.7
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 28,
+    "days_tracked": 29,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 26,
+    "days_tracked": 27,
     "last_7_days": {
       "views_rank_change": null,
-      "runs_rank_change": 6,
-      "likes_rank_change": 10
+      "runs_rank_change": 5,
+      "likes_rank_change": 4
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 8,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 265
+      "current_rank": 264
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 28,
+    "data_points": 29,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2026-01-05T08:01:10.022221",
+    "last_recorded": "2026-01-06T08:01:10.823440",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
@@ -84,7 +84,8 @@
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
         "2025-12-31T18:26:28.928134",
-        "2026-01-05T08:01:10.022221"
+        "2026-01-05T08:01:10.022221",
+        "2026-01-06T08:01:10.823440"
       ],
       "views_rank": [
         null,
@@ -114,7 +115,8 @@
         null,
         259,
         259,
-        265
+        265,
+        264
       ],
       "runs_rank": [
         null,
@@ -144,6 +146,7 @@
         210,
         210,
         210,
+        215,
         215
       ],
       "likes_rank": [
@@ -174,6 +177,7 @@
         90,
         90,
         90,
+        94,
         94
       ]
     }
@@ -193,7 +197,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #265 out of 282 active agents."
+      "description": "This agent is currently ranked #264 out of 282 active agents."
     }
   ]
 }

@@ -1,40 +1,40 @@
 {
   "agent_id": "c6e6259a-6305-4216-91cd-e65c7ae20610",
-  "generated_at": "2026-01-05T00:01:32.074996",
+  "generated_at": "2026-01-06T00:01:23.038316",
   "basic_info": {
     "title": "EduCard Generator",
     "author": "LunarAITalk",
-    "description": "Transform any topic into visual learning cards with AI-powered image generation.",
+    "description": "Turn topics into visual learning cards—AI-generated images and text.",
     "short_description": "Transforms topics into visual learning cards with images.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-09-14T14:19:31.754000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LunarAITalk/educard-generator",
-    "days_since_published": 112
+    "days_since_published": 113
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 49,
-      "runs_rank": 79,
-      "likes_rank": 28,
+      "views_rank": 50,
+      "runs_rank": 80,
+      "likes_rank": 35,
       "total_agents": 282,
-      "views_percentile": 82.6,
-      "runs_percentile": 72.0,
-      "likes_percentile": 90.1
+      "views_percentile": 82.3,
+      "runs_percentile": 71.6,
+      "likes_percentile": 87.6
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 112,
+    "days_tracked": 113,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 46,
+    "days_tracked": 47,
     "last_7_days": {
-      "views_rank_change": -1,
-      "runs_rank_change": -3,
-      "likes_rank_change": -5
+      "views_rank_change": 0,
+      "runs_rank_change": -2,
+      "likes_rank_change": -7
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 21,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 49
+      "current_rank": 50
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 48,
+    "data_points": 49,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-05T08:01:10.022221",
+    "last_recorded": "2026-01-06T08:01:10.823440",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -104,7 +104,8 @@
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
         "2025-12-31T18:26:28.928134",
-        "2026-01-05T08:01:10.022221"
+        "2026-01-05T08:01:10.022221",
+        "2026-01-06T08:01:10.823440"
       ],
       "views_rank": [
         null,
@@ -154,7 +155,8 @@
         50,
         50,
         50,
-        49
+        49,
+        50
       ],
       "runs_rank": [
         null,
@@ -204,7 +206,8 @@
         82,
         81,
         81,
-        79
+        79,
+        80
       ],
       "likes_rank": [
         null,
@@ -254,7 +257,8 @@
         42,
         39,
         39,
-        28
+        28,
+        35
       ]
     }
   },
@@ -266,7 +270,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #28 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #35 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

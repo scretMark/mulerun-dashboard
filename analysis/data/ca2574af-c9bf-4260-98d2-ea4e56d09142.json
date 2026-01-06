@@ -1,6 +1,6 @@
 {
   "agent_id": "ca2574af-c9bf-4260-98d2-ea4e56d09142",
-  "generated_at": "2026-01-05T00:01:31.773726",
+  "generated_at": "2026-01-06T00:01:22.660939",
   "basic_info": {
     "title": "FilmFace Changer",
     "author": "Darren",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-29T20:46:29.926000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/filmface-changer",
-    "days_since_published": 97
+    "days_since_published": 98
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 112,
-      "runs_rank": 122,
+      "runs_rank": 124,
       "likes_rank": 22,
       "total_agents": 282,
       "views_percentile": 60.3,
-      "runs_percentile": 56.7,
+      "runs_percentile": 56.0,
       "likes_percentile": 92.2
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 70,
+    "days_tracked": 71,
     "price": 66.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 46,
+    "days_tracked": 47,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 1,
-      "likes_rank_change": 2
+      "runs_rank_change": 3,
+      "likes_rank_change": 6
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 48,
+    "data_points": 49,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-05T08:01:10.022221",
+    "last_recorded": "2026-01-06T08:01:10.823440",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -104,7 +104,8 @@
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
         "2025-12-31T18:26:28.928134",
-        "2026-01-05T08:01:10.022221"
+        "2026-01-05T08:01:10.022221",
+        "2026-01-06T08:01:10.823440"
       ],
       "views_rank": [
         null,
@@ -154,6 +155,7 @@
         111,
         111,
         111,
+        112,
         112
       ],
       "runs_rank": [
@@ -204,7 +206,8 @@
         121,
         121,
         121,
-        122
+        122,
+        124
       ],
       "likes_rank": [
         null,
@@ -254,6 +257,7 @@
         16,
         26,
         26,
+        22,
         22
       ]
     }

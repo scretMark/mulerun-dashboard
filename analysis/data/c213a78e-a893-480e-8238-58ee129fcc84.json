@@ -1,6 +1,6 @@
 {
   "agent_id": "c213a78e-a893-480e-8238-58ee129fcc84",
-  "generated_at": "2026-01-05T00:01:31.116571",
+  "generated_at": "2026-01-06T00:01:21.997446",
   "basic_info": {
     "title": "Vintage Gold Vogue",
     "author": "Norsizu",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-11T22:25:53.477000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/vintage-gold-vogue",
-    "days_since_published": 54
+    "days_since_published": 55
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 257,
-      "runs_rank": 225,
+      "runs_rank": 226,
       "likes_rank": 258,
       "total_agents": 282,
       "views_percentile": 8.9,
-      "runs_percentile": 20.2,
+      "runs_percentile": 19.9,
       "likes_percentile": 8.5
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 54,
+    "days_tracked": 55,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 46,
+    "days_tracked": 47,
     "last_7_days": {
       "views_rank_change": null,
       "runs_rank_change": 4,
-      "likes_rank_change": 10
+      "likes_rank_change": null
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 48,
+    "data_points": 49,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-05T08:01:10.022221",
+    "last_recorded": "2026-01-06T08:01:10.823440",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -104,7 +104,8 @@
         "2025-12-31T08:00:58.854286",
         "2025-12-31T18:03:05.562602",
         "2025-12-31T18:26:28.928134",
-        "2026-01-05T08:01:10.022221"
+        "2026-01-05T08:01:10.022221",
+        "2026-01-06T08:01:10.823440"
       ],
       "views_rank": [
         null,
@@ -154,6 +155,7 @@
         null,
         253,
         253,
+        257,
         257
       ],
       "runs_rank": [
@@ -204,7 +206,8 @@
         222,
         222,
         222,
-        225
+        225,
+        226
       ],
       "likes_rank": [
         null,
@@ -254,6 +257,7 @@
         null,
         254,
         254,
+        258,
         258
       ]
     }
