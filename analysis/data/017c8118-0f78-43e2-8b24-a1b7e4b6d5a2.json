@@ -1,10 +1,10 @@
 {
   "agent_id": "017c8118-0f78-43e2-8b24-a1b7e4b6d5a2",
-  "generated_at": "2026-01-06T00:01:21.500653",
+  "generated_at": "2026-01-07T00:01:08.818802",
   "basic_info": {
     "title": "veeverse-tarot",
     "author": "veeverseai",
-    "description": "AI-powered tarot, MBTI, and zodiac insights—a modern spiritual companion.",
+    "description": "AI-powered tarot, MBTI, and zodiac insights for deep personal growth.",
     "short_description": "Interprets tarot, MBTI, zodiac for self-discovery and guidance.",
     "category": "AI Agent",
     "is_active": true,
@@ -15,26 +15,26 @@
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 115,
+      "views_rank": 116,
       "runs_rank": 70,
       "likes_rank": 157,
       "total_agents": 282,
-      "views_percentile": 59.2,
+      "views_percentile": 58.9,
       "runs_percentile": 75.2,
       "likes_percentile": 44.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 54,
+    "days_tracked": 55,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 48,
+    "days_tracked": 49,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 0,
-      "likes_rank_change": 6
+      "likes_rank_change": 5
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 33,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 115
+      "current_rank": 116
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 47,
+    "data_points": 48,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-06T08:01:10.823440",
+    "last_recorded": "2026-01-07T08:00:59.041421",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -103,7 +103,8 @@
         "2025-12-31T18:03:05.562602",
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
-        "2026-01-06T08:01:10.823440"
+        "2026-01-06T08:01:10.823440",
+        "2026-01-07T08:00:59.041421"
       ],
       "views_rank": [
         null,
@@ -152,7 +153,8 @@
         115,
         115,
         115,
-        115
+        115,
+        116
       ],
       "runs_rank": [
         null,
@@ -194,6 +196,7 @@
         71,
         71,
         71,
+        70,
         70,
         70,
         70,
@@ -250,6 +253,7 @@
         152,
         152,
         158,
+        157,
         157
       ]
     }
@@ -293,7 +297,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #115 out of 282 active agents."
+      "description": "This agent is currently ranked #116 out of 282 active agents."
     }
   ]
 }

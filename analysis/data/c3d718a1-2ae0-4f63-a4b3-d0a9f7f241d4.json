@@ -1,6 +1,6 @@
 {
   "agent_id": "c3d718a1-2ae0-4f63-a4b3-d0a9f7f241d4",
-  "generated_at": "2026-01-06T00:01:23.806599",
+  "generated_at": "2026-01-07T00:01:10.879289",
   "basic_info": {
     "title": "Core Burst",
     "author": "Excel",
@@ -11,7 +11,7 @@
     "published_at": "2025-10-11T10:30:07.114000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Excel/core-burst",
-    "days_since_published": 86
+    "days_since_published": 87
   },
   "ranking_metrics": {
     "current_position": {
@@ -25,15 +25,15 @@
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 81,
+    "days_tracked": 82,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 47,
+    "days_tracked": 48,
     "last_7_days": {
       "views_rank_change": 4,
-      "runs_rank_change": null,
+      "runs_rank_change": 5,
       "likes_rank_change": 3
     },
     "last_30_days": {
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 49,
+    "data_points": 50,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-06T08:01:10.823440",
+    "last_recorded": "2026-01-07T08:00:59.041421",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -105,7 +105,8 @@
         "2025-12-31T18:03:05.562602",
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
-        "2026-01-06T08:01:10.823440"
+        "2026-01-06T08:01:10.823440",
+        "2026-01-07T08:00:59.041421"
       ],
       "views_rank": [
         null,
@@ -156,6 +157,7 @@
         207,
         207,
         210,
+        211,
         211
       ],
       "runs_rank": [
@@ -206,6 +208,7 @@
         null,
         273,
         273,
+        278,
         278,
         278
       ],
@@ -258,6 +261,7 @@
         201,
         201,
         205,
+        204,
         204
       ]
     }

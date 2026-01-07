@@ -1,6 +1,6 @@
 {
   "agent_id": "6c19744c-3bd9-45f2-a48e-4c97465906d0",
-  "generated_at": "2026-01-06T00:01:24.014719",
+  "generated_at": "2026-01-07T00:01:11.086532",
   "basic_info": {
     "title": "Mockup Studio Try On",
     "author": "DENNIS",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-04T09:50:58.930000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@DENNIS/mockup-studio-try-on",
-    "days_since_published": 32
+    "days_since_published": 33
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 171,
-      "runs_rank": 149,
-      "likes_rank": 164,
+      "views_rank": 169,
+      "runs_rank": 143,
+      "likes_rank": 162,
       "total_agents": 282,
-      "views_percentile": 39.4,
-      "runs_percentile": 47.2,
-      "likes_percentile": 41.8
+      "views_percentile": 40.1,
+      "runs_percentile": 49.3,
+      "likes_percentile": 42.6
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 33,
+    "days_tracked": 34,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 28,
+    "days_tracked": 29,
     "last_7_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": 2,
-      "likes_rank_change": 6
+      "views_rank_change": -2,
+      "runs_rank_change": -4,
+      "likes_rank_change": 7
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -42,19 +42,19 @@
       "likes_rank_change": null
     },
     "all_time": {
-      "best_views_rank": 171,
-      "best_runs_rank": 145,
+      "best_views_rank": 169,
+      "best_runs_rank": 143,
       "best_likes_rank": 55,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 171
+      "current_rank": 169
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 32,
+    "data_points": 33,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2026-01-06T08:01:10.823440",
+    "last_recorded": "2026-01-07T08:00:59.041421",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -88,7 +88,8 @@
         "2025-12-31T18:03:05.562602",
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
-        "2026-01-06T08:01:10.823440"
+        "2026-01-06T08:01:10.823440",
+        "2026-01-07T08:00:59.041421"
       ],
       "views_rank": [
         null,
@@ -122,7 +123,8 @@
         171,
         171,
         172,
-        171
+        171,
+        169
       ],
       "runs_rank": [
         null,
@@ -156,7 +158,8 @@
         147,
         147,
         150,
-        149
+        149,
+        143
       ],
       "likes_rank": [
         null,
@@ -190,7 +193,8 @@
         155,
         155,
         160,
-        164
+        164,
+        162
       ]
     }
   },
@@ -209,7 +213,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #171 out of 282 active agents."
+      "description": "This agent is currently ranked #169 out of 282 active agents."
     }
   ]
 }

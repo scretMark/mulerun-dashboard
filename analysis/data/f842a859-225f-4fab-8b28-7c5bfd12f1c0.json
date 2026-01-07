@@ -1,6 +1,6 @@
 {
   "agent_id": "f842a859-225f-4fab-8b28-7c5bfd12f1c0",
-  "generated_at": "2026-01-06T00:01:23.487931",
+  "generated_at": "2026-01-07T00:01:10.513434",
   "basic_info": {
     "title": "Excuse Saviour",
     "author": "Excel",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-05T18:21:23.665000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Excel/excuse-saviour",
-    "days_since_published": 92
+    "days_since_published": 93
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 132,
       "runs_rank": 142,
-      "likes_rank": 208,
+      "likes_rank": 209,
       "total_agents": 282,
       "views_percentile": 53.2,
       "runs_percentile": 49.6,
-      "likes_percentile": 26.2
+      "likes_percentile": 25.9
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 76,
+    "days_tracked": 77,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 47,
+    "days_tracked": 48,
     "last_7_days": {
       "views_rank_change": 2,
       "runs_rank_change": 3,
-      "likes_rank_change": 5
+      "likes_rank_change": 6
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 49,
+    "data_points": 50,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-06T08:01:10.823440",
+    "last_recorded": "2026-01-07T08:00:59.041421",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -105,7 +105,8 @@
         "2025-12-31T18:03:05.562602",
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
-        "2026-01-06T08:01:10.823440"
+        "2026-01-06T08:01:10.823440",
+        "2026-01-07T08:00:59.041421"
       ],
       "views_rank": [
         null,
@@ -156,6 +157,7 @@
         130,
         130,
         131,
+        132,
         132
       ],
       "runs_rank": [
@@ -206,6 +208,7 @@
         139,
         139,
         139,
+        142,
         142,
         142
       ],
@@ -258,7 +261,8 @@
         203,
         203,
         208,
-        208
+        208,
+        209
       ]
     }
   },

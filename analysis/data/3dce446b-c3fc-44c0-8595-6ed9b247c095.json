@@ -1,6 +1,6 @@
 {
   "agent_id": "3dce446b-c3fc-44c0-8595-6ed9b247c095",
-  "generated_at": "2026-01-06T00:01:21.477711",
+  "generated_at": "2026-01-07T00:01:08.792421",
   "basic_info": {
     "title": "Paper Review Agent",
     "author": "charlin",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-27T22:31:35.340000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@charlin/paper-review-agent",
-    "days_since_published": 70
+    "days_since_published": 71
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 12,
       "runs_rank": 30,
-      "likes_rank": 267,
+      "likes_rank": 269,
       "total_agents": 282,
       "views_percentile": 95.7,
       "runs_percentile": 89.4,
-      "likes_percentile": 5.3
+      "likes_percentile": 4.6
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 70,
+    "days_tracked": 71,
     "price": 60.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 48,
+    "days_tracked": 49,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": -1,
-      "likes_rank_change": null
+      "likes_rank_change": 6
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 50,
+    "data_points": 51,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-06T08:01:10.823440",
+    "last_recorded": "2026-01-07T08:00:59.041421",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -106,7 +106,8 @@
         "2025-12-31T18:03:05.562602",
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
-        "2026-01-06T08:01:10.823440"
+        "2026-01-06T08:01:10.823440",
+        "2026-01-07T08:00:59.041421"
       ],
       "views_rank": [
         null,
@@ -137,6 +138,7 @@
         null,
         null,
         null,
+        12,
         12,
         12,
         12,
@@ -210,6 +212,7 @@
         31,
         31,
         30,
+        30,
         30
       ],
       "likes_rank": [
@@ -262,7 +265,8 @@
         263,
         264,
         267,
-        267
+        267,
+        269
       ]
     }
   },

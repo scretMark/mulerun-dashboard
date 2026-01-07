@@ -1,6 +1,6 @@
 {
   "agent_id": "dd39eb4e-4dfc-4410-90ef-6f429e767453",
-  "generated_at": "2026-01-06T00:01:23.993987",
+  "generated_at": "2026-01-07T00:01:11.066497",
   "basic_info": {
     "title": "Christmas Studio",
     "author": "DENNIS",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-04T09:23:54.267000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@DENNIS/christmas-studio",
-    "days_since_published": 32
+    "days_since_published": 33
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 197,
       "runs_rank": 152,
-      "likes_rank": 121,
+      "likes_rank": 117,
       "total_agents": 282,
       "views_percentile": 30.1,
       "runs_percentile": 46.1,
-      "likes_percentile": 57.1
+      "likes_percentile": 58.5
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 33,
+    "days_tracked": 34,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 28,
+    "days_tracked": 29,
     "last_7_days": {
-      "views_rank_change": 3,
-      "runs_rank_change": 1,
-      "likes_rank_change": 5
+      "views_rank_change": 5,
+      "runs_rank_change": 4,
+      "likes_rank_change": 6
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 32,
+    "data_points": 33,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2026-01-06T08:01:10.823440",
+    "last_recorded": "2026-01-07T08:00:59.041421",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -88,7 +88,8 @@
         "2025-12-31T18:03:05.562602",
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
-        "2026-01-06T08:01:10.823440"
+        "2026-01-06T08:01:10.823440",
+        "2026-01-07T08:00:59.041421"
       ],
       "views_rank": [
         null,
@@ -122,6 +123,7 @@
         192,
         192,
         196,
+        197,
         197
       ],
       "runs_rank": [
@@ -155,6 +157,7 @@
         151,
         148,
         148,
+        152,
         152,
         152
       ],
@@ -190,7 +193,8 @@
         111,
         111,
         116,
-        121
+        121,
+        117
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "11c166a1-1a28-4d95-a876-350ddf069c00",
-  "generated_at": "2026-01-06T00:01:24.134798",
+  "generated_at": "2026-01-07T00:01:11.202693",
   "basic_info": {
     "title": "Design pajamas for you",
     "author": "8bit",
@@ -11,28 +11,28 @@
     "published_at": "2025-12-09T16:32:01.173000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/design-pajamas-for-you",
-    "days_since_published": 27
+    "days_since_published": 28
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 261,
       "runs_rank": 209,
-      "likes_rank": 118,
+      "likes_rank": 119,
       "total_agents": 282,
       "views_percentile": 7.4,
       "runs_percentile": 25.9,
-      "likes_percentile": 58.2
+      "likes_percentile": 57.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 28,
+    "days_tracked": 29,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 26,
+    "days_tracked": 27,
     "last_7_days": {
-      "views_rank_change": null,
+      "views_rank_change": 6,
       "runs_rank_change": 3,
       "likes_rank_change": 6
     },
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 28,
+    "data_points": 29,
     "first_recorded": "2025-12-11T08:00:23.962890",
-    "last_recorded": "2026-01-06T08:01:10.823440",
+    "last_recorded": "2026-01-07T08:00:59.041421",
     "time_series": {
       "dates": [
         "2025-12-11T08:00:23.962890",
@@ -84,7 +84,8 @@
         "2025-12-31T18:03:05.562602",
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
-        "2026-01-06T08:01:10.823440"
+        "2026-01-06T08:01:10.823440",
+        "2026-01-07T08:00:59.041421"
       ],
       "views_rank": [
         null,
@@ -113,6 +114,7 @@
         null,
         255,
         255,
+        261,
         261,
         261
       ],
@@ -144,6 +146,7 @@
         206,
         206,
         209,
+        209,
         209
       ],
       "likes_rank": [
@@ -174,7 +177,8 @@
         113,
         113,
         118,
-        118
+        118,
+        119
       ]
     }
   },

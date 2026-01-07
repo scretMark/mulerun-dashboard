@@ -1,6 +1,6 @@
 {
   "agent_id": "0cfa5d63-8037-4690-820c-b1d3f2a43d7f",
-  "generated_at": "2026-01-06T00:01:24.643063",
+  "generated_at": "2026-01-07T00:01:11.651468",
   "basic_info": {
     "title": "Reddit to YouTube Script - laughing_code",
     "author": "laughing_code",
@@ -11,50 +11,50 @@
     "published_at": "2025-12-22T12:25:46.444000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@laughing_code/reddit-to-youtube-script-laughing-code",
-    "days_since_published": 14
+    "days_since_published": 15
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 207,
+      "views_rank": 204,
       "runs_rank": 243,
       "likes_rank": 66,
       "total_agents": 282,
-      "views_percentile": 26.6,
+      "views_percentile": 27.7,
       "runs_percentile": 13.8,
       "likes_percentile": 76.6
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 12,
+    "days_tracked": 13,
     "price": 90.0
   },
   "ranking_trends": {
     "has_data": true,
     "days_tracked": 14,
     "last_7_days": {
-      "views_rank_change": -3,
-      "runs_rank_change": 7,
-      "likes_rank_change": 4
+      "views_rank_change": -6,
+      "runs_rank_change": 6,
+      "likes_rank_change": 5
     },
     "last_30_days": {
-      "views_rank_change": -21,
+      "views_rank_change": -24,
       "runs_rank_change": 5,
       "likes_rank_change": 22
     },
     "all_time": {
-      "best_views_rank": 207,
+      "best_views_rank": 204,
       "best_runs_rank": 234,
       "best_likes_rank": 31,
       "days_in_top_10": 0,
       "first_rank": 228,
-      "current_rank": 207
+      "current_rank": 204
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 13,
+    "data_points": 14,
     "first_recorded": "2025-12-23T08:00:59.635142",
-    "last_recorded": "2026-01-06T08:01:10.823440",
+    "last_recorded": "2026-01-07T08:00:59.041421",
     "time_series": {
       "dates": [
         "2025-12-23T08:00:59.635142",
@@ -69,7 +69,8 @@
         "2025-12-31T18:03:05.562602",
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
-        "2026-01-06T08:01:10.823440"
+        "2026-01-06T08:01:10.823440",
+        "2026-01-07T08:00:59.041421"
       ],
       "views_rank": [
         228,
@@ -84,7 +85,8 @@
         210,
         210,
         207,
-        207
+        207,
+        204
       ],
       "runs_rank": [
         238,
@@ -99,6 +101,7 @@
         237,
         238,
         242,
+        243,
         243
       ],
       "likes_rank": [
@@ -114,6 +117,7 @@
         61,
         61,
         70,
+        66,
         66
       ]
     }
@@ -133,7 +137,12 @@
     {
       "type": "positive",
       "title": "Rising Star",
-      "description": "Improved by 21 positions in views ranking over the last 30 days - showing strong momentum!"
+      "description": "Improved by 24 positions in views ranking over the last 30 days - showing strong momentum!"
+    },
+    {
+      "type": "positive",
+      "title": "Hot Trend",
+      "description": "Up 6 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

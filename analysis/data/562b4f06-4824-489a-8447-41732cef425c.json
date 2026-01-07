@@ -1,6 +1,6 @@
 {
   "agent_id": "562b4f06-4824-489a-8447-41732cef425c",
-  "generated_at": "2026-01-06T00:01:21.789328",
+  "generated_at": "2026-01-07T00:01:09.094718",
   "basic_info": {
     "title": "Mockup Studio",
     "author": "DENNIS",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-10T18:50:43.786000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@DENNIS/mockup-studio",
-    "days_since_published": 87
+    "days_since_published": 88
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 75,
-      "runs_rank": 94,
-      "likes_rank": 133,
+      "runs_rank": 93,
+      "likes_rank": 135,
       "total_agents": 282,
       "views_percentile": 73.4,
-      "runs_percentile": 66.7,
-      "likes_percentile": 52.8
+      "runs_percentile": 67.0,
+      "likes_percentile": 52.1
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 82,
+    "days_tracked": 83,
     "price": 200.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 47,
+    "days_tracked": 48,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 1,
-      "likes_rank_change": 8
+      "runs_rank_change": 0,
+      "likes_rank_change": 7
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 49,
+    "data_points": 50,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-06T08:01:10.823440",
+    "last_recorded": "2026-01-07T08:00:59.041421",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -105,7 +105,8 @@
         "2025-12-31T18:03:05.562602",
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
-        "2026-01-06T08:01:10.823440"
+        "2026-01-06T08:01:10.823440",
+        "2026-01-07T08:00:59.041421"
       ],
       "views_rank": [
         null,
@@ -151,6 +152,7 @@
         73,
         73,
         74,
+        75,
         75,
         75,
         75,
@@ -207,7 +209,8 @@
         93,
         93,
         94,
-        94
+        94,
+        93
       ],
       "likes_rank": [
         null,
@@ -258,7 +261,8 @@
         128,
         128,
         133,
-        133
+        133,
+        135
       ]
     }
   },

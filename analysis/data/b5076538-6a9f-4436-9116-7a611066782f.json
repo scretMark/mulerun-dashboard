@@ -1,6 +1,6 @@
 {
   "agent_id": "b5076538-6a9f-4436-9116-7a611066782f",
-  "generated_at": "2026-01-06T00:01:24.566829",
+  "generated_at": "2026-01-07T00:01:11.583384",
   "basic_info": {
     "title": "Tiny Me in a Jar",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-19T16:29:05.699000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/tiny-me-in-a-jar",
-    "days_since_published": 17
+    "days_since_published": 18
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 281,
       "runs_rank": 281,
-      "likes_rank": 156,
+      "likes_rank": 158,
       "total_agents": 282,
       "views_percentile": 0.4,
       "runs_percentile": 0.4,
-      "likes_percentile": 44.7
+      "likes_percentile": 44.0
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 15,
+    "days_tracked": 16,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
     "days_tracked": 17,
     "last_7_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": 2
+      "views_rank_change": 7,
+      "runs_rank_change": 6,
+      "likes_rank_change": 4
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": 31,
-      "likes_rank_change": 116
+      "likes_rank_change": 118
     },
     "all_time": {
       "best_views_rank": 274,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 16,
+    "data_points": 17,
     "first_recorded": "2025-12-20T08:01:00.398750",
-    "last_recorded": "2026-01-06T08:01:10.823440",
+    "last_recorded": "2026-01-07T08:00:59.041421",
     "time_series": {
       "dates": [
         "2025-12-20T08:01:00.398750",
@@ -72,7 +72,8 @@
         "2025-12-31T18:03:05.562602",
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
-        "2026-01-06T08:01:10.823440"
+        "2026-01-06T08:01:10.823440",
+        "2026-01-07T08:00:59.041421"
       ],
       "views_rank": [
         null,
@@ -89,6 +90,7 @@
         null,
         274,
         274,
+        281,
         281,
         281
       ],
@@ -108,6 +110,7 @@
         275,
         276,
         281,
+        281,
         281
       ],
       "likes_rank": [
@@ -126,7 +129,8 @@
         154,
         154,
         157,
-        156
+        156,
+        158
       ]
     }
   },

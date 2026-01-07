@@ -1,6 +1,6 @@
 {
   "agent_id": "69f8c0b4-a4e4-499a-854a-0b47b2b50a12",
-  "generated_at": "2026-01-06T00:01:23.847828",
+  "generated_at": "2026-01-07T00:01:10.920514",
   "basic_info": {
     "title": "ShadowShift",
     "author": "luckyy",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-20T19:16:57.498000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@luckyy/shadowshift",
-    "days_since_published": 46
+    "days_since_published": 47
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 226,
-      "runs_rank": 117,
-      "likes_rank": 223,
+      "runs_rank": 116,
+      "likes_rank": 224,
       "total_agents": 282,
       "views_percentile": 19.9,
-      "runs_percentile": 58.5,
-      "likes_percentile": 20.9
+      "runs_percentile": 58.9,
+      "likes_percentile": 20.6
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 47,
+    "days_tracked": 48,
     "price": 23.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 43,
+    "days_tracked": 44,
     "last_7_days": {
       "views_rank_change": 3,
-      "runs_rank_change": 2,
-      "likes_rank_change": 4
+      "runs_rank_change": 1,
+      "likes_rank_change": 5
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 46,
+    "data_points": 47,
     "first_recorded": "2025-11-23T13:27:48.290198",
-    "last_recorded": "2026-01-06T08:01:10.823440",
+    "last_recorded": "2026-01-07T08:00:59.041421",
     "time_series": {
       "dates": [
         "2025-11-23T13:27:48.290198",
@@ -102,7 +102,8 @@
         "2025-12-31T18:03:05.562602",
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
-        "2026-01-06T08:01:10.823440"
+        "2026-01-06T08:01:10.823440",
+        "2026-01-07T08:00:59.041421"
       ],
       "views_rank": [
         null,
@@ -149,6 +150,7 @@
         223,
         223,
         223,
+        226,
         226,
         226
       ],
@@ -198,7 +200,8 @@
         115,
         115,
         116,
-        117
+        117,
+        116
       ],
       "likes_rank": [
         null,
@@ -246,7 +249,8 @@
         219,
         219,
         224,
-        223
+        223,
+        224
       ]
     }
   },

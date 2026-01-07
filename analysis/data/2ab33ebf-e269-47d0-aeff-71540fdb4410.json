@@ -1,6 +1,6 @@
 {
   "agent_id": "2ab33ebf-e269-47d0-aeff-71540fdb4410",
-  "generated_at": "2026-01-06T00:01:24.024389",
+  "generated_at": "2026-01-07T00:01:11.096215",
   "basic_info": {
     "title": "Profile Picture Maker",
     "author": "AFei_AITalk",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-03T09:43:44.270000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AFei_AITalk/profile-picture-maker",
-    "days_since_published": 33
+    "days_since_published": 34
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 234,
-      "runs_rank": 218,
-      "likes_rank": 271,
+      "runs_rank": 212,
+      "likes_rank": 273,
       "total_agents": 282,
       "views_percentile": 17.0,
-      "runs_percentile": 22.7,
-      "likes_percentile": 3.9
+      "runs_percentile": 24.8,
+      "likes_percentile": 3.2
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 35,
+    "days_tracked": 36,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 28,
+    "days_tracked": 29,
     "last_7_days": {
-      "views_rank_change": 6,
-      "runs_rank_change": 5,
-      "likes_rank_change": null
+      "views_rank_change": 5,
+      "runs_rank_change": -1,
+      "likes_rank_change": 8
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 32,
+    "data_points": 33,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2026-01-06T08:01:10.823440",
+    "last_recorded": "2026-01-07T08:00:59.041421",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -88,7 +88,8 @@
         "2025-12-31T18:03:05.562602",
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
-        "2026-01-06T08:01:10.823440"
+        "2026-01-06T08:01:10.823440",
+        "2026-01-07T08:00:59.041421"
       ],
       "views_rank": [
         null,
@@ -122,6 +123,7 @@
         229,
         229,
         233,
+        234,
         234
       ],
       "runs_rank": [
@@ -156,7 +158,8 @@
         213,
         213,
         217,
-        218
+        218,
+        212
       ],
       "likes_rank": [
         null,
@@ -190,7 +193,8 @@
         265,
         266,
         272,
-        271
+        271,
+        273
       ]
     }
   },

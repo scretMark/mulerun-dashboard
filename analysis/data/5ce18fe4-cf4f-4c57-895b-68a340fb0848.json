@@ -1,6 +1,6 @@
 {
   "agent_id": "5ce18fe4-cf4f-4c57-895b-68a340fb0848",
-  "generated_at": "2026-01-06T00:01:21.777056",
+  "generated_at": "2026-01-07T00:01:09.084785",
   "basic_info": {
     "title": "AI Portrait Painting at Gallery",
     "author": "Jayden",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-12T14:15:30.649000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Jayden/ai-portrait-painting-at-gallery",
-    "days_since_published": 54
+    "days_since_published": 55
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 254,
-      "runs_rank": 261,
-      "likes_rank": 59,
+      "runs_rank": 262,
+      "likes_rank": 58,
       "total_agents": 282,
       "views_percentile": 9.9,
-      "runs_percentile": 7.4,
-      "likes_percentile": 79.1
+      "runs_percentile": 7.1,
+      "likes_percentile": 79.4
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 54,
+    "days_tracked": 55,
     "price": 49.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 47,
+    "days_tracked": 48,
     "last_7_days": {
       "views_rank_change": 7,
-      "runs_rank_change": null,
-      "likes_rank_change": -4
+      "runs_rank_change": 5,
+      "likes_rank_change": -7
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 49,
+    "data_points": 50,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-06T08:01:10.823440",
+    "last_recorded": "2026-01-07T08:00:59.041421",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -105,7 +105,8 @@
         "2025-12-31T18:03:05.562602",
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
-        "2026-01-06T08:01:10.823440"
+        "2026-01-06T08:01:10.823440",
+        "2026-01-07T08:00:59.041421"
       ],
       "views_rank": [
         null,
@@ -156,6 +157,7 @@
         247,
         247,
         253,
+        254,
         254
       ],
       "runs_rank": [
@@ -207,7 +209,8 @@
         257,
         257,
         261,
-        261
+        261,
+        262
       ],
       "likes_rank": [
         null,
@@ -258,7 +261,8 @@
         65,
         65,
         62,
-        59
+        59,
+        58
       ]
     }
   },

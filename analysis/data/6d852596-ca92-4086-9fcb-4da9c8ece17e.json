@@ -1,40 +1,40 @@
 {
   "agent_id": "6d852596-ca92-4086-9fcb-4da9c8ece17e",
-  "generated_at": "2026-01-06T00:01:23.888740",
+  "generated_at": "2026-01-07T00:01:10.961659",
   "basic_info": {
     "title": "Banana Pro Canvas",
     "author": "Aronlong",
-    "description": "Experience Banana Pro's power on an infinite canvas where ideas branch, evolve, and coexist spatially.",
+    "description": "Experience branching creative workflows on an infinite visual canvas.",
     "short_description": "Spatially organize and branch AI-generated visual ideas on a canvas.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-11-20T20:11:49.993000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aronlong/banana-pro-canvas",
-    "days_since_published": 46
+    "days_since_published": 47
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 63,
+      "views_rank": 62,
       "runs_rank": 68,
-      "likes_rank": 99,
+      "likes_rank": 101,
       "total_agents": 282,
-      "views_percentile": 77.7,
+      "views_percentile": 78.0,
       "runs_percentile": 75.9,
-      "likes_percentile": 64.9
+      "likes_percentile": 64.2
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 40,
+    "days_tracked": 41,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "last_7_days": {
-      "views_rank_change": 1,
+      "views_rank_change": -1,
       "runs_rank_change": 1,
-      "likes_rank_change": 4
+      "likes_rank_change": 6
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 1,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 63
+      "current_rank": 62
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 40,
+    "data_points": 41,
     "first_recorded": "2025-11-26T08:00:32.046352",
-    "last_recorded": "2026-01-06T08:01:10.823440",
+    "last_recorded": "2026-01-07T08:00:59.041421",
     "time_series": {
       "dates": [
         "2025-11-26T08:00:32.046352",
@@ -96,7 +96,8 @@
         "2025-12-31T18:03:05.562602",
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
-        "2026-01-06T08:01:10.823440"
+        "2026-01-06T08:01:10.823440",
+        "2026-01-07T08:00:59.041421"
       ],
       "views_rank": [
         null,
@@ -138,7 +139,8 @@
         63,
         63,
         63,
-        63
+        63,
+        62
       ],
       "runs_rank": [
         null,
@@ -180,6 +182,7 @@
         67,
         67,
         67,
+        68,
         68
       ],
       "likes_rank": [
@@ -222,7 +225,8 @@
         95,
         95,
         99,
-        99
+        99,
+        101
       ]
     }
   },
@@ -241,7 +245,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #63 out of 282 active agents."
+      "description": "This agent is currently ranked #62 out of 282 active agents."
     }
   ]
 }

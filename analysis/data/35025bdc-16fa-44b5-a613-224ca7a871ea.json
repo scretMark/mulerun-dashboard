@@ -1,6 +1,6 @@
 {
   "agent_id": "35025bdc-16fa-44b5-a613-224ca7a871ea",
-  "generated_at": "2026-01-06T00:01:21.730011",
+  "generated_at": "2026-01-07T00:01:09.044080",
   "basic_info": {
     "title": "Portraitify AI",
     "author": "DENNIS",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-28T15:03:29.770000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@DENNIS/portraitify-ai",
-    "days_since_published": 99
+    "days_since_published": 100
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 84,
       "runs_rank": 81,
-      "likes_rank": 74,
+      "likes_rank": 75,
       "total_agents": 282,
       "views_percentile": 70.2,
       "runs_percentile": 71.3,
-      "likes_percentile": 73.8
+      "likes_percentile": 73.4
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 97,
+    "days_tracked": 98,
     "price": 100.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 47,
+    "days_tracked": 48,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 2,
-      "likes_rank_change": 0
+      "likes_rank_change": -1
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 49,
+    "data_points": 50,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-06T08:01:10.823440",
+    "last_recorded": "2026-01-07T08:00:59.041421",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -105,7 +105,8 @@
         "2025-12-31T18:03:05.562602",
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
-        "2026-01-06T08:01:10.823440"
+        "2026-01-06T08:01:10.823440",
+        "2026-01-07T08:00:59.041421"
       ],
       "views_rank": [
         null,
@@ -148,6 +149,7 @@
         82,
         83,
         83,
+        84,
         84,
         84,
         84,
@@ -207,6 +209,7 @@
         79,
         79,
         80,
+        81,
         81
       ],
       "likes_rank": [
@@ -258,7 +261,8 @@
         76,
         76,
         76,
-        74
+        74,
+        75
       ]
     }
   },

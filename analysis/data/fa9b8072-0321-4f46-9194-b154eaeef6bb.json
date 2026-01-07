@@ -1,6 +1,6 @@
 {
   "agent_id": "fa9b8072-0321-4f46-9194-b154eaeef6bb",
-  "generated_at": "2026-01-06T00:01:22.133029",
+  "generated_at": "2026-01-07T00:01:09.355309",
   "basic_info": {
     "title": "Ink Alive",
     "author": "AllenCreator",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-12T17:38:21.168000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AllenCreator/ink-alive",
-    "days_since_published": 85
+    "days_since_published": 86
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 184,
-      "runs_rank": 101,
-      "likes_rank": 6,
+      "runs_rank": 102,
+      "likes_rank": 7,
       "total_agents": 282,
       "views_percentile": 34.8,
-      "runs_percentile": 64.2,
-      "likes_percentile": 97.9
+      "runs_percentile": 63.8,
+      "likes_percentile": 97.5
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 71,
+    "days_tracked": 72,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 47,
+    "days_tracked": 48,
     "last_7_days": {
       "views_rank_change": 3,
-      "runs_rank_change": 0,
-      "likes_rank_change": -3
+      "runs_rank_change": 1,
+      "likes_rank_change": 0
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 49,
+    "data_points": 50,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-06T08:01:10.823440",
+    "last_recorded": "2026-01-07T08:00:59.041421",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -105,7 +105,8 @@
         "2025-12-31T18:03:05.562602",
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
-        "2026-01-06T08:01:10.823440"
+        "2026-01-06T08:01:10.823440",
+        "2026-01-07T08:00:59.041421"
       ],
       "views_rank": [
         null,
@@ -156,6 +157,7 @@
         181,
         181,
         182,
+        184,
         184
       ],
       "runs_rank": [
@@ -207,7 +209,8 @@
         101,
         101,
         101,
-        101
+        101,
+        102
       ],
       "likes_rank": [
         null,
@@ -258,7 +261,8 @@
         7,
         10,
         7,
-        6
+        6,
+        7
       ]
     }
   },
@@ -270,7 +274,7 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #6 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #7 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     }
   ]
 }

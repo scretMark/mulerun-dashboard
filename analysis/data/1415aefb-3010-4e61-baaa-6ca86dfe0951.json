@@ -1,6 +1,6 @@
 {
   "agent_id": "1415aefb-3010-4e61-baaa-6ca86dfe0951",
-  "generated_at": "2026-01-06T00:01:24.034152",
+  "generated_at": "2026-01-07T00:01:11.105882",
   "basic_info": {
     "title": "HYPER3D_AI_RODIN",
     "author": "hyper3d_rodin",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-03T17:41:12.737000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@hyper3d_rodin/hyper3d-ai-rodin",
-    "days_since_published": 33
+    "days_since_published": 34
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 111,
+      "views_rank": 108,
       "runs_rank": 9,
-      "likes_rank": 29,
+      "likes_rank": 33,
       "total_agents": 282,
-      "views_percentile": 60.6,
+      "views_percentile": 61.7,
       "runs_percentile": 96.8,
-      "likes_percentile": 89.7
+      "likes_percentile": 88.3
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 34,
+    "days_tracked": 35,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 28,
+    "days_tracked": 29,
     "last_7_days": {
       "views_rank_change": -5,
       "runs_rank_change": -1,
-      "likes_rank_change": -2
+      "likes_rank_change": 2
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -42,19 +42,19 @@
       "likes_rank_change": null
     },
     "all_time": {
-      "best_views_rank": 111,
+      "best_views_rank": 108,
       "best_runs_rank": 9,
       "best_likes_rank": 1,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 111
+      "current_rank": 108
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 32,
+    "data_points": 33,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2026-01-06T08:01:10.823440",
+    "last_recorded": "2026-01-07T08:00:59.041421",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -88,7 +88,8 @@
         "2025-12-31T18:03:05.562602",
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
-        "2026-01-06T08:01:10.823440"
+        "2026-01-06T08:01:10.823440",
+        "2026-01-07T08:00:59.041421"
       ],
       "views_rank": [
         null,
@@ -122,7 +123,8 @@
         113,
         113,
         111,
-        111
+        111,
+        108
       ],
       "runs_rank": [
         null,
@@ -155,6 +157,7 @@
         10,
         10,
         10,
+        9,
         9,
         9
       ],
@@ -190,7 +193,8 @@
         31,
         31,
         24,
-        29
+        29,
+        33
       ]
     }
   },
