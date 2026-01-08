@@ -1,6 +1,6 @@
 {
   "agent_id": "3b00b5d9-a27c-4651-ba17-1ce008bc8d84",
-  "generated_at": "2026-01-07T00:01:10.118420",
+  "generated_at": "2026-01-08T00:01:24.342321",
   "basic_info": {
     "title": "Pet Red Carpet Photos",
     "author": "LinkAIBrain",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-18T19:16:26.843000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/pet-red-carpet-photos",
-    "days_since_published": 110
+    "days_since_published": 111
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 60,
       "runs_rank": 91,
-      "likes_rank": 170,
-      "total_agents": 282,
-      "views_percentile": 78.7,
-      "runs_percentile": 67.7,
-      "likes_percentile": 39.7
+      "likes_rank": 175,
+      "total_agents": 285,
+      "views_percentile": 78.9,
+      "runs_percentile": 68.1,
+      "likes_percentile": 38.6
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 110,
+    "days_tracked": 111,
     "price": 30.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 48,
+    "days_tracked": 49,
     "last_7_days": {
-      "views_rank_change": 4,
-      "runs_rank_change": 2,
-      "likes_rank_change": 6
+      "views_rank_change": 2,
+      "runs_rank_change": 0,
+      "likes_rank_change": 5
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 50,
+    "data_points": 51,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-07T08:00:59.041421",
+    "last_recorded": "2026-01-08T08:01:02.485852",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -106,7 +106,8 @@
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
-        "2026-01-07T08:00:59.041421"
+        "2026-01-07T08:00:59.041421",
+        "2026-01-08T08:01:02.485852"
       ],
       "views_rank": [
         null,
@@ -158,6 +159,7 @@
         56,
         58,
         59,
+        60,
         60
       ],
       "runs_rank": [
@@ -208,6 +210,7 @@
         89,
         89,
         89,
+        91,
         91,
         91,
         91
@@ -262,7 +265,8 @@
         164,
         170,
         170,
-        170
+        170,
+        175
       ]
     }
   },
@@ -274,7 +278,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #60 out of 282 active agents."
+      "description": "This agent is currently ranked #60 out of 285 active agents."
     }
   ]
 }

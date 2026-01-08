@@ -1,6 +1,6 @@
 {
   "agent_id": "ca2574af-c9bf-4260-98d2-ea4e56d09142",
-  "generated_at": "2026-01-07T00:01:09.772531",
+  "generated_at": "2026-01-08T00:01:23.909998",
   "basic_info": {
     "title": "FilmFace Changer",
     "author": "Darren",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-29T20:46:29.926000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/filmface-changer",
-    "days_since_published": 99
+    "days_since_published": 100
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 113,
+      "views_rank": 114,
       "runs_rank": 125,
-      "likes_rank": 21,
-      "total_agents": 282,
-      "views_percentile": 59.9,
-      "runs_percentile": 55.7,
-      "likes_percentile": 92.6
+      "likes_rank": 20,
+      "total_agents": 285,
+      "views_percentile": 60.0,
+      "runs_percentile": 56.1,
+      "likes_percentile": 93.0
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 72,
+    "days_tracked": 73,
     "price": 66.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 48,
+    "days_tracked": 49,
     "last_7_days": {
       "views_rank_change": 2,
-      "runs_rank_change": 4,
-      "likes_rank_change": -5
+      "runs_rank_change": 3,
+      "likes_rank_change": -2
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 13,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 113
+      "current_rank": 114
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 50,
+    "data_points": 51,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-07T08:00:59.041421",
+    "last_recorded": "2026-01-08T08:01:02.485852",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -106,7 +106,8 @@
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
-        "2026-01-07T08:00:59.041421"
+        "2026-01-07T08:00:59.041421",
+        "2026-01-08T08:01:02.485852"
       ],
       "views_rank": [
         null,
@@ -158,7 +159,8 @@
         111,
         112,
         112,
-        113
+        113,
+        114
       ],
       "runs_rank": [
         null,
@@ -210,6 +212,7 @@
         121,
         122,
         124,
+        125,
         125
       ],
       "likes_rank": [
@@ -262,7 +265,8 @@
         26,
         22,
         22,
-        21
+        21,
+        20
       ]
     }
   },
@@ -274,7 +278,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #21 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #20 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "f8a1b72e-a50d-4b78-beb3-b6df59c6d848",
-  "generated_at": "2026-01-07T00:01:11.024420",
+  "generated_at": "2026-01-08T00:01:25.295128",
   "basic_info": {
     "title": "VibeMimic",
     "author": "LinkAIBrain",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-04T07:39:09.075000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/vibemimic",
-    "days_since_published": 33
+    "days_since_published": 34
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 191,
-      "runs_rank": 133,
-      "likes_rank": 143,
-      "total_agents": 282,
-      "views_percentile": 32.3,
-      "runs_percentile": 52.8,
-      "likes_percentile": 49.3
+      "views_rank": 189,
+      "runs_rank": 134,
+      "likes_rank": 148,
+      "total_agents": 285,
+      "views_percentile": 33.7,
+      "runs_percentile": 53.0,
+      "likes_percentile": 48.1
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 36,
+    "days_tracked": 37,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 29,
+    "days_tracked": 30,
     "last_7_days": {
-      "views_rank_change": 5,
-      "runs_rank_change": 3,
-      "likes_rank_change": -2
+      "views_rank_change": -1,
+      "runs_rank_change": 2,
+      "likes_rank_change": 2
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 54,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 191
+      "current_rank": 189
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 33,
+    "data_points": 34,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2026-01-07T08:00:59.041421",
+    "last_recorded": "2026-01-08T08:01:02.485852",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -89,7 +89,8 @@
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
-        "2026-01-07T08:00:59.041421"
+        "2026-01-07T08:00:59.041421",
+        "2026-01-08T08:01:02.485852"
       ],
       "views_rank": [
         null,
@@ -124,7 +125,8 @@
         186,
         190,
         189,
-        191
+        191,
+        189
       ],
       "runs_rank": [
         null,
@@ -159,7 +161,8 @@
         130,
         132,
         133,
-        133
+        133,
+        134
       ],
       "likes_rank": [
         null,
@@ -194,7 +197,8 @@
         145,
         146,
         142,
-        143
+        143,
+        148
       ]
     }
   },
@@ -213,7 +217,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #191 out of 282 active agents."
+      "description": "This agent is currently ranked #189 out of 285 active agents."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "0cfa5d63-8037-4690-820c-b1d3f2a43d7f",
-  "generated_at": "2026-01-07T00:01:11.651468",
+  "generated_at": "2026-01-08T00:01:25.922329",
   "basic_info": {
     "title": "Reddit to YouTube Script - laughing_code",
     "author": "laughing_code",
@@ -11,50 +11,50 @@
     "published_at": "2025-12-22T12:25:46.444000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@laughing_code/reddit-to-youtube-script-laughing-code",
-    "days_since_published": 15
+    "days_since_published": 16
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 204,
-      "runs_rank": 243,
+      "views_rank": 203,
+      "runs_rank": 244,
       "likes_rank": 66,
-      "total_agents": 282,
-      "views_percentile": 27.7,
-      "runs_percentile": 13.8,
-      "likes_percentile": 76.6
+      "total_agents": 285,
+      "views_percentile": 28.8,
+      "runs_percentile": 14.4,
+      "likes_percentile": 76.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 13,
+    "days_tracked": 14,
     "price": 90.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 14,
+    "days_tracked": 16,
     "last_7_days": {
-      "views_rank_change": -6,
-      "runs_rank_change": 6,
-      "likes_rank_change": 5
+      "views_rank_change": -4,
+      "runs_rank_change": 2,
+      "likes_rank_change": -4
     },
     "last_30_days": {
-      "views_rank_change": -24,
-      "runs_rank_change": 5,
+      "views_rank_change": -25,
+      "runs_rank_change": 6,
       "likes_rank_change": 22
     },
     "all_time": {
-      "best_views_rank": 204,
+      "best_views_rank": 203,
       "best_runs_rank": 234,
       "best_likes_rank": 31,
       "days_in_top_10": 0,
       "first_rank": 228,
-      "current_rank": 204
+      "current_rank": 203
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 14,
+    "data_points": 15,
     "first_recorded": "2025-12-23T08:00:59.635142",
-    "last_recorded": "2026-01-07T08:00:59.041421",
+    "last_recorded": "2026-01-08T08:01:02.485852",
     "time_series": {
       "dates": [
         "2025-12-23T08:00:59.635142",
@@ -70,7 +70,8 @@
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
-        "2026-01-07T08:00:59.041421"
+        "2026-01-07T08:00:59.041421",
+        "2026-01-08T08:01:02.485852"
       ],
       "views_rank": [
         228,
@@ -86,7 +87,8 @@
         210,
         207,
         207,
-        204
+        204,
+        203
       ],
       "runs_rank": [
         238,
@@ -102,7 +104,8 @@
         238,
         242,
         243,
-        243
+        243,
+        244
       ],
       "likes_rank": [
         44,
@@ -117,6 +120,7 @@
         61,
         61,
         70,
+        66,
         66,
         66
       ]
@@ -137,12 +141,7 @@
     {
       "type": "positive",
       "title": "Rising Star",
-      "description": "Improved by 24 positions in views ranking over the last 30 days - showing strong momentum!"
-    },
-    {
-      "type": "positive",
-      "title": "Hot Trend",
-      "description": "Up 6 positions in just 7 days - currently trending and gaining rapid visibility!"
+      "description": "Improved by 25 positions in views ranking over the last 30 days - showing strong momentum!"
     }
   ]
 }

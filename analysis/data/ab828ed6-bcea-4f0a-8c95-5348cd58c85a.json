@@ -1,6 +1,6 @@
 {
   "agent_id": "ab828ed6-bcea-4f0a-8c95-5348cd58c85a",
-  "generated_at": "2026-01-07T00:01:08.921690",
+  "generated_at": "2026-01-08T00:01:22.807666",
   "basic_info": {
     "title": "Text-to-speech",
     "author": "PicCopilot",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-11T19:40:27.710000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/text-to-speech",
-    "days_since_published": 56
+    "days_since_published": 57
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 90,
       "runs_rank": 24,
-      "likes_rank": 37,
-      "total_agents": 282,
-      "views_percentile": 68.1,
-      "runs_percentile": 91.5,
-      "likes_percentile": 86.9
+      "likes_rank": 32,
+      "total_agents": 285,
+      "views_percentile": 68.4,
+      "runs_percentile": 91.6,
+      "likes_percentile": 88.8
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 70,
+    "days_tracked": 71,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 48,
+    "days_tracked": 49,
     "last_7_days": {
-      "views_rank_change": -3,
+      "views_rank_change": -1,
       "runs_rank_change": 0,
-      "likes_rank_change": -6
+      "likes_rank_change": 2
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 50,
+    "data_points": 51,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-07T08:00:59.041421",
+    "last_recorded": "2026-01-08T08:01:02.485852",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -106,7 +106,8 @@
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
-        "2026-01-07T08:00:59.041421"
+        "2026-01-07T08:00:59.041421",
+        "2026-01-08T08:01:02.485852"
       ],
       "views_rank": [
         null,
@@ -158,6 +159,7 @@
         93,
         91,
         91,
+        90,
         90
       ],
       "runs_rank": [
@@ -210,6 +212,7 @@
         24,
         24,
         25,
+        24,
         24
       ],
       "likes_rank": [
@@ -262,7 +265,8 @@
         43,
         30,
         33,
-        37
+        37,
+        32
       ]
     }
   },

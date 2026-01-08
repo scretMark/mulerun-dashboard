@@ -1,6 +1,6 @@
 {
   "agent_id": "81dcc6fe-5f37-425b-8ff8-7fc92f3171c8",
-  "generated_at": "2026-01-07T00:01:10.067521",
+  "generated_at": "2026-01-08T00:01:24.288176",
   "basic_info": {
     "title": "Time Gate",
     "author": "LinkAIBrain",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-23T05:42:38.874000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/time-gate",
-    "days_since_published": 105
+    "days_since_published": 106
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 51,
       "runs_rank": 64,
-      "likes_rank": 177,
-      "total_agents": 282,
-      "views_percentile": 81.9,
-      "runs_percentile": 77.3,
-      "likes_percentile": 37.2
+      "likes_rank": 181,
+      "total_agents": 285,
+      "views_percentile": 82.1,
+      "runs_percentile": 77.5,
+      "likes_percentile": 36.5
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 74,
+    "days_tracked": 75,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 48,
+    "days_tracked": 49,
     "last_7_days": {
-      "views_rank_change": 2,
+      "views_rank_change": 1,
       "runs_rank_change": 0,
-      "likes_rank_change": 6
+      "likes_rank_change": 4
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 50,
+    "data_points": 51,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-07T08:00:59.041421",
+    "last_recorded": "2026-01-08T08:01:02.485852",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -106,7 +106,8 @@
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
-        "2026-01-07T08:00:59.041421"
+        "2026-01-07T08:00:59.041421",
+        "2026-01-08T08:01:02.485852"
       ],
       "views_rank": [
         null,
@@ -158,6 +159,7 @@
         49,
         50,
         51,
+        51,
         51
       ],
       "runs_rank": [
@@ -197,6 +199,7 @@
         64,
         64,
         65,
+        64,
         64,
         64,
         64,
@@ -262,7 +265,8 @@
         171,
         177,
         176,
-        177
+        177,
+        181
       ]
     }
   },

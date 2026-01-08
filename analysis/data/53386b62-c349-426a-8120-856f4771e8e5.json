@@ -1,6 +1,6 @@
 {
   "agent_id": "53386b62-c349-426a-8120-856f4771e8e5",
-  "generated_at": "2026-01-07T00:01:09.196093",
+  "generated_at": "2026-01-08T00:01:23.166927",
   "basic_info": {
     "title": "Multi-style Portrait Studio",
     "author": "AFei_AITalk",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-10T17:34:54.782000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AFei_AITalk/multi-style-portrait-studio",
-    "days_since_published": 57
+    "days_since_published": 58
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 188,
       "runs_rank": 114,
-      "likes_rank": 60,
-      "total_agents": 282,
-      "views_percentile": 33.3,
-      "runs_percentile": 59.6,
-      "likes_percentile": 78.7
+      "likes_rank": 64,
+      "total_agents": 285,
+      "views_percentile": 34.0,
+      "runs_percentile": 60.0,
+      "likes_percentile": 77.5
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 57,
+    "days_tracked": 58,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 48,
+    "days_tracked": 49,
     "last_7_days": {
-      "views_rank_change": 6,
-      "runs_rank_change": 2,
-      "likes_rank_change": -8
+      "views_rank_change": 1,
+      "runs_rank_change": 1,
+      "likes_rank_change": -2
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 50,
+    "data_points": 51,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-07T08:00:59.041421",
+    "last_recorded": "2026-01-08T08:01:02.485852",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -106,7 +106,8 @@
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
-        "2026-01-07T08:00:59.041421"
+        "2026-01-07T08:00:59.041421",
+        "2026-01-08T08:01:02.485852"
       ],
       "views_rank": [
         null,
@@ -158,6 +159,7 @@
         182,
         187,
         187,
+        188,
         188
       ],
       "runs_rank": [
@@ -209,6 +211,7 @@
         112,
         112,
         113,
+        114,
         114,
         114
       ],
@@ -262,7 +265,8 @@
         68,
         66,
         64,
-        60
+        60,
+        64
       ]
     }
   },
@@ -274,7 +278,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #188 out of 282 active agents."
+      "description": "This agent is currently ranked #188 out of 285 active agents."
     }
   ]
 }

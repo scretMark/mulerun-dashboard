@@ -1,6 +1,6 @@
 {
   "agent_id": "dc0565bb-95d1-44f3-9c56-50c0cea81a61",
-  "generated_at": "2026-01-07T00:01:09.582453",
+  "generated_at": "2026-01-08T00:01:23.699158",
   "basic_info": {
     "title": "Business Card",
     "author": "Darren",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-01T16:13:53.027000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/business-card",
-    "days_since_published": 97
+    "days_since_published": 98
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 131,
-      "runs_rank": 169,
-      "likes_rank": 10,
-      "total_agents": 282,
-      "views_percentile": 53.5,
-      "runs_percentile": 40.1,
-      "likes_percentile": 96.5
+      "runs_rank": 170,
+      "likes_rank": 11,
+      "total_agents": 285,
+      "views_percentile": 54.0,
+      "runs_percentile": 40.4,
+      "likes_percentile": 96.1
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 72,
+    "days_tracked": 73,
     "price": 18.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 48,
+    "days_tracked": 49,
     "last_7_days": {
-      "views_rank_change": 2,
-      "runs_rank_change": 4,
-      "likes_rank_change": -179
+      "views_rank_change": 1,
+      "runs_rank_change": 0,
+      "likes_rank_change": -183
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 50,
+    "data_points": 51,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-07T08:00:59.041421",
+    "last_recorded": "2026-01-08T08:01:02.485852",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -106,7 +106,8 @@
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
-        "2026-01-07T08:00:59.041421"
+        "2026-01-07T08:00:59.041421",
+        "2026-01-08T08:01:02.485852"
       ],
       "views_rank": [
         null,
@@ -158,6 +159,7 @@
         129,
         130,
         130,
+        131,
         131
       ],
       "runs_rank": [
@@ -210,7 +212,8 @@
         165,
         170,
         170,
-        169
+        169,
+        170
       ],
       "likes_rank": [
         null,
@@ -262,7 +265,8 @@
         189,
         194,
         194,
-        10
+        10,
+        11
       ]
     }
   },
@@ -274,7 +278,7 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #10 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #11 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     }
   ]
 }

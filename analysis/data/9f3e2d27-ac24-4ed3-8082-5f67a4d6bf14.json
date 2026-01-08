@@ -1,6 +1,6 @@
 {
   "agent_id": "9f3e2d27-ac24-4ed3-8082-5f67a4d6bf14",
-  "generated_at": "2026-01-07T00:01:11.193141",
+  "generated_at": "2026-01-08T00:01:25.481894",
   "basic_info": {
     "title": "Fireworks Show",
     "author": "LinkAIBrain",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-03T11:04:04.300000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/fireworks-show",
-    "days_since_published": 34
+    "days_since_published": 35
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 216,
-      "runs_rank": 222,
-      "likes_rank": 83,
-      "total_agents": 282,
-      "views_percentile": 23.4,
-      "runs_percentile": 21.3,
-      "likes_percentile": 70.6
+      "runs_rank": 223,
+      "likes_rank": 89,
+      "total_agents": 285,
+      "views_percentile": 24.2,
+      "runs_percentile": 21.8,
+      "likes_percentile": 68.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 30,
+    "days_tracked": 31,
     "price": 500.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 28,
+    "days_tracked": 29,
     "last_7_days": {
-      "views_rank_change": -14,
-      "runs_rank_change": -16,
-      "likes_rank_change": 3
+      "views_rank_change": -3,
+      "runs_rank_change": 2,
+      "likes_rank_change": 8
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 30,
+    "data_points": 31,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2026-01-07T08:00:59.041421",
+    "last_recorded": "2026-01-08T08:01:02.485852",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
@@ -86,7 +86,8 @@
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
-        "2026-01-07T08:00:59.041421"
+        "2026-01-07T08:00:59.041421",
+        "2026-01-08T08:01:02.485852"
       ],
       "views_rank": [
         null,
@@ -118,6 +119,7 @@
         230,
         219,
         219,
+        216,
         216
       ],
       "runs_rank": [
@@ -150,7 +152,8 @@
         235,
         221,
         222,
-        222
+        222,
+        223
       ],
       "likes_rank": [
         null,
@@ -182,7 +185,8 @@
         79,
         81,
         84,
-        83
+        83,
+        89
       ]
     }
   },
@@ -199,9 +203,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "Hot Trend",
-      "description": "Up 14 positions in just 7 days - currently trending and gaining rapid visibility!"
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #216 out of 285 active agents."
     }
   ]
 }

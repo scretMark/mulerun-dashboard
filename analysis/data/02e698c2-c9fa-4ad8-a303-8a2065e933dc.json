@@ -1,45 +1,45 @@
 {
   "agent_id": "02e698c2-c9fa-4ad8-a303-8a2065e933dc",
-  "generated_at": "2026-01-07T00:01:11.685450",
+  "generated_at": "2026-01-08T00:01:25.957683",
   "basic_info": {
     "title": "Infinite Monkey Coder",
     "author": "Ailurus",
-    "description": "# Overview\nBuild and deploy complete frontend websites in one click, powered by a cloud-based AI coder.\n\n# Description\nMeet **Infinite Monkey Coder**, your always-on AI agent for frontend development.  \nTired of starting from scratch, wiring tools together, or handling deployments yourself?  \nInfinite Monkey Coder takes your idea, **writes the frontend code**, and **automatically deploys it to Mule Pages**—all in one smooth flow.  \n\n**No setup. No context switching. Just results.**  \nFocus on what you want to build, and let the agent handle the rest from code to cloud.  \n\nTurn ideas into live websites faster than ever—let’s ship something great",
+    "description": "Build and deploy complete frontend websites—in one click with AI.",
     "short_description": "Turns ideas into live, deployed frontend websites.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-12-23T17:18:40.559000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Ailurus/infinite-monkey-coder",
-    "days_since_published": 14
+    "days_since_published": 15
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 237,
-      "runs_rank": 254,
-      "likes_rank": 57,
-      "total_agents": 282,
-      "views_percentile": 16.0,
-      "runs_percentile": 9.9,
-      "likes_percentile": 79.8
+      "runs_rank": 255,
+      "likes_rank": 56,
+      "total_agents": 285,
+      "views_percentile": 16.8,
+      "runs_percentile": 10.5,
+      "likes_percentile": 80.4
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 12,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 13,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 13,
+    "days_tracked": 15,
     "last_7_days": {
-      "views_rank_change": 5,
-      "runs_rank_change": 4,
-      "likes_rank_change": -5
+      "views_rank_change": 3,
+      "runs_rank_change": 1,
+      "likes_rank_change": -13
     },
     "last_30_days": {
       "views_rank_change": -12,
       "runs_rank_change": null,
-      "likes_rank_change": 44
+      "likes_rank_change": 43
     },
     "all_time": {
       "best_views_rank": 231,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 13,
+    "data_points": 14,
     "first_recorded": "2025-12-24T08:01:01.461546",
-    "last_recorded": "2026-01-07T08:00:59.041421",
+    "last_recorded": "2026-01-08T08:01:02.485852",
     "time_series": {
       "dates": [
         "2025-12-24T08:01:01.461546",
@@ -69,7 +69,8 @@
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
-        "2026-01-07T08:00:59.041421"
+        "2026-01-07T08:00:59.041421",
+        "2026-01-08T08:01:02.485852"
       ],
       "views_rank": [
         249,
@@ -84,6 +85,7 @@
         232,
         234,
         235,
+        237,
         237
       ],
       "runs_rank": [
@@ -99,7 +101,8 @@
         250,
         254,
         254,
-        254
+        254,
+        255
       ],
       "likes_rank": [
         13,
@@ -114,7 +117,8 @@
         62,
         69,
         68,
-        57
+        57,
+        56
       ]
     }
   },
@@ -130,6 +134,11 @@
     ]
   },
   "insights": [
+    {
+      "type": "positive",
+      "title": "High Performer",
+      "description": "Ranked #56 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+    },
     {
       "type": "positive",
       "title": "Rising Star",

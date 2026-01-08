@@ -1,6 +1,6 @@
 {
   "agent_id": "3079e928-f57b-462a-94f8-a041b78534dd",
-  "generated_at": "2026-01-07T00:01:09.155489",
+  "generated_at": "2026-01-08T00:01:23.118208",
   "basic_info": {
     "title": "Mindmap Generator",
     "author": "AngryBerry",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-29T16:06:11.635000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AngryBerry/mindmap-generator",
-    "days_since_published": 69
+    "days_since_published": 70
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 38,
       "runs_rank": 113,
-      "likes_rank": 267,
-      "total_agents": 282,
-      "views_percentile": 86.5,
-      "runs_percentile": 59.9,
-      "likes_percentile": 5.3
+      "likes_rank": 277,
+      "total_agents": 285,
+      "views_percentile": 86.7,
+      "runs_percentile": 60.4,
+      "likes_percentile": 2.8
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 69,
+    "days_tracked": 70,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 48,
+    "days_tracked": 49,
     "last_7_days": {
-      "views_rank_change": 2,
-      "runs_rank_change": 2,
-      "likes_rank_change": -11
+      "views_rank_change": 1,
+      "runs_rank_change": 1,
+      "likes_rank_change": 11
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 50,
+    "data_points": 51,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-07T08:00:59.041421",
+    "last_recorded": "2026-01-08T08:01:02.485852",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -106,7 +106,8 @@
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
-        "2026-01-07T08:00:59.041421"
+        "2026-01-07T08:00:59.041421",
+        "2026-01-08T08:01:02.485852"
       ],
       "views_rank": [
         null,
@@ -158,6 +159,7 @@
         36,
         37,
         37,
+        38,
         38
       ],
       "runs_rank": [
@@ -209,6 +211,7 @@
         111,
         111,
         112,
+        113,
         113,
         113
       ],
@@ -262,7 +265,8 @@
         278,
         266,
         268,
-        267
+        267,
+        277
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "a96fb74c-e249-420a-b8ee-5a4914881a89",
-  "generated_at": "2026-01-07T00:01:11.628930",
+  "generated_at": "2026-01-08T00:01:25.886869",
   "basic_info": {
     "title": "Great Wall Memory Portrait",
     "author": "Matt",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-19T18:22:14.659000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Matt/great-wall-memory-portrait",
-    "days_since_published": 18
+    "days_since_published": 19
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 200,
       "runs_rank": 127,
-      "likes_rank": 142,
-      "total_agents": 282,
-      "views_percentile": 29.1,
-      "runs_percentile": 55.0,
-      "likes_percentile": 49.6
+      "likes_rank": 147,
+      "total_agents": 285,
+      "views_percentile": 29.8,
+      "runs_percentile": 55.4,
+      "likes_percentile": 48.4
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 13,
+    "days_tracked": 14,
     "price": 55.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 14,
+    "days_tracked": 16,
     "last_7_days": {
-      "views_rank_change": 4,
-      "runs_rank_change": 2,
-      "likes_rank_change": -4
+      "views_rank_change": 1,
+      "runs_rank_change": 0,
+      "likes_rank_change": -1
     },
     "last_30_days": {
       "views_rank_change": 3,
       "runs_rank_change": 3,
-      "likes_rank_change": 100
+      "likes_rank_change": 105
     },
     "all_time": {
       "best_views_rank": 193,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 14,
+    "data_points": 15,
     "first_recorded": "2025-12-23T08:00:59.635142",
-    "last_recorded": "2026-01-07T08:00:59.041421",
+    "last_recorded": "2026-01-08T08:01:02.485852",
     "time_series": {
       "dates": [
         "2025-12-23T08:00:59.635142",
@@ -70,7 +70,8 @@
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
-        "2026-01-07T08:00:59.041421"
+        "2026-01-07T08:00:59.041421",
+        "2026-01-08T08:01:02.485852"
       ],
       "views_rank": [
         197,
@@ -86,6 +87,7 @@
         196,
         199,
         201,
+        200,
         200
       ],
       "runs_rank": [
@@ -100,6 +102,7 @@
         125,
         125,
         125,
+        127,
         127,
         127,
         127
@@ -118,7 +121,8 @@
         146,
         148,
         150,
-        142
+        142,
+        147
       ]
     }
   },
@@ -137,7 +141,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #200 out of 282 active agents."
+      "description": "This agent is currently ranked #200 out of 285 active agents."
     }
   ]
 }

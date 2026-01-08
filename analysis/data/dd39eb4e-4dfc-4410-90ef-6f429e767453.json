@@ -1,6 +1,6 @@
 {
   "agent_id": "dd39eb4e-4dfc-4410-90ef-6f429e767453",
-  "generated_at": "2026-01-07T00:01:11.066497",
+  "generated_at": "2026-01-08T00:01:25.345678",
   "basic_info": {
     "title": "Christmas Studio",
     "author": "DENNIS",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-04T09:23:54.267000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@DENNIS/christmas-studio",
-    "days_since_published": 33
+    "days_since_published": 34
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 197,
       "runs_rank": 152,
-      "likes_rank": 117,
-      "total_agents": 282,
-      "views_percentile": 30.1,
-      "runs_percentile": 46.1,
-      "likes_percentile": 58.5
+      "likes_rank": 121,
+      "total_agents": 285,
+      "views_percentile": 30.9,
+      "runs_percentile": 46.7,
+      "likes_percentile": 57.5
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 34,
+    "days_tracked": 35,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 29,
+    "days_tracked": 30,
     "last_7_days": {
-      "views_rank_change": 5,
-      "runs_rank_change": 4,
-      "likes_rank_change": 6
+      "views_rank_change": 1,
+      "runs_rank_change": 0,
+      "likes_rank_change": 5
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 33,
+    "data_points": 34,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2026-01-07T08:00:59.041421",
+    "last_recorded": "2026-01-08T08:01:02.485852",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -89,7 +89,8 @@
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
-        "2026-01-07T08:00:59.041421"
+        "2026-01-07T08:00:59.041421",
+        "2026-01-08T08:01:02.485852"
       ],
       "views_rank": [
         null,
@@ -124,6 +125,7 @@
         192,
         196,
         197,
+        197,
         197
       ],
       "runs_rank": [
@@ -157,6 +159,7 @@
         151,
         148,
         148,
+        152,
         152,
         152,
         152
@@ -194,7 +197,8 @@
         111,
         116,
         121,
-        117
+        117,
+        121
       ]
     }
   },
@@ -213,7 +217,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #197 out of 282 active agents."
+      "description": "This agent is currently ranked #197 out of 285 active agents."
     }
   ]
 }

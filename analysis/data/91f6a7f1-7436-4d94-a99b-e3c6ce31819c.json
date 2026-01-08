@@ -1,6 +1,6 @@
 {
   "agent_id": "91f6a7f1-7436-4d94-a99b-e3c6ce31819c",
-  "generated_at": "2026-01-07T00:01:11.926886",
+  "generated_at": "2026-01-08T00:01:26.260268",
   "basic_info": {
     "title": "Image To Vector",
     "author": "thurnz",
@@ -11,34 +11,34 @@
     "published_at": "2025-12-31T11:16:00.280000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@thurnz/vectory",
-    "days_since_published": 6
+    "days_since_published": 7
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 241,
-      "runs_rank": 270,
+      "runs_rank": 273,
       "likes_rank": 54,
-      "total_agents": 282,
-      "views_percentile": 14.5,
-      "runs_percentile": 4.3,
-      "likes_percentile": 80.9
+      "total_agents": 285,
+      "views_percentile": 15.4,
+      "runs_percentile": 4.2,
+      "likes_percentile": 81.1
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 2,
+    "days_tracked": 3,
     "price": 99.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 1,
+    "days_tracked": 2,
     "last_7_days": {
       "views_rank_change": -14,
-      "runs_rank_change": 0,
+      "runs_rank_change": 3,
       "likes_rank_change": 9
     },
     "last_30_days": {
       "views_rank_change": -14,
-      "runs_rank_change": 0,
+      "runs_rank_change": 3,
       "likes_rank_change": 9
     },
     "all_time": {
@@ -52,28 +52,32 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 3,
+    "data_points": 4,
     "first_recorded": "2026-01-05T08:01:10.022221",
-    "last_recorded": "2026-01-07T08:00:59.041421",
+    "last_recorded": "2026-01-08T08:01:02.485852",
     "time_series": {
       "dates": [
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
-        "2026-01-07T08:00:59.041421"
+        "2026-01-07T08:00:59.041421",
+        "2026-01-08T08:01:02.485852"
       ],
       "views_rank": [
         255,
         250,
+        241,
         241
       ],
       "runs_rank": [
         270,
         270,
-        270
+        270,
+        273
       ],
       "likes_rank": [
         45,
         44,
+        54,
         54
       ]
     }

@@ -1,0 +1,83 @@
+{
+  "agent_id": "cc89a662-d25e-4eb2-b40e-e3a27bb181b2",
+  "generated_at": "2026-01-08T00:01:26.275937",
+  "basic_info": {
+    "title": "Top-video YouTube Tracking",
+    "author": "Rhino",
+    "description": "Track trending YouTube videos to generate title and content ideas.",
+    "short_description": "Track trending YouTube videos for content ideas.",
+    "category": "AI Agent",
+    "is_active": true,
+    "published_at": "2026-01-07T00:33:13.319000",
+    "last_seen": null,
+    "profile_url": "https://mulerun.com/workspace/@Rhino/youtubetitle",
+    "days_since_published": 0
+  },
+  "ranking_metrics": {
+    "current_position": {
+      "views_rank": 276,
+      "runs_rank": 261,
+      "likes_rank": 23,
+      "total_agents": 285,
+      "views_percentile": 3.2,
+      "runs_percentile": 8.4,
+      "likes_percentile": 91.9
+    },
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 0,
+    "price": 8.0
+  },
+  "ranking_trends": {
+    "has_data": true,
+    "days_tracked": 0,
+    "last_7_days": {},
+    "last_30_days": {},
+    "all_time": {
+      "best_views_rank": 276,
+      "best_runs_rank": 261,
+      "best_likes_rank": 23,
+      "days_in_top_10": 0,
+      "first_rank": 276,
+      "current_rank": 276
+    }
+  },
+  "historical_rankings": {
+    "has_data": true,
+    "data_points": 1,
+    "first_recorded": "2026-01-08T08:01:02.485852",
+    "last_recorded": "2026-01-08T08:01:02.485852",
+    "time_series": {
+      "dates": [
+        "2026-01-08T08:01:02.485852"
+      ],
+      "views_rank": [
+        276
+      ],
+      "runs_rank": [
+        261
+      ],
+      "likes_rank": [
+        23
+      ]
+    }
+  },
+  "change_history": {
+    "total_changes": 1,
+    "changes": [
+      {
+        "date": "2026-01-08T00:01:03.923006",
+        "type": "new",
+        "description": "New agent published: Top-video YouTube Tracking",
+        "severity": "medium"
+      }
+    ]
+  },
+  "insights": [
+    {
+      "type": "positive",
+      "title": "High Performer",
+      "description": "Ranked #23 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+    }
+  ]
+}

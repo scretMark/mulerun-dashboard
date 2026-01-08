@@ -1,6 +1,6 @@
 {
   "agent_id": "c10ae341-6770-4502-825a-f04f2e82a977",
-  "generated_at": "2026-01-07T00:01:09.552410",
+  "generated_at": "2026-01-08T00:01:23.665454",
   "basic_info": {
     "title": "Ghibli Image Generator",
     "author": "Darren",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-22T21:33:31.876000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/ghibili-image-generator",
-    "days_since_published": 106
+    "days_since_published": 107
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 93,
       "runs_rank": 103,
-      "likes_rank": 156,
-      "total_agents": 282,
-      "views_percentile": 67.0,
-      "runs_percentile": 63.5,
-      "likes_percentile": 44.7
+      "likes_rank": 161,
+      "total_agents": 285,
+      "views_percentile": 67.4,
+      "runs_percentile": 63.9,
+      "likes_percentile": 43.5
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 102,
+    "days_tracked": 103,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 48,
+    "days_tracked": 49,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 1,
-      "likes_rank_change": 7
+      "likes_rank_change": 6
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 50,
+    "data_points": 51,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-07T08:00:59.041421",
+    "last_recorded": "2026-01-08T08:01:02.485852",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -106,7 +106,8 @@
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
-        "2026-01-07T08:00:59.041421"
+        "2026-01-07T08:00:59.041421",
+        "2026-01-08T08:01:02.485852"
       ],
       "views_rank": [
         null,
@@ -158,6 +159,7 @@
         92,
         92,
         92,
+        93,
         93
       ],
       "runs_rank": [
@@ -209,6 +211,7 @@
         102,
         102,
         102,
+        103,
         103,
         103
       ],
@@ -262,7 +265,8 @@
         149,
         155,
         155,
-        156
+        156,
+        161
       ]
     }
   },
@@ -274,7 +278,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #93 out of 282 active agents."
+      "description": "This agent is currently ranked #93 out of 285 active agents."
     }
   ]
 }

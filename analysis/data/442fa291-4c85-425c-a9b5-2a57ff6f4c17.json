@@ -1,6 +1,6 @@
 {
   "agent_id": "442fa291-4c85-425c-a9b5-2a57ff6f4c17",
-  "generated_at": "2026-01-07T00:01:09.375048",
+  "generated_at": "2026-01-08T00:01:23.433137",
   "basic_info": {
     "title": "Multilingual News Briefing",
     "author": "freeya619",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-20T10:16:06.483000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@freeya619/multilingual-news-briefing",
-    "days_since_published": 78
+    "days_since_published": 79
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 174,
-      "runs_rank": 223,
-      "likes_rank": 239,
-      "total_agents": 282,
-      "views_percentile": 38.3,
-      "runs_percentile": 20.9,
-      "likes_percentile": 15.2
+      "runs_rank": 224,
+      "likes_rank": 242,
+      "total_agents": 285,
+      "views_percentile": 38.9,
+      "runs_percentile": 21.4,
+      "likes_percentile": 15.1
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 79,
+    "days_tracked": 80,
     "price": 6.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 48,
+    "days_tracked": 49,
     "last_7_days": {
-      "views_rank_change": 4,
-      "runs_rank_change": 6,
-      "likes_rank_change": 3
+      "views_rank_change": 3,
+      "runs_rank_change": 2,
+      "likes_rank_change": 2
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 50,
+    "data_points": 51,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-07T08:00:59.041421",
+    "last_recorded": "2026-01-08T08:01:02.485852",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -106,7 +106,8 @@
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
-        "2026-01-07T08:00:59.041421"
+        "2026-01-07T08:00:59.041421",
+        "2026-01-08T08:01:02.485852"
       ],
       "views_rank": [
         null,
@@ -158,6 +159,7 @@
         170,
         171,
         172,
+        174,
         174
       ],
       "runs_rank": [
@@ -210,7 +212,8 @@
         217,
         222,
         223,
-        223
+        223,
+        224
       ],
       "likes_rank": [
         null,
@@ -262,7 +265,8 @@
         236,
         240,
         240,
-        239
+        239,
+        242
       ]
     }
   },
@@ -274,7 +278,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #174 out of 282 active agents."
+      "description": "This agent is currently ranked #174 out of 285 active agents."
     }
   ]
 }

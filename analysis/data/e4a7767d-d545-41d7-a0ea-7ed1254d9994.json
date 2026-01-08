@@ -1,6 +1,6 @@
 {
   "agent_id": "e4a7767d-d545-41d7-a0ea-7ed1254d9994",
-  "generated_at": "2026-01-07T00:01:10.947694",
+  "generated_at": "2026-01-08T00:01:25.215371",
   "basic_info": {
     "title": "Nano Sketch Design",
     "author": "Aronlong",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-20T10:00:25.694000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aronlong/nano-sketch-design",
-    "days_since_published": 47
+    "days_since_published": 48
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 220,
-      "runs_rank": 167,
-      "likes_rank": 20,
-      "total_agents": 282,
-      "views_percentile": 22.0,
-      "runs_percentile": 40.8,
-      "likes_percentile": 92.9
+      "runs_rank": 168,
+      "likes_rank": 17,
+      "total_agents": 285,
+      "views_percentile": 22.8,
+      "runs_percentile": 41.1,
+      "likes_percentile": 94.0
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 48,
+    "days_tracked": 49,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 44,
+    "days_tracked": 45,
     "last_7_days": {
-      "views_rank_change": -1,
-      "runs_rank_change": 0,
-      "likes_rank_change": 0
+      "views_rank_change": -4,
+      "runs_rank_change": -4,
+      "likes_rank_change": 4
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 47,
+    "data_points": 48,
     "first_recorded": "2025-11-23T13:27:48.290198",
-    "last_recorded": "2026-01-07T08:00:59.041421",
+    "last_recorded": "2026-01-08T08:01:02.485852",
     "time_series": {
       "dates": [
         "2025-11-23T13:27:48.290198",
@@ -103,7 +103,8 @@
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
-        "2026-01-07T08:00:59.041421"
+        "2026-01-07T08:00:59.041421",
+        "2026-01-08T08:01:02.485852"
       ],
       "views_rank": [
         null,
@@ -152,6 +153,7 @@
         221,
         224,
         223,
+        220,
         220
       ],
       "runs_rank": [
@@ -201,7 +203,8 @@
         167,
         172,
         172,
-        167
+        167,
+        168
       ],
       "likes_rank": [
         null,
@@ -250,7 +253,8 @@
         23,
         13,
         15,
-        20
+        20,
+        17
       ]
     }
   },
@@ -269,7 +273,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #20 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #17 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

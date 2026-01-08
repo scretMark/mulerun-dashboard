@@ -1,6 +1,6 @@
 {
   "agent_id": "9f2af205-abf8-435e-a29f-0cfa00daa24a",
-  "generated_at": "2026-01-07T00:01:11.707750",
+  "generated_at": "2026-01-08T00:01:26.034939",
   "basic_info": {
     "title": "PDF Mind",
     "author": "Aichimp",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-24T22:27:24.012000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aichimp/pdf",
-    "days_since_published": 13
+    "days_since_published": 14
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 194,
       "runs_rank": 158,
-      "likes_rank": 85,
-      "total_agents": 282,
-      "views_percentile": 31.2,
-      "runs_percentile": 44.0,
-      "likes_percentile": 69.9
+      "likes_rank": 90,
+      "total_agents": 285,
+      "views_percentile": 31.9,
+      "runs_percentile": 44.6,
+      "likes_percentile": 68.4
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 10,
+    "days_tracked": 11,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 12,
+    "days_tracked": 13,
     "last_7_days": {
-      "views_rank_change": -4,
-      "runs_rank_change": -8,
-      "likes_rank_change": 4
+      "views_rank_change": -1,
+      "runs_rank_change": -9,
+      "likes_rank_change": 7
     },
     "last_30_days": {
       "views_rank_change": -19,
       "runs_rank_change": -17,
-      "likes_rank_change": 34
+      "likes_rank_change": 39
     },
     "all_time": {
       "best_views_rank": 194,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 11,
+    "data_points": 12,
     "first_recorded": "2025-12-26T08:00:54.905148",
-    "last_recorded": "2026-01-07T08:00:59.041421",
+    "last_recorded": "2026-01-08T08:01:02.485852",
     "time_series": {
       "dates": [
         "2025-12-26T08:00:54.905148",
@@ -67,7 +67,8 @@
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
-        "2026-01-07T08:00:59.041421"
+        "2026-01-07T08:00:59.041421",
+        "2026-01-08T08:01:02.485852"
       ],
       "views_rank": [
         213,
@@ -80,6 +81,7 @@
         198,
         195,
         195,
+        194,
         194
       ],
       "runs_rank": [
@@ -93,6 +95,7 @@
         166,
         167,
         163,
+        158,
         158
       ],
       "likes_rank": [
@@ -106,7 +109,8 @@
         81,
         83,
         83,
-        85
+        85,
+        90
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "9e25dbaa-2289-4ced-bafe-c3d169c38d12",
-  "generated_at": "2026-01-07T00:01:11.034706",
+  "generated_at": "2026-01-08T00:01:25.307808",
   "basic_info": {
     "title": "Object Letter Crafter",
     "author": "LinkAIBrain",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-02T14:51:54.036000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/object-letter-crafter",
-    "days_since_published": 35
+    "days_since_published": 36
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 193,
       "runs_rank": 111,
-      "likes_rank": 229,
-      "total_agents": 282,
-      "views_percentile": 31.6,
-      "runs_percentile": 60.6,
-      "likes_percentile": 18.8
+      "likes_rank": 232,
+      "total_agents": 285,
+      "views_percentile": 32.3,
+      "runs_percentile": 61.1,
+      "likes_percentile": 18.6
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 37,
+    "days_tracked": 38,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 29,
+    "days_tracked": 30,
     "last_7_days": {
       "views_rank_change": 2,
-      "runs_rank_change": 2,
-      "likes_rank_change": 7
+      "runs_rank_change": 1,
+      "likes_rank_change": 3
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 33,
+    "data_points": 34,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2026-01-07T08:00:59.041421",
+    "last_recorded": "2026-01-08T08:01:02.485852",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -89,7 +89,8 @@
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
-        "2026-01-07T08:00:59.041421"
+        "2026-01-07T08:00:59.041421",
+        "2026-01-08T08:01:02.485852"
       ],
       "views_rank": [
         null,
@@ -124,6 +125,7 @@
         191,
         191,
         191,
+        193,
         193
       ],
       "runs_rank": [
@@ -159,6 +161,7 @@
         109,
         110,
         110,
+        111,
         111
       ],
       "likes_rank": [
@@ -194,7 +197,8 @@
         222,
         229,
         229,
-        229
+        229,
+        232
       ]
     }
   },
@@ -213,7 +217,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #193 out of 282 active agents."
+      "description": "This agent is currently ranked #193 out of 285 active agents."
     }
   ]
 }

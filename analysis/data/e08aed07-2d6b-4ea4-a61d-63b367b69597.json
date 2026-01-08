@@ -1,6 +1,6 @@
 {
   "agent_id": "e08aed07-2d6b-4ea4-a61d-63b367b69597",
-  "generated_at": "2026-01-07T00:01:10.934014",
+  "generated_at": "2026-01-08T00:01:25.201808",
   "basic_info": {
     "title": "Winter Cinema",
     "author": "luckyy",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-20T15:43:31.761000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@luckyy/winter-cinema",
-    "days_since_published": 47
+    "days_since_published": 48
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 222,
       "runs_rank": 162,
-      "likes_rank": 161,
-      "total_agents": 282,
-      "views_percentile": 21.3,
-      "runs_percentile": 42.6,
-      "likes_percentile": 42.9
+      "likes_rank": 170,
+      "total_agents": 285,
+      "views_percentile": 22.1,
+      "runs_percentile": 43.2,
+      "likes_percentile": 40.4
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 48,
+    "days_tracked": 49,
     "price": 23.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 44,
+    "days_tracked": 45,
     "last_7_days": {
-      "views_rank_change": 3,
-      "runs_rank_change": 6,
-      "likes_rank_change": 5
+      "views_rank_change": 2,
+      "runs_rank_change": 3,
+      "likes_rank_change": 6
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 47,
+    "data_points": 48,
     "first_recorded": "2025-11-23T13:27:48.290198",
-    "last_recorded": "2026-01-07T08:00:59.041421",
+    "last_recorded": "2026-01-08T08:01:02.485852",
     "time_series": {
       "dates": [
         "2025-11-23T13:27:48.290198",
@@ -103,7 +103,8 @@
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
-        "2026-01-07T08:00:59.041421"
+        "2026-01-07T08:00:59.041421",
+        "2026-01-08T08:01:02.485852"
       ],
       "views_rank": [
         null,
@@ -152,6 +153,7 @@
         219,
         220,
         221,
+        222,
         222
       ],
       "runs_rank": [
@@ -201,6 +203,7 @@
         156,
         159,
         161,
+        162,
         162
       ],
       "likes_rank": [
@@ -250,7 +253,8 @@
         156,
         164,
         160,
-        161
+        161,
+        170
       ]
     }
   },
@@ -269,7 +273,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #222 out of 282 active agents."
+      "description": "This agent is currently ranked #222 out of 285 active agents."
     }
   ]
 }

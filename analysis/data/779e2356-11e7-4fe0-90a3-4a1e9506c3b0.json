@@ -1,6 +1,6 @@
 {
   "agent_id": "779e2356-11e7-4fe0-90a3-4a1e9506c3b0",
-  "generated_at": "2026-01-07T00:01:08.609767",
+  "generated_at": "2026-01-08T00:01:22.453322",
   "basic_info": {
     "title": "Smart Q",
     "author": "QuickBI",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-04T15:33:59.812000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@QuickBI/smart-q",
-    "days_since_published": 63
+    "days_since_published": 64
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 23,
       "runs_rank": 5,
-      "likes_rank": 35,
-      "total_agents": 282,
-      "views_percentile": 91.8,
+      "likes_rank": 72,
+      "total_agents": 285,
+      "views_percentile": 91.9,
       "runs_percentile": 98.2,
-      "likes_percentile": 87.6
+      "likes_percentile": 74.7
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 57,
+    "days_tracked": 58,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 49,
+    "days_tracked": 50,
     "last_7_days": {
       "views_rank_change": -1,
       "runs_rank_change": 0,
-      "likes_rank_change": 0
+      "likes_rank_change": 37
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 51,
+    "data_points": 52,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-07T08:00:59.041421",
+    "last_recorded": "2026-01-08T08:01:02.485852",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -107,7 +107,8 @@
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
-        "2026-01-07T08:00:59.041421"
+        "2026-01-07T08:00:59.041421",
+        "2026-01-08T08:01:02.485852"
       ],
       "views_rank": [
         null,
@@ -160,6 +161,7 @@
         24,
         24,
         24,
+        23,
         23
       ],
       "runs_rank": [
@@ -209,6 +211,7 @@
         5,
         4,
         4,
+        5,
         5,
         5,
         5,
@@ -266,7 +269,8 @@
         35,
         35,
         25,
-        35
+        35,
+        72
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "20831028-5f6d-4be4-b4a7-6693e6f767b9",
-  "generated_at": "2026-01-07T00:01:11.548008",
+  "generated_at": "2026-01-08T00:01:25.801012",
   "basic_info": {
     "title": "Background Remover Lite",
     "author": "nzwhouxvbbb094f",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-09T17:26:42.045000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@nzwhouxvbbb094f/background-remover-lite",
-    "days_since_published": 28
+    "days_since_published": 29
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 259,
-      "runs_rank": 235,
-      "likes_rank": 128,
-      "total_agents": 282,
-      "views_percentile": 8.2,
-      "runs_percentile": 16.7,
-      "likes_percentile": 54.6
+      "views_rank": 261,
+      "runs_rank": 236,
+      "likes_rank": 133,
+      "total_agents": 285,
+      "views_percentile": 8.4,
+      "runs_percentile": 17.2,
+      "likes_percentile": 53.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 17,
+    "days_tracked": 18,
     "price": 1.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 17,
+    "days_tracked": 19,
     "last_7_days": {
-      "views_rank_change": 2,
-      "runs_rank_change": 2,
-      "likes_rank_change": 8
+      "views_rank_change": 1,
+      "runs_rank_change": -2,
+      "likes_rank_change": 6
     },
     "last_30_days": {
-      "views_rank_change": 21,
-      "runs_rank_change": 14,
-      "likes_rank_change": 107
+      "views_rank_change": 23,
+      "runs_rank_change": 15,
+      "likes_rank_change": 112
     },
     "all_time": {
       "best_views_rank": 238,
@@ -47,14 +47,14 @@
       "best_likes_rank": 21,
       "days_in_top_10": 0,
       "first_rank": 238,
-      "current_rank": 259
+      "current_rank": 261
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 17,
+    "data_points": 18,
     "first_recorded": "2025-12-20T08:01:00.398750",
-    "last_recorded": "2026-01-07T08:00:59.041421",
+    "last_recorded": "2026-01-08T08:01:02.485852",
     "time_series": {
       "dates": [
         "2025-12-20T08:01:00.398750",
@@ -73,7 +73,8 @@
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
-        "2026-01-07T08:00:59.041421"
+        "2026-01-07T08:00:59.041421",
+        "2026-01-08T08:01:02.485852"
       ],
       "views_rank": [
         238,
@@ -92,7 +93,8 @@
         257,
         260,
         260,
-        259
+        259,
+        261
       ],
       "runs_rank": [
         221,
@@ -111,7 +113,8 @@
         233,
         238,
         239,
-        235
+        235,
+        236
       ],
       "likes_rank": [
         21,
@@ -130,7 +133,8 @@
         120,
         127,
         127,
-        128
+        128,
+        133
       ]
     }
   },
@@ -149,7 +153,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 21 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 23 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

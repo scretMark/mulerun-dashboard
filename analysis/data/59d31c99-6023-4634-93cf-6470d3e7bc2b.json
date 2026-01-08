@@ -1,6 +1,6 @@
 {
   "agent_id": "59d31c99-6023-4634-93cf-6470d3e7bc2b",
-  "generated_at": "2026-01-07T00:01:11.441765",
+  "generated_at": "2026-01-08T00:01:25.716818",
   "basic_info": {
     "title": "image matting",
     "author": "jumdata",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-12T09:37:01.780000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@jumdata/image-matting",
-    "days_since_published": 25
+    "days_since_published": 26
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 208,
       "runs_rank": 131,
-      "likes_rank": 109,
-      "total_agents": 282,
-      "views_percentile": 26.2,
-      "runs_percentile": 53.5,
-      "likes_percentile": 61.3
+      "likes_rank": 114,
+      "total_agents": 285,
+      "views_percentile": 27.0,
+      "runs_percentile": 54.0,
+      "likes_percentile": 60.0
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 23,
+    "days_tracked": 24,
     "price": 20.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 21,
+    "days_tracked": 22,
     "last_7_days": {
-      "views_rank_change": 5,
-      "runs_rank_change": -15,
-      "likes_rank_change": 7
+      "views_rank_change": 2,
+      "runs_rank_change": -6,
+      "likes_rank_change": 6
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 24,
+    "data_points": 25,
     "first_recorded": "2025-12-16T19:09:41.063612",
-    "last_recorded": "2026-01-07T08:00:59.041421",
+    "last_recorded": "2026-01-08T08:01:02.485852",
     "time_series": {
       "dates": [
         "2025-12-16T19:09:41.063612",
@@ -80,7 +80,8 @@
         "2025-12-31T18:26:28.928134",
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
-        "2026-01-07T08:00:59.041421"
+        "2026-01-07T08:00:59.041421",
+        "2026-01-08T08:01:02.485852"
       ],
       "views_rank": [
         null,
@@ -105,6 +106,7 @@
         203,
         203,
         206,
+        208,
         208,
         208
       ],
@@ -132,6 +134,7 @@
         146,
         137,
         131,
+        131,
         131
       ],
       "likes_rank": [
@@ -158,7 +161,8 @@
         102,
         108,
         108,
-        109
+        109,
+        114
       ]
     }
   },
@@ -177,7 +181,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #208 out of 282 active agents."
+      "description": "This agent is currently ranked #208 out of 285 active agents."
     }
   ]
 }
