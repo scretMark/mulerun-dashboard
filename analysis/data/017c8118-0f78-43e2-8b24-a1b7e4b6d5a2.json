@@ -1,6 +1,6 @@
 {
   "agent_id": "017c8118-0f78-43e2-8b24-a1b7e4b6d5a2",
-  "generated_at": "2026-01-08T00:01:22.666002",
+  "generated_at": "2026-01-10T00:01:20.442777",
   "basic_info": {
     "title": "veeverse-tarot",
     "author": "veeverseai",
@@ -15,26 +15,26 @@
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 116,
+      "views_rank": 117,
       "runs_rank": 71,
-      "likes_rank": 162,
-      "total_agents": 285,
-      "views_percentile": 59.3,
-      "runs_percentile": 75.1,
-      "likes_percentile": 43.2
+      "likes_rank": 205,
+      "total_agents": 287,
+      "views_percentile": 59.2,
+      "runs_percentile": 75.3,
+      "likes_percentile": 28.6
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 56,
+    "days_tracked": 57,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 50,
+    "days_tracked": 52,
     "last_7_days": {
-      "views_rank_change": 1,
+      "views_rank_change": 2,
       "runs_rank_change": 1,
-      "likes_rank_change": 4
+      "likes_rank_change": 47
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 33,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 116
+      "current_rank": 117
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 49,
+    "data_points": 50,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-08T08:01:02.485852",
+    "last_recorded": "2026-01-10T08:01:02.077885",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -105,7 +105,8 @@
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
-        "2026-01-08T08:01:02.485852"
+        "2026-01-08T08:01:02.485852",
+        "2026-01-10T08:01:02.077885"
       ],
       "views_rank": [
         null,
@@ -156,7 +157,8 @@
         115,
         115,
         116,
-        116
+        116,
+        117
       ],
       "runs_rank": [
         null,
@@ -207,6 +209,7 @@
         70,
         70,
         70,
+        71,
         71
       ],
       "likes_rank": [
@@ -258,7 +261,8 @@
         158,
         157,
         157,
-        162
+        162,
+        205
       ]
     }
   },
@@ -301,7 +305,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #116 out of 285 active agents."
+      "description": "This agent is currently ranked #117 out of 287 active agents."
     }
   ]
 }

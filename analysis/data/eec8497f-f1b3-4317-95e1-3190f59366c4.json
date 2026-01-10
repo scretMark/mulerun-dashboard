@@ -1,6 +1,6 @@
 {
   "agent_id": "eec8497f-f1b3-4317-95e1-3190f59366c4",
-  "generated_at": "2026-01-08T00:01:24.067805",
+  "generated_at": "2026-01-10T00:01:21.897218",
   "basic_info": {
     "title": "AskHeurist",
     "author": "AskHeurist",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-14T10:14:58.206000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AskHeurist/askheurist",
-    "days_since_published": 85
+    "days_since_published": 87
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 181,
-      "runs_rank": 225,
-      "likes_rank": 241,
-      "total_agents": 285,
-      "views_percentile": 36.5,
-      "runs_percentile": 21.1,
-      "likes_percentile": 15.4
+      "views_rank": 182,
+      "runs_rank": 228,
+      "likes_rank": 265,
+      "total_agents": 287,
+      "views_percentile": 36.6,
+      "runs_percentile": 20.6,
+      "likes_percentile": 7.7
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 83,
+    "days_tracked": 84,
     "price": 150.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 49,
+    "days_tracked": 51,
     "last_7_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": 2,
-      "likes_rank_change": 6
+      "views_rank_change": 2,
+      "runs_rank_change": 5,
+      "likes_rank_change": 30
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 82,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 181
+      "current_rank": 182
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 51,
+    "data_points": 52,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-08T08:01:02.485852",
+    "last_recorded": "2026-01-10T08:01:02.077885",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -107,7 +107,8 @@
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
-        "2026-01-08T08:01:02.485852"
+        "2026-01-08T08:01:02.485852",
+        "2026-01-10T08:01:02.077885"
       ],
       "views_rank": [
         null,
@@ -160,7 +161,8 @@
         180,
         179,
         180,
-        181
+        181,
+        182
       ],
       "runs_rank": [
         null,
@@ -213,7 +215,8 @@
         223,
         224,
         224,
-        225
+        225,
+        228
       ],
       "likes_rank": [
         null,
@@ -266,7 +269,8 @@
         235,
         238,
         238,
-        241
+        241,
+        265
       ]
     }
   },
@@ -278,7 +282,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #181 out of 285 active agents."
+      "description": "This agent is currently ranked #182 out of 287 active agents."
     }
   ]
 }

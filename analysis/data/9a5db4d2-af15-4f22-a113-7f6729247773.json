@@ -1,6 +1,6 @@
 {
   "agent_id": "9a5db4d2-af15-4f22-a113-7f6729247773",
-  "generated_at": "2026-01-08T00:01:25.936969",
+  "generated_at": "2026-01-10T00:01:23.373726",
   "basic_info": {
     "title": "Hand-Drawn Santa Me",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-22T10:20:25.768000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/hand-drawn-santa-me",
-    "days_since_published": 16
+    "days_since_published": 18
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 278,
-      "runs_rank": 266,
-      "likes_rank": 142,
-      "total_agents": 285,
-      "views_percentile": 2.5,
-      "runs_percentile": 6.7,
-      "likes_percentile": 50.2
+      "views_rank": 279,
+      "runs_rank": 267,
+      "likes_rank": 185,
+      "total_agents": 287,
+      "views_percentile": 2.8,
+      "runs_percentile": 7.0,
+      "likes_percentile": 35.5
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 14,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 15,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 16,
+    "days_tracked": 18,
     "last_7_days": {
-      "views_rank_change": 3,
-      "runs_rank_change": 3,
-      "likes_rank_change": 7
+      "views_rank_change": 4,
+      "runs_rank_change": 4,
+      "likes_rank_change": 50
     },
     "last_30_days": {
       "views_rank_change": null,
-      "runs_rank_change": 21,
-      "likes_rank_change": 86
+      "runs_rank_change": 22,
+      "likes_rank_change": 129
     },
     "all_time": {
       "best_views_rank": 270,
@@ -47,14 +47,14 @@
       "best_likes_rank": 56,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 278
+      "current_rank": 279
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 15,
+    "data_points": 16,
     "first_recorded": "2025-12-23T08:00:59.635142",
-    "last_recorded": "2026-01-08T08:01:02.485852",
+    "last_recorded": "2026-01-10T08:01:02.077885",
     "time_series": {
       "dates": [
         "2025-12-23T08:00:59.635142",
@@ -71,7 +71,8 @@
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
-        "2026-01-08T08:01:02.485852"
+        "2026-01-08T08:01:02.485852",
+        "2026-01-10T08:01:02.077885"
       ],
       "views_rank": [
         null,
@@ -88,7 +89,8 @@
         275,
         275,
         275,
-        278
+        278,
+        279
       ],
       "runs_rank": [
         245,
@@ -105,7 +107,8 @@
         263,
         263,
         264,
-        266
+        266,
+        267
       ],
       "likes_rank": [
         56,
@@ -122,7 +125,8 @@
         135,
         135,
         137,
-        142
+        142,
+        185
       ]
     }
   },
@@ -141,7 +145,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #278 out of 285 active agents."
+      "description": "This agent is currently ranked #279 out of 287 active agents."
     }
   ]
 }

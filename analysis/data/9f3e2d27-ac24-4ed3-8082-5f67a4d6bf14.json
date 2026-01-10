@@ -1,6 +1,6 @@
 {
   "agent_id": "9f3e2d27-ac24-4ed3-8082-5f67a4d6bf14",
-  "generated_at": "2026-01-08T00:01:25.481894",
+  "generated_at": "2026-01-10T00:01:22.985290",
   "basic_info": {
     "title": "Fireworks Show",
     "author": "LinkAIBrain",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-03T11:04:04.300000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/fireworks-show",
-    "days_since_published": 35
+    "days_since_published": 37
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 216,
-      "runs_rank": 223,
-      "likes_rank": 89,
-      "total_agents": 285,
-      "views_percentile": 24.2,
-      "runs_percentile": 21.8,
-      "likes_percentile": 68.8
+      "views_rank": 215,
+      "runs_rank": 226,
+      "likes_rank": 37,
+      "total_agents": 287,
+      "views_percentile": 25.1,
+      "runs_percentile": 21.3,
+      "likes_percentile": 87.1
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 31,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 32,
     "price": 500.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 29,
+    "days_tracked": 31,
     "last_7_days": {
-      "views_rank_change": -3,
-      "runs_rank_change": 2,
-      "likes_rank_change": 8
+      "views_rank_change": -4,
+      "runs_rank_change": 5,
+      "likes_rank_change": -44
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -42,19 +42,19 @@
       "likes_rank_change": null
     },
     "all_time": {
-      "best_views_rank": 216,
+      "best_views_rank": 215,
       "best_runs_rank": 221,
       "best_likes_rank": 2,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 216
+      "current_rank": 215
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 31,
+    "data_points": 32,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2026-01-08T08:01:02.485852",
+    "last_recorded": "2026-01-10T08:01:02.077885",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
@@ -87,7 +87,8 @@
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
-        "2026-01-08T08:01:02.485852"
+        "2026-01-08T08:01:02.485852",
+        "2026-01-10T08:01:02.077885"
       ],
       "views_rank": [
         null,
@@ -120,7 +121,8 @@
         219,
         219,
         216,
-        216
+        216,
+        215
       ],
       "runs_rank": [
         null,
@@ -153,7 +155,8 @@
         221,
         222,
         222,
-        223
+        223,
+        226
       ],
       "likes_rank": [
         null,
@@ -186,7 +189,8 @@
         81,
         84,
         83,
-        89
+        89,
+        37
       ]
     }
   },
@@ -203,9 +207,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #216 out of 285 active agents."
+      "type": "positive",
+      "title": "High Performer",
+      "description": "Ranked #37 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

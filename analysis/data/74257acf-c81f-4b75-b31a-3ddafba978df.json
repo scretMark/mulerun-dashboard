@@ -1,6 +1,6 @@
 {
   "agent_id": "74257acf-c81f-4b75-b31a-3ddafba978df",
-  "generated_at": "2026-01-08T00:01:25.425312",
+  "generated_at": "2026-01-10T00:01:22.913231",
   "basic_info": {
     "title": "Image to 3D Figure",
     "author": "nzwhouxvbbb094f",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-05T20:02:40.928000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@nzwhouxvbbb094f/image-to-3d-figure",
-    "days_since_published": 33
+    "days_since_published": 35
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 218,
       "runs_rank": 185,
-      "likes_rank": 140,
-      "total_agents": 285,
-      "views_percentile": 23.5,
-      "runs_percentile": 35.1,
-      "likes_percentile": 50.9
+      "likes_rank": 184,
+      "total_agents": 287,
+      "views_percentile": 24.0,
+      "runs_percentile": 35.5,
+      "likes_percentile": 35.9
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 32,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 33,
     "price": 6.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 30,
+    "days_tracked": 32,
     "last_7_days": {
       "views_rank_change": 2,
       "runs_rank_change": 2,
-      "likes_rank_change": 6
+      "likes_rank_change": 50
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 33,
+    "data_points": 34,
     "first_recorded": "2025-12-09T08:00:25.308684",
-    "last_recorded": "2026-01-08T08:01:02.485852",
+    "last_recorded": "2026-01-10T08:01:02.077885",
     "time_series": {
       "dates": [
         "2025-12-09T08:00:25.308684",
@@ -89,7 +89,8 @@
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
-        "2026-01-08T08:01:02.485852"
+        "2026-01-08T08:01:02.485852",
+        "2026-01-10T08:01:02.077885"
       ],
       "views_rank": [
         null,
@@ -124,6 +125,7 @@
         216,
         216,
         217,
+        218,
         218
       ],
       "runs_rank": [
@@ -159,6 +161,7 @@
         183,
         183,
         184,
+        185,
         185
       ],
       "likes_rank": [
@@ -194,7 +197,8 @@
         134,
         134,
         136,
-        140
+        140,
+        184
       ]
     }
   },
@@ -213,7 +217,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #218 out of 285 active agents."
+      "description": "This agent is currently ranked #218 out of 287 active agents."
     }
   ]
 }

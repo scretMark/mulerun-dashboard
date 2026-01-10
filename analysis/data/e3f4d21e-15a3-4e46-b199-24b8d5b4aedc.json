@@ -1,6 +1,6 @@
 {
   "agent_id": "e3f4d21e-15a3-4e46-b199-24b8d5b4aedc",
-  "generated_at": "2026-01-08T00:01:23.569579",
+  "generated_at": "2026-01-10T00:01:21.372095",
   "basic_info": {
     "title": "CookChina AI",
     "author": "Chelestebbb0829",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-17T15:00:54.510000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Chelestebbb0829/cookchina-ai",
-    "days_since_published": 82
+    "days_since_published": 84
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 17,
       "runs_rank": 40,
-      "likes_rank": 141,
-      "total_agents": 285,
-      "views_percentile": 94.0,
-      "runs_percentile": 86.0,
-      "likes_percentile": 50.5
+      "likes_rank": 179,
+      "total_agents": 287,
+      "views_percentile": 94.1,
+      "runs_percentile": 86.1,
+      "likes_percentile": 37.6
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 78,
+    "days_tracked": 79,
     "price": 2.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 49,
+    "days_tracked": 51,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": 11
+      "likes_rank_change": 49
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 51,
+    "data_points": 52,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-08T08:01:02.485852",
+    "last_recorded": "2026-01-10T08:01:02.077885",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -107,7 +107,8 @@
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
-        "2026-01-08T08:01:02.485852"
+        "2026-01-08T08:01:02.485852",
+        "2026-01-10T08:01:02.077885"
       ],
       "views_rank": [
         null,
@@ -150,6 +151,7 @@
         16,
         16,
         16,
+        17,
         17,
         17,
         17,
@@ -213,6 +215,7 @@
         40,
         40,
         40,
+        40,
         40
       ],
       "likes_rank": [
@@ -266,7 +269,8 @@
         130,
         130,
         131,
-        141
+        141,
+        179
       ]
     }
   },

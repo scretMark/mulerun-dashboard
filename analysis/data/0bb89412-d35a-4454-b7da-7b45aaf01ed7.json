@@ -1,40 +1,40 @@
 {
   "agent_id": "0bb89412-d35a-4454-b7da-7b45aaf01ed7",
-  "generated_at": "2026-01-08T00:01:23.869875",
+  "generated_at": "2026-01-10T00:01:21.702189",
   "basic_info": {
     "title": "One-Click Series",
     "author": "williamyang5050",
-    "description": "Transforms a single character image into a set of four cohesive multi-camera angles.",
+    "description": "Generate four consistent cinematic angles from one character photo.",
     "short_description": "Generates four consistent cinematic shots from one character image.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-10-11T01:04:55.128000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@williamyang5050/one-click-series",
-    "days_since_published": 88
+    "days_since_published": 90
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 78,
-      "runs_rank": 85,
-      "likes_rank": 154,
-      "total_agents": 285,
-      "views_percentile": 72.6,
-      "runs_percentile": 70.2,
-      "likes_percentile": 46.0
+      "views_rank": 79,
+      "runs_rank": 83,
+      "likes_rank": 192,
+      "total_agents": 287,
+      "views_percentile": 72.5,
+      "runs_percentile": 71.1,
+      "likes_percentile": 33.1
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 71,
+    "days_tracked": 72,
     "price": 70.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 49,
+    "days_tracked": 51,
     "last_7_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": 0,
-      "likes_rank_change": 9
+      "views_rank_change": 1,
+      "runs_rank_change": -2,
+      "likes_rank_change": 47
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 66,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 78
+      "current_rank": 79
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 51,
+    "data_points": 52,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-08T08:01:02.485852",
+    "last_recorded": "2026-01-10T08:01:02.077885",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -107,7 +107,8 @@
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
-        "2026-01-08T08:01:02.485852"
+        "2026-01-08T08:01:02.485852",
+        "2026-01-10T08:01:02.077885"
       ],
       "views_rank": [
         null,
@@ -160,7 +161,8 @@
         78,
         78,
         78,
-        78
+        78,
+        79
       ],
       "runs_rank": [
         null,
@@ -213,7 +215,8 @@
         85,
         85,
         85,
-        85
+        85,
+        83
       ],
       "likes_rank": [
         null,
@@ -266,7 +269,8 @@
         145,
         146,
         146,
-        154
+        154,
+        192
       ]
     }
   },
@@ -278,7 +282,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #78 out of 285 active agents."
+      "description": "This agent is currently ranked #79 out of 287 active agents."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "50779f19-e630-4894-8db8-1b1839419eb6",
-  "generated_at": "2026-01-08T00:01:23.085419",
+  "generated_at": "2026-01-10T00:01:20.849584",
   "basic_info": {
     "title": "Nick Wilde Cosplay Filter",
     "author": "Lucas",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-05T20:03:18.006000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/nick-wilde-cosplay-filter",
-    "days_since_published": 63
+    "days_since_published": 65
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 100,
-      "runs_rank": 197,
-      "likes_rank": 230,
-      "total_agents": 285,
-      "views_percentile": 64.9,
-      "runs_percentile": 30.9,
-      "likes_percentile": 19.3
+      "views_rank": 101,
+      "runs_rank": 199,
+      "likes_rank": 121,
+      "total_agents": 287,
+      "views_percentile": 64.8,
+      "runs_percentile": 30.7,
+      "likes_percentile": 57.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 63,
+    "days_tracked": 64,
     "price": 49.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 49,
+    "days_tracked": 51,
     "last_7_days": {
-      "views_rank_change": 2,
-      "runs_rank_change": 1,
-      "likes_rank_change": 3
+      "views_rank_change": 3,
+      "runs_rank_change": 3,
+      "likes_rank_change": -106
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -44,17 +44,17 @@
     "all_time": {
       "best_views_rank": 96,
       "best_runs_rank": 176,
-      "best_likes_rank": 204,
+      "best_likes_rank": 121,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 100
+      "current_rank": 101
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 51,
+    "data_points": 52,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-08T08:01:02.485852",
+    "last_recorded": "2026-01-10T08:01:02.077885",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -107,7 +107,8 @@
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
-        "2026-01-08T08:01:02.485852"
+        "2026-01-08T08:01:02.485852",
+        "2026-01-10T08:01:02.077885"
       ],
       "views_rank": [
         null,
@@ -160,7 +161,8 @@
         98,
         98,
         99,
-        100
+        100,
+        101
       ],
       "runs_rank": [
         null,
@@ -213,7 +215,8 @@
         196,
         196,
         196,
-        197
+        197,
+        199
       ],
       "likes_rank": [
         null,
@@ -266,7 +269,8 @@
         227,
         227,
         226,
-        230
+        230,
+        121
       ]
     }
   },
@@ -278,7 +282,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #100 out of 285 active agents."
+      "description": "This agent is currently ranked #101 out of 287 active agents."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "4bf111d7-9e01-421e-9557-5da3ebb1c935",
-  "generated_at": "2026-01-08T00:01:25.175334",
+  "generated_at": "2026-01-10T00:01:22.706300",
   "basic_info": {
     "title": " Hand-Drawn Doodle Ads Generator",
     "author": "Aronlong",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-16T10:03:28.847000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aronlong/hand-drawn-doodle-ads-generator",
-    "days_since_published": 52
+    "days_since_published": 54
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 209,
-      "runs_rank": 132,
-      "likes_rank": 12,
-      "total_agents": 285,
-      "views_percentile": 26.7,
-      "runs_percentile": 53.7,
-      "likes_percentile": 95.8
+      "runs_rank": 135,
+      "likes_rank": 8,
+      "total_agents": 287,
+      "views_percentile": 27.2,
+      "runs_percentile": 53.0,
+      "likes_percentile": 97.2
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 50,
+    "days_tracked": 51,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 47,
+    "days_tracked": 49,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 1,
-      "likes_rank_change": -9
+      "runs_rank_change": 4,
+      "likes_rank_change": -13
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -44,7 +44,7 @@
     "all_time": {
       "best_views_rank": 198,
       "best_runs_rank": 123,
-      "best_likes_rank": 11,
+      "best_likes_rank": 8,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 209
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 49,
+    "data_points": 50,
     "first_recorded": "2025-11-21T14:09:56.591648",
-    "last_recorded": "2026-01-08T08:01:02.485852",
+    "last_recorded": "2026-01-10T08:01:02.077885",
     "time_series": {
       "dates": [
         "2025-11-21T14:09:56.591648",
@@ -105,7 +105,8 @@
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
-        "2026-01-08T08:01:02.485852"
+        "2026-01-08T08:01:02.485852",
+        "2026-01-10T08:01:02.077885"
       ],
       "views_rank": [
         null,
@@ -154,6 +155,7 @@
         204,
         204,
         208,
+        209,
         209,
         209,
         209
@@ -207,7 +209,8 @@
         131,
         132,
         132,
-        132
+        132,
+        135
       ],
       "likes_rank": [
         null,
@@ -258,7 +261,8 @@
         21,
         21,
         18,
-        12
+        12,
+        8
       ]
     }
   },
@@ -277,7 +281,7 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #12 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #8 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     }
   ]
 }

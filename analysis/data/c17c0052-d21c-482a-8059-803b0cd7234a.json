@@ -1,6 +1,6 @@
 {
   "agent_id": "c17c0052-d21c-482a-8059-803b0cd7234a",
-  "generated_at": "2026-01-08T00:01:24.626702",
+  "generated_at": "2026-01-10T00:01:22.319368",
   "basic_info": {
     "title": "World Landmark Stickers",
     "author": "Cyrus",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-30T22:54:24.611000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Cyrus/world-landmark-stickers",
-    "days_since_published": 99
+    "days_since_published": 101
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 124,
       "runs_rank": 122,
-      "likes_rank": 189,
-      "total_agents": 285,
-      "views_percentile": 56.5,
-      "runs_percentile": 57.2,
-      "likes_percentile": 33.7
+      "likes_rank": 230,
+      "total_agents": 287,
+      "views_percentile": 56.8,
+      "runs_percentile": 57.5,
+      "likes_percentile": 19.9
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 91,
+    "days_tracked": 92,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 49,
+    "days_tracked": 51,
     "last_7_days": {
       "views_rank_change": 2,
       "runs_rank_change": 2,
-      "likes_rank_change": 6
+      "likes_rank_change": 47
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 51,
+    "data_points": 52,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-08T08:01:02.485852",
+    "last_recorded": "2026-01-10T08:01:02.077885",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -107,7 +107,8 @@
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
-        "2026-01-08T08:01:02.485852"
+        "2026-01-08T08:01:02.485852",
+        "2026-01-10T08:01:02.077885"
       ],
       "views_rank": [
         null,
@@ -158,6 +159,7 @@
         122,
         122,
         122,
+        124,
         124,
         124,
         124
@@ -213,6 +215,7 @@
         120,
         122,
         122,
+        122,
         122
       ],
       "likes_rank": [
@@ -266,7 +269,8 @@
         183,
         182,
         184,
-        189
+        189,
+        230
       ]
     }
   },
@@ -278,7 +282,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #124 out of 285 active agents."
+      "description": "This agent is currently ranked #124 out of 287 active agents."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "96d9930c-3282-4f11-8f1d-80072fba5acc",
-  "generated_at": "2026-01-08T00:01:26.164045",
+  "generated_at": "2026-01-10T00:01:23.507254",
   "basic_info": {
     "title": "LearningPodcast",
     "author": "createAny",
@@ -11,40 +11,40 @@
     "published_at": "2025-12-27T13:15:06.327000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@createAny/learnningpodcast",
-    "days_since_published": 11
+    "days_since_published": 13
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 229,
-      "runs_rank": 166,
-      "likes_rank": 18,
-      "total_agents": 285,
-      "views_percentile": 19.6,
-      "runs_percentile": 41.8,
-      "likes_percentile": 93.7
+      "runs_rank": 154,
+      "likes_rank": 13,
+      "total_agents": 287,
+      "views_percentile": 20.2,
+      "runs_percentile": 46.3,
+      "likes_percentile": 95.5
     },
-    "tier": "High",
-    "tier_class": "high",
-    "days_tracked": 8,
+    "tier": "Elite",
+    "tier_class": "elite",
+    "days_tracked": 9,
     "price": 19.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 8,
+    "days_tracked": 10,
     "last_7_days": {
       "views_rank_change": -1,
-      "runs_rank_change": -18,
-      "likes_rank_change": 1
+      "runs_rank_change": -30,
+      "likes_rank_change": -4
     },
     "last_30_days": {
       "views_rank_change": 2,
-      "runs_rank_change": -33,
-      "likes_rank_change": -10
+      "runs_rank_change": -45,
+      "likes_rank_change": -15
     },
     "all_time": {
       "best_views_rank": 227,
-      "best_runs_rank": 166,
-      "best_likes_rank": 17,
+      "best_runs_rank": 154,
+      "best_likes_rank": 13,
       "days_in_top_10": 0,
       "first_rank": 227,
       "current_rank": 229
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 7,
+    "data_points": 8,
     "first_recorded": "2025-12-31T08:00:58.854286",
-    "last_recorded": "2026-01-08T08:01:02.485852",
+    "last_recorded": "2026-01-10T08:01:02.077885",
     "time_series": {
       "dates": [
         "2025-12-31T08:00:58.854286",
@@ -63,7 +63,8 @@
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
-        "2026-01-08T08:01:02.485852"
+        "2026-01-08T08:01:02.485852",
+        "2026-01-10T08:01:02.077885"
       ],
       "views_rank": [
         227,
@@ -72,6 +73,7 @@
         230,
         230,
         228,
+        229,
         229
       ],
       "runs_rank": [
@@ -81,7 +83,8 @@
         184,
         184,
         181,
-        166
+        166,
+        154
       ],
       "likes_rank": [
         28,
@@ -90,7 +93,8 @@
         17,
         18,
         19,
-        18
+        18,
+        13
       ]
     }
   },
@@ -108,13 +112,13 @@
   "insights": [
     {
       "type": "positive",
-      "title": "High Performer",
-      "description": "Ranked #18 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "title": "Elite Performance",
+      "description": "Ranked #13 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     },
     {
       "type": "positive",
       "title": "Growing Usage",
-      "description": "Runs ranking improved by 33 positions in the last 30 days - users are actively engaging with this agent!"
+      "description": "Runs ranking improved by 45 positions in the last 30 days - users are actively engaging with this agent!"
     }
   ]
 }

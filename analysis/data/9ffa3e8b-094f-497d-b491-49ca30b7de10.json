@@ -1,6 +1,6 @@
 {
   "agent_id": "9ffa3e8b-094f-497d-b491-49ca30b7de10",
-  "generated_at": "2026-01-08T00:01:22.571503",
+  "generated_at": "2026-01-10T00:01:20.332095",
   "basic_info": {
     "title": "Product Creativity Lab",
     "author": "Aichimp",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-10T11:19:13.755000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aichimp/product-creativity-lab",
-    "days_since_published": 58
+    "days_since_published": 60
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 57,
       "runs_rank": 33,
-      "likes_rank": null,
-      "total_agents": 285,
-      "views_percentile": 80.0,
-      "runs_percentile": 88.4,
-      "likes_percentile": 0
+      "likes_rank": 106,
+      "total_agents": 287,
+      "views_percentile": 80.1,
+      "runs_percentile": 88.5,
+      "likes_percentile": 63.1
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 88,
+    "days_tracked": 89,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 50,
+    "days_tracked": 52,
     "last_7_days": {
       "views_rank_change": -3,
       "runs_rank_change": 0,
-      "likes_rank_change": null
+      "likes_rank_change": 51
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 52,
+    "data_points": 53,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-08T08:01:02.485852",
+    "last_recorded": "2026-01-10T08:01:02.077885",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -108,7 +108,8 @@
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
-        "2026-01-08T08:01:02.485852"
+        "2026-01-08T08:01:02.485852",
+        "2026-01-10T08:01:02.077885"
       ],
       "views_rank": [
         null,
@@ -162,6 +163,7 @@
         60,
         60,
         57,
+        57,
         57
       ],
       "runs_rank": [
@@ -213,6 +215,7 @@
         34,
         34,
         34,
+        33,
         33,
         33,
         33,
@@ -270,7 +273,8 @@
         55,
         43,
         43,
-        null
+        null,
+        106
       ]
     }
   },

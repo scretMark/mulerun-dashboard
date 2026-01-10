@@ -1,6 +1,6 @@
 {
   "agent_id": "93db55d2-7fe5-408d-82ac-ae2e97422987",
-  "generated_at": "2026-01-08T00:01:26.129703",
+  "generated_at": "2026-01-10T00:01:23.480178",
   "basic_info": {
     "title": "Fashion Reels",
     "author": "PicCopilot",
@@ -11,40 +11,40 @@
     "published_at": "2025-12-23T14:08:06.614000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/ai-model-video",
-    "days_since_published": 15
+    "days_since_published": 17
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 233,
-      "runs_rank": 213,
-      "likes_rank": 67,
-      "total_agents": 285,
-      "views_percentile": 18.2,
-      "runs_percentile": 25.3,
-      "likes_percentile": 76.5
+      "runs_rank": 207,
+      "likes_rank": 33,
+      "total_agents": 287,
+      "views_percentile": 18.8,
+      "runs_percentile": 27.9,
+      "likes_percentile": 88.5
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 10,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 11,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 12,
+    "days_tracked": 14,
     "last_7_days": {
       "views_rank_change": -11,
-      "runs_rank_change": -24,
-      "likes_rank_change": 4
+      "runs_rank_change": -30,
+      "likes_rank_change": -30
     },
     "last_30_days": {
       "views_rank_change": -7,
-      "runs_rank_change": -24,
-      "likes_rank_change": 22
+      "runs_rank_change": -30,
+      "likes_rank_change": -12
     },
     "all_time": {
       "best_views_rank": 233,
-      "best_runs_rank": 213,
-      "best_likes_rank": 44,
+      "best_runs_rank": 207,
+      "best_likes_rank": 33,
       "days_in_top_10": 0,
       "first_rank": 240,
       "current_rank": 233
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 11,
+    "data_points": 12,
     "first_recorded": "2025-12-27T08:01:00.423663",
-    "last_recorded": "2026-01-08T08:01:02.485852",
+    "last_recorded": "2026-01-10T08:01:02.077885",
     "time_series": {
       "dates": [
         "2025-12-27T08:01:00.423663",
@@ -67,7 +67,8 @@
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
-        "2026-01-08T08:01:02.485852"
+        "2026-01-08T08:01:02.485852",
+        "2026-01-10T08:01:02.077885"
       ],
       "views_rank": [
         240,
@@ -80,6 +81,7 @@
         244,
         233,
         235,
+        233,
         233
       ],
       "runs_rank": [
@@ -93,7 +95,8 @@
         237,
         213,
         214,
-        213
+        213,
+        207
       ],
       "likes_rank": [
         45,
@@ -106,7 +109,8 @@
         63,
         57,
         56,
-        67
+        67,
+        33
       ]
     }
   },
@@ -124,8 +128,13 @@
   "insights": [
     {
       "type": "positive",
+      "title": "High Performer",
+      "description": "Ranked #33 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+    },
+    {
+      "type": "positive",
       "title": "Growing Usage",
-      "description": "Runs ranking improved by 24 positions in the last 30 days - users are actively engaging with this agent!"
+      "description": "Runs ranking improved by 30 positions in the last 30 days - users are actively engaging with this agent!"
     },
     {
       "type": "positive",

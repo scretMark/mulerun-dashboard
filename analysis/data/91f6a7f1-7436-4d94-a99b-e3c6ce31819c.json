@@ -1,6 +1,6 @@
 {
   "agent_id": "91f6a7f1-7436-4d94-a99b-e3c6ce31819c",
-  "generated_at": "2026-01-08T00:01:26.260268",
+  "generated_at": "2026-01-10T00:01:23.581891",
   "basic_info": {
     "title": "Image To Vector",
     "author": "thurnz",
@@ -11,74 +11,78 @@
     "published_at": "2025-12-31T11:16:00.280000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@thurnz/vectory",
-    "days_since_published": 7
+    "days_since_published": 9
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 241,
-      "runs_rank": 273,
-      "likes_rank": 54,
-      "total_agents": 285,
-      "views_percentile": 15.4,
-      "runs_percentile": 4.2,
-      "likes_percentile": 81.1
+      "views_rank": 240,
+      "runs_rank": 274,
+      "likes_rank": 69,
+      "total_agents": 287,
+      "views_percentile": 16.4,
+      "runs_percentile": 4.5,
+      "likes_percentile": 76.0
     },
-    "tier": "High",
-    "tier_class": "high",
-    "days_tracked": 3,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 4,
     "price": 99.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 2,
+    "days_tracked": 4,
     "last_7_days": {
-      "views_rank_change": -14,
-      "runs_rank_change": 3,
-      "likes_rank_change": 9
+      "views_rank_change": -15,
+      "runs_rank_change": 4,
+      "likes_rank_change": 24
     },
     "last_30_days": {
-      "views_rank_change": -14,
-      "runs_rank_change": 3,
-      "likes_rank_change": 9
+      "views_rank_change": -15,
+      "runs_rank_change": 4,
+      "likes_rank_change": 24
     },
     "all_time": {
-      "best_views_rank": 241,
+      "best_views_rank": 240,
       "best_runs_rank": 270,
       "best_likes_rank": 44,
       "days_in_top_10": 0,
       "first_rank": 255,
-      "current_rank": 241
+      "current_rank": 240
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 4,
+    "data_points": 5,
     "first_recorded": "2026-01-05T08:01:10.022221",
-    "last_recorded": "2026-01-08T08:01:02.485852",
+    "last_recorded": "2026-01-10T08:01:02.077885",
     "time_series": {
       "dates": [
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
-        "2026-01-08T08:01:02.485852"
+        "2026-01-08T08:01:02.485852",
+        "2026-01-10T08:01:02.077885"
       ],
       "views_rank": [
         255,
         250,
         241,
-        241
+        241,
+        240
       ],
       "runs_rank": [
         270,
         270,
         270,
-        273
+        273,
+        274
       ],
       "likes_rank": [
         45,
         44,
         54,
-        54
+        54,
+        69
       ]
     }
   },
@@ -96,18 +100,13 @@
   "insights": [
     {
       "type": "positive",
-      "title": "High Performer",
-      "description": "Ranked #54 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
-    },
-    {
-      "type": "positive",
       "title": "Rising Star",
-      "description": "Improved by 14 positions in views ranking over the last 30 days - showing strong momentum!"
+      "description": "Improved by 15 positions in views ranking over the last 30 days - showing strong momentum!"
     },
     {
       "type": "positive",
       "title": "Hot Trend",
-      "description": "Up 14 positions in just 7 days - currently trending and gaining rapid visibility!"
+      "description": "Up 15 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

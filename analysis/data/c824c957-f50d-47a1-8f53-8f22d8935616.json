@@ -1,6 +1,6 @@
 {
   "agent_id": "c824c957-f50d-47a1-8f53-8f22d8935616",
-  "generated_at": "2026-01-08T00:01:25.463526",
+  "generated_at": "2026-01-10T00:01:22.961489",
   "basic_info": {
     "title": "Generate your photos in China",
     "author": "8bit",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-09T00:34:28.759000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/generate-your-photos-in-china",
-    "days_since_published": 29
+    "days_since_published": 31
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 273,
-      "runs_rank": 220,
-      "likes_rank": 15,
-      "total_agents": 285,
-      "views_percentile": 4.2,
-      "runs_percentile": 22.8,
-      "likes_percentile": 94.7
+      "views_rank": 274,
+      "runs_rank": 223,
+      "likes_rank": 10,
+      "total_agents": 287,
+      "views_percentile": 4.5,
+      "runs_percentile": 22.3,
+      "likes_percentile": 96.5
     },
-    "tier": "High",
-    "tier_class": "high",
-    "days_tracked": 31,
+    "tier": "Elite",
+    "tier_class": "elite",
+    "days_tracked": 32,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 29,
+    "days_tracked": 31,
     "last_7_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": 2,
-      "likes_rank_change": -5
+      "views_rank_change": 1,
+      "runs_rank_change": 5,
+      "likes_rank_change": -10
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -44,17 +44,17 @@
     "all_time": {
       "best_views_rank": 241,
       "best_runs_rank": 195,
-      "best_likes_rank": 14,
+      "best_likes_rank": 10,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 273
+      "current_rank": 274
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 31,
+    "data_points": 32,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2026-01-08T08:01:02.485852",
+    "last_recorded": "2026-01-10T08:01:02.077885",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
@@ -87,7 +87,8 @@
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
-        "2026-01-08T08:01:02.485852"
+        "2026-01-08T08:01:02.485852",
+        "2026-01-10T08:01:02.077885"
       ],
       "views_rank": [
         null,
@@ -120,7 +121,8 @@
         273,
         270,
         271,
-        273
+        273,
+        274
       ],
       "runs_rank": [
         null,
@@ -153,7 +155,8 @@
         218,
         219,
         219,
-        220
+        220,
+        223
       ],
       "likes_rank": [
         null,
@@ -186,7 +189,8 @@
         20,
         16,
         15,
-        15
+        15,
+        10
       ]
     }
   },
@@ -204,8 +208,8 @@
   "insights": [
     {
       "type": "positive",
-      "title": "High Performer",
-      "description": "Ranked #15 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "title": "Elite Performance",
+      "description": "Ranked #10 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     }
   ]
 }

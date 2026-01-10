@@ -1,6 +1,6 @@
 {
   "agent_id": "8bd3ff56-3c2a-4b13-aaff-071e8177fe99",
-  "generated_at": "2026-01-08T00:01:25.764799",
+  "generated_at": "2026-01-10T00:01:23.254830",
   "basic_info": {
     "title": "Super Pet Styler",
     "author": "kai_tiane5y",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-16T18:44:25.415000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@kai_tiane5y/super-pet-styler",
-    "days_since_published": 22
+    "days_since_published": 24
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 160,
+      "views_rank": 162,
       "runs_rank": 74,
-      "likes_rank": 120,
-      "total_agents": 285,
-      "views_percentile": 43.9,
-      "runs_percentile": 74.0,
-      "likes_percentile": 57.9
+      "likes_rank": 164,
+      "total_agents": 287,
+      "views_percentile": 43.6,
+      "runs_percentile": 74.2,
+      "likes_percentile": 42.9
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 19,
+    "days_tracked": 20,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 20,
+    "days_tracked": 22,
     "last_7_days": {
-      "views_rank_change": 1,
+      "views_rank_change": 3,
       "runs_rank_change": 1,
-      "likes_rank_change": 6
+      "likes_rank_change": 50
     },
     "last_30_days": {
-      "views_rank_change": -11,
+      "views_rank_change": -9,
       "runs_rank_change": -17,
-      "likes_rank_change": 83
+      "likes_rank_change": 127
     },
     "all_time": {
       "best_views_rank": 154,
@@ -47,14 +47,14 @@
       "best_likes_rank": 37,
       "days_in_top_10": 0,
       "first_rank": 171,
-      "current_rank": 160
+      "current_rank": 162
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 19,
+    "data_points": 20,
     "first_recorded": "2025-12-18T15:35:16.146705",
-    "last_recorded": "2026-01-08T08:01:02.485852",
+    "last_recorded": "2026-01-10T08:01:02.077885",
     "time_series": {
       "dates": [
         "2025-12-18T15:35:16.146705",
@@ -75,7 +75,8 @@
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
-        "2026-01-08T08:01:02.485852"
+        "2026-01-08T08:01:02.485852",
+        "2026-01-10T08:01:02.077885"
       ],
       "views_rank": [
         171,
@@ -96,7 +97,8 @@
         159,
         160,
         161,
-        160
+        160,
+        162
       ],
       "runs_rank": [
         91,
@@ -117,6 +119,7 @@
         73,
         73,
         73,
+        74,
         74
       ],
       "likes_rank": [
@@ -138,7 +141,8 @@
         114,
         114,
         115,
-        120
+        120,
+        164
       ]
     }
   },
@@ -154,11 +158,6 @@
     ]
   },
   "insights": [
-    {
-      "type": "positive",
-      "title": "Rising Star",
-      "description": "Improved by 11 positions in views ranking over the last 30 days - showing strong momentum!"
-    },
     {
       "type": "positive",
       "title": "Growing Usage",

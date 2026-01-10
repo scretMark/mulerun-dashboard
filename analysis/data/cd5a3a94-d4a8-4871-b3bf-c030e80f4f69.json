@@ -1,6 +1,6 @@
 {
   "agent_id": "cd5a3a94-d4a8-4871-b3bf-c030e80f4f69",
-  "generated_at": "2026-01-08T00:01:24.808774",
+  "generated_at": "2026-01-10T00:01:22.456226",
   "basic_info": {
     "title": "Chiikawa In 9-Grid",
     "author": "dotb78",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-04T11:38:48.535000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@dotb78/chiikawa-in-9-grid",
-    "days_since_published": 95
+    "days_since_published": 97
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 152,
       "runs_rank": 206,
-      "likes_rank": 196,
-      "total_agents": 285,
-      "views_percentile": 46.7,
-      "runs_percentile": 27.7,
-      "likes_percentile": 31.2
+      "likes_rank": 236,
+      "total_agents": 287,
+      "views_percentile": 47.0,
+      "runs_percentile": 28.2,
+      "likes_percentile": 17.8
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 73,
+    "days_tracked": 74,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 49,
+    "days_tracked": 51,
     "last_7_days": {
       "views_rank_change": 2,
       "runs_rank_change": 1,
-      "likes_rank_change": 6
+      "likes_rank_change": 46
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 51,
+    "data_points": 52,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-08T08:01:02.485852",
+    "last_recorded": "2026-01-10T08:01:02.077885",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -107,7 +107,8 @@
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
-        "2026-01-08T08:01:02.485852"
+        "2026-01-08T08:01:02.485852",
+        "2026-01-10T08:01:02.077885"
       ],
       "views_rank": [
         null,
@@ -159,6 +160,7 @@
         148,
         150,
         151,
+        152,
         152,
         152
       ],
@@ -213,6 +215,7 @@
         205,
         205,
         205,
+        206,
         206
       ],
       "likes_rank": [
@@ -266,7 +269,8 @@
         190,
         190,
         191,
-        196
+        196,
+        236
       ]
     }
   },
@@ -278,7 +282,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #152 out of 285 active agents."
+      "description": "This agent is currently ranked #152 out of 287 active agents."
     }
   ]
 }

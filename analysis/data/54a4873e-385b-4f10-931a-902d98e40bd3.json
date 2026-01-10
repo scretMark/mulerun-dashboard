@@ -1,6 +1,6 @@
 {
   "agent_id": "54a4873e-385b-4f10-931a-902d98e40bd3",
-  "generated_at": "2026-01-08T00:01:25.081322",
+  "generated_at": "2026-01-10T00:01:22.633343",
   "basic_info": {
     "title": "Teams Calling AI Advisor",
     "author": "xnexpstwmg34pd3",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-20T19:29:02.092000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@xnexpstwmg34pd3/teams-calling-ai-advisor",
-    "days_since_published": 79
+    "days_since_published": 81
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 217,
-      "runs_rank": 249,
-      "likes_rank": 172,
-      "total_agents": 285,
-      "views_percentile": 23.9,
-      "runs_percentile": 12.6,
-      "likes_percentile": 39.6
+      "runs_rank": 251,
+      "likes_rank": 216,
+      "total_agents": 287,
+      "views_percentile": 24.4,
+      "runs_percentile": 12.5,
+      "likes_percentile": 24.7
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 77,
+    "days_tracked": 78,
     "price": 5.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 49,
+    "days_tracked": 51,
     "last_7_days": {
       "views_rank_change": 3,
-      "runs_rank_change": 2,
-      "likes_rank_change": 5
+      "runs_rank_change": 4,
+      "likes_rank_change": 49
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 51,
+    "data_points": 52,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-08T08:01:02.485852",
+    "last_recorded": "2026-01-10T08:01:02.077885",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -107,7 +107,8 @@
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
-        "2026-01-08T08:01:02.485852"
+        "2026-01-08T08:01:02.485852",
+        "2026-01-10T08:01:02.077885"
       ],
       "views_rank": [
         null,
@@ -160,6 +161,7 @@
         214,
         215,
         215,
+        217,
         217
       ],
       "runs_rank": [
@@ -213,7 +215,8 @@
         247,
         248,
         248,
-        249
+        249,
+        251
       ],
       "likes_rank": [
         null,
@@ -266,7 +269,8 @@
         167,
         167,
         168,
-        172
+        172,
+        216
       ]
     }
   },
@@ -278,7 +282,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #217 out of 285 active agents."
+      "description": "This agent is currently ranked #217 out of 287 active agents."
     }
   ]
 }

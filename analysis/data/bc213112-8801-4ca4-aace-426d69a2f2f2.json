@@ -1,6 +1,6 @@
 {
   "agent_id": "bc213112-8801-4ca4-aace-426d69a2f2f2",
-  "generated_at": "2026-01-08T00:01:24.153351",
+  "generated_at": "2026-01-10T00:01:21.964014",
   "basic_info": {
     "title": "Judy Hopps Cosplay Filter",
     "author": "Lucas",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-05T20:03:39.255000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/judy-hopps-cosplay-filter",
-    "days_since_published": 63
+    "days_since_published": 65
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 161,
-      "runs_rank": 270,
-      "likes_rank": 13,
-      "total_agents": 285,
-      "views_percentile": 43.5,
-      "runs_percentile": 5.3,
-      "likes_percentile": 95.4
+      "views_rank": 157,
+      "runs_rank": 271,
+      "likes_rank": 133,
+      "total_agents": 287,
+      "views_percentile": 45.3,
+      "runs_percentile": 5.6,
+      "likes_percentile": 53.7
     },
-    "tier": "Elite",
-    "tier_class": "elite",
-    "days_tracked": 63,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 64,
     "price": 49.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 49,
+    "days_tracked": 51,
     "last_7_days": {
-      "views_rank_change": 3,
-      "runs_rank_change": 3,
-      "likes_rank_change": -1
+      "views_rank_change": -1,
+      "runs_rank_change": 4,
+      "likes_rank_change": 119
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 8,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 161
+      "current_rank": 157
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 51,
+    "data_points": 52,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-08T08:01:02.485852",
+    "last_recorded": "2026-01-10T08:01:02.077885",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -107,7 +107,8 @@
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
-        "2026-01-08T08:01:02.485852"
+        "2026-01-08T08:01:02.485852",
+        "2026-01-10T08:01:02.077885"
       ],
       "views_rank": [
         null,
@@ -160,7 +161,8 @@
         158,
         159,
         160,
-        161
+        161,
+        157
       ],
       "runs_rank": [
         null,
@@ -213,7 +215,8 @@
         267,
         267,
         267,
-        270
+        270,
+        271
       ],
       "likes_rank": [
         null,
@@ -266,7 +269,8 @@
         14,
         13,
         12,
-        13
+        13,
+        133
       ]
     }
   },
@@ -276,9 +280,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "Elite Performance",
-      "description": "Ranked #13 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #157 out of 287 active agents."
     }
   ]
 }

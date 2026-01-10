@@ -1,6 +1,6 @@
 {
   "agent_id": "03d920f7-6199-4bd0-9379-5fac38051523",
-  "generated_at": "2026-01-08T00:01:26.012223",
+  "generated_at": "2026-01-10T00:01:23.401283",
   "basic_info": {
     "title": "Viral Shorts AI Architect",
     "author": "yuzhou",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-20T21:05:43.834000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@yuzhou/viral-shorts-ai-architect",
-    "days_since_published": 18
+    "days_since_published": 20
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 239,
-      "runs_rank": 263,
-      "likes_rank": 153,
-      "total_agents": 285,
-      "views_percentile": 16.1,
+      "runs_rank": 265,
+      "likes_rank": 195,
+      "total_agents": 287,
+      "views_percentile": 16.7,
       "runs_percentile": 7.7,
-      "likes_percentile": 46.3
+      "likes_percentile": 32.1
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 12,
+    "days_tracked": 13,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 14,
+    "days_tracked": 16,
     "last_7_days": {
       "views_rank_change": -6,
-      "runs_rank_change": -1,
-      "likes_rank_change": 10
+      "runs_rank_change": 1,
+      "likes_rank_change": 52
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 57
+      "likes_rank_change": 99
     },
     "all_time": {
       "best_views_rank": 239,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 13,
+    "data_points": 14,
     "first_recorded": "2025-12-25T08:01:00.196993",
-    "last_recorded": "2026-01-08T08:01:02.485852",
+    "last_recorded": "2026-01-10T08:01:02.077885",
     "time_series": {
       "dates": [
         "2025-12-25T08:01:00.196993",
@@ -69,7 +69,8 @@
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
-        "2026-01-08T08:01:02.485852"
+        "2026-01-08T08:01:02.485852",
+        "2026-01-10T08:01:02.077885"
       ],
       "views_rank": [
         null,
@@ -83,6 +84,7 @@
         241,
         245,
         241,
+        239,
         239,
         239
       ],
@@ -99,7 +101,8 @@
         264,
         264,
         261,
-        263
+        263,
+        265
       ],
       "likes_rank": [
         96,
@@ -114,7 +117,8 @@
         143,
         144,
         148,
-        153
+        153,
+        195
       ]
     }
   },

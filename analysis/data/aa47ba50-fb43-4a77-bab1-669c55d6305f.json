@@ -1,6 +1,6 @@
 {
   "agent_id": "aa47ba50-fb43-4a77-bab1-669c55d6305f",
-  "generated_at": "2026-01-08T00:01:24.369120",
+  "generated_at": "2026-01-10T00:01:22.140411",
   "basic_info": {
     "title": "Pet Star 9-Grid",
     "author": "LinkAIBrain",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-18T17:03:07.430000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/pet-star-9-grid",
-    "days_since_published": 111
+    "days_since_published": 113
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 66,
-      "runs_rank": 115,
-      "likes_rank": 224,
-      "total_agents": 285,
-      "views_percentile": 76.8,
+      "runs_rank": 116,
+      "likes_rank": 256,
+      "total_agents": 287,
+      "views_percentile": 77.0,
       "runs_percentile": 59.6,
-      "likes_percentile": 21.4
+      "likes_percentile": 10.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 112,
+    "days_tracked": 113,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 49,
+    "days_tracked": 51,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 1,
-      "likes_rank_change": 3
+      "runs_rank_change": 2,
+      "likes_rank_change": 35
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 51,
+    "data_points": 52,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-08T08:01:02.485852",
+    "last_recorded": "2026-01-10T08:01:02.077885",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -107,7 +107,8 @@
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
-        "2026-01-08T08:01:02.485852"
+        "2026-01-08T08:01:02.485852",
+        "2026-01-10T08:01:02.077885"
       ],
       "views_rank": [
         null,
@@ -160,6 +161,7 @@
         65,
         65,
         65,
+        66,
         66
       ],
       "runs_rank": [
@@ -213,7 +215,8 @@
         114,
         115,
         115,
-        115
+        115,
+        116
       ],
       "likes_rank": [
         null,
@@ -266,7 +269,8 @@
         221,
         221,
         220,
-        224
+        224,
+        256
       ]
     }
   },
@@ -278,7 +282,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #66 out of 285 active agents."
+      "description": "This agent is currently ranked #66 out of 287 active agents."
     }
   ]
 }

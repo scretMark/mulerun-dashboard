@@ -1,6 +1,6 @@
 {
   "agent_id": "1812ad5a-5354-4019-b0e8-6e490197a0b6",
-  "generated_at": "2026-01-08T00:01:23.639326",
+  "generated_at": "2026-01-10T00:01:21.442383",
   "basic_info": {
     "title": "Black and White Portrait",
     "author": "Zane29222",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-10T21:32:27.685000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Zane29222/black-and-white-portrait",
-    "days_since_published": 89
+    "days_since_published": 91
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 52,
       "runs_rank": 56,
-      "likes_rank": 206,
-      "total_agents": 285,
-      "views_percentile": 81.8,
-      "runs_percentile": 80.4,
-      "likes_percentile": 27.7
+      "likes_rank": 117,
+      "total_agents": 287,
+      "views_percentile": 81.9,
+      "runs_percentile": 80.5,
+      "likes_percentile": 59.2
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 84,
+    "days_tracked": 85,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 49,
+    "days_tracked": 51,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 0,
-      "likes_rank_change": 4
+      "likes_rank_change": -85
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 51,
+    "data_points": 52,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-08T08:01:02.485852",
+    "last_recorded": "2026-01-10T08:01:02.077885",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -107,7 +107,8 @@
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
-        "2026-01-08T08:01:02.485852"
+        "2026-01-08T08:01:02.485852",
+        "2026-01-10T08:01:02.077885"
       ],
       "views_rank": [
         null,
@@ -160,6 +161,7 @@
         51,
         52,
         52,
+        52,
         52
       ],
       "runs_rank": [
@@ -210,6 +212,7 @@
         54,
         54,
         54,
+        56,
         56,
         56,
         56,
@@ -266,7 +269,8 @@
         202,
         202,
         203,
-        206
+        206,
+        117
       ]
     }
   },

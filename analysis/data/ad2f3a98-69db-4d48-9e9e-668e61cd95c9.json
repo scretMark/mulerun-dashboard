@@ -1,6 +1,6 @@
 {
   "agent_id": "ad2f3a98-69db-4d48-9e9e-668e61cd95c9",
-  "generated_at": "2026-01-08T00:01:24.587104",
+  "generated_at": "2026-01-10T00:01:22.298513",
   "basic_info": {
     "title": "Vanisho",
     "author": "Vans",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-10T21:09:48.984000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Vans/vanisho",
-    "days_since_published": 89
+    "days_since_published": 91
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 129,
-      "runs_rank": 245,
-      "likes_rank": 190,
-      "total_agents": 285,
-      "views_percentile": 54.7,
-      "runs_percentile": 14.0,
-      "likes_percentile": 33.3
+      "runs_rank": 246,
+      "likes_rank": 231,
+      "total_agents": 287,
+      "views_percentile": 55.1,
+      "runs_percentile": 14.3,
+      "likes_percentile": 19.5
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 86,
+    "days_tracked": 87,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 49,
+    "days_tracked": 51,
     "last_7_days": {
       "views_rank_change": 2,
-      "runs_rank_change": 2,
-      "likes_rank_change": 6
+      "runs_rank_change": 3,
+      "likes_rank_change": 47
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 51,
+    "data_points": 52,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-08T08:01:02.485852",
+    "last_recorded": "2026-01-10T08:01:02.077885",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -107,7 +107,8 @@
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
-        "2026-01-08T08:01:02.485852"
+        "2026-01-08T08:01:02.485852",
+        "2026-01-10T08:01:02.077885"
       ],
       "views_rank": [
         null,
@@ -160,6 +161,7 @@
         127,
         127,
         128,
+        129,
         129
       ],
       "runs_rank": [
@@ -213,7 +215,8 @@
         243,
         244,
         244,
-        245
+        245,
+        246
       ],
       "likes_rank": [
         null,
@@ -266,7 +269,8 @@
         184,
         183,
         185,
-        190
+        190,
+        231
       ]
     }
   },
@@ -278,7 +282,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #129 out of 285 active agents."
+      "description": "This agent is currently ranked #129 out of 287 active agents."
     }
   ]
 }

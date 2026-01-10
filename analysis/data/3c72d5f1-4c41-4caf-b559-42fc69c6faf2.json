@@ -1,6 +1,6 @@
 {
   "agent_id": "3c72d5f1-4c41-4caf-b559-42fc69c6faf2",
-  "generated_at": "2026-01-08T00:01:23.292394",
+  "generated_at": "2026-01-10T00:01:21.103568",
   "basic_info": {
     "title": "Instant Veo3 Downloader",
     "author": "JackCodebbb0c85",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-30T18:07:45.904000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@JackCodebbb0c85/instant-veo3-downloader",
-    "days_since_published": 69
+    "days_since_published": 71
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 14,
       "runs_rank": 36,
-      "likes_rank": 111,
-      "total_agents": 285,
+      "likes_rank": 155,
+      "total_agents": 287,
       "views_percentile": 95.1,
-      "runs_percentile": 87.4,
-      "likes_percentile": 61.1
+      "runs_percentile": 87.5,
+      "likes_percentile": 46.0
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 73,
+    "days_tracked": 74,
     "price": 1.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 49,
+    "days_tracked": 51,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": 8
+      "likes_rank_change": 52
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 51,
+    "data_points": 52,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-08T08:01:02.485852",
+    "last_recorded": "2026-01-10T08:01:02.077885",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -107,7 +107,8 @@
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
-        "2026-01-08T08:01:02.485852"
+        "2026-01-08T08:01:02.485852",
+        "2026-01-10T08:01:02.077885"
       ],
       "views_rank": [
         null,
@@ -137,6 +138,7 @@
         null,
         null,
         null,
+        14,
         14,
         14,
         14,
@@ -213,6 +215,7 @@
         36,
         36,
         36,
+        36,
         36
       ],
       "likes_rank": [
@@ -266,7 +269,8 @@
         103,
         103,
         104,
-        111
+        111,
+        155
       ]
     }
   },

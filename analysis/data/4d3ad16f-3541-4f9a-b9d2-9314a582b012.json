@@ -1,6 +1,6 @@
 {
   "agent_id": "4d3ad16f-3541-4f9a-b9d2-9314a582b012",
-  "generated_at": "2026-01-08T00:01:26.251136",
+  "generated_at": "2026-01-10T00:01:23.567369",
   "basic_info": {
     "title": "Thesis Lens",
     "author": "liang_caoqw1",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-30T17:57:21.268000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@liang_caoqw1/deepscholar",
-    "days_since_published": 8
+    "days_since_published": 10
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 249,
-      "runs_rank": 216,
-      "likes_rank": 78,
-      "total_agents": 285,
-      "views_percentile": 12.6,
-      "runs_percentile": 24.2,
-      "likes_percentile": 72.6
+      "runs_rank": 217,
+      "likes_rank": 125,
+      "total_agents": 287,
+      "views_percentile": 13.2,
+      "runs_percentile": 24.4,
+      "likes_percentile": 56.4
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 6,
+    "days_tracked": 7,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 2,
+    "days_tracked": 4,
     "last_7_days": {
       "views_rank_change": -1,
-      "runs_rank_change": 3,
-      "likes_rank_change": -1
+      "runs_rank_change": 4,
+      "likes_rank_change": 46
     },
     "last_30_days": {
       "views_rank_change": -1,
-      "runs_rank_change": 3,
-      "likes_rank_change": -1
+      "runs_rank_change": 4,
+      "likes_rank_change": 46
     },
     "all_time": {
       "best_views_rank": 247,
@@ -52,33 +52,37 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 4,
+    "data_points": 5,
     "first_recorded": "2026-01-05T08:01:10.022221",
-    "last_recorded": "2026-01-08T08:01:02.485852",
+    "last_recorded": "2026-01-10T08:01:02.077885",
     "time_series": {
       "dates": [
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
-        "2026-01-08T08:01:02.485852"
+        "2026-01-08T08:01:02.485852",
+        "2026-01-10T08:01:02.077885"
       ],
       "views_rank": [
         250,
         247,
         248,
+        249,
         249
       ],
       "runs_rank": [
         213,
         214,
         215,
-        216
+        216,
+        217
       ],
       "likes_rank": [
         79,
         76,
         77,
-        78
+        78,
+        125
       ]
     }
   },
@@ -97,7 +101,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #249 out of 285 active agents."
+      "description": "This agent is currently ranked #249 out of 287 active agents."
     }
   ]
 }

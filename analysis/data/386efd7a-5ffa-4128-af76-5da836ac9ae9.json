@@ -1,6 +1,6 @@
 {
   "agent_id": "386efd7a-5ffa-4128-af76-5da836ac9ae9",
-  "generated_at": "2026-01-08T00:01:23.652760",
+  "generated_at": "2026-01-10T00:01:21.456392",
   "basic_info": {
     "title": "KW_Fully automated SEO keyword tool",
     "author": "bFundai",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-11T18:29:17.432000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@bFundai/kw-fully-automated-seo-keyword-tool",
-    "days_since_published": 88
+    "days_since_published": 90
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 77,
-      "runs_rank": 104,
-      "likes_rank": 65,
-      "total_agents": 285,
-      "views_percentile": 73.0,
-      "runs_percentile": 63.5,
-      "likes_percentile": 77.2
+      "runs_rank": 105,
+      "likes_rank": 91,
+      "total_agents": 287,
+      "views_percentile": 73.2,
+      "runs_percentile": 63.4,
+      "likes_percentile": 68.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 87,
+    "days_tracked": 88,
     "price": 100.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 49,
+    "days_tracked": 51,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 1,
-      "likes_rank_change": 5
+      "runs_rank_change": 2,
+      "likes_rank_change": 31
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 51,
+    "data_points": 52,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-08T08:01:02.485852",
+    "last_recorded": "2026-01-10T08:01:02.077885",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -107,7 +107,8 @@
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
-        "2026-01-08T08:01:02.485852"
+        "2026-01-08T08:01:02.485852",
+        "2026-01-10T08:01:02.077885"
       ],
       "views_rank": [
         null,
@@ -155,6 +156,7 @@
         77,
         76,
         76,
+        77,
         77,
         77,
         77,
@@ -213,7 +215,8 @@
         103,
         104,
         104,
-        104
+        104,
+        105
       ],
       "likes_rank": [
         null,
@@ -266,7 +269,8 @@
         60,
         61,
         70,
-        65
+        65,
+        91
       ]
     }
   },
@@ -278,7 +282,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #77 out of 285 active agents."
+      "description": "This agent is currently ranked #77 out of 287 active agents."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "a1f9c92b-849e-4a2a-8727-11133c10763c",
-  "generated_at": "2026-01-08T00:01:24.194492",
+  "generated_at": "2026-01-10T00:01:22.002755",
   "basic_info": {
     "title": "Emperor Pet AI",
     "author": "laughing_code",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-28T17:31:46.313000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@laughing_code/emperor-pet-ai",
-    "days_since_published": 101
+    "days_since_published": 103
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 21,
       "runs_rank": 42,
-      "likes_rank": 179,
-      "total_agents": 285,
-      "views_percentile": 92.6,
-      "runs_percentile": 85.3,
-      "likes_percentile": 37.2
+      "likes_rank": 221,
+      "total_agents": 287,
+      "views_percentile": 92.7,
+      "runs_percentile": 85.4,
+      "likes_percentile": 23.0
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 75,
+    "days_tracked": 76,
     "price": 70.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 49,
+    "days_tracked": 51,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": 6
+      "likes_rank_change": 48
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 51,
+    "data_points": 52,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-08T08:01:02.485852",
+    "last_recorded": "2026-01-10T08:01:02.077885",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -107,7 +107,8 @@
         "2026-01-05T08:01:10.022221",
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
-        "2026-01-08T08:01:02.485852"
+        "2026-01-08T08:01:02.485852",
+        "2026-01-10T08:01:02.077885"
       ],
       "views_rank": [
         null,
@@ -160,6 +161,7 @@
         21,
         21,
         21,
+        21,
         21
       ],
       "runs_rank": [
@@ -204,6 +206,7 @@
         40,
         41,
         41,
+        42,
         42,
         42,
         42,
@@ -266,7 +269,8 @@
         173,
         173,
         174,
-        179
+        179,
+        221
       ]
     }
   },
