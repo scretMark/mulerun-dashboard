@@ -1,6 +1,6 @@
 {
   "agent_id": "39f43fbe-bbf5-4eb6-b600-b1d60dafcf8d",
-  "generated_at": "2026-01-10T00:01:21.690077",
+  "generated_at": "2026-01-11T00:01:10.740367",
   "basic_info": {
     "title": "Travel with AI",
     "author": "Rhino",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-16T16:55:46.056000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Rhino/travel-with-ai",
-    "days_since_published": 85
+    "days_since_published": 86
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 65,
       "runs_rank": 66,
-      "likes_rank": 2,
+      "likes_rank": 3,
       "total_agents": 287,
       "views_percentile": 77.4,
       "runs_percentile": 77.0,
-      "likes_percentile": 99.3
+      "likes_percentile": 99.0
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 74,
+    "days_tracked": 75,
     "price": 40.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 51,
+    "days_tracked": 52,
     "last_7_days": {
       "views_rank_change": -1,
       "runs_rank_change": 1,
-      "likes_rank_change": -196
+      "likes_rank_change": -195
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 52,
+    "data_points": 53,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-10T08:01:02.077885",
+    "last_recorded": "2026-01-11T08:01:01.017708",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -108,7 +108,8 @@
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
         "2026-01-08T08:01:02.485852",
-        "2026-01-10T08:01:02.077885"
+        "2026-01-10T08:01:02.077885",
+        "2026-01-11T08:01:01.017708"
       ],
       "views_rank": [
         null,
@@ -161,6 +162,7 @@
         66,
         66,
         66,
+        65,
         65,
         65
       ],
@@ -216,6 +218,7 @@
         65,
         65,
         65,
+        66,
         66
       ],
       "likes_rank": [
@@ -270,7 +273,8 @@
         198,
         198,
         1,
-        2
+        2,
+        3
       ]
     }
   },
@@ -282,7 +286,7 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #2 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #3 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     }
   ]
 }

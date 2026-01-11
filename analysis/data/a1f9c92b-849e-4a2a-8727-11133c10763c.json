@@ -1,6 +1,6 @@
 {
   "agent_id": "a1f9c92b-849e-4a2a-8727-11133c10763c",
-  "generated_at": "2026-01-10T00:01:22.002755",
+  "generated_at": "2026-01-11T00:01:11.044734",
   "basic_info": {
     "title": "Emperor Pet AI",
     "author": "laughing_code",
@@ -11,28 +11,28 @@
     "published_at": "2025-09-28T17:31:46.313000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@laughing_code/emperor-pet-ai",
-    "days_since_published": 103
+    "days_since_published": 104
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 21,
+      "views_rank": 22,
       "runs_rank": 42,
       "likes_rank": 221,
       "total_agents": 287,
-      "views_percentile": 92.7,
+      "views_percentile": 92.3,
       "runs_percentile": 85.4,
       "likes_percentile": 23.0
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 76,
+    "days_tracked": 77,
     "price": 70.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 51,
+    "days_tracked": 52,
     "last_7_days": {
-      "views_rank_change": 0,
+      "views_rank_change": 1,
       "runs_rank_change": 0,
       "likes_rank_change": 48
     },
@@ -47,14 +47,14 @@
       "best_likes_rank": 130,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 21
+      "current_rank": 22
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 52,
+    "data_points": 53,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-10T08:01:02.077885",
+    "last_recorded": "2026-01-11T08:01:01.017708",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -108,7 +108,8 @@
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
         "2026-01-08T08:01:02.485852",
-        "2026-01-10T08:01:02.077885"
+        "2026-01-10T08:01:02.077885",
+        "2026-01-11T08:01:01.017708"
       ],
       "views_rank": [
         null,
@@ -162,7 +163,8 @@
         21,
         21,
         21,
-        21
+        21,
+        22
       ],
       "runs_rank": [
         null,
@@ -206,6 +208,7 @@
         40,
         41,
         41,
+        42,
         42,
         42,
         42,
@@ -270,6 +273,7 @@
         173,
         174,
         179,
+        221,
         221
       ]
     }
@@ -282,7 +286,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #21 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #22 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "01045f00-c02f-46eb-951b-8752bb5a6f12",
-  "generated_at": "2026-01-10T00:01:20.304965",
+  "generated_at": "2026-01-11T00:01:09.752801",
   "basic_info": {
     "title": "Youtube Awesome Thumbnail",
     "author": "summerail",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-10T09:52:30.048000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/youtube-awesome-thumbnail",
-    "days_since_published": 60
+    "days_since_published": 61
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 19,
       "runs_rank": 10,
-      "likes_rank": 129,
+      "likes_rank": 139,
       "total_agents": 287,
       "views_percentile": 93.4,
       "runs_percentile": 96.5,
-      "likes_percentile": 55.1
+      "likes_percentile": 51.6
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 59,
+    "days_tracked": 60,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 52,
+    "days_tracked": 53,
     "last_7_days": {
       "views_rank_change": -1,
       "runs_rank_change": 0,
-      "likes_rank_change": 38
+      "likes_rank_change": 48
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 53,
+    "data_points": 54,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-10T08:01:02.077885",
+    "last_recorded": "2026-01-11T08:01:01.017708",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -109,7 +109,8 @@
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
         "2026-01-08T08:01:02.485852",
-        "2026-01-10T08:01:02.077885"
+        "2026-01-10T08:01:02.077885",
+        "2026-01-11T08:01:01.017708"
       ],
       "views_rank": [
         null,
@@ -164,6 +165,7 @@
         20,
         19,
         19,
+        19,
         19
       ],
       "runs_rank": [
@@ -215,6 +217,7 @@
         9,
         9,
         9,
+        10,
         10,
         10,
         10,
@@ -274,7 +277,8 @@
         92,
         93,
         96,
-        129
+        129,
+        139
       ]
     }
   },

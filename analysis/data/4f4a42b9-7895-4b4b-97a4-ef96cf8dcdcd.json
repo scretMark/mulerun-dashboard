@@ -1,6 +1,6 @@
 {
   "agent_id": "4f4a42b9-7895-4b4b-97a4-ef96cf8dcdcd",
-  "generated_at": "2026-01-10T00:01:21.329780",
+  "generated_at": "2026-01-11T00:01:10.473344",
   "basic_info": {
     "title": "YouTube All Languages Subtitles",
     "author": "Darren",
@@ -11,29 +11,29 @@
     "published_at": "2025-10-10T20:41:02.236000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/youtube-all-languages-subtitles",
-    "days_since_published": 91
+    "days_since_published": 92
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 165,
-      "runs_rank": 201,
+      "runs_rank": 202,
       "likes_rank": 272,
       "total_agents": 287,
       "views_percentile": 42.5,
-      "runs_percentile": 30.0,
+      "runs_percentile": 29.6,
       "likes_percentile": 5.2
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 86,
+    "days_tracked": 87,
     "price": 38.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 51,
+    "days_tracked": 52,
     "last_7_days": {
       "views_rank_change": 2,
-      "runs_rank_change": 2,
+      "runs_rank_change": 3,
       "likes_rank_change": 24
     },
     "last_30_days": {
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 52,
+    "data_points": 53,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-10T08:01:02.077885",
+    "last_recorded": "2026-01-11T08:01:01.017708",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -108,7 +108,8 @@
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
         "2026-01-08T08:01:02.485852",
-        "2026-01-10T08:01:02.077885"
+        "2026-01-10T08:01:02.077885",
+        "2026-01-11T08:01:01.017708"
       ],
       "views_rank": [
         null,
@@ -162,6 +163,7 @@
         163,
         164,
         164,
+        165,
         165
       ],
       "runs_rank": [
@@ -216,7 +218,8 @@
         199,
         199,
         201,
-        201
+        201,
+        202
       ],
       "likes_rank": [
         null,
@@ -270,6 +273,7 @@
         247,
         245,
         252,
+        272,
         272
       ]
     }

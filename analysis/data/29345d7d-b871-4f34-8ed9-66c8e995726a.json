@@ -1,6 +1,6 @@
 {
   "agent_id": "29345d7d-b871-4f34-8ed9-66c8e995726a",
-  "generated_at": "2026-01-10T00:01:22.435395",
+  "generated_at": "2026-01-11T00:01:11.508309",
   "basic_info": {
     "title": "Can Kitty Eat",
     "author": "wujin",
@@ -11,29 +11,29 @@
     "published_at": "2025-10-07T13:04:27.727000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@wujin/can-kitty-eat",
-    "days_since_published": 94
+    "days_since_published": 95
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 151,
-      "runs_rank": 214,
+      "runs_rank": 215,
       "likes_rank": 286,
       "total_agents": 287,
       "views_percentile": 47.4,
-      "runs_percentile": 25.4,
+      "runs_percentile": 25.1,
       "likes_percentile": 0.3
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 79,
+    "days_tracked": 80,
     "price": 30.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 51,
+    "days_tracked": 52,
     "last_7_days": {
       "views_rank_change": 3,
-      "runs_rank_change": 3,
+      "runs_rank_change": 4,
       "likes_rank_change": 15
     },
     "last_30_days": {
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 52,
+    "data_points": 53,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-10T08:01:02.077885",
+    "last_recorded": "2026-01-11T08:01:01.017708",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -108,7 +108,8 @@
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
         "2026-01-08T08:01:02.485852",
-        "2026-01-10T08:01:02.077885"
+        "2026-01-10T08:01:02.077885",
+        "2026-01-11T08:01:01.017708"
       ],
       "views_rank": [
         null,
@@ -162,6 +163,7 @@
         149,
         149,
         150,
+        151,
         151
       ],
       "runs_rank": [
@@ -216,7 +218,8 @@
         211,
         211,
         212,
-        214
+        214,
+        215
       ],
       "likes_rank": [
         null,
@@ -270,6 +273,7 @@
         270,
         272,
         272,
+        286,
         286
       ]
     }

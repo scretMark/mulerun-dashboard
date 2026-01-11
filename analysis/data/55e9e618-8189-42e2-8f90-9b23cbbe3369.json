@@ -1,6 +1,6 @@
 {
   "agent_id": "55e9e618-8189-42e2-8f90-9b23cbbe3369",
-  "generated_at": "2026-01-10T00:01:21.117593",
+  "generated_at": "2026-01-11T00:01:10.318379",
   "basic_info": {
     "title": "Halloween Costume",
     "author": "LinkAIBrain",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-30T11:21:04.717000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/halloween-costume",
-    "days_since_published": 71
+    "days_since_published": 72
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 18,
       "runs_rank": 32,
-      "likes_rank": 58,
+      "likes_rank": 59,
       "total_agents": 287,
       "views_percentile": 93.7,
       "runs_percentile": 88.9,
-      "likes_percentile": 79.8
+      "likes_percentile": 79.4
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 71,
+    "days_tracked": 72,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 51,
+    "days_tracked": 52,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": 25
+      "likes_rank_change": 26
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 52,
+    "data_points": 53,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-10T08:01:02.077885",
+    "last_recorded": "2026-01-11T08:01:01.017708",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -108,7 +108,8 @@
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
         "2026-01-08T08:01:02.485852",
-        "2026-01-10T08:01:02.077885"
+        "2026-01-10T08:01:02.077885",
+        "2026-01-11T08:01:01.017708"
       ],
       "views_rank": [
         null,
@@ -138,6 +139,7 @@
         null,
         null,
         null,
+        18,
         18,
         18,
         18,
@@ -216,6 +218,7 @@
         32,
         32,
         32,
+        32,
         32
       ],
       "likes_rank": [
@@ -270,7 +273,8 @@
         36,
         27,
         24,
-        58
+        58,
+        59
       ]
     }
   },

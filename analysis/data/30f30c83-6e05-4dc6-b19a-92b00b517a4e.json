@@ -1,6 +1,6 @@
 {
   "agent_id": "30f30c83-6e05-4dc6-b19a-92b00b517a4e",
-  "generated_at": "2026-01-10T00:01:23.471609",
+  "generated_at": "2026-01-11T00:01:12.642129",
   "basic_info": {
     "title": "Image to gif",
     "author": "freeya619",
@@ -11,34 +11,34 @@
     "published_at": "2025-12-25T17:32:32.840000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@freeya619/img-to-gif",
-    "days_since_published": 15
+    "days_since_published": 16
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 241,
-      "runs_rank": 160,
+      "views_rank": 242,
+      "runs_rank": 161,
       "likes_rank": 100,
       "total_agents": 287,
-      "views_percentile": 16.0,
-      "runs_percentile": 44.3,
+      "views_percentile": 15.7,
+      "runs_percentile": 43.9,
       "likes_percentile": 65.2
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 11,
+    "days_tracked": 12,
     "price": 2.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 14,
+    "days_tracked": 15,
     "last_7_days": {
-      "views_rank_change": 6,
-      "runs_rank_change": 3,
+      "views_rank_change": 7,
+      "runs_rank_change": 4,
       "likes_rank_change": 96
     },
     "last_30_days": {
-      "views_rank_change": 12,
-      "runs_rank_change": 11,
+      "views_rank_change": 13,
+      "runs_rank_change": 12,
       "likes_rank_change": 86
     },
     "all_time": {
@@ -47,14 +47,14 @@
       "best_likes_rank": 4,
       "days_in_top_10": 0,
       "first_rank": 229,
-      "current_rank": 241
+      "current_rank": 242
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 12,
+    "data_points": 13,
     "first_recorded": "2025-12-27T08:01:00.423663",
-    "last_recorded": "2026-01-10T08:01:02.077885",
+    "last_recorded": "2026-01-11T08:01:01.017708",
     "time_series": {
       "dates": [
         "2025-12-27T08:01:00.423663",
@@ -68,7 +68,8 @@
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
         "2026-01-08T08:01:02.485852",
-        "2026-01-10T08:01:02.077885"
+        "2026-01-10T08:01:02.077885",
+        "2026-01-11T08:01:01.017708"
       ],
       "views_rank": [
         229,
@@ -82,7 +83,8 @@
         237,
         240,
         240,
-        241
+        241,
+        242
       ],
       "runs_rank": [
         149,
@@ -96,7 +98,8 @@
         158,
         159,
         159,
-        160
+        160,
+        161
       ],
       "likes_rank": [
         14,
@@ -110,6 +113,7 @@
         8,
         9,
         10,
+        100,
         100
       ]
     }
@@ -129,7 +133,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 12 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 13 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

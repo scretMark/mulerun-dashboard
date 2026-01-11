@@ -1,6 +1,6 @@
 {
   "agent_id": "52ecfa2a-3f0d-4ed9-8b27-7e6a6e2a5fd5",
-  "generated_at": "2026-01-10T00:01:22.424957",
+  "generated_at": "2026-01-11T00:01:11.498224",
   "basic_info": {
     "title": "Calorie Counter",
     "author": "wujin",
@@ -11,29 +11,29 @@
     "published_at": "2025-10-07T12:55:04.113000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@wujin/calorie-counter",
-    "days_since_published": 94
+    "days_since_published": 95
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 135,
-      "runs_rank": 204,
+      "runs_rank": 205,
       "likes_rank": 14,
       "total_agents": 287,
       "views_percentile": 53.0,
-      "runs_percentile": 28.9,
+      "runs_percentile": 28.6,
       "likes_percentile": 95.1
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 79,
+    "days_tracked": 80,
     "price": 30.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 51,
+    "days_tracked": 52,
     "last_7_days": {
       "views_rank_change": -1,
-      "runs_rank_change": 2,
+      "runs_rank_change": 3,
       "likes_rank_change": -5
     },
     "last_30_days": {
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 52,
+    "data_points": 53,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-10T08:01:02.077885",
+    "last_recorded": "2026-01-11T08:01:01.017708",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -108,7 +108,8 @@
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
         "2026-01-08T08:01:02.485852",
-        "2026-01-10T08:01:02.077885"
+        "2026-01-10T08:01:02.077885",
+        "2026-01-11T08:01:01.017708"
       ],
       "views_rank": [
         null,
@@ -162,6 +163,7 @@
         137,
         134,
         133,
+        135,
         135
       ],
       "runs_rank": [
@@ -216,7 +218,8 @@
         202,
         202,
         204,
-        204
+        204,
+        205
       ],
       "likes_rank": [
         null,
@@ -270,6 +273,7 @@
         20,
         14,
         19,
+        14,
         14
       ]
     }

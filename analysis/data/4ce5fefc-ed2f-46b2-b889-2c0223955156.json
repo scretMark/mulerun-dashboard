@@ -1,6 +1,6 @@
 {
   "agent_id": "4ce5fefc-ed2f-46b2-b889-2c0223955156",
-  "generated_at": "2026-01-10T00:01:23.620612",
+  "generated_at": "2026-01-11T00:01:12.797639",
   "basic_info": {
     "title": "Manga Translator",
     "author": "usernuk",
@@ -11,33 +11,33 @@
     "published_at": "2026-01-06T09:35:53.576000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@usernuk/manga-translator",
-    "days_since_published": 3
+    "days_since_published": 4
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 270,
+      "views_rank": 271,
       "runs_rank": 269,
       "likes_rank": 41,
       "total_agents": 287,
-      "views_percentile": 5.9,
+      "views_percentile": 5.6,
       "runs_percentile": 6.3,
       "likes_percentile": 85.7
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 2,
+    "days_tracked": 3,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 1,
+    "days_tracked": 2,
     "last_7_days": {
-      "views_rank_change": 2,
+      "views_rank_change": 3,
       "runs_rank_change": 1,
       "likes_rank_change": -43
     },
     "last_30_days": {
-      "views_rank_change": 2,
+      "views_rank_change": 3,
       "runs_rank_change": 1,
       "likes_rank_change": -43
     },
@@ -47,29 +47,33 @@
       "best_likes_rank": 41,
       "days_in_top_10": 0,
       "first_rank": 268,
-      "current_rank": 270
+      "current_rank": 271
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 2,
+    "data_points": 3,
     "first_recorded": "2026-01-08T08:01:02.485852",
-    "last_recorded": "2026-01-10T08:01:02.077885",
+    "last_recorded": "2026-01-11T08:01:01.017708",
     "time_series": {
       "dates": [
         "2026-01-08T08:01:02.485852",
-        "2026-01-10T08:01:02.077885"
+        "2026-01-10T08:01:02.077885",
+        "2026-01-11T08:01:01.017708"
       ],
       "views_rank": [
         268,
-        270
+        270,
+        271
       ],
       "runs_rank": [
         268,
+        269,
         269
       ],
       "likes_rank": [
         84,
+        41,
         41
       ]
     }

@@ -1,6 +1,6 @@
 {
   "agent_id": "400f7c75-6100-4071-aa92-fc36670454ba",
-  "generated_at": "2026-01-10T00:01:21.910921",
+  "generated_at": "2026-01-11T00:01:10.950235",
   "basic_info": {
     "title": "Cozy Christmas Glow",
     "author": "Lucas",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-22T12:41:26.838000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/cozy-christmas-glow",
-    "days_since_published": 79
+    "days_since_published": 80
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 191,
       "runs_rank": 256,
-      "likes_rank": 284,
+      "likes_rank": 283,
       "total_agents": 287,
       "views_percentile": 33.4,
       "runs_percentile": 10.8,
-      "likes_percentile": 1.0
+      "likes_percentile": 1.4
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 78,
+    "days_tracked": 79,
     "price": 49.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 51,
+    "days_tracked": 52,
     "last_7_days": {
       "views_rank_change": -1,
       "runs_rank_change": 3,
-      "likes_rank_change": 22
+      "likes_rank_change": 21
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 52,
+    "data_points": 53,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-10T08:01:02.077885",
+    "last_recorded": "2026-01-11T08:01:01.017708",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -108,7 +108,8 @@
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
         "2026-01-08T08:01:02.485852",
-        "2026-01-10T08:01:02.077885"
+        "2026-01-10T08:01:02.077885",
+        "2026-01-11T08:01:01.017708"
       ],
       "views_rank": [
         null,
@@ -162,6 +163,7 @@
         192,
         189,
         190,
+        191,
         191
       ],
       "runs_rank": [
@@ -216,6 +218,7 @@
         253,
         253,
         254,
+        256,
         256
       ],
       "likes_rank": [
@@ -270,7 +273,8 @@
         262,
         261,
         265,
-        284
+        284,
+        283
       ]
     }
   },

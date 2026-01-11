@@ -1,6 +1,6 @@
 {
   "agent_id": "96d9930c-3282-4f11-8f1d-80072fba5acc",
-  "generated_at": "2026-01-10T00:01:23.507254",
+  "generated_at": "2026-01-11T00:01:12.677085",
   "basic_info": {
     "title": "LearningPodcast",
     "author": "createAny",
@@ -11,34 +11,34 @@
     "published_at": "2025-12-27T13:15:06.327000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@createAny/learnningpodcast",
-    "days_since_published": 13
+    "days_since_published": 14
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 229,
-      "runs_rank": 154,
+      "runs_rank": 155,
       "likes_rank": 13,
       "total_agents": 287,
       "views_percentile": 20.2,
-      "runs_percentile": 46.3,
+      "runs_percentile": 46.0,
       "likes_percentile": 95.5
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 9,
+    "days_tracked": 10,
     "price": 19.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 10,
+    "days_tracked": 11,
     "last_7_days": {
       "views_rank_change": -1,
-      "runs_rank_change": -30,
+      "runs_rank_change": -29,
       "likes_rank_change": -4
     },
     "last_30_days": {
       "views_rank_change": 2,
-      "runs_rank_change": -45,
+      "runs_rank_change": -44,
       "likes_rank_change": -15
     },
     "all_time": {
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 8,
+    "data_points": 9,
     "first_recorded": "2025-12-31T08:00:58.854286",
-    "last_recorded": "2026-01-10T08:01:02.077885",
+    "last_recorded": "2026-01-11T08:01:01.017708",
     "time_series": {
       "dates": [
         "2025-12-31T08:00:58.854286",
@@ -64,7 +64,8 @@
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
         "2026-01-08T08:01:02.485852",
-        "2026-01-10T08:01:02.077885"
+        "2026-01-10T08:01:02.077885",
+        "2026-01-11T08:01:01.017708"
       ],
       "views_rank": [
         227,
@@ -73,6 +74,7 @@
         230,
         230,
         228,
+        229,
         229,
         229
       ],
@@ -84,7 +86,8 @@
         184,
         181,
         166,
-        154
+        154,
+        155
       ],
       "likes_rank": [
         28,
@@ -94,6 +97,7 @@
         18,
         19,
         18,
+        13,
         13
       ]
     }
@@ -118,7 +122,7 @@
     {
       "type": "positive",
       "title": "Growing Usage",
-      "description": "Runs ranking improved by 45 positions in the last 30 days - users are actively engaging with this agent!"
+      "description": "Runs ranking improved by 44 positions in the last 30 days - users are actively engaging with this agent!"
     }
   ]
 }

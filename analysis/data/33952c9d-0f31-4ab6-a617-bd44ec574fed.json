@@ -1,6 +1,6 @@
 {
   "agent_id": "33952c9d-0f31-4ab6-a617-bd44ec574fed",
-  "generated_at": "2026-01-10T00:01:22.898130",
+  "generated_at": "2026-01-11T00:01:12.026428",
   "basic_info": {
     "title": "Pixel Avatar Agent ",
     "author": "Matt",
@@ -11,29 +11,29 @@
     "published_at": "2025-12-05T19:04:02.237000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Matt/pixel-avatar-agent",
-    "days_since_published": 35
+    "days_since_published": 36
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 225,
-      "runs_rank": 197,
+      "runs_rank": 198,
       "likes_rank": 169,
       "total_agents": 287,
       "views_percentile": 21.6,
-      "runs_percentile": 31.4,
+      "runs_percentile": 31.0,
       "likes_percentile": 41.1
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 33,
+    "days_tracked": 34,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 32,
+    "days_tracked": 33,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 2,
+      "runs_rank_change": 3,
       "likes_rank_change": 49
     },
     "last_30_days": {
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 34,
+    "data_points": 35,
     "first_recorded": "2025-12-09T08:00:25.308684",
-    "last_recorded": "2026-01-10T08:01:02.077885",
+    "last_recorded": "2026-01-11T08:01:01.017708",
     "time_series": {
       "dates": [
         "2025-12-09T08:00:25.308684",
@@ -90,7 +90,8 @@
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
         "2026-01-08T08:01:02.485852",
-        "2026-01-10T08:01:02.077885"
+        "2026-01-10T08:01:02.077885",
+        "2026-01-11T08:01:01.017708"
       ],
       "views_rank": [
         null,
@@ -122,6 +123,7 @@
         220,
         220,
         220,
+        225,
         225,
         225,
         225,
@@ -162,7 +164,8 @@
         195,
         195,
         196,
-        197
+        197,
+        198
       ],
       "likes_rank": [
         null,
@@ -198,6 +201,7 @@
         119,
         121,
         125,
+        169,
         169
       ]
     }

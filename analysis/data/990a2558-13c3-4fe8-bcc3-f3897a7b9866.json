@@ -1,6 +1,6 @@
 {
   "agent_id": "990a2558-13c3-4fe8-bcc3-f3897a7b9866",
-  "generated_at": "2026-01-10T00:01:23.599748",
+  "generated_at": "2026-01-11T00:01:12.780519",
   "basic_info": {
     "title": "Try New Hair Color",
     "author": "AngryBerry",
@@ -11,34 +11,34 @@
     "published_at": "2026-01-06T22:44:35.857000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AngryBerry/try-new-hair-color",
-    "days_since_published": 3
+    "days_since_published": 4
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 256,
-      "runs_rank": 198,
+      "runs_rank": 199,
       "likes_rank": 38,
       "total_agents": 287,
       "views_percentile": 10.8,
-      "runs_percentile": 31.0,
+      "runs_percentile": 30.7,
       "likes_percentile": 86.8
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 2,
+    "days_tracked": 3,
     "price": 40.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 1,
+    "days_tracked": 2,
     "last_7_days": {
       "views_rank_change": -2,
-      "runs_rank_change": -2,
+      "runs_rank_change": -1,
       "likes_rank_change": -43
     },
     "last_30_days": {
       "views_rank_change": -2,
-      "runs_rank_change": -2,
+      "runs_rank_change": -1,
       "likes_rank_change": -43
     },
     "all_time": {
@@ -52,24 +52,28 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 2,
+    "data_points": 3,
     "first_recorded": "2026-01-08T08:01:02.485852",
-    "last_recorded": "2026-01-10T08:01:02.077885",
+    "last_recorded": "2026-01-11T08:01:01.017708",
     "time_series": {
       "dates": [
         "2026-01-08T08:01:02.485852",
-        "2026-01-10T08:01:02.077885"
+        "2026-01-10T08:01:02.077885",
+        "2026-01-11T08:01:01.017708"
       ],
       "views_rank": [
         258,
+        256,
         256
       ],
       "runs_rank": [
         200,
-        198
+        198,
+        199
       ],
       "likes_rank": [
         81,
+        38,
         38
       ]
     }

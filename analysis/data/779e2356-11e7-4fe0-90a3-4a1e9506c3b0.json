@@ -1,6 +1,6 @@
 {
   "agent_id": "779e2356-11e7-4fe0-90a3-4a1e9506c3b0",
-  "generated_at": "2026-01-10T00:01:20.222189",
+  "generated_at": "2026-01-11T00:01:09.686495",
   "basic_info": {
     "title": "Smart Q",
     "author": "QuickBI",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-04T15:33:59.812000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@QuickBI/smart-q",
-    "days_since_published": 66
+    "days_since_published": 67
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 22,
+      "views_rank": 21,
       "runs_rank": 5,
-      "likes_rank": 111,
+      "likes_rank": 121,
       "total_agents": 287,
-      "views_percentile": 92.3,
+      "views_percentile": 92.7,
       "runs_percentile": 98.3,
-      "likes_percentile": 61.3
+      "likes_percentile": 57.8
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 59,
+    "days_tracked": 60,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 52,
+    "days_tracked": 53,
     "last_7_days": {
-      "views_rank_change": -2,
+      "views_rank_change": -3,
       "runs_rank_change": 0,
-      "likes_rank_change": 76
+      "likes_rank_change": 86
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -42,19 +42,19 @@
       "likes_rank_change": null
     },
     "all_time": {
-      "best_views_rank": 22,
+      "best_views_rank": 21,
       "best_runs_rank": 4,
       "best_likes_rank": 2,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 22
+      "current_rank": 21
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 53,
+    "data_points": 54,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-10T08:01:02.077885",
+    "last_recorded": "2026-01-11T08:01:01.017708",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -109,7 +109,8 @@
         "2026-01-06T08:01:10.823440",
         "2026-01-07T08:00:59.041421",
         "2026-01-08T08:01:02.485852",
-        "2026-01-10T08:01:02.077885"
+        "2026-01-10T08:01:02.077885",
+        "2026-01-11T08:01:01.017708"
       ],
       "views_rank": [
         null,
@@ -164,7 +165,8 @@
         24,
         23,
         23,
-        22
+        22,
+        21
       ],
       "runs_rank": [
         null,
@@ -213,6 +215,7 @@
         5,
         4,
         4,
+        5,
         5,
         5,
         5,
@@ -274,7 +277,8 @@
         25,
         35,
         72,
-        111
+        111,
+        121
       ]
     }
   },
