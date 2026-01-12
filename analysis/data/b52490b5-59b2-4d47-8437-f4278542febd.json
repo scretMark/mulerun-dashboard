@@ -1,6 +1,6 @@
 {
   "agent_id": "b52490b5-59b2-4d47-8437-f4278542febd",
-  "generated_at": "2026-01-11T00:01:10.513427",
+  "generated_at": "2026-01-12T00:01:12.641160",
   "basic_info": {
     "title": "Quipple Meme Generator",
     "author": "akirakai",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-12T17:17:32.318000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@akirakai/quipple-meme-generator",
-    "days_since_published": 120
+    "days_since_published": 121
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 27,
       "runs_rank": 21,
-      "likes_rank": 63,
+      "likes_rank": 68,
       "total_agents": 287,
       "views_percentile": 90.6,
       "runs_percentile": 92.7,
-      "likes_percentile": 78.0
+      "likes_percentile": 76.3
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 117,
+    "days_tracked": 118,
     "price": 0.5
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 52,
+    "days_tracked": 53,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 1,
-      "likes_rank_change": 51
+      "likes_rank_change": 56
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 53,
+    "data_points": 54,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-11T08:01:01.017708",
+    "last_recorded": "2026-01-12T08:01:01.294614",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -109,7 +109,8 @@
         "2026-01-07T08:00:59.041421",
         "2026-01-08T08:01:02.485852",
         "2026-01-10T08:01:02.077885",
-        "2026-01-11T08:01:01.017708"
+        "2026-01-11T08:01:01.017708",
+        "2026-01-12T08:01:01.294614"
       ],
       "views_rank": [
         null,
@@ -155,6 +156,7 @@
         26,
         26,
         26,
+        27,
         27,
         27,
         27,
@@ -219,6 +221,7 @@
         20,
         20,
         21,
+        21,
         21
       ],
       "likes_rank": [
@@ -274,7 +277,8 @@
         11,
         40,
         63,
-        63
+        63,
+        68
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "cc89a662-d25e-4eb2-b40e-e3a27bb181b2",
-  "generated_at": "2026-01-11T00:01:12.789006",
+  "generated_at": "2026-01-12T00:01:12.111693",
   "basic_info": {
     "title": "Top-video YouTube Tracking",
     "author": "Rhino",
@@ -11,7 +11,7 @@
     "published_at": "2026-01-07T00:33:13.319000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Rhino/youtubetitle",
-    "days_since_published": 3
+    "days_since_published": 4
   },
   "ranking_metrics": {
     "current_position": {
@@ -25,12 +25,12 @@
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 3,
+    "days_tracked": 4,
     "price": 8.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 2,
+    "days_tracked": 3,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 1,
@@ -52,27 +52,31 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 3,
+    "data_points": 4,
     "first_recorded": "2026-01-08T08:01:02.485852",
-    "last_recorded": "2026-01-11T08:01:01.017708",
+    "last_recorded": "2026-01-12T08:01:01.294614",
     "time_series": {
       "dates": [
         "2026-01-08T08:01:02.485852",
         "2026-01-10T08:01:02.077885",
-        "2026-01-11T08:01:01.017708"
+        "2026-01-11T08:01:01.017708",
+        "2026-01-12T08:01:01.294614"
       ],
       "views_rank": [
         276,
         276,
+        277,
         277
       ],
       "runs_rank": [
         261,
         262,
+        262,
         262
       ],
       "likes_rank": [
         23,
+        54,
         54,
         54
       ]

@@ -1,6 +1,6 @@
 {
   "agent_id": "8db001f9-28ff-4b9a-8337-e7d5f025fd7f",
-  "generated_at": "2026-01-11T00:01:09.857761",
+  "generated_at": "2026-01-12T00:01:11.792863",
   "basic_info": {
     "title": "YouTube Thumbnail",
     "author": "summerail",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-09T16:48:38.136000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/youtube-thumbnail",
-    "days_since_published": 93
+    "days_since_published": 94
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 35,
+      "views_rank": 36,
       "runs_rank": 44,
-      "likes_rank": 144,
+      "likes_rank": 141,
       "total_agents": 287,
-      "views_percentile": 87.8,
+      "views_percentile": 87.5,
       "runs_percentile": 84.7,
-      "likes_percentile": 49.8
+      "likes_percentile": 50.9
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 73,
+    "days_tracked": 74,
     "price": 30.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 53,
+    "days_tracked": 54,
     "last_7_days": {
-      "views_rank_change": 1,
+      "views_rank_change": 2,
       "runs_rank_change": 0,
-      "likes_rank_change": -102
+      "likes_rank_change": -105
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -44,17 +44,17 @@
     "all_time": {
       "best_views_rank": 34,
       "best_runs_rank": 42,
-      "best_likes_rank": 144,
+      "best_likes_rank": 141,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 35
+      "current_rank": 36
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 54,
+    "data_points": 55,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-11T08:01:01.017708",
+    "last_recorded": "2026-01-12T08:01:01.294614",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -110,7 +110,8 @@
         "2026-01-07T08:00:59.041421",
         "2026-01-08T08:01:02.485852",
         "2026-01-10T08:01:02.077885",
-        "2026-01-11T08:01:01.017708"
+        "2026-01-11T08:01:01.017708",
+        "2026-01-12T08:01:01.294614"
       ],
       "views_rank": [
         null,
@@ -166,7 +167,8 @@
         34,
         35,
         35,
-        35
+        35,
+        36
       ],
       "runs_rank": [
         null,
@@ -210,6 +212,7 @@
         43,
         43,
         43,
+        44,
         44,
         44,
         44,
@@ -278,7 +281,8 @@
         252,
         248,
         147,
-        144
+        144,
+        141
       ]
     }
   },
@@ -290,7 +294,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #35 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #36 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

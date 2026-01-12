@@ -1,6 +1,6 @@
 {
   "agent_id": "f312d26e-e790-4571-a881-2af89a281851",
-  "generated_at": "2026-01-11T00:01:12.477143",
+  "generated_at": "2026-01-12T00:01:11.771273",
   "basic_info": {
     "title": "Cozy Xmas Cube",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-19T16:25:54.256000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/cozy-xmas-cube",
-    "days_since_published": 22
+    "days_since_published": 23
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 280,
       "runs_rank": 276,
-      "likes_rank": 207,
+      "likes_rank": 208,
       "total_agents": 287,
       "views_percentile": 2.4,
       "runs_percentile": 3.8,
-      "likes_percentile": 27.9
+      "likes_percentile": 27.5
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 19,
+    "days_tracked": 20,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 22,
+    "days_tracked": 23,
     "last_7_days": {
       "views_rank_change": 4,
       "runs_rank_change": 4,
-      "likes_rank_change": 48
+      "likes_rank_change": 49
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": 29,
-      "likes_rank_change": 158
+      "likes_rank_change": 159
     },
     "all_time": {
       "best_views_rank": 271,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 20,
+    "data_points": 21,
     "first_recorded": "2025-12-20T08:01:00.398750",
-    "last_recorded": "2026-01-11T08:01:01.017708",
+    "last_recorded": "2026-01-12T08:01:01.294614",
     "time_series": {
       "dates": [
         "2025-12-20T08:01:00.398750",
@@ -76,7 +76,8 @@
         "2026-01-07T08:00:59.041421",
         "2026-01-08T08:01:02.485852",
         "2026-01-10T08:01:02.077885",
-        "2026-01-11T08:01:01.017708"
+        "2026-01-11T08:01:01.017708",
+        "2026-01-12T08:01:01.294614"
       ],
       "views_rank": [
         null,
@@ -97,6 +98,7 @@
         276,
         276,
         279,
+        280,
         280,
         280
       ],
@@ -120,6 +122,7 @@
         272,
         275,
         276,
+        276,
         276
       ],
       "likes_rank": [
@@ -142,7 +145,8 @@
         160,
         165,
         207,
-        207
+        207,
+        208
       ]
     }
   },

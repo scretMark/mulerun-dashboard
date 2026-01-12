@@ -1,6 +1,6 @@
 {
   "agent_id": "ca5710ab-c6da-4201-9221-b596b53f9857",
-  "generated_at": "2026-01-11T00:01:11.541208",
+  "generated_at": "2026-01-12T00:01:13.703580",
   "basic_info": {
     "title": "Ink Wash Painting",
     "author": "Darren",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-20T11:31:54.304000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/ink-wash-painting",
-    "days_since_published": 82
+    "days_since_published": 83
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 153,
-      "runs_rank": 247,
-      "likes_rank": 86,
+      "runs_rank": 244,
+      "likes_rank": 82,
       "total_agents": 287,
       "views_percentile": 46.7,
-      "runs_percentile": 13.9,
-      "likes_percentile": 70.0
+      "runs_percentile": 15.0,
+      "likes_percentile": 71.4
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 75,
+    "days_tracked": 76,
     "price": 51.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 52,
+    "days_tracked": 53,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 3,
-      "likes_rank_change": 52
+      "runs_rank_change": 0,
+      "likes_rank_change": 48
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 53,
+    "data_points": 54,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-11T08:01:01.017708",
+    "last_recorded": "2026-01-12T08:01:01.294614",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -109,7 +109,8 @@
         "2026-01-07T08:00:59.041421",
         "2026-01-08T08:01:02.485852",
         "2026-01-10T08:01:02.077885",
-        "2026-01-11T08:01:01.017708"
+        "2026-01-11T08:01:01.017708",
+        "2026-01-12T08:01:01.294614"
       ],
       "views_rank": [
         null,
@@ -163,6 +164,7 @@
         154,
         154,
         154,
+        153,
         153,
         153
       ],
@@ -219,7 +221,8 @@
         245,
         246,
         247,
-        247
+        247,
+        244
       ],
       "likes_rank": [
         null,
@@ -274,7 +277,8 @@
         32,
         33,
         85,
-        86
+        86,
+        82
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "64ad39ee-cbe9-471c-a02c-22f29b6b3bb3",
-  "generated_at": "2026-01-11T00:01:12.807164",
+  "generated_at": "2026-01-12T00:01:12.130693",
   "basic_info": {
     "title": "PixelSensei",
     "author": "LunarAITalk",
@@ -11,7 +11,7 @@
     "published_at": "2026-01-01T19:25:02.602000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LunarAITalk/pixelsensei",
-    "days_since_published": 9
+    "days_since_published": 10
   },
   "ranking_metrics": {
     "current_position": {
@@ -25,7 +25,7 @@
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 1,
+    "days_tracked": 2,
     "price": 20.0
   },
   "ranking_trends": {
@@ -52,24 +52,28 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 2,
+    "data_points": 3,
     "first_recorded": "2026-01-10T08:01:02.077885",
-    "last_recorded": "2026-01-11T08:01:01.017708",
+    "last_recorded": "2026-01-12T08:01:01.294614",
     "time_series": {
       "dates": [
         "2026-01-10T08:01:02.077885",
-        "2026-01-11T08:01:01.017708"
+        "2026-01-11T08:01:01.017708",
+        "2026-01-12T08:01:01.294614"
       ],
       "views_rank": [
         251,
+        232,
         232
       ],
       "runs_rank": [
         222,
+        151,
         151
       ],
       "likes_rank": [
         74,
+        78,
         78
       ]
     }

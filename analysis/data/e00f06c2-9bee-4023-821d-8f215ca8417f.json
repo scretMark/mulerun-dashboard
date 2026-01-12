@@ -1,6 +1,6 @@
 {
   "agent_id": "e00f06c2-9bee-4023-821d-8f215ca8417f",
-  "generated_at": "2026-01-11T00:01:12.711576",
+  "generated_at": "2026-01-12T00:01:12.055090",
   "basic_info": {
     "title": "Sales Advisor",
     "author": "SmartQ",
@@ -11,35 +11,35 @@
     "published_at": "2026-01-01T02:59:46.639000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@SmartQ/winnexo",
-    "days_since_published": 9
+    "days_since_published": 10
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 108,
-      "runs_rank": 93,
-      "likes_rank": 152,
+      "runs_rank": 94,
+      "likes_rank": 153,
       "total_agents": 287,
       "views_percentile": 62.4,
-      "runs_percentile": 67.6,
-      "likes_percentile": 47.0
+      "runs_percentile": 67.2,
+      "likes_percentile": 46.7
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 8,
+    "days_tracked": 9,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 5,
+    "days_tracked": 6,
     "last_7_days": {
       "views_rank_change": -18,
-      "runs_rank_change": -14,
-      "likes_rank_change": 46
+      "runs_rank_change": -13,
+      "likes_rank_change": 47
     },
     "last_30_days": {
       "views_rank_change": -18,
-      "runs_rank_change": -14,
-      "likes_rank_change": 46
+      "runs_rank_change": -13,
+      "likes_rank_change": 47
     },
     "all_time": {
       "best_views_rank": 108,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 6,
+    "data_points": 7,
     "first_recorded": "2026-01-05T08:01:10.022221",
-    "last_recorded": "2026-01-11T08:01:01.017708",
+    "last_recorded": "2026-01-12T08:01:01.294614",
     "time_series": {
       "dates": [
         "2026-01-05T08:01:10.022221",
@@ -62,13 +62,15 @@
         "2026-01-07T08:00:59.041421",
         "2026-01-08T08:01:02.485852",
         "2026-01-10T08:01:02.077885",
-        "2026-01-11T08:01:01.017708"
+        "2026-01-11T08:01:01.017708",
+        "2026-01-12T08:01:01.294614"
       ],
       "views_rank": [
         126,
         117,
         112,
         110,
+        108,
         108,
         108
       ],
@@ -78,7 +80,8 @@
         101,
         99,
         93,
-        93
+        93,
+        94
       ],
       "likes_rank": [
         106,
@@ -86,7 +89,8 @@
         106,
         112,
         152,
-        152
+        152,
+        153
       ]
     }
   },
@@ -110,7 +114,7 @@
     {
       "type": "positive",
       "title": "Growing Usage",
-      "description": "Runs ranking improved by 14 positions in the last 30 days - users are actively engaging with this agent!"
+      "description": "Runs ranking improved by 13 positions in the last 30 days - users are actively engaging with this agent!"
     },
     {
       "type": "positive",

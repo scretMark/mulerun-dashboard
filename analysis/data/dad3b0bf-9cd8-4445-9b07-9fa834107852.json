@@ -1,6 +1,6 @@
 {
   "agent_id": "dad3b0bf-9cd8-4445-9b07-9fa834107852",
-  "generated_at": "2026-01-11T00:01:12.503611",
+  "generated_at": "2026-01-12T00:01:11.805929",
   "basic_info": {
     "title": "You in a Snow Globe",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-19T16:16:07.657000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/you-in-a-snow-globe",
-    "days_since_published": 22
+    "days_since_published": 23
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 284,
       "runs_rank": 287,
-      "likes_rank": 198,
+      "likes_rank": 199,
       "total_agents": 287,
       "views_percentile": 1.0,
       "runs_percentile": 0.0,
-      "likes_percentile": 31.0
+      "likes_percentile": 30.7
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 19,
+    "days_tracked": 20,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 22,
+    "days_tracked": 23,
     "last_7_days": {
       "views_rank_change": 4,
       "runs_rank_change": 5,
-      "likes_rank_change": 51
+      "likes_rank_change": 52
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 150
+      "likes_rank_change": 151
     },
     "all_time": {
       "best_views_rank": 275,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 20,
+    "data_points": 21,
     "first_recorded": "2025-12-20T08:01:00.398750",
-    "last_recorded": "2026-01-11T08:01:01.017708",
+    "last_recorded": "2026-01-12T08:01:01.294614",
     "time_series": {
       "dates": [
         "2025-12-20T08:01:00.398750",
@@ -76,7 +76,8 @@
         "2026-01-07T08:00:59.041421",
         "2026-01-08T08:01:02.485852",
         "2026-01-10T08:01:02.077885",
-        "2026-01-11T08:01:01.017708"
+        "2026-01-11T08:01:01.017708",
+        "2026-01-12T08:01:01.294614"
       ],
       "views_rank": [
         null,
@@ -97,6 +98,7 @@
         280,
         280,
         283,
+        284,
         284,
         284
       ],
@@ -120,6 +122,7 @@
         282,
         285,
         287,
+        287,
         287
       ],
       "likes_rank": [
@@ -142,7 +145,8 @@
         150,
         155,
         198,
-        198
+        198,
+        199
       ]
     }
   },

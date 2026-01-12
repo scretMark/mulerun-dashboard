@@ -1,6 +1,6 @@
 {
   "agent_id": "93db55d2-7fe5-408d-82ac-ae2e97422987",
-  "generated_at": "2026-01-11T00:01:12.650923",
+  "generated_at": "2026-01-12T00:01:11.988820",
   "basic_info": {
     "title": "Fashion Reels",
     "author": "PicCopilot",
@@ -11,34 +11,34 @@
     "published_at": "2025-12-23T14:08:06.614000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/ai-model-video",
-    "days_since_published": 18
+    "days_since_published": 19
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 233,
-      "runs_rank": 208,
+      "runs_rank": 209,
       "likes_rank": 28,
       "total_agents": 287,
       "views_percentile": 18.8,
-      "runs_percentile": 27.5,
+      "runs_percentile": 27.2,
       "likes_percentile": 90.2
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 12,
+    "days_tracked": 13,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 15,
+    "days_tracked": 16,
     "last_7_days": {
       "views_rank_change": -11,
-      "runs_rank_change": -29,
+      "runs_rank_change": -28,
       "likes_rank_change": -35
     },
     "last_30_days": {
       "views_rank_change": -7,
-      "runs_rank_change": -29,
+      "runs_rank_change": -28,
       "likes_rank_change": -17
     },
     "all_time": {
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 13,
+    "data_points": 14,
     "first_recorded": "2025-12-27T08:01:00.423663",
-    "last_recorded": "2026-01-11T08:01:01.017708",
+    "last_recorded": "2026-01-12T08:01:01.294614",
     "time_series": {
       "dates": [
         "2025-12-27T08:01:00.423663",
@@ -69,7 +69,8 @@
         "2026-01-07T08:00:59.041421",
         "2026-01-08T08:01:02.485852",
         "2026-01-10T08:01:02.077885",
-        "2026-01-11T08:01:01.017708"
+        "2026-01-11T08:01:01.017708",
+        "2026-01-12T08:01:01.294614"
       ],
       "views_rank": [
         240,
@@ -82,6 +83,7 @@
         244,
         233,
         235,
+        233,
         233,
         233,
         233
@@ -99,7 +101,8 @@
         214,
         213,
         207,
-        208
+        208,
+        209
       ],
       "likes_rank": [
         45,
@@ -114,6 +117,7 @@
         56,
         67,
         33,
+        28,
         28
       ]
     }
@@ -138,7 +142,7 @@
     {
       "type": "positive",
       "title": "Growing Usage",
-      "description": "Runs ranking improved by 29 positions in the last 30 days - users are actively engaging with this agent!"
+      "description": "Runs ranking improved by 28 positions in the last 30 days - users are actively engaging with this agent!"
     },
     {
       "type": "positive",

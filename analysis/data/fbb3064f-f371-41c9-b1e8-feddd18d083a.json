@@ -1,6 +1,6 @@
 {
   "agent_id": "fbb3064f-f371-41c9-b1e8-feddd18d083a",
-  "generated_at": "2026-01-11T00:01:11.669390",
+  "generated_at": "2026-01-12T00:01:13.843293",
   "basic_info": {
     "title": "Nobelize Me",
     "author": "Aichimp",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-10T13:13:16.209000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aichimp/nobelize-me",
-    "days_since_published": 92
+    "days_since_published": 93
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 195,
       "runs_rank": 225,
-      "likes_rank": 271,
+      "likes_rank": 270,
       "total_agents": 287,
       "views_percentile": 32.1,
       "runs_percentile": 21.6,
-      "likes_percentile": 5.6
+      "likes_percentile": 5.9
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 75,
+    "days_tracked": 76,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 52,
+    "days_tracked": 53,
     "last_7_days": {
       "views_rank_change": 6,
       "runs_rank_change": 5,
-      "likes_rank_change": 27
+      "likes_rank_change": 26
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 53,
+    "data_points": 54,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-11T08:01:01.017708",
+    "last_recorded": "2026-01-12T08:01:01.294614",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -109,7 +109,8 @@
         "2026-01-07T08:00:59.041421",
         "2026-01-08T08:01:02.485852",
         "2026-01-10T08:01:02.077885",
-        "2026-01-11T08:01:01.017708"
+        "2026-01-11T08:01:01.017708",
+        "2026-01-12T08:01:01.294614"
       ],
       "views_rank": [
         null,
@@ -163,6 +164,7 @@
         190,
         192,
         192,
+        195,
         195,
         195
       ],
@@ -219,6 +221,7 @@
         221,
         222,
         225,
+        225,
         225
       ],
       "likes_rank": [
@@ -274,7 +277,8 @@
         242,
         247,
         271,
-        271
+        271,
+        270
       ]
     }
   },

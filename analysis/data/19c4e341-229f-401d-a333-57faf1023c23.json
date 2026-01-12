@@ -1,6 +1,6 @@
 {
   "agent_id": "19c4e341-229f-401d-a333-57faf1023c23",
-  "generated_at": "2026-01-11T00:01:10.816131",
+  "generated_at": "2026-01-12T00:01:12.969493",
   "basic_info": {
     "title": "My Halloween Twin",
     "author": "Norsizu",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-05T22:43:37.357000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/my-halloween-twin",
-    "days_since_published": 97
+    "days_since_published": 98
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 143,
       "runs_rank": 168,
-      "likes_rank": 243,
+      "likes_rank": 244,
       "total_agents": 287,
       "views_percentile": 50.2,
       "runs_percentile": 41.5,
-      "likes_percentile": 15.3
+      "likes_percentile": 15.0
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 73,
+    "days_tracked": 74,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 52,
+    "days_tracked": 53,
     "last_7_days": {
       "views_rank_change": 2,
       "runs_rank_change": 6,
-      "likes_rank_change": 42
+      "likes_rank_change": 43
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 53,
+    "data_points": 54,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-11T08:01:01.017708",
+    "last_recorded": "2026-01-12T08:01:01.294614",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -109,7 +109,8 @@
         "2026-01-07T08:00:59.041421",
         "2026-01-08T08:01:02.485852",
         "2026-01-10T08:01:02.077885",
-        "2026-01-11T08:01:01.017708"
+        "2026-01-11T08:01:01.017708",
+        "2026-01-12T08:01:01.294614"
       ],
       "views_rank": [
         null,
@@ -163,6 +164,7 @@
         141,
         141,
         141,
+        143,
         143,
         143
       ],
@@ -219,6 +221,7 @@
         166,
         167,
         167,
+        168,
         168
       ],
       "likes_rank": [
@@ -274,7 +277,8 @@
         201,
         204,
         243,
-        243
+        243,
+        244
       ]
     }
   },

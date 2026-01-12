@@ -1,6 +1,6 @@
 {
   "agent_id": "51db6cad-29a6-465e-be01-acd44664deeb",
-  "generated_at": "2026-01-11T00:01:12.323082",
+  "generated_at": "2026-01-12T00:01:11.625879",
   "basic_info": {
     "title": "Design your cup",
     "author": "8bit",
@@ -11,28 +11,28 @@
     "published_at": "2025-12-09T15:24:54.449000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/design-your-cup",
-    "days_since_published": 32
+    "days_since_published": 33
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 276,
+      "views_rank": 274,
       "runs_rank": 232,
       "likes_rank": 188,
       "total_agents": 287,
-      "views_percentile": 3.8,
+      "views_percentile": 4.5,
       "runs_percentile": 19.2,
       "likes_percentile": 34.5
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 30,
+    "days_tracked": 31,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 29,
+    "days_tracked": 30,
     "last_7_days": {
-      "views_rank_change": 6,
+      "views_rank_change": 4,
       "runs_rank_change": 5,
       "likes_rank_change": 49
     },
@@ -47,14 +47,14 @@
       "best_likes_rank": 76,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 276
+      "current_rank": 274
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 30,
+    "data_points": 31,
     "first_recorded": "2025-12-13T08:00:26.854786",
-    "last_recorded": "2026-01-11T08:01:01.017708",
+    "last_recorded": "2026-01-12T08:01:01.294614",
     "time_series": {
       "dates": [
         "2025-12-13T08:00:26.854786",
@@ -86,7 +86,8 @@
         "2026-01-07T08:00:59.041421",
         "2026-01-08T08:01:02.485852",
         "2026-01-10T08:01:02.077885",
-        "2026-01-11T08:01:01.017708"
+        "2026-01-11T08:01:01.017708",
+        "2026-01-12T08:01:01.294614"
       ],
       "views_rank": [
         null,
@@ -118,7 +119,8 @@
         272,
         274,
         275,
-        276
+        276,
+        274
       ],
       "runs_rank": [
         null,
@@ -149,6 +151,7 @@
         228,
         228,
         230,
+        232,
         232,
         232
       ],
@@ -182,6 +185,7 @@
         139,
         144,
         188,
+        188,
         188
       ]
     }
@@ -201,7 +205,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #276 out of 287 active agents."
+      "description": "This agent is currently ranked #274 out of 287 active agents."
     }
   ]
 }

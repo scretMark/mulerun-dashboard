@@ -1,6 +1,6 @@
 {
   "agent_id": "4ce5fefc-ed2f-46b2-b889-2c0223955156",
-  "generated_at": "2026-01-11T00:01:12.797639",
+  "generated_at": "2026-01-12T00:01:12.120621",
   "basic_info": {
     "title": "Manga Translator",
     "author": "usernuk",
@@ -11,35 +11,35 @@
     "published_at": "2026-01-06T09:35:53.576000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@usernuk/manga-translator",
-    "days_since_published": 4
+    "days_since_published": 5
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 271,
       "runs_rank": 269,
-      "likes_rank": 41,
+      "likes_rank": 42,
       "total_agents": 287,
       "views_percentile": 5.6,
       "runs_percentile": 6.3,
-      "likes_percentile": 85.7
+      "likes_percentile": 85.4
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 3,
+    "days_tracked": 4,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 2,
+    "days_tracked": 3,
     "last_7_days": {
       "views_rank_change": 3,
       "runs_rank_change": 1,
-      "likes_rank_change": -43
+      "likes_rank_change": -42
     },
     "last_30_days": {
       "views_rank_change": 3,
       "runs_rank_change": 1,
-      "likes_rank_change": -43
+      "likes_rank_change": -42
     },
     "all_time": {
       "best_views_rank": 268,
@@ -52,29 +52,33 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 3,
+    "data_points": 4,
     "first_recorded": "2026-01-08T08:01:02.485852",
-    "last_recorded": "2026-01-11T08:01:01.017708",
+    "last_recorded": "2026-01-12T08:01:01.294614",
     "time_series": {
       "dates": [
         "2026-01-08T08:01:02.485852",
         "2026-01-10T08:01:02.077885",
-        "2026-01-11T08:01:01.017708"
+        "2026-01-11T08:01:01.017708",
+        "2026-01-12T08:01:01.294614"
       ],
       "views_rank": [
         268,
         270,
+        271,
         271
       ],
       "runs_rank": [
         268,
+        269,
         269,
         269
       ],
       "likes_rank": [
         84,
         41,
-        41
+        41,
+        42
       ]
     }
   },
@@ -93,7 +97,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #41 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #42 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

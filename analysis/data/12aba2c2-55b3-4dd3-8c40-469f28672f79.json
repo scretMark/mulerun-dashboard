@@ -1,6 +1,6 @@
 {
   "agent_id": "12aba2c2-55b3-4dd3-8c40-469f28672f79",
-  "generated_at": "2026-01-11T00:01:12.591385",
+  "generated_at": "2026-01-12T00:01:11.921425",
   "basic_info": {
     "title": "Speech to Text for Lite Version",
     "author": "zhoudshu",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-24T16:02:22.495000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@zhoudshu/speech-to-text",
-    "days_since_published": 17
+    "days_since_published": 18
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 245,
-      "runs_rank": 194,
-      "likes_rank": 154,
+      "runs_rank": 195,
+      "likes_rank": 152,
       "total_agents": 287,
       "views_percentile": 14.6,
-      "runs_percentile": 32.4,
-      "likes_percentile": 46.3
+      "runs_percentile": 32.1,
+      "likes_percentile": 47.0
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 13,
+    "days_tracked": 14,
     "price": 20.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 16,
+    "days_tracked": 17,
     "last_7_days": {
       "views_rank_change": 6,
-      "runs_rank_change": 3,
-      "likes_rank_change": 50
+      "runs_rank_change": 4,
+      "likes_rank_change": 48
     },
     "last_30_days": {
       "views_rank_change": 7,
-      "runs_rank_change": 6,
-      "likes_rank_change": 84
+      "runs_rank_change": 7,
+      "likes_rank_change": 82
     },
     "all_time": {
       "best_views_rank": 236,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 14,
+    "data_points": 15,
     "first_recorded": "2025-12-26T08:00:54.905148",
-    "last_recorded": "2026-01-11T08:01:01.017708",
+    "last_recorded": "2026-01-12T08:01:01.294614",
     "time_series": {
       "dates": [
         "2025-12-26T08:00:54.905148",
@@ -70,7 +70,8 @@
         "2026-01-07T08:00:59.041421",
         "2026-01-08T08:01:02.485852",
         "2026-01-10T08:01:02.077885",
-        "2026-01-11T08:01:01.017708"
+        "2026-01-11T08:01:01.017708",
+        "2026-01-12T08:01:01.294614"
       ],
       "views_rank": [
         238,
@@ -86,6 +87,7 @@
         243,
         243,
         244,
+        245,
         245
       ],
       "runs_rank": [
@@ -102,7 +104,8 @@
         191,
         192,
         193,
-        194
+        194,
+        195
       ],
       "likes_rank": [
         70,
@@ -118,7 +121,8 @@
         105,
         109,
         153,
-        154
+        154,
+        152
       ]
     }
   },

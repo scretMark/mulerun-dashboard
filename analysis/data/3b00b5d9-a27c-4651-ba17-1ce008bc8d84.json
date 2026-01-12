@@ -1,6 +1,6 @@
 {
   "agent_id": "3b00b5d9-a27c-4651-ba17-1ce008bc8d84",
-  "generated_at": "2026-01-11T00:01:11.199487",
+  "generated_at": "2026-01-12T00:01:13.283614",
   "basic_info": {
     "title": "Pet Red Carpet Photos",
     "author": "LinkAIBrain",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-18T19:16:26.843000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/pet-red-carpet-photos",
-    "days_since_published": 114
+    "days_since_published": 115
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 62,
-      "runs_rank": 91,
-      "likes_rank": 219,
+      "runs_rank": 92,
+      "likes_rank": 220,
       "total_agents": 287,
       "views_percentile": 78.4,
-      "runs_percentile": 68.3,
-      "likes_percentile": 23.7
+      "runs_percentile": 67.9,
+      "likes_percentile": 23.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 113,
+    "days_tracked": 114,
     "price": 30.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 52,
+    "days_tracked": 53,
     "last_7_days": {
       "views_rank_change": 4,
-      "runs_rank_change": 0,
-      "likes_rank_change": 49
+      "runs_rank_change": 1,
+      "likes_rank_change": 50
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 53,
+    "data_points": 54,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-11T08:01:01.017708",
+    "last_recorded": "2026-01-12T08:01:01.294614",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -109,7 +109,8 @@
         "2026-01-07T08:00:59.041421",
         "2026-01-08T08:01:02.485852",
         "2026-01-10T08:01:02.077885",
-        "2026-01-11T08:01:01.017708"
+        "2026-01-11T08:01:01.017708",
+        "2026-01-12T08:01:01.294614"
       ],
       "views_rank": [
         null,
@@ -163,6 +164,7 @@
         59,
         60,
         60,
+        62,
         62,
         62
       ],
@@ -219,7 +221,8 @@
         91,
         91,
         91,
-        91
+        91,
+        92
       ],
       "likes_rank": [
         null,
@@ -274,7 +277,8 @@
         170,
         175,
         219,
-        219
+        219,
+        220
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "59d31c99-6023-4634-93cf-6470d3e7bc2b",
-  "generated_at": "2026-01-11T00:01:12.366830",
+  "generated_at": "2026-01-12T00:01:11.669695",
   "basic_info": {
     "title": "image matting",
     "author": "jumdata",
@@ -11,29 +11,29 @@
     "published_at": "2025-12-12T09:37:01.780000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@jumdata/image-matting",
-    "days_since_published": 29
+    "days_since_published": 30
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 207,
-      "runs_rank": 124,
+      "runs_rank": 122,
       "likes_rank": 157,
       "total_agents": 287,
       "views_percentile": 27.9,
-      "runs_percentile": 56.8,
+      "runs_percentile": 57.5,
       "likes_percentile": 45.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 26,
+    "days_tracked": 27,
     "price": 20.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 25,
+    "days_tracked": 26,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": -13,
+      "runs_rank_change": -15,
       "likes_rank_change": 49
     },
     "last_30_days": {
@@ -43,7 +43,7 @@
     },
     "all_time": {
       "best_views_rank": 200,
-      "best_runs_rank": 124,
+      "best_runs_rank": 122,
       "best_likes_rank": 41,
       "days_in_top_10": 0,
       "first_rank": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 27,
+    "data_points": 28,
     "first_recorded": "2025-12-16T19:09:41.063612",
-    "last_recorded": "2026-01-11T08:01:01.017708",
+    "last_recorded": "2026-01-12T08:01:01.294614",
     "time_series": {
       "dates": [
         "2025-12-16T19:09:41.063612",
@@ -83,7 +83,8 @@
         "2026-01-07T08:00:59.041421",
         "2026-01-08T08:01:02.485852",
         "2026-01-10T08:01:02.077885",
-        "2026-01-11T08:01:01.017708"
+        "2026-01-11T08:01:01.017708",
+        "2026-01-12T08:01:01.294614"
       ],
       "views_rank": [
         null,
@@ -112,6 +113,7 @@
         208,
         208,
         208,
+        207,
         207
       ],
       "runs_rank": [
@@ -141,7 +143,8 @@
         131,
         131,
         124,
-        124
+        124,
+        122
       ],
       "likes_rank": [
         null,
@@ -169,6 +172,7 @@
         108,
         109,
         114,
+        157,
         157,
         157
       ]

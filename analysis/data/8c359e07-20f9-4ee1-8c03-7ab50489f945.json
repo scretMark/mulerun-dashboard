@@ -1,6 +1,6 @@
 {
   "agent_id": "8c359e07-20f9-4ee1-8c03-7ab50489f945",
-  "generated_at": "2026-01-11T00:01:11.231459",
+  "generated_at": "2026-01-12T00:01:13.317437",
   "basic_info": {
     "title": "Virtual Try-On",
     "author": "LunarAITalk",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-23T22:21:17.364000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LunarAITalk/virtual-try-on",
-    "days_since_published": 109
+    "days_since_published": 110
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 71,
       "runs_rank": 79,
-      "likes_rank": 278,
+      "likes_rank": 277,
       "total_agents": 287,
       "views_percentile": 75.3,
       "runs_percentile": 72.5,
-      "likes_percentile": 3.1
+      "likes_percentile": 3.5
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 109,
+    "days_tracked": 110,
     "price": 30.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 52,
+    "days_tracked": 53,
     "last_7_days": {
       "views_rank_change": 2,
       "runs_rank_change": 2,
-      "likes_rank_change": 19
+      "likes_rank_change": 18
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 53,
+    "data_points": 54,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-11T08:01:01.017708",
+    "last_recorded": "2026-01-12T08:01:01.294614",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -109,7 +109,8 @@
         "2026-01-07T08:00:59.041421",
         "2026-01-08T08:01:02.485852",
         "2026-01-10T08:01:02.077885",
-        "2026-01-11T08:01:01.017708"
+        "2026-01-11T08:01:01.017708",
+        "2026-01-12T08:01:01.294614"
       ],
       "views_rank": [
         null,
@@ -161,6 +162,7 @@
         68,
         69,
         70,
+        71,
         71,
         71,
         71,
@@ -219,6 +221,7 @@
         78,
         79,
         79,
+        79,
         79
       ],
       "likes_rank": [
@@ -274,7 +277,8 @@
         256,
         259,
         278,
-        278
+        278,
+        277
       ]
     }
   },
