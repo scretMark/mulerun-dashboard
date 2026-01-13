@@ -1,6 +1,6 @@
 {
   "agent_id": "779e2356-11e7-4fe0-90a3-4a1e9506c3b0",
-  "generated_at": "2026-01-12T00:01:11.610996",
+  "generated_at": "2026-01-13T00:01:25.480382",
   "basic_info": {
     "title": "Smart Q",
     "author": "QuickBI",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-04T15:33:59.812000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@QuickBI/smart-q",
-    "days_since_published": 68
+    "days_since_published": 69
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 21,
       "runs_rank": 5,
-      "likes_rank": 117,
-      "total_agents": 287,
-      "views_percentile": 92.7,
+      "likes_rank": 123,
+      "total_agents": 290,
+      "views_percentile": 92.8,
       "runs_percentile": 98.3,
-      "likes_percentile": 59.2
+      "likes_percentile": 57.6
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 61,
+    "days_tracked": 62,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 54,
+    "days_tracked": 55,
     "last_7_days": {
       "views_rank_change": -3,
       "runs_rank_change": 0,
-      "likes_rank_change": 82
+      "likes_rank_change": 98
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 55,
+    "data_points": 56,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-12T08:01:01.294614",
+    "last_recorded": "2026-01-13T08:00:58.516114",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -111,7 +111,8 @@
         "2026-01-08T08:01:02.485852",
         "2026-01-10T08:01:02.077885",
         "2026-01-11T08:01:01.017708",
-        "2026-01-12T08:01:01.294614"
+        "2026-01-12T08:01:01.294614",
+        "2026-01-13T08:00:58.516114"
       ],
       "views_rank": [
         null,
@@ -168,6 +169,7 @@
         23,
         22,
         21,
+        21,
         21
       ],
       "runs_rank": [
@@ -217,6 +219,7 @@
         5,
         4,
         4,
+        5,
         5,
         5,
         5,
@@ -282,7 +285,8 @@
         72,
         111,
         121,
-        117
+        117,
+        123
       ]
     }
   },

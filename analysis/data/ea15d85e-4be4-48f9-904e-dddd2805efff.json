@@ -1,6 +1,6 @@
 {
   "agent_id": "ea15d85e-4be4-48f9-904e-dddd2805efff",
-  "generated_at": "2026-01-12T00:01:12.777657",
+  "generated_at": "2026-01-13T00:01:24.160195",
   "basic_info": {
     "title": "Pet Morph Wizard",
     "author": "Milo_Em",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-11T17:30:04.210000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Milo_Em/pet-morph-wizard",
-    "days_since_published": 92
+    "days_since_published": 93
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 184,
       "runs_rank": 224,
-      "likes_rank": 178,
-      "total_agents": 287,
-      "views_percentile": 35.9,
-      "runs_percentile": 22.0,
-      "likes_percentile": 38.0
+      "likes_rank": 180,
+      "total_agents": 290,
+      "views_percentile": 36.6,
+      "runs_percentile": 22.8,
+      "likes_percentile": 37.9
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 76,
+    "days_tracked": 77,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 53,
+    "days_tracked": 54,
     "last_7_days": {
-      "views_rank_change": 6,
-      "runs_rank_change": 5,
-      "likes_rank_change": 49
+      "views_rank_change": 3,
+      "runs_rank_change": 4,
+      "likes_rank_change": 51
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 54,
+    "data_points": 55,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-12T08:01:01.294614",
+    "last_recorded": "2026-01-13T08:00:58.516114",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -110,7 +110,8 @@
         "2026-01-08T08:01:02.485852",
         "2026-01-10T08:01:02.077885",
         "2026-01-11T08:01:01.017708",
-        "2026-01-12T08:01:01.294614"
+        "2026-01-12T08:01:01.294614",
+        "2026-01-13T08:00:58.516114"
       ],
       "views_rank": [
         null,
@@ -164,6 +165,7 @@
         181,
         182,
         183,
+        184,
         184,
         184,
         184
@@ -222,6 +224,7 @@
         221,
         224,
         224,
+        224,
         224
       ],
       "likes_rank": [
@@ -278,7 +281,8 @@
         135,
         178,
         178,
-        178
+        178,
+        180
       ]
     }
   },
@@ -290,7 +294,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #184 out of 287 active agents."
+      "description": "This agent is currently ranked #184 out of 290 active agents."
     }
   ]
 }

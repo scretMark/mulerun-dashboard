@@ -1,6 +1,6 @@
 {
   "agent_id": "bf6a2a34-dead-4bf6-9de5-821453108eaa",
-  "generated_at": "2026-01-12T00:01:11.873266",
+  "generated_at": "2026-01-13T00:01:25.780594",
   "basic_info": {
     "title": "ProHeadshot Studio",
     "author": "Darren",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-20T11:36:43.297000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/proheadshot-studio",
-    "days_since_published": 83
+    "days_since_published": 84
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 38,
+      "views_rank": 39,
       "runs_rank": 43,
-      "likes_rank": 44,
-      "total_agents": 287,
-      "views_percentile": 86.8,
-      "runs_percentile": 85.0,
-      "likes_percentile": 84.7
+      "likes_rank": 48,
+      "total_agents": 290,
+      "views_percentile": 86.6,
+      "runs_percentile": 85.2,
+      "likes_percentile": 83.4
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 81,
+    "days_tracked": 82,
     "price": 51.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 53,
+    "days_tracked": 54,
     "last_7_days": {
-      "views_rank_change": -1,
+      "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": -199
+      "likes_rank_change": -203
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 44,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 38
+      "current_rank": 39
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 54,
+    "data_points": 55,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-12T08:01:01.294614",
+    "last_recorded": "2026-01-13T08:00:58.516114",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -110,7 +110,8 @@
         "2026-01-08T08:01:02.485852",
         "2026-01-10T08:01:02.077885",
         "2026-01-11T08:01:01.017708",
-        "2026-01-12T08:01:01.294614"
+        "2026-01-12T08:01:01.294614",
+        "2026-01-13T08:00:58.516114"
       ],
       "views_rank": [
         null,
@@ -166,7 +167,8 @@
         39,
         39,
         39,
-        38
+        38,
+        39
       ],
       "runs_rank": [
         null,
@@ -209,6 +211,7 @@
         44,
         44,
         44,
+        43,
         43,
         43,
         43,
@@ -278,7 +281,8 @@
         251,
         44,
         44,
-        44
+        44,
+        48
       ]
     }
   },
@@ -290,7 +294,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #38 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #39 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

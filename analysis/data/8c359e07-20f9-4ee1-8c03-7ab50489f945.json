@@ -1,6 +1,6 @@
 {
   "agent_id": "8c359e07-20f9-4ee1-8c03-7ab50489f945",
-  "generated_at": "2026-01-12T00:01:13.317437",
+  "generated_at": "2026-01-13T00:01:24.693249",
   "basic_info": {
     "title": "Virtual Try-On",
     "author": "LunarAITalk",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-23T22:21:17.364000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LunarAITalk/virtual-try-on",
-    "days_since_published": 110
+    "days_since_published": 111
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 71,
       "runs_rank": 79,
-      "likes_rank": 277,
-      "total_agents": 287,
-      "views_percentile": 75.3,
-      "runs_percentile": 72.5,
-      "likes_percentile": 3.5
+      "likes_rank": 280,
+      "total_agents": 290,
+      "views_percentile": 75.5,
+      "runs_percentile": 72.8,
+      "likes_percentile": 3.4
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 110,
+    "days_tracked": 111,
     "price": 30.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 53,
+    "days_tracked": 54,
     "last_7_days": {
-      "views_rank_change": 2,
-      "runs_rank_change": 2,
-      "likes_rank_change": 18
+      "views_rank_change": 1,
+      "runs_rank_change": 1,
+      "likes_rank_change": 21
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 54,
+    "data_points": 55,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-12T08:01:01.294614",
+    "last_recorded": "2026-01-13T08:00:58.516114",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -110,7 +110,8 @@
         "2026-01-08T08:01:02.485852",
         "2026-01-10T08:01:02.077885",
         "2026-01-11T08:01:01.017708",
-        "2026-01-12T08:01:01.294614"
+        "2026-01-12T08:01:01.294614",
+        "2026-01-13T08:00:58.516114"
       ],
       "views_rank": [
         null,
@@ -162,6 +163,7 @@
         68,
         69,
         70,
+        71,
         71,
         71,
         71,
@@ -222,6 +224,7 @@
         79,
         79,
         79,
+        79,
         79
       ],
       "likes_rank": [
@@ -278,7 +281,8 @@
         259,
         278,
         278,
-        277
+        277,
+        280
       ]
     }
   },
@@ -290,7 +294,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #71 out of 287 active agents."
+      "description": "This agent is currently ranked #71 out of 290 active agents."
     }
   ]
 }

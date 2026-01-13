@@ -1,6 +1,6 @@
 {
   "agent_id": "d26cbc72-a70f-4661-815a-cd0075968921",
-  "generated_at": "2026-01-12T00:01:14.566590",
+  "generated_at": "2026-01-13T00:01:25.930231",
   "basic_info": {
     "title": "Pretend I was here",
     "author": "Barry",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-09T09:50:37.765000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Barry/pretend-i-was-here",
-    "days_since_published": 33
+    "days_since_published": 34
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 231,
-      "runs_rank": 127,
-      "likes_rank": 159,
-      "total_agents": 287,
-      "views_percentile": 19.5,
-      "runs_percentile": 55.7,
-      "likes_percentile": 44.6
+      "views_rank": 233,
+      "runs_rank": 128,
+      "likes_rank": 161,
+      "total_agents": 290,
+      "views_percentile": 19.7,
+      "runs_percentile": 55.9,
+      "likes_percentile": 44.5
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 31,
+    "days_tracked": 32,
     "price": 46.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 30,
+    "days_tracked": 31,
     "last_7_days": {
-      "views_rank_change": 3,
+      "views_rank_change": 5,
       "runs_rank_change": 3,
-      "likes_rank_change": 49
+      "likes_rank_change": 51
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 17,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 231
+      "current_rank": 233
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 31,
+    "data_points": 32,
     "first_recorded": "2025-12-13T08:00:26.854786",
-    "last_recorded": "2026-01-12T08:01:01.294614",
+    "last_recorded": "2026-01-13T08:00:58.516114",
     "time_series": {
       "dates": [
         "2025-12-13T08:00:26.854786",
@@ -87,7 +87,8 @@
         "2026-01-08T08:01:02.485852",
         "2026-01-10T08:01:02.077885",
         "2026-01-11T08:01:01.017708",
-        "2026-01-12T08:01:01.294614"
+        "2026-01-12T08:01:01.294614",
+        "2026-01-13T08:00:58.516114"
       ],
       "views_rank": [
         null,
@@ -120,7 +121,8 @@
         230,
         231,
         231,
-        231
+        231,
+        233
       ],
       "runs_rank": [
         null,
@@ -153,7 +155,8 @@
         126,
         127,
         127,
-        127
+        127,
+        128
       ],
       "likes_rank": [
         null,
@@ -186,7 +189,8 @@
         116,
         159,
         159,
-        159
+        159,
+        161
       ]
     }
   },
@@ -205,7 +209,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #231 out of 287 active agents."
+      "description": "This agent is currently ranked #233 out of 290 active agents."
     }
   ]
 }

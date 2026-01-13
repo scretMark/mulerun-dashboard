@@ -1,6 +1,6 @@
 {
   "agent_id": "c6e6259a-6305-4216-91cd-e65c7ae20610",
-  "generated_at": "2026-01-12T00:01:13.248946",
+  "generated_at": "2026-01-13T00:01:24.629179",
   "basic_info": {
     "title": "EduCard Generator",
     "author": "LunarAITalk",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-14T14:19:31.754000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LunarAITalk/educard-generator",
-    "days_since_published": 119
+    "days_since_published": 120
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 50,
       "runs_rank": 76,
-      "likes_rank": 106,
-      "total_agents": 287,
-      "views_percentile": 82.6,
-      "runs_percentile": 73.5,
-      "likes_percentile": 63.1
+      "likes_rank": 110,
+      "total_agents": 290,
+      "views_percentile": 82.8,
+      "runs_percentile": 73.8,
+      "likes_percentile": 62.1
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 118,
+    "days_tracked": 119,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 53,
+    "days_tracked": 54,
     "last_7_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": -3,
-      "likes_rank_change": 78
+      "views_rank_change": 0,
+      "runs_rank_change": -4,
+      "likes_rank_change": 75
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 54,
+    "data_points": 55,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-12T08:01:01.294614",
+    "last_recorded": "2026-01-13T08:00:58.516114",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -110,7 +110,8 @@
         "2026-01-08T08:01:02.485852",
         "2026-01-10T08:01:02.077885",
         "2026-01-11T08:01:01.017708",
-        "2026-01-12T08:01:01.294614"
+        "2026-01-12T08:01:01.294614",
+        "2026-01-13T08:00:58.516114"
       ],
       "views_rank": [
         null,
@@ -161,6 +162,7 @@
         50,
         50,
         49,
+        50,
         50,
         50,
         50,
@@ -222,6 +224,7 @@
         78,
         76,
         76,
+        76,
         76
       ],
       "likes_rank": [
@@ -278,7 +281,8 @@
         21,
         105,
         107,
-        106
+        106,
+        110
       ]
     }
   },

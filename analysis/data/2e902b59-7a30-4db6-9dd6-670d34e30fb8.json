@@ -1,6 +1,6 @@
 {
   "agent_id": "2e902b59-7a30-4db6-9dd6-670d34e30fb8",
-  "generated_at": "2026-01-12T00:01:11.679953",
+  "generated_at": "2026-01-13T00:01:26.039000",
   "basic_info": {
     "title": "PostcardGenie",
     "author": "AneX",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-12T12:32:37.864000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AneX/postcardgenie",
-    "days_since_published": 30
+    "days_since_published": 31
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 258,
       "runs_rank": 210,
-      "likes_rank": 19,
-      "total_agents": 287,
-      "views_percentile": 10.1,
-      "runs_percentile": 26.8,
-      "likes_percentile": 93.4
+      "likes_rank": 20,
+      "total_agents": 290,
+      "views_percentile": 11.0,
+      "runs_percentile": 27.6,
+      "likes_percentile": 93.1
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 27,
+    "days_tracked": 28,
     "price": 60.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 26,
+    "days_tracked": 27,
     "last_7_days": {
       "views_rank_change": 2,
       "runs_rank_change": 4,
-      "likes_rank_change": -7
+      "likes_rank_change": -6
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 28,
+    "data_points": 29,
     "first_recorded": "2025-12-16T19:09:41.063612",
-    "last_recorded": "2026-01-12T08:01:01.294614",
+    "last_recorded": "2026-01-13T08:00:58.516114",
     "time_series": {
       "dates": [
         "2025-12-16T19:09:41.063612",
@@ -84,7 +84,8 @@
         "2026-01-08T08:01:02.485852",
         "2026-01-10T08:01:02.077885",
         "2026-01-11T08:01:01.017708",
-        "2026-01-12T08:01:01.294614"
+        "2026-01-12T08:01:01.294614",
+        "2026-01-13T08:00:58.516114"
       ],
       "views_rank": [
         null,
@@ -112,6 +113,7 @@
         256,
         256,
         256,
+        258,
         258,
         258,
         258
@@ -144,6 +146,7 @@
         207,
         208,
         209,
+        210,
         210
       ],
       "likes_rank": [
@@ -174,7 +177,8 @@
         37,
         19,
         19,
-        19
+        19,
+        20
       ]
     }
   },
@@ -193,7 +197,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #19 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #20 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

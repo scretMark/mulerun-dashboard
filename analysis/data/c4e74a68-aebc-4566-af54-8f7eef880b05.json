@@ -1,6 +1,6 @@
 {
   "agent_id": "c4e74a68-aebc-4566-af54-8f7eef880b05",
-  "generated_at": "2026-01-12T00:01:14.265407",
+  "generated_at": "2026-01-13T00:01:25.650460",
   "basic_info": {
     "title": "CoinAnalyst Pro",
     "author": "Barry",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-06T23:56:50.364000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Barry/coinanalyst-pro",
-    "days_since_published": 36
+    "days_since_published": 37
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 215,
-      "runs_rank": 139,
-      "likes_rank": 41,
-      "total_agents": 287,
-      "views_percentile": 25.1,
-      "runs_percentile": 51.6,
-      "likes_percentile": 85.7
+      "views_rank": 217,
+      "runs_rank": 140,
+      "likes_rank": 43,
+      "total_agents": 290,
+      "views_percentile": 25.2,
+      "runs_percentile": 51.7,
+      "likes_percentile": 85.2
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 34,
+    "days_tracked": 35,
     "price": 78.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 33,
+    "days_tracked": 34,
     "last_7_days": {
-      "views_rank_change": -7,
-      "runs_rank_change": -1,
-      "likes_rank_change": -41
+      "views_rank_change": -1,
+      "runs_rank_change": 0,
+      "likes_rank_change": -38
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 10,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 215
+      "current_rank": 217
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 34,
+    "data_points": 35,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2026-01-12T08:01:01.294614",
+    "last_recorded": "2026-01-13T08:00:58.516114",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
@@ -90,7 +90,8 @@
         "2026-01-08T08:01:02.485852",
         "2026-01-10T08:01:02.077885",
         "2026-01-11T08:01:01.017708",
-        "2026-01-12T08:01:01.294614"
+        "2026-01-12T08:01:01.294614",
+        "2026-01-13T08:00:58.516114"
       ],
       "views_rank": [
         null,
@@ -126,7 +127,8 @@
         215,
         214,
         215,
-        215
+        215,
+        217
       ],
       "runs_rank": [
         null,
@@ -162,7 +164,8 @@
         139,
         139,
         139,
-        139
+        139,
+        140
       ],
       "likes_rank": [
         null,
@@ -198,7 +201,8 @@
         88,
         40,
         40,
-        41
+        41,
+        43
       ]
     }
   },
@@ -217,12 +221,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #41 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
-    },
-    {
-      "type": "positive",
-      "title": "Hot Trend",
-      "description": "Up 7 positions in just 7 days - currently trending and gaining rapid visibility!"
+      "description": "Ranked #43 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

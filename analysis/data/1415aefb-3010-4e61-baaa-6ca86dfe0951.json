@@ -1,6 +1,6 @@
 {
   "agent_id": "1415aefb-3010-4e61-baaa-6ca86dfe0951",
-  "generated_at": "2026-01-12T00:01:14.211298",
+  "generated_at": "2026-01-13T00:01:25.596457",
   "basic_info": {
     "title": "HYPER3D_AI_RODIN",
     "author": "hyper3d_rodin",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-03T17:41:12.737000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@hyper3d_rodin/hyper3d-ai-rodin",
-    "days_since_published": 39
+    "days_since_published": 40
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 100,
-      "runs_rank": 9,
-      "likes_rank": 81,
-      "total_agents": 287,
-      "views_percentile": 65.2,
-      "runs_percentile": 96.9,
-      "likes_percentile": 71.8
+      "views_rank": 98,
+      "runs_rank": 7,
+      "likes_rank": 83,
+      "total_agents": 290,
+      "views_percentile": 66.2,
+      "runs_percentile": 97.6,
+      "likes_percentile": 71.4
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 39,
+    "days_tracked": 40,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "last_7_days": {
-      "views_rank_change": -11,
-      "runs_rank_change": 0,
-      "likes_rank_change": 57
+      "views_rank_change": -13,
+      "runs_rank_change": -2,
+      "likes_rank_change": 54
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -42,19 +42,19 @@
       "likes_rank_change": null
     },
     "all_time": {
-      "best_views_rank": 100,
-      "best_runs_rank": 9,
+      "best_views_rank": 98,
+      "best_runs_rank": 7,
       "best_likes_rank": 1,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 100
+      "current_rank": 98
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 37,
+    "data_points": 38,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2026-01-12T08:01:01.294614",
+    "last_recorded": "2026-01-13T08:00:58.516114",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -93,7 +93,8 @@
         "2026-01-08T08:01:02.485852",
         "2026-01-10T08:01:02.077885",
         "2026-01-11T08:01:01.017708",
-        "2026-01-12T08:01:01.294614"
+        "2026-01-12T08:01:01.294614",
+        "2026-01-13T08:00:58.516114"
       ],
       "views_rank": [
         null,
@@ -132,7 +133,8 @@
         107,
         100,
         100,
-        100
+        100,
+        98
       ],
       "runs_rank": [
         null,
@@ -171,7 +173,8 @@
         9,
         9,
         9,
-        9
+        9,
+        7
       ],
       "likes_rank": [
         null,
@@ -210,7 +213,8 @@
         26,
         80,
         80,
-        81
+        81,
+        83
       ]
     }
   },
@@ -229,12 +233,12 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #9 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #7 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     },
     {
       "type": "positive",
       "title": "Hot Trend",
-      "description": "Up 11 positions in just 7 days - currently trending and gaining rapid visibility!"
+      "description": "Up 13 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

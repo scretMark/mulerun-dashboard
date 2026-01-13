@@ -1,6 +1,6 @@
 {
   "agent_id": "8ecf0316-7c0a-40c3-8095-83b57d32ed7c",
-  "generated_at": "2026-01-12T00:01:14.065142",
+  "generated_at": "2026-01-13T00:01:25.429414",
   "basic_info": {
     "title": "Historical place visualizer",
     "author": "Bhola",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-24T13:53:45.229000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Bhola/historical-place-visualizer",
-    "days_since_published": 48
+    "days_since_published": 49
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 234,
       "runs_rank": 241,
-      "likes_rank": 85,
-      "total_agents": 287,
-      "views_percentile": 18.5,
-      "runs_percentile": 16.0,
-      "likes_percentile": 70.4
+      "likes_rank": 86,
+      "total_agents": 290,
+      "views_percentile": 19.3,
+      "runs_percentile": 16.9,
+      "likes_percentile": 70.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 45,
+    "days_tracked": 46,
     "price": 29.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 47,
+    "days_tracked": 48,
     "last_7_days": {
       "views_rank_change": 3,
-      "runs_rank_change": 5,
-      "likes_rank_change": -196
+      "runs_rank_change": 3,
+      "likes_rank_change": -195
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 45,
+    "data_points": 46,
     "first_recorded": "2025-11-26T08:00:32.046352",
-    "last_recorded": "2026-01-12T08:01:01.294614",
+    "last_recorded": "2026-01-13T08:00:58.516114",
     "time_series": {
       "dates": [
         "2025-11-26T08:00:32.046352",
@@ -101,7 +101,8 @@
         "2026-01-08T08:01:02.485852",
         "2026-01-10T08:01:02.077885",
         "2026-01-11T08:01:01.017708",
-        "2026-01-12T08:01:01.294614"
+        "2026-01-12T08:01:01.294614",
+        "2026-01-13T08:00:58.516114"
       ],
       "views_rank": [
         null,
@@ -148,6 +149,7 @@
         231,
         232,
         234,
+        234,
         234
       ],
       "runs_rank": [
@@ -193,6 +195,7 @@
         238,
         239,
         240,
+        241,
         241,
         241,
         241
@@ -242,7 +245,8 @@
         283,
         82,
         83,
-        85
+        85,
+        86
       ]
     }
   },
@@ -261,7 +265,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #234 out of 287 active agents."
+      "description": "This agent is currently ranked #234 out of 290 active agents."
     }
   ]
 }

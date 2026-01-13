@@ -1,6 +1,6 @@
 {
   "agent_id": "bd3b3d85-2d39-491c-9311-5a11d6019569",
-  "generated_at": "2026-01-12T00:01:11.881599",
+  "generated_at": "2026-01-13T00:01:26.260611",
   "basic_info": {
     "title": "Serene Calm - Sounds and Meditation Experience",
     "author": "Serenetech",
@@ -11,40 +11,40 @@
     "published_at": "2025-12-19T18:30:49.675000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Serenetech/serene-calm-sounds-and-meditation-experience",
-    "days_since_published": 23
+    "days_since_published": 24
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 237,
-      "runs_rank": 62,
-      "likes_rank": null,
-      "total_agents": 287,
-      "views_percentile": 17.4,
-      "runs_percentile": 78.4,
-      "likes_percentile": 0
+      "runs_rank": 60,
+      "likes_rank": 52,
+      "total_agents": 290,
+      "views_percentile": 18.3,
+      "runs_percentile": 79.3,
+      "likes_percentile": 82.1
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 17,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 18,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
     "days_tracked": 20,
     "last_7_days": {
-      "views_rank_change": -1,
-      "runs_rank_change": -19,
-      "likes_rank_change": null
+      "views_rank_change": -2,
+      "runs_rank_change": -14,
+      "likes_rank_change": -217
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": null
+      "likes_rank_change": -12
     },
     "all_time": {
       "best_views_rank": 236,
-      "best_runs_rank": 62,
-      "best_likes_rank": 64,
+      "best_runs_rank": 60,
+      "best_likes_rank": 52,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 237
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 18,
+    "data_points": 19,
     "first_recorded": "2025-12-23T08:00:59.635142",
-    "last_recorded": "2026-01-12T08:01:01.294614",
+    "last_recorded": "2026-01-13T08:00:58.516114",
     "time_series": {
       "dates": [
         "2025-12-23T08:00:59.635142",
@@ -74,7 +74,8 @@
         "2026-01-08T08:01:02.485852",
         "2026-01-10T08:01:02.077885",
         "2026-01-11T08:01:01.017708",
-        "2026-01-12T08:01:01.294614"
+        "2026-01-12T08:01:01.294614",
+        "2026-01-13T08:00:58.516114"
       ],
       "views_rank": [
         null,
@@ -93,6 +94,7 @@
         238,
         238,
         236,
+        237,
         237,
         237
       ],
@@ -114,7 +116,8 @@
         70,
         63,
         63,
-        62
+        62,
+        60
       ],
       "likes_rank": [
         64,
@@ -134,7 +137,8 @@
         279,
         null,
         null,
-        null
+        null,
+        52
       ]
     }
   },
@@ -151,9 +155,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #237 out of 287 active agents."
+      "type": "positive",
+      "title": "High Performer",
+      "description": "Ranked #52 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

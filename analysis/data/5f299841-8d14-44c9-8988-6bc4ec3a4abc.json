@@ -1,6 +1,6 @@
 {
   "agent_id": "5f299841-8d14-44c9-8988-6bc4ec3a4abc",
-  "generated_at": "2026-01-12T00:01:11.997492",
+  "generated_at": "2026-01-13T00:01:25.876997",
   "basic_info": {
     "title": "Remove Sora2 Video Watermark",
     "author": "Darren",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-20T12:11:44.378000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/remove-sora2-video-watermark",
-    "days_since_published": 83
+    "days_since_published": 84
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 16,
       "runs_rank": 38,
-      "likes_rank": 129,
-      "total_agents": 287,
-      "views_percentile": 94.4,
-      "runs_percentile": 86.8,
-      "likes_percentile": 55.1
+      "likes_rank": 134,
+      "total_agents": 290,
+      "views_percentile": 94.5,
+      "runs_percentile": 86.9,
+      "likes_percentile": 53.8
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 74,
+    "days_tracked": 75,
     "price": 101.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 53,
+    "days_tracked": 54,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": 111
+      "likes_rank_change": 122
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 54,
+    "data_points": 55,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-12T08:01:01.294614",
+    "last_recorded": "2026-01-13T08:00:58.516114",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -110,7 +110,8 @@
         "2026-01-08T08:01:02.485852",
         "2026-01-10T08:01:02.077885",
         "2026-01-11T08:01:01.017708",
-        "2026-01-12T08:01:01.294614"
+        "2026-01-12T08:01:01.294614",
+        "2026-01-13T08:00:58.516114"
       ],
       "views_rank": [
         null,
@@ -160,6 +161,7 @@
         15,
         15,
         15,
+        16,
         16,
         16,
         16,
@@ -222,6 +224,7 @@
         38,
         38,
         38,
+        38,
         38
       ],
       "likes_rank": [
@@ -278,7 +281,8 @@
         30,
         138,
         131,
-        129
+        129,
+        134
       ]
     }
   },

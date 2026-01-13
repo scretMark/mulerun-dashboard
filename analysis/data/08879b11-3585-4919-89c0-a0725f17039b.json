@@ -1,6 +1,6 @@
 {
   "agent_id": "08879b11-3585-4919-89c0-a0725f17039b",
-  "generated_at": "2026-01-12T00:01:12.766619",
+  "generated_at": "2026-01-13T00:01:24.146257",
   "basic_info": {
     "title": "Amazon Product Search",
     "author": "createAny",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-13T18:19:42.979000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@createAny/amazon-product-search",
-    "days_since_published": 90
+    "days_since_published": 91
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 131,
-      "runs_rank": 133,
-      "likes_rank": 130,
-      "total_agents": 287,
-      "views_percentile": 54.4,
-      "runs_percentile": 53.7,
-      "likes_percentile": 54.7
+      "views_rank": 126,
+      "runs_rank": 134,
+      "likes_rank": 135,
+      "total_agents": 290,
+      "views_percentile": 56.6,
+      "runs_percentile": 53.8,
+      "likes_percentile": 53.4
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 86,
+    "days_tracked": 87,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 53,
+    "days_tracked": 54,
     "last_7_days": {
-      "views_rank_change": -3,
+      "views_rank_change": -7,
       "runs_rank_change": -2,
-      "likes_rank_change": 119
+      "likes_rank_change": 116
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -42,19 +42,19 @@
       "likes_rank_change": null
     },
     "all_time": {
-      "best_views_rank": 130,
+      "best_views_rank": 126,
       "best_runs_rank": 129,
       "best_likes_rank": 3,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 131
+      "current_rank": 126
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 54,
+    "data_points": 55,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-12T08:01:01.294614",
+    "last_recorded": "2026-01-13T08:00:58.516114",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -110,7 +110,8 @@
         "2026-01-08T08:01:02.485852",
         "2026-01-10T08:01:02.077885",
         "2026-01-11T08:01:01.017708",
-        "2026-01-12T08:01:01.294614"
+        "2026-01-12T08:01:01.294614",
+        "2026-01-13T08:00:58.516114"
       ],
       "views_rank": [
         null,
@@ -166,7 +167,8 @@
         132,
         130,
         130,
-        131
+        131,
+        126
       ],
       "runs_rank": [
         null,
@@ -222,7 +224,8 @@
         133,
         132,
         132,
-        133
+        133,
+        134
       ],
       "likes_rank": [
         null,
@@ -278,7 +281,8 @@
         55,
         132,
         132,
-        130
+        130,
+        135
       ]
     }
   },
@@ -288,9 +292,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #131 out of 287 active agents."
+      "type": "positive",
+      "title": "Hot Trend",
+      "description": "Up 7 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

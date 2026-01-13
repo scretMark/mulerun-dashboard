@@ -1,6 +1,6 @@
 {
   "agent_id": "6350d3ee-dee8-4b5f-ba61-19cfef1448c8",
-  "generated_at": "2026-01-12T00:01:14.224766",
+  "generated_at": "2026-01-13T00:01:25.610126",
   "basic_info": {
     "title": "Youtube Thumbnail",
     "author": "pxzzf1010_cr73m",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-05T20:32:44.732000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@pxzzf1010_cr73m/youtube-thumbnail",
-    "days_since_published": 37
+    "days_since_published": 38
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 41,
+      "views_rank": 38,
       "runs_rank": 3,
-      "likes_rank": 116,
-      "total_agents": 287,
-      "views_percentile": 85.7,
+      "likes_rank": 112,
+      "total_agents": 290,
+      "views_percentile": 86.9,
       "runs_percentile": 99.0,
-      "likes_percentile": 59.6
+      "likes_percentile": 61.4
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 35,
+    "days_tracked": 36,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "last_7_days": {
       "views_rank_change": -11,
       "runs_rank_change": -1,
-      "likes_rank_change": 69
+      "likes_rank_change": 32
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -42,19 +42,19 @@
       "likes_rank_change": null
     },
     "all_time": {
-      "best_views_rank": 41,
+      "best_views_rank": 38,
       "best_runs_rank": 3,
       "best_likes_rank": 26,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 41
+      "current_rank": 38
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 36,
+    "data_points": 37,
     "first_recorded": "2025-12-09T08:00:25.308684",
-    "last_recorded": "2026-01-12T08:01:01.294614",
+    "last_recorded": "2026-01-13T08:00:58.516114",
     "time_series": {
       "dates": [
         "2025-12-09T08:00:25.308684",
@@ -92,7 +92,8 @@
         "2026-01-08T08:01:02.485852",
         "2026-01-10T08:01:02.077885",
         "2026-01-11T08:01:01.017708",
-        "2026-01-12T08:01:01.294614"
+        "2026-01-12T08:01:01.294614",
+        "2026-01-13T08:00:58.516114"
       ],
       "views_rank": [
         null,
@@ -130,7 +131,8 @@
         48,
         44,
         42,
-        41
+        41,
+        38
       ],
       "runs_rank": [
         null,
@@ -166,6 +168,7 @@
         4,
         4,
         4,
+        3,
         3,
         3,
         3
@@ -206,7 +209,8 @@
         82,
         120,
         127,
-        116
+        116,
+        112
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "d7b85cff-5179-46c7-a1e5-09560f825c92",
-  "generated_at": "2026-01-12T00:01:11.598669",
+  "generated_at": "2026-01-13T00:01:25.462909",
   "basic_info": {
     "title": "AI Model Swap",
     "author": "PicCopilot",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-11T19:26:53.701000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/ai-model-swap",
-    "days_since_published": 61
+    "days_since_published": 62
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 68,
+      "views_rank": 65,
       "runs_rank": 11,
-      "likes_rank": 110,
-      "total_agents": 287,
-      "views_percentile": 76.3,
+      "likes_rank": 114,
+      "total_agents": 290,
+      "views_percentile": 77.6,
       "runs_percentile": 96.2,
-      "likes_percentile": 61.7
+      "likes_percentile": 60.7
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 61,
+    "days_tracked": 62,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 54,
+    "days_tracked": 55,
     "last_7_days": {
-      "views_rank_change": -2,
+      "views_rank_change": -3,
       "runs_rank_change": 0,
-      "likes_rank_change": 42
+      "likes_rank_change": 44
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -42,19 +42,19 @@
       "likes_rank_change": null
     },
     "all_time": {
-      "best_views_rank": 68,
+      "best_views_rank": 65,
       "best_runs_rank": 8,
       "best_likes_rank": 16,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 68
+      "current_rank": 65
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 55,
+    "data_points": 56,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-12T08:01:01.294614",
+    "last_recorded": "2026-01-13T08:00:58.516114",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -111,7 +111,8 @@
         "2026-01-08T08:01:02.485852",
         "2026-01-10T08:01:02.077885",
         "2026-01-11T08:01:01.017708",
-        "2026-01-12T08:01:01.294614"
+        "2026-01-12T08:01:01.294614",
+        "2026-01-13T08:00:58.516114"
       ],
       "views_rank": [
         null,
@@ -168,7 +169,8 @@
         68,
         68,
         68,
-        68
+        68,
+        65
       ],
       "runs_rank": [
         null,
@@ -216,6 +218,7 @@
         10,
         10,
         10,
+        11,
         11,
         11,
         11,
@@ -282,7 +285,8 @@
         70,
         116,
         110,
-        110
+        110,
+        114
       ]
     }
   },

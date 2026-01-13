@@ -1,6 +1,6 @@
 {
   "agent_id": "cc89a662-d25e-4eb2-b40e-e3a27bb181b2",
-  "generated_at": "2026-01-12T00:01:12.111693",
+  "generated_at": "2026-01-13T00:01:26.528690",
   "basic_info": {
     "title": "Top-video YouTube Tracking",
     "author": "Rhino",
@@ -11,71 +11,75 @@
     "published_at": "2026-01-07T00:33:13.319000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Rhino/youtubetitle",
-    "days_since_published": 4
+    "days_since_published": 5
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 277,
-      "runs_rank": 262,
+      "views_rank": 271,
+      "runs_rank": 261,
       "likes_rank": 54,
-      "total_agents": 287,
-      "views_percentile": 3.5,
-      "runs_percentile": 8.7,
-      "likes_percentile": 81.2
+      "total_agents": 290,
+      "views_percentile": 6.6,
+      "runs_percentile": 10.0,
+      "likes_percentile": 81.4
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 4,
+    "days_tracked": 5,
     "price": 8.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 3,
+    "days_tracked": 4,
     "last_7_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": 1,
+      "views_rank_change": -5,
+      "runs_rank_change": 0,
       "likes_rank_change": 31
     },
     "last_30_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": 1,
+      "views_rank_change": -5,
+      "runs_rank_change": 0,
       "likes_rank_change": 31
     },
     "all_time": {
-      "best_views_rank": 276,
+      "best_views_rank": 271,
       "best_runs_rank": 261,
       "best_likes_rank": 23,
       "days_in_top_10": 0,
       "first_rank": 276,
-      "current_rank": 277
+      "current_rank": 271
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 4,
+    "data_points": 5,
     "first_recorded": "2026-01-08T08:01:02.485852",
-    "last_recorded": "2026-01-12T08:01:01.294614",
+    "last_recorded": "2026-01-13T08:00:58.516114",
     "time_series": {
       "dates": [
         "2026-01-08T08:01:02.485852",
         "2026-01-10T08:01:02.077885",
         "2026-01-11T08:01:01.017708",
-        "2026-01-12T08:01:01.294614"
+        "2026-01-12T08:01:01.294614",
+        "2026-01-13T08:00:58.516114"
       ],
       "views_rank": [
         276,
         276,
         277,
-        277
+        277,
+        271
       ],
       "runs_rank": [
         261,
         262,
         262,
-        262
+        262,
+        261
       ],
       "likes_rank": [
         23,
+        54,
         54,
         54,
         54

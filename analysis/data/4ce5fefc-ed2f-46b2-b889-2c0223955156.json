@@ -1,6 +1,6 @@
 {
   "agent_id": "4ce5fefc-ed2f-46b2-b889-2c0223955156",
-  "generated_at": "2026-01-12T00:01:12.120621",
+  "generated_at": "2026-01-13T00:01:26.538259",
   "basic_info": {
     "title": "Manga Translator",
     "author": "usernuk",
@@ -11,35 +11,35 @@
     "published_at": "2026-01-06T09:35:53.576000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@usernuk/manga-translator",
-    "days_since_published": 5
+    "days_since_published": 6
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 271,
-      "runs_rank": 269,
-      "likes_rank": 42,
-      "total_agents": 287,
-      "views_percentile": 5.6,
-      "runs_percentile": 6.3,
-      "likes_percentile": 85.4
+      "views_rank": 272,
+      "runs_rank": 270,
+      "likes_rank": 44,
+      "total_agents": 290,
+      "views_percentile": 6.2,
+      "runs_percentile": 6.9,
+      "likes_percentile": 84.8
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 4,
+    "days_tracked": 5,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 3,
+    "days_tracked": 4,
     "last_7_days": {
-      "views_rank_change": 3,
-      "runs_rank_change": 1,
-      "likes_rank_change": -42
+      "views_rank_change": 4,
+      "runs_rank_change": 2,
+      "likes_rank_change": -40
     },
     "last_30_days": {
-      "views_rank_change": 3,
-      "runs_rank_change": 1,
-      "likes_rank_change": -42
+      "views_rank_change": 4,
+      "runs_rank_change": 2,
+      "likes_rank_change": -40
     },
     "all_time": {
       "best_views_rank": 268,
@@ -47,38 +47,42 @@
       "best_likes_rank": 41,
       "days_in_top_10": 0,
       "first_rank": 268,
-      "current_rank": 271
+      "current_rank": 272
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 4,
+    "data_points": 5,
     "first_recorded": "2026-01-08T08:01:02.485852",
-    "last_recorded": "2026-01-12T08:01:01.294614",
+    "last_recorded": "2026-01-13T08:00:58.516114",
     "time_series": {
       "dates": [
         "2026-01-08T08:01:02.485852",
         "2026-01-10T08:01:02.077885",
         "2026-01-11T08:01:01.017708",
-        "2026-01-12T08:01:01.294614"
+        "2026-01-12T08:01:01.294614",
+        "2026-01-13T08:00:58.516114"
       ],
       "views_rank": [
         268,
         270,
         271,
-        271
+        271,
+        272
       ],
       "runs_rank": [
         268,
         269,
         269,
-        269
+        269,
+        270
       ],
       "likes_rank": [
         84,
         41,
         41,
-        42
+        42,
+        44
       ]
     }
   },
@@ -97,7 +101,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #42 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #44 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

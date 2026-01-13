@@ -1,6 +1,6 @@
 {
   "agent_id": "6d852596-ca92-4086-9fcb-4da9c8ece17e",
-  "generated_at": "2026-01-12T00:01:14.038085",
+  "generated_at": "2026-01-13T00:01:25.401455",
   "basic_info": {
     "title": "Banana Pro Canvas",
     "author": "Aronlong",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-20T20:11:49.993000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aronlong/banana-pro-canvas",
-    "days_since_published": 52
+    "days_since_published": 53
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 58,
       "runs_rank": 69,
-      "likes_rank": 139,
-      "total_agents": 287,
-      "views_percentile": 79.8,
-      "runs_percentile": 76.0,
-      "likes_percentile": 51.6
+      "likes_rank": 133,
+      "total_agents": 290,
+      "views_percentile": 80.0,
+      "runs_percentile": 76.2,
+      "likes_percentile": 54.1
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 45,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 46,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 47,
+    "days_tracked": 48,
     "last_7_days": {
       "views_rank_change": -5,
-      "runs_rank_change": 2,
-      "likes_rank_change": 40
+      "runs_rank_change": 1,
+      "likes_rank_change": 34
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 45,
+    "data_points": 46,
     "first_recorded": "2025-11-26T08:00:32.046352",
-    "last_recorded": "2026-01-12T08:01:01.294614",
+    "last_recorded": "2026-01-13T08:00:58.516114",
     "time_series": {
       "dates": [
         "2025-11-26T08:00:32.046352",
@@ -101,7 +101,8 @@
         "2026-01-08T08:01:02.485852",
         "2026-01-10T08:01:02.077885",
         "2026-01-11T08:01:01.017708",
-        "2026-01-12T08:01:01.294614"
+        "2026-01-12T08:01:01.294614",
+        "2026-01-13T08:00:58.516114"
       ],
       "views_rank": [
         null,
@@ -146,6 +147,7 @@
         63,
         62,
         61,
+        58,
         58,
         58,
         58
@@ -195,6 +197,7 @@
         68,
         69,
         69,
+        69,
         69
       ],
       "likes_rank": [
@@ -242,7 +245,8 @@
         106,
         128,
         128,
-        139
+        139,
+        133
       ]
     }
   },
@@ -259,9 +263,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #58 out of 287 active agents."
+      "type": "positive",
+      "title": "High Performer",
+      "description": "Ranked #58 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

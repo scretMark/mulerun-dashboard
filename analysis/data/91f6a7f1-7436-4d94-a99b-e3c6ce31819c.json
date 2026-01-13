@@ -1,6 +1,6 @@
 {
   "agent_id": "91f6a7f1-7436-4d94-a99b-e3c6ce31819c",
-  "generated_at": "2026-01-12T00:01:12.093281",
+  "generated_at": "2026-01-13T00:01:26.509769",
   "basic_info": {
     "title": "Image To Vector",
     "author": "thurnz",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-31T11:16:00.280000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@thurnz/vectory",
-    "days_since_published": 11
+    "days_since_published": 12
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 241,
-      "runs_rank": 274,
-      "likes_rank": 64,
-      "total_agents": 287,
-      "views_percentile": 16.0,
-      "runs_percentile": 4.5,
-      "likes_percentile": 77.7
+      "views_rank": 242,
+      "runs_rank": 275,
+      "likes_rank": 65,
+      "total_agents": 290,
+      "views_percentile": 16.6,
+      "runs_percentile": 5.2,
+      "likes_percentile": 77.6
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 6,
+    "days_tracked": 7,
     "price": 99.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 6,
+    "days_tracked": 7,
     "last_7_days": {
-      "views_rank_change": -14,
-      "runs_rank_change": 4,
-      "likes_rank_change": 19
+      "views_rank_change": -8,
+      "runs_rank_change": 5,
+      "likes_rank_change": 21
     },
     "last_30_days": {
-      "views_rank_change": -14,
-      "runs_rank_change": 4,
-      "likes_rank_change": 19
+      "views_rank_change": -13,
+      "runs_rank_change": 5,
+      "likes_rank_change": 20
     },
     "all_time": {
       "best_views_rank": 240,
@@ -47,14 +47,14 @@
       "best_likes_rank": 44,
       "days_in_top_10": 0,
       "first_rank": 255,
-      "current_rank": 241
+      "current_rank": 242
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 7,
+    "data_points": 8,
     "first_recorded": "2026-01-05T08:01:10.022221",
-    "last_recorded": "2026-01-12T08:01:01.294614",
+    "last_recorded": "2026-01-13T08:00:58.516114",
     "time_series": {
       "dates": [
         "2026-01-05T08:01:10.022221",
@@ -63,7 +63,8 @@
         "2026-01-08T08:01:02.485852",
         "2026-01-10T08:01:02.077885",
         "2026-01-11T08:01:01.017708",
-        "2026-01-12T08:01:01.294614"
+        "2026-01-12T08:01:01.294614",
+        "2026-01-13T08:00:58.516114"
       ],
       "views_rank": [
         255,
@@ -72,7 +73,8 @@
         241,
         240,
         241,
-        241
+        241,
+        242
       ],
       "runs_rank": [
         270,
@@ -81,7 +83,8 @@
         273,
         274,
         274,
-        274
+        274,
+        275
       ],
       "likes_rank": [
         45,
@@ -90,7 +93,8 @@
         54,
         69,
         69,
-        64
+        64,
+        65
       ]
     }
   },
@@ -109,12 +113,12 @@
     {
       "type": "positive",
       "title": "Rising Star",
-      "description": "Improved by 14 positions in views ranking over the last 30 days - showing strong momentum!"
+      "description": "Improved by 13 positions in views ranking over the last 30 days - showing strong momentum!"
     },
     {
       "type": "positive",
       "title": "Hot Trend",
-      "description": "Up 14 positions in just 7 days - currently trending and gaining rapid visibility!"
+      "description": "Up 8 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }
