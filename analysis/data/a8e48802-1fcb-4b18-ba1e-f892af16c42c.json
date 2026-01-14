@@ -1,6 +1,6 @@
 {
   "agent_id": "a8e48802-1fcb-4b18-ba1e-f892af16c42c",
-  "generated_at": "2026-01-13T00:01:25.919978",
+  "generated_at": "2026-01-14T00:01:09.683042",
   "basic_info": {
     "title": "AI Image Resizer",
     "author": "Zane29222",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-03T21:03:11.210000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Zane29222/ai-image-resizer",
-    "days_since_published": 70
+    "days_since_published": 71
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 82,
       "runs_rank": 47,
-      "likes_rank": 46,
-      "total_agents": 290,
-      "views_percentile": 71.7,
-      "runs_percentile": 83.8,
-      "likes_percentile": 84.1
+      "likes_rank": 103,
+      "total_agents": 289,
+      "views_percentile": 71.6,
+      "runs_percentile": 83.7,
+      "likes_percentile": 64.4
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 75,
+    "days_tracked": 76,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 54,
+    "days_tracked": 55,
     "last_7_days": {
       "views_rank_change": 2,
       "runs_rank_change": -3,
-      "likes_rank_change": 4
+      "likes_rank_change": 51
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 55,
+    "data_points": 56,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-13T08:00:58.516114",
+    "last_recorded": "2026-01-14T08:00:59.567570",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -111,7 +111,8 @@
         "2026-01-10T08:01:02.077885",
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
-        "2026-01-13T08:00:58.516114"
+        "2026-01-13T08:00:58.516114",
+        "2026-01-14T08:00:59.567570"
       ],
       "views_rank": [
         null,
@@ -168,6 +169,7 @@
         80,
         82,
         82,
+        82,
         82
       ],
       "runs_rank": [
@@ -222,6 +224,7 @@
         50,
         50,
         50,
+        47,
         47,
         47,
         47,
@@ -282,7 +285,8 @@
         46,
         46,
         46,
-        46
+        46,
+        103
       ]
     }
   },
@@ -294,7 +298,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #46 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #47 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

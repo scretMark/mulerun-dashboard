@@ -1,6 +1,6 @@
 {
   "agent_id": "57c5c690-5c9f-4e63-8dcd-3ef2f0a68f5a",
-  "generated_at": "2026-01-13T00:01:25.811042",
+  "generated_at": "2026-01-14T00:01:12.174879",
   "basic_info": {
     "title": "Christmas card",
     "author": "pxzzf1010_cr73m",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-09T22:10:15.357000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@pxzzf1010_cr73m/christmas-card",
-    "days_since_published": 34
+    "days_since_published": 35
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 253,
-      "runs_rank": 178,
-      "likes_rank": 5,
-      "total_agents": 290,
-      "views_percentile": 12.8,
-      "runs_percentile": 38.6,
-      "likes_percentile": 98.3
+      "runs_rank": 179,
+      "likes_rank": 4,
+      "total_agents": 289,
+      "views_percentile": 12.5,
+      "runs_percentile": 38.1,
+      "likes_percentile": 98.6
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 33,
+    "days_tracked": 34,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 32,
+    "days_tracked": 33,
     "last_7_days": {
       "views_rank_change": 2,
       "runs_rank_change": 3,
-      "likes_rank_change": -2
+      "likes_rank_change": -5
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 33,
+    "data_points": 34,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2026-01-13T08:00:58.516114",
+    "last_recorded": "2026-01-14T08:00:59.567570",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -89,7 +89,8 @@
         "2026-01-10T08:01:02.077885",
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
-        "2026-01-13T08:00:58.516114"
+        "2026-01-13T08:00:58.516114",
+        "2026-01-14T08:00:59.567570"
       ],
       "views_rank": [
         null,
@@ -121,6 +122,7 @@
         251,
         251,
         251,
+        253,
         253,
         253,
         253,
@@ -159,7 +161,8 @@
         176,
         177,
         178,
-        178
+        178,
+        179
       ],
       "likes_rank": [
         null,
@@ -194,7 +197,8 @@
         5,
         5,
         5,
-        5
+        5,
+        4
       ]
     }
   },
@@ -213,7 +217,7 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #5 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #4 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     }
   ]
 }

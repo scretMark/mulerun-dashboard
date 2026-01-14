@@ -1,6 +1,6 @@
 {
   "agent_id": "f312d26e-e790-4571-a881-2af89a281851",
-  "generated_at": "2026-01-13T00:01:26.157408",
+  "generated_at": "2026-01-14T00:01:12.429836",
   "basic_info": {
     "title": "Cozy Xmas Cube",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-19T16:25:54.256000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/cozy-xmas-cube",
-    "days_since_published": 24
+    "days_since_published": 25
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 282,
       "runs_rank": 277,
-      "likes_rank": 210,
-      "total_agents": 290,
-      "views_percentile": 2.8,
-      "runs_percentile": 4.5,
-      "likes_percentile": 27.6
+      "likes_rank": 219,
+      "total_agents": 289,
+      "views_percentile": 2.4,
+      "runs_percentile": 4.2,
+      "likes_percentile": 24.2
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 21,
+    "days_tracked": 22,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 23,
+    "days_tracked": 24,
     "last_7_days": {
-      "views_rank_change": 6,
-      "runs_rank_change": 5,
-      "likes_rank_change": 51
+      "views_rank_change": 3,
+      "runs_rank_change": 2,
+      "likes_rank_change": 54
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": 30,
-      "likes_rank_change": 161
+      "likes_rank_change": 170
     },
     "all_time": {
       "best_views_rank": 271,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 22,
+    "data_points": 23,
     "first_recorded": "2025-12-20T08:01:00.398750",
-    "last_recorded": "2026-01-13T08:00:58.516114",
+    "last_recorded": "2026-01-14T08:00:59.567570",
     "time_series": {
       "dates": [
         "2025-12-20T08:01:00.398750",
@@ -78,7 +78,8 @@
         "2026-01-10T08:01:02.077885",
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
-        "2026-01-13T08:00:58.516114"
+        "2026-01-13T08:00:58.516114",
+        "2026-01-14T08:00:59.567570"
       ],
       "views_rank": [
         null,
@@ -102,6 +103,7 @@
         280,
         280,
         280,
+        282,
         282
       ],
       "runs_rank": [
@@ -126,6 +128,7 @@
         276,
         276,
         276,
+        277,
         277
       ],
       "likes_rank": [
@@ -150,7 +153,8 @@
         207,
         207,
         208,
-        210
+        210,
+        219
       ]
     }
   },
@@ -169,7 +173,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #282 out of 290 active agents."
+      "description": "This agent is currently ranked #282 out of 289 active agents."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "1077e2db-e122-4565-acd6-1cf423532dfa",
-  "generated_at": "2026-01-13T00:01:26.052356",
+  "generated_at": "2026-01-14T00:01:12.365013",
   "basic_info": {
     "title": "Character Wallpaper Generator",
     "author": "AneX",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-12T19:04:12.849000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AneX/character-wallpaper-generator",
-    "days_since_published": 31
+    "days_since_published": 32
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 257,
       "runs_rank": 135,
-      "likes_rank": 163,
-      "total_agents": 290,
-      "views_percentile": 11.4,
-      "runs_percentile": 53.4,
-      "likes_percentile": 43.8
+      "likes_rank": 176,
+      "total_agents": 289,
+      "views_percentile": 11.1,
+      "runs_percentile": 53.3,
+      "likes_percentile": 39.1
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 28,
+    "days_tracked": 29,
     "price": 60.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 27,
+    "days_tracked": 28,
     "last_7_days": {
       "views_rank_change": 2,
-      "runs_rank_change": 0,
-      "likes_rank_change": 54
+      "runs_rank_change": -1,
+      "likes_rank_change": 61
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 29,
+    "data_points": 30,
     "first_recorded": "2025-12-16T19:09:41.063612",
-    "last_recorded": "2026-01-13T08:00:58.516114",
+    "last_recorded": "2026-01-14T08:00:59.567570",
     "time_series": {
       "dates": [
         "2025-12-16T19:09:41.063612",
@@ -85,7 +85,8 @@
         "2026-01-10T08:01:02.077885",
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
-        "2026-01-13T08:00:58.516114"
+        "2026-01-13T08:00:58.516114",
+        "2026-01-14T08:00:59.567570"
       ],
       "views_rank": [
         null,
@@ -113,6 +114,7 @@
         255,
         255,
         255,
+        257,
         257,
         257,
         257,
@@ -147,6 +149,7 @@
         134,
         134,
         134,
+        135,
         135
       ],
       "likes_rank": [
@@ -178,7 +181,8 @@
         161,
         161,
         161,
-        163
+        163,
+        176
       ]
     }
   },
@@ -197,7 +201,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #257 out of 290 active agents."
+      "description": "This agent is currently ranked #257 out of 289 active agents."
     }
   ]
 }

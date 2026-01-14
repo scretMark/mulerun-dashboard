@@ -1,6 +1,6 @@
 {
   "agent_id": "6d852596-ca92-4086-9fcb-4da9c8ece17e",
-  "generated_at": "2026-01-13T00:01:25.401455",
+  "generated_at": "2026-01-14T00:01:11.836674",
   "basic_info": {
     "title": "Banana Pro Canvas",
     "author": "Aronlong",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-20T20:11:49.993000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aronlong/banana-pro-canvas",
-    "days_since_published": 53
+    "days_since_published": 54
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 58,
       "runs_rank": 69,
-      "likes_rank": 133,
-      "total_agents": 290,
-      "views_percentile": 80.0,
-      "runs_percentile": 76.2,
-      "likes_percentile": 54.1
+      "likes_rank": 56,
+      "total_agents": 289,
+      "views_percentile": 79.9,
+      "runs_percentile": 76.1,
+      "likes_percentile": 80.6
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 46,
+    "days_tracked": 47,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 48,
+    "days_tracked": 49,
     "last_7_days": {
-      "views_rank_change": -5,
+      "views_rank_change": -3,
       "runs_rank_change": 1,
-      "likes_rank_change": 34
+      "likes_rank_change": -50
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 46,
+    "data_points": 47,
     "first_recorded": "2025-11-26T08:00:32.046352",
-    "last_recorded": "2026-01-13T08:00:58.516114",
+    "last_recorded": "2026-01-14T08:00:59.567570",
     "time_series": {
       "dates": [
         "2025-11-26T08:00:32.046352",
@@ -102,7 +102,8 @@
         "2026-01-10T08:01:02.077885",
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
-        "2026-01-13T08:00:58.516114"
+        "2026-01-13T08:00:58.516114",
+        "2026-01-14T08:00:59.567570"
       ],
       "views_rank": [
         null,
@@ -147,6 +148,7 @@
         63,
         62,
         61,
+        58,
         58,
         58,
         58,
@@ -198,6 +200,7 @@
         69,
         69,
         69,
+        69,
         69
       ],
       "likes_rank": [
@@ -246,7 +249,8 @@
         128,
         128,
         139,
-        133
+        133,
+        56
       ]
     }
   },
@@ -265,7 +269,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #58 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #56 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

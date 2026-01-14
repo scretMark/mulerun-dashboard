@@ -1,6 +1,6 @@
 {
   "agent_id": "01045f00-c02f-46eb-951b-8752bb5a6f12",
-  "generated_at": "2026-01-13T00:01:25.570305",
+  "generated_at": "2026-01-14T00:01:09.281276",
   "basic_info": {
     "title": "Youtube Awesome Thumbnail",
     "author": "summerail",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-10T09:52:30.048000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/youtube-awesome-thumbnail",
-    "days_since_published": 63
+    "days_since_published": 64
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 19,
       "runs_rank": 10,
-      "likes_rank": 141,
-      "total_agents": 290,
+      "likes_rank": 160,
+      "total_agents": 289,
       "views_percentile": 93.4,
-      "runs_percentile": 96.6,
-      "likes_percentile": 51.4
+      "runs_percentile": 96.5,
+      "likes_percentile": 44.6
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 62,
+    "days_tracked": 63,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 55,
+    "days_tracked": 56,
     "last_7_days": {
-      "views_rank_change": -1,
+      "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": 49
+      "likes_rank_change": 64
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 56,
+    "data_points": 57,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-13T08:00:58.516114",
+    "last_recorded": "2026-01-14T08:00:59.567570",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -112,7 +112,8 @@
         "2026-01-10T08:01:02.077885",
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
-        "2026-01-13T08:00:58.516114"
+        "2026-01-13T08:00:58.516114",
+        "2026-01-14T08:00:59.567570"
       ],
       "views_rank": [
         null,
@@ -170,6 +171,7 @@
         19,
         19,
         19,
+        19,
         19
       ],
       "runs_rank": [
@@ -221,6 +223,7 @@
         9,
         9,
         9,
+        10,
         10,
         10,
         10,
@@ -286,7 +289,8 @@
         129,
         139,
         131,
-        141
+        141,
+        160
       ]
     }
   },
@@ -299,6 +303,11 @@
       "type": "positive",
       "title": "Elite Performance",
       "description": "Ranked #10 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+    },
+    {
+      "type": "info",
+      "title": "Stable Leader",
+      "description": "Maintained #19 ranking for 7+ days - showing consistent market position and reliability."
     }
   ]
 }

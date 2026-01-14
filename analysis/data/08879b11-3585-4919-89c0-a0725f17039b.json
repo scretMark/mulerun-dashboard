@@ -1,6 +1,6 @@
 {
   "agent_id": "08879b11-3585-4919-89c0-a0725f17039b",
-  "generated_at": "2026-01-13T00:01:24.146257",
+  "generated_at": "2026-01-14T00:01:10.359945",
   "basic_info": {
     "title": "Amazon Product Search",
     "author": "createAny",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-13T18:19:42.979000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@createAny/amazon-product-search",
-    "days_since_published": 91
+    "days_since_published": 92
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 126,
       "runs_rank": 134,
-      "likes_rank": 135,
-      "total_agents": 290,
-      "views_percentile": 56.6,
-      "runs_percentile": 53.8,
-      "likes_percentile": 53.4
+      "likes_rank": 61,
+      "total_agents": 289,
+      "views_percentile": 56.4,
+      "runs_percentile": 53.6,
+      "likes_percentile": 78.9
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 87,
+    "days_tracked": 88,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 54,
+    "days_tracked": 55,
     "last_7_days": {
-      "views_rank_change": -7,
-      "runs_rank_change": -2,
-      "likes_rank_change": 116
+      "views_rank_change": -6,
+      "runs_rank_change": 1,
+      "likes_rank_change": 6
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 55,
+    "data_points": 56,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-13T08:00:58.516114",
+    "last_recorded": "2026-01-14T08:00:59.567570",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -111,7 +111,8 @@
         "2026-01-10T08:01:02.077885",
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
-        "2026-01-13T08:00:58.516114"
+        "2026-01-13T08:00:58.516114",
+        "2026-01-14T08:00:59.567570"
       ],
       "views_rank": [
         null,
@@ -168,6 +169,7 @@
         130,
         130,
         131,
+        126,
         126
       ],
       "runs_rank": [
@@ -225,6 +227,7 @@
         132,
         132,
         133,
+        134,
         134
       ],
       "likes_rank": [
@@ -282,7 +285,8 @@
         132,
         132,
         130,
-        135
+        135,
+        61
       ]
     }
   },
@@ -294,7 +298,7 @@
     {
       "type": "positive",
       "title": "Hot Trend",
-      "description": "Up 7 positions in just 7 days - currently trending and gaining rapid visibility!"
+      "description": "Up 6 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

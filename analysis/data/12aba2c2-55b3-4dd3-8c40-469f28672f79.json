@@ -1,6 +1,6 @@
 {
   "agent_id": "12aba2c2-55b3-4dd3-8c40-469f28672f79",
-  "generated_at": "2026-01-13T00:01:26.305880",
+  "generated_at": "2026-01-14T00:01:12.549180",
   "basic_info": {
     "title": "Speech to Text for Lite Version",
     "author": "zhoudshu",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-24T16:02:22.495000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@zhoudshu/speech-to-text",
-    "days_since_published": 19
+    "days_since_published": 20
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 245,
-      "runs_rank": 196,
-      "likes_rank": 155,
-      "total_agents": 290,
-      "views_percentile": 15.5,
-      "runs_percentile": 32.4,
-      "likes_percentile": 46.6
+      "views_rank": 246,
+      "runs_rank": 197,
+      "likes_rank": 168,
+      "total_agents": 289,
+      "views_percentile": 14.9,
+      "runs_percentile": 31.8,
+      "likes_percentile": 41.9
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 15,
+    "days_tracked": 16,
     "price": 20.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 18,
+    "days_tracked": 19,
     "last_7_days": {
       "views_rank_change": 3,
       "runs_rank_change": 5,
-      "likes_rank_change": 51
+      "likes_rank_change": 59
     },
     "last_30_days": {
-      "views_rank_change": 7,
-      "runs_rank_change": 8,
-      "likes_rank_change": 85
+      "views_rank_change": 8,
+      "runs_rank_change": 9,
+      "likes_rank_change": 98
     },
     "all_time": {
       "best_views_rank": 236,
@@ -47,14 +47,14 @@
       "best_likes_rank": 70,
       "days_in_top_10": 0,
       "first_rank": 238,
-      "current_rank": 245
+      "current_rank": 246
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 16,
+    "data_points": 17,
     "first_recorded": "2025-12-26T08:00:54.905148",
-    "last_recorded": "2026-01-13T08:00:58.516114",
+    "last_recorded": "2026-01-14T08:00:59.567570",
     "time_series": {
       "dates": [
         "2025-12-26T08:00:54.905148",
@@ -72,7 +72,8 @@
         "2026-01-10T08:01:02.077885",
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
-        "2026-01-13T08:00:58.516114"
+        "2026-01-13T08:00:58.516114",
+        "2026-01-14T08:00:59.567570"
       ],
       "views_rank": [
         238,
@@ -90,7 +91,8 @@
         244,
         245,
         245,
-        245
+        245,
+        246
       ],
       "runs_rank": [
         188,
@@ -108,7 +110,8 @@
         193,
         194,
         195,
-        196
+        196,
+        197
       ],
       "likes_rank": [
         70,
@@ -126,7 +129,8 @@
         153,
         154,
         152,
-        155
+        155,
+        168
       ]
     }
   },
@@ -145,7 +149,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #245 out of 290 active agents."
+      "description": "This agent is currently ranked #246 out of 289 active agents."
     }
   ]
 }

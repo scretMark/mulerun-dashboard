@@ -1,6 +1,6 @@
 {
   "agent_id": "65186ca8-5fe3-4a2d-b731-5ff0e1619a2a",
-  "generated_at": "2026-01-13T00:01:23.813881",
+  "generated_at": "2026-01-14T00:01:10.116762",
   "basic_info": {
     "title": "ID Card Photo by nano banana",
     "author": "DENNIS",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-28T12:05:04.905000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@DENNIS/id-card-photo-by-nano-banana",
-    "days_since_published": 106
+    "days_since_published": 107
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 116,
-      "runs_rank": 147,
-      "likes_rank": 99,
-      "total_agents": 290,
-      "views_percentile": 60.0,
-      "runs_percentile": 49.3,
-      "likes_percentile": 65.9
+      "runs_rank": 148,
+      "likes_rank": 113,
+      "total_agents": 289,
+      "views_percentile": 59.9,
+      "runs_percentile": 48.8,
+      "likes_percentile": 60.9
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 82,
+    "days_tracked": 83,
     "price": 35.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 54,
+    "days_tracked": 55,
     "last_7_days": {
-      "views_rank_change": 0,
+      "views_rank_change": -1,
       "runs_rank_change": 3,
-      "likes_rank_change": -131
+      "likes_rank_change": -116
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 55,
+    "data_points": 56,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-13T08:00:58.516114",
+    "last_recorded": "2026-01-14T08:00:59.567570",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -111,7 +111,8 @@
         "2026-01-10T08:01:02.077885",
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
-        "2026-01-13T08:00:58.516114"
+        "2026-01-13T08:00:58.516114",
+        "2026-01-14T08:00:59.567570"
       ],
       "views_rank": [
         null,
@@ -165,6 +166,7 @@
         116,
         117,
         117,
+        116,
         116,
         116,
         116,
@@ -225,7 +227,8 @@
         146,
         146,
         146,
-        147
+        147,
+        148
       ],
       "likes_rank": [
         null,
@@ -282,7 +285,8 @@
         99,
         99,
         99,
-        99
+        99,
+        113
       ]
     }
   },
@@ -294,7 +298,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #116 out of 290 active agents."
+      "description": "This agent is currently ranked #116 out of 289 active agents."
     }
   ]
 }

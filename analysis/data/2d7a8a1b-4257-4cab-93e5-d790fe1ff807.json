@@ -1,6 +1,6 @@
 {
   "agent_id": "2d7a8a1b-4257-4cab-93e5-d790fe1ff807",
-  "generated_at": "2026-01-13T00:01:26.203741",
+  "generated_at": "2026-01-14T00:01:12.466602",
   "basic_info": {
     "title": "Shorts Script Factory",
     "author": "ali_mohammed2tm",
@@ -11,50 +11,50 @@
     "published_at": "2025-12-18T02:09:10.785000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@ali_mohammed2tm/shorts-script-factory",
-    "days_since_published": 25
+    "days_since_published": 26
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 169,
-      "runs_rank": 125,
-      "likes_rank": 126,
-      "total_agents": 290,
-      "views_percentile": 41.7,
-      "runs_percentile": 56.9,
-      "likes_percentile": 56.6
+      "views_rank": 168,
+      "runs_rank": 126,
+      "likes_rank": null,
+      "total_agents": 289,
+      "views_percentile": 41.9,
+      "runs_percentile": 56.4,
+      "likes_percentile": 0
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 18,
+    "days_tracked": 19,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 20,
+    "days_tracked": 21,
     "last_7_days": {
-      "views_rank_change": -4,
-      "runs_rank_change": 2,
-      "likes_rank_change": 78
+      "views_rank_change": -2,
+      "runs_rank_change": 3,
+      "likes_rank_change": null
     },
     "last_30_days": {
-      "views_rank_change": -17,
-      "runs_rank_change": 5,
-      "likes_rank_change": 118
+      "views_rank_change": -18,
+      "runs_rank_change": 6,
+      "likes_rank_change": null
     },
     "all_time": {
-      "best_views_rank": 169,
+      "best_views_rank": 168,
       "best_runs_rank": 118,
       "best_likes_rank": 8,
       "days_in_top_10": 0,
       "first_rank": 186,
-      "current_rank": 169
+      "current_rank": 168
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 19,
+    "data_points": 20,
     "first_recorded": "2025-12-23T08:00:59.635142",
-    "last_recorded": "2026-01-13T08:00:58.516114",
+    "last_recorded": "2026-01-14T08:00:59.567570",
     "time_series": {
       "dates": [
         "2025-12-23T08:00:59.635142",
@@ -75,7 +75,8 @@
         "2026-01-10T08:01:02.077885",
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
-        "2026-01-13T08:00:58.516114"
+        "2026-01-13T08:00:58.516114",
+        "2026-01-14T08:00:59.567570"
       ],
       "views_rank": [
         186,
@@ -96,7 +97,8 @@
         169,
         169,
         169,
-        169
+        169,
+        168
       ],
       "runs_rank": [
         120,
@@ -117,7 +119,8 @@
         123,
         123,
         124,
-        125
+        125,
+        126
       ],
       "likes_rank": [
         8,
@@ -138,7 +141,8 @@
         118,
         118,
         127,
-        126
+        126,
+        null
       ]
     }
   },
@@ -157,7 +161,7 @@
     {
       "type": "positive",
       "title": "Rising Star",
-      "description": "Improved by 17 positions in views ranking over the last 30 days - showing strong momentum!"
+      "description": "Improved by 18 positions in views ranking over the last 30 days - showing strong momentum!"
     }
   ]
 }

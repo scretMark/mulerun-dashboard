@@ -1,6 +1,6 @@
 {
   "agent_id": "aee41d41-0318-43ce-b6cd-e6a2def163b8",
-  "generated_at": "2026-01-13T00:01:24.090696",
+  "generated_at": "2026-01-14T00:01:10.316704",
   "basic_info": {
     "title": "Mechanical Image Generator",
     "author": "Darren",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-30T09:50:41.881000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/mechanical-image-generator",
-    "days_since_published": 104
+    "days_since_published": 105
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 104,
-      "runs_rank": 80,
-      "likes_rank": 264,
-      "total_agents": 290,
-      "views_percentile": 64.1,
-      "runs_percentile": 72.4,
-      "likes_percentile": 9.0
+      "runs_rank": 77,
+      "likes_rank": 266,
+      "total_agents": 289,
+      "views_percentile": 64.0,
+      "runs_percentile": 73.4,
+      "likes_percentile": 8.0
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 77,
+    "days_tracked": 78,
     "price": 29.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 54,
+    "days_tracked": 55,
     "last_7_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": -13,
-      "likes_rank_change": 27
+      "views_rank_change": 0,
+      "runs_rank_change": -17,
+      "likes_rank_change": 31
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -43,7 +43,7 @@
     },
     "all_time": {
       "best_views_rank": 96,
-      "best_runs_rank": 80,
+      "best_runs_rank": 77,
       "best_likes_rank": 48,
       "days_in_top_10": 0,
       "first_rank": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 55,
+    "data_points": 56,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-13T08:00:58.516114",
+    "last_recorded": "2026-01-14T08:00:59.567570",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -111,7 +111,8 @@
         "2026-01-10T08:01:02.077885",
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
-        "2026-01-13T08:00:58.516114"
+        "2026-01-13T08:00:58.516114",
+        "2026-01-14T08:00:59.567570"
       ],
       "views_rank": [
         null,
@@ -168,6 +169,7 @@
         107,
         107,
         103,
+        104,
         104
       ],
       "runs_rank": [
@@ -225,7 +227,8 @@
         95,
         95,
         83,
-        80
+        80,
+        77
       ],
       "likes_rank": [
         null,
@@ -282,7 +285,8 @@
         263,
         263,
         261,
-        264
+        264,
+        266
       ]
     }
   },
@@ -294,7 +298,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #104 out of 290 active agents."
+      "description": "This agent is currently ranked #104 out of 289 active agents."
     }
   ]
 }

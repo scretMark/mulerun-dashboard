@@ -1,6 +1,6 @@
 {
   "agent_id": "64ad39ee-cbe9-471c-a02c-22f29b6b3bb3",
-  "generated_at": "2026-01-13T00:01:26.548457",
+  "generated_at": "2026-01-14T00:01:12.788930",
   "basic_info": {
     "title": "PixelSensei",
     "author": "LunarAITalk",
@@ -11,74 +11,78 @@
     "published_at": "2026-01-01T19:25:02.602000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LunarAITalk/pixelsensei",
-    "days_since_published": 11
+    "days_since_published": 12
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 189,
-      "runs_rank": 123,
-      "likes_rank": 72,
-      "total_agents": 290,
-      "views_percentile": 34.8,
-      "runs_percentile": 57.6,
-      "likes_percentile": 75.2
+      "views_rank": 188,
+      "runs_rank": 115,
+      "likes_rank": 99,
+      "total_agents": 289,
+      "views_percentile": 34.9,
+      "runs_percentile": 60.2,
+      "likes_percentile": 65.7
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 3,
+    "days_tracked": 4,
     "price": 20.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 2,
+    "days_tracked": 3,
     "last_7_days": {
-      "views_rank_change": -62,
-      "runs_rank_change": -99,
-      "likes_rank_change": -2
+      "views_rank_change": -63,
+      "runs_rank_change": -107,
+      "likes_rank_change": 25
     },
     "last_30_days": {
-      "views_rank_change": -62,
-      "runs_rank_change": -99,
-      "likes_rank_change": -2
+      "views_rank_change": -63,
+      "runs_rank_change": -107,
+      "likes_rank_change": 25
     },
     "all_time": {
-      "best_views_rank": 189,
-      "best_runs_rank": 123,
+      "best_views_rank": 188,
+      "best_runs_rank": 115,
       "best_likes_rank": 72,
       "days_in_top_10": 0,
       "first_rank": 251,
-      "current_rank": 189
+      "current_rank": 188
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 4,
+    "data_points": 5,
     "first_recorded": "2026-01-10T08:01:02.077885",
-    "last_recorded": "2026-01-13T08:00:58.516114",
+    "last_recorded": "2026-01-14T08:00:59.567570",
     "time_series": {
       "dates": [
         "2026-01-10T08:01:02.077885",
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
-        "2026-01-13T08:00:58.516114"
+        "2026-01-13T08:00:58.516114",
+        "2026-01-14T08:00:59.567570"
       ],
       "views_rank": [
         251,
         232,
         232,
-        189
+        189,
+        188
       ],
       "runs_rank": [
         222,
         151,
         151,
-        123
+        123,
+        115
       ],
       "likes_rank": [
         74,
         78,
         78,
-        72
+        72,
+        99
       ]
     }
   },
@@ -97,17 +101,17 @@
     {
       "type": "positive",
       "title": "Rising Star",
-      "description": "Improved by 62 positions in views ranking over the last 30 days - showing strong momentum!"
+      "description": "Improved by 63 positions in views ranking over the last 30 days - showing strong momentum!"
     },
     {
       "type": "positive",
       "title": "Growing Usage",
-      "description": "Runs ranking improved by 99 positions in the last 30 days - users are actively engaging with this agent!"
+      "description": "Runs ranking improved by 107 positions in the last 30 days - users are actively engaging with this agent!"
     },
     {
       "type": "positive",
       "title": "Hot Trend",
-      "description": "Up 62 positions in just 7 days - currently trending and gaining rapid visibility!"
+      "description": "Up 63 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "534ee29f-13a6-4369-bf09-0683968d8f15",
-  "generated_at": "2026-01-13T00:01:26.582286",
+  "generated_at": "2026-01-14T00:01:12.806850",
   "basic_info": {
     "title": "Comic Meme Caption",
     "author": "thurnz",
@@ -11,17 +11,17 @@
     "published_at": "2026-01-09T11:09:10.896000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@thurnz/comic-meme-caption",
-    "days_since_published": 3
+    "days_since_published": 4
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 278,
-      "runs_rank": 265,
-      "likes_rank": 88,
-      "total_agents": 290,
-      "views_percentile": 4.1,
-      "runs_percentile": 8.6,
-      "likes_percentile": 69.7
+      "runs_rank": 266,
+      "likes_rank": 106,
+      "total_agents": 289,
+      "views_percentile": 3.8,
+      "runs_percentile": 8.0,
+      "likes_percentile": 63.3
     },
     "tier": "Mid",
     "tier_class": "mid",
@@ -30,9 +30,17 @@
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 0,
-    "last_7_days": {},
-    "last_30_days": {},
+    "days_tracked": 1,
+    "last_7_days": {
+      "views_rank_change": 0,
+      "runs_rank_change": 1,
+      "likes_rank_change": 18
+    },
+    "last_30_days": {
+      "views_rank_change": 0,
+      "runs_rank_change": 1,
+      "likes_rank_change": 18
+    },
     "all_time": {
       "best_views_rank": 278,
       "best_runs_rank": 265,
@@ -44,21 +52,25 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 1,
+    "data_points": 2,
     "first_recorded": "2026-01-13T08:00:58.516114",
-    "last_recorded": "2026-01-13T08:00:58.516114",
+    "last_recorded": "2026-01-14T08:00:59.567570",
     "time_series": {
       "dates": [
-        "2026-01-13T08:00:58.516114"
+        "2026-01-13T08:00:58.516114",
+        "2026-01-14T08:00:59.567570"
       ],
       "views_rank": [
+        278,
         278
       ],
       "runs_rank": [
-        265
+        265,
+        266
       ],
       "likes_rank": [
-        88
+        88,
+        106
       ]
     }
   },
@@ -77,7 +89,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #278 out of 290 active agents."
+      "description": "This agent is currently ranked #278 out of 289 active agents."
     }
   ]
 }

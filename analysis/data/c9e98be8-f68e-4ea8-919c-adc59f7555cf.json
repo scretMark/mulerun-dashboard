@@ -1,6 +1,6 @@
 {
   "agent_id": "c9e98be8-f68e-4ea8-919c-adc59f7555cf",
-  "generated_at": "2026-01-13T00:01:25.493647",
+  "generated_at": "2026-01-14T00:01:09.209987",
   "basic_info": {
     "title": "UPCV Resume Gen ",
     "author": "upcv",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-12T11:14:49.973000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@upcv/upcv-resume-gen",
-    "days_since_published": 61
+    "days_since_published": 62
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 76,
       "runs_rank": 14,
-      "likes_rank": 117,
-      "total_agents": 290,
-      "views_percentile": 73.8,
+      "likes_rank": 66,
+      "total_agents": 289,
+      "views_percentile": 73.7,
       "runs_percentile": 95.2,
-      "likes_percentile": 59.7
+      "likes_percentile": 77.2
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 61,
+    "days_tracked": 62,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 55,
+    "days_tracked": 56,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": 21
+      "likes_rank_change": -37
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 56,
+    "data_points": 57,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-13T08:00:58.516114",
+    "last_recorded": "2026-01-14T08:00:59.567570",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -112,7 +112,8 @@
         "2026-01-10T08:01:02.077885",
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
-        "2026-01-13T08:00:58.516114"
+        "2026-01-13T08:00:58.516114",
+        "2026-01-14T08:00:59.567570"
       ],
       "views_rank": [
         null,
@@ -161,6 +162,7 @@
         78,
         78,
         77,
+        76,
         76,
         76,
         76,
@@ -228,6 +230,7 @@
         14,
         14,
         14,
+        14,
         14
       ],
       "likes_rank": [
@@ -286,7 +289,8 @@
         126,
         125,
         121,
-        117
+        117,
+        66
       ]
     }
   },

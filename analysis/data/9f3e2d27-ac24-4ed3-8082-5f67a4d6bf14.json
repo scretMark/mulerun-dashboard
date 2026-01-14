@@ -1,6 +1,6 @@
 {
   "agent_id": "9f3e2d27-ac24-4ed3-8082-5f67a4d6bf14",
-  "generated_at": "2026-01-13T00:01:25.716645",
+  "generated_at": "2026-01-14T00:01:12.111247",
   "basic_info": {
     "title": "Fireworks Show",
     "author": "LinkAIBrain",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-03T11:04:04.300000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/fireworks-show",
-    "days_since_published": 40
+    "days_since_published": 41
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 215,
       "runs_rank": 226,
-      "likes_rank": 41,
-      "total_agents": 290,
-      "views_percentile": 25.9,
-      "runs_percentile": 22.1,
-      "likes_percentile": 85.9
+      "likes_rank": 31,
+      "total_agents": 289,
+      "views_percentile": 25.6,
+      "runs_percentile": 21.8,
+      "likes_percentile": 89.3
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 35,
+    "days_tracked": 36,
     "price": 500.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "last_7_days": {
-      "views_rank_change": -4,
-      "runs_rank_change": 4,
-      "likes_rank_change": -43
+      "views_rank_change": -1,
+      "runs_rank_change": 3,
+      "likes_rank_change": -58
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 35,
+    "data_points": 36,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2026-01-13T08:00:58.516114",
+    "last_recorded": "2026-01-14T08:00:59.567570",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
@@ -91,7 +91,8 @@
         "2026-01-10T08:01:02.077885",
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
-        "2026-01-13T08:00:58.516114"
+        "2026-01-13T08:00:58.516114",
+        "2026-01-14T08:00:59.567570"
       ],
       "views_rank": [
         null,
@@ -128,6 +129,7 @@
         215,
         216,
         216,
+        215,
         215
       ],
       "runs_rank": [
@@ -162,6 +164,7 @@
         222,
         222,
         223,
+        226,
         226,
         226,
         226,
@@ -202,7 +205,8 @@
         37,
         37,
         37,
-        41
+        41,
+        31
       ]
     }
   },
@@ -221,7 +225,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #41 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #31 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }
