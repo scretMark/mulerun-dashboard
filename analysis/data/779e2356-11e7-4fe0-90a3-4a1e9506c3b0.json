@@ -1,6 +1,6 @@
 {
   "agent_id": "779e2356-11e7-4fe0-90a3-4a1e9506c3b0",
-  "generated_at": "2026-01-14T00:01:09.194183",
+  "generated_at": "2026-01-15T00:01:18.851392",
   "basic_info": {
     "title": "Smart Q",
     "author": "QuickBI",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-04T15:33:59.812000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@QuickBI/smart-q",
-    "days_since_published": 70
+    "days_since_published": 71
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 21,
       "runs_rank": 5,
-      "likes_rank": 82,
-      "total_agents": 289,
-      "views_percentile": 92.7,
+      "likes_rank": 236,
+      "total_agents": 292,
+      "views_percentile": 92.8,
       "runs_percentile": 98.3,
-      "likes_percentile": 71.6
+      "likes_percentile": 19.2
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 63,
+    "days_tracked": 64,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
-      "views_rank_change": -2,
+      "views_rank_change": -1,
       "runs_rank_change": 0,
-      "likes_rank_change": 10
+      "likes_rank_change": 125
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -113,7 +113,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         null,
@@ -172,6 +173,7 @@
         21,
         21,
         21,
+        21,
         21
       ],
       "runs_rank": [
@@ -221,6 +223,7 @@
         5,
         4,
         4,
+        5,
         5,
         5,
         5,
@@ -290,7 +293,8 @@
         121,
         117,
         123,
-        82
+        82,
+        236
       ]
     }
   },

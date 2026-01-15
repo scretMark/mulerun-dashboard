@@ -1,6 +1,6 @@
 {
   "agent_id": "ad2f3a98-69db-4d48-9e9e-668e61cd95c9",
-  "generated_at": "2026-01-14T00:01:11.253592",
+  "generated_at": "2026-01-15T00:01:20.636568",
   "basic_info": {
     "title": "Vanisho",
     "author": "Vans",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-10T21:09:48.984000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Vans/vanisho",
-    "days_since_published": 95
+    "days_since_published": 96
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 131,
-      "runs_rank": 247,
-      "likes_rank": 53,
-      "total_agents": 289,
-      "views_percentile": 54.7,
-      "runs_percentile": 14.5,
-      "likes_percentile": 81.7
+      "runs_rank": 250,
+      "likes_rank": 29,
+      "total_agents": 292,
+      "views_percentile": 55.1,
+      "runs_percentile": 14.4,
+      "likes_percentile": 90.1
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 91,
+    "days_tracked": 92,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 55,
+    "days_tracked": 56,
     "last_7_days": {
       "views_rank_change": 2,
-      "runs_rank_change": 2,
-      "likes_rank_change": -137
+      "runs_rank_change": 4,
+      "likes_rank_change": -202
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 56,
+    "data_points": 57,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -112,7 +112,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         null,
@@ -169,6 +170,7 @@
         129,
         129,
         129,
+        131,
         131,
         131
       ],
@@ -228,7 +230,8 @@
         246,
         247,
         247,
-        247
+        247,
+        250
       ],
       "likes_rank": [
         null,
@@ -286,7 +289,8 @@
         231,
         231,
         232,
-        53
+        53,
+        29
       ]
     }
   },
@@ -298,7 +302,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #53 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #29 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

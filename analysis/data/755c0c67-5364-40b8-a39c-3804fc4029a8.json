@@ -1,6 +1,6 @@
 {
   "agent_id": "755c0c67-5364-40b8-a39c-3804fc4029a8",
-  "generated_at": "2026-01-14T00:01:11.692429",
+  "generated_at": "2026-01-15T00:01:21.042572",
   "basic_info": {
     "title": "Your Nobel Moment",
     "author": "Norsizu",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-13T11:03:06.303000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/your-nobel-moment",
-    "days_since_published": 92
+    "days_since_published": 93
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 208,
-      "runs_rank": 274,
-      "likes_rank": 234,
-      "total_agents": 289,
-      "views_percentile": 28.0,
-      "runs_percentile": 5.2,
-      "likes_percentile": 19.0
+      "runs_rank": 277,
+      "likes_rank": 155,
+      "total_agents": 292,
+      "views_percentile": 28.8,
+      "runs_percentile": 5.1,
+      "likes_percentile": 46.9
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 78,
+    "days_tracked": 79,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 55,
+    "days_tracked": 56,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 2,
-      "likes_rank_change": 50
+      "runs_rank_change": 4,
+      "likes_rank_change": -69
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 56,
+    "data_points": 57,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -112,7 +112,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         null,
@@ -169,6 +170,7 @@
         207,
         209,
         209,
+        208,
         208,
         208
       ],
@@ -228,7 +230,8 @@
         273,
         273,
         274,
-        274
+        274,
+        277
       ],
       "likes_rank": [
         null,
@@ -286,7 +289,8 @@
         224,
         224,
         225,
-        234
+        234,
+        155
       ]
     }
   },
@@ -298,7 +302,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #208 out of 289 active agents."
+      "description": "This agent is currently ranked #208 out of 292 active agents."
     }
   ]
 }

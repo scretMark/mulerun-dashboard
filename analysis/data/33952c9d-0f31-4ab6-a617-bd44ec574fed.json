@@ -1,6 +1,6 @@
 {
   "agent_id": "33952c9d-0f31-4ab6-a617-bd44ec574fed",
-  "generated_at": "2026-01-14T00:01:12.027632",
+  "generated_at": "2026-01-15T00:01:21.415510",
   "basic_info": {
     "title": "Pixel Avatar Agent ",
     "author": "Matt",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-05T19:04:02.237000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Matt/pixel-avatar-agent",
-    "days_since_published": 39
+    "days_since_published": 40
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 228,
       "runs_rank": 200,
-      "likes_rank": 182,
-      "total_agents": 289,
-      "views_percentile": 21.1,
-      "runs_percentile": 30.8,
-      "likes_percentile": 37.0
+      "likes_rank": 112,
+      "total_agents": 292,
+      "views_percentile": 21.9,
+      "runs_percentile": 31.5,
+      "likes_percentile": 61.6
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 37,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 38,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 36,
+    "days_tracked": 37,
     "last_7_days": {
       "views_rank_change": 3,
-      "runs_rank_change": 4,
-      "likes_rank_change": 57
+      "runs_rank_change": 3,
+      "likes_rank_change": -57
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 38,
+    "data_points": 39,
     "first_recorded": "2025-12-09T08:00:25.308684",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2025-12-09T08:00:25.308684",
@@ -94,7 +94,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         null,
@@ -134,6 +135,7 @@
         225,
         225,
         226,
+        228,
         228
       ],
       "runs_rank": [
@@ -174,6 +176,7 @@
         198,
         198,
         199,
+        200,
         200
       ],
       "likes_rank": [
@@ -214,7 +217,8 @@
         169,
         169,
         170,
-        182
+        182,
+        112
       ]
     }
   },
@@ -233,7 +237,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #228 out of 289 active agents."
+      "description": "This agent is currently ranked #228 out of 292 active agents."
     }
   ]
 }

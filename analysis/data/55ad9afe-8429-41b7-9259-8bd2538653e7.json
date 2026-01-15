@@ -1,6 +1,6 @@
 {
   "agent_id": "55ad9afe-8429-41b7-9259-8bd2538653e7",
-  "generated_at": "2026-01-14T00:01:10.253383",
+  "generated_at": "2026-01-15T00:01:19.746604",
   "basic_info": {
     "title": "LinkMatch: Smart Job Matcher",
     "author": "YuTou_baby",
@@ -11,30 +11,30 @@
     "published_at": "2025-08-21T21:03:54.436000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@YuTou_baby/linkmatch-smart-job-matcher",
-    "days_since_published": 145
+    "days_since_published": 146
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 30,
       "runs_rank": 39,
-      "likes_rank": 177,
-      "total_agents": 289,
-      "views_percentile": 89.6,
-      "runs_percentile": 86.5,
-      "likes_percentile": 38.8
+      "likes_rank": 291,
+      "total_agents": 292,
+      "views_percentile": 89.7,
+      "runs_percentile": 86.6,
+      "likes_percentile": 0.3
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 120,
+    "days_tracked": 121,
     "price": 8.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 55,
+    "days_tracked": 56,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": 58
+      "likes_rank_change": 131
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 56,
+    "data_points": 57,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -112,7 +112,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         null,
@@ -170,6 +171,7 @@
         30,
         30,
         30,
+        30,
         30
       ],
       "runs_rank": [
@@ -220,6 +222,7 @@
         38,
         38,
         38,
+        39,
         39,
         39,
         39,
@@ -286,7 +289,8 @@
         160,
         160,
         160,
-        177
+        177,
+        291
       ]
     }
   },

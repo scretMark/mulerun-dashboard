@@ -1,6 +1,6 @@
 {
   "agent_id": "cca04944-7d12-4d44-9e48-fbc2ce56108b",
-  "generated_at": "2026-01-14T00:01:12.814726",
+  "generated_at": "2026-01-15T00:01:22.400412",
   "basic_info": {
     "title": "JOJO STAND",
     "author": "Hugo_zz567",
@@ -11,66 +11,70 @@
     "published_at": "2026-01-10T23:43:49.406000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Hugo_zz567/jojo-stand",
-    "days_since_published": 3
+    "days_since_published": 4
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 285,
-      "runs_rank": 290,
-      "likes_rank": 7,
-      "total_agents": 289,
-      "views_percentile": 1.4,
+      "views_rank": 282,
+      "runs_rank": 293,
+      "likes_rank": 231,
+      "total_agents": 292,
+      "views_percentile": 3.4,
       "runs_percentile": -0.3,
-      "likes_percentile": 97.6
+      "likes_percentile": 20.9
     },
-    "tier": "Elite",
-    "tier_class": "elite",
+    "tier": "Low",
+    "tier_class": "low",
     "days_tracked": 0,
     "price": 90.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 1,
+    "days_tracked": 2,
     "last_7_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": 0,
-      "likes_rank_change": -2
+      "views_rank_change": -3,
+      "runs_rank_change": 3,
+      "likes_rank_change": 222
     },
     "last_30_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": 0,
-      "likes_rank_change": -2
+      "views_rank_change": -3,
+      "runs_rank_change": 3,
+      "likes_rank_change": 222
     },
     "all_time": {
-      "best_views_rank": 285,
+      "best_views_rank": 282,
       "best_runs_rank": 290,
       "best_likes_rank": 7,
       "days_in_top_10": 0,
       "first_rank": 285,
-      "current_rank": 285
+      "current_rank": 282
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 2,
+    "data_points": 3,
     "first_recorded": "2026-01-13T08:00:58.516114",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         285,
-        285
+        285,
+        282
       ],
       "runs_rank": [
         290,
-        290
+        290,
+        293
       ],
       "likes_rank": [
         9,
-        7
+        7,
+        231
       ]
     }
   },
@@ -87,9 +91,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "Elite Performance",
-      "description": "Ranked #7 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #282 out of 292 active agents."
     }
   ]
 }

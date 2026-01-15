@@ -1,6 +1,6 @@
 {
   "agent_id": "f5f82451-13c5-4a16-bf95-9735363ff935",
-  "generated_at": "2026-01-14T00:01:09.474850",
+  "generated_at": "2026-01-15T00:01:19.075845",
   "basic_info": {
     "title": "StarSnap",
     "author": "YuTou_baby",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-05T23:48:00.962000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@YuTou_baby/starsnap",
-    "days_since_published": 130
+    "days_since_published": 131
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 15,
       "runs_rank": 16,
-      "likes_rank": 136,
-      "total_agents": 289,
-      "views_percentile": 94.8,
+      "likes_rank": 271,
+      "total_agents": 292,
+      "views_percentile": 94.9,
       "runs_percentile": 94.5,
-      "likes_percentile": 52.9
+      "likes_percentile": 7.2
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 83,
+    "days_tracked": 84,
     "price": 80.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 55,
+    "days_tracked": 56,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 1,
-      "likes_rank_change": -134
+      "likes_rank_change": 167
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 56,
+    "data_points": 57,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -112,7 +112,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         null,
@@ -162,6 +163,7 @@
         16,
         16,
         16,
+        15,
         15,
         15,
         15,
@@ -228,6 +230,7 @@
         15,
         15,
         15,
+        16,
         16
       ],
       "likes_rank": [
@@ -286,7 +289,8 @@
         106,
         105,
         106,
-        136
+        136,
+        271
       ]
     }
   },

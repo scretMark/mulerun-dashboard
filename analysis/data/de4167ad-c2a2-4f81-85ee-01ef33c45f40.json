@@ -1,6 +1,6 @@
 {
   "agent_id": "de4167ad-c2a2-4f81-85ee-01ef33c45f40",
-  "generated_at": "2026-01-14T00:01:10.636995",
+  "generated_at": "2026-01-15T00:01:20.098037",
   "basic_info": {
     "title": "AI Portrait Enhancer",
     "author": "marspace_ai",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-20T17:25:22.899000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@marspace_ai/ai-portrait-enhancer",
-    "days_since_published": 85
+    "days_since_published": 86
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 146,
-      "runs_rank": 168,
-      "likes_rank": 226,
-      "total_agents": 289,
-      "views_percentile": 49.5,
-      "runs_percentile": 41.9,
-      "likes_percentile": 21.8
+      "runs_rank": 169,
+      "likes_rank": 146,
+      "total_agents": 292,
+      "views_percentile": 50.0,
+      "runs_percentile": 42.1,
+      "likes_percentile": 50.0
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 78,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 79,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 55,
+    "days_tracked": 56,
     "last_7_days": {
       "views_rank_change": 2,
       "runs_rank_change": 4,
-      "likes_rank_change": 53
+      "likes_rank_change": -69
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 56,
+    "data_points": 57,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -112,7 +112,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         null,
@@ -169,6 +170,7 @@
         144,
         144,
         144,
+        146,
         146,
         146
       ],
@@ -228,7 +230,8 @@
         167,
         167,
         168,
-        168
+        168,
+        169
       ],
       "likes_rank": [
         null,
@@ -286,7 +289,8 @@
         215,
         215,
         217,
-        226
+        226,
+        146
       ]
     }
   },
@@ -298,7 +302,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #146 out of 289 active agents."
+      "description": "This agent is currently ranked #146 out of 292 active agents."
     }
   ]
 }

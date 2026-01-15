@@ -1,6 +1,6 @@
 {
   "agent_id": "990a2558-13c3-4fe8-bcc3-f3897a7b9866",
-  "generated_at": "2026-01-14T00:01:12.763316",
+  "generated_at": "2026-01-15T00:01:22.312487",
   "basic_info": {
     "title": "Try New Hair Color",
     "author": "AngryBerry",
@@ -11,50 +11,50 @@
     "published_at": "2026-01-06T22:44:35.857000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AngryBerry/try-new-hair-color",
-    "days_since_published": 7
+    "days_since_published": 8
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 256,
+      "views_rank": 258,
       "runs_rank": 201,
-      "likes_rank": 30,
-      "total_agents": 289,
-      "views_percentile": 11.4,
-      "runs_percentile": 30.4,
-      "likes_percentile": 89.6
+      "likes_rank": 18,
+      "total_agents": 292,
+      "views_percentile": 11.6,
+      "runs_percentile": 31.2,
+      "likes_percentile": 93.8
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 6,
+    "days_tracked": 7,
     "price": 40.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 5,
+    "days_tracked": 7,
     "last_7_days": {
-      "views_rank_change": -2,
-      "runs_rank_change": 1,
-      "likes_rank_change": -51
+      "views_rank_change": 2,
+      "runs_rank_change": 3,
+      "likes_rank_change": -20
     },
     "last_30_days": {
-      "views_rank_change": -2,
+      "views_rank_change": 0,
       "runs_rank_change": 1,
-      "likes_rank_change": -51
+      "likes_rank_change": -63
     },
     "all_time": {
       "best_views_rank": 256,
       "best_runs_rank": 198,
-      "best_likes_rank": 30,
+      "best_likes_rank": 18,
       "days_in_top_10": 0,
       "first_rank": 258,
-      "current_rank": 256
+      "current_rank": 258
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 6,
+    "data_points": 7,
     "first_recorded": "2026-01-08T08:01:02.485852",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2026-01-08T08:01:02.485852",
@@ -62,7 +62,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         258,
@@ -70,7 +71,8 @@
         256,
         256,
         256,
-        256
+        256,
+        258
       ],
       "runs_rank": [
         200,
@@ -78,6 +80,7 @@
         199,
         199,
         200,
+        201,
         201
       ],
       "likes_rank": [
@@ -86,7 +89,8 @@
         38,
         38,
         39,
-        30
+        30,
+        18
       ]
     }
   },
@@ -105,7 +109,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #30 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #18 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "d752ec03-5b2a-4ad9-9236-35561dd17bae",
-  "generated_at": "2026-01-14T00:01:11.306162",
+  "generated_at": "2026-01-15T00:01:20.678752",
   "basic_info": {
     "title": "SpaceLeap and MemoryHug",
     "author": "HongwuQz",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-20T05:56:33.234000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@HongwuQz/spaceleap-and-memoryhug",
-    "days_since_published": 115
+    "days_since_published": 116
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 130,
-      "runs_rank": 238,
-      "likes_rank": 267,
-      "total_agents": 289,
-      "views_percentile": 55.0,
-      "runs_percentile": 17.6,
-      "likes_percentile": 7.6
+      "runs_rank": 241,
+      "likes_rank": 179,
+      "total_agents": 292,
+      "views_percentile": 55.5,
+      "runs_percentile": 17.5,
+      "likes_percentile": 38.7
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 110,
+    "days_tracked": 111,
     "price": 60.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 55,
+    "days_tracked": 56,
     "last_7_days": {
-      "views_rank_change": 3,
-      "runs_rank_change": 1,
-      "likes_rank_change": 29
+      "views_rank_change": 2,
+      "runs_rank_change": 3,
+      "likes_rank_change": -85
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 56,
+    "data_points": 57,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -112,7 +112,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         null,
@@ -169,6 +170,7 @@
         128,
         128,
         128,
+        130,
         130,
         130
       ],
@@ -228,7 +230,8 @@
         238,
         238,
         238,
-        238
+        238,
+        241
       ],
       "likes_rank": [
         null,
@@ -286,7 +289,8 @@
         264,
         264,
         267,
-        267
+        267,
+        179
       ]
     }
   },
@@ -298,7 +302,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #130 out of 289 active agents."
+      "description": "This agent is currently ranked #130 out of 292 active agents."
     }
   ]
 }

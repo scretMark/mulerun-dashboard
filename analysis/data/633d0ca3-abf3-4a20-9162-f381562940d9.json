@@ -1,6 +1,6 @@
 {
   "agent_id": "633d0ca3-abf3-4a20-9162-f381562940d9",
-  "generated_at": "2026-01-14T00:01:09.861326",
+  "generated_at": "2026-01-15T00:01:19.379405",
   "basic_info": {
     "title": "Kabutack Agent",
     "author": "Ailurus",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-30T18:00:14.557000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Ailurus/kabutack-agent",
-    "days_since_published": 75
+    "days_since_published": 76
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 46,
       "runs_rank": 50,
-      "likes_rank": 86,
-      "total_agents": 289,
-      "views_percentile": 84.1,
-      "runs_percentile": 82.7,
-      "likes_percentile": 70.2
+      "likes_rank": 44,
+      "total_agents": 292,
+      "views_percentile": 84.2,
+      "runs_percentile": 82.9,
+      "likes_percentile": 84.9
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 88,
+    "days_tracked": 89,
     "price": 1.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 55,
+    "days_tracked": 56,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 2,
-      "likes_rank_change": 6
+      "runs_rank_change": 0,
+      "likes_rank_change": -46
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 56,
+    "data_points": 57,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -112,7 +112,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         null,
@@ -159,6 +160,7 @@
         47,
         47,
         47,
+        46,
         46,
         46,
         46,
@@ -228,6 +230,7 @@
         50,
         50,
         50,
+        50,
         50
       ],
       "likes_rank": [
@@ -286,7 +289,8 @@
         95,
         96,
         91,
-        86
+        86,
+        44
       ]
     }
   },
@@ -298,7 +302,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #46 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #44 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

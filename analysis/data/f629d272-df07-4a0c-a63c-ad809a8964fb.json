@@ -1,6 +1,6 @@
 {
   "agent_id": "f629d272-df07-4a0c-a63c-ad809a8964fb",
-  "generated_at": "2026-01-14T00:01:11.782649",
+  "generated_at": "2026-01-15T00:01:21.149928",
   "basic_info": {
     "title": "Amazon Product SEO Research",
     "author": "createAny",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-28T21:43:09.391000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@createAny/amazon-product-seo-research",
-    "days_since_published": 77
+    "days_since_published": 78
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 176,
-      "runs_rank": 188,
-      "likes_rank": 146,
-      "total_agents": 289,
-      "views_percentile": 39.1,
-      "runs_percentile": 34.9,
-      "likes_percentile": 49.5
+      "runs_rank": 189,
+      "likes_rank": 208,
+      "total_agents": 292,
+      "views_percentile": 39.7,
+      "runs_percentile": 35.3,
+      "likes_percentile": 28.8
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 78,
+    "days_tracked": 79,
     "price": 99.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 55,
+    "days_tracked": 56,
     "last_7_days": {
       "views_rank_change": -4,
-      "runs_rank_change": -10,
-      "likes_rank_change": 51
+      "runs_rank_change": -3,
+      "likes_rank_change": 94
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 56,
+    "data_points": 57,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -112,7 +112,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         null,
@@ -169,6 +170,7 @@
         180,
         181,
         181,
+        176,
         176,
         176
       ],
@@ -228,7 +230,8 @@
         193,
         194,
         187,
-        188
+        188,
+        189
       ],
       "likes_rank": [
         null,
@@ -286,7 +289,8 @@
         113,
         113,
         119,
-        146
+        146,
+        208
       ]
     }
   },
@@ -298,7 +302,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #176 out of 289 active agents."
+      "description": "This agent is currently ranked #176 out of 292 active agents."
     }
   ]
 }

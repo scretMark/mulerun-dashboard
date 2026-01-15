@@ -1,6 +1,6 @@
 {
   "agent_id": "5111aade-2882-43d9-9f07-13a22ddde8f4",
-  "generated_at": "2026-01-14T00:01:10.771163",
+  "generated_at": "2026-01-15T00:01:20.204576",
   "basic_info": {
     "title": "Nimbus",
     "author": "Norsizu",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-14T22:46:52.487000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/nimbus",
-    "days_since_published": 91
+    "days_since_published": 92
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 214,
-      "runs_rank": 240,
-      "likes_rank": 285,
-      "total_agents": 289,
-      "views_percentile": 26.0,
-      "runs_percentile": 17.0,
-      "likes_percentile": 1.4
+      "runs_rank": 243,
+      "likes_rank": 197,
+      "total_agents": 292,
+      "views_percentile": 26.7,
+      "runs_percentile": 16.8,
+      "likes_percentile": 32.5
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 78,
+    "days_tracked": 79,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 55,
+    "days_tracked": 56,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 1,
-      "likes_rank_change": 18
+      "runs_rank_change": 3,
+      "likes_rank_change": -88
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 56,
+    "data_points": 57,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -112,7 +112,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         null,
@@ -169,6 +170,7 @@
         213,
         213,
         213,
+        214,
         214,
         214
       ],
@@ -228,7 +230,8 @@
         240,
         240,
         240,
-        240
+        240,
+        243
       ],
       "likes_rank": [
         null,
@@ -286,7 +289,8 @@
         285,
         284,
         287,
-        285
+        285,
+        197
       ]
     }
   },
@@ -298,7 +302,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #214 out of 289 active agents."
+      "description": "This agent is currently ranked #214 out of 292 active agents."
     }
   ]
 }

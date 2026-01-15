@@ -1,6 +1,6 @@
 {
   "agent_id": "ed160fc7-1210-4ac1-b93b-82b8e5cfb936",
-  "generated_at": "2026-01-14T00:01:12.074236",
+  "generated_at": "2026-01-15T00:01:21.459151",
   "basic_info": {
     "title": "Create Your Unique Nail Art",
     "author": "8bit",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-09T00:16:07.180000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/create-your-unique-nail-art",
-    "days_since_published": 35
+    "days_since_published": 36
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 264,
-      "runs_rank": 187,
-      "likes_rank": 187,
-      "total_agents": 289,
-      "views_percentile": 8.7,
-      "runs_percentile": 35.3,
-      "likes_percentile": 35.3
+      "views_rank": 269,
+      "runs_rank": 188,
+      "likes_rank": 117,
+      "total_agents": 292,
+      "views_percentile": 7.9,
+      "runs_percentile": 35.6,
+      "likes_percentile": 59.9
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 36,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 37,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 35,
+    "days_tracked": 36,
     "last_7_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": 4,
-      "likes_rank_change": 57
+      "views_rank_change": 5,
+      "runs_rank_change": 5,
+      "likes_rank_change": -56
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 18,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 264
+      "current_rank": 269
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 36,
+    "data_points": 37,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
@@ -92,7 +92,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         null,
@@ -130,7 +131,8 @@
         264,
         264,
         264,
-        264
+        264,
+        269
       ],
       "runs_rank": [
         null,
@@ -168,7 +170,8 @@
         184,
         186,
         186,
-        187
+        187,
+        188
       ],
       "likes_rank": [
         null,
@@ -206,7 +209,8 @@
         173,
         173,
         175,
-        187
+        187,
+        117
       ]
     }
   },
@@ -225,7 +229,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #264 out of 289 active agents."
+      "description": "This agent is currently ranked #269 out of 292 active agents."
     }
   ]
 }

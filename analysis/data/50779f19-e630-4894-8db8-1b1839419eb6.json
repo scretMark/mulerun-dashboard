@@ -1,6 +1,6 @@
 {
   "agent_id": "50779f19-e630-4894-8db8-1b1839419eb6",
-  "generated_at": "2026-01-14T00:01:09.806624",
+  "generated_at": "2026-01-15T00:01:19.336644",
   "basic_info": {
     "title": "Nick Wilde Cosplay Filter",
     "author": "Lucas",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-05T20:03:18.006000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/nick-wilde-cosplay-filter",
-    "days_since_published": 69
+    "days_since_published": 70
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 98,
-      "runs_rank": 202,
-      "likes_rank": 40,
-      "total_agents": 289,
-      "views_percentile": 66.1,
-      "runs_percentile": 30.1,
-      "likes_percentile": 86.2
+      "runs_rank": 203,
+      "likes_rank": 91,
+      "total_agents": 292,
+      "views_percentile": 66.4,
+      "runs_percentile": 30.5,
+      "likes_percentile": 68.8
     },
-    "tier": "High",
-    "tier_class": "high",
-    "days_tracked": 68,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 69,
     "price": 49.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 55,
+    "days_tracked": 56,
     "last_7_days": {
-      "views_rank_change": -2,
-      "runs_rank_change": 5,
-      "likes_rank_change": -190
+      "views_rank_change": -3,
+      "runs_rank_change": 4,
+      "likes_rank_change": -30
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 56,
+    "data_points": 57,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -112,7 +112,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         null,
@@ -170,6 +171,7 @@
         101,
         97,
         97,
+        98,
         98
       ],
       "runs_rank": [
@@ -228,7 +230,8 @@
         200,
         200,
         201,
-        202
+        202,
+        203
       ],
       "likes_rank": [
         null,
@@ -286,7 +289,8 @@
         116,
         114,
         128,
-        40
+        40,
+        91
       ]
     }
   },
@@ -296,9 +300,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "High Performer",
-      "description": "Ranked #40 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #98 out of 292 active agents."
     }
   ]
 }

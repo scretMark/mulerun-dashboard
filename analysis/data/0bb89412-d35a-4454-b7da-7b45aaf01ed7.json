@@ -1,6 +1,6 @@
 {
   "agent_id": "0bb89412-d35a-4454-b7da-7b45aaf01ed7",
-  "generated_at": "2026-01-14T00:01:10.526150",
+  "generated_at": "2026-01-15T00:01:19.993070",
   "basic_info": {
     "title": "One-Click Series",
     "author": "williamyang5050",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-11T01:04:55.128000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@williamyang5050/one-click-series",
-    "days_since_published": 94
+    "days_since_published": 95
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 79,
-      "runs_rank": 84,
-      "likes_rank": 139,
-      "total_agents": 289,
-      "views_percentile": 72.7,
+      "runs_rank": 85,
+      "likes_rank": 73,
+      "total_agents": 292,
+      "views_percentile": 72.9,
       "runs_percentile": 70.9,
-      "likes_percentile": 51.9
+      "likes_percentile": 75.0
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 76,
+    "days_tracked": 77,
     "price": 70.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 55,
+    "days_tracked": 56,
     "last_7_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": -1,
-      "likes_rank_change": -15
+      "views_rank_change": 0,
+      "runs_rank_change": 2,
+      "likes_rank_change": -119
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 56,
+    "data_points": 57,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -112,7 +112,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         null,
@@ -170,6 +171,7 @@
         79,
         80,
         80,
+        79,
         79
       ],
       "runs_rank": [
@@ -228,7 +230,8 @@
         83,
         85,
         85,
-        84
+        84,
+        85
       ],
       "likes_rank": [
         null,
@@ -286,7 +289,8 @@
         194,
         194,
         199,
-        139
+        139,
+        73
       ]
     }
   },
@@ -298,7 +302,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #79 out of 289 active agents."
+      "description": "This agent is currently ranked #79 out of 292 active agents."
     }
   ]
 }

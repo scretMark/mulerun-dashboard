@@ -1,6 +1,6 @@
 {
   "agent_id": "ebfa13e8-659d-4756-9a62-fe1a304def3d",
-  "generated_at": "2026-01-14T00:01:09.447435",
+  "generated_at": "2026-01-15T00:01:19.054461",
   "basic_info": {
     "title": "AI Avatars",
     "author": "PicCopilot",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-11T19:36:25.710000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/ai-avatars",
-    "days_since_published": 63
+    "days_since_published": 64
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 93,
+      "views_rank": 92,
       "runs_rank": 20,
-      "likes_rank": 46,
-      "total_agents": 289,
-      "views_percentile": 67.8,
-      "runs_percentile": 93.1,
-      "likes_percentile": 84.1
+      "likes_rank": 240,
+      "total_agents": 292,
+      "views_percentile": 68.5,
+      "runs_percentile": 93.2,
+      "likes_percentile": 17.8
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 76,
+    "days_tracked": 77,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 55,
+    "days_tracked": 56,
     "last_7_days": {
-      "views_rank_change": -13,
-      "runs_rank_change": -1,
-      "likes_rank_change": 3
+      "views_rank_change": -3,
+      "runs_rank_change": 0,
+      "likes_rank_change": 128
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -42,19 +42,19 @@
       "likes_rank_change": null
     },
     "all_time": {
-      "best_views_rank": 93,
+      "best_views_rank": 92,
       "best_runs_rank": 20,
       "best_likes_rank": 8,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 93
+      "current_rank": 92
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 56,
+    "data_points": 57,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -112,7 +112,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         null,
@@ -170,7 +171,8 @@
         95,
         95,
         93,
-        93
+        93,
+        92
       ],
       "runs_rank": [
         null,
@@ -224,6 +226,7 @@
         21,
         21,
         21,
+        20,
         20,
         20,
         20,
@@ -286,7 +289,8 @@
         111,
         112,
         115,
-        46
+        46,
+        240
       ]
     }
   },
@@ -299,11 +303,6 @@
       "type": "positive",
       "title": "High Performer",
       "description": "Ranked #20 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
-    },
-    {
-      "type": "positive",
-      "title": "Hot Trend",
-      "description": "Up 13 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

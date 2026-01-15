@@ -1,6 +1,6 @@
 {
   "agent_id": "d2061c9a-ea91-4838-b825-ec338b9778cf",
-  "generated_at": "2026-01-14T00:01:10.381586",
+  "generated_at": "2026-01-15T00:01:19.878788",
   "basic_info": {
     "title": "Be the Headline",
     "author": "harry",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-20T18:12:05.708000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@harry/be-the-headline",
-    "days_since_published": 85
+    "days_since_published": 86
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 180,
-      "runs_rank": 163,
-      "likes_rank": 18,
-      "total_agents": 289,
-      "views_percentile": 37.7,
-      "runs_percentile": 43.6,
-      "likes_percentile": 93.8
+      "runs_rank": 164,
+      "likes_rank": 90,
+      "total_agents": 292,
+      "views_percentile": 38.4,
+      "runs_percentile": 43.8,
+      "likes_percentile": 69.2
     },
-    "tier": "High",
-    "tier_class": "high",
-    "days_tracked": 83,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 84,
     "price": 48.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 55,
+    "days_tracked": 56,
     "last_7_days": {
-      "views_rank_change": 3,
+      "views_rank_change": 2,
       "runs_rank_change": 3,
-      "likes_rank_change": -27
+      "likes_rank_change": 66
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 56,
+    "data_points": 57,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -112,7 +112,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         null,
@@ -169,6 +170,7 @@
         178,
         178,
         179,
+        180,
         180,
         180
       ],
@@ -228,7 +230,8 @@
         162,
         162,
         163,
-        163
+        163,
+        164
       ],
       "likes_rank": [
         null,
@@ -286,7 +289,8 @@
         24,
         25,
         26,
-        18
+        18,
+        90
       ]
     }
   },
@@ -296,9 +300,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "High Performer",
-      "description": "Ranked #18 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #180 out of 292 active agents."
     }
   ]
 }

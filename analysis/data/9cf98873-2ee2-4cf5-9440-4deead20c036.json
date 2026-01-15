@@ -1,6 +1,6 @@
 {
   "agent_id": "9cf98873-2ee2-4cf5-9440-4deead20c036",
-  "generated_at": "2026-01-14T00:01:11.935660",
+  "generated_at": "2026-01-15T00:01:21.328005",
   "basic_info": {
     "title": "See Your Bodybuilding Physique in One Click",
     "author": "Matt",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-03T16:33:11.999000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Matt/see-your-bodybuilding-physique-in-one-click",
-    "days_since_published": 41
+    "days_since_published": 42
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 212,
-      "runs_rank": 142,
-      "likes_rank": 95,
-      "total_agents": 289,
-      "views_percentile": 26.6,
-      "runs_percentile": 50.9,
-      "likes_percentile": 67.1
+      "runs_rank": 143,
+      "likes_rank": 48,
+      "total_agents": 292,
+      "views_percentile": 27.4,
+      "runs_percentile": 51.0,
+      "likes_percentile": 83.6
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 42,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 43,
     "price": 55.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 36,
+    "days_tracked": 37,
     "last_7_days": {
-      "views_rank_change": 2,
+      "views_rank_change": 1,
       "runs_rank_change": 2,
-      "likes_rank_change": -7
+      "likes_rank_change": -22
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 39,
+    "data_points": 40,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -95,7 +95,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         null,
@@ -135,6 +136,7 @@
         211,
         211,
         211,
+        212,
         212,
         212
       ],
@@ -177,7 +179,8 @@
         141,
         141,
         142,
-        142
+        142,
+        143
       ],
       "likes_rank": [
         null,
@@ -218,7 +221,8 @@
         70,
         70,
         76,
-        95
+        95,
+        48
       ]
     }
   },
@@ -235,9 +239,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #212 out of 289 active agents."
+      "type": "positive",
+      "title": "High Performer",
+      "description": "Ranked #48 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

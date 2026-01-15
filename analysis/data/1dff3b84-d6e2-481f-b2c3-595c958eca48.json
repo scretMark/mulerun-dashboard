@@ -1,6 +1,6 @@
 {
   "agent_id": "1dff3b84-d6e2-481f-b2c3-595c958eca48",
-  "generated_at": "2026-01-14T00:01:11.973044",
+  "generated_at": "2026-01-15T00:01:21.361409",
   "basic_info": {
     "title": "Let Zootopia",
     "author": "Norsizu",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-03T12:14:04.150000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/let-zootopia",
-    "days_since_published": 41
+    "days_since_published": 42
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 270,
-      "runs_rank": 231,
-      "likes_rank": 191,
-      "total_agents": 289,
-      "views_percentile": 6.6,
-      "runs_percentile": 20.1,
-      "likes_percentile": 33.9
+      "runs_rank": 233,
+      "likes_rank": 119,
+      "total_agents": 292,
+      "views_percentile": 7.5,
+      "runs_percentile": 20.2,
+      "likes_percentile": 59.2
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 42,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 43,
     "price": 80.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 36,
+    "days_tracked": 37,
     "last_7_days": {
-      "views_rank_change": 3,
+      "views_rank_change": 2,
       "runs_rank_change": 2,
-      "likes_rank_change": 57
+      "likes_rank_change": -58
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 39,
+    "data_points": 40,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -95,7 +95,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         null,
@@ -136,6 +137,7 @@
         269,
         269,
         269,
+        270,
         270
       ],
       "runs_rank": [
@@ -177,7 +179,8 @@
         231,
         231,
         231,
-        231
+        231,
+        233
       ],
       "likes_rank": [
         null,
@@ -218,7 +221,8 @@
         177,
         177,
         179,
-        191
+        191,
+        119
       ]
     }
   },
@@ -237,7 +241,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #270 out of 289 active agents."
+      "description": "This agent is currently ranked #270 out of 292 active agents."
     }
   ]
 }

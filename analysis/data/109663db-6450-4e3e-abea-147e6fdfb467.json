@@ -1,6 +1,6 @@
 {
   "agent_id": "109663db-6450-4e3e-abea-147e6fdfb467",
-  "generated_at": "2026-01-14T00:01:10.392108",
+  "generated_at": "2026-01-15T00:01:19.889260",
   "basic_info": {
     "title": "Last Will - AI Deduction game",
     "author": "Losure",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-30T18:03:09.916000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Losure/last-will-ai-deduction-game",
-    "days_since_published": 75
+    "days_since_published": 76
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 23,
       "runs_rank": 49,
-      "likes_rank": 202,
-      "total_agents": 289,
-      "views_percentile": 92.0,
-      "runs_percentile": 83.0,
-      "likes_percentile": 30.1
+      "likes_rank": 131,
+      "total_agents": 292,
+      "views_percentile": 92.1,
+      "runs_percentile": 83.2,
+      "likes_percentile": 55.1
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 88,
+    "days_tracked": 89,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 55,
+    "days_tracked": 56,
     "last_7_days": {
-      "views_rank_change": 1,
+      "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": 57
+      "likes_rank_change": -58
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 56,
+    "data_points": 57,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -112,7 +112,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         null,
@@ -170,6 +171,7 @@
         23,
         23,
         23,
+        23,
         23
       ],
       "runs_rank": [
@@ -218,6 +220,7 @@
         48,
         48,
         48,
+        49,
         49,
         49,
         49,
@@ -286,7 +289,8 @@
         189,
         189,
         191,
-        202
+        202,
+        131
       ]
     }
   },

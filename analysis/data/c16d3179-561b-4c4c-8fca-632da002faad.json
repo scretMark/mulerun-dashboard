@@ -1,6 +1,6 @@
 {
   "agent_id": "c16d3179-561b-4c4c-8fca-632da002faad",
-  "generated_at": "2026-01-14T00:01:09.875193",
+  "generated_at": "2026-01-15T00:01:19.390203",
   "basic_info": {
     "title": "A nine-grid of headshots",
     "author": "laughing_code",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-28T13:13:34.793000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@laughing_code/a-nine-grid-of-headshots",
-    "days_since_published": 107
+    "days_since_published": 108
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 63,
       "runs_rank": 68,
-      "likes_rank": 41,
-      "total_agents": 289,
-      "views_percentile": 78.2,
-      "runs_percentile": 76.5,
-      "likes_percentile": 85.8
+      "likes_rank": 103,
+      "total_agents": 292,
+      "views_percentile": 78.4,
+      "runs_percentile": 76.7,
+      "likes_percentile": 64.7
     },
-    "tier": "High",
-    "tier_class": "high",
-    "days_tracked": 107,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 108,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 55,
+    "days_tracked": 56,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 2,
-      "likes_rank_change": -7
+      "runs_rank_change": 1,
+      "likes_rank_change": 77
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 56,
+    "data_points": 57,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -112,7 +112,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         null,
@@ -164,6 +165,7 @@
         62,
         62,
         62,
+        63,
         63,
         63,
         63,
@@ -228,6 +230,7 @@
         67,
         67,
         67,
+        68,
         68
       ],
       "likes_rank": [
@@ -286,7 +289,8 @@
         26,
         26,
         27,
-        41
+        41,
+        103
       ]
     }
   },
@@ -296,9 +300,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "High Performer",
-      "description": "Ranked #41 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #63 out of 292 active agents."
     }
   ]
 }

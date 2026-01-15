@@ -1,6 +1,6 @@
 {
   "agent_id": "93db55d2-7fe5-408d-82ac-ae2e97422987",
-  "generated_at": "2026-01-14T00:01:12.627185",
+  "generated_at": "2026-01-15T00:01:22.156076",
   "basic_info": {
     "title": "Fashion Reels",
     "author": "PicCopilot",
@@ -11,50 +11,50 @@
     "published_at": "2025-12-23T14:08:06.614000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/ai-model-video",
-    "days_since_published": 21
+    "days_since_published": 22
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 225,
-      "runs_rank": 172,
-      "likes_rank": 32,
-      "total_agents": 289,
-      "views_percentile": 22.1,
-      "runs_percentile": 40.5,
-      "likes_percentile": 88.9
+      "views_rank": 215,
+      "runs_rank": 155,
+      "likes_rank": 153,
+      "total_agents": 292,
+      "views_percentile": 26.4,
+      "runs_percentile": 46.9,
+      "likes_percentile": 47.6
     },
-    "tier": "High",
-    "tier_class": "high",
-    "days_tracked": 15,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 16,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 17,
+    "days_tracked": 19,
     "last_7_days": {
-      "views_rank_change": -8,
-      "runs_rank_change": -41,
-      "likes_rank_change": -35
+      "views_rank_change": -18,
+      "runs_rank_change": -52,
+      "likes_rank_change": 120
     },
     "last_30_days": {
-      "views_rank_change": -15,
-      "runs_rank_change": -65,
-      "likes_rank_change": -13
+      "views_rank_change": -25,
+      "runs_rank_change": -82,
+      "likes_rank_change": 108
     },
     "all_time": {
-      "best_views_rank": 225,
-      "best_runs_rank": 172,
+      "best_views_rank": 215,
+      "best_runs_rank": 155,
       "best_likes_rank": 28,
       "days_in_top_10": 0,
       "first_rank": 240,
-      "current_rank": 225
+      "current_rank": 215
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 16,
+    "data_points": 17,
     "first_recorded": "2025-12-27T08:01:00.423663",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2025-12-27T08:01:00.423663",
@@ -72,7 +72,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         240,
@@ -90,7 +91,8 @@
         233,
         233,
         228,
-        225
+        225,
+        215
       ],
       "runs_rank": [
         237,
@@ -108,7 +110,8 @@
         208,
         209,
         203,
-        172
+        172,
+        155
       ],
       "likes_rank": [
         45,
@@ -126,7 +129,8 @@
         28,
         28,
         29,
-        32
+        32,
+        153
       ]
     }
   },
@@ -144,23 +148,18 @@
   "insights": [
     {
       "type": "positive",
-      "title": "High Performer",
-      "description": "Ranked #32 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
-    },
-    {
-      "type": "positive",
       "title": "Rising Star",
-      "description": "Improved by 15 positions in views ranking over the last 30 days - showing strong momentum!"
+      "description": "Improved by 25 positions in views ranking over the last 30 days - showing strong momentum!"
     },
     {
       "type": "positive",
       "title": "Growing Usage",
-      "description": "Runs ranking improved by 65 positions in the last 30 days - users are actively engaging with this agent!"
+      "description": "Runs ranking improved by 82 positions in the last 30 days - users are actively engaging with this agent!"
     },
     {
       "type": "positive",
       "title": "Hot Trend",
-      "description": "Up 8 positions in just 7 days - currently trending and gaining rapid visibility!"
+      "description": "Up 18 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

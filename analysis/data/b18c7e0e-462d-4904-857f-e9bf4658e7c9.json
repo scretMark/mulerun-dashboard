@@ -1,40 +1,40 @@
 {
   "agent_id": "b18c7e0e-462d-4904-857f-e9bf4658e7c9",
-  "generated_at": "2026-01-14T00:01:09.571280",
+  "generated_at": "2026-01-15T00:01:19.151860",
   "basic_info": {
     "title": "Me And My Mini-Me",
     "author": "YuTou_baby",
-    "description": "Transform your photo into a heartwarming snapshot of you and your childhood self.",
+    "description": "Transform your photo into a snapshot of you and your childhood self.",
     "short_description": "Create a photo merging your adult and childhood selves.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-09-19T20:13:16.719000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@YuTou_baby/me-and-my-mini-me",
-    "days_since_published": 116
+    "days_since_published": 117
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 20,
       "runs_rank": 26,
-      "likes_rank": 131,
-      "total_agents": 289,
-      "views_percentile": 93.1,
-      "runs_percentile": 91.0,
-      "likes_percentile": 54.7
+      "likes_rank": 260,
+      "total_agents": 292,
+      "views_percentile": 93.2,
+      "runs_percentile": 91.1,
+      "likes_percentile": 11.0
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 83,
+    "days_tracked": 84,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 55,
+    "days_tracked": 56,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": -84
+      "likes_rank_change": 205
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 56,
+    "data_points": 57,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -112,7 +112,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         null,
@@ -170,6 +171,7 @@
         20,
         20,
         20,
+        20,
         20
       ],
       "runs_rank": [
@@ -216,6 +218,7 @@
         23,
         25,
         25,
+        26,
         26,
         26,
         26,
@@ -286,7 +289,8 @@
         55,
         59,
         60,
-        131
+        131,
+        260
       ]
     }
   },

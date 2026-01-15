@@ -1,6 +1,6 @@
 {
   "agent_id": "5393220a-3fbf-47b4-b34f-4084aaf48f81",
-  "generated_at": "2026-01-14T00:01:09.778963",
+  "generated_at": "2026-01-15T00:01:19.315491",
   "basic_info": {
     "title": "Sugar Skull Makeup Filter",
     "author": "Lucas",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-28T19:43:54.045000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/sugar-skull-makeup-filter",
-    "days_since_published": 77
+    "days_since_published": 78
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 86,
       "runs_rank": 89,
-      "likes_rank": 230,
-      "total_agents": 289,
-      "views_percentile": 70.2,
-      "runs_percentile": 69.2,
-      "likes_percentile": 20.4
+      "likes_rank": 151,
+      "total_agents": 292,
+      "views_percentile": 70.5,
+      "runs_percentile": 69.5,
+      "likes_percentile": 48.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 76,
+    "days_tracked": 77,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 55,
+    "days_tracked": 56,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 2,
-      "likes_rank_change": 56
+      "likes_rank_change": -66
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 56,
+    "data_points": 57,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -112,7 +112,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         null,
@@ -159,6 +160,7 @@
         85,
         85,
         85,
+        86,
         86,
         86,
         86,
@@ -228,6 +230,7 @@
         87,
         88,
         88,
+        89,
         89
       ],
       "likes_rank": [
@@ -286,7 +289,8 @@
         217,
         217,
         220,
-        230
+        230,
+        151
       ]
     }
   },
@@ -298,7 +302,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #86 out of 289 active agents."
+      "description": "This agent is currently ranked #86 out of 292 active agents."
     }
   ]
 }

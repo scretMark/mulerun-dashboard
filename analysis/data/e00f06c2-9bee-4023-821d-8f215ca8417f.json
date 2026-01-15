@@ -1,6 +1,6 @@
 {
   "agent_id": "e00f06c2-9bee-4023-821d-8f215ca8417f",
-  "generated_at": "2026-01-14T00:01:12.703274",
+  "generated_at": "2026-01-15T00:01:22.251275",
   "basic_info": {
     "title": "Sales Advisor",
     "author": "SmartQ",
@@ -11,35 +11,35 @@
     "published_at": "2026-01-01T02:59:46.639000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@SmartQ/winnexo",
-    "days_since_published": 12
+    "days_since_published": 13
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 102,
       "runs_rank": 92,
-      "likes_rank": 171,
-      "total_agents": 289,
-      "views_percentile": 64.7,
-      "runs_percentile": 68.2,
-      "likes_percentile": 40.8
+      "likes_rank": 201,
+      "total_agents": 292,
+      "views_percentile": 65.1,
+      "runs_percentile": 68.5,
+      "likes_percentile": 31.2
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 11,
+    "days_tracked": 12,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 8,
+    "days_tracked": 9,
     "last_7_days": {
-      "views_rank_change": -8,
-      "runs_rank_change": -7,
-      "likes_rank_change": 59
+      "views_rank_change": -6,
+      "runs_rank_change": -1,
+      "likes_rank_change": 49
     },
     "last_30_days": {
       "views_rank_change": -24,
       "runs_rank_change": -15,
-      "likes_rank_change": 65
+      "likes_rank_change": 95
     },
     "all_time": {
       "best_views_rank": 102,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 9,
+    "data_points": 10,
     "first_recorded": "2026-01-05T08:01:10.022221",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2026-01-05T08:01:10.022221",
@@ -65,7 +65,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         126,
@@ -75,6 +76,7 @@
         108,
         108,
         108,
+        102,
         102,
         102
       ],
@@ -87,6 +89,7 @@
         93,
         94,
         91,
+        92,
         92
       ],
       "likes_rank": [
@@ -98,7 +101,8 @@
         152,
         153,
         157,
-        171
+        171,
+        201
       ]
     }
   },
@@ -127,7 +131,7 @@
     {
       "type": "positive",
       "title": "Hot Trend",
-      "description": "Up 8 positions in just 7 days - currently trending and gaining rapid visibility!"
+      "description": "Up 6 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

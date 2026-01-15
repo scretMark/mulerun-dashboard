@@ -1,6 +1,6 @@
 {
   "agent_id": "c17c0052-d21c-482a-8059-803b0cd7234a",
-  "generated_at": "2026-01-14T00:01:11.290253",
+  "generated_at": "2026-01-15T00:01:20.664712",
   "basic_info": {
     "title": "World Landmark Stickers",
     "author": "Cyrus",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-30T22:54:24.611000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Cyrus/world-landmark-stickers",
-    "days_since_published": 105
+    "days_since_published": 106
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 125,
+      "views_rank": 122,
       "runs_rank": 125,
-      "likes_rank": 241,
-      "total_agents": 289,
-      "views_percentile": 56.7,
-      "runs_percentile": 56.7,
-      "likes_percentile": 16.6
+      "likes_rank": 221,
+      "total_agents": 292,
+      "views_percentile": 58.2,
+      "runs_percentile": 57.2,
+      "likes_percentile": 24.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 96,
+    "days_tracked": 97,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 55,
+    "days_tracked": 56,
     "last_7_days": {
-      "views_rank_change": 1,
+      "views_rank_change": -2,
       "runs_rank_change": 3,
-      "likes_rank_change": 52
+      "likes_rank_change": -9
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -47,14 +47,14 @@
       "best_likes_rank": 102,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 125
+      "current_rank": 122
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 56,
+    "data_points": 57,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -112,7 +112,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         null,
@@ -170,7 +171,8 @@
         125,
         125,
         125,
-        125
+        125,
+        122
       ],
       "runs_rank": [
         null,
@@ -228,6 +230,7 @@
         122,
         123,
         124,
+        125,
         125
       ],
       "likes_rank": [
@@ -286,7 +289,8 @@
         230,
         230,
         233,
-        241
+        241,
+        221
       ]
     }
   },
@@ -298,7 +302,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #125 out of 289 active agents."
+      "description": "This agent is currently ranked #122 out of 292 active agents."
     }
   ]
 }

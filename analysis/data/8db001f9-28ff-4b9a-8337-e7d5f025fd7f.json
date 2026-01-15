@@ -1,6 +1,6 @@
 {
   "agent_id": "8db001f9-28ff-4b9a-8337-e7d5f025fd7f",
-  "generated_at": "2026-01-14T00:01:09.419735",
+  "generated_at": "2026-01-15T00:01:19.032926",
   "basic_info": {
     "title": "YouTube Thumbnail",
     "author": "summerail",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-09T16:48:38.136000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/youtube-thumbnail",
-    "days_since_published": 96
+    "days_since_published": 97
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 37,
       "runs_rank": 44,
-      "likes_rank": 48,
-      "total_agents": 289,
-      "views_percentile": 87.2,
-      "runs_percentile": 84.8,
-      "likes_percentile": 83.4
+      "likes_rank": 245,
+      "total_agents": 292,
+      "views_percentile": 87.3,
+      "runs_percentile": 84.9,
+      "likes_percentile": 16.1
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 76,
+    "days_tracked": 77,
     "price": 30.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
       "views_rank_change": 2,
       "runs_rank_change": 0,
-      "likes_rank_change": -200
+      "likes_rank_change": 98
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -113,7 +113,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         null,
@@ -172,6 +173,7 @@
         35,
         36,
         36,
+        37,
         37
       ],
       "runs_rank": [
@@ -216,6 +218,7 @@
         43,
         43,
         43,
+        44,
         44,
         44,
         44,
@@ -290,7 +293,8 @@
         144,
         141,
         142,
-        48
+        48,
+        245
       ]
     }
   },

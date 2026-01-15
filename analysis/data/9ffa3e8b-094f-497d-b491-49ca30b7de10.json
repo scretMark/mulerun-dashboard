@@ -1,6 +1,6 @@
 {
   "agent_id": "9ffa3e8b-094f-497d-b491-49ca30b7de10",
-  "generated_at": "2026-01-14T00:01:09.308468",
+  "generated_at": "2026-01-15T00:01:18.944337",
   "basic_info": {
     "title": "Product Creativity Lab",
     "author": "Aichimp",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-10T11:19:13.755000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aichimp/product-creativity-lab",
-    "days_since_published": 64
+    "days_since_published": 65
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 57,
       "runs_rank": 32,
-      "likes_rank": 119,
-      "total_agents": 289,
-      "views_percentile": 80.3,
-      "runs_percentile": 88.9,
-      "likes_percentile": 58.8
+      "likes_rank": 288,
+      "total_agents": 292,
+      "views_percentile": 80.5,
+      "runs_percentile": 89.0,
+      "likes_percentile": 1.4
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 93,
+    "days_tracked": 94,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": -1,
-      "likes_rank_change": null
+      "likes_rank_change": 182
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -113,7 +113,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         null,
@@ -166,6 +167,7 @@
         60,
         60,
         60,
+        57,
         57,
         57,
         57,
@@ -231,6 +233,7 @@
         33,
         32,
         32,
+        32,
         32
       ],
       "likes_rank": [
@@ -290,7 +293,8 @@
         105,
         107,
         108,
-        119
+        119,
+        288
       ]
     }
   },

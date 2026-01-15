@@ -1,6 +1,6 @@
 {
   "agent_id": "d7b85cff-5179-46c7-a1e5-09560f825c92",
-  "generated_at": "2026-01-14T00:01:09.167241",
+  "generated_at": "2026-01-15T00:01:18.838766",
   "basic_info": {
     "title": "AI Model Swap",
     "author": "PicCopilot",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-11T19:26:53.701000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/ai-model-swap",
-    "days_since_published": 63
+    "days_since_published": 64
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 64,
-      "runs_rank": 11,
-      "likes_rank": 57,
-      "total_agents": 289,
-      "views_percentile": 77.9,
-      "runs_percentile": 96.2,
-      "likes_percentile": 80.3
+      "runs_rank": 10,
+      "likes_rank": 234,
+      "total_agents": 292,
+      "views_percentile": 78.1,
+      "runs_percentile": 96.6,
+      "likes_percentile": 19.9
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 63,
+    "days_tracked": 64,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
       "views_rank_change": -4,
-      "runs_rank_change": 0,
-      "likes_rank_change": -13
+      "runs_rank_change": -1,
+      "likes_rank_change": 118
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -113,7 +113,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         null,
@@ -172,6 +173,7 @@
         68,
         68,
         65,
+        64,
         64
       ],
       "runs_rank": [
@@ -231,7 +233,8 @@
         11,
         11,
         11,
-        11
+        11,
+        10
       ],
       "likes_rank": [
         null,
@@ -290,7 +293,8 @@
         110,
         110,
         114,
-        57
+        57,
+        234
       ]
     }
   },
@@ -302,7 +306,7 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #11 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #10 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     }
   ]
 }

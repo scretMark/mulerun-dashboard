@@ -1,6 +1,6 @@
 {
   "agent_id": "1db200d0-b12b-471d-b453-89faedae7347",
-  "generated_at": "2026-01-14T00:01:10.416033",
+  "generated_at": "2026-01-15T00:01:19.910897",
   "basic_info": {
     "title": "ScriptCraft AI",
     "author": "Supremebbb096b",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-30T18:03:30.737000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Supremebbb096b/scriptcraft-ai",
-    "days_since_published": 75
+    "days_since_published": 76
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 38,
       "runs_rank": 75,
-      "likes_rank": 70,
-      "total_agents": 289,
-      "views_percentile": 86.9,
-      "runs_percentile": 74.0,
-      "likes_percentile": 75.8
+      "likes_rank": 257,
+      "total_agents": 292,
+      "views_percentile": 87.0,
+      "runs_percentile": 74.3,
+      "likes_percentile": 12.0
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 88,
+    "days_tracked": 89,
     "price": 3.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 55,
+    "days_tracked": 56,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 0,
-      "likes_rank_change": -132
+      "likes_rank_change": 144
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 56,
+    "data_points": 57,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -112,7 +112,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         null,
@@ -170,6 +171,7 @@
         37,
         37,
         37,
+        38,
         38
       ],
       "runs_rank": [
@@ -221,6 +223,7 @@
         74,
         74,
         74,
+        75,
         75,
         75,
         75,
@@ -286,7 +289,8 @@
         112,
         124,
         118,
-        70
+        70,
+        257
       ]
     }
   },

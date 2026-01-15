@@ -1,6 +1,6 @@
 {
   "agent_id": "27210885-9ff0-4701-aa29-524f0832136a",
-  "generated_at": "2026-01-14T00:01:09.350470",
+  "generated_at": "2026-01-15T00:01:18.978343",
   "basic_info": {
     "title": "Remove Watermark",
     "author": "PicCopilot",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-11T19:20:11.823000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/remove-watermark",
-    "days_since_published": 63
+    "days_since_published": 64
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 142,
       "runs_rank": 22,
-      "likes_rank": 102,
-      "total_agents": 289,
-      "views_percentile": 50.9,
-      "runs_percentile": 92.4,
-      "likes_percentile": 64.7
+      "likes_rank": 248,
+      "total_agents": 292,
+      "views_percentile": 51.4,
+      "runs_percentile": 92.5,
+      "likes_percentile": 15.1
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 63,
+    "days_tracked": 64,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
-      "views_rank_change": -9,
+      "views_rank_change": -7,
       "runs_rank_change": -1,
-      "likes_rank_change": 23
+      "likes_rank_change": 171
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -113,7 +113,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         null,
@@ -172,6 +173,7 @@
         148,
         148,
         145,
+        142,
         142
       ],
       "runs_rank": [
@@ -230,6 +232,7 @@
         23,
         23,
         23,
+        22,
         22,
         22
       ],
@@ -290,7 +293,8 @@
         76,
         76,
         77,
-        102
+        102,
+        248
       ]
     }
   },
@@ -307,7 +311,7 @@
     {
       "type": "positive",
       "title": "Hot Trend",
-      "description": "Up 9 positions in just 7 days - currently trending and gaining rapid visibility!"
+      "description": "Up 7 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

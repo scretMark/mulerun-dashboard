@@ -1,6 +1,6 @@
 {
   "agent_id": "562b4f06-4824-489a-8447-41732cef425c",
-  "generated_at": "2026-01-14T00:01:09.764995",
+  "generated_at": "2026-01-15T00:01:19.303952",
   "basic_info": {
     "title": "Mockup Studio",
     "author": "DENNIS",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-10T18:50:43.786000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@DENNIS/mockup-studio",
-    "days_since_published": 95
+    "days_since_published": 96
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 75,
       "runs_rank": 96,
-      "likes_rank": 197,
-      "total_agents": 289,
-      "views_percentile": 74.0,
-      "runs_percentile": 66.8,
-      "likes_percentile": 31.8
+      "likes_rank": 125,
+      "total_agents": 292,
+      "views_percentile": 74.3,
+      "runs_percentile": 67.1,
+      "likes_percentile": 57.2
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 89,
+    "days_tracked": 90,
     "price": 200.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 55,
+    "days_tracked": 56,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 3,
-      "likes_rank_change": 58
+      "runs_rank_change": 2,
+      "likes_rank_change": -58
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 56,
+    "data_points": 57,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -112,7 +112,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         null,
@@ -158,6 +159,7 @@
         73,
         73,
         74,
+        75,
         75,
         75,
         75,
@@ -228,6 +230,7 @@
         94,
         95,
         96,
+        96,
         96
       ],
       "likes_rank": [
@@ -286,7 +289,8 @@
         183,
         183,
         184,
-        197
+        197,
+        125
       ]
     }
   },
@@ -298,7 +302,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #75 out of 289 active agents."
+      "description": "This agent is currently ranked #75 out of 292 active agents."
     }
   ]
 }

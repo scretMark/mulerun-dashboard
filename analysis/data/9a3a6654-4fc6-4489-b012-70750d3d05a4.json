@@ -1,6 +1,6 @@
 {
   "agent_id": "9a3a6654-4fc6-4489-b012-70750d3d05a4",
-  "generated_at": "2026-01-14T00:01:11.749998",
+  "generated_at": "2026-01-15T00:01:21.109519",
   "basic_info": {
     "title": "FrostyPunster",
     "author": "hoainamluci",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-14T00:45:06.127000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@hoainamluci/frostypunster",
-    "days_since_published": 91
+    "days_since_published": 92
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 204,
-      "runs_rank": 289,
-      "likes_rank": 12,
-      "total_agents": 289,
-      "views_percentile": 29.4,
+      "views_rank": 206,
+      "runs_rank": 292,
+      "likes_rank": 10,
+      "total_agents": 292,
+      "views_percentile": 29.5,
       "runs_percentile": 0.0,
-      "likes_percentile": 95.8
+      "likes_percentile": 96.6
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 88,
+    "days_tracked": 89,
     "price": 70.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 55,
+    "days_tracked": 56,
     "last_7_days": {
-      "views_rank_change": 2,
-      "runs_rank_change": 3,
-      "likes_rank_change": -15
+      "views_rank_change": 3,
+      "runs_rank_change": 4,
+      "likes_rank_change": -6
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -44,17 +44,17 @@
     "all_time": {
       "best_views_rank": 191,
       "best_runs_rank": 246,
-      "best_likes_rank": 12,
+      "best_likes_rank": 10,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 204
+      "current_rank": 206
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 56,
+    "data_points": 57,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -112,7 +112,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         null,
@@ -170,7 +171,8 @@
         203,
         203,
         204,
-        204
+        204,
+        206
       ],
       "runs_rank": [
         null,
@@ -228,7 +230,8 @@
         288,
         288,
         289,
-        289
+        289,
+        292
       ],
       "likes_rank": [
         null,
@@ -286,7 +289,8 @@
         16,
         17,
         17,
-        12
+        12,
+        10
       ]
     }
   },
@@ -298,7 +302,7 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #12 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #10 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "6e585eac-5e25-423f-906d-c3c7aebba207",
-  "generated_at": "2026-01-14T00:01:10.667570",
+  "generated_at": "2026-01-15T00:01:20.122068",
   "basic_info": {
     "title": "AI Car Wrap Color Change",
     "author": "Jayden",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-10T10:31:34.514000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Jayden/ai-car-wrap-color-change",
-    "days_since_published": 64
+    "days_since_published": 65
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 149,
-      "runs_rank": 159,
-      "likes_rank": 20,
-      "total_agents": 289,
-      "views_percentile": 48.4,
-      "runs_percentile": 45.0,
-      "likes_percentile": 93.1
+      "runs_rank": 160,
+      "likes_rank": 227,
+      "total_agents": 292,
+      "views_percentile": 49.0,
+      "runs_percentile": 45.2,
+      "likes_percentile": 22.3
     },
-    "tier": "High",
-    "tier_class": "high",
-    "days_tracked": 67,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 68,
     "price": 69.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 55,
+    "days_tracked": 56,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 5,
-      "likes_rank_change": -31
+      "runs_rank_change": 4,
+      "likes_rank_change": 200
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 56,
+    "data_points": 57,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -112,7 +112,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         null,
@@ -167,6 +168,7 @@
         148,
         148,
         148,
+        149,
         149,
         149,
         149,
@@ -228,7 +230,8 @@
         157,
         157,
         158,
-        159
+        159,
+        160
       ],
       "likes_rank": [
         null,
@@ -286,7 +289,8 @@
         27,
         27,
         28,
-        20
+        20,
+        227
       ]
     }
   },
@@ -296,9 +300,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "High Performer",
-      "description": "Ranked #20 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #149 out of 292 active agents."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "81a7b21c-32fd-4106-b473-4c1eb7e2934f",
-  "generated_at": "2026-01-14T00:01:10.594876",
+  "generated_at": "2026-01-15T00:01:20.058111",
   "basic_info": {
     "title": "Elon Musk I Love YOU",
     "author": "Darren",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-20T11:38:39.595000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/elon-musk-i-love-you",
-    "days_since_published": 85
+    "days_since_published": 86
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 120,
       "runs_rank": 178,
-      "likes_rank": 261,
-      "total_agents": 289,
-      "views_percentile": 58.5,
-      "runs_percentile": 38.4,
-      "likes_percentile": 9.7
+      "likes_rank": 175,
+      "total_agents": 292,
+      "views_percentile": 58.9,
+      "runs_percentile": 39.0,
+      "likes_percentile": 40.1
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 83,
+    "days_tracked": 84,
     "price": 51.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 55,
+    "days_tracked": 56,
     "last_7_days": {
-      "views_rank_change": -1,
+      "views_rank_change": 1,
       "runs_rank_change": 3,
-      "likes_rank_change": 38
+      "likes_rank_change": -82
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 56,
+    "data_points": 57,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -112,7 +112,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         null,
@@ -168,6 +169,7 @@
         121,
         119,
         119,
+        120,
         120,
         120,
         120
@@ -228,6 +230,7 @@
         176,
         177,
         177,
+        178,
         178
       ],
       "likes_rank": [
@@ -286,7 +289,8 @@
         257,
         258,
         259,
-        261
+        261,
+        175
       ]
     }
   },
@@ -298,7 +302,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #120 out of 289 active agents."
+      "description": "This agent is currently ranked #120 out of 292 active agents."
     }
   ]
 }

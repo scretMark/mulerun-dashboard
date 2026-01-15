@@ -1,6 +1,6 @@
 {
   "agent_id": "d779f33b-200a-4b8f-ba89-d44fa9a05514",
-  "generated_at": "2026-01-14T00:01:10.985124",
+  "generated_at": "2026-01-15T00:01:20.366531",
   "basic_info": {
     "title": "BuildingMagicMaker",
     "author": "YuTou_baby",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-02T11:05:16.028000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@YuTou_baby/buildingmagicmaker",
-    "days_since_published": 133
+    "days_since_published": 134
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 54,
       "runs_rank": 61,
-      "likes_rank": 93,
-      "total_agents": 289,
-      "views_percentile": 81.3,
-      "runs_percentile": 78.9,
-      "likes_percentile": 67.8
+      "likes_rank": 47,
+      "total_agents": 292,
+      "views_percentile": 81.5,
+      "runs_percentile": 79.1,
+      "likes_percentile": 83.9
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 120,
+    "days_tracked": 121,
     "price": 15.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 55,
+    "days_tracked": 56,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 1,
-      "likes_rank_change": -143
+      "likes_rank_change": -24
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -44,7 +44,7 @@
     "all_time": {
       "best_views_rank": 53,
       "best_runs_rank": 56,
-      "best_likes_rank": 71,
+      "best_likes_rank": 47,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 54
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 56,
+    "data_points": 57,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-14T08:00:59.567570",
+    "last_recorded": "2026-01-15T08:01:02.601407",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -112,7 +112,8 @@
         "2026-01-11T08:01:01.017708",
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
-        "2026-01-14T08:00:59.567570"
+        "2026-01-14T08:00:59.567570",
+        "2026-01-15T08:01:02.601407"
       ],
       "views_rank": [
         null,
@@ -162,6 +163,7 @@
         53,
         53,
         53,
+        54,
         54,
         54,
         54,
@@ -228,6 +230,7 @@
         60,
         60,
         61,
+        61,
         61
       ],
       "likes_rank": [
@@ -286,7 +289,8 @@
         74,
         72,
         73,
-        93
+        93,
+        47
       ]
     }
   },
@@ -298,7 +302,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #54 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #47 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }
