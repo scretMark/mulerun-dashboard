@@ -1,6 +1,6 @@
 {
   "agent_id": "f4452c07-4e3b-4f7e-a76f-6f08d2199113",
-  "generated_at": "2026-01-15T00:01:22.275373",
+  "generated_at": "2026-01-16T00:01:20.205312",
   "basic_info": {
     "title": "Rank Quest",
     "author": "favourite",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-30T11:16:33.492000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@favourite/rank-quest-2",
-    "days_since_published": 15
+    "days_since_published": 16
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 202,
       "runs_rank": 158,
-      "likes_rank": 106,
+      "likes_rank": 156,
       "total_agents": 292,
       "views_percentile": 30.8,
       "runs_percentile": 45.9,
-      "likes_percentile": 63.7
+      "likes_percentile": 46.6
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 12,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 13,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 9,
+    "days_tracked": 11,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 1,
-      "likes_rank_change": -56
+      "likes_rank_change": -6
     },
     "last_30_days": {
       "views_rank_change": -9,
       "runs_rank_change": -5,
-      "likes_rank_change": -7
+      "likes_rank_change": 43
     },
     "all_time": {
       "best_views_rank": 202,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 10,
+    "data_points": 11,
     "first_recorded": "2026-01-05T08:01:10.022221",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2026-01-05T08:01:10.022221",
@@ -66,7 +66,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         211,
@@ -77,6 +78,7 @@
         202,
         202,
         203,
+        202,
         202,
         202
       ],
@@ -90,6 +92,7 @@
         158,
         159,
         157,
+        158,
         158
       ],
       "likes_rank": [
@@ -102,7 +105,8 @@
         162,
         164,
         178,
-        106
+        106,
+        156
       ]
     }
   },

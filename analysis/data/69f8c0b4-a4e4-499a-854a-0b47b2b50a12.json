@@ -1,6 +1,6 @@
 {
   "agent_id": "69f8c0b4-a4e4-499a-854a-0b47b2b50a12",
-  "generated_at": "2026-01-15T00:01:21.176656",
+  "generated_at": "2026-01-16T00:01:19.188648",
   "basic_info": {
     "title": "ShadowShift",
     "author": "luckyy",
@@ -11,50 +11,50 @@
     "published_at": "2025-11-20T19:16:57.498000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@luckyy/shadowshift",
-    "days_since_published": 55
+    "days_since_published": 56
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 229,
-      "runs_rank": 118,
-      "likes_rank": 177,
+      "views_rank": 232,
+      "runs_rank": 119,
+      "likes_rank": 113,
       "total_agents": 292,
-      "views_percentile": 21.6,
-      "runs_percentile": 59.6,
-      "likes_percentile": 39.4
+      "views_percentile": 20.5,
+      "runs_percentile": 59.2,
+      "likes_percentile": 61.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 55,
+    "days_tracked": 56,
     "price": 23.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 52,
+    "days_tracked": 53,
     "last_7_days": {
-      "views_rank_change": 3,
-      "runs_rank_change": 1,
-      "likes_rank_change": -83
+      "views_rank_change": 6,
+      "runs_rank_change": 2,
+      "likes_rank_change": -147
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 26,
+      "runs_rank_change": 7,
+      "likes_rank_change": -54
     },
     "all_time": {
       "best_views_rank": 206,
       "best_runs_rank": 111,
-      "best_likes_rank": 167,
+      "best_likes_rank": 113,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 229
+      "current_rank": 232
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 54,
+    "data_points": 55,
     "first_recorded": "2025-11-23T13:27:48.290198",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-11-23T13:27:48.290198",
@@ -110,7 +110,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -166,7 +167,8 @@
         226,
         227,
         229,
-        229
+        229,
+        232
       ],
       "runs_rank": [
         null,
@@ -222,7 +224,8 @@
         117,
         117,
         118,
-        118
+        118,
+        119
       ],
       "likes_rank": [
         null,
@@ -278,7 +281,8 @@
         259,
         262,
         264,
-        177
+        177,
+        113
       ]
     }
   },
@@ -295,9 +299,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #229 out of 292 active agents."
+      "type": "warning",
+      "title": "Declining Ranking",
+      "description": "Dropped 26 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

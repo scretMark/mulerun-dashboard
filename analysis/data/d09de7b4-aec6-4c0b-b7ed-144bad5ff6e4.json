@@ -1,6 +1,6 @@
 {
   "agent_id": "d09de7b4-aec6-4c0b-b7ed-144bad5ff6e4",
-  "generated_at": "2026-01-15T00:01:21.631741",
+  "generated_at": "2026-01-16T00:01:19.599666",
   "basic_info": {
     "title": "Open Eyes in Photo ",
     "author": "zhoudshu_zhoj7m",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-10T16:41:50.184000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@zhoudshu_zhoj7m/open-eyes-in-photo",
-    "days_since_published": 35
+    "days_since_published": 36
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 213,
+      "views_rank": 215,
       "runs_rank": 204,
-      "likes_rank": 123,
+      "likes_rank": 73,
       "total_agents": 292,
-      "views_percentile": 27.1,
+      "views_percentile": 26.4,
       "runs_percentile": 30.1,
-      "likes_percentile": 57.9
+      "likes_percentile": 75.0
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 35,
+    "days_tracked": 36,
     "price": 20.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "last_7_days": {
-      "views_rank_change": 1,
+      "views_rank_change": 3,
       "runs_rank_change": 4,
-      "likes_rank_change": -58
+      "likes_rank_change": -108
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 12,
+      "runs_rank_change": 17,
+      "likes_rank_change": -115
     },
     "all_time": {
       "best_views_rank": 198,
@@ -47,14 +47,14 @@
       "best_likes_rank": 13,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 213
+      "current_rank": 215
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 35,
+    "data_points": 36,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -91,7 +91,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -128,7 +129,8 @@
         212,
         213,
         213,
-        213
+        213,
+        215
       ],
       "runs_rank": [
         null,
@@ -165,6 +167,7 @@
         201,
         202,
         203,
+        204,
         204
       ],
       "likes_rank": [
@@ -202,7 +205,8 @@
         180,
         182,
         194,
-        123
+        123,
+        73
       ]
     }
   },
@@ -219,9 +223,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #213 out of 292 active agents."
+      "type": "warning",
+      "title": "Declining Ranking",
+      "description": "Dropped 12 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "d3b06b6c-552d-44a0-a7f8-457a832ede65",
-  "generated_at": "2026-01-15T00:01:20.608833",
+  "generated_at": "2026-01-16T00:01:18.672935",
   "basic_info": {
     "title": "Line Drawing of a Face",
     "author": "Darren",
@@ -11,40 +11,40 @@
     "published_at": "2025-10-07T09:54:35.853000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/line-drawing-of-a-face",
-    "days_since_published": 99
+    "days_since_published": 100
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 119,
-      "runs_rank": 145,
-      "likes_rank": 25,
+      "runs_rank": 146,
+      "likes_rank": 20,
       "total_agents": 292,
       "views_percentile": 59.2,
-      "runs_percentile": 50.3,
-      "likes_percentile": 91.4
+      "runs_percentile": 50.0,
+      "likes_percentile": 93.2
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 79,
+    "days_tracked": 80,
     "price": 66.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
       "views_rank_change": -1,
-      "runs_rank_change": 2,
-      "likes_rank_change": -212
+      "runs_rank_change": 3,
+      "likes_rank_change": -217
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 4,
+      "runs_rank_change": 15,
+      "likes_rank_change": -24
     },
     "all_time": {
       "best_views_rank": 115,
       "best_runs_rank": 131,
-      "best_likes_rank": 25,
+      "best_likes_rank": 20,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 119
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -113,7 +113,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -169,6 +170,7 @@
         119,
         120,
         120,
+        119,
         119,
         119,
         119,
@@ -231,7 +233,8 @@
         143,
         144,
         145,
-        145
+        145,
+        146
       ],
       "likes_rank": [
         null,
@@ -290,7 +293,8 @@
         239,
         240,
         39,
-        25
+        25,
+        20
       ]
     }
   },
@@ -302,7 +306,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #25 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #20 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

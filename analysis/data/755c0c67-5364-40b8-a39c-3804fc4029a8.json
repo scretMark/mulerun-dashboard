@@ -1,6 +1,6 @@
 {
   "agent_id": "755c0c67-5364-40b8-a39c-3804fc4029a8",
-  "generated_at": "2026-01-15T00:01:21.042572",
+  "generated_at": "2026-01-16T00:01:19.074728",
   "basic_info": {
     "title": "Your Nobel Moment",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-13T11:03:06.303000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/your-nobel-moment",
-    "days_since_published": 93
+    "days_since_published": 94
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 208,
       "runs_rank": 277,
-      "likes_rank": 155,
+      "likes_rank": 99,
       "total_agents": 292,
       "views_percentile": 28.8,
       "runs_percentile": 5.1,
-      "likes_percentile": 46.9
+      "likes_percentile": 66.1
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 79,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 80,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 4,
-      "likes_rank_change": -69
+      "likes_rank_change": -125
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 16,
+      "runs_rank_change": 38,
+      "likes_rank_change": 72
     },
     "all_time": {
       "best_views_rank": 192,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -113,7 +113,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -170,6 +171,7 @@
         207,
         209,
         209,
+        208,
         208,
         208,
         208
@@ -231,6 +233,7 @@
         273,
         274,
         274,
+        277,
         277
       ],
       "likes_rank": [
@@ -290,7 +293,8 @@
         224,
         225,
         234,
-        155
+        155,
+        99
       ]
     }
   },
@@ -300,9 +304,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #208 out of 292 active agents."
+      "type": "warning",
+      "title": "Declining Ranking",
+      "description": "Dropped 16 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

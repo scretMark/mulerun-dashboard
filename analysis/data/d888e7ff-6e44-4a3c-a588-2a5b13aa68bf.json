@@ -1,6 +1,6 @@
 {
   "agent_id": "d888e7ff-6e44-4a3c-a588-2a5b13aa68bf",
-  "generated_at": "2026-01-15T00:01:19.822265",
+  "generated_at": "2026-01-16T00:01:17.911186",
   "basic_info": {
     "title": "n8n stylist",
     "author": "summerail",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-04T14:40:15.184000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/n8n-stylist",
-    "days_since_published": 102
+    "days_since_published": 103
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 106,
       "runs_rank": 270,
-      "likes_rank": 116,
+      "likes_rank": 68,
       "total_agents": 292,
       "views_percentile": 63.7,
       "runs_percentile": 7.5,
-      "likes_percentile": 60.3
+      "likes_percentile": 76.7
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 102,
+    "days_tracked": 103,
     "price": 60.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
       "views_rank_change": 3,
       "runs_rank_change": 2,
-      "likes_rank_change": -52
+      "likes_rank_change": -100
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 8,
+      "runs_rank_change": 30,
+      "likes_rank_change": 40
     },
     "all_time": {
       "best_views_rank": 97,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -113,7 +113,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -170,6 +171,7 @@
         103,
         104,
         105,
+        106,
         106,
         106,
         106
@@ -231,6 +233,7 @@
         268,
         266,
         267,
+        270,
         270
       ],
       "likes_rank": [
@@ -290,7 +293,8 @@
         164,
         167,
         186,
-        116
+        116,
+        68
       ]
     }
   },

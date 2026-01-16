@@ -1,6 +1,6 @@
 {
   "agent_id": "4d9b4916-1311-4716-ba98-3bba7d803df3",
-  "generated_at": "2026-01-15T00:01:19.577108",
+  "generated_at": "2026-01-16T00:01:17.667564",
   "basic_info": {
     "title": "Content Pilot AI",
     "author": "cqplaquemh41i2k",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-13T18:50:29.799000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@cqplaquemh41i2k/content-pilot-ai",
-    "days_since_published": 93
+    "days_since_published": 94
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 95,
       "runs_rank": 53,
-      "likes_rank": 249,
+      "likes_rank": 207,
       "total_agents": 292,
       "views_percentile": 67.5,
       "runs_percentile": 81.8,
-      "likes_percentile": 14.7
+      "likes_percentile": 29.1
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 89,
+    "days_tracked": 90,
     "price": 15.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
       "views_rank_change": -1,
       "runs_rank_change": 0,
-      "likes_rank_change": 108
+      "likes_rank_change": 66
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": -15,
+      "runs_rank_change": -8,
+      "likes_rank_change": 140
     },
     "all_time": {
       "best_views_rank": 95,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -113,7 +113,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -172,6 +173,7 @@
         96,
         96,
         96,
+        95,
         95
       ],
       "runs_rank": [
@@ -225,6 +227,7 @@
         52,
         52,
         52,
+        53,
         53,
         53,
         53,
@@ -290,7 +293,8 @@
         147,
         147,
         67,
-        249
+        249,
+        207
       ]
     }
   },
@@ -303,6 +307,11 @@
       "type": "positive",
       "title": "High Performer",
       "description": "Ranked #53 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+    },
+    {
+      "type": "positive",
+      "title": "Rising Star",
+      "description": "Improved by 15 positions in views ranking over the last 30 days - showing strong momentum!"
     }
   ]
 }

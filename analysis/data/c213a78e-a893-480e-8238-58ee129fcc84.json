@@ -1,6 +1,6 @@
 {
   "agent_id": "c213a78e-a893-480e-8238-58ee129fcc84",
-  "generated_at": "2026-01-15T00:01:19.454934",
+  "generated_at": "2026-01-16T00:01:17.521434",
   "basic_info": {
     "title": "Vintage Gold Vogue",
     "author": "Norsizu",
@@ -11,40 +11,40 @@
     "published_at": "2025-11-11T22:25:53.477000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/vintage-gold-vogue",
-    "days_since_published": 64
+    "days_since_published": 65
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 263,
-      "runs_rank": 232,
-      "likes_rank": 194,
+      "runs_rank": 234,
+      "likes_rank": 123,
       "total_agents": 292,
       "views_percentile": 9.9,
-      "runs_percentile": 20.5,
-      "likes_percentile": 33.6
+      "runs_percentile": 19.9,
+      "likes_percentile": 57.9
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 63,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 64,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
       "views_rank_change": 3,
-      "runs_rank_change": 2,
-      "likes_rank_change": -86
+      "runs_rank_change": 4,
+      "likes_rank_change": -157
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 26,
+      "runs_rank_change": 14,
+      "likes_rank_change": -108
     },
     "all_time": {
       "best_views_rank": 237,
       "best_runs_rank": 216,
-      "best_likes_rank": 159,
+      "best_likes_rank": 123,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 263
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -113,7 +113,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -172,6 +173,7 @@
         260,
         260,
         260,
+        263,
         263
       ],
       "runs_rank": [
@@ -231,7 +233,8 @@
         230,
         230,
         230,
-        232
+        232,
+        234
       ],
       "likes_rank": [
         null,
@@ -290,7 +293,8 @@
         279,
         281,
         282,
-        194
+        194,
+        123
       ]
     }
   },
@@ -300,9 +304,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #263 out of 292 active agents."
+      "type": "warning",
+      "title": "Declining Ranking",
+      "description": "Dropped 26 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

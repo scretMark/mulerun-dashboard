@@ -1,6 +1,6 @@
 {
   "agent_id": "eccea307-6383-4717-8c7b-5b28ee819687",
-  "generated_at": "2026-01-15T00:01:20.957166",
+  "generated_at": "2026-01-16T00:01:19.007508",
   "basic_info": {
     "title": "Stress-free Childrens Portraits",
     "author": "owdaoyn18682p53",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-08T13:36:54.055000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@owdaoyn18682p53/stress-free-childrens-portraits",
-    "days_since_published": 98
+    "days_since_published": 99
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 186,
-      "runs_rank": 231,
-      "likes_rank": 256,
+      "views_rank": 187,
+      "runs_rank": 233,
+      "likes_rank": 142,
       "total_agents": 292,
-      "views_percentile": 36.3,
-      "runs_percentile": 20.9,
-      "likes_percentile": 12.3
+      "views_percentile": 36.0,
+      "runs_percentile": 20.2,
+      "likes_percentile": 51.4
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 79,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 80,
     "price": 39.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": 2,
-      "likes_rank_change": 23
+      "views_rank_change": 1,
+      "runs_rank_change": 4,
+      "likes_rank_change": -91
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 15,
+      "runs_rank_change": 34,
+      "likes_rank_change": 139
     },
     "all_time": {
       "best_views_rank": 171,
@@ -47,14 +47,14 @@
       "best_likes_rank": 3,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 186
+      "current_rank": 187
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -113,7 +113,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -172,7 +173,8 @@
         187,
         186,
         186,
-        186
+        186,
+        187
       ],
       "runs_rank": [
         null,
@@ -231,7 +233,8 @@
         229,
         229,
         229,
-        231
+        231,
+        233
       ],
       "likes_rank": [
         null,
@@ -290,7 +293,8 @@
         234,
         235,
         242,
-        256
+        256,
+        142
       ]
     }
   },
@@ -300,9 +304,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #186 out of 292 active agents."
+      "type": "warning",
+      "title": "Declining Ranking",
+      "description": "Dropped 15 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

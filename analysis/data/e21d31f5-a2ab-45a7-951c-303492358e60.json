@@ -1,6 +1,6 @@
 {
   "agent_id": "e21d31f5-a2ab-45a7-951c-303492358e60",
-  "generated_at": "2026-01-15T00:01:20.449750",
+  "generated_at": "2026-01-16T00:01:18.507524",
   "basic_info": {
     "title": "AI Secretary for Google Meet",
     "author": "Aurorabbafef3",
@@ -11,40 +11,40 @@
     "published_at": "2025-10-30T17:56:21.736000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aurorabbafef3/ai-secretary-for-google-meet",
-    "days_since_published": 76
+    "days_since_published": 77
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 70,
-      "runs_rank": 110,
-      "likes_rank": 157,
+      "runs_rank": 113,
+      "likes_rank": 102,
       "total_agents": 292,
       "views_percentile": 76.0,
-      "runs_percentile": 62.3,
-      "likes_percentile": 46.2
+      "runs_percentile": 61.3,
+      "likes_percentile": 65.1
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 89,
+    "days_tracked": 90,
     "price": 1.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 0,
-      "likes_rank_change": -71
+      "runs_rank_change": 3,
+      "likes_rank_change": -126
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 2,
+      "runs_rank_change": 10,
+      "likes_rank_change": -74
     },
     "all_time": {
       "best_views_rank": 68,
       "best_runs_rank": 103,
-      "best_likes_rank": 114,
+      "best_likes_rank": 102,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 70
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -113,7 +113,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -166,6 +167,7 @@
         68,
         69,
         69,
+        70,
         70,
         70,
         70,
@@ -231,7 +233,8 @@
         111,
         110,
         110,
-        110
+        110,
+        113
       ],
       "likes_rank": [
         null,
@@ -290,7 +293,8 @@
         228,
         230,
         238,
-        157
+        157,
+        102
       ]
     }
   },

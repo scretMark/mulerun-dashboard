@@ -1,45 +1,45 @@
 {
   "agent_id": "aee41d41-0318-43ce-b6cd-e6a2def163b8",
-  "generated_at": "2026-01-15T00:01:19.810781",
+  "generated_at": "2026-01-16T00:01:17.899341",
   "basic_info": {
     "title": "Mechanical Image Generator",
     "author": "Darren",
-    "description": "8K HD visualization of everyday electronics as futuristic transparent mechanical objects.",
+    "description": "Render electronics as hyper-realistic transparent mechanical 8K art.",
     "short_description": "Visualizes electronics as transparent mechanical 8K HD objects.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-09-30T09:50:41.881000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/mechanical-image-generator",
-    "days_since_published": 106
+    "days_since_published": 107
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 104,
-      "runs_rank": 77,
-      "likes_rank": 180,
+      "views_rank": 103,
+      "runs_rank": 78,
+      "likes_rank": 268,
       "total_agents": 292,
-      "views_percentile": 64.4,
-      "runs_percentile": 73.6,
-      "likes_percentile": 38.4
+      "views_percentile": 64.7,
+      "runs_percentile": 73.3,
+      "likes_percentile": 8.2
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 79,
+    "days_tracked": 80,
     "price": 29.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
-      "views_rank_change": -3,
-      "runs_rank_change": -18,
-      "likes_rank_change": -83
+      "views_rank_change": -4,
+      "runs_rank_change": -17,
+      "likes_rank_change": 5
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 7,
+      "runs_rank_change": -13,
+      "likes_rank_change": 220
     },
     "all_time": {
       "best_views_rank": 96,
@@ -47,14 +47,14 @@
       "best_likes_rank": 48,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 104
+      "current_rank": 103
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -113,7 +113,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -172,7 +173,8 @@
         103,
         104,
         104,
-        104
+        104,
+        103
       ],
       "runs_rank": [
         null,
@@ -231,7 +233,8 @@
         83,
         80,
         77,
-        77
+        77,
+        78
       ],
       "likes_rank": [
         null,
@@ -290,7 +293,8 @@
         261,
         264,
         266,
-        180
+        180,
+        268
       ]
     }
   },
@@ -300,9 +304,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #104 out of 292 active agents."
+      "type": "positive",
+      "title": "Growing Usage",
+      "description": "Runs ranking improved by 13 positions in the last 30 days - users are actively engaging with this agent!"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "19c4e341-229f-401d-a333-57faf1023c23",
-  "generated_at": "2026-01-15T00:01:20.071630",
+  "generated_at": "2026-01-16T00:01:18.159642",
   "basic_info": {
     "title": "My Halloween Twin",
     "author": "Norsizu",
@@ -11,40 +11,40 @@
     "published_at": "2025-10-05T22:43:37.357000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/my-halloween-twin",
-    "days_since_published": 101
+    "days_since_published": 102
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 145,
-      "runs_rank": 170,
-      "likes_rank": 165,
+      "runs_rank": 171,
+      "likes_rank": 106,
       "total_agents": 292,
       "views_percentile": 50.3,
-      "runs_percentile": 41.8,
-      "likes_percentile": 43.5
+      "runs_percentile": 41.4,
+      "likes_percentile": 63.7
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 77,
+    "days_tracked": 78,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
       "views_rank_change": 2,
-      "runs_rank_change": 3,
-      "likes_rank_change": -78
+      "runs_rank_change": 4,
+      "likes_rank_change": -137
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 10,
+      "runs_rank_change": 29,
+      "likes_rank_change": -6
     },
     "all_time": {
       "best_views_rank": 135,
       "best_runs_rank": 142,
-      "best_likes_rank": 112,
+      "best_likes_rank": 106,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 145
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -113,7 +113,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -171,6 +172,7 @@
         143,
         143,
         144,
+        145,
         145,
         145
       ],
@@ -231,7 +233,8 @@
         168,
         169,
         169,
-        170
+        170,
+        171
       ],
       "likes_rank": [
         null,
@@ -290,7 +293,8 @@
         244,
         245,
         250,
-        165
+        165,
+        106
       ]
     }
   },

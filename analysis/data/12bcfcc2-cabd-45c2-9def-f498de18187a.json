@@ -1,6 +1,6 @@
 {
   "agent_id": "12bcfcc2-cabd-45c2-9def-f498de18187a",
-  "generated_at": "2026-01-15T00:01:20.192920",
+  "generated_at": "2026-01-16T00:01:18.274568",
   "basic_info": {
     "title": "Dimensional Barrier Breaker",
     "author": "luoxiaoyv",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-14T22:13:00.928000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@luoxiaoyv/dimensional-barrier-breaker",
-    "days_since_published": 92
+    "days_since_published": 93
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 200,
-      "runs_rank": 248,
-      "likes_rank": 24,
+      "runs_rank": 249,
+      "likes_rank": 19,
       "total_agents": 292,
       "views_percentile": 31.5,
-      "runs_percentile": 15.1,
-      "likes_percentile": 91.8
+      "runs_percentile": 14.7,
+      "likes_percentile": 93.5
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 79,
+    "days_tracked": 80,
     "price": 49.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 4,
-      "likes_rank_change": -21
+      "runs_rank_change": 5,
+      "likes_rank_change": -26
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 10,
+      "runs_rank_change": 31,
+      "likes_rank_change": 4
     },
     "all_time": {
       "best_views_rank": 190,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -113,7 +113,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -170,6 +171,7 @@
         199,
         199,
         199,
+        200,
         200,
         200,
         200
@@ -231,7 +233,8 @@
         245,
         245,
         245,
-        248
+        248,
+        249
       ],
       "likes_rank": [
         null,
@@ -290,7 +293,8 @@
         45,
         47,
         38,
-        24
+        24,
+        19
       ]
     }
   },
@@ -302,7 +306,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #24 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #19 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

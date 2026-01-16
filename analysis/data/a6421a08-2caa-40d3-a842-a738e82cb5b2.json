@@ -1,6 +1,6 @@
 {
   "agent_id": "a6421a08-2caa-40d3-a842-a738e82cb5b2",
-  "generated_at": "2026-01-15T00:01:20.946020",
+  "generated_at": "2026-01-16T00:01:18.996957",
   "basic_info": {
     "title": "One prompt 10 replies",
     "author": "MonkeyE",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-18T11:03:57.331000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@MonkeyE/one-prompt-10-replies",
-    "days_since_published": 88
+    "days_since_published": 89
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 169,
       "runs_rank": 192,
-      "likes_rank": 196,
+      "likes_rank": 125,
       "total_agents": 292,
       "views_percentile": 42.1,
       "runs_percentile": 34.2,
-      "likes_percentile": 32.9
+      "likes_percentile": 57.2
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 85,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 86,
     "price": 1.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 5,
-      "likes_rank_change": -85
+      "likes_rank_change": -156
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 12,
+      "runs_rank_change": 27,
+      "likes_rank_change": 45
     },
     "all_time": {
       "best_views_rank": 157,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -113,7 +113,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -171,6 +172,7 @@
         167,
         167,
         168,
+        169,
         169,
         169
       ],
@@ -231,6 +233,7 @@
         189,
         190,
         191,
+        192,
         192
       ],
       "likes_rank": [
@@ -290,7 +293,8 @@
         283,
         286,
         284,
-        196
+        196,
+        125
       ]
     }
   },
@@ -300,9 +304,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #169 out of 292 active agents."
+      "type": "warning",
+      "title": "Declining Ranking",
+      "description": "Dropped 12 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

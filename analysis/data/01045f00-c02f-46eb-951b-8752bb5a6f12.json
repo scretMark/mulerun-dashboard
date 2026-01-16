@@ -1,6 +1,6 @@
 {
   "agent_id": "01045f00-c02f-46eb-951b-8752bb5a6f12",
-  "generated_at": "2026-01-15T00:01:18.920922",
+  "generated_at": "2026-01-16T00:01:16.897813",
   "basic_info": {
     "title": "Youtube Awesome Thumbnail",
     "author": "summerail",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-10T09:52:30.048000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/youtube-awesome-thumbnail",
-    "days_since_published": 65
+    "days_since_published": 66
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 19,
       "runs_rank": 11,
-      "likes_rank": 285,
+      "likes_rank": 292,
       "total_agents": 292,
       "views_percentile": 93.5,
       "runs_percentile": 96.2,
-      "likes_percentile": 2.4
+      "likes_percentile": 0.0
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 64,
+    "days_tracked": 65,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 57,
+    "days_tracked": 58,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 1,
-      "likes_rank_change": 156
+      "likes_rank_change": 163
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": -14,
+      "runs_rank_change": -1,
+      "likes_rank_change": 117
     },
     "all_time": {
       "best_views_rank": 19,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 58,
+    "data_points": 59,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -114,7 +114,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -167,6 +168,7 @@
         20,
         20,
         20,
+        19,
         19,
         19,
         19,
@@ -234,6 +236,7 @@
         10,
         10,
         10,
+        11,
         11
       ],
       "likes_rank": [
@@ -294,7 +297,8 @@
         131,
         141,
         160,
-        285
+        285,
+        292
       ]
     }
   },
@@ -307,6 +311,11 @@
       "type": "positive",
       "title": "Elite Performance",
       "description": "Ranked #11 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+    },
+    {
+      "type": "positive",
+      "title": "Rising Star",
+      "description": "Improved by 14 positions in views ranking over the last 30 days - showing strong momentum!"
     },
     {
       "type": "info",

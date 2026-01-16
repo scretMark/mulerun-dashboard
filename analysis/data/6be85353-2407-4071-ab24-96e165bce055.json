@@ -1,6 +1,6 @@
 {
   "agent_id": "6be85353-2407-4071-ab24-96e165bce055",
-  "generated_at": "2026-01-15T00:01:21.655981",
+  "generated_at": "2026-01-16T00:01:19.621807",
   "basic_info": {
     "title": "The Pet Fruit on the Tree",
     "author": "8bit",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-10T15:04:26.066000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/the-pet-fruit-on-the-tree",
-    "days_since_published": 35
+    "days_since_published": 36
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 293,
       "runs_rank": 276,
-      "likes_rank": 8,
+      "likes_rank": 7,
       "total_agents": 292,
       "views_percentile": -0.3,
       "runs_percentile": 5.5,
-      "likes_percentile": 97.3
+      "likes_percentile": 97.6
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 35,
+    "days_tracked": 36,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "last_7_days": {
       "views_rank_change": 6,
       "runs_rank_change": 4,
-      "likes_rank_change": -3
+      "likes_rank_change": -4
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 47,
+      "runs_rank_change": 38,
+      "likes_rank_change": -183
     },
     "all_time": {
       "best_views_rank": 246,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 35,
+    "data_points": 36,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -91,7 +91,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -128,6 +129,7 @@
         288,
         290,
         290,
+        293,
         293
       ],
       "runs_rank": [
@@ -165,6 +167,7 @@
         272,
         273,
         273,
+        276,
         276
       ],
       "likes_rank": [
@@ -202,7 +205,8 @@
         11,
         11,
         9,
-        8
+        8,
+        7
       ]
     }
   },
@@ -221,7 +225,12 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #8 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #7 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+    },
+    {
+      "type": "warning",
+      "title": "Declining Ranking",
+      "description": "Dropped 47 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

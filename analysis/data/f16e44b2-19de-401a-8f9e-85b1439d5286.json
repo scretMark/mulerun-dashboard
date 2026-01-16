@@ -1,6 +1,6 @@
 {
   "agent_id": "f16e44b2-19de-401a-8f9e-85b1439d5286",
-  "generated_at": "2026-01-15T00:01:21.589324",
+  "generated_at": "2026-01-16T00:01:19.557583",
   "basic_info": {
     "title": "The room turns into Chinese style",
     "author": "8bit",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-09T10:00:12.121000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/the-room-turns-into-chinese-style",
-    "days_since_published": 36
+    "days_since_published": 37
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 287,
-      "runs_rank": 224,
-      "likes_rank": 133,
+      "runs_rank": 225,
+      "likes_rank": 81,
       "total_agents": 292,
       "views_percentile": 1.7,
-      "runs_percentile": 23.3,
-      "likes_percentile": 54.5
+      "runs_percentile": 22.9,
+      "likes_percentile": 72.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 35,
+    "days_tracked": 36,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "last_7_days": {
       "views_rank_change": 4,
-      "runs_rank_change": 4,
-      "likes_rank_change": -67
+      "runs_rank_change": 5,
+      "likes_rank_change": -119
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 42,
+      "runs_rank_change": 31,
+      "likes_rank_change": 22
     },
     "all_time": {
       "best_views_rank": 245,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 35,
+    "data_points": 36,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -91,7 +91,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -128,6 +129,7 @@
         281,
         283,
         283,
+        287,
         287
       ],
       "runs_rank": [
@@ -165,7 +167,8 @@
         221,
         221,
         222,
-        224
+        224,
+        225
       ],
       "likes_rank": [
         null,
@@ -202,7 +205,8 @@
         191,
         193,
         205,
-        133
+        133,
+        81
       ]
     }
   },
@@ -219,9 +223,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #287 out of 292 active agents."
+      "type": "warning",
+      "title": "Declining Ranking",
+      "description": "Dropped 42 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

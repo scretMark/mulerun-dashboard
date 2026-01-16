@@ -1,6 +1,6 @@
 {
   "agent_id": "400f7c75-6100-4071-aa92-fc36670454ba",
-  "generated_at": "2026-01-15T00:01:20.180837",
+  "generated_at": "2026-01-16T00:01:18.263968",
   "basic_info": {
     "title": "Cozy Christmas Glow",
     "author": "Lucas",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-22T12:41:26.838000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/cozy-christmas-glow",
-    "days_since_published": 84
+    "days_since_published": 85
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 192,
+      "views_rank": 193,
       "runs_rank": 259,
-      "likes_rank": 195,
+      "likes_rank": 124,
       "total_agents": 292,
-      "views_percentile": 34.2,
+      "views_percentile": 33.9,
       "runs_percentile": 11.3,
-      "likes_percentile": 33.2
+      "likes_percentile": 57.5
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 83,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 84,
     "price": 49.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
-      "views_rank_change": 1,
+      "views_rank_change": 2,
       "runs_rank_change": 3,
-      "likes_rank_change": -89
+      "likes_rank_change": -160
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 11,
+      "runs_rank_change": 33,
+      "likes_rank_change": 104
     },
     "all_time": {
       "best_views_rank": 180,
@@ -47,14 +47,14 @@
       "best_likes_rank": 20,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 192
+      "current_rank": 193
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -113,7 +113,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -172,7 +173,8 @@
         191,
         192,
         192,
-        192
+        192,
+        193
       ],
       "runs_rank": [
         null,
@@ -231,6 +233,7 @@
         256,
         256,
         256,
+        259,
         259
       ],
       "likes_rank": [
@@ -290,7 +293,8 @@
         282,
         285,
         283,
-        195
+        195,
+        124
       ]
     }
   },
@@ -300,9 +304,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #192 out of 292 active agents."
+      "type": "warning",
+      "title": "Declining Ranking",
+      "description": "Dropped 11 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

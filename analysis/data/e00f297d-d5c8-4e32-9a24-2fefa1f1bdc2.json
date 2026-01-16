@@ -1,6 +1,6 @@
 {
   "agent_id": "e00f297d-d5c8-4e32-9a24-2fefa1f1bdc2",
-  "generated_at": "2026-01-15T00:01:20.910224",
+  "generated_at": "2026-01-16T00:01:18.963022",
   "basic_info": {
     "title": "TRON Ares Neon Filter",
     "author": "Lucas",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-20T21:17:38.032000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/tron-ares-neon-filter",
-    "days_since_published": 86
+    "days_since_published": 87
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 174,
       "runs_rank": 199,
-      "likes_rank": 162,
+      "likes_rank": 104,
       "total_agents": 292,
       "views_percentile": 40.4,
       "runs_percentile": 31.8,
-      "likes_percentile": 44.5
+      "likes_percentile": 64.4
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 85,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 86,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 3,
-      "likes_rank_change": -78
+      "likes_rank_change": -136
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 14,
+      "runs_rank_change": 24,
+      "likes_rank_change": 34
     },
     "all_time": {
       "best_views_rank": 160,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -113,7 +113,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -172,6 +173,7 @@
         174,
         172,
         173,
+        174,
         174
       ],
       "runs_rank": [
@@ -230,6 +232,7 @@
         197,
         197,
         198,
+        199,
         199,
         199
       ],
@@ -290,7 +293,8 @@
         240,
         242,
         247,
-        162
+        162,
+        104
       ]
     }
   },
@@ -300,9 +304,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #174 out of 292 active agents."
+      "type": "warning",
+      "title": "Declining Ranking",
+      "description": "Dropped 14 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

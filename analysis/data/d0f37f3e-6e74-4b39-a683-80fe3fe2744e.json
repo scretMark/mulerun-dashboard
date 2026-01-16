@@ -1,6 +1,6 @@
 {
   "agent_id": "d0f37f3e-6e74-4b39-a683-80fe3fe2744e",
-  "generated_at": "2026-01-15T00:01:18.874912",
+  "generated_at": "2026-01-16T00:01:16.842212",
   "basic_info": {
     "title": "Product Creative Studio",
     "author": "Aichimp",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-18T18:12:01.652000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aichimp/product-creative-studio",
-    "days_since_published": 88
+    "days_since_published": 89
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 36,
       "runs_rank": 17,
-      "likes_rank": 238,
+      "likes_rank": 195,
       "total_agents": 292,
       "views_percentile": 87.7,
       "runs_percentile": 94.2,
-      "likes_percentile": 18.5
+      "likes_percentile": 33.2
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 64,
+    "days_tracked": 65,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 57,
+    "days_tracked": 58,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": 111
+      "likes_rank_change": 68
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": -11,
+      "runs_rank_change": 2,
+      "likes_rank_change": 102
     },
     "all_time": {
       "best_views_rank": 35,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 58,
+    "data_points": 59,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -114,7 +114,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -174,6 +175,7 @@
         35,
         35,
         36,
+        36,
         36
       ],
       "runs_rank": [
@@ -213,6 +215,7 @@
         15,
         15,
         15,
+        17,
         17,
         17,
         17,
@@ -294,7 +297,8 @@
         119,
         120,
         35,
-        238
+        238,
+        195
       ]
     }
   },
@@ -307,6 +311,11 @@
       "type": "positive",
       "title": "High Performer",
       "description": "Ranked #17 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+    },
+    {
+      "type": "positive",
+      "title": "Rising Star",
+      "description": "Improved by 11 positions in views ranking over the last 30 days - showing strong momentum!"
     }
   ]
 }

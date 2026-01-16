@@ -1,6 +1,6 @@
 {
   "agent_id": "51db6cad-29a6-465e-be01-acd44664deeb",
-  "generated_at": "2026-01-15T00:01:21.711130",
+  "generated_at": "2026-01-16T00:01:19.664378",
   "basic_info": {
     "title": "Design your cup",
     "author": "8bit",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-09T15:24:54.449000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/design-your-cup",
-    "days_since_published": 36
+    "days_since_published": 37
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 278,
-      "runs_rank": 234,
-      "likes_rank": 130,
+      "views_rank": 279,
+      "runs_rank": 236,
+      "likes_rank": 78,
       "total_agents": 292,
-      "views_percentile": 4.8,
-      "runs_percentile": 19.9,
-      "likes_percentile": 55.5
+      "views_percentile": 4.5,
+      "runs_percentile": 19.2,
+      "likes_percentile": 73.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 34,
+    "days_tracked": 35,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 33,
+    "days_tracked": 34,
     "last_7_days": {
-      "views_rank_change": 3,
-      "runs_rank_change": 2,
-      "likes_rank_change": -58
+      "views_rank_change": 4,
+      "runs_rank_change": 4,
+      "likes_rank_change": -110
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 35,
+      "runs_rank_change": 34,
+      "likes_rank_change": -81
     },
     "all_time": {
       "best_views_rank": 244,
@@ -47,14 +47,14 @@
       "best_likes_rank": 76,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 278
+      "current_rank": 279
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 34,
+    "data_points": 35,
     "first_recorded": "2025-12-13T08:00:26.854786",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-12-13T08:00:26.854786",
@@ -90,7 +90,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -126,7 +127,8 @@
         274,
         275,
         275,
-        278
+        278,
+        279
       ],
       "runs_rank": [
         null,
@@ -162,7 +164,8 @@
         232,
         232,
         232,
-        234
+        234,
+        236
       ],
       "likes_rank": [
         null,
@@ -198,7 +201,8 @@
         188,
         190,
         203,
-        130
+        130,
+        78
       ]
     }
   },
@@ -215,9 +219,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #278 out of 292 active agents."
+      "type": "warning",
+      "title": "Declining Ranking",
+      "description": "Dropped 35 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

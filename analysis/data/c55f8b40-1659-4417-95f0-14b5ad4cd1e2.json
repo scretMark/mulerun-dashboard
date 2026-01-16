@@ -1,6 +1,6 @@
 {
   "agent_id": "c55f8b40-1659-4417-95f0-14b5ad4cd1e2",
-  "generated_at": "2026-01-15T00:01:22.131964",
+  "generated_at": "2026-01-16T00:01:20.042773",
   "basic_info": {
     "title": "FreeAI Builder",
     "author": "li_alan7qd",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-24T00:43:06.317000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@li_alan7qd/freeai-builder",
-    "days_since_published": 21
+    "days_since_published": 22
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 170,
       "runs_rank": 98,
-      "likes_rank": 150,
+      "likes_rank": 209,
       "total_agents": 292,
       "views_percentile": 41.8,
       "runs_percentile": 66.4,
-      "likes_percentile": 48.6
+      "likes_percentile": 28.4
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 16,
+    "days_tracked": 17,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 19,
+    "days_tracked": 20,
     "last_7_days": {
       "views_rank_change": -7,
       "runs_rank_change": -4,
-      "likes_rank_change": 47
+      "likes_rank_change": 106
     },
     "last_30_days": {
       "views_rank_change": -43,
       "runs_rank_change": -29,
-      "likes_rank_change": 137
+      "likes_rank_change": 196
     },
     "all_time": {
       "best_views_rank": 170,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 17,
+    "data_points": 18,
     "first_recorded": "2025-12-27T08:01:00.423663",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-12-27T08:01:00.423663",
@@ -73,7 +73,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         213,
@@ -92,6 +93,7 @@
         176,
         177,
         171,
+        170,
         170
       ],
       "runs_rank": [
@@ -110,6 +112,7 @@
         102,
         101,
         101,
+        98,
         98,
         98
       ],
@@ -130,7 +133,8 @@
         102,
         104,
         120,
-        150
+        150,
+        209
       ]
     }
   },

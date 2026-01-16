@@ -1,6 +1,6 @@
 {
   "agent_id": "4f4a42b9-7895-4b4b-97a4-ef96cf8dcdcd",
-  "generated_at": "2026-01-15T00:01:19.690896",
+  "generated_at": "2026-01-16T00:01:17.778262",
   "basic_info": {
     "title": "YouTube All Languages Subtitles",
     "author": "Darren",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-10T20:41:02.236000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/youtube-all-languages-subtitles",
-    "days_since_published": 96
+    "days_since_published": 97
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 166,
       "runs_rank": 205,
-      "likes_rank": 252,
+      "likes_rank": 284,
       "total_agents": 292,
       "views_percentile": 43.2,
       "runs_percentile": 29.8,
-      "likes_percentile": 13.7
+      "likes_percentile": 2.7
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 91,
+    "days_tracked": 92,
     "price": 38.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 4,
-      "likes_rank_change": -20
+      "likes_rank_change": 12
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 13,
+      "runs_rank_change": 25,
+      "likes_rank_change": 208
     },
     "all_time": {
       "best_views_rank": 153,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -113,7 +113,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -172,6 +173,7 @@
         165,
         166,
         167,
+        166,
         166
       ],
       "runs_rank": [
@@ -231,6 +233,7 @@
         202,
         204,
         204,
+        205,
         205
       ],
       "likes_rank": [
@@ -290,7 +293,8 @@
         272,
         275,
         274,
-        252
+        252,
+        284
       ]
     }
   },
@@ -300,9 +304,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #166 out of 292 active agents."
+      "type": "warning",
+      "title": "Declining Ranking",
+      "description": "Dropped 13 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

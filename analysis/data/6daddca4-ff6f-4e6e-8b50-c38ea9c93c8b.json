@@ -1,6 +1,6 @@
 {
   "agent_id": "6daddca4-ff6f-4e6e-8b50-c38ea9c93c8b",
-  "generated_at": "2026-01-15T00:01:20.898598",
+  "generated_at": "2026-01-16T00:01:18.951530",
   "basic_info": {
     "title": "Movie Poster Design",
     "author": "summerail",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-12T14:14:16.439000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/movie-poster-design",
-    "days_since_published": 94
+    "days_since_published": 95
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 162,
       "runs_rank": 141,
-      "likes_rank": 168,
+      "likes_rank": 108,
       "total_agents": 292,
       "views_percentile": 44.5,
       "runs_percentile": 51.7,
-      "likes_percentile": 42.5
+      "likes_percentile": 63.0
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 86,
+    "days_tracked": 87,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
       "views_rank_change": 3,
       "runs_rank_change": 1,
-      "likes_rank_change": -79
+      "likes_rank_change": -139
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 12,
+      "runs_rank_change": 15,
+      "likes_rank_change": 104
     },
     "all_time": {
       "best_views_rank": 150,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -113,7 +113,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -172,6 +173,7 @@
         159,
         161,
         161,
+        162,
         162
       ],
       "runs_rank": [
@@ -229,6 +231,7 @@
         140,
         140,
         140,
+        141,
         141,
         141,
         141
@@ -290,7 +293,8 @@
         247,
         249,
         253,
-        168
+        168,
+        108
       ]
     }
   },
@@ -300,9 +304,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #162 out of 292 active agents."
+      "type": "warning",
+      "title": "Declining Ranking",
+      "description": "Dropped 12 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

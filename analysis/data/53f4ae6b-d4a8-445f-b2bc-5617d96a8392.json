@@ -1,6 +1,6 @@
 {
   "agent_id": "53f4ae6b-d4a8-445f-b2bc-5617d96a8392",
-  "generated_at": "2026-01-15T00:01:19.644579",
+  "generated_at": "2026-01-16T00:01:17.734276",
   "basic_info": {
     "title": "Illustrate Mind Spark to Social",
     "author": "Rhino",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-15T13:01:39.091000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Rhino/illustrate-mind-spark-to-social",
-    "days_since_published": 121
+    "days_since_published": 122
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 69,
+      "views_rank": 68,
       "runs_rank": 73,
-      "likes_rank": 71,
+      "likes_rank": 206,
       "total_agents": 292,
-      "views_percentile": 76.4,
+      "views_percentile": 76.7,
       "runs_percentile": 75.0,
-      "likes_percentile": 75.7
+      "likes_percentile": 29.5
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 117,
+    "days_tracked": 118,
     "price": 8.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
-      "views_rank_change": 2,
+      "views_rank_change": 1,
       "runs_rank_change": 0,
-      "likes_rank_change": -92
+      "likes_rank_change": 43
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 4,
+      "runs_rank_change": 4,
+      "likes_rank_change": 64
     },
     "all_time": {
       "best_views_rank": 63,
@@ -47,14 +47,14 @@
       "best_likes_rank": 57,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 69
+      "current_rank": 68
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -113,7 +113,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -172,7 +173,8 @@
         67,
         68,
         68,
-        69
+        69,
+        68
       ],
       "runs_rank": [
         null,
@@ -225,6 +227,7 @@
         72,
         72,
         72,
+        73,
         73,
         73,
         73,
@@ -290,7 +293,8 @@
         163,
         171,
         135,
-        71
+        71,
+        206
       ]
     }
   },
@@ -302,7 +306,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #69 out of 292 active agents."
+      "description": "This agent is currently ranked #68 out of 292 active agents."
     }
   ]
 }

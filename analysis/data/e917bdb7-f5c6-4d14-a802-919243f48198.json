@@ -1,6 +1,6 @@
 {
   "agent_id": "e917bdb7-f5c6-4d14-a802-919243f48198",
-  "generated_at": "2026-01-15T00:01:20.554145",
+  "generated_at": "2026-01-16T00:01:18.616754",
   "basic_info": {
     "title": "Pet Art Photo Studio",
     "author": "whosyourdaddcdw",
@@ -11,50 +11,50 @@
     "published_at": "2025-09-30T22:42:02.887000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@whosyourdaddcdw/pet-art-photo-studio",
-    "days_since_published": 106
+    "days_since_published": 107
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 107,
-      "runs_rank": 108,
-      "likes_rank": 154,
+      "views_rank": 108,
+      "runs_rank": 109,
+      "likes_rank": 98,
       "total_agents": 292,
-      "views_percentile": 63.4,
-      "runs_percentile": 63.0,
-      "likes_percentile": 47.3
+      "views_percentile": 63.0,
+      "runs_percentile": 62.7,
+      "likes_percentile": 66.4
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 99,
+    "days_tracked": 100,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": 1,
-      "likes_rank_change": -68
+      "views_rank_change": 2,
+      "runs_rank_change": 2,
+      "likes_rank_change": -124
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 14,
+      "runs_rank_change": 9,
+      "likes_rank_change": -76
     },
     "all_time": {
       "best_views_rank": 94,
       "best_runs_rank": 100,
-      "best_likes_rank": 125,
+      "best_likes_rank": 98,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 107
+      "current_rank": 108
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -113,7 +113,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -172,7 +173,8 @@
         107,
         108,
         107,
-        107
+        107,
+        108
       ],
       "runs_rank": [
         null,
@@ -231,7 +233,8 @@
         108,
         108,
         108,
-        108
+        108,
+        109
       ],
       "likes_rank": [
         null,
@@ -290,7 +293,8 @@
         222,
         224,
         232,
-        154
+        154,
+        98
       ]
     }
   },
@@ -300,9 +304,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #107 out of 292 active agents."
+      "type": "warning",
+      "title": "Declining Ranking",
+      "description": "Dropped 14 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

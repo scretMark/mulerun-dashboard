@@ -1,6 +1,6 @@
 {
   "agent_id": "e3f4d21e-15a3-4e46-b199-24b8d5b4aedc",
-  "generated_at": "2026-01-15T00:01:19.724994",
+  "generated_at": "2026-01-16T00:01:17.811378",
   "basic_info": {
     "title": "CookChina AI",
     "author": "Chelestebbb0829",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-17T15:00:54.510000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Chelestebbb0829/cookchina-ai",
-    "days_since_published": 89
+    "days_since_published": 90
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 17,
       "runs_rank": 40,
-      "likes_rank": 244,
+      "likes_rank": 257,
       "total_agents": 292,
       "views_percentile": 94.2,
       "runs_percentile": 86.3,
-      "likes_percentile": 16.4
+      "likes_percentile": 12.0
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 84,
+    "days_tracked": 85,
     "price": 2.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": 65
+      "likes_rank_change": 78
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 2,
+      "runs_rank_change": 2,
+      "likes_rank_change": 233
     },
     "all_time": {
       "best_views_rank": 15,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -113,7 +113,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -156,6 +157,7 @@
         16,
         16,
         16,
+        17,
         17,
         17,
         17,
@@ -231,6 +233,7 @@
         40,
         40,
         40,
+        40,
         40
       ],
       "likes_rank": [
@@ -290,7 +293,8 @@
         182,
         185,
         196,
-        244
+        244,
+        257
       ]
     }
   },

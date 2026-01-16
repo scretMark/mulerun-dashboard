@@ -1,6 +1,6 @@
 {
   "agent_id": "2e56af6b-daa5-464e-9adc-bcd8c95b8972",
-  "generated_at": "2026-01-15T00:01:20.462846",
+  "generated_at": "2026-01-16T00:01:18.518391",
   "basic_info": {
     "title": "Realistic 3D Figure",
     "author": "Darren",
@@ -11,40 +11,40 @@
     "published_at": "2025-10-20T11:34:13.892000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/realistic-3d-figure",
-    "days_since_published": 86
+    "days_since_published": 87
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 83,
       "runs_rank": 87,
-      "likes_rank": 254,
+      "likes_rank": 141,
       "total_agents": 292,
       "views_percentile": 71.6,
       "runs_percentile": 70.2,
-      "likes_percentile": 13.0
+      "likes_percentile": 51.7
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 84,
+    "days_tracked": 85,
     "price": 51.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 2,
-      "likes_rank_change": -25
+      "likes_rank_change": -138
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 5,
+      "runs_rank_change": 7,
+      "likes_rank_change": -19
     },
     "all_time": {
       "best_views_rank": 78,
       "best_runs_rank": 79,
-      "best_likes_rank": 153,
+      "best_likes_rank": 141,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 83
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -113,7 +113,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -159,6 +160,7 @@
         82,
         82,
         82,
+        83,
         83,
         83,
         83,
@@ -231,6 +233,7 @@
         86,
         86,
         87,
+        87,
         87
       ],
       "likes_rank": [
@@ -290,7 +293,8 @@
         278,
         279,
         280,
-        254
+        254,
+        141
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "aa47ba50-fb43-4a77-bab1-669c55d6305f",
-  "generated_at": "2026-01-15T00:01:20.422892",
+  "generated_at": "2026-01-16T00:01:18.485314",
   "basic_info": {
     "title": "Pet Star 9-Grid",
     "author": "LinkAIBrain",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-18T17:03:07.430000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/pet-star-9-grid",
-    "days_since_published": 118
+    "days_since_published": 119
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 68,
+      "views_rank": 69,
       "runs_rank": 117,
-      "likes_rank": 176,
+      "likes_rank": 112,
       "total_agents": 292,
-      "views_percentile": 76.7,
+      "views_percentile": 76.4,
       "runs_percentile": 59.9,
-      "likes_percentile": 39.7
+      "likes_percentile": 61.6
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 118,
+    "days_tracked": 119,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
-      "views_rank_change": 2,
+      "views_rank_change": 3,
       "runs_rank_change": 1,
-      "likes_rank_change": -80
+      "likes_rank_change": -144
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 7,
+      "runs_rank_change": 8,
+      "likes_rank_change": 48
     },
     "all_time": {
       "best_views_rank": 61,
@@ -47,14 +47,14 @@
       "best_likes_rank": 64,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 68
+      "current_rank": 69
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -113,7 +113,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -172,7 +173,8 @@
         66,
         67,
         67,
-        68
+        68,
+        69
       ],
       "runs_rank": [
         null,
@@ -230,6 +232,7 @@
         116,
         116,
         116,
+        117,
         117,
         117
       ],
@@ -290,7 +293,8 @@
         257,
         257,
         263,
-        176
+        176,
+        112
       ]
     }
   },
@@ -302,7 +306,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #68 out of 292 active agents."
+      "description": "This agent is currently ranked #69 out of 292 active agents."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "c16d3179-561b-4c4c-8fca-632da002faad",
-  "generated_at": "2026-01-15T00:01:19.390203",
+  "generated_at": "2026-01-16T00:01:17.431904",
   "basic_info": {
     "title": "A nine-grid of headshots",
     "author": "laughing_code",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-28T13:13:34.793000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@laughing_code/a-nine-grid-of-headshots",
-    "days_since_published": 108
+    "days_since_published": 109
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 63,
       "runs_rank": 68,
-      "likes_rank": 103,
+      "likes_rank": 270,
       "total_agents": 292,
       "views_percentile": 78.4,
       "runs_percentile": 76.7,
-      "likes_percentile": 64.7
+      "likes_percentile": 7.5
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 108,
+    "days_tracked": 109,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 1,
-      "likes_rank_change": 77
+      "likes_rank_change": 244
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 5,
+      "runs_rank_change": 3,
+      "likes_rank_change": 34
     },
     "all_time": {
       "best_views_rank": 58,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -113,7 +113,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -165,6 +166,7 @@
         62,
         62,
         62,
+        63,
         63,
         63,
         63,
@@ -231,6 +233,7 @@
         67,
         67,
         68,
+        68,
         68
       ],
       "likes_rank": [
@@ -290,7 +293,8 @@
         26,
         27,
         41,
-        103
+        103,
+        270
       ]
     }
   },

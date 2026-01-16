@@ -1,6 +1,6 @@
 {
   "agent_id": "a81c11a0-b414-44cb-a449-c5d1e43ed341",
-  "generated_at": "2026-01-15T00:01:20.595141",
+  "generated_at": "2026-01-16T00:01:18.658877",
   "basic_info": {
     "title": "HallowMe",
     "author": "DENNIS",
@@ -11,40 +11,40 @@
     "published_at": "2025-10-31T15:15:17.615000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@DENNIS/hallowme",
-    "days_since_published": 75
+    "days_since_published": 76
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 112,
-      "runs_rank": 119,
-      "likes_rank": 161,
+      "runs_rank": 120,
+      "likes_rank": 103,
       "total_agents": 292,
       "views_percentile": 61.6,
-      "runs_percentile": 59.2,
-      "likes_percentile": 44.9
+      "runs_percentile": 58.9,
+      "likes_percentile": 64.7
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 77,
+    "days_tracked": 78,
     "price": 150.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 1,
-      "likes_rank_change": -77
+      "runs_rank_change": 2,
+      "likes_rank_change": -135
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 9,
+      "runs_rank_change": 9,
+      "likes_rank_change": -7
     },
     "all_time": {
       "best_views_rank": 102,
       "best_runs_rank": 110,
-      "best_likes_rank": 106,
+      "best_likes_rank": 103,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 112
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -113,7 +113,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -166,6 +167,7 @@
         109,
         110,
         111,
+        112,
         112,
         112,
         112,
@@ -231,7 +233,8 @@
         118,
         118,
         119,
-        119
+        119,
+        120
       ],
       "likes_rank": [
         null,
@@ -290,7 +293,8 @@
         237,
         239,
         246,
-        161
+        161,
+        103
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "0c942f9e-7778-4c8b-b5fc-ca762e9f8466",
-  "generated_at": "2026-01-15T00:01:20.979612",
+  "generated_at": "2026-01-16T00:01:19.029716",
   "basic_info": {
     "title": "Do Not Open",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-15T13:43:55.792000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/do-not-open",
-    "days_since_published": 91
+    "days_since_published": 92
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 195,
+      "views_rank": 196,
       "runs_rank": 196,
-      "likes_rank": 178,
+      "likes_rank": 114,
       "total_agents": 292,
-      "views_percentile": 33.2,
+      "views_percentile": 32.9,
       "runs_percentile": 32.9,
-      "likes_percentile": 39.0
+      "likes_percentile": 61.0
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 79,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 80,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
-      "views_rank_change": 2,
+      "views_rank_change": 3,
       "runs_rank_change": 5,
-      "likes_rank_change": -81
+      "likes_rank_change": -145
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 17,
+      "runs_rank_change": 29,
+      "likes_rank_change": 75
     },
     "all_time": {
       "best_views_rank": 179,
@@ -47,14 +47,14 @@
       "best_likes_rank": 39,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 195
+      "current_rank": 196
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -113,7 +113,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -172,7 +173,8 @@
         193,
         194,
         194,
-        195
+        195,
+        196
       ],
       "runs_rank": [
         null,
@@ -231,6 +233,7 @@
         193,
         194,
         195,
+        196,
         196
       ],
       "likes_rank": [
@@ -290,7 +293,8 @@
         260,
         263,
         265,
-        178
+        178,
+        114
       ]
     }
   },
@@ -300,9 +304,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #195 out of 292 active agents."
+      "type": "warning",
+      "title": "Declining Ranking",
+      "description": "Dropped 17 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

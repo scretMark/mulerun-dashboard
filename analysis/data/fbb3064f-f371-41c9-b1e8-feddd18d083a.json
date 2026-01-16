@@ -1,6 +1,6 @@
 {
   "agent_id": "fbb3064f-f371-41c9-b1e8-feddd18d083a",
-  "generated_at": "2026-01-15T00:01:21.014410",
+  "generated_at": "2026-01-16T00:01:19.052370",
   "basic_info": {
     "title": "Nobelize Me",
     "author": "Aichimp",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-10T13:13:16.209000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aichimp/nobelize-me",
-    "days_since_published": 96
+    "days_since_published": 97
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 196,
-      "runs_rank": 227,
-      "likes_rank": 189,
+      "views_rank": 197,
+      "runs_rank": 228,
+      "likes_rank": 119,
       "total_agents": 292,
-      "views_percentile": 32.9,
-      "runs_percentile": 22.3,
-      "likes_percentile": 35.3
+      "views_percentile": 32.5,
+      "runs_percentile": 21.9,
+      "likes_percentile": 59.2
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 79,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 80,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": 2,
-      "likes_rank_change": -82
+      "views_rank_change": 2,
+      "runs_rank_change": 3,
+      "likes_rank_change": -152
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 14,
+      "runs_rank_change": 30,
+      "likes_rank_change": 81
     },
     "all_time": {
       "best_views_rank": 182,
@@ -47,14 +47,14 @@
       "best_likes_rank": 38,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 196
+      "current_rank": 197
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -113,7 +113,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -172,7 +173,8 @@
         195,
         196,
         196,
-        196
+        196,
+        197
       ],
       "runs_rank": [
         null,
@@ -231,7 +233,8 @@
         225,
         225,
         225,
-        227
+        227,
+        228
       ],
       "likes_rank": [
         null,
@@ -290,7 +293,8 @@
         270,
         273,
         275,
-        189
+        189,
+        119
       ]
     }
   },
@@ -300,9 +304,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #196 out of 292 active agents."
+      "type": "warning",
+      "title": "Declining Ranking",
+      "description": "Dropped 14 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

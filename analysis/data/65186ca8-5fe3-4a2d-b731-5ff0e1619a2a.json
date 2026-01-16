@@ -1,6 +1,6 @@
 {
   "agent_id": "65186ca8-5fe3-4a2d-b731-5ff0e1619a2a",
-  "generated_at": "2026-01-15T00:01:19.599058",
+  "generated_at": "2026-01-16T00:01:17.689387",
   "basic_info": {
     "title": "ID Card Photo by nano banana",
     "author": "DENNIS",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-28T12:05:04.905000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@DENNIS/id-card-photo-by-nano-banana",
-    "days_since_published": 108
+    "days_since_published": 109
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 115,
-      "runs_rank": 149,
-      "likes_rank": 107,
+      "runs_rank": 150,
+      "likes_rank": 202,
       "total_agents": 292,
       "views_percentile": 60.6,
-      "runs_percentile": 49.0,
-      "likes_percentile": 63.4
+      "runs_percentile": 48.6,
+      "likes_percentile": 30.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 84,
+    "days_tracked": 85,
     "price": 35.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
       "views_rank_change": -1,
-      "runs_rank_change": 3,
-      "likes_rank_change": 8
+      "runs_rank_change": 4,
+      "likes_rank_change": 103
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 4,
+      "runs_rank_change": 13,
+      "likes_rank_change": 123
     },
     "all_time": {
       "best_views_rank": 110,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -113,7 +113,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -172,6 +173,7 @@
         116,
         116,
         116,
+        115,
         115
       ],
       "runs_rank": [
@@ -231,7 +233,8 @@
         146,
         147,
         148,
-        149
+        149,
+        150
       ],
       "likes_rank": [
         null,
@@ -290,7 +293,8 @@
         99,
         99,
         113,
-        107
+        107,
+        202
       ]
     }
   },

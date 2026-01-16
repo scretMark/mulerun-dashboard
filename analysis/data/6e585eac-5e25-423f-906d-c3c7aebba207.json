@@ -1,6 +1,6 @@
 {
   "agent_id": "6e585eac-5e25-423f-906d-c3c7aebba207",
-  "generated_at": "2026-01-15T00:01:20.122068",
+  "generated_at": "2026-01-16T00:01:18.205546",
   "basic_info": {
     "title": "AI Car Wrap Color Change",
     "author": "Jayden",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-10T10:31:34.514000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Jayden/ai-car-wrap-color-change",
-    "days_since_published": 65
+    "days_since_published": 66
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 149,
       "runs_rank": 160,
-      "likes_rank": 227,
+      "likes_rank": 139,
       "total_agents": 292,
       "views_percentile": 49.0,
       "runs_percentile": 45.2,
-      "likes_percentile": 22.3
+      "likes_percentile": 52.4
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 68,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 69,
     "price": 69.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 4,
-      "likes_rank_change": 200
+      "likes_rank_change": 112
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 6,
+      "runs_rank_change": 20,
+      "likes_rank_change": -63
     },
     "all_time": {
       "best_views_rank": 142,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -113,7 +113,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -168,6 +169,7 @@
         148,
         148,
         148,
+        149,
         149,
         149,
         149,
@@ -231,6 +233,7 @@
         157,
         158,
         159,
+        160,
         160
       ],
       "likes_rank": [
@@ -290,7 +293,8 @@
         27,
         28,
         20,
-        227
+        227,
+        139
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "9a5db4d2-af15-4f22-a113-7f6729247773",
-  "generated_at": "2026-01-15T00:01:22.007401",
+  "generated_at": "2026-01-16T00:01:19.921387",
   "basic_info": {
     "title": "Hand-Drawn Santa Me",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-22T10:20:25.768000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/hand-drawn-santa-me",
-    "days_since_published": 23
+    "days_since_published": 24
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 284,
       "runs_rank": 272,
-      "likes_rank": 127,
+      "likes_rank": 75,
       "total_agents": 292,
       "views_percentile": 2.7,
       "runs_percentile": 6.8,
-      "likes_percentile": 56.5
+      "likes_percentile": 74.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 20,
+    "days_tracked": 21,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 23,
+    "days_tracked": 24,
     "last_7_days": {
       "views_rank_change": 5,
       "runs_rank_change": 5,
-      "likes_rank_change": -58
+      "likes_rank_change": -110
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": 27,
-      "likes_rank_change": 71
+      "likes_rank_change": 19
     },
     "all_time": {
       "best_views_rank": 270,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 21,
+    "data_points": 22,
     "first_recorded": "2025-12-23T08:00:59.635142",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-12-23T08:00:59.635142",
@@ -77,7 +77,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -100,6 +101,7 @@
         279,
         280,
         280,
+        284,
         284
       ],
       "runs_rank": [
@@ -123,6 +125,7 @@
         267,
         269,
         269,
+        272,
         272
       ],
       "likes_rank": [
@@ -146,7 +149,8 @@
         185,
         187,
         199,
-        127
+        127,
+        75
       ]
     }
   },

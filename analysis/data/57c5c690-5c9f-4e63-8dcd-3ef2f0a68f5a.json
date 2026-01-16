@@ -1,6 +1,6 @@
 {
   "agent_id": "57c5c690-5c9f-4e63-8dcd-3ef2f0a68f5a",
-  "generated_at": "2026-01-15T00:01:21.562765",
+  "generated_at": "2026-01-16T00:01:19.528808",
   "basic_info": {
     "title": "Christmas card",
     "author": "pxzzf1010_cr73m",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-09T22:10:15.357000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@pxzzf1010_cr73m/christmas-card",
-    "days_since_published": 36
+    "days_since_published": 37
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 255,
-      "runs_rank": 179,
-      "likes_rank": 4,
+      "runs_rank": 181,
+      "likes_rank": 3,
       "total_agents": 292,
       "views_percentile": 12.7,
-      "runs_percentile": 38.7,
-      "likes_percentile": 98.6
+      "runs_percentile": 38.0,
+      "likes_percentile": 99.0
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 35,
+    "days_tracked": 36,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "last_7_days": {
       "views_rank_change": 2,
-      "runs_rank_change": 3,
-      "likes_rank_change": -1
+      "runs_rank_change": 5,
+      "likes_rank_change": -2
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 24,
+      "runs_rank_change": 17,
+      "likes_rank_change": -50
     },
     "all_time": {
       "best_views_rank": 230,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 35,
+    "data_points": 36,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -91,7 +91,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -128,6 +129,7 @@
         253,
         253,
         253,
+        255,
         255
       ],
       "runs_rank": [
@@ -165,7 +167,8 @@
         178,
         178,
         179,
-        179
+        179,
+        181
       ],
       "likes_rank": [
         null,
@@ -202,7 +205,8 @@
         5,
         5,
         4,
-        4
+        4,
+        3
       ]
     }
   },
@@ -221,7 +225,12 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #4 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #3 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+    },
+    {
+      "type": "warning",
+      "title": "Declining Ranking",
+      "description": "Dropped 24 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

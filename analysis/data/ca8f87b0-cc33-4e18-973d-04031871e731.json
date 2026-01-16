@@ -1,6 +1,6 @@
 {
   "agent_id": "ca8f87b0-cc33-4e18-973d-04031871e731",
-  "generated_at": "2026-01-15T00:01:18.956114",
+  "generated_at": "2026-01-16T00:01:16.942934",
   "basic_info": {
     "title": "General Browser Operator",
     "author": "Ailurus",
@@ -11,50 +11,50 @@
     "published_at": "2025-10-31T13:30:41.517000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Ailurus/general-browser-operator",
-    "days_since_published": 75
+    "days_since_published": 76
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 2,
       "runs_rank": 1,
-      "likes_rank": 276,
+      "likes_rank": 275,
       "total_agents": 292,
       "views_percentile": 99.3,
       "runs_percentile": 99.7,
-      "likes_percentile": 5.5
+      "likes_percentile": 5.8
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 88,
+    "days_tracked": 89,
     "price": 1.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 57,
+    "days_tracked": 58,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": 130
+      "likes_rank_change": 129
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": -1,
+      "runs_rank_change": 0,
+      "likes_rank_change": 38
     },
     "all_time": {
       "best_views_rank": 2,
       "best_runs_rank": 1,
       "best_likes_rank": 29,
-      "days_in_top_10": 30,
+      "days_in_top_10": 31,
       "first_rank": null,
       "current_rank": 2
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 58,
+    "data_points": 59,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -114,7 +114,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -174,6 +175,7 @@
         2,
         2,
         2,
+        2,
         2
       ],
       "runs_rank": [
@@ -205,6 +207,7 @@
         null,
         null,
         null,
+        1,
         1,
         1,
         1,
@@ -294,7 +297,8 @@
         145,
         149,
         162,
-        276
+        276,
+        275
       ]
     }
   },
@@ -316,7 +320,7 @@
     {
       "type": "positive",
       "title": "Consistent Top Performer",
-      "description": "Maintained Top 10 ranking for 30 days - showing sustained excellence and user preference."
+      "description": "Maintained Top 10 ranking for 31 days - showing sustained excellence and user preference."
     },
     {
       "type": "info",

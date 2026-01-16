@@ -1,6 +1,6 @@
 {
   "agent_id": "02e698c2-c9fa-4ad8-a303-8a2065e933dc",
-  "generated_at": "2026-01-15T00:01:22.031540",
+  "generated_at": "2026-01-16T00:01:19.946108",
   "basic_info": {
     "title": "Infinite Monkey Coder",
     "author": "Ailurus",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-23T17:18:40.559000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Ailurus/infinite-monkey-coder",
-    "days_since_published": 22
+    "days_since_published": 23
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 230,
-      "runs_rank": 255,
-      "likes_rank": 51,
+      "runs_rank": 252,
+      "likes_rank": 218,
       "total_agents": 292,
       "views_percentile": 21.2,
-      "runs_percentile": 12.7,
-      "likes_percentile": 82.5
+      "runs_percentile": 13.7,
+      "likes_percentile": 25.3
     },
-    "tier": "High",
-    "tier_class": "high",
-    "days_tracked": 19,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 20,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 22,
+    "days_tracked": 23,
     "last_7_days": {
       "views_rank_change": -5,
-      "runs_rank_change": 2,
-      "likes_rank_change": -22
+      "runs_rank_change": -1,
+      "likes_rank_change": 145
     },
     "last_30_days": {
       "views_rank_change": -19,
       "runs_rank_change": null,
-      "likes_rank_change": 38
+      "likes_rank_change": 205
     },
     "all_time": {
       "best_views_rank": 230,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 20,
+    "data_points": 21,
     "first_recorded": "2025-12-24T08:01:01.461546",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-12-24T08:01:01.461546",
@@ -76,7 +76,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         249,
@@ -97,6 +98,7 @@
         236,
         235,
         235,
+        230,
         230,
         230
       ],
@@ -120,7 +122,8 @@
         253,
         253,
         252,
-        255
+        255,
+        252
       ],
       "likes_rank": [
         13,
@@ -142,7 +145,8 @@
         73,
         74,
         98,
-        51
+        51,
+        218
       ]
     }
   },
@@ -158,11 +162,6 @@
     ]
   },
   "insights": [
-    {
-      "type": "positive",
-      "title": "High Performer",
-      "description": "Ranked #51 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
-    },
     {
       "type": "positive",
       "title": "Rising Star",

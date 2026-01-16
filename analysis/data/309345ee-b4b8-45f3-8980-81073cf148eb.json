@@ -1,6 +1,6 @@
 {
   "agent_id": "309345ee-b4b8-45f3-8980-81073cf148eb",
-  "generated_at": "2026-01-15T00:01:19.226994",
+  "generated_at": "2026-01-16T00:01:17.264393",
   "basic_info": {
     "title": "Studio Portrait",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-12T23:21:17.162000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/studio-portrait",
-    "days_since_published": 63
+    "days_since_published": 64
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 250,
+      "views_rank": 251,
       "runs_rank": 260,
-      "likes_rank": 115,
+      "likes_rank": 67,
       "total_agents": 292,
-      "views_percentile": 14.4,
+      "views_percentile": 14.0,
       "runs_percentile": 11.0,
-      "likes_percentile": 60.6
+      "likes_percentile": 77.1
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 62,
+    "days_tracked": 63,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
-      "views_rank_change": 4,
+      "views_rank_change": 5,
       "runs_rank_change": 3,
-      "likes_rank_change": -57
+      "likes_rank_change": -105
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 30,
+      "runs_rank_change": 31,
+      "likes_rank_change": 45
     },
     "all_time": {
       "best_views_rank": 220,
@@ -47,14 +47,14 @@
       "best_likes_rank": 22,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 250
+      "current_rank": 251
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -113,7 +113,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -172,7 +173,8 @@
         247,
         247,
         248,
-        250
+        250,
+        251
       ],
       "runs_rank": [
         null,
@@ -231,6 +233,7 @@
         257,
         257,
         257,
+        260,
         260
       ],
       "likes_rank": [
@@ -290,7 +293,8 @@
         172,
         174,
         185,
-        115
+        115,
+        67
       ]
     }
   },
@@ -300,9 +304,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #250 out of 292 active agents."
+      "type": "warning",
+      "title": "Declining Ranking",
+      "description": "Dropped 30 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "442fa291-4c85-425c-a9b5-2a57ff6f4c17",
-  "generated_at": "2026-01-15T00:01:19.610589",
+  "generated_at": "2026-01-16T00:01:17.700769",
   "basic_info": {
     "title": "Multilingual News Briefing",
     "author": "freeya619",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-20T10:16:06.483000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@freeya619/multilingual-news-briefing",
-    "days_since_published": 86
+    "days_since_published": 87
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 173,
-      "runs_rank": 229,
-      "likes_rank": 290,
+      "runs_rank": 231,
+      "likes_rank": 184,
       "total_agents": 292,
       "views_percentile": 40.8,
-      "runs_percentile": 21.6,
-      "likes_percentile": 0.7
+      "runs_percentile": 20.9,
+      "likes_percentile": 37.0
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 86,
+    "days_tracked": 87,
     "price": 6.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 2,
-      "likes_rank_change": 21
+      "runs_rank_change": 4,
+      "likes_rank_change": -85
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": -2,
+      "runs_rank_change": 28,
+      "likes_rank_change": 111
     },
     "all_time": {
       "best_views_rank": 170,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -113,7 +113,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -172,6 +173,7 @@
         173,
         174,
         174,
+        173,
         173
       ],
       "runs_rank": [
@@ -231,7 +233,8 @@
         227,
         227,
         227,
-        229
+        229,
+        231
       ],
       "likes_rank": [
         null,
@@ -290,7 +293,8 @@
         269,
         272,
         133,
-        290
+        290,
+        184
       ]
     }
   },

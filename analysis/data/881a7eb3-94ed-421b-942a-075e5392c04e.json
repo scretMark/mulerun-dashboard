@@ -1,6 +1,6 @@
 {
   "agent_id": "881a7eb3-94ed-421b-942a-075e5392c04e",
-  "generated_at": "2026-01-15T00:01:22.167649",
+  "generated_at": "2026-01-16T00:01:20.078567",
   "basic_info": {
     "title": "Kitchen Shuffle",
     "author": "nzwhouxvbbb094f",
@@ -11,40 +11,40 @@
     "published_at": "2025-12-25T16:03:11.023000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@nzwhouxvbbb094f/kitchen-shuffle",
-    "days_since_published": 20
+    "days_since_published": 21
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 285,
       "runs_rank": 274,
-      "likes_rank": 13,
+      "likes_rank": 10,
       "total_agents": 292,
       "views_percentile": 2.4,
       "runs_percentile": 6.2,
-      "likes_percentile": 95.5
+      "likes_percentile": 96.6
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 16,
+    "days_tracked": 17,
     "price": 35.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 19,
+    "days_tracked": 20,
     "last_7_days": {
       "views_rank_change": 4,
       "runs_rank_change": 4,
-      "likes_rank_change": -10
+      "likes_rank_change": -13
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": -24
+      "likes_rank_change": -27
     },
     "all_time": {
       "best_views_rank": 277,
       "best_runs_rank": 263,
-      "best_likes_rank": 13,
+      "best_likes_rank": 10,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 285
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 17,
+    "data_points": 18,
     "first_recorded": "2025-12-27T08:01:00.423663",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-12-27T08:01:00.423663",
@@ -73,7 +73,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -92,6 +93,7 @@
         282,
         281,
         281,
+        285,
         285
       ],
       "runs_rank": [
@@ -111,6 +113,7 @@
         270,
         271,
         271,
+        274,
         274
       ],
       "likes_rank": [
@@ -130,7 +133,8 @@
         24,
         25,
         17,
-        13
+        13,
+        10
       ]
     }
   },
@@ -149,7 +153,7 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #13 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #10 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "0c7a08a3-95c4-4098-97ca-7e5ee20139f3",
-  "generated_at": "2026-01-15T00:01:22.373504",
+  "generated_at": "2026-01-16T00:01:20.292630",
   "basic_info": {
     "title": "Restaurant Mockups Generator",
     "author": "jackbuilds",
@@ -11,40 +11,40 @@
     "published_at": "2026-01-07T18:57:44.014000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@jackbuilds/restaurant-mockups-generator",
-    "days_since_published": 7
+    "days_since_published": 8
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 292,
       "runs_rank": 287,
-      "likes_rank": 68,
+      "likes_rank": 41,
       "total_agents": 292,
       "views_percentile": 0.0,
       "runs_percentile": 1.7,
-      "likes_percentile": 76.7
+      "likes_percentile": 86.0
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 6,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 7,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 5,
+    "days_tracked": 6,
     "last_7_days": {
       "views_rank_change": 4,
       "runs_rank_change": 4,
-      "likes_rank_change": -75
+      "likes_rank_change": -102
     },
     "last_30_days": {
       "views_rank_change": 4,
       "runs_rank_change": 4,
-      "likes_rank_change": -75
+      "likes_rank_change": -102
     },
     "all_time": {
       "best_views_rank": 286,
       "best_runs_rank": 283,
-      "best_likes_rank": 68,
+      "best_likes_rank": 41,
       "days_in_top_10": 0,
       "first_rank": 288,
       "current_rank": 292
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 6,
+    "data_points": 7,
     "first_recorded": "2026-01-10T08:01:02.077885",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2026-01-10T08:01:02.077885",
@@ -62,7 +62,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         288,
@@ -70,6 +71,7 @@
         287,
         289,
         289,
+        292,
         292
       ],
       "runs_rank": [
@@ -78,6 +80,7 @@
         283,
         284,
         284,
+        287,
         287
       ],
       "likes_rank": [
@@ -86,7 +89,8 @@
         143,
         146,
         127,
-        68
+        68,
+        41
       ]
     }
   },
@@ -103,9 +107,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #292 out of 292 active agents."
+      "type": "positive",
+      "title": "High Performer",
+      "description": "Ranked #41 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

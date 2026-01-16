@@ -1,6 +1,6 @@
 {
   "agent_id": "f842a859-225f-4fab-8b28-7c5bfd12f1c0",
-  "generated_at": "2026-01-15T00:01:20.789895",
+  "generated_at": "2026-01-16T00:01:18.856239",
   "basic_info": {
     "title": "Excuse Saviour",
     "author": "Excel",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-05T18:21:23.665000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Excel/excuse-saviour",
-    "days_since_published": 101
+    "days_since_published": 102
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 133,
-      "runs_rank": 146,
-      "likes_rank": 172,
+      "runs_rank": 147,
+      "likes_rank": 193,
       "total_agents": 292,
       "views_percentile": 54.5,
-      "runs_percentile": 50.0,
-      "likes_percentile": 41.1
+      "runs_percentile": 49.7,
+      "likes_percentile": 33.9
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 84,
+    "days_tracked": 85,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 2,
-      "likes_rank_change": -80
+      "runs_rank_change": 3,
+      "likes_rank_change": -59
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": 2,
+      "runs_rank_change": 15,
+      "likes_rank_change": -1
     },
     "all_time": {
       "best_views_rank": 128,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -113,7 +113,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -171,6 +172,7 @@
         133,
         133,
         134,
+        133,
         133,
         133
       ],
@@ -231,7 +233,8 @@
         144,
         145,
         146,
-        146
+        146,
+        147
       ],
       "likes_rank": [
         null,
@@ -290,7 +293,8 @@
         252,
         254,
         257,
-        172
+        172,
+        193
       ]
     }
   },

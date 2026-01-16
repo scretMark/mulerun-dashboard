@@ -1,6 +1,6 @@
 {
   "agent_id": "f629d272-df07-4a0c-a63c-ad809a8964fb",
-  "generated_at": "2026-01-15T00:01:21.149928",
+  "generated_at": "2026-01-16T00:01:19.165326",
   "basic_info": {
     "title": "Amazon Product SEO Research",
     "author": "createAny",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-28T21:43:09.391000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@createAny/amazon-product-seo-research",
-    "days_since_published": 78
+    "days_since_published": 79
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 176,
       "runs_rank": 189,
-      "likes_rank": 208,
+      "likes_rank": 130,
       "total_agents": 292,
       "views_percentile": 39.7,
       "runs_percentile": 35.3,
-      "likes_percentile": 28.8
+      "likes_percentile": 55.5
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 79,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 80,
     "price": 99.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
       "views_rank_change": -4,
       "runs_rank_change": -3,
-      "likes_rank_change": 94
+      "likes_rank_change": 16
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": null
+      "views_rank_change": -12,
+      "runs_rank_change": 3,
+      "likes_rank_change": -94
     },
     "all_time": {
       "best_views_rank": 176,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-15T08:01:02.601407",
+    "last_recorded": "2026-01-16T08:01:10.137236",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -113,7 +113,8 @@
         "2026-01-12T08:01:01.294614",
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
-        "2026-01-15T08:01:02.601407"
+        "2026-01-15T08:01:02.601407",
+        "2026-01-16T08:01:10.137236"
       ],
       "views_rank": [
         null,
@@ -170,6 +171,7 @@
         180,
         181,
         181,
+        176,
         176,
         176,
         176
@@ -231,6 +233,7 @@
         194,
         187,
         188,
+        189,
         189
       ],
       "likes_rank": [
@@ -290,7 +293,8 @@
         113,
         119,
         146,
-        208
+        208,
+        130
       ]
     }
   },
@@ -300,9 +304,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #176 out of 292 active agents."
+      "type": "positive",
+      "title": "Rising Star",
+      "description": "Improved by 12 positions in views ranking over the last 30 days - showing strong momentum!"
     }
   ]
 }
