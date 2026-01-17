@@ -1,6 +1,6 @@
 {
   "agent_id": "54a4873e-385b-4f10-931a-902d98e40bd3",
-  "generated_at": "2026-01-16T00:01:19.096914",
+  "generated_at": "2026-01-17T00:01:14.864721",
   "basic_info": {
     "title": "Teams Calling AI Advisor",
     "author": "xnexpstwmg34pd3",
@@ -11,50 +11,50 @@
     "published_at": "2025-10-20T19:29:02.092000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@xnexpstwmg34pd3/teams-calling-ai-advisor",
-    "days_since_published": 87
+    "days_since_published": 88
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 220,
+      "views_rank": 223,
       "runs_rank": 255,
-      "likes_rank": 94,
+      "likes_rank": 67,
       "total_agents": 292,
-      "views_percentile": 24.7,
+      "views_percentile": 23.6,
       "runs_percentile": 12.7,
-      "likes_percentile": 67.8
+      "likes_percentile": 77.1
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 84,
+    "days_tracked": 85,
     "price": 5.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 57,
+    "days_tracked": 58,
     "last_7_days": {
-      "views_rank_change": 3,
+      "views_rank_change": 6,
       "runs_rank_change": 4,
-      "likes_rank_change": -122
+      "likes_rank_change": -149
     },
     "last_30_days": {
       "views_rank_change": 22,
-      "runs_rank_change": 31,
-      "likes_rank_change": -151
+      "runs_rank_change": 30,
+      "likes_rank_change": -21
     },
     "all_time": {
       "best_views_rank": 198,
       "best_runs_rank": 224,
-      "best_likes_rank": 84,
+      "best_likes_rank": 67,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 220
+      "current_rank": 223
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 58,
+    "data_points": 59,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-16T08:01:10.137236",
+    "last_recorded": "2026-01-17T08:01:02.724830",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -114,7 +114,8 @@
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
-        "2026-01-16T08:01:10.137236"
+        "2026-01-16T08:01:10.137236",
+        "2026-01-17T08:01:02.724830"
       ],
       "views_rank": [
         null,
@@ -174,7 +175,8 @@
         218,
         218,
         219,
-        220
+        220,
+        223
       ],
       "runs_rank": [
         null,
@@ -234,6 +236,7 @@
         251,
         251,
         254,
+        255,
         255
       ],
       "likes_rank": [
@@ -294,7 +297,8 @@
         218,
         227,
         147,
-        94
+        94,
+        67
       ]
     }
   },

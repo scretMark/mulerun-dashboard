@@ -1,6 +1,6 @@
 {
   "agent_id": "c02c83d4-a483-45cb-be07-32b755d60355",
-  "generated_at": "2026-01-16T00:01:19.308461",
+  "generated_at": "2026-01-17T00:01:15.115186",
   "basic_info": {
     "title": "Zootopia Selfie-You Nick and Judy",
     "author": "Matt",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-03T10:40:10.086000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Matt/zootopia-selfie-you-nick-and-judy",
-    "days_since_published": 43
+    "days_since_published": 44
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 233,
       "runs_rank": 193,
-      "likes_rank": 222,
+      "likes_rank": 122,
       "total_agents": 292,
       "views_percentile": 20.2,
       "runs_percentile": 33.9,
-      "likes_percentile": 24.0
+      "likes_percentile": 58.2
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 44,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 45,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 38,
+    "days_tracked": 39,
     "last_7_days": {
       "views_rank_change": 6,
-      "runs_rank_change": 5,
-      "likes_rank_change": 48
+      "runs_rank_change": 4,
+      "likes_rank_change": -52
     },
     "last_30_days": {
-      "views_rank_change": 22,
-      "runs_rank_change": 22,
-      "likes_rank_change": 5
+      "views_rank_change": 20,
+      "runs_rank_change": 26,
+      "likes_rank_change": 106
     },
     "all_time": {
       "best_views_rank": 210,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 41,
+    "data_points": 42,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2026-01-16T08:01:10.137236",
+    "last_recorded": "2026-01-17T08:01:02.724830",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -97,7 +97,8 @@
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
-        "2026-01-16T08:01:10.137236"
+        "2026-01-16T08:01:10.137236",
+        "2026-01-17T08:01:02.724830"
       ],
       "views_rank": [
         null,
@@ -140,6 +141,7 @@
         230,
         231,
         231,
+        233,
         233
       ],
       "runs_rank": [
@@ -182,6 +184,7 @@
         190,
         191,
         192,
+        193,
         193,
         193
       ],
@@ -226,7 +229,8 @@
         176,
         188,
         120,
-        222
+        222,
+        122
       ]
     }
   },
@@ -245,7 +249,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 22 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 20 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

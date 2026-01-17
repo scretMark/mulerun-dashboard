@@ -1,6 +1,6 @@
 {
   "agent_id": "65ab6667-615b-42c2-a1b8-a90848db7493",
-  "generated_at": "2026-01-16T00:01:19.610654",
+  "generated_at": "2026-01-17T00:01:15.413236",
   "basic_info": {
     "title": "Generate vintage-style old photo",
     "author": "8bit",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-10T17:29:24.993000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/generate-vintage-style-old-photo",
-    "days_since_published": 36
+    "days_since_published": 37
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 280,
       "runs_rank": 253,
-      "likes_rank": 66,
+      "likes_rank": 45,
       "total_agents": 292,
       "views_percentile": 4.1,
       "runs_percentile": 13.4,
-      "likes_percentile": 77.4
+      "likes_percentile": 84.6
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 36,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 37,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 35,
+    "days_tracked": 36,
     "last_7_days": {
-      "views_rank_change": 7,
+      "views_rank_change": 6,
       "runs_rank_change": 4,
-      "likes_rank_change": -105
+      "likes_rank_change": -126
     },
     "last_30_days": {
-      "views_rank_change": 37,
-      "runs_rank_change": 32,
-      "likes_rank_change": -112
+      "views_rank_change": 35,
+      "runs_rank_change": 31,
+      "likes_rank_change": 12
     },
     "all_time": {
       "best_views_rank": 243,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 36,
+    "data_points": 37,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2026-01-16T08:01:10.137236",
+    "last_recorded": "2026-01-17T08:01:02.724830",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -92,7 +92,8 @@
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
-        "2026-01-16T08:01:10.137236"
+        "2026-01-16T08:01:10.137236",
+        "2026-01-17T08:01:02.724830"
       ],
       "views_rank": [
         null,
@@ -130,6 +131,7 @@
         276,
         276,
         279,
+        280,
         280
       ],
       "runs_rank": [
@@ -168,6 +170,7 @@
         249,
         249,
         252,
+        253,
         253
       ],
       "likes_rank": [
@@ -206,7 +209,8 @@
         173,
         184,
         114,
-        66
+        66,
+        45
       ]
     }
   },
@@ -223,9 +227,14 @@
   },
   "insights": [
     {
+      "type": "positive",
+      "title": "High Performer",
+      "description": "Ranked #45 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+    },
+    {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 37 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 35 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "577765da-c912-4cc2-9dac-80d0035058ca",
-  "generated_at": "2026-01-16T00:01:19.812740",
+  "generated_at": "2026-01-17T00:01:15.624570",
   "basic_info": {
     "title": "Paper Review Agent - Universal",
     "author": "charlin",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-24T17:06:07.448000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@charlin/paper-review-agent-universal",
-    "days_since_published": 52
+    "days_since_published": 53
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 244,
-      "runs_rank": 218,
-      "likes_rank": 232,
+      "runs_rank": 219,
+      "likes_rank": 124,
       "total_agents": 292,
       "views_percentile": 16.4,
-      "runs_percentile": 25.3,
-      "likes_percentile": 20.5
+      "runs_percentile": 25.0,
+      "likes_percentile": 57.5
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 24,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 25,
     "price": 66.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 27,
+    "days_tracked": 28,
     "last_7_days": {
-      "views_rank_change": 2,
-      "runs_rank_change": -30,
-      "likes_rank_change": 21
+      "views_rank_change": 1,
+      "runs_rank_change": -29,
+      "likes_rank_change": -85
     },
     "last_30_days": {
       "views_rank_change": 10,
-      "runs_rank_change": -13,
-      "likes_rank_change": 156
+      "runs_rank_change": -12,
+      "likes_rank_change": 48
     },
     "all_time": {
       "best_views_rank": 234,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 25,
+    "data_points": 26,
     "first_recorded": "2025-12-20T08:01:00.398750",
-    "last_recorded": "2026-01-16T08:01:10.137236",
+    "last_recorded": "2026-01-17T08:01:02.724830",
     "time_series": {
       "dates": [
         "2025-12-20T08:01:00.398750",
@@ -81,7 +81,8 @@
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
-        "2026-01-16T08:01:10.137236"
+        "2026-01-16T08:01:10.137236",
+        "2026-01-17T08:01:02.724830"
       ],
       "views_rank": [
         234,
@@ -108,6 +109,7 @@
         243,
         243,
         245,
+        244,
         244
       ],
       "runs_rank": [
@@ -135,7 +137,8 @@
         248,
         248,
         251,
-        218
+        218,
+        219
       ],
       "likes_rank": [
         76,
@@ -162,7 +165,8 @@
         212,
         220,
         235,
-        232
+        232,
+        124
       ]
     }
   },
@@ -181,7 +185,7 @@
     {
       "type": "positive",
       "title": "Growing Usage",
-      "description": "Runs ranking improved by 13 positions in the last 30 days - users are actively engaging with this agent!"
+      "description": "Runs ranking improved by 12 positions in the last 30 days - users are actively engaging with this agent!"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "8bd3ff56-3c2a-4b13-aaff-071e8177fe99",
-  "generated_at": "2026-01-16T00:01:19.752368",
+  "generated_at": "2026-01-17T00:01:15.583069",
   "basic_info": {
     "title": "Super Pet Styler",
     "author": "kai_tiane5y",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-16T18:44:25.415000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@kai_tiane5y/super-pet-styler",
-    "days_since_published": 30
+    "days_since_published": 31
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 164,
+      "views_rank": 162,
       "runs_rank": 75,
-      "likes_rank": 62,
+      "likes_rank": 261,
       "total_agents": 292,
-      "views_percentile": 43.8,
+      "views_percentile": 44.5,
       "runs_percentile": 74.3,
-      "likes_percentile": 78.8
+      "likes_percentile": 10.6
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 26,
+    "days_tracked": 27,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 28,
+    "days_tracked": 29,
     "last_7_days": {
-      "views_rank_change": 2,
+      "views_rank_change": 0,
       "runs_rank_change": 1,
-      "likes_rank_change": -102
+      "likes_rank_change": 97
     },
     "last_30_days": {
-      "views_rank_change": -7,
+      "views_rank_change": -9,
       "runs_rank_change": -16,
-      "likes_rank_change": 25
+      "likes_rank_change": 224
     },
     "all_time": {
       "best_views_rank": 154,
@@ -47,14 +47,14 @@
       "best_likes_rank": 37,
       "days_in_top_10": 0,
       "first_rank": 171,
-      "current_rank": 164
+      "current_rank": 162
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 26,
+    "data_points": 27,
     "first_recorded": "2025-12-18T15:35:16.146705",
-    "last_recorded": "2026-01-16T08:01:10.137236",
+    "last_recorded": "2026-01-17T08:01:02.724830",
     "time_series": {
       "dates": [
         "2025-12-18T15:35:16.146705",
@@ -82,7 +82,8 @@
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
-        "2026-01-16T08:01:10.137236"
+        "2026-01-16T08:01:10.137236",
+        "2026-01-17T08:01:02.724830"
       ],
       "views_rank": [
         171,
@@ -110,7 +111,8 @@
         162,
         163,
         164,
-        164
+        164,
+        162
       ],
       "runs_rank": [
         91,
@@ -138,6 +140,7 @@
         74,
         74,
         74,
+        75,
         75
       ],
       "likes_rank": [
@@ -166,7 +169,8 @@
         166,
         179,
         110,
-        62
+        62,
+        261
       ]
     }
   },

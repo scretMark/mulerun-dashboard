@@ -1,6 +1,6 @@
 {
   "agent_id": "109663db-6450-4e3e-abea-147e6fdfb467",
-  "generated_at": "2026-01-16T00:01:17.978390",
+  "generated_at": "2026-01-17T00:01:13.657521",
   "basic_info": {
     "title": "Last Will - AI Deduction game",
     "author": "Losure",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-30T18:03:09.916000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Losure/last-will-ai-deduction-game",
-    "days_since_published": 77
+    "days_since_published": 78
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 23,
-      "runs_rank": 49,
-      "likes_rank": 79,
+      "runs_rank": 50,
+      "likes_rank": 237,
       "total_agents": 292,
       "views_percentile": 92.1,
-      "runs_percentile": 83.2,
-      "likes_percentile": 72.9
+      "runs_percentile": 82.9,
+      "likes_percentile": 18.8
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 90,
+    "days_tracked": 91,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 57,
+    "days_tracked": 58,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 0,
-      "likes_rank_change": -110
+      "runs_rank_change": 1,
+      "likes_rank_change": 48
     },
     "last_30_days": {
       "views_rank_change": 2,
-      "runs_rank_change": 3,
-      "likes_rank_change": -43
+      "runs_rank_change": 2,
+      "likes_rank_change": 230
     },
     "all_time": {
       "best_views_rank": 21,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 58,
+    "data_points": 59,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-16T08:01:10.137236",
+    "last_recorded": "2026-01-17T08:01:02.724830",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -114,7 +114,8 @@
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
-        "2026-01-16T08:01:10.137236"
+        "2026-01-16T08:01:10.137236",
+        "2026-01-17T08:01:02.724830"
       ],
       "views_rank": [
         null,
@@ -168,6 +169,7 @@
         22,
         22,
         22,
+        23,
         23,
         23,
         23,
@@ -234,7 +236,8 @@
         49,
         49,
         49,
-        49
+        49,
+        50
       ],
       "likes_rank": [
         null,
@@ -294,7 +297,8 @@
         191,
         202,
         131,
-        79
+        79,
+        237
       ]
     }
   },

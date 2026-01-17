@@ -1,6 +1,6 @@
 {
   "agent_id": "1dff3b84-d6e2-481f-b2c3-595c958eca48",
-  "generated_at": "2026-01-16T00:01:19.332010",
+  "generated_at": "2026-01-17T00:01:15.136224",
   "basic_info": {
     "title": "Let Zootopia",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-03T12:14:04.150000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/let-zootopia",
-    "days_since_published": 43
+    "days_since_published": 44
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 271,
       "runs_rank": 235,
-      "likes_rank": 71,
+      "likes_rank": null,
       "total_agents": 292,
       "views_percentile": 7.2,
       "runs_percentile": 19.5,
-      "likes_percentile": 75.7
+      "likes_percentile": 0
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 44,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 45,
     "price": 80.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 38,
+    "days_tracked": 39,
     "last_7_days": {
-      "views_rank_change": 3,
+      "views_rank_change": 2,
       "runs_rank_change": 4,
-      "likes_rank_change": -106
+      "likes_rank_change": null
     },
     "last_30_days": {
-      "views_rank_change": 31,
-      "runs_rank_change": 30,
-      "likes_rank_change": 64
+      "views_rank_change": 29,
+      "runs_rank_change": 29,
+      "likes_rank_change": null
     },
     "all_time": {
       "best_views_rank": 240,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 41,
+    "data_points": 42,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2026-01-16T08:01:10.137236",
+    "last_recorded": "2026-01-17T08:01:02.724830",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -97,7 +97,8 @@
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
-        "2026-01-16T08:01:10.137236"
+        "2026-01-16T08:01:10.137236",
+        "2026-01-17T08:01:02.724830"
       ],
       "views_rank": [
         null,
@@ -140,6 +141,7 @@
         269,
         270,
         270,
+        271,
         271
       ],
       "runs_rank": [
@@ -183,6 +185,7 @@
         231,
         231,
         233,
+        235,
         235
       ],
       "likes_rank": [
@@ -226,7 +229,8 @@
         179,
         191,
         119,
-        71
+        71,
+        null
       ]
     }
   },
@@ -245,7 +249,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 31 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 29 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

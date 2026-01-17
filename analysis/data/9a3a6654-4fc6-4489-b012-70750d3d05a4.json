@@ -1,6 +1,6 @@
 {
   "agent_id": "9a3a6654-4fc6-4489-b012-70750d3d05a4",
-  "generated_at": "2026-01-16T00:01:19.130647",
+  "generated_at": "2026-01-17T00:01:14.903311",
   "basic_info": {
     "title": "FrostyPunster",
     "author": "hoainamluci",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-14T00:45:06.127000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@hoainamluci/frostypunster",
-    "days_since_published": 93
+    "days_since_published": 94
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 204,
       "runs_rank": 292,
-      "likes_rank": 169,
+      "likes_rank": 103,
       "total_agents": 292,
       "views_percentile": 30.1,
       "runs_percentile": 0.0,
-      "likes_percentile": 42.1
+      "likes_percentile": 64.7
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 90,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 91,
     "price": 70.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 57,
+    "days_tracked": 58,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 4,
-      "likes_rank_change": 153
+      "likes_rank_change": 87
     },
     "last_30_days": {
-      "views_rank_change": 13,
-      "runs_rank_change": 46,
-      "likes_rank_change": 103
+      "views_rank_change": 12,
+      "runs_rank_change": 45,
+      "likes_rank_change": 18
     },
     "all_time": {
       "best_views_rank": 191,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 58,
+    "data_points": 59,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-16T08:01:10.137236",
+    "last_recorded": "2026-01-17T08:01:02.724830",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -114,7 +114,8 @@
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
-        "2026-01-16T08:01:10.137236"
+        "2026-01-16T08:01:10.137236",
+        "2026-01-17T08:01:02.724830"
       ],
       "views_rank": [
         null,
@@ -174,6 +175,7 @@
         204,
         204,
         206,
+        204,
         204
       ],
       "runs_rank": [
@@ -233,6 +235,7 @@
         288,
         289,
         289,
+        292,
         292,
         292
       ],
@@ -294,7 +297,8 @@
         17,
         12,
         10,
-        169
+        169,
+        103
       ]
     }
   },
@@ -306,7 +310,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 13 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 12 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

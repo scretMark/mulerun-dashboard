@@ -1,6 +1,6 @@
 {
   "agent_id": "659f0230-a5be-4090-88b8-6875c5199459",
-  "generated_at": "2026-01-16T00:01:18.575684",
+  "generated_at": "2026-01-17T00:01:14.283295",
   "basic_info": {
     "title": "Virtual High Five",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-05T22:47:31.583000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/virtual-high-five",
-    "days_since_published": 102
+    "days_since_published": 103
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 97,
       "runs_rank": 154,
-      "likes_rank": 272,
+      "likes_rank": 243,
       "total_agents": 292,
       "views_percentile": 66.8,
       "runs_percentile": 47.3,
-      "likes_percentile": 6.8
+      "likes_percentile": 16.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 80,
+    "days_tracked": 81,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 57,
+    "days_tracked": 58,
     "last_7_days": {
       "views_rank_change": 3,
       "runs_rank_change": 5,
-      "likes_rank_change": 175
+      "likes_rank_change": 145
     },
     "last_30_days": {
       "views_rank_change": 7,
-      "runs_rank_change": 21,
-      "likes_rank_change": 145
+      "runs_rank_change": 20,
+      "likes_rank_change": 137
     },
     "all_time": {
       "best_views_rank": 90,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 58,
+    "data_points": 59,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-16T08:01:10.137236",
+    "last_recorded": "2026-01-17T08:01:02.724830",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -114,7 +114,8 @@
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
-        "2026-01-16T08:01:10.137236"
+        "2026-01-16T08:01:10.137236",
+        "2026-01-17T08:01:02.724830"
       ],
       "views_rank": [
         null,
@@ -173,6 +174,7 @@
         94,
         95,
         95,
+        97,
         97,
         97
       ],
@@ -234,6 +236,7 @@
         151,
         152,
         152,
+        154,
         154
       ],
       "likes_rank": [
@@ -294,7 +297,8 @@
         102,
         115,
         61,
-        272
+        272,
+        243
       ]
     }
   },

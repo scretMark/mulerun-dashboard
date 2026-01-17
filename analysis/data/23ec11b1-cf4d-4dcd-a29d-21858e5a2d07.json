@@ -1,6 +1,6 @@
 {
   "agent_id": "23ec11b1-cf4d-4dcd-a29d-21858e5a2d07",
-  "generated_at": "2026-01-16T00:01:18.385278",
+  "generated_at": "2026-01-17T00:01:14.115960",
   "basic_info": {
     "title": "Decorate A Room",
     "author": "laughing_code",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-28T17:37:12.367000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@laughing_code/decorate-a-room",
-    "days_since_published": 109
+    "days_since_published": 110
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 45,
       "runs_rank": 80,
-      "likes_rank": 236,
+      "likes_rank": 127,
       "total_agents": 292,
       "views_percentile": 84.6,
       "runs_percentile": 72.6,
-      "likes_percentile": 19.2
+      "likes_percentile": 56.5
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 109,
+    "days_tracked": 110,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 57,
+    "days_tracked": 58,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 2,
-      "likes_rank_change": 207
+      "likes_rank_change": 97
     },
     "last_30_days": {
       "views_rank_change": 3,
-      "runs_rank_change": 7,
-      "likes_rank_change": 104
+      "runs_rank_change": 6,
+      "likes_rank_change": -7
     },
     "all_time": {
       "best_views_rank": 42,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 58,
+    "data_points": 59,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-16T08:01:10.137236",
+    "last_recorded": "2026-01-17T08:01:02.724830",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -114,7 +114,8 @@
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
-        "2026-01-16T08:01:10.137236"
+        "2026-01-16T08:01:10.137236",
+        "2026-01-17T08:01:02.724830"
       ],
       "views_rank": [
         null,
@@ -168,6 +169,7 @@
         44,
         44,
         44,
+        45,
         45,
         45,
         45,
@@ -234,6 +236,7 @@
         78,
         79,
         80,
+        80,
         80
       ],
       "likes_rank": [
@@ -294,7 +297,8 @@
         32,
         49,
         278,
-        236
+        236,
+        127
       ]
     }
   },

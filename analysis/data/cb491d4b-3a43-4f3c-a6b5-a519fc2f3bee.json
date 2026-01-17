@@ -1,6 +1,6 @@
 {
   "agent_id": "cb491d4b-3a43-4f3c-a6b5-a519fc2f3bee",
-  "generated_at": "2026-01-16T00:01:20.090504",
+  "generated_at": "2026-01-17T00:01:15.881669",
   "basic_info": {
     "title": "Serene Chat-Style Assessment",
     "author": "Serenetech",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-22T14:48:12.852000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Serenetech/serene-chat-style-assessment",
-    "days_since_published": 24
+    "days_since_published": 25
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 227,
+      "views_rank": 230,
       "runs_rank": 213,
-      "likes_rank": 155,
+      "likes_rank": 94,
       "total_agents": 292,
-      "views_percentile": 22.3,
+      "views_percentile": 21.2,
       "runs_percentile": 27.1,
-      "likes_percentile": 46.9
+      "likes_percentile": 67.8
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 17,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 18,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 20,
+    "days_tracked": 21,
     "last_7_days": {
-      "views_rank_change": -3,
-      "runs_rank_change": -8,
-      "likes_rank_change": 104
+      "views_rank_change": 0,
+      "runs_rank_change": -9,
+      "likes_rank_change": 43
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 96
+      "likes_rank_change": 35
     },
     "all_time": {
       "best_views_rank": 227,
@@ -47,14 +47,14 @@
       "best_likes_rank": 32,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 227
+      "current_rank": 230
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 18,
+    "data_points": 19,
     "first_recorded": "2025-12-27T08:01:00.423663",
-    "last_recorded": "2026-01-16T08:01:10.137236",
+    "last_recorded": "2026-01-17T08:01:02.724830",
     "time_series": {
       "dates": [
         "2025-12-27T08:01:00.423663",
@@ -74,7 +74,8 @@
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
-        "2026-01-16T08:01:10.137236"
+        "2026-01-16T08:01:10.137236",
+        "2026-01-17T08:01:02.724830"
       ],
       "views_rank": [
         null,
@@ -94,7 +95,8 @@
         229,
         227,
         227,
-        227
+        227,
+        230
       ],
       "runs_rank": [
         null,
@@ -114,6 +116,7 @@
         222,
         216,
         218,
+        213,
         213
       ],
       "likes_rank": [
@@ -134,7 +137,8 @@
         51,
         59,
         32,
-        155
+        155,
+        94
       ]
     }
   },
@@ -153,7 +157,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #227 out of 292 active agents."
+      "description": "This agent is currently ranked #230 out of 292 active agents."
     }
   ]
 }

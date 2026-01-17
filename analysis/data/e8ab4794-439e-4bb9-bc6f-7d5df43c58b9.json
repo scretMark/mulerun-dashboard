@@ -1,6 +1,6 @@
 {
   "agent_id": "e8ab4794-439e-4bb9-bc6f-7d5df43c58b9",
-  "generated_at": "2026-01-16T00:01:19.641943",
+  "generated_at": "2026-01-17T00:01:15.461953",
   "basic_info": {
     "title": "Navarasa Actor - The 9 Emotions Grid",
     "author": "hemanth_ching9j",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-12T01:07:30.535000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@hemanth_ching9j/navarasa-actor-the-9-emotions-grid",
-    "days_since_published": 34
+    "days_since_published": 35
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 224,
-      "runs_rank": 172,
-      "likes_rank": 38,
+      "views_rank": 226,
+      "runs_rank": 173,
+      "likes_rank": 26,
       "total_agents": 292,
-      "views_percentile": 23.3,
-      "runs_percentile": 41.1,
-      "likes_percentile": 87.0
+      "views_percentile": 22.6,
+      "runs_percentile": 40.8,
+      "likes_percentile": 91.1
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 35,
+    "days_tracked": 36,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "last_7_days": {
-      "views_rank_change": 3,
-      "runs_rank_change": 3,
-      "likes_rank_change": -64
+      "views_rank_change": 5,
+      "runs_rank_change": 2,
+      "likes_rank_change": -77
     },
     "last_30_days": {
-      "views_rank_change": 20,
-      "runs_rank_change": 3,
-      "likes_rank_change": -173
+      "views_rank_change": 21,
+      "runs_rank_change": 1,
+      "likes_rank_change": 3
     },
     "all_time": {
       "best_views_rank": 204,
@@ -47,14 +47,14 @@
       "best_likes_rank": 20,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 224
+      "current_rank": 226
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 35,
+    "data_points": 36,
     "first_recorded": "2025-12-13T08:00:26.854786",
-    "last_recorded": "2026-01-16T08:01:10.137236",
+    "last_recorded": "2026-01-17T08:01:02.724830",
     "time_series": {
       "dates": [
         "2025-12-13T08:00:26.854786",
@@ -91,7 +91,8 @@
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
-        "2026-01-16T08:01:10.137236"
+        "2026-01-16T08:01:10.137236",
+        "2026-01-17T08:01:02.724830"
       ],
       "views_rank": [
         null,
@@ -128,7 +129,8 @@
         222,
         222,
         223,
-        224
+        224,
+        226
       ],
       "runs_rank": [
         null,
@@ -165,7 +167,8 @@
         171,
         171,
         172,
-        172
+        172,
+        173
       ],
       "likes_rank": [
         null,
@@ -202,7 +205,8 @@
         105,
         117,
         62,
-        38
+        38,
+        26
       ]
     }
   },
@@ -221,12 +225,12 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #38 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #26 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     },
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 20 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 21 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "a63716fe-8230-49c7-8ea3-a9c1846e5e5c",
-  "generated_at": "2026-01-16T00:01:19.896923",
+  "generated_at": "2026-01-17T00:01:15.702450",
   "basic_info": {
     "title": "Viral Script Humanizer",
     "author": "pxzzf1010_cr73m",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-20T23:35:40.585000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@pxzzf1010_cr73m/viral-script-humanizer",
-    "days_since_published": 26
+    "days_since_published": 27
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 237,
-      "runs_rank": 191,
-      "likes_rank": 58,
+      "views_rank": 234,
+      "runs_rank": 188,
+      "likes_rank": 215,
       "total_agents": 292,
-      "views_percentile": 18.8,
-      "runs_percentile": 34.6,
-      "likes_percentile": 80.1
+      "views_percentile": 19.9,
+      "runs_percentile": 35.6,
+      "likes_percentile": 26.4
     },
-    "tier": "High",
-    "tier_class": "high",
-    "days_tracked": 21,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 22,
     "price": 15.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 24,
+    "days_tracked": 25,
     "last_7_days": {
-      "views_rank_change": 3,
-      "runs_rank_change": 5,
-      "likes_rank_change": -135
+      "views_rank_change": -1,
+      "runs_rank_change": 1,
+      "likes_rank_change": 20
     },
     "last_30_days": {
-      "views_rank_change": 3,
-      "runs_rank_change": 4,
-      "likes_rank_change": 17
+      "views_rank_change": 0,
+      "runs_rank_change": 1,
+      "likes_rank_change": 174
     },
     "all_time": {
       "best_views_rank": 234,
@@ -47,14 +47,14 @@
       "best_likes_rank": 41,
       "days_in_top_10": 0,
       "first_rank": 234,
-      "current_rank": 237
+      "current_rank": 234
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 22,
+    "data_points": 23,
     "first_recorded": "2025-12-23T08:00:59.635142",
-    "last_recorded": "2026-01-16T08:01:10.137236",
+    "last_recorded": "2026-01-17T08:01:02.724830",
     "time_series": {
       "dates": [
         "2025-12-23T08:00:59.635142",
@@ -78,7 +78,8 @@
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
-        "2026-01-16T08:01:10.137236"
+        "2026-01-16T08:01:10.137236",
+        "2026-01-17T08:01:02.724830"
       ],
       "views_rank": [
         234,
@@ -102,7 +103,8 @@
         236,
         238,
         235,
-        237
+        237,
+        234
       ],
       "runs_rank": [
         187,
@@ -126,7 +128,8 @@
         189,
         190,
         191,
-        191
+        191,
+        188
       ],
       "likes_rank": [
         41,
@@ -150,7 +153,8 @@
         197,
         207,
         99,
-        58
+        58,
+        215
       ]
     }
   },
@@ -167,9 +171,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "High Performer",
-      "description": "Ranked #58 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #234 out of 292 active agents."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "53386b62-c349-426a-8120-856f4771e8e5",
-  "generated_at": "2026-01-16T00:01:17.453924",
+  "generated_at": "2026-01-17T00:01:13.161013",
   "basic_info": {
     "title": "Multi-style Portrait Studio",
     "author": "AFei_AITalk",
@@ -11,50 +11,50 @@
     "published_at": "2025-11-10T17:34:54.782000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AFei_AITalk/multi-style-portrait-studio",
-    "days_since_published": 66
+    "days_since_published": 67
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 189,
-      "runs_rank": 116,
-      "likes_rank": 21,
+      "views_rank": 190,
+      "runs_rank": 118,
+      "likes_rank": 17,
       "total_agents": 292,
-      "views_percentile": 35.3,
-      "runs_percentile": 60.3,
-      "likes_percentile": 92.8
+      "views_percentile": 34.9,
+      "runs_percentile": 59.6,
+      "likes_percentile": 94.2
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 65,
+    "days_tracked": 66,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 57,
+    "days_tracked": 58,
     "last_7_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": 1,
-      "likes_rank_change": -10
+      "views_rank_change": 1,
+      "runs_rank_change": 3,
+      "likes_rank_change": -15
     },
     "last_30_days": {
-      "views_rank_change": 11,
+      "views_rank_change": 10,
       "runs_rank_change": 8,
-      "likes_rank_change": -143
+      "likes_rank_change": -102
     },
     "all_time": {
       "best_views_rank": 178,
       "best_runs_rank": 108,
-      "best_likes_rank": 18,
+      "best_likes_rank": 17,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 189
+      "current_rank": 190
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 58,
+    "data_points": 59,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-16T08:01:10.137236",
+    "last_recorded": "2026-01-17T08:01:02.724830",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -114,7 +114,8 @@
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
-        "2026-01-16T08:01:10.137236"
+        "2026-01-16T08:01:10.137236",
+        "2026-01-17T08:01:02.724830"
       ],
       "views_rank": [
         null,
@@ -174,7 +175,8 @@
         191,
         189,
         189,
-        189
+        189,
+        190
       ],
       "runs_rank": [
         null,
@@ -234,7 +236,8 @@
         115,
         116,
         116,
-        116
+        116,
+        118
       ],
       "likes_rank": [
         null,
@@ -294,7 +297,8 @@
         33,
         43,
         26,
-        21
+        21,
+        17
       ]
     }
   },
@@ -306,12 +310,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #21 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
-    },
-    {
-      "type": "warning",
-      "title": "Declining Ranking",
-      "description": "Dropped 11 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Ranked #17 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

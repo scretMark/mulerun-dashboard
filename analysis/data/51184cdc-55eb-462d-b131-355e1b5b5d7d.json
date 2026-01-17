@@ -1,6 +1,6 @@
 {
   "agent_id": "51184cdc-55eb-462d-b131-355e1b5b5d7d",
-  "generated_at": "2026-01-16T00:01:18.194291",
+  "generated_at": "2026-01-17T00:01:13.861399",
   "basic_info": {
     "title": "Nano Architect",
     "author": "jyvdzb224259haj",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-05T01:28:44.314000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@jyvdzb224259haj/nano-architect",
-    "days_since_published": 102
+    "days_since_published": 103
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 146,
       "runs_rank": 211,
-      "likes_rank": 196,
+      "likes_rank": 183,
       "total_agents": 292,
       "views_percentile": 50.0,
       "runs_percentile": 27.7,
-      "likes_percentile": 32.9
+      "likes_percentile": 37.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 97,
+    "days_tracked": 98,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 57,
+    "days_tracked": 58,
     "last_7_days": {
       "views_rank_change": -1,
-      "runs_rank_change": 6,
-      "likes_rank_change": -62
+      "runs_rank_change": 5,
+      "likes_rank_change": -75
     },
     "last_30_days": {
-      "views_rank_change": 10,
-      "runs_rank_change": 30,
-      "likes_rank_change": 110
+      "views_rank_change": 7,
+      "runs_rank_change": 29,
+      "likes_rank_change": 29
     },
     "all_time": {
       "best_views_rank": 136,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 58,
+    "data_points": 59,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-16T08:01:10.137236",
+    "last_recorded": "2026-01-17T08:01:02.724830",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -114,7 +114,8 @@
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
-        "2026-01-16T08:01:10.137236"
+        "2026-01-16T08:01:10.137236",
+        "2026-01-17T08:01:02.724830"
       ],
       "views_rank": [
         null,
@@ -174,6 +175,7 @@
         147,
         148,
         147,
+        146,
         146
       ],
       "runs_rank": [
@@ -234,6 +236,7 @@
         208,
         208,
         209,
+        211,
         211
       ],
       "likes_rank": [
@@ -294,7 +297,8 @@
         258,
         262,
         96,
-        196
+        196,
+        183
       ]
     }
   },

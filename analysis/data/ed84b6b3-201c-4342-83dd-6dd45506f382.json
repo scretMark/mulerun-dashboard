@@ -1,6 +1,6 @@
 {
   "agent_id": "ed84b6b3-201c-4342-83dd-6dd45506f382",
-  "generated_at": "2026-01-16T00:01:19.653571",
+  "generated_at": "2026-01-17T00:01:15.477972",
   "basic_info": {
     "title": "TableRay - DOCX Table Autofill Agent",
     "author": "kfyj16401_cr7ns",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-11T18:22:04.599000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@kfyj16401_cr7ns/tableray-docx-table-autofill-agent",
-    "days_since_published": 35
+    "days_since_published": 36
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 190,
+      "views_rank": 189,
       "runs_rank": 153,
-      "likes_rank": 128,
+      "likes_rank": 162,
       "total_agents": 292,
-      "views_percentile": 34.9,
+      "views_percentile": 35.3,
       "runs_percentile": 47.6,
-      "likes_percentile": 56.2
+      "likes_percentile": 44.5
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 35,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 36,
     "price": 100.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "last_7_days": {
-      "views_rank_change": 2,
+      "views_rank_change": 1,
       "runs_rank_change": 5,
-      "likes_rank_change": -159
+      "likes_rank_change": -125
     },
     "last_30_days": {
-      "views_rank_change": -6,
-      "runs_rank_change": -15,
-      "likes_rank_change": -100
+      "views_rank_change": -5,
+      "runs_rank_change": -6,
+      "likes_rank_change": null
     },
     "all_time": {
       "best_views_rank": 183,
@@ -47,14 +47,14 @@
       "best_likes_rank": 53,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 190
+      "current_rank": 189
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 35,
+    "data_points": 36,
     "first_recorded": "2025-12-13T08:00:26.854786",
-    "last_recorded": "2026-01-16T08:01:10.137236",
+    "last_recorded": "2026-01-17T08:01:02.724830",
     "time_series": {
       "dates": [
         "2025-12-13T08:00:26.854786",
@@ -91,7 +91,8 @@
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
-        "2026-01-16T08:01:10.137236"
+        "2026-01-16T08:01:10.137236",
+        "2026-01-17T08:01:02.724830"
       ],
       "views_rank": [
         null,
@@ -128,7 +129,8 @@
         188,
         190,
         190,
-        190
+        190,
+        189
       ],
       "runs_rank": [
         null,
@@ -165,6 +167,7 @@
         150,
         151,
         151,
+        153,
         153
       ],
       "likes_rank": [
@@ -202,7 +205,8 @@
         290,
         289,
         202,
-        128
+        128,
+        162
       ]
     }
   },
@@ -219,9 +223,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "Growing Usage",
-      "description": "Runs ranking improved by 15 positions in the last 30 days - users are actively engaging with this agent!"
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #189 out of 292 active agents."
     }
   ]
 }

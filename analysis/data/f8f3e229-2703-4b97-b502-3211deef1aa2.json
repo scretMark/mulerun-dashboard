@@ -1,6 +1,6 @@
 {
   "agent_id": "f8f3e229-2703-4b97-b502-3211deef1aa2",
-  "generated_at": "2026-01-16T00:01:17.205930",
+  "generated_at": "2026-01-17T00:01:12.902198",
   "basic_info": {
     "title": "AI Chinese Dress Try-On - Han Fu Skirt",
     "author": "Jayden",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-13T20:45:51.704000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Jayden/ai-chinese-dress-try-on-han-fu-skirt",
-    "days_since_published": 63
+    "days_since_published": 64
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 243,
       "runs_rank": 256,
-      "likes_rank": 122,
+      "likes_rank": 80,
       "total_agents": 292,
       "views_percentile": 16.8,
       "runs_percentile": 12.3,
-      "likes_percentile": 58.2
+      "likes_percentile": 72.6
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 62,
+    "days_tracked": 63,
     "price": 49.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 57,
+    "days_tracked": 58,
     "last_7_days": {
-      "views_rank_change": 5,
+      "views_rank_change": 4,
       "runs_rank_change": 4,
-      "likes_rank_change": -152
+      "likes_rank_change": -194
     },
     "last_30_days": {
-      "views_rank_change": 21,
-      "runs_rank_change": 29,
-      "likes_rank_change": 75
+      "views_rank_change": 20,
+      "runs_rank_change": 27,
+      "likes_rank_change": -98
     },
     "all_time": {
       "best_views_rank": 220,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 58,
+    "data_points": 59,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-16T08:01:10.137236",
+    "last_recorded": "2026-01-17T08:01:02.724830",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -114,7 +114,8 @@
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
-        "2026-01-16T08:01:10.137236"
+        "2026-01-16T08:01:10.137236",
+        "2026-01-17T08:01:02.724830"
       ],
       "views_rank": [
         null,
@@ -174,6 +175,7 @@
         239,
         240,
         242,
+        243,
         243
       ],
       "runs_rank": [
@@ -233,6 +235,7 @@
         252,
         252,
         253,
+        256,
         256,
         256
       ],
@@ -294,7 +297,8 @@
         278,
         279,
         192,
-        122
+        122,
+        80
       ]
     }
   },
@@ -306,7 +310,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 21 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 20 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

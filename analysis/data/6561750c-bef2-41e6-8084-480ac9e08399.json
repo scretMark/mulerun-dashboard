@@ -1,6 +1,6 @@
 {
   "agent_id": "6561750c-bef2-41e6-8084-480ac9e08399",
-  "generated_at": "2026-01-16T00:01:19.994290",
+  "generated_at": "2026-01-17T00:01:15.779015",
   "basic_info": {
     "title": "Technical Writing Assistant",
     "author": "Zane29222",
@@ -11,39 +11,39 @@
     "published_at": "2025-12-24T16:37:29.173000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Zane29222/technical-writing-helper",
-    "days_since_published": 22
+    "days_since_published": 23
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 246,
-      "runs_rank": 177,
-      "likes_rank": 159,
+      "runs_rank": 165,
+      "likes_rank": 227,
       "total_agents": 292,
       "views_percentile": 15.8,
-      "runs_percentile": 39.4,
-      "likes_percentile": 45.5
+      "runs_percentile": 43.5,
+      "likes_percentile": 22.3
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 18,
+    "days_tracked": 19,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 21,
+    "days_tracked": 22,
     "last_7_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": -34,
-      "likes_rank_change": 11
+      "views_rank_change": 0,
+      "runs_rank_change": -47,
+      "likes_rank_change": 77
     },
     "last_30_days": {
       "views_rank_change": null,
-      "runs_rank_change": -51,
-      "likes_rank_change": 93
+      "runs_rank_change": -63,
+      "likes_rank_change": 161
     },
     "all_time": {
       "best_views_rank": 245,
-      "best_runs_rank": 177,
+      "best_runs_rank": 165,
       "best_likes_rank": 66,
       "days_in_top_10": 0,
       "first_rank": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 19,
+    "data_points": 20,
     "first_recorded": "2025-12-26T08:00:54.905148",
-    "last_recorded": "2026-01-16T08:01:10.137236",
+    "last_recorded": "2026-01-17T08:01:02.724830",
     "time_series": {
       "dates": [
         "2025-12-26T08:00:54.905148",
@@ -75,7 +75,8 @@
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
-        "2026-01-16T08:01:10.137236"
+        "2026-01-16T08:01:10.137236",
+        "2026-01-17T08:01:02.724830"
       ],
       "views_rank": [
         null,
@@ -95,6 +96,7 @@
         246,
         246,
         245,
+        246,
         246,
         246
       ],
@@ -117,7 +119,8 @@
         195,
         196,
         185,
-        177
+        177,
+        165
       ],
       "likes_rank": [
         66,
@@ -138,7 +141,8 @@
         152,
         129,
         102,
-        159
+        159,
+        227
       ]
     }
   },
@@ -157,7 +161,7 @@
     {
       "type": "positive",
       "title": "Growing Usage",
-      "description": "Runs ranking improved by 51 positions in the last 30 days - users are actively engaging with this agent!"
+      "description": "Runs ranking improved by 63 positions in the last 30 days - users are actively engaging with this agent!"
     }
   ]
 }

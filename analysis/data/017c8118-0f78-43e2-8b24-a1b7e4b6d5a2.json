@@ -1,6 +1,6 @@
 {
   "agent_id": "017c8118-0f78-43e2-8b24-a1b7e4b6d5a2",
-  "generated_at": "2026-01-16T00:01:17.030766",
+  "generated_at": "2026-01-17T00:01:12.744325",
   "basic_info": {
     "title": "veeverse-tarot",
     "author": "veeverseai",
@@ -16,30 +16,30 @@
   "ranking_metrics": {
     "current_position": {
       "views_rank": 116,
-      "runs_rank": 71,
-      "likes_rank": 183,
+      "runs_rank": 72,
+      "likes_rank": 214,
       "total_agents": 292,
       "views_percentile": 60.3,
-      "runs_percentile": 75.7,
-      "likes_percentile": 37.3
+      "runs_percentile": 75.3,
+      "likes_percentile": 26.7
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 63,
+    "days_tracked": 64,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 58,
+    "days_tracked": 59,
     "last_7_days": {
       "views_rank_change": -1,
-      "runs_rank_change": 0,
-      "likes_rank_change": -22
+      "runs_rank_change": 1,
+      "likes_rank_change": 9
     },
     "last_30_days": {
-      "views_rank_change": 3,
-      "runs_rank_change": 1,
-      "likes_rank_change": 150
+      "views_rank_change": 4,
+      "runs_rank_change": 3,
+      "likes_rank_change": 93
     },
     "all_time": {
       "best_views_rank": 112,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 56,
+    "data_points": 57,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-16T08:01:10.137236",
+    "last_recorded": "2026-01-17T08:01:02.724830",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -112,7 +112,8 @@
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
-        "2026-01-16T08:01:10.137236"
+        "2026-01-16T08:01:10.137236",
+        "2026-01-17T08:01:02.724830"
       ],
       "views_rank": [
         null,
@@ -170,6 +171,7 @@
         117,
         117,
         117,
+        116,
         116
       ],
       "runs_rank": [
@@ -228,7 +230,8 @@
         71,
         71,
         71,
-        71
+        71,
+        72
       ],
       "likes_rank": [
         null,
@@ -286,7 +289,8 @@
         209,
         218,
         228,
-        183
+        183,
+        214
       ]
     }
   },

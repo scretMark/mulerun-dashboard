@@ -1,6 +1,6 @@
 {
   "agent_id": "e21d31f5-a2ab-45a7-951c-303492358e60",
-  "generated_at": "2026-01-16T00:01:18.507524",
+  "generated_at": "2026-01-17T00:01:14.236720",
   "basic_info": {
     "title": "AI Secretary for Google Meet",
     "author": "Aurorabbafef3",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-30T17:56:21.736000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aurorabbafef3/ai-secretary-for-google-meet",
-    "days_since_published": 77
+    "days_since_published": 78
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 70,
       "runs_rank": 113,
-      "likes_rank": 102,
+      "likes_rank": 262,
       "total_agents": 292,
       "views_percentile": 76.0,
       "runs_percentile": 61.3,
-      "likes_percentile": 65.1
+      "likes_percentile": 10.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 90,
+    "days_tracked": 91,
     "price": 1.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 57,
+    "days_tracked": 58,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 3,
-      "likes_rank_change": -126
+      "likes_rank_change": 35
     },
     "last_30_days": {
       "views_rank_change": 2,
-      "runs_rank_change": 10,
-      "likes_rank_change": -74
+      "runs_rank_change": 7,
+      "likes_rank_change": 146
     },
     "all_time": {
       "best_views_rank": 68,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 58,
+    "data_points": 59,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-16T08:01:10.137236",
+    "last_recorded": "2026-01-17T08:01:02.724830",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -114,7 +114,8 @@
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
-        "2026-01-16T08:01:10.137236"
+        "2026-01-16T08:01:10.137236",
+        "2026-01-17T08:01:02.724830"
       ],
       "views_rank": [
         null,
@@ -167,6 +168,7 @@
         68,
         69,
         69,
+        70,
         70,
         70,
         70,
@@ -234,6 +236,7 @@
         110,
         110,
         110,
+        113,
         113
       ],
       "likes_rank": [
@@ -294,7 +297,8 @@
         230,
         238,
         157,
-        102
+        102,
+        262
       ]
     }
   },

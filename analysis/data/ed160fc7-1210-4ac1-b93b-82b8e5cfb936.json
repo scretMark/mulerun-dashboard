@@ -1,6 +1,6 @@
 {
   "agent_id": "ed160fc7-1210-4ac1-b93b-82b8e5cfb936",
-  "generated_at": "2026-01-16T00:01:19.436089",
+  "generated_at": "2026-01-17T00:01:15.227784",
   "basic_info": {
     "title": "Create Your Unique Nail Art",
     "author": "8bit",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-09T00:16:07.180000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/create-your-unique-nail-art",
-    "days_since_published": 37
+    "days_since_published": 38
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 270,
-      "runs_rank": 188,
-      "likes_rank": 69,
+      "runs_rank": 189,
+      "likes_rank": 48,
       "total_agents": 292,
       "views_percentile": 7.5,
-      "runs_percentile": 35.6,
-      "likes_percentile": 76.4
+      "runs_percentile": 35.3,
+      "likes_percentile": 83.6
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 38,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 39,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 37,
+    "days_tracked": 38,
     "last_7_days": {
       "views_rank_change": 6,
       "runs_rank_change": 5,
-      "likes_rank_change": -104
+      "likes_rank_change": -125
     },
     "last_30_days": {
-      "views_rank_change": 36,
-      "runs_rank_change": 29,
-      "likes_rank_change": -50
+      "views_rank_change": 35,
+      "runs_rank_change": 28,
+      "likes_rank_change": 30
     },
     "all_time": {
       "best_views_rank": 233,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 38,
+    "data_points": 39,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2026-01-16T08:01:10.137236",
+    "last_recorded": "2026-01-17T08:01:02.724830",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
@@ -94,7 +94,8 @@
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
-        "2026-01-16T08:01:10.137236"
+        "2026-01-16T08:01:10.137236",
+        "2026-01-17T08:01:02.724830"
       ],
       "views_rank": [
         null,
@@ -134,6 +135,7 @@
         264,
         264,
         269,
+        270,
         270
       ],
       "runs_rank": [
@@ -174,7 +176,8 @@
         186,
         187,
         188,
-        188
+        188,
+        189
       ],
       "likes_rank": [
         null,
@@ -214,7 +217,8 @@
         175,
         187,
         117,
-        69
+        69,
+        48
       ]
     }
   },
@@ -231,9 +235,14 @@
   },
   "insights": [
     {
+      "type": "positive",
+      "title": "High Performer",
+      "description": "Ranked #48 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+    },
+    {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 36 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 35 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

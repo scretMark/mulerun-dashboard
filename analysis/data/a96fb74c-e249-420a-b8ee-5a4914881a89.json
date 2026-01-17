@@ -1,6 +1,6 @@
 {
   "agent_id": "a96fb74c-e249-420a-b8ee-5a4914881a89",
-  "generated_at": "2026-01-16T00:01:19.884632",
+  "generated_at": "2026-01-17T00:01:15.691279",
   "basic_info": {
     "title": "Great Wall Memory Portrait",
     "author": "Matt",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-19T18:22:14.659000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Matt/great-wall-memory-portrait",
-    "days_since_published": 27
+    "days_since_published": 28
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 205,
       "runs_rank": 131,
-      "likes_rank": 80,
+      "likes_rank": 58,
       "total_agents": 292,
       "views_percentile": 29.8,
       "runs_percentile": 55.1,
-      "likes_percentile": 72.6
+      "likes_percentile": 80.1
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 21,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 22,
     "price": 55.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 24,
+    "days_tracked": 25,
     "last_7_days": {
       "views_rank_change": 4,
       "runs_rank_change": 3,
-      "likes_rank_change": -110
+      "likes_rank_change": -132
     },
     "last_30_days": {
       "views_rank_change": 8,
       "runs_rank_change": 7,
-      "likes_rank_change": 38
+      "likes_rank_change": 16
     },
     "all_time": {
       "best_views_rank": 193,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 22,
+    "data_points": 23,
     "first_recorded": "2025-12-23T08:00:59.635142",
-    "last_recorded": "2026-01-16T08:01:10.137236",
+    "last_recorded": "2026-01-17T08:01:02.724830",
     "time_series": {
       "dates": [
         "2025-12-23T08:00:59.635142",
@@ -78,7 +78,8 @@
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
-        "2026-01-16T08:01:10.137236"
+        "2026-01-16T08:01:10.137236",
+        "2026-01-17T08:01:02.724830"
       ],
       "views_rank": [
         197,
@@ -102,6 +103,7 @@
         202,
         203,
         204,
+        205,
         205
       ],
       "runs_rank": [
@@ -123,6 +125,7 @@
         128,
         128,
         129,
+        131,
         131,
         131,
         131,
@@ -150,7 +153,8 @@
         192,
         204,
         132,
-        80
+        80,
+        58
       ]
     }
   },
@@ -167,9 +171,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #205 out of 292 active agents."
+      "type": "positive",
+      "title": "High Performer",
+      "description": "Ranked #58 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

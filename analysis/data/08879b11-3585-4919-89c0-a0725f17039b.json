@@ -1,6 +1,6 @@
 {
   "agent_id": "08879b11-3585-4919-89c0-a0725f17039b",
-  "generated_at": "2026-01-16T00:01:17.945721",
+  "generated_at": "2026-01-17T00:01:13.624060",
   "basic_info": {
     "title": "Amazon Product Search",
     "author": "createAny",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-13T18:19:42.979000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@createAny/amazon-product-search",
-    "days_since_published": 94
+    "days_since_published": 95
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 126,
       "runs_rank": 134,
-      "likes_rank": 25,
+      "likes_rank": 19,
       "total_agents": 292,
       "views_percentile": 56.8,
       "runs_percentile": 54.1,
-      "likes_percentile": 91.4
+      "likes_percentile": 93.5
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 90,
+    "days_tracked": 91,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 57,
+    "days_tracked": 58,
     "last_7_days": {
       "views_rank_change": -4,
       "runs_rank_change": 2,
-      "likes_rank_change": -107
+      "likes_rank_change": -113
     },
     "last_30_days": {
-      "views_rank_change": -26,
-      "runs_rank_change": 5,
-      "likes_rank_change": -5
+      "views_rank_change": -25,
+      "runs_rank_change": 4,
+      "likes_rank_change": -54
     },
     "all_time": {
       "best_views_rank": 126,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 58,
+    "data_points": 59,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-16T08:01:10.137236",
+    "last_recorded": "2026-01-17T08:01:02.724830",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -114,7 +114,8 @@
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
-        "2026-01-16T08:01:10.137236"
+        "2026-01-16T08:01:10.137236",
+        "2026-01-17T08:01:02.724830"
       ],
       "views_rank": [
         null,
@@ -171,6 +172,7 @@
         130,
         130,
         131,
+        126,
         126,
         126,
         126,
@@ -234,6 +236,7 @@
         134,
         134,
         134,
+        134,
         134
       ],
       "likes_rank": [
@@ -294,7 +297,8 @@
         135,
         61,
         34,
-        25
+        25,
+        19
       ]
     }
   },
@@ -306,12 +310,12 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #25 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #19 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     },
     {
       "type": "positive",
       "title": "Rising Star",
-      "description": "Improved by 26 positions in views ranking over the last 30 days - showing strong momentum!"
+      "description": "Improved by 25 positions in views ranking over the last 30 days - showing strong momentum!"
     }
   ]
 }

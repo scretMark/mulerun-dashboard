@@ -1,6 +1,6 @@
 {
   "agent_id": "57c5c690-5c9f-4e63-8dcd-3ef2f0a68f5a",
-  "generated_at": "2026-01-16T00:01:19.528808",
+  "generated_at": "2026-01-17T00:01:15.311727",
   "basic_info": {
     "title": "Christmas card",
     "author": "pxzzf1010_cr73m",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-09T22:10:15.357000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@pxzzf1010_cr73m/christmas-card",
-    "days_since_published": 37
+    "days_since_published": 38
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 255,
+      "views_rank": 256,
       "runs_rank": 181,
       "likes_rank": 3,
       "total_agents": 292,
-      "views_percentile": 12.7,
+      "views_percentile": 12.3,
       "runs_percentile": 38.0,
       "likes_percentile": 99.0
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 36,
+    "days_tracked": 37,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 35,
+    "days_tracked": 36,
     "last_7_days": {
-      "views_rank_change": 2,
-      "runs_rank_change": 5,
+      "views_rank_change": 3,
+      "runs_rank_change": 4,
       "likes_rank_change": -2
     },
     "last_30_days": {
       "views_rank_change": 24,
-      "runs_rank_change": 17,
-      "likes_rank_change": -50
+      "runs_rank_change": 13,
+      "likes_rank_change": -32
     },
     "all_time": {
       "best_views_rank": 230,
@@ -47,14 +47,14 @@
       "best_likes_rank": 3,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 255
+      "current_rank": 256
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 36,
+    "data_points": 37,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2026-01-16T08:01:10.137236",
+    "last_recorded": "2026-01-17T08:01:02.724830",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -92,7 +92,8 @@
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
-        "2026-01-16T08:01:10.137236"
+        "2026-01-16T08:01:10.137236",
+        "2026-01-17T08:01:02.724830"
       ],
       "views_rank": [
         null,
@@ -130,7 +131,8 @@
         253,
         253,
         255,
-        255
+        255,
+        256
       ],
       "runs_rank": [
         null,
@@ -168,6 +170,7 @@
         178,
         179,
         179,
+        181,
         181
       ],
       "likes_rank": [
@@ -206,6 +209,7 @@
         5,
         4,
         4,
+        3,
         3
       ]
     }

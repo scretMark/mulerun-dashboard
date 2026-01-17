@@ -1,6 +1,6 @@
 {
   "agent_id": "f350d285-6795-4f94-97d9-2c9308b06b93",
-  "generated_at": "2026-01-16T00:01:18.240849",
+  "generated_at": "2026-01-17T00:01:13.932836",
   "basic_info": {
     "title": "YouTube title generator with emojis",
     "author": "kpviqlcmhm864vu",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-23T09:20:11.896000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@kpviqlcmhm864vu/youtube-title-generator-with-emojis",
-    "days_since_published": 84
+    "days_since_published": 85
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 113,
-      "runs_rank": 222,
-      "likes_rank": 179,
+      "views_rank": 114,
+      "runs_rank": 224,
+      "likes_rank": 148,
       "total_agents": 292,
-      "views_percentile": 61.3,
-      "runs_percentile": 24.0,
-      "likes_percentile": 38.7
+      "views_percentile": 61.0,
+      "runs_percentile": 23.3,
+      "likes_percentile": 49.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 84,
+    "days_tracked": 85,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 57,
+    "days_tracked": 58,
     "last_7_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": 6,
-      "likes_rank_change": 44
+      "views_rank_change": 1,
+      "runs_rank_change": 7,
+      "likes_rank_change": 12
     },
     "last_30_days": {
-      "views_rank_change": -11,
-      "runs_rank_change": 27,
-      "likes_rank_change": 169
+      "views_rank_change": -9,
+      "runs_rank_change": 28,
+      "likes_rank_change": 77
     },
     "all_time": {
       "best_views_rank": 111,
@@ -47,14 +47,14 @@
       "best_likes_rank": 1,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 113
+      "current_rank": 114
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 58,
+    "data_points": 59,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-16T08:01:10.137236",
+    "last_recorded": "2026-01-17T08:01:02.724830",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -114,7 +114,8 @@
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
-        "2026-01-16T08:01:10.137236"
+        "2026-01-16T08:01:10.137236",
+        "2026-01-17T08:01:02.724830"
       ],
       "views_rank": [
         null,
@@ -174,7 +175,8 @@
         113,
         113,
         113,
-        113
+        113,
+        114
       ],
       "runs_rank": [
         null,
@@ -234,7 +236,8 @@
         217,
         218,
         220,
-        222
+        222,
+        224
       ],
       "likes_rank": [
         null,
@@ -294,7 +297,8 @@
         131,
         47,
         28,
-        179
+        179,
+        148
       ]
     }
   },
@@ -304,9 +308,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "Rising Star",
-      "description": "Improved by 11 positions in views ranking over the last 30 days - showing strong momentum!"
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #114 out of 292 active agents."
     }
   ]
 }

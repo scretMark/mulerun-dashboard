@@ -1,6 +1,6 @@
 {
   "agent_id": "be5ddb28-1a17-47b9-8773-06b7a6712672",
-  "generated_at": "2026-01-16T00:01:17.194377",
+  "generated_at": "2026-01-17T00:01:12.891612",
   "basic_info": {
     "title": "Professional ID Photo",
     "author": "summerail",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-10T16:09:23.456000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/professional-id-photo",
-    "days_since_published": 97
+    "days_since_published": 98
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 96,
-      "runs_rank": 103,
-      "likes_rank": 12,
+      "runs_rank": 102,
+      "likes_rank": 179,
       "total_agents": 292,
       "views_percentile": 67.1,
-      "runs_percentile": 64.7,
-      "likes_percentile": 95.9
+      "runs_percentile": 65.1,
+      "likes_percentile": 38.7
     },
-    "tier": "Elite",
-    "tier_class": "elite",
-    "days_tracked": 85,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 86,
     "price": 15.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 57,
+    "days_tracked": 58,
     "last_7_days": {
       "views_rank_change": 3,
-      "runs_rank_change": 2,
-      "likes_rank_change": -30
+      "runs_rank_change": 1,
+      "likes_rank_change": 137
     },
     "last_30_days": {
       "views_rank_change": 3,
-      "runs_rank_change": 4,
-      "likes_rank_change": -62
+      "runs_rank_change": 2,
+      "likes_rank_change": -42
     },
     "all_time": {
       "best_views_rank": 92,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 58,
+    "data_points": 59,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-16T08:01:10.137236",
+    "last_recorded": "2026-01-17T08:01:02.724830",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -114,7 +114,8 @@
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
-        "2026-01-16T08:01:10.137236"
+        "2026-01-16T08:01:10.137236",
+        "2026-01-17T08:01:02.724830"
       ],
       "views_rank": [
         null,
@@ -173,6 +174,7 @@
         93,
         94,
         94,
+        96,
         96,
         96
       ],
@@ -234,7 +236,8 @@
         103,
         103,
         103,
-        103
+        103,
+        102
       ],
       "likes_rank": [
         null,
@@ -294,7 +297,8 @@
         38,
         29,
         17,
-        12
+        12,
+        179
       ]
     }
   },
@@ -304,9 +308,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "Elite Performance",
-      "description": "Ranked #12 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #96 out of 292 active agents."
     }
   ]
 }

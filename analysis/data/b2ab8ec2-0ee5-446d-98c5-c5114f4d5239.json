@@ -1,6 +1,6 @@
 {
   "agent_id": "b2ab8ec2-0ee5-446d-98c5-c5114f4d5239",
-  "generated_at": "2026-01-16T00:01:18.985729",
+  "generated_at": "2026-01-17T00:01:14.730085",
   "basic_info": {
     "title": "Kitty Closet",
     "author": "wujin",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-07T12:48:36.093000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@wujin/kitty-closet",
-    "days_since_published": 100
+    "days_since_published": 101
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 178,
       "runs_rank": 195,
-      "likes_rank": 265,
+      "likes_rank": 137,
       "total_agents": 292,
       "views_percentile": 39.0,
       "runs_percentile": 33.2,
-      "likes_percentile": 9.2
+      "likes_percentile": 53.1
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 80,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 81,
     "price": 30.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 57,
+    "days_tracked": 58,
     "last_7_days": {
       "views_rank_change": 2,
-      "runs_rank_change": 5,
-      "likes_rank_change": 189
+      "runs_rank_change": 4,
+      "likes_rank_change": 60
     },
     "last_30_days": {
-      "views_rank_change": 12,
-      "runs_rank_change": 29,
-      "likes_rank_change": 219
+      "views_rank_change": 10,
+      "runs_rank_change": 25,
+      "likes_rank_change": -26
     },
     "all_time": {
       "best_views_rank": 166,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 58,
+    "data_points": 59,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-16T08:01:10.137236",
+    "last_recorded": "2026-01-17T08:01:02.724830",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -114,7 +114,8 @@
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
-        "2026-01-16T08:01:10.137236"
+        "2026-01-16T08:01:10.137236",
+        "2026-01-17T08:01:02.724830"
       ],
       "views_rank": [
         null,
@@ -174,6 +175,7 @@
         178,
         178,
         179,
+        178,
         178
       ],
       "runs_rank": [
@@ -233,6 +235,7 @@
         192,
         193,
         194,
+        195,
         195,
         195
       ],
@@ -294,7 +297,8 @@
         79,
         96,
         49,
-        265
+        265,
+        137
       ]
     }
   },
@@ -304,9 +308,9 @@
   },
   "insights": [
     {
-      "type": "warning",
-      "title": "Declining Ranking",
-      "description": "Dropped 12 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #178 out of 292 active agents."
     }
   ]
 }

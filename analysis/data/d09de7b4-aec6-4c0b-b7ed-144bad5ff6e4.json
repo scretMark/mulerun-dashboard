@@ -1,6 +1,6 @@
 {
   "agent_id": "d09de7b4-aec6-4c0b-b7ed-144bad5ff6e4",
-  "generated_at": "2026-01-16T00:01:19.599666",
+  "generated_at": "2026-01-17T00:01:15.400965",
   "basic_info": {
     "title": "Open Eyes in Photo ",
     "author": "zhoudshu_zhoj7m",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-10T16:41:50.184000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@zhoudshu_zhoj7m/open-eyes-in-photo",
-    "days_since_published": 36
+    "days_since_published": 37
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 215,
-      "runs_rank": 204,
-      "likes_rank": 73,
+      "views_rank": 217,
+      "runs_rank": 205,
+      "likes_rank": 52,
       "total_agents": 292,
-      "views_percentile": 26.4,
-      "runs_percentile": 30.1,
-      "likes_percentile": 75.0
+      "views_percentile": 25.7,
+      "runs_percentile": 29.8,
+      "likes_percentile": 82.2
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 36,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 37,
     "price": 20.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 35,
+    "days_tracked": 36,
     "last_7_days": {
-      "views_rank_change": 3,
+      "views_rank_change": 5,
       "runs_rank_change": 4,
-      "likes_rank_change": -108
+      "likes_rank_change": -129
     },
     "last_30_days": {
-      "views_rank_change": 12,
-      "runs_rank_change": 17,
-      "likes_rank_change": -115
+      "views_rank_change": 13,
+      "runs_rank_change": 15,
+      "likes_rank_change": 33
     },
     "all_time": {
       "best_views_rank": 198,
@@ -47,14 +47,14 @@
       "best_likes_rank": 13,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 215
+      "current_rank": 217
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 36,
+    "data_points": 37,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2026-01-16T08:01:10.137236",
+    "last_recorded": "2026-01-17T08:01:02.724830",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -92,7 +92,8 @@
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
-        "2026-01-16T08:01:10.137236"
+        "2026-01-16T08:01:10.137236",
+        "2026-01-17T08:01:02.724830"
       ],
       "views_rank": [
         null,
@@ -130,7 +131,8 @@
         213,
         213,
         213,
-        215
+        215,
+        217
       ],
       "runs_rank": [
         null,
@@ -168,7 +170,8 @@
         202,
         203,
         204,
-        204
+        204,
+        205
       ],
       "likes_rank": [
         null,
@@ -206,7 +209,8 @@
         182,
         194,
         123,
-        73
+        73,
+        52
       ]
     }
   },
@@ -223,9 +227,14 @@
   },
   "insights": [
     {
+      "type": "positive",
+      "title": "High Performer",
+      "description": "Ranked #52 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+    },
+    {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 12 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 13 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

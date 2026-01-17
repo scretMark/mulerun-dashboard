@@ -1,6 +1,6 @@
 {
   "agent_id": "4bee3a8f-d8c4-4504-9984-5ff55659a871",
-  "generated_at": "2026-01-16T00:01:18.974522",
+  "generated_at": "2026-01-17T00:01:14.716536",
   "basic_info": {
     "title": "REMOVE Video Background",
     "author": "Darren",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-09T22:09:15.655000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/remove-video-background",
-    "days_since_published": 98
+    "days_since_published": 99
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 156,
       "runs_rank": 281,
-      "likes_rank": 37,
+      "likes_rank": 190,
       "total_agents": 292,
       "views_percentile": 46.6,
       "runs_percentile": 3.8,
-      "likes_percentile": 87.3
+      "likes_percentile": 34.9
     },
-    "tier": "High",
-    "tier_class": "high",
-    "days_tracked": 96,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 97,
     "price": 288.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 57,
+    "days_tracked": 58,
     "last_7_days": {
       "views_rank_change": 2,
       "runs_rank_change": 4,
-      "likes_rank_change": -52
+      "likes_rank_change": 101
     },
     "last_30_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 38,
-      "likes_rank_change": 8
+      "runs_rank_change": 36,
+      "likes_rank_change": -45
     },
     "all_time": {
       "best_views_rank": 153,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 58,
+    "data_points": 59,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-16T08:01:10.137236",
+    "last_recorded": "2026-01-17T08:01:02.724830",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -114,7 +114,8 @@
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
-        "2026-01-16T08:01:10.137236"
+        "2026-01-16T08:01:10.137236",
+        "2026-01-17T08:01:02.724830"
       ],
       "views_rank": [
         null,
@@ -174,6 +175,7 @@
         153,
         154,
         155,
+        156,
         156
       ],
       "runs_rank": [
@@ -233,6 +235,7 @@
         277,
         278,
         278,
+        281,
         281,
         281
       ],
@@ -294,7 +297,8 @@
         97,
         114,
         60,
-        37
+        37,
+        190
       ]
     }
   },
@@ -304,9 +308,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "High Performer",
-      "description": "Ranked #37 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #156 out of 292 active agents."
     }
   ]
 }

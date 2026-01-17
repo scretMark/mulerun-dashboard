@@ -1,6 +1,6 @@
 {
   "agent_id": "7714e1ec-8679-4f9a-add6-22344b406931",
-  "generated_at": "2026-01-16T00:01:19.789088",
+  "generated_at": "2026-01-17T00:01:15.604427",
   "basic_info": {
     "title": "Brand VI System Generator",
     "author": "AneX",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-19T01:12:14.357000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AneX/brand-vi-system-generator",
-    "days_since_published": 27
+    "days_since_published": 28
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 214,
       "runs_rank": 238,
-      "likes_rank": 219,
+      "likes_rank": 156,
       "total_agents": 292,
       "views_percentile": 26.7,
       "runs_percentile": 18.5,
-      "likes_percentile": 25.0
+      "likes_percentile": 46.6
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 24,
+    "days_tracked": 25,
     "price": 110.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 27,
+    "days_tracked": 28,
     "last_7_days": {
-      "views_rank_change": -2,
+      "views_rank_change": 0,
       "runs_rank_change": 4,
-      "likes_rank_change": 25
+      "likes_rank_change": -36
     },
     "last_30_days": {
       "views_rank_change": -11,
       "runs_rank_change": 20,
-      "likes_rank_change": 158
+      "likes_rank_change": 95
     },
     "all_time": {
       "best_views_rank": 212,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 25,
+    "data_points": 26,
     "first_recorded": "2025-12-20T08:01:00.398750",
-    "last_recorded": "2026-01-16T08:01:10.137236",
+    "last_recorded": "2026-01-17T08:01:02.724830",
     "time_series": {
       "dates": [
         "2025-12-20T08:01:00.398750",
@@ -81,7 +81,8 @@
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
-        "2026-01-16T08:01:10.137236"
+        "2026-01-16T08:01:10.137236",
+        "2026-01-17T08:01:02.724830"
       ],
       "views_rank": [
         225,
@@ -108,6 +109,7 @@
         216,
         216,
         217,
+        214,
         214
       ],
       "runs_rank": [
@@ -135,6 +137,7 @@
         234,
         234,
         236,
+        238,
         238
       ],
       "likes_rank": [
@@ -162,7 +165,8 @@
         194,
         206,
         134,
-        219
+        219,
+        156
       ]
     }
   },

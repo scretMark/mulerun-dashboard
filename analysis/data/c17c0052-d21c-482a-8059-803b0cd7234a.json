@@ -1,6 +1,6 @@
 {
   "agent_id": "c17c0052-d21c-482a-8059-803b0cd7234a",
-  "generated_at": "2026-01-16T00:01:18.730160",
+  "generated_at": "2026-01-17T00:01:14.446517",
   "basic_info": {
     "title": "World Landmark Stickers",
     "author": "Cyrus",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-30T22:54:24.611000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Cyrus/world-landmark-stickers",
-    "days_since_published": 107
+    "days_since_published": 108
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 123,
       "runs_rank": 125,
-      "likes_rank": 135,
+      "likes_rank": 182,
       "total_agents": 292,
       "views_percentile": 57.9,
       "runs_percentile": 57.2,
-      "likes_percentile": 53.8
+      "likes_percentile": 37.7
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 98,
+    "days_tracked": 99,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 57,
+    "days_tracked": 58,
     "last_7_days": {
-      "views_rank_change": -1,
+      "views_rank_change": -2,
       "runs_rank_change": 3,
-      "likes_rank_change": -95
+      "likes_rank_change": -48
     },
     "last_30_days": {
-      "views_rank_change": 5,
-      "runs_rank_change": 9,
-      "likes_rank_change": -42
+      "views_rank_change": 4,
+      "runs_rank_change": 8,
+      "likes_rank_change": 78
     },
     "all_time": {
       "best_views_rank": 118,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 58,
+    "data_points": 59,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-16T08:01:10.137236",
+    "last_recorded": "2026-01-17T08:01:02.724830",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -114,7 +114,8 @@
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
-        "2026-01-16T08:01:10.137236"
+        "2026-01-16T08:01:10.137236",
+        "2026-01-17T08:01:02.724830"
       ],
       "views_rank": [
         null,
@@ -174,6 +175,7 @@
         125,
         125,
         122,
+        123,
         123
       ],
       "runs_rank": [
@@ -232,6 +234,7 @@
         122,
         123,
         124,
+        125,
         125,
         125,
         125
@@ -294,7 +297,8 @@
         233,
         241,
         221,
-        135
+        135,
+        182
       ]
     }
   },

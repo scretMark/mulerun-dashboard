@@ -1,6 +1,6 @@
 {
   "agent_id": "bd54b71a-e406-4cb8-b8d1-4360a797ee73",
-  "generated_at": "2026-01-16T00:01:19.696721",
+  "generated_at": "2026-01-17T00:01:15.525793",
   "basic_info": {
     "title": "QuotePress-Card Maker",
     "author": "AneX",
@@ -11,40 +11,40 @@
     "published_at": "2025-12-12T13:35:41.437000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AneX/quotepress-card-maker",
-    "days_since_published": 34
+    "days_since_published": 35
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 250,
-      "runs_rank": 198,
-      "likes_rank": 26,
+      "runs_rank": 200,
+      "likes_rank": 20,
       "total_agents": 292,
       "views_percentile": 14.4,
-      "runs_percentile": 32.2,
-      "likes_percentile": 91.1
+      "runs_percentile": 31.5,
+      "likes_percentile": 93.2
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 31,
+    "days_tracked": 32,
     "price": 60.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 30,
+    "days_tracked": 31,
     "last_7_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": 4,
-      "likes_rank_change": -173
+      "views_rank_change": -1,
+      "runs_rank_change": 5,
+      "likes_rank_change": -179
     },
     "last_30_days": {
       "views_rank_change": 24,
-      "runs_rank_change": 6,
-      "likes_rank_change": -208
+      "runs_rank_change": 15,
+      "likes_rank_change": -16
     },
     "all_time": {
       "best_views_rank": 225,
       "best_runs_rank": 183,
-      "best_likes_rank": 26,
+      "best_likes_rank": 20,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 250
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 32,
+    "data_points": 33,
     "first_recorded": "2025-12-16T19:09:41.063612",
-    "last_recorded": "2026-01-16T08:01:10.137236",
+    "last_recorded": "2026-01-17T08:01:02.724830",
     "time_series": {
       "dates": [
         "2025-12-16T19:09:41.063612",
@@ -88,7 +88,8 @@
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
-        "2026-01-16T08:01:10.137236"
+        "2026-01-16T08:01:10.137236",
+        "2026-01-17T08:01:02.724830"
       ],
       "views_rank": [
         null,
@@ -122,6 +123,7 @@
         251,
         247,
         249,
+        250,
         250
       ],
       "runs_rank": [
@@ -156,7 +158,8 @@
         197,
         198,
         198,
-        198
+        198,
+        200
       ],
       "likes_rank": [
         null,
@@ -190,7 +193,8 @@
         202,
         65,
         36,
-        26
+        26,
+        20
       ]
     }
   },
@@ -209,7 +213,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #26 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #20 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     },
     {
       "type": "warning",

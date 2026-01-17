@@ -1,6 +1,6 @@
 {
   "agent_id": "15ea9bd6-9c4d-4602-965b-c7d515bb571b",
-  "generated_at": "2026-01-16T00:01:19.739258",
+  "generated_at": "2026-01-17T00:01:15.570908",
   "basic_info": {
     "title": "Product Mockups Generator",
     "author": "jackbuilds",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-14T12:32:15.666000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@jackbuilds/product-mockups-generator",
-    "days_since_published": 32
+    "days_since_published": 33
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 179,
-      "runs_rank": 148,
-      "likes_rank": 210,
+      "runs_rank": 149,
+      "likes_rank": 118,
       "total_agents": 292,
       "views_percentile": 38.7,
-      "runs_percentile": 49.3,
-      "likes_percentile": 28.1
+      "runs_percentile": 49.0,
+      "likes_percentile": 59.6
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 26,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 27,
     "price": 150.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 30,
+    "days_tracked": 31,
     "last_7_days": {
-      "views_rank_change": -2,
-      "runs_rank_change": 3,
-      "likes_rank_change": 14
+      "views_rank_change": -1,
+      "runs_rank_change": 4,
+      "likes_rank_change": -75
     },
     "last_30_days": {
-      "views_rank_change": -46,
-      "runs_rank_change": -82,
-      "likes_rank_change": 202
+      "views_rank_change": -45,
+      "runs_rank_change": -77,
+      "likes_rank_change": 77
     },
     "all_time": {
       "best_views_rank": 178,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 31,
+    "data_points": 32,
     "first_recorded": "2025-12-16T21:38:18.856537",
-    "last_recorded": "2026-01-16T08:01:10.137236",
+    "last_recorded": "2026-01-17T08:01:02.724830",
     "time_series": {
       "dates": [
         "2025-12-16T21:38:18.856537",
@@ -87,7 +87,8 @@
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
-        "2026-01-16T08:01:10.137236"
+        "2026-01-16T08:01:10.137236",
+        "2026-01-17T08:01:02.724830"
       ],
       "views_rank": [
         228,
@@ -120,6 +121,7 @@
         179,
         179,
         178,
+        179,
         179
       ],
       "runs_rank": [
@@ -153,7 +155,8 @@
         146,
         147,
         147,
-        148
+        148,
+        149
       ],
       "likes_rank": [
         8,
@@ -186,7 +189,8 @@
         195,
         209,
         207,
-        210
+        210,
+        118
       ]
     }
   },
@@ -205,12 +209,12 @@
     {
       "type": "positive",
       "title": "Rising Star",
-      "description": "Improved by 46 positions in views ranking over the last 30 days - showing strong momentum!"
+      "description": "Improved by 45 positions in views ranking over the last 30 days - showing strong momentum!"
     },
     {
       "type": "positive",
       "title": "Growing Usage",
-      "description": "Runs ranking improved by 82 positions in the last 30 days - users are actively engaging with this agent!"
+      "description": "Runs ranking improved by 77 positions in the last 30 days - users are actively engaging with this agent!"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "8db001f9-28ff-4b9a-8337-e7d5f025fd7f",
-  "generated_at": "2026-01-16T00:01:17.045252",
+  "generated_at": "2026-01-17T00:01:12.755823",
   "basic_info": {
     "title": "YouTube Thumbnail",
     "author": "summerail",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-09T16:48:38.136000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/youtube-thumbnail",
-    "days_since_published": 98
+    "days_since_published": 99
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 37,
       "runs_rank": 44,
-      "likes_rank": 252,
+      "likes_rank": 245,
       "total_agents": 292,
       "views_percentile": 87.3,
       "runs_percentile": 84.9,
-      "likes_percentile": 13.7
+      "likes_percentile": 16.1
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 78,
+    "days_tracked": 79,
     "price": 30.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 58,
+    "days_tracked": 59,
     "last_7_days": {
       "views_rank_change": 2,
       "runs_rank_change": 0,
-      "likes_rank_change": 105
+      "likes_rank_change": 101
     },
     "last_30_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": 2,
-      "likes_rank_change": 39
+      "views_rank_change": 1,
+      "runs_rank_change": 1,
+      "likes_rank_change": 42
     },
     "all_time": {
       "best_views_rank": 34,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 59,
+    "data_points": 60,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-16T08:01:10.137236",
+    "last_recorded": "2026-01-17T08:01:02.724830",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -115,7 +115,8 @@
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
-        "2026-01-16T08:01:10.137236"
+        "2026-01-16T08:01:10.137236",
+        "2026-01-17T08:01:02.724830"
       ],
       "views_rank": [
         null,
@@ -176,6 +177,7 @@
         36,
         37,
         37,
+        37,
         37
       ],
       "runs_rank": [
@@ -220,6 +222,7 @@
         43,
         43,
         43,
+        44,
         44,
         44,
         44,
@@ -298,7 +301,8 @@
         142,
         48,
         245,
-        252
+        252,
+        245
       ]
     }
   },

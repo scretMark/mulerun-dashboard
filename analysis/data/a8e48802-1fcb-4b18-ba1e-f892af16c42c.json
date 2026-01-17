@@ -1,6 +1,6 @@
 {
   "agent_id": "a8e48802-1fcb-4b18-ba1e-f892af16c42c",
-  "generated_at": "2026-01-16T00:01:17.275841",
+  "generated_at": "2026-01-17T00:01:12.970717",
   "basic_info": {
     "title": "AI Image Resizer",
     "author": "Zane29222",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-03T21:03:11.210000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Zane29222/ai-image-resizer",
-    "days_since_published": 73
+    "days_since_published": 74
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 82,
       "runs_rank": 45,
-      "likes_rank": 225,
+      "likes_rank": 226,
       "total_agents": 292,
       "views_percentile": 71.9,
       "runs_percentile": 84.6,
-      "likes_percentile": 22.9
+      "likes_percentile": 22.6
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 78,
+    "days_tracked": 79,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 57,
+    "days_tracked": 58,
     "last_7_days": {
-      "views_rank_change": 2,
+      "views_rank_change": 0,
       "runs_rank_change": -2,
-      "likes_rank_change": 179
+      "likes_rank_change": 180
     },
     "last_30_days": {
       "views_rank_change": 3,
-      "runs_rank_change": -15,
-      "likes_rank_change": 82
+      "runs_rank_change": -6,
+      "likes_rank_change": 44
     },
     "all_time": {
       "best_views_rank": 79,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 58,
+    "data_points": 59,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-16T08:01:10.137236",
+    "last_recorded": "2026-01-17T08:01:02.724830",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -114,7 +114,8 @@
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
-        "2026-01-16T08:01:10.137236"
+        "2026-01-16T08:01:10.137236",
+        "2026-01-17T08:01:02.724830"
       ],
       "views_rank": [
         null,
@@ -169,6 +170,7 @@
         80,
         80,
         80,
+        82,
         82,
         82,
         82,
@@ -234,6 +236,7 @@
         47,
         47,
         46,
+        45,
         45
       ],
       "likes_rank": [
@@ -294,7 +297,8 @@
         46,
         103,
         52,
-        225
+        225,
+        226
       ]
     }
   },
@@ -307,11 +311,6 @@
       "type": "positive",
       "title": "High Performer",
       "description": "Ranked #45 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
-    },
-    {
-      "type": "positive",
-      "title": "Growing Usage",
-      "description": "Runs ranking improved by 15 positions in the last 30 days - users are actively engaging with this agent!"
     }
   ]
 }
