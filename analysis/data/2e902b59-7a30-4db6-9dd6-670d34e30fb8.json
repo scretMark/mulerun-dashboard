@@ -1,6 +1,6 @@
 {
   "agent_id": "2e902b59-7a30-4db6-9dd6-670d34e30fb8",
-  "generated_at": "2026-01-17T00:01:15.547264",
+  "generated_at": "2026-01-18T00:01:13.195122",
   "basic_info": {
     "title": "PostcardGenie",
     "author": "AneX",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-12T12:32:37.864000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AneX/postcardgenie",
-    "days_since_published": 35
+    "days_since_published": 36
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 261,
-      "runs_rank": 214,
-      "likes_rank": 33,
+      "runs_rank": 216,
+      "likes_rank": 29,
       "total_agents": 292,
       "views_percentile": 10.6,
-      "runs_percentile": 26.7,
-      "likes_percentile": 88.7
+      "runs_percentile": 26.0,
+      "likes_percentile": 90.1
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 32,
+    "days_tracked": 33,
     "price": 60.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 31,
+    "days_tracked": 32,
     "last_7_days": {
       "views_rank_change": 3,
-      "runs_rank_change": 5,
-      "likes_rank_change": 14
+      "runs_rank_change": 6,
+      "likes_rank_change": 10
     },
     "last_30_days": {
-      "views_rank_change": 32,
-      "runs_rank_change": 28,
-      "likes_rank_change": 19
+      "views_rank_change": 31,
+      "runs_rank_change": 27,
+      "likes_rank_change": 22
     },
     "all_time": {
       "best_views_rank": 228,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 33,
+    "data_points": 34,
     "first_recorded": "2025-12-16T19:09:41.063612",
-    "last_recorded": "2026-01-17T08:01:02.724830",
+    "last_recorded": "2026-01-18T08:01:02.155238",
     "time_series": {
       "dates": [
         "2025-12-16T19:09:41.063612",
@@ -89,7 +89,8 @@
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
-        "2026-01-17T08:01:02.724830"
+        "2026-01-17T08:01:02.724830",
+        "2026-01-18T08:01:02.155238"
       ],
       "views_rank": [
         null,
@@ -122,6 +123,7 @@
         258,
         258,
         258,
+        261,
         261,
         261,
         261
@@ -159,7 +161,8 @@
         210,
         211,
         214,
-        214
+        214,
+        216
       ],
       "likes_rank": [
         null,
@@ -194,7 +197,8 @@
         14,
         85,
         null,
-        33
+        33,
+        29
       ]
     }
   },
@@ -213,12 +217,12 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #33 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #29 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     },
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 32 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 31 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

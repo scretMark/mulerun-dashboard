@@ -1,6 +1,6 @@
 {
   "agent_id": "de4167ad-c2a2-4f81-85ee-01ef33c45f40",
-  "generated_at": "2026-01-17T00:01:13.850635",
+  "generated_at": "2026-01-18T00:01:14.000624",
   "basic_info": {
     "title": "AI Portrait Enhancer",
     "author": "marspace_ai",
@@ -11,40 +11,40 @@
     "published_at": "2025-10-20T17:25:22.899000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@marspace_ai/ai-portrait-enhancer",
-    "days_since_published": 88
+    "days_since_published": 89
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 148,
       "runs_rank": 171,
-      "likes_rank": 66,
+      "likes_rank": 62,
       "total_agents": 292,
       "views_percentile": 49.3,
       "runs_percentile": 41.4,
-      "likes_percentile": 77.4
+      "likes_percentile": 78.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 81,
+    "days_tracked": 82,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 58,
+    "days_tracked": 59,
     "last_7_days": {
       "views_rank_change": 4,
       "runs_rank_change": 4,
-      "likes_rank_change": -149
+      "likes_rank_change": -153
     },
     "last_30_days": {
-      "views_rank_change": 7,
-      "runs_rank_change": 8,
-      "likes_rank_change": -9
+      "views_rank_change": 4,
+      "runs_rank_change": 5,
+      "likes_rank_change": -20
     },
     "all_time": {
       "best_views_rank": 141,
       "best_runs_rank": 161,
-      "best_likes_rank": 66,
+      "best_likes_rank": 62,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 148
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 59,
+    "data_points": 60,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-17T08:01:02.724830",
+    "last_recorded": "2026-01-18T08:01:02.155238",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -115,7 +115,8 @@
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
-        "2026-01-17T08:01:02.724830"
+        "2026-01-17T08:01:02.724830",
+        "2026-01-18T08:01:02.155238"
       ],
       "views_rank": [
         null,
@@ -176,6 +177,7 @@
         146,
         146,
         147,
+        148,
         148
       ],
       "runs_rank": [
@@ -237,6 +239,7 @@
         168,
         169,
         169,
+        171,
         171
       ],
       "likes_rank": [
@@ -298,7 +301,8 @@
         226,
         146,
         93,
-        66
+        66,
+        62
       ]
     }
   },

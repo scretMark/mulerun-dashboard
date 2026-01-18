@@ -1,6 +1,6 @@
 {
   "agent_id": "910d7312-122e-4fdd-a71a-32461ad1319c",
-  "generated_at": "2026-01-17T00:01:15.248002",
+  "generated_at": "2026-01-18T00:01:12.864049",
   "basic_info": {
     "title": "Cute Pet Outfit Generate",
     "author": "8bit",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-08T21:17:46.986000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/cute-pet-outfit-generate",
-    "days_since_published": 39
+    "days_since_published": 40
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 275,
       "runs_rank": 227,
-      "likes_rank": 23,
+      "likes_rank": 22,
       "total_agents": 292,
       "views_percentile": 5.8,
       "runs_percentile": 22.3,
-      "likes_percentile": 92.1
+      "likes_percentile": 92.5
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 39,
+    "days_tracked": 40,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 38,
+    "days_tracked": 39,
     "last_7_days": {
       "views_rank_change": 8,
-      "runs_rank_change": 7,
-      "likes_rank_change": -39
+      "runs_rank_change": 8,
+      "likes_rank_change": -40
     },
     "last_30_days": {
-      "views_rank_change": 37,
-      "runs_rank_change": 22,
-      "likes_rank_change": 15
+      "views_rank_change": 34,
+      "runs_rank_change": 19,
+      "likes_rank_change": 7
     },
     "all_time": {
       "best_views_rank": 236,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 39,
+    "data_points": 40,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2026-01-17T08:01:02.724830",
+    "last_recorded": "2026-01-18T08:01:02.155238",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
@@ -95,7 +95,8 @@
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
-        "2026-01-17T08:01:02.724830"
+        "2026-01-17T08:01:02.724830",
+        "2026-01-18T08:01:02.155238"
       ],
       "views_rank": [
         null,
@@ -135,6 +136,7 @@
         267,
         268,
         274,
+        275,
         275,
         275
       ],
@@ -177,6 +179,7 @@
         220,
         223,
         224,
+        227,
         227
       ],
       "likes_rank": [
@@ -218,7 +221,8 @@
         88,
         45,
         31,
-        23
+        23,
+        22
       ]
     }
   },
@@ -237,12 +241,12 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #23 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #22 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     },
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 37 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 34 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

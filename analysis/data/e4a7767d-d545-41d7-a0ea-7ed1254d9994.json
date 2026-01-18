@@ -1,6 +1,6 @@
 {
   "agent_id": "e4a7767d-d545-41d7-a0ea-7ed1254d9994",
-  "generated_at": "2026-01-17T00:01:14.993748",
+  "generated_at": "2026-01-18T00:01:12.626060",
   "basic_info": {
     "title": "Nano Sketch Design",
     "author": "Aronlong",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-20T10:00:25.694000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aronlong/nano-sketch-design",
-    "days_since_published": 57
+    "days_since_published": 58
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 219,
       "runs_rank": 172,
-      "likes_rank": 105,
+      "likes_rank": 89,
       "total_agents": 292,
       "views_percentile": 25.0,
       "runs_percentile": 41.1,
-      "likes_percentile": 64.0
+      "likes_percentile": 69.5
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 57,
+    "days_tracked": 58,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 54,
+    "days_tracked": 55,
     "last_7_days": {
       "views_rank_change": -1,
       "runs_rank_change": 2,
-      "likes_rank_change": 93
+      "likes_rank_change": 77
     },
     "last_30_days": {
       "views_rank_change": 3,
-      "runs_rank_change": -8,
-      "likes_rank_change": 51
+      "runs_rank_change": 4,
+      "likes_rank_change": 29
     },
     "all_time": {
       "best_views_rank": 215,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 56,
+    "data_points": 57,
     "first_recorded": "2025-11-23T13:27:48.290198",
-    "last_recorded": "2026-01-17T08:01:02.724830",
+    "last_recorded": "2026-01-18T08:01:02.155238",
     "time_series": {
       "dates": [
         "2025-11-23T13:27:48.290198",
@@ -112,7 +112,8 @@
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
-        "2026-01-17T08:01:02.724830"
+        "2026-01-17T08:01:02.724830",
+        "2026-01-18T08:01:02.155238"
       ],
       "views_rank": [
         null,
@@ -170,6 +171,7 @@
         219,
         220,
         218,
+        219,
         219
       ],
       "runs_rank": [
@@ -228,6 +230,7 @@
         170,
         171,
         170,
+        172,
         172
       ],
       "likes_rank": [
@@ -286,7 +289,8 @@
         21,
         15,
         175,
-        105
+        105,
+        89
       ]
     }
   },

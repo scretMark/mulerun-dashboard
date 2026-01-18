@@ -1,6 +1,6 @@
 {
   "agent_id": "dc0565bb-95d1-44f3-9c56-50c0cea81a61",
-  "generated_at": "2026-01-17T00:01:13.601527",
+  "generated_at": "2026-01-18T00:01:13.731225",
   "basic_info": {
     "title": "Business Card",
     "author": "Darren",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-01T16:13:53.027000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/business-card",
-    "days_since_published": 107
+    "days_since_published": 108
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 132,
+      "views_rank": 131,
       "runs_rank": 174,
-      "likes_rank": 147,
+      "likes_rank": 228,
       "total_agents": 292,
-      "views_percentile": 54.8,
+      "views_percentile": 55.1,
       "runs_percentile": 40.4,
-      "likes_percentile": 49.7
+      "likes_percentile": 21.9
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 81,
+    "days_tracked": 82,
     "price": 18.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 58,
+    "days_tracked": 59,
     "last_7_days": {
-      "views_rank_change": 0,
+      "views_rank_change": -1,
       "runs_rank_change": 2,
-      "likes_rank_change": 141
+      "likes_rank_change": 222
     },
     "last_30_days": {
-      "views_rank_change": 6,
-      "runs_rank_change": 21,
-      "likes_rank_change": 56
+      "views_rank_change": 4,
+      "runs_rank_change": 17,
+      "likes_rank_change": 130
     },
     "all_time": {
       "best_views_rank": 126,
@@ -47,14 +47,14 @@
       "best_likes_rank": 1,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 132
+      "current_rank": 131
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 59,
+    "data_points": 60,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-17T08:01:02.724830",
+    "last_recorded": "2026-01-18T08:01:02.155238",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -115,7 +115,8 @@
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
-        "2026-01-17T08:01:02.724830"
+        "2026-01-17T08:01:02.724830",
+        "2026-01-18T08:01:02.155238"
       ],
       "views_rank": [
         null,
@@ -176,7 +177,8 @@
         132,
         132,
         132,
-        132
+        132,
+        131
       ],
       "runs_rank": [
         null,
@@ -237,6 +239,7 @@
         173,
         173,
         173,
+        174,
         174
       ],
       "likes_rank": [
@@ -298,7 +301,8 @@
         1,
         1,
         244,
-        147
+        147,
+        228
       ]
     }
   },
@@ -310,7 +314,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #132 out of 292 active agents."
+      "description": "This agent is currently ranked #131 out of 292 active agents."
     }
   ]
 }

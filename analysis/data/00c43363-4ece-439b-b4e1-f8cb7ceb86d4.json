@@ -1,6 +1,6 @@
 {
   "agent_id": "00c43363-4ece-439b-b4e1-f8cb7ceb86d4",
-  "generated_at": "2026-01-17T00:01:15.806494",
+  "generated_at": "2026-01-18T00:01:13.455295",
   "basic_info": {
     "title": "SoulSync Chat AI  Companion",
     "author": "Eren_kaif",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-25T12:10:36.534000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Eren_kaif/soulsync-ai-agent",
-    "days_since_published": 22
+    "days_since_published": 23
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 206,
       "runs_rank": 112,
-      "likes_rank": 119,
+      "likes_rank": 101,
       "total_agents": 292,
       "views_percentile": 29.5,
       "runs_percentile": 61.6,
-      "likes_percentile": 59.2
+      "likes_percentile": 65.4
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 18,
+    "days_tracked": 19,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 21,
+    "days_tracked": 22,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 0,
-      "likes_rank_change": 83
+      "runs_rank_change": -1,
+      "likes_rank_change": 65
     },
     "last_30_days": {
       "views_rank_change": 9,
       "runs_rank_change": 2,
-      "likes_rank_change": 61
+      "likes_rank_change": 43
     },
     "all_time": {
       "best_views_rank": 197,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 19,
+    "data_points": 20,
     "first_recorded": "2025-12-27T08:01:00.423663",
-    "last_recorded": "2026-01-17T08:01:02.724830",
+    "last_recorded": "2026-01-18T08:01:02.155238",
     "time_series": {
       "dates": [
         "2025-12-27T08:01:00.423663",
@@ -75,7 +75,8 @@
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
-        "2026-01-17T08:01:02.724830"
+        "2026-01-17T08:01:02.724830",
+        "2026-01-18T08:01:02.155238"
       ],
       "views_rank": [
         197,
@@ -96,6 +97,7 @@
         206,
         205,
         206,
+        206,
         206
       ],
       "runs_rank": [
@@ -115,6 +117,7 @@
         113,
         113,
         113,
+        112,
         112,
         112,
         112
@@ -138,7 +141,8 @@
         28,
         209,
         214,
-        119
+        119,
+        101
       ]
     }
   },

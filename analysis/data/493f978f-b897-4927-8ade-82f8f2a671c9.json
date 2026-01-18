@@ -1,6 +1,6 @@
 {
   "agent_id": "493f978f-b897-4927-8ade-82f8f2a671c9",
-  "generated_at": "2026-01-17T00:01:14.137774",
+  "generated_at": "2026-01-18T00:01:14.281529",
   "basic_info": {
     "title": "Pet Super Bowl",
     "author": "LinkAIBrain",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-18T21:03:29.981000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/pet-super-bowl",
-    "days_since_published": 120
+    "days_since_published": 121
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 49,
       "runs_rank": 122,
-      "likes_rank": 250,
+      "likes_rank": 166,
       "total_agents": 292,
       "views_percentile": 83.2,
       "runs_percentile": 58.2,
-      "likes_percentile": 14.4
+      "likes_percentile": 43.2
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 120,
+    "days_tracked": 121,
     "price": 30.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 58,
+    "days_tracked": 59,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 3,
-      "likes_rank_change": 5
+      "likes_rank_change": -79
     },
     "last_30_days": {
       "views_rank_change": 2,
       "runs_rank_change": 8,
-      "likes_rank_change": 106
+      "likes_rank_change": 16
     },
     "all_time": {
       "best_views_rank": 46,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 59,
+    "data_points": 60,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-17T08:01:02.724830",
+    "last_recorded": "2026-01-18T08:01:02.155238",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -115,7 +115,8 @@
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
-        "2026-01-17T08:01:02.724830"
+        "2026-01-17T08:01:02.724830",
+        "2026-01-18T08:01:02.155238"
       ],
       "views_rank": [
         null,
@@ -168,6 +169,7 @@
         48,
         48,
         48,
+        49,
         49,
         49,
         49,
@@ -237,6 +239,7 @@
         120,
         122,
         122,
+        122,
         122
       ],
       "likes_rank": [
@@ -298,7 +301,8 @@
         251,
         226,
         138,
-        250
+        250,
+        166
       ]
     }
   },

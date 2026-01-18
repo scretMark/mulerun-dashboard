@@ -1,6 +1,6 @@
 {
   "agent_id": "76741283-969f-4947-955d-949a3e715d92",
-  "generated_at": "2026-01-17T00:01:16.085443",
+  "generated_at": "2026-01-18T00:01:13.693996",
   "basic_info": {
     "title": "WordSnap Flashcard",
     "author": "LinkAIBrain",
@@ -11,17 +11,17 @@
     "published_at": "2026-01-14T17:13:23.199000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/wordsnap-flashcard",
-    "days_since_published": 2
+    "days_since_published": 3
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 220,
       "runs_rank": 198,
-      "likes_rank": 234,
+      "likes_rank": 158,
       "total_agents": 292,
       "views_percentile": 24.7,
       "runs_percentile": 32.2,
-      "likes_percentile": 19.9
+      "likes_percentile": 45.9
     },
     "tier": "Low",
     "tier_class": "low",
@@ -34,17 +34,17 @@
     "last_7_days": {
       "views_rank_change": -23,
       "runs_rank_change": -16,
-      "likes_rank_change": -9
+      "likes_rank_change": -85
     },
     "last_30_days": {
       "views_rank_change": -23,
       "runs_rank_change": -16,
-      "likes_rank_change": -9
+      "likes_rank_change": -85
     },
     "all_time": {
       "best_views_rank": 220,
       "best_runs_rank": 198,
-      "best_likes_rank": 224,
+      "best_likes_rank": 158,
       "days_in_top_10": 0,
       "first_rank": 243,
       "current_rank": 220
@@ -52,29 +52,33 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 3,
+    "data_points": 4,
     "first_recorded": "2026-01-15T08:01:02.601407",
-    "last_recorded": "2026-01-17T08:01:02.724830",
+    "last_recorded": "2026-01-18T08:01:02.155238",
     "time_series": {
       "dates": [
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
-        "2026-01-17T08:01:02.724830"
+        "2026-01-17T08:01:02.724830",
+        "2026-01-18T08:01:02.155238"
       ],
       "views_rank": [
         243,
         229,
+        220,
         220
       ],
       "runs_rank": [
         214,
         207,
+        198,
         198
       ],
       "likes_rank": [
         243,
         224,
-        234
+        234,
+        158
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "716dff18-e29c-4218-b10b-7b1f36576f87",
-  "generated_at": "2026-01-17T00:01:14.489006",
+  "generated_at": "2026-01-18T00:01:14.594138",
   "basic_info": {
     "title": "Party Polaroid Duo",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-08T22:13:35.010000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/party-polaroid-duo",
-    "days_since_published": 100
+    "days_since_published": 101
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 136,
       "runs_rank": 182,
-      "likes_rank": 154,
+      "likes_rank": 116,
       "total_agents": 292,
       "views_percentile": 53.4,
       "runs_percentile": 37.7,
-      "likes_percentile": 47.3
+      "likes_percentile": 60.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 81,
+    "days_tracked": 82,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 58,
+    "days_tracked": 59,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 4,
-      "likes_rank_change": -71
+      "runs_rank_change": 3,
+      "likes_rank_change": -109
     },
     "last_30_days": {
       "views_rank_change": 8,
-      "runs_rank_change": 28,
-      "likes_rank_change": 62
+      "runs_rank_change": 24,
+      "likes_rank_change": 15
     },
     "all_time": {
       "best_views_rank": 127,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 59,
+    "data_points": 60,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-17T08:01:02.724830",
+    "last_recorded": "2026-01-18T08:01:02.155238",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -115,7 +115,8 @@
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
-        "2026-01-17T08:01:02.724830"
+        "2026-01-17T08:01:02.724830",
+        "2026-01-18T08:01:02.155238"
       ],
       "views_rank": [
         null,
@@ -176,6 +177,7 @@
         136,
         136,
         137,
+        136,
         136
       ],
       "runs_rank": [
@@ -236,6 +238,7 @@
         179,
         180,
         180,
+        182,
         182,
         182
       ],
@@ -298,7 +301,8 @@
         236,
         156,
         101,
-        154
+        154,
+        116
       ]
     }
   },

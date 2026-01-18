@@ -1,6 +1,6 @@
 {
   "agent_id": "a63716fe-8230-49c7-8ea3-a9c1846e5e5c",
-  "generated_at": "2026-01-17T00:01:15.702450",
+  "generated_at": "2026-01-18T00:01:13.339471",
   "basic_info": {
     "title": "Viral Script Humanizer",
     "author": "pxzzf1010_cr73m",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-20T23:35:40.585000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@pxzzf1010_cr73m/viral-script-humanizer",
-    "days_since_published": 27
+    "days_since_published": 28
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 234,
       "runs_rank": 188,
-      "likes_rank": 215,
+      "likes_rank": 151,
       "total_agents": 292,
       "views_percentile": 19.9,
       "runs_percentile": 35.6,
-      "likes_percentile": 26.4
+      "likes_percentile": 48.3
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 22,
+    "days_tracked": 23,
     "price": 15.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 25,
+    "days_tracked": 26,
     "last_7_days": {
-      "views_rank_change": -1,
-      "runs_rank_change": 1,
-      "likes_rank_change": 20
+      "views_rank_change": -2,
+      "runs_rank_change": 0,
+      "likes_rank_change": -44
     },
     "last_30_days": {
       "views_rank_change": 0,
       "runs_rank_change": 1,
-      "likes_rank_change": 174
+      "likes_rank_change": 110
     },
     "all_time": {
       "best_views_rank": 234,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 23,
+    "data_points": 24,
     "first_recorded": "2025-12-23T08:00:59.635142",
-    "last_recorded": "2026-01-17T08:01:02.724830",
+    "last_recorded": "2026-01-18T08:01:02.155238",
     "time_series": {
       "dates": [
         "2025-12-23T08:00:59.635142",
@@ -79,7 +79,8 @@
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
-        "2026-01-17T08:01:02.724830"
+        "2026-01-17T08:01:02.724830",
+        "2026-01-18T08:01:02.155238"
       ],
       "views_rank": [
         234,
@@ -104,6 +105,7 @@
         238,
         235,
         237,
+        234,
         234
       ],
       "runs_rank": [
@@ -129,6 +131,7 @@
         190,
         191,
         191,
+        188,
         188
       ],
       "likes_rank": [
@@ -154,7 +157,8 @@
         207,
         99,
         58,
-        215
+        215,
+        151
       ]
     }
   },

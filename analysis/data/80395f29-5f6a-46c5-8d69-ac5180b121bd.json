@@ -1,6 +1,6 @@
 {
   "agent_id": "80395f29-5f6a-46c5-8d69-ac5180b121bd",
-  "generated_at": "2026-01-17T00:01:14.798919",
+  "generated_at": "2026-01-18T00:01:14.846830",
   "basic_info": {
     "title": "Al Murshid - Peace be upon you",
     "author": "xyLin",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-11T17:28:01.522000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@xyLin/al-murshid-peace-be-upon-you",
-    "days_since_published": 97
+    "days_since_published": 98
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 181,
       "runs_rank": 246,
-      "likes_rank": 75,
+      "likes_rank": 241,
       "total_agents": 292,
       "views_percentile": 38.0,
       "runs_percentile": 15.8,
-      "likes_percentile": 74.3
+      "likes_percentile": 17.5
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 92,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 93,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 58,
+    "days_tracked": 59,
     "last_7_days": {
-      "views_rank_change": 2,
+      "views_rank_change": 1,
       "runs_rank_change": 4,
-      "likes_rank_change": -179
+      "likes_rank_change": -13
     },
     "last_30_days": {
       "views_rank_change": 2,
-      "runs_rank_change": 22,
-      "likes_rank_change": -151
+      "runs_rank_change": 18,
+      "likes_rank_change": 9
     },
     "all_time": {
       "best_views_rank": 170,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 59,
+    "data_points": 60,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-17T08:01:02.724830",
+    "last_recorded": "2026-01-18T08:01:02.155238",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -115,7 +115,8 @@
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
-        "2026-01-17T08:01:02.724830"
+        "2026-01-17T08:01:02.724830",
+        "2026-01-18T08:01:02.155238"
       ],
       "views_rank": [
         null,
@@ -172,6 +173,7 @@
         179,
         179,
         180,
+        181,
         181,
         181,
         181,
@@ -237,6 +239,7 @@
         242,
         245,
         246,
+        246,
         246
       ],
       "likes_rank": [
@@ -298,7 +301,8 @@
         260,
         174,
         111,
-        75
+        75,
+        241
       ]
     }
   },

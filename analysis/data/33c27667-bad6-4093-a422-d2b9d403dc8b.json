@@ -1,6 +1,6 @@
 {
   "agent_id": "33c27667-bad6-4093-a422-d2b9d403dc8b",
-  "generated_at": "2026-01-17T00:01:14.432623",
+  "generated_at": "2026-01-18T00:01:14.549507",
   "basic_info": {
     "title": "An Exploded VIEW",
     "author": "Darren",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-07T16:12:19.379000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/an-exploded-view",
-    "days_since_published": 101
+    "days_since_published": 102
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 120,
-      "runs_rank": 130,
-      "likes_rank": 200,
+      "runs_rank": 129,
+      "likes_rank": 220,
       "total_agents": 292,
       "views_percentile": 58.9,
-      "runs_percentile": 55.5,
-      "likes_percentile": 31.5
+      "runs_percentile": 55.8,
+      "likes_percentile": 24.7
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 81,
+    "days_tracked": 82,
     "price": 48.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 58,
+    "days_tracked": 59,
     "last_7_days": {
       "views_rank_change": -1,
       "runs_rank_change": 1,
-      "likes_rank_change": 175
+      "likes_rank_change": 197
     },
     "last_30_days": {
-      "views_rank_change": 2,
-      "runs_rank_change": 9,
-      "likes_rank_change": 116
+      "views_rank_change": -1,
+      "runs_rank_change": 8,
+      "likes_rank_change": 129
     },
     "all_time": {
       "best_views_rank": 117,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 59,
+    "data_points": 60,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-17T08:01:02.724830",
+    "last_recorded": "2026-01-18T08:01:02.155238",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -115,7 +115,8 @@
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
-        "2026-01-17T08:01:02.724830"
+        "2026-01-17T08:01:02.724830",
+        "2026-01-18T08:01:02.155238"
       ],
       "views_rank": [
         null,
@@ -175,6 +176,7 @@
         121,
         121,
         121,
+        120,
         120,
         120
       ],
@@ -237,7 +239,8 @@
         130,
         130,
         130,
-        130
+        130,
+        129
       ],
       "likes_rank": [
         null,
@@ -298,7 +301,8 @@
         16,
         109,
         177,
-        200
+        200,
+        220
       ]
     }
   },

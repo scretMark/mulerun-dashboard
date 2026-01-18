@@ -1,6 +1,6 @@
 {
   "agent_id": "9e25dbaa-2289-4ced-bafe-c3d169c38d12",
-  "generated_at": "2026-01-17T00:01:15.092260",
+  "generated_at": "2026-01-18T00:01:12.702262",
   "basic_info": {
     "title": "Object Letter Crafter",
     "author": "LinkAIBrain",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-02T14:51:54.036000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/object-letter-crafter",
-    "days_since_published": 45
+    "days_since_published": 46
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 192,
       "runs_rank": 114,
-      "likes_rank": 203,
+      "likes_rank": 144,
       "total_agents": 292,
       "views_percentile": 34.2,
       "runs_percentile": 61.0,
-      "likes_percentile": 30.5
+      "likes_percentile": 50.7
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 46,
+    "days_tracked": 47,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 39,
+    "days_tracked": 40,
     "last_7_days": {
       "views_rank_change": -2,
-      "runs_rank_change": 3,
-      "likes_rank_change": 66
+      "runs_rank_change": 2,
+      "likes_rank_change": 7
     },
     "last_30_days": {
       "views_rank_change": 5,
       "runs_rank_change": 9,
-      "likes_rank_change": 9
+      "likes_rank_change": -58
     },
     "all_time": {
       "best_views_rank": 184,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 42,
+    "data_points": 43,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2026-01-17T08:01:02.724830",
+    "last_recorded": "2026-01-18T08:01:02.155238",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -98,7 +98,8 @@
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
-        "2026-01-17T08:01:02.724830"
+        "2026-01-17T08:01:02.724830",
+        "2026-01-18T08:01:02.155238"
       ],
       "views_rank": [
         null,
@@ -141,6 +142,7 @@
         195,
         195,
         194,
+        192,
         192,
         192
       ],
@@ -186,6 +188,7 @@
         112,
         113,
         114,
+        114,
         114
       ],
       "likes_rank": [
@@ -230,7 +233,8 @@
         125,
         266,
         181,
-        203
+        203,
+        144
       ]
     }
   },

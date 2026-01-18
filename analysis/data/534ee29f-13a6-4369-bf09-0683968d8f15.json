@@ -1,6 +1,6 @@
 {
   "agent_id": "534ee29f-13a6-4369-bf09-0683968d8f15",
-  "generated_at": "2026-01-17T00:01:16.039840",
+  "generated_at": "2026-01-18T00:01:13.664600",
   "basic_info": {
     "title": "Comic Meme Caption",
     "author": "thurnz",
@@ -11,35 +11,35 @@
     "published_at": "2026-01-09T11:09:10.896000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@thurnz/comic-meme-caption",
-    "days_since_published": 7
+    "days_since_published": 8
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 266,
       "runs_rank": 266,
-      "likes_rank": 155,
+      "likes_rank": 117,
       "total_agents": 292,
       "views_percentile": 8.9,
       "runs_percentile": 8.9,
-      "likes_percentile": 46.9
+      "likes_percentile": 59.9
     },
-    "tier": "Low",
-    "tier_class": "low",
+    "tier": "Mid",
+    "tier_class": "mid",
     "days_tracked": 0,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 4,
+    "days_tracked": 5,
     "last_7_days": {
       "views_rank_change": -12,
       "runs_rank_change": 1,
-      "likes_rank_change": 67
+      "likes_rank_change": 29
     },
     "last_30_days": {
       "views_rank_change": -12,
       "runs_rank_change": 1,
-      "likes_rank_change": 67
+      "likes_rank_change": 29
     },
     "all_time": {
       "best_views_rank": 266,
@@ -52,28 +52,31 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 5,
+    "data_points": 6,
     "first_recorded": "2026-01-13T08:00:58.516114",
-    "last_recorded": "2026-01-17T08:01:02.724830",
+    "last_recorded": "2026-01-18T08:01:02.155238",
     "time_series": {
       "dates": [
         "2026-01-13T08:00:58.516114",
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
-        "2026-01-17T08:01:02.724830"
+        "2026-01-17T08:01:02.724830",
+        "2026-01-18T08:01:02.155238"
       ],
       "views_rank": [
         278,
         278,
         281,
         267,
+        266,
         266
       ],
       "runs_rank": [
         265,
         266,
         269,
+        266,
         266,
         266
       ],
@@ -82,7 +85,8 @@
         106,
         55,
         212,
-        155
+        155,
+        117
       ]
     }
   },

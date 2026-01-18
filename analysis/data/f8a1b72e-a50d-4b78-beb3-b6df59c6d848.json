@@ -1,6 +1,6 @@
 {
   "agent_id": "f8a1b72e-a50d-4b78-beb3-b6df59c6d848",
-  "generated_at": "2026-01-17T00:01:15.080417",
+  "generated_at": "2026-01-18T00:01:12.691947",
   "basic_info": {
     "title": "VibeMimic",
     "author": "LinkAIBrain",
@@ -11,40 +11,40 @@
     "published_at": "2025-12-04T07:39:09.075000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/vibemimic",
-    "days_since_published": 43
+    "days_since_published": 44
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 191,
       "runs_rank": 138,
-      "likes_rank": 22,
+      "likes_rank": 21,
       "total_agents": 292,
       "views_percentile": 34.6,
       "runs_percentile": 52.7,
-      "likes_percentile": 92.5
+      "likes_percentile": 92.8
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 45,
+    "days_tracked": 46,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 39,
+    "days_tracked": 40,
     "last_7_days": {
-      "views_rank_change": 1,
+      "views_rank_change": 2,
       "runs_rank_change": 2,
-      "likes_rank_change": -169
+      "likes_rank_change": -172
     },
     "last_30_days": {
       "views_rank_change": 5,
       "runs_rank_change": 13,
-      "likes_rank_change": -34
+      "likes_rank_change": -42
     },
     "all_time": {
       "best_views_rank": 184,
       "best_runs_rank": 124,
-      "best_likes_rank": 22,
+      "best_likes_rank": 21,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 191
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 42,
+    "data_points": 43,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2026-01-17T08:01:02.724830",
+    "last_recorded": "2026-01-18T08:01:02.155238",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -98,7 +98,8 @@
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
-        "2026-01-17T08:01:02.724830"
+        "2026-01-17T08:01:02.724830",
+        "2026-01-18T08:01:02.155238"
       ],
       "views_rank": [
         null,
@@ -139,6 +140,7 @@
         190,
         189,
         190,
+        191,
         191,
         191,
         191,
@@ -186,6 +188,7 @@
         137,
         137,
         137,
+        138,
         138
       ],
       "likes_rank": [
@@ -230,7 +233,8 @@
         85,
         43,
         29,
-        22
+        22,
+        21
       ]
     }
   },
@@ -249,7 +253,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #22 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #21 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

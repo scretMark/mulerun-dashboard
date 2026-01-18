@@ -1,6 +1,6 @@
 {
   "agent_id": "d1a4e711-e486-40bb-9a85-d352068051b9",
-  "generated_at": "2026-01-17T00:01:14.877471",
+  "generated_at": "2026-01-18T00:01:14.917365",
   "basic_info": {
     "title": "Dynamic Style Studio",
     "author": "LinExcel",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-11T12:38:36.113000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinExcel/dynamic-style-studio",
-    "days_since_published": 97
+    "days_since_published": 98
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 208,
       "runs_rank": 263,
-      "likes_rank": 78,
+      "likes_rank": 70,
       "total_agents": 292,
       "views_percentile": 28.8,
       "runs_percentile": 9.9,
-      "likes_percentile": 73.3
+      "likes_percentile": 76.0
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 91,
+    "days_tracked": 92,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 58,
+    "days_tracked": 59,
     "last_7_days": {
       "views_rank_change": 2,
       "runs_rank_change": 4,
-      "likes_rank_change": -190
+      "likes_rank_change": -197
     },
     "last_30_days": {
-      "views_rank_change": 13,
-      "runs_rank_change": 28,
-      "likes_rank_change": -94
+      "views_rank_change": 12,
+      "runs_rank_change": 24,
+      "likes_rank_change": -109
     },
     "all_time": {
       "best_views_rank": 193,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 59,
+    "data_points": 60,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-17T08:01:02.724830",
+    "last_recorded": "2026-01-18T08:01:02.155238",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -115,7 +115,8 @@
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
-        "2026-01-17T08:01:02.724830"
+        "2026-01-17T08:01:02.724830",
+        "2026-01-18T08:01:02.155238"
       ],
       "views_rank": [
         null,
@@ -176,6 +177,7 @@
         207,
         207,
         207,
+        208,
         208
       ],
       "runs_rank": [
@@ -235,6 +237,7 @@
         259,
         259,
         259,
+        263,
         263,
         263,
         263
@@ -298,7 +301,8 @@
         273,
         188,
         118,
-        78
+        78,
+        70
       ]
     }
   },
@@ -310,7 +314,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 13 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 12 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

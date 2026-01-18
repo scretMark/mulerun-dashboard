@@ -1,6 +1,6 @@
 {
   "agent_id": "755c0c67-5364-40b8-a39c-3804fc4029a8",
-  "generated_at": "2026-01-17T00:01:14.838794",
+  "generated_at": "2026-01-18T00:01:14.881782",
   "basic_info": {
     "title": "Your Nobel Moment",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-13T11:03:06.303000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/your-nobel-moment",
-    "days_since_published": 95
+    "days_since_published": 96
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 207,
       "runs_rank": 278,
-      "likes_rank": 69,
+      "likes_rank": 185,
       "total_agents": 292,
       "views_percentile": 29.1,
       "runs_percentile": 4.8,
-      "likes_percentile": 76.4
+      "likes_percentile": 36.6
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 81,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 82,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 58,
+    "days_tracked": 59,
     "last_7_days": {
       "views_rank_change": -2,
       "runs_rank_change": 5,
-      "likes_rank_change": -155
+      "likes_rank_change": -39
     },
     "last_30_days": {
-      "views_rank_change": 14,
-      "runs_rank_change": 37,
-      "likes_rank_change": -69
+      "views_rank_change": 12,
+      "runs_rank_change": 34,
+      "likes_rank_change": 39
     },
     "all_time": {
       "best_views_rank": 192,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 59,
+    "data_points": 60,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-17T08:01:02.724830",
+    "last_recorded": "2026-01-18T08:01:02.155238",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -115,7 +115,8 @@
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
-        "2026-01-17T08:01:02.724830"
+        "2026-01-17T08:01:02.724830",
+        "2026-01-18T08:01:02.155238"
       ],
       "views_rank": [
         null,
@@ -176,6 +177,7 @@
         208,
         208,
         208,
+        207,
         207
       ],
       "runs_rank": [
@@ -237,6 +239,7 @@
         274,
         277,
         277,
+        278,
         278
       ],
       "likes_rank": [
@@ -298,7 +301,8 @@
         234,
         155,
         99,
-        69
+        69,
+        185
       ]
     }
   },
@@ -310,7 +314,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 14 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 12 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

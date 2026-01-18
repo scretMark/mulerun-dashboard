@@ -1,6 +1,6 @@
 {
   "agent_id": "f03d88a2-28ed-440f-8c81-46cdd68e96be",
-  "generated_at": "2026-01-17T00:01:15.019272",
+  "generated_at": "2026-01-18T00:01:12.648432",
   "basic_info": {
     "title": "The Humanizer ",
     "author": "Eren_kaif",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-24T21:31:24.066000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Eren_kaif/the-humanizer",
-    "days_since_published": 53
+    "days_since_published": 54
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 158,
-      "runs_rank": 159,
-      "likes_rank": 163,
+      "views_rank": 157,
+      "runs_rank": 156,
+      "likes_rank": 291,
       "total_agents": 292,
-      "views_percentile": 45.9,
-      "runs_percentile": 45.5,
-      "likes_percentile": 44.2
+      "views_percentile": 46.2,
+      "runs_percentile": 46.6,
+      "likes_percentile": 0.3
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 50,
+    "days_tracked": 51,
     "price": 15.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 52,
+    "days_tracked": 53,
     "last_7_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": 3,
-      "likes_rank_change": 62
+      "views_rank_change": 0,
+      "runs_rank_change": 0,
+      "likes_rank_change": 190
     },
     "last_30_days": {
-      "views_rank_change": -6,
-      "runs_rank_change": -6,
-      "likes_rank_change": -28
+      "views_rank_change": -7,
+      "runs_rank_change": 11,
+      "likes_rank_change": 91
     },
     "all_time": {
       "best_views_rank": 156,
@@ -47,14 +47,14 @@
       "best_likes_rank": 19,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 158
+      "current_rank": 157
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 50,
+    "data_points": 51,
     "first_recorded": "2025-11-26T08:00:32.046352",
-    "last_recorded": "2026-01-17T08:01:02.724830",
+    "last_recorded": "2026-01-18T08:01:02.155238",
     "time_series": {
       "dates": [
         "2025-11-26T08:00:32.046352",
@@ -106,7 +106,8 @@
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
-        "2026-01-17T08:01:02.724830"
+        "2026-01-17T08:01:02.724830",
+        "2026-01-18T08:01:02.155238"
       ],
       "views_rank": [
         null,
@@ -158,7 +159,8 @@
         158,
         157,
         158,
-        158
+        158,
+        157
       ],
       "runs_rank": [
         null,
@@ -210,7 +212,8 @@
         158,
         159,
         159,
-        159
+        159,
+        156
       ],
       "likes_rank": [
         null,
@@ -262,7 +265,8 @@
         62,
         222,
         136,
-        163
+        163,
+        291
       ]
     }
   },
@@ -281,7 +285,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #158 out of 292 active agents."
+      "description": "This agent is currently ranked #157 out of 292 active agents."
     }
   ]
 }

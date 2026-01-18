@@ -1,6 +1,6 @@
 {
   "agent_id": "d888e7ff-6e44-4a3c-a588-2a5b13aa68bf",
-  "generated_at": "2026-01-17T00:01:13.590849",
+  "generated_at": "2026-01-18T00:01:13.719223",
   "basic_info": {
     "title": "n8n stylist",
     "author": "summerail",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-04T14:40:15.184000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/n8n-stylist",
-    "days_since_published": 104
+    "days_since_published": 105
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 106,
       "runs_rank": 270,
-      "likes_rank": 47,
+      "likes_rank": 43,
       "total_agents": 292,
       "views_percentile": 63.7,
       "runs_percentile": 7.5,
-      "likes_percentile": 83.9
+      "likes_percentile": 85.3
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 104,
+    "days_tracked": 105,
     "price": 60.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 58,
+    "days_tracked": 59,
     "last_7_days": {
-      "views_rank_change": 2,
+      "views_rank_change": 1,
       "runs_rank_change": 2,
-      "likes_rank_change": -118
+      "likes_rank_change": -121
     },
     "last_30_days": {
-      "views_rank_change": 9,
-      "runs_rank_change": 28,
-      "likes_rank_change": -14
+      "views_rank_change": 8,
+      "runs_rank_change": 25,
+      "likes_rank_change": -25
     },
     "all_time": {
       "best_views_rank": 97,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 59,
+    "data_points": 60,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-17T08:01:02.724830",
+    "last_recorded": "2026-01-18T08:01:02.155238",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -115,7 +115,8 @@
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
-        "2026-01-17T08:01:02.724830"
+        "2026-01-17T08:01:02.724830",
+        "2026-01-18T08:01:02.155238"
       ],
       "views_rank": [
         null,
@@ -172,6 +173,7 @@
         103,
         104,
         105,
+        106,
         106,
         106,
         106,
@@ -237,6 +239,7 @@
         267,
         270,
         270,
+        270,
         270
       ],
       "likes_rank": [
@@ -298,7 +301,8 @@
         186,
         116,
         68,
-        47
+        47,
+        43
       ]
     }
   },
@@ -310,7 +314,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #47 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #43 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

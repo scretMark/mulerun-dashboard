@@ -1,6 +1,6 @@
 {
   "agent_id": "02e698c2-c9fa-4ad8-a303-8a2065e933dc",
-  "generated_at": "2026-01-17T00:01:15.741265",
+  "generated_at": "2026-01-18T00:01:13.377503",
   "basic_info": {
     "title": "Infinite Monkey Coder",
     "author": "Ailurus",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-23T17:18:40.559000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Ailurus/infinite-monkey-coder",
-    "days_since_published": 24
+    "days_since_published": 25
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 231,
       "runs_rank": 252,
-      "likes_rank": 188,
+      "likes_rank": 137,
       "total_agents": 292,
       "views_percentile": 20.9,
       "runs_percentile": 13.7,
-      "likes_percentile": 35.6
+      "likes_percentile": 53.1
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 21,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 22,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 24,
+    "days_tracked": 25,
     "last_7_days": {
-      "views_rank_change": -5,
+      "views_rank_change": -4,
       "runs_rank_change": -1,
-      "likes_rank_change": 115
+      "likes_rank_change": 64
     },
     "last_30_days": {
       "views_rank_change": -18,
       "runs_rank_change": null,
-      "likes_rank_change": 175
+      "likes_rank_change": 124
     },
     "all_time": {
       "best_views_rank": 230,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 22,
+    "data_points": 23,
     "first_recorded": "2025-12-24T08:01:01.461546",
-    "last_recorded": "2026-01-17T08:01:02.724830",
+    "last_recorded": "2026-01-18T08:01:02.155238",
     "time_series": {
       "dates": [
         "2025-12-24T08:01:01.461546",
@@ -78,7 +78,8 @@
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
-        "2026-01-17T08:01:02.724830"
+        "2026-01-17T08:01:02.724830",
+        "2026-01-18T08:01:02.155238"
       ],
       "views_rank": [
         249,
@@ -102,6 +103,7 @@
         230,
         230,
         230,
+        231,
         231
       ],
       "runs_rank": [
@@ -125,6 +127,7 @@
         253,
         252,
         255,
+        252,
         252,
         252
       ],
@@ -150,7 +153,8 @@
         98,
         51,
         218,
-        188
+        188,
+        137
       ]
     }
   },

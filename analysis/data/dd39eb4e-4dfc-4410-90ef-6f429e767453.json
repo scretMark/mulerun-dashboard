@@ -1,6 +1,6 @@
 {
   "agent_id": "dd39eb4e-4dfc-4410-90ef-6f429e767453",
-  "generated_at": "2026-01-17T00:01:15.125352",
+  "generated_at": "2026-01-18T00:01:12.734357",
   "basic_info": {
     "title": "Christmas Studio",
     "author": "DENNIS",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-04T09:23:54.267000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@DENNIS/christmas-studio",
-    "days_since_published": 43
+    "days_since_published": 44
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 195,
       "runs_rank": 152,
-      "likes_rank": 98,
+      "likes_rank": 85,
       "total_agents": 292,
       "views_percentile": 33.2,
       "runs_percentile": 47.9,
-      "likes_percentile": 66.4
+      "likes_percentile": 70.9
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 43,
+    "days_tracked": 44,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 39,
+    "days_tracked": 40,
     "last_7_days": {
-      "views_rank_change": -2,
+      "views_rank_change": -3,
       "runs_rank_change": -2,
-      "likes_rank_change": -69
+      "likes_rank_change": -82
     },
     "last_30_days": {
-      "views_rank_change": -1,
-      "runs_rank_change": -5,
-      "likes_rank_change": 89
+      "views_rank_change": 1,
+      "runs_rank_change": -3,
+      "likes_rank_change": 46
     },
     "all_time": {
       "best_views_rank": 192,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 42,
+    "data_points": 43,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2026-01-17T08:01:02.724830",
+    "last_recorded": "2026-01-18T08:01:02.155238",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -98,7 +98,8 @@
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
-        "2026-01-17T08:01:02.724830"
+        "2026-01-17T08:01:02.724830",
+        "2026-01-18T08:01:02.155238"
       ],
       "views_rank": [
         null,
@@ -142,6 +143,7 @@
         199,
         197,
         194,
+        195,
         195
       ],
       "runs_rank": [
@@ -186,6 +188,7 @@
         156,
         154,
         151,
+        152,
         152
       ],
       "likes_rank": [
@@ -230,7 +233,8 @@
         180,
         82,
         160,
-        98
+        98,
+        85
       ]
     }
   },

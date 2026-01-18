@@ -1,6 +1,6 @@
 {
   "agent_id": "9ffa3e8b-094f-497d-b491-49ca30b7de10",
-  "generated_at": "2026-01-17T00:01:12.667219",
+  "generated_at": "2026-01-18T00:01:12.600433",
   "basic_info": {
     "title": "Product Creativity Lab",
     "author": "Aichimp",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-10T11:19:13.755000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aichimp/product-creativity-lab",
-    "days_since_published": 67
+    "days_since_published": 68
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 57,
       "runs_rank": 32,
-      "likes_rank": 207,
+      "likes_rank": 216,
       "total_agents": 292,
       "views_percentile": 80.5,
       "runs_percentile": 89.0,
-      "likes_percentile": 29.1
+      "likes_percentile": 26.0
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 96,
+    "days_tracked": 97,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 59,
+    "days_tracked": 60,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": -1,
-      "likes_rank_change": 102
+      "runs_rank_change": 0,
+      "likes_rank_change": 109
     },
     "last_30_days": {
       "views_rank_change": -6,
       "runs_rank_change": -2,
-      "likes_rank_change": 27
+      "likes_rank_change": 26
     },
     "all_time": {
       "best_views_rank": 57,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 60,
+    "data_points": 61,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-17T08:01:02.724830",
+    "last_recorded": "2026-01-18T08:01:02.155238",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -116,7 +116,8 @@
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
-        "2026-01-17T08:01:02.724830"
+        "2026-01-17T08:01:02.724830",
+        "2026-01-18T08:01:02.155238"
       ],
       "views_rank": [
         null,
@@ -169,6 +170,7 @@
         60,
         60,
         60,
+        57,
         57,
         57,
         57,
@@ -240,6 +242,7 @@
         32,
         32,
         32,
+        32,
         32
       ],
       "likes_rank": [
@@ -302,7 +305,8 @@
         119,
         288,
         290,
-        207
+        207,
+        216
       ]
     }
   },

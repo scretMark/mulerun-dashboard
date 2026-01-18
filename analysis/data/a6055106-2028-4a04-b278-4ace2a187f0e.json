@@ -1,6 +1,6 @@
 {
   "agent_id": "a6055106-2028-4a04-b278-4ace2a187f0e",
-  "generated_at": "2026-01-17T00:01:13.422214",
+  "generated_at": "2026-01-18T00:01:13.546579",
   "basic_info": {
     "title": "Amazing Caricature Generator",
     "author": "Darren",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-20T11:37:45.353000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/amazing-caricature-generator",
-    "days_since_published": 88
+    "days_since_published": 89
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 74,
       "runs_rank": 58,
-      "likes_rank": 258,
+      "likes_rank": 207,
       "total_agents": 292,
       "views_percentile": 74.7,
       "runs_percentile": 80.1,
-      "likes_percentile": 11.6
+      "likes_percentile": 29.1
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 86,
+    "days_tracked": 87,
     "price": 51.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 58,
+    "days_tracked": 59,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 0,
-      "likes_rank_change": 241
+      "runs_rank_change": 1,
+      "likes_rank_change": 192
     },
     "last_30_days": {
       "views_rank_change": 2,
-      "runs_rank_change": 2,
-      "likes_rank_change": 98
+      "runs_rank_change": 1,
+      "likes_rank_change": 40
     },
     "all_time": {
       "best_views_rank": 70,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 59,
+    "data_points": 60,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-17T08:01:02.724830",
+    "last_recorded": "2026-01-18T08:01:02.155238",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -115,7 +115,8 @@
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
-        "2026-01-17T08:01:02.724830"
+        "2026-01-17T08:01:02.724830",
+        "2026-01-18T08:01:02.155238"
       ],
       "views_rank": [
         null,
@@ -176,6 +177,7 @@
         72,
         73,
         74,
+        74,
         74
       ],
       "runs_rank": [
@@ -234,6 +236,7 @@
         58,
         57,
         57,
+        58,
         58,
         58,
         58,
@@ -298,7 +301,8 @@
         55,
         30,
         24,
-        258
+        258,
+        207
       ]
     }
   },

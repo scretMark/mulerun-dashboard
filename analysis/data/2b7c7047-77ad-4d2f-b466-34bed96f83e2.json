@@ -1,6 +1,6 @@
 {
   "agent_id": "2b7c7047-77ad-4d2f-b466-34bed96f83e2",
-  "generated_at": "2026-01-17T00:01:14.060227",
+  "generated_at": "2026-01-18T00:01:14.152539",
   "basic_info": {
     "title": "Pet Travel Selfies",
     "author": "YuTou_baby",
@@ -11,50 +11,50 @@
     "published_at": "2025-09-18T16:33:22.114000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@YuTou_baby/pet-travel-selfies",
-    "days_since_published": 120
+    "days_since_published": 121
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 9,
-      "runs_rank": 41,
-      "likes_rank": 256,
+      "runs_rank": 40,
+      "likes_rank": 200,
       "total_agents": 292,
       "views_percentile": 96.9,
-      "runs_percentile": 86.0,
-      "likes_percentile": 12.3
+      "runs_percentile": 86.3,
+      "likes_percentile": 31.5
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 86,
+    "days_tracked": 87,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 58,
+    "days_tracked": 59,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 0,
-      "likes_rank_change": 28
+      "runs_rank_change": -1,
+      "likes_rank_change": -26
     },
     "last_30_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 1,
-      "likes_rank_change": 159
+      "runs_rank_change": 0,
+      "likes_rank_change": 93
     },
     "all_time": {
       "best_views_rank": 9,
       "best_runs_rank": 39,
       "best_likes_rank": 65,
-      "days_in_top_10": 32,
+      "days_in_top_10": 33,
       "first_rank": null,
       "current_rank": 9
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 59,
+    "data_points": 60,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-17T08:01:02.724830",
+    "last_recorded": "2026-01-18T08:01:02.155238",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -115,7 +115,8 @@
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
-        "2026-01-17T08:01:02.724830"
+        "2026-01-17T08:01:02.724830",
+        "2026-01-18T08:01:02.155238"
       ],
       "views_rank": [
         null,
@@ -145,6 +146,7 @@
         null,
         null,
         null,
+        9,
         9,
         9,
         9,
@@ -237,7 +239,8 @@
         41,
         41,
         41,
-        41
+        41,
+        40
       ],
       "likes_rank": [
         null,
@@ -298,7 +301,8 @@
         237,
         264,
         185,
-        256
+        256,
+        200
       ]
     }
   },
@@ -315,7 +319,7 @@
     {
       "type": "positive",
       "title": "Consistent Top Performer",
-      "description": "Maintained Top 10 ranking for 32 days - showing sustained excellence and user preference."
+      "description": "Maintained Top 10 ranking for 33 days - showing sustained excellence and user preference."
     },
     {
       "type": "info",

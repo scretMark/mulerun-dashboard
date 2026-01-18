@@ -1,6 +1,6 @@
 {
   "agent_id": "42d2ed51-da4e-4e29-9162-b3001df3ddcf",
-  "generated_at": "2026-01-17T00:01:13.437034",
+  "generated_at": "2026-01-18T00:01:13.559586",
   "basic_info": {
     "title": "3-Panel Photo Story",
     "author": "Lucas",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-28T19:35:20.624000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/3-panel-photo-story",
-    "days_since_published": 80
+    "days_since_published": 81
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 119,
-      "runs_rank": 110,
+      "runs_rank": 111,
       "likes_rank": 8,
       "total_agents": 292,
       "views_percentile": 59.2,
-      "runs_percentile": 62.3,
+      "runs_percentile": 62.0,
       "likes_percentile": 97.3
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 79,
+    "days_tracked": 80,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 58,
+    "days_tracked": 59,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 2,
       "likes_rank_change": -10
     },
     "last_30_days": {
-      "views_rank_change": 6,
+      "views_rank_change": 5,
       "runs_rank_change": 3,
-      "likes_rank_change": -121
+      "likes_rank_change": -128
     },
     "all_time": {
       "best_views_rank": 111,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 59,
+    "data_points": 60,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-17T08:01:02.724830",
+    "last_recorded": "2026-01-18T08:01:02.155238",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -115,7 +115,8 @@
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
-        "2026-01-17T08:01:02.724830"
+        "2026-01-17T08:01:02.724830",
+        "2026-01-18T08:01:02.155238"
       ],
       "views_rank": [
         null,
@@ -176,6 +177,7 @@
         118,
         118,
         118,
+        119,
         119
       ],
       "runs_rank": [
@@ -237,7 +239,8 @@
         109,
         109,
         110,
-        110
+        110,
+        111
       ],
       "likes_rank": [
         null,
@@ -297,6 +300,7 @@
         19,
         13,
         11,
+        8,
         8,
         8
       ]

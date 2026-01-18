@@ -1,6 +1,6 @@
 {
   "agent_id": "91f6a7f1-7436-4d94-a99b-e3c6ce31819c",
-  "generated_at": "2026-01-17T00:01:15.985054",
+  "generated_at": "2026-01-18T00:01:13.607272",
   "basic_info": {
     "title": "Image To Vector",
     "author": "thurnz",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-31T11:16:00.280000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@thurnz/vectory",
-    "days_since_published": 16
+    "days_since_published": 17
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 245,
       "runs_rank": 276,
-      "likes_rank": 264,
+      "likes_rank": 172,
       "total_agents": 292,
       "views_percentile": 16.1,
       "runs_percentile": 5.5,
-      "likes_percentile": 9.6
+      "likes_percentile": 41.1
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 11,
+    "days_tracked": 12,
     "price": 99.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 11,
+    "days_tracked": 12,
     "last_7_days": {
       "views_rank_change": 4,
       "runs_rank_change": 2,
-      "likes_rank_change": 195
+      "likes_rank_change": 108
     },
     "last_30_days": {
       "views_rank_change": -10,
       "runs_rank_change": 6,
-      "likes_rank_change": 219
+      "likes_rank_change": 127
     },
     "all_time": {
       "best_views_rank": 240,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 12,
+    "data_points": 13,
     "first_recorded": "2026-01-05T08:01:10.022221",
-    "last_recorded": "2026-01-17T08:01:02.724830",
+    "last_recorded": "2026-01-18T08:01:02.155238",
     "time_series": {
       "dates": [
         "2026-01-05T08:01:10.022221",
@@ -68,7 +68,8 @@
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
-        "2026-01-17T08:01:02.724830"
+        "2026-01-17T08:01:02.724830",
+        "2026-01-18T08:01:02.155238"
       ],
       "views_rank": [
         255,
@@ -81,6 +82,7 @@
         242,
         242,
         244,
+        245,
         245,
         245
       ],
@@ -96,6 +98,7 @@
         275,
         278,
         278,
+        276,
         276
       ],
       "likes_rank": [
@@ -110,7 +113,8 @@
         89,
         46,
         32,
-        264
+        264,
+        172
       ]
     }
   },

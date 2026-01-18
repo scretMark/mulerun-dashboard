@@ -1,6 +1,6 @@
 {
   "agent_id": "b5076538-6a9f-4436-9116-7a611066782f",
-  "generated_at": "2026-01-17T00:01:15.645451",
+  "generated_at": "2026-01-18T00:01:13.287099",
   "basic_info": {
     "title": "Tiny Me in a Jar",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-19T16:29:05.699000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/tiny-me-in-a-jar",
-    "days_since_published": 28
+    "days_since_published": 29
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 291,
       "runs_rank": 290,
-      "likes_rank": 62,
+      "likes_rank": 58,
       "total_agents": 292,
       "views_percentile": 0.3,
       "runs_percentile": 0.7,
-      "likes_percentile": 78.8
+      "likes_percentile": 80.1
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 25,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 26,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 28,
+    "days_tracked": 29,
     "last_7_days": {
-      "views_rank_change": 6,
+      "views_rank_change": 5,
       "runs_rank_change": 4,
-      "likes_rank_change": -144
+      "likes_rank_change": -148
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": 40,
-      "likes_rank_change": 22
+      "likes_rank_change": 18
     },
     "all_time": {
       "best_views_rank": 274,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 26,
+    "data_points": 27,
     "first_recorded": "2025-12-20T08:01:00.398750",
-    "last_recorded": "2026-01-17T08:01:02.724830",
+    "last_recorded": "2026-01-18T08:01:02.155238",
     "time_series": {
       "dates": [
         "2025-12-20T08:01:00.398750",
@@ -82,7 +82,8 @@
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
-        "2026-01-17T08:01:02.724830"
+        "2026-01-17T08:01:02.724830",
+        "2026-01-18T08:01:02.155238"
       ],
       "views_rank": [
         null,
@@ -108,6 +109,7 @@
         286,
         288,
         288,
+        291,
         291,
         291,
         291
@@ -138,6 +140,7 @@
         287,
         290,
         290,
+        290,
         290
       ],
       "likes_rank": [
@@ -166,7 +169,8 @@
         216,
         140,
         87,
-        62
+        62,
+        58
       ]
     }
   },
@@ -183,9 +187,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #291 out of 292 active agents."
+      "type": "positive",
+      "title": "High Performer",
+      "description": "Ranked #58 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

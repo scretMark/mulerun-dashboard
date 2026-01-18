@@ -1,6 +1,6 @@
 {
   "agent_id": "ed84b6b3-201c-4342-83dd-6dd45506f382",
-  "generated_at": "2026-01-17T00:01:15.477972",
+  "generated_at": "2026-01-18T00:01:13.120522",
   "basic_info": {
     "title": "TableRay - DOCX Table Autofill Agent",
     "author": "kfyj16401_cr7ns",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-11T18:22:04.599000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@kfyj16401_cr7ns/tableray-docx-table-autofill-agent",
-    "days_since_published": 36
+    "days_since_published": 37
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 189,
       "runs_rank": 153,
-      "likes_rank": 162,
+      "likes_rank": 121,
       "total_agents": 292,
       "views_percentile": 35.3,
       "runs_percentile": 47.6,
-      "likes_percentile": 44.5
+      "likes_percentile": 58.6
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 36,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 37,
     "price": 100.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 35,
+    "days_tracked": 36,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 5,
-      "likes_rank_change": -125
+      "likes_rank_change": -166
     },
     "last_30_days": {
-      "views_rank_change": -5,
-      "runs_rank_change": -6,
-      "likes_rank_change": null
+      "views_rank_change": -4,
+      "runs_rank_change": 3,
+      "likes_rank_change": 63
     },
     "all_time": {
       "best_views_rank": 183,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 36,
+    "data_points": 37,
     "first_recorded": "2025-12-13T08:00:26.854786",
-    "last_recorded": "2026-01-17T08:01:02.724830",
+    "last_recorded": "2026-01-18T08:01:02.155238",
     "time_series": {
       "dates": [
         "2025-12-13T08:00:26.854786",
@@ -92,7 +92,8 @@
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
-        "2026-01-17T08:01:02.724830"
+        "2026-01-17T08:01:02.724830",
+        "2026-01-18T08:01:02.155238"
       ],
       "views_rank": [
         null,
@@ -130,6 +131,7 @@
         190,
         190,
         190,
+        189,
         189
       ],
       "runs_rank": [
@@ -167,6 +169,7 @@
         150,
         151,
         151,
+        153,
         153,
         153
       ],
@@ -206,7 +209,8 @@
         289,
         202,
         128,
-        162
+        162,
+        121
       ]
     }
   },

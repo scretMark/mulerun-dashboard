@@ -1,6 +1,6 @@
 {
   "agent_id": "4ce5fefc-ed2f-46b2-b889-2c0223955156",
-  "generated_at": "2026-01-17T00:01:16.012894",
+  "generated_at": "2026-01-18T00:01:13.636172",
   "basic_info": {
     "title": "Manga Translator",
     "author": "usernuk",
@@ -11,21 +11,21 @@
     "published_at": "2026-01-06T09:35:53.576000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@usernuk/manga-translator",
-    "days_since_published": 10
+    "days_since_published": 11
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 268,
       "runs_rank": 273,
-      "likes_rank": 85,
+      "likes_rank": 76,
       "total_agents": 292,
       "views_percentile": 8.2,
       "runs_percentile": 6.5,
-      "likes_percentile": 70.9
+      "likes_percentile": 74.0
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 9,
+    "days_tracked": 10,
     "price": 25.0
   },
   "ranking_trends": {
@@ -34,12 +34,12 @@
     "last_7_days": {
       "views_rank_change": -3,
       "runs_rank_change": 4,
-      "likes_rank_change": 44
+      "likes_rank_change": 34
     },
     "last_30_days": {
       "views_rank_change": 0,
       "runs_rank_change": 5,
-      "likes_rank_change": 1
+      "likes_rank_change": -8
     },
     "all_time": {
       "best_views_rank": 265,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 9,
+    "data_points": 10,
     "first_recorded": "2026-01-08T08:01:02.485852",
-    "last_recorded": "2026-01-17T08:01:02.724830",
+    "last_recorded": "2026-01-18T08:01:02.155238",
     "time_series": {
       "dates": [
         "2026-01-08T08:01:02.485852",
@@ -65,7 +65,8 @@
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
-        "2026-01-17T08:01:02.724830"
+        "2026-01-17T08:01:02.724830",
+        "2026-01-18T08:01:02.155238"
       ],
       "views_rank": [
         268,
@@ -76,6 +77,7 @@
         265,
         267,
         268,
+        268,
         268
       ],
       "runs_rank": [
@@ -85,6 +87,7 @@
         269,
         270,
         270,
+        273,
         273,
         273,
         273
@@ -98,7 +101,8 @@
         54,
         210,
         131,
-        85
+        85,
+        76
       ]
     }
   },

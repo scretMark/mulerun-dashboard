@@ -1,6 +1,6 @@
 {
   "agent_id": "e00f297d-d5c8-4e32-9a24-2fefa1f1bdc2",
-  "generated_at": "2026-01-17T00:01:14.703195",
+  "generated_at": "2026-01-18T00:01:14.766861",
   "basic_info": {
     "title": "TRON Ares Neon Filter",
     "author": "Lucas",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-20T21:17:38.032000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/tron-ares-neon-filter",
-    "days_since_published": 88
+    "days_since_published": 89
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 174,
       "runs_rank": 197,
-      "likes_rank": 265,
+      "likes_rank": 173,
       "total_agents": 292,
       "views_percentile": 40.4,
       "runs_percentile": 32.5,
-      "likes_percentile": 9.2
+      "likes_percentile": 40.8
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 87,
+    "days_tracked": 88,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 58,
+    "days_tracked": 59,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": 25
+      "likes_rank_change": -67
     },
     "last_30_days": {
-      "views_rank_change": 13,
-      "runs_rank_change": 21,
-      "likes_rank_change": 153
+      "views_rank_change": 11,
+      "runs_rank_change": 19,
+      "likes_rank_change": 54
     },
     "all_time": {
       "best_views_rank": 160,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 59,
+    "data_points": 60,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-17T08:01:02.724830",
+    "last_recorded": "2026-01-18T08:01:02.155238",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -115,7 +115,8 @@
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
-        "2026-01-17T08:01:02.724830"
+        "2026-01-17T08:01:02.724830",
+        "2026-01-18T08:01:02.155238"
       ],
       "views_rank": [
         null,
@@ -174,6 +175,7 @@
         174,
         172,
         173,
+        174,
         174,
         174,
         174
@@ -237,6 +239,7 @@
         199,
         199,
         199,
+        197,
         197
       ],
       "likes_rank": [
@@ -298,7 +301,8 @@
         247,
         162,
         104,
-        265
+        265,
+        173
       ]
     }
   },
@@ -310,7 +314,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 13 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 11 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "55ad9afe-8429-41b7-9259-8bd2538653e7",
-  "generated_at": "2026-01-17T00:01:13.513458",
+  "generated_at": "2026-01-18T00:01:13.639711",
   "basic_info": {
     "title": "LinkMatch: Smart Job Matcher",
     "author": "YuTou_baby",
@@ -11,35 +11,35 @@
     "published_at": "2025-08-21T21:03:54.436000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@YuTou_baby/linkmatch-smart-job-matcher",
-    "days_since_published": 148
+    "days_since_published": 149
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 30,
+      "views_rank": 29,
       "runs_rank": 39,
-      "likes_rank": 239,
+      "likes_rank": 224,
       "total_agents": 292,
-      "views_percentile": 89.7,
+      "views_percentile": 90.1,
       "runs_percentile": 86.6,
-      "likes_percentile": 18.2
+      "likes_percentile": 23.3
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 123,
+    "days_tracked": 124,
     "price": 8.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 58,
+    "days_tracked": 59,
     "last_7_days": {
-      "views_rank_change": 0,
+      "views_rank_change": -1,
       "runs_rank_change": 0,
-      "likes_rank_change": 79
+      "likes_rank_change": 64
     },
     "last_30_days": {
-      "views_rank_change": 2,
-      "runs_rank_change": 2,
-      "likes_rank_change": 218
+      "views_rank_change": 0,
+      "runs_rank_change": 1,
+      "likes_rank_change": 200
     },
     "all_time": {
       "best_views_rank": 28,
@@ -47,14 +47,14 @@
       "best_likes_rank": 21,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 30
+      "current_rank": 29
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 59,
+    "data_points": 60,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-17T08:01:02.724830",
+    "last_recorded": "2026-01-18T08:01:02.155238",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -115,7 +115,8 @@
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
-        "2026-01-17T08:01:02.724830"
+        "2026-01-17T08:01:02.724830",
+        "2026-01-18T08:01:02.155238"
       ],
       "views_rank": [
         null,
@@ -176,7 +177,8 @@
         30,
         30,
         30,
-        30
+        30,
+        29
       ],
       "runs_rank": [
         null,
@@ -226,6 +228,7 @@
         38,
         38,
         38,
+        39,
         39,
         39,
         39,
@@ -298,7 +301,8 @@
         177,
         291,
         241,
-        239
+        239,
+        224
       ]
     }
   },
@@ -310,7 +314,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #30 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #29 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

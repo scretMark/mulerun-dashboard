@@ -1,6 +1,6 @@
 {
   "agent_id": "9a3a6654-4fc6-4489-b012-70750d3d05a4",
-  "generated_at": "2026-01-17T00:01:14.903311",
+  "generated_at": "2026-01-18T00:01:14.939418",
   "basic_info": {
     "title": "FrostyPunster",
     "author": "hoainamluci",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-14T00:45:06.127000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@hoainamluci/frostypunster",
-    "days_since_published": 94
+    "days_since_published": 95
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 204,
       "runs_rank": 292,
-      "likes_rank": 103,
+      "likes_rank": 88,
       "total_agents": 292,
       "views_percentile": 30.1,
       "runs_percentile": 0.0,
-      "likes_percentile": 64.7
+      "likes_percentile": 69.9
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 91,
+    "days_tracked": 92,
     "price": 70.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 58,
+    "days_tracked": 59,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 4,
-      "likes_rank_change": 87
+      "likes_rank_change": 71
     },
     "last_30_days": {
       "views_rank_change": 12,
-      "runs_rank_change": 45,
-      "likes_rank_change": 18
+      "runs_rank_change": null,
+      "likes_rank_change": -4
     },
     "all_time": {
       "best_views_rank": 191,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 59,
+    "data_points": 60,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-17T08:01:02.724830",
+    "last_recorded": "2026-01-18T08:01:02.155238",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -115,7 +115,8 @@
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
-        "2026-01-17T08:01:02.724830"
+        "2026-01-17T08:01:02.724830",
+        "2026-01-18T08:01:02.155238"
       ],
       "views_rank": [
         null,
@@ -176,6 +177,7 @@
         204,
         206,
         204,
+        204,
         204
       ],
       "runs_rank": [
@@ -235,6 +237,7 @@
         288,
         289,
         289,
+        292,
         292,
         292,
         292
@@ -298,7 +301,8 @@
         12,
         10,
         169,
-        103
+        103,
+        88
       ]
     }
   },

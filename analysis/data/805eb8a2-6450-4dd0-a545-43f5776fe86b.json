@@ -1,6 +1,6 @@
 {
   "agent_id": "805eb8a2-6450-4dd0-a545-43f5776fe86b",
-  "generated_at": "2026-01-17T00:01:16.065002",
+  "generated_at": "2026-01-18T00:01:13.683648",
   "basic_info": {
     "title": "YouTube StudySlice",
     "author": "laughing_code",
@@ -11,17 +11,17 @@
     "published_at": "2026-01-05T09:54:17.078000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@laughing_code/youtube-studyslice",
-    "days_since_published": 11
+    "days_since_published": 12
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 255,
       "runs_rank": 202,
-      "likes_rank": 238,
+      "likes_rank": 161,
       "total_agents": 292,
       "views_percentile": 12.7,
       "runs_percentile": 30.8,
-      "likes_percentile": 18.5
+      "likes_percentile": 44.9
     },
     "tier": "Low",
     "tier_class": "low",
@@ -34,17 +34,17 @@
     "last_7_days": {
       "views_rank_change": -5,
       "runs_rank_change": 0,
-      "likes_rank_change": 22
+      "likes_rank_change": -55
     },
     "last_30_days": {
       "views_rank_change": -5,
       "runs_rank_change": 0,
-      "likes_rank_change": 22
+      "likes_rank_change": -55
     },
     "all_time": {
       "best_views_rank": 255,
       "best_runs_rank": 201,
-      "best_likes_rank": 216,
+      "best_likes_rank": 161,
       "days_in_top_10": 0,
       "first_rank": 260,
       "current_rank": 255
@@ -52,29 +52,33 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 3,
+    "data_points": 4,
     "first_recorded": "2026-01-15T08:01:02.601407",
-    "last_recorded": "2026-01-17T08:01:02.724830",
+    "last_recorded": "2026-01-18T08:01:02.155238",
     "time_series": {
       "dates": [
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
-        "2026-01-17T08:01:02.724830"
+        "2026-01-17T08:01:02.724830",
+        "2026-01-18T08:01:02.155238"
       ],
       "views_rank": [
         260,
         256,
+        255,
         255
       ],
       "runs_rank": [
         202,
         201,
+        202,
         202
       ],
       "likes_rank": [
         216,
         228,
-        238
+        238,
+        161
       ]
     }
   },

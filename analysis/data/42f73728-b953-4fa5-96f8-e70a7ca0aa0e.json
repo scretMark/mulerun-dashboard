@@ -1,6 +1,6 @@
 {
   "agent_id": "42f73728-b953-4fa5-96f8-e70a7ca0aa0e",
-  "generated_at": "2026-01-17T00:01:12.868502",
+  "generated_at": "2026-01-18T00:01:12.893318",
   "basic_info": {
     "title": "Winter Embrace",
     "author": "Norsizu",
@@ -11,40 +11,40 @@
     "published_at": "2025-11-06T14:48:19.484000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/winter-embrace",
-    "days_since_published": 71
+    "days_since_published": 72
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 92,
-      "runs_rank": 97,
-      "likes_rank": 115,
+      "runs_rank": 98,
+      "likes_rank": 97,
       "total_agents": 292,
       "views_percentile": 68.5,
-      "runs_percentile": 66.8,
-      "likes_percentile": 60.6
+      "runs_percentile": 66.4,
+      "likes_percentile": 66.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 71,
+    "days_tracked": 72,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 58,
+    "days_tracked": 59,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 1,
-      "likes_rank_change": -133
+      "runs_rank_change": 2,
+      "likes_rank_change": -151
     },
     "last_30_days": {
       "views_rank_change": 3,
-      "runs_rank_change": 3,
-      "likes_rank_change": -80
+      "runs_rank_change": 4,
+      "likes_rank_change": -104
     },
     "all_time": {
       "best_views_rank": 89,
       "best_runs_rank": 93,
-      "best_likes_rank": 111,
+      "best_likes_rank": 97,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 92
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 59,
+    "data_points": 60,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-17T08:01:02.724830",
+    "last_recorded": "2026-01-18T08:01:02.155238",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -115,7 +115,8 @@
         "2026-01-14T08:00:59.567570",
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
-        "2026-01-17T08:01:02.724830"
+        "2026-01-17T08:01:02.724830",
+        "2026-01-18T08:01:02.155238"
       ],
       "views_rank": [
         null,
@@ -176,6 +177,7 @@
         91,
         91,
         91,
+        92,
         92
       ],
       "runs_rank": [
@@ -237,7 +239,8 @@
         97,
         97,
         97,
-        97
+        97,
+        98
       ],
       "likes_rank": [
         null,
@@ -298,7 +301,8 @@
         255,
         170,
         203,
-        115
+        115,
+        97
       ]
     }
   },
