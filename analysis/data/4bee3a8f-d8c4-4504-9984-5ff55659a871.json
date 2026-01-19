@@ -1,6 +1,6 @@
 {
   "agent_id": "4bee3a8f-d8c4-4504-9984-5ff55659a871",
-  "generated_at": "2026-01-18T00:01:14.778012",
+  "generated_at": "2026-01-19T00:01:17.400433",
   "basic_info": {
     "title": "REMOVE Video Background",
     "author": "Darren",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-09T22:09:15.655000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/remove-video-background",
-    "days_since_published": 100
+    "days_since_published": 101
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 156,
       "runs_rank": 281,
-      "likes_rank": 138,
+      "likes_rank": 230,
       "total_agents": 292,
       "views_percentile": 46.6,
       "runs_percentile": 3.8,
-      "likes_percentile": 52.7
+      "likes_percentile": 21.2
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 98,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 99,
     "price": 288.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 59,
+    "days_tracked": 60,
     "last_7_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": 4,
-      "likes_rank_change": 49
+      "views_rank_change": 3,
+      "runs_rank_change": 3,
+      "likes_rank_change": 133
     },
     "last_30_days": {
-      "views_rank_change": 0,
+      "views_rank_change": -1,
       "runs_rank_change": 32,
-      "likes_rank_change": -104
+      "likes_rank_change": -12
     },
     "all_time": {
       "best_views_rank": 153,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 60,
+    "data_points": 61,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-18T08:01:02.155238",
+    "last_recorded": "2026-01-19T08:01:06.429153",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -116,7 +116,8 @@
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
-        "2026-01-18T08:01:02.155238"
+        "2026-01-18T08:01:02.155238",
+        "2026-01-19T08:01:06.429153"
       ],
       "views_rank": [
         null,
@@ -178,6 +179,7 @@
         155,
         156,
         156,
+        156,
         156
       ],
       "runs_rank": [
@@ -237,6 +239,7 @@
         277,
         278,
         278,
+        281,
         281,
         281,
         281,
@@ -302,7 +305,8 @@
         60,
         37,
         190,
-        138
+        138,
+        230
       ]
     }
   },

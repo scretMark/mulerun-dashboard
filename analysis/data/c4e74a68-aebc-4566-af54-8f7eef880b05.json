@@ -1,6 +1,6 @@
 {
   "agent_id": "c4e74a68-aebc-4566-af54-8f7eef880b05",
-  "generated_at": "2026-01-18T00:01:12.820267",
+  "generated_at": "2026-01-19T00:01:17.803208",
   "basic_info": {
     "title": "CoinAnalyst Pro",
     "author": "Barry",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-06T23:56:50.364000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Barry/coinanalyst-pro",
-    "days_since_published": 42
+    "days_since_published": 43
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 221,
       "runs_rank": 142,
-      "likes_rank": 14,
+      "likes_rank": 12,
       "total_agents": 292,
       "views_percentile": 24.3,
       "runs_percentile": 51.4,
-      "likes_percentile": 95.2
+      "likes_percentile": 95.9
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 40,
+    "days_tracked": 41,
     "price": 78.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 39,
+    "days_tracked": 40,
     "last_7_days": {
-      "views_rank_change": 6,
-      "runs_rank_change": 3,
-      "likes_rank_change": -27
+      "views_rank_change": 4,
+      "runs_rank_change": 2,
+      "likes_rank_change": -31
     },
     "last_30_days": {
       "views_rank_change": 4,
       "runs_rank_change": 13,
-      "likes_rank_change": 4
+      "likes_rank_change": 2
     },
     "all_time": {
       "best_views_rank": 212,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 40,
+    "data_points": 41,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2026-01-18T08:01:02.155238",
+    "last_recorded": "2026-01-19T08:01:06.429153",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
@@ -96,7 +96,8 @@
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
-        "2026-01-18T08:01:02.155238"
+        "2026-01-18T08:01:02.155238",
+        "2026-01-19T08:01:06.429153"
       ],
       "views_rank": [
         null,
@@ -137,6 +138,7 @@
         217,
         218,
         219,
+        221,
         221,
         221
       ],
@@ -180,6 +182,7 @@
         140,
         140,
         141,
+        142,
         142
       ],
       "likes_rank": [
@@ -222,7 +225,8 @@
         21,
         16,
         14,
-        14
+        14,
+        12
       ]
     }
   },
@@ -241,7 +245,7 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #14 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #12 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     }
   ]
 }

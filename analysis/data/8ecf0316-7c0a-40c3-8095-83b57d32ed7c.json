@@ -1,6 +1,6 @@
 {
   "agent_id": "8ecf0316-7c0a-40c3-8095-83b57d32ed7c",
-  "generated_at": "2026-01-18T00:01:12.659207",
+  "generated_at": "2026-01-19T00:01:17.651929",
   "basic_info": {
     "title": "Historical place visualizer",
     "author": "Bhola",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-24T13:53:45.229000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Bhola/historical-place-visualizer",
-    "days_since_published": 54
+    "days_since_published": 55
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 241,
       "runs_rank": 245,
-      "likes_rank": 80,
+      "likes_rank": 73,
       "total_agents": 292,
       "views_percentile": 17.5,
       "runs_percentile": 16.1,
-      "likes_percentile": 72.6
+      "likes_percentile": 75.0
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 51,
+    "days_tracked": 52,
     "price": 29.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 53,
+    "days_tracked": 54,
     "last_7_days": {
       "views_rank_change": 7,
       "runs_rank_change": 4,
-      "likes_rank_change": -5
+      "likes_rank_change": -13
     },
     "last_30_days": {
       "views_rank_change": 22,
       "runs_rank_change": 28,
-      "likes_rank_change": -105
+      "likes_rank_change": -112
     },
     "all_time": {
       "best_views_rank": 218,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 51,
+    "data_points": 52,
     "first_recorded": "2025-11-26T08:00:32.046352",
-    "last_recorded": "2026-01-18T08:01:02.155238",
+    "last_recorded": "2026-01-19T08:01:06.429153",
     "time_series": {
       "dates": [
         "2025-11-26T08:00:32.046352",
@@ -107,7 +107,8 @@
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
-        "2026-01-18T08:01:02.155238"
+        "2026-01-18T08:01:02.155238",
+        "2026-01-19T08:01:06.429153"
       ],
       "views_rank": [
         null,
@@ -160,6 +161,7 @@
         239,
         239,
         239,
+        241,
         241
       ],
       "runs_rank": [
@@ -211,6 +213,7 @@
         241,
         241,
         244,
+        245,
         245,
         245,
         245
@@ -266,7 +269,8 @@
         54,
         150,
         93,
-        80
+        80,
+        73
       ]
     }
   },

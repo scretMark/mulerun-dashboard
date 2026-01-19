@@ -1,6 +1,6 @@
 {
   "agent_id": "c6e6259a-6305-4216-91cd-e65c7ae20610",
-  "generated_at": "2026-01-18T00:01:14.308078",
+  "generated_at": "2026-01-19T00:01:16.885635",
   "basic_info": {
     "title": "EduCard Generator",
     "author": "LunarAITalk",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-14T14:19:31.754000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LunarAITalk/educard-generator",
-    "days_since_published": 125
+    "days_since_published": 126
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 50,
-      "runs_rank": 77,
-      "likes_rank": 132,
+      "runs_rank": 76,
+      "likes_rank": 258,
       "total_agents": 292,
       "views_percentile": 82.9,
-      "runs_percentile": 73.6,
-      "likes_percentile": 54.8
+      "runs_percentile": 74.0,
+      "likes_percentile": 11.6
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 124,
+    "days_tracked": 125,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 59,
+    "days_tracked": 60,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 1,
-      "likes_rank_change": 26
+      "runs_rank_change": 0,
+      "likes_rank_change": 148
     },
     "last_30_days": {
       "views_rank_change": 0,
-      "runs_rank_change": -6,
-      "likes_rank_change": 11
+      "runs_rank_change": -7,
+      "likes_rank_change": 137
     },
     "all_time": {
       "best_views_rank": 49,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 60,
+    "data_points": 61,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-18T08:01:02.155238",
+    "last_recorded": "2026-01-19T08:01:06.429153",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -116,7 +116,8 @@
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
-        "2026-01-18T08:01:02.155238"
+        "2026-01-18T08:01:02.155238",
+        "2026-01-19T08:01:06.429153"
       ],
       "views_rank": [
         null,
@@ -167,6 +168,7 @@
         50,
         50,
         49,
+        50,
         50,
         50,
         50,
@@ -240,7 +242,8 @@
         76,
         77,
         77,
-        77
+        77,
+        76
       ],
       "likes_rank": [
         null,
@@ -302,7 +305,8 @@
         239,
         230,
         180,
-        132
+        132,
+        258
       ]
     }
   },

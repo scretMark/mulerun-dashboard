@@ -1,6 +1,6 @@
 {
   "agent_id": "9f3e2d27-ac24-4ed3-8082-5f67a4d6bf14",
-  "generated_at": "2026-01-18T00:01:12.909854",
+  "generated_at": "2026-01-19T00:01:17.852635",
   "basic_info": {
     "title": "Fireworks Show",
     "author": "LinkAIBrain",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-03T11:04:04.300000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/fireworks-show",
-    "days_since_published": 45
+    "days_since_published": 46
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 218,
       "runs_rank": 232,
-      "likes_rank": 13,
+      "likes_rank": 290,
       "total_agents": 292,
       "views_percentile": 25.3,
       "runs_percentile": 20.5,
-      "likes_percentile": 95.5
+      "likes_percentile": 0.7
     },
-    "tier": "Elite",
-    "tier_class": "elite",
-    "days_tracked": 40,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 41,
     "price": 500.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 39,
+    "days_tracked": 40,
     "last_7_days": {
-      "views_rank_change": 2,
+      "views_rank_change": 3,
       "runs_rank_change": 6,
-      "likes_rank_change": -24
+      "likes_rank_change": 249
     },
     "last_30_days": {
       "views_rank_change": -22,
       "runs_rank_change": -9,
-      "likes_rank_change": 11
+      "likes_rank_change": 288
     },
     "all_time": {
       "best_views_rank": 215,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 40,
+    "data_points": 41,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2026-01-18T08:01:02.155238",
+    "last_recorded": "2026-01-19T08:01:06.429153",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
@@ -96,7 +96,8 @@
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
-        "2026-01-18T08:01:02.155238"
+        "2026-01-18T08:01:02.155238",
+        "2026-01-19T08:01:06.429153"
       ],
       "views_rank": [
         null,
@@ -137,6 +138,7 @@
         215,
         216,
         217,
+        218,
         218,
         218
       ],
@@ -180,6 +182,7 @@
         228,
         229,
         232,
+        232,
         232
       ],
       "likes_rank": [
@@ -222,7 +225,8 @@
         19,
         14,
         13,
-        13
+        13,
+        290
       ]
     }
   },
@@ -238,11 +242,6 @@
     ]
   },
   "insights": [
-    {
-      "type": "positive",
-      "title": "Elite Performance",
-      "description": "Ranked #13 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
-    },
     {
       "type": "positive",
       "title": "Rising Star",

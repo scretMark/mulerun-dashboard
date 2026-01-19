@@ -1,6 +1,6 @@
 {
   "agent_id": "30f30c83-6e05-4dc6-b19a-92b00b517a4e",
-  "generated_at": "2026-01-18T00:01:13.477318",
+  "generated_at": "2026-01-19T00:01:18.446198",
   "basic_info": {
     "title": "Image to gif",
     "author": "freeya619",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-25T17:32:32.840000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@freeya619/img-to-gif",
-    "days_since_published": 23
+    "days_since_published": 24
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 235,
+      "views_rank": 237,
       "runs_rank": 146,
-      "likes_rank": 246,
+      "likes_rank": 186,
       "total_agents": 292,
-      "views_percentile": 19.5,
+      "views_percentile": 18.8,
       "runs_percentile": 50.0,
-      "likes_percentile": 15.8
+      "likes_percentile": 36.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 19,
+    "days_tracked": 20,
     "price": 2.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 22,
+    "days_tracked": 23,
     "last_7_days": {
-      "views_rank_change": -7,
-      "runs_rank_change": -15,
-      "likes_rank_change": 245
+      "views_rank_change": -4,
+      "runs_rank_change": -10,
+      "likes_rank_change": 171
     },
     "last_30_days": {
-      "views_rank_change": 6,
+      "views_rank_change": 8,
       "runs_rank_change": -3,
-      "likes_rank_change": 232
+      "likes_rank_change": 172
     },
     "all_time": {
       "best_views_rank": 229,
@@ -47,14 +47,14 @@
       "best_likes_rank": 1,
       "days_in_top_10": 0,
       "first_rank": 229,
-      "current_rank": 235
+      "current_rank": 237
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 20,
+    "data_points": 21,
     "first_recorded": "2025-12-27T08:01:00.423663",
-    "last_recorded": "2026-01-18T08:01:02.155238",
+    "last_recorded": "2026-01-19T08:01:06.429153",
     "time_series": {
       "dates": [
         "2025-12-27T08:01:00.423663",
@@ -76,7 +76,8 @@
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
-        "2026-01-18T08:01:02.155238"
+        "2026-01-18T08:01:02.155238",
+        "2026-01-19T08:01:06.429153"
       ],
       "views_rank": [
         229,
@@ -98,7 +99,8 @@
         238,
         241,
         241,
-        235
+        235,
+        237
       ],
       "runs_rank": [
         149,
@@ -119,6 +121,7 @@
         143,
         144,
         144,
+        146,
         146,
         146
       ],
@@ -142,7 +145,8 @@
         27,
         22,
         18,
-        246
+        246,
+        186
       ]
     }
   },
@@ -159,9 +163,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "Hot Trend",
-      "description": "Up 7 positions in just 7 days - currently trending and gaining rapid visibility!"
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #237 out of 292 active agents."
     }
   ]
 }

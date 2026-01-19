@@ -1,6 +1,6 @@
 {
   "agent_id": "9d2804c0-a7fb-4d9c-b60a-e2c26a1638f2",
-  "generated_at": "2026-01-18T00:01:14.118400",
+  "generated_at": "2026-01-19T00:01:16.757435",
   "basic_info": {
     "title": "Outfit Decomposition",
     "author": "zafmlrxoaw869hw",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-11T13:09:43.389000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@zafmlrxoaw869hw/outfit-decomposition",
-    "days_since_published": 98
+    "days_since_published": 99
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 229,
       "runs_rank": 264,
-      "likes_rank": 147,
+      "likes_rank": 121,
       "total_agents": 292,
       "views_percentile": 21.6,
       "runs_percentile": 9.6,
-      "likes_percentile": 49.7
+      "likes_percentile": 58.6
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 92,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 93,
     "price": 70.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 59,
+    "days_tracked": 60,
     "last_7_days": {
-      "views_rank_change": 5,
+      "views_rank_change": 4,
       "runs_rank_change": 4,
-      "likes_rank_change": -54
+      "likes_rank_change": -82
     },
     "last_30_days": {
-      "views_rank_change": 23,
+      "views_rank_change": 22,
       "runs_rank_change": 27,
-      "likes_rank_change": 60
+      "likes_rank_change": 34
     },
     "all_time": {
       "best_views_rank": 202,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 60,
+    "data_points": 61,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-18T08:01:02.155238",
+    "last_recorded": "2026-01-19T08:01:06.429153",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -116,7 +116,8 @@
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
-        "2026-01-18T08:01:02.155238"
+        "2026-01-18T08:01:02.155238",
+        "2026-01-19T08:01:06.429153"
       ],
       "views_rank": [
         null,
@@ -178,6 +179,7 @@
         226,
         228,
         229,
+        229,
         229
       ],
       "runs_rank": [
@@ -237,6 +239,7 @@
         260,
         260,
         260,
+        264,
         264,
         264,
         264,
@@ -302,7 +305,8 @@
         136,
         83,
         210,
-        147
+        147,
+        121
       ]
     }
   },
@@ -314,7 +318,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 23 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 22 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "4ce5fefc-ed2f-46b2-b889-2c0223955156",
-  "generated_at": "2026-01-18T00:01:13.636172",
+  "generated_at": "2026-01-19T00:01:18.601579",
   "basic_info": {
     "title": "Manga Translator",
     "author": "usernuk",
@@ -11,35 +11,35 @@
     "published_at": "2026-01-06T09:35:53.576000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@usernuk/manga-translator",
-    "days_since_published": 11
+    "days_since_published": 12
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 268,
       "runs_rank": 273,
-      "likes_rank": 76,
+      "likes_rank": 70,
       "total_agents": 292,
       "views_percentile": 8.2,
       "runs_percentile": 6.5,
-      "likes_percentile": 74.0
+      "likes_percentile": 76.0
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 10,
+    "days_tracked": 11,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 9,
+    "days_tracked": 11,
     "last_7_days": {
-      "views_rank_change": -3,
-      "runs_rank_change": 4,
-      "likes_rank_change": 34
+      "views_rank_change": -4,
+      "runs_rank_change": 3,
+      "likes_rank_change": 26
     },
     "last_30_days": {
       "views_rank_change": 0,
       "runs_rank_change": 5,
-      "likes_rank_change": -8
+      "likes_rank_change": -14
     },
     "all_time": {
       "best_views_rank": 265,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 10,
+    "data_points": 11,
     "first_recorded": "2026-01-08T08:01:02.485852",
-    "last_recorded": "2026-01-18T08:01:02.155238",
+    "last_recorded": "2026-01-19T08:01:06.429153",
     "time_series": {
       "dates": [
         "2026-01-08T08:01:02.485852",
@@ -66,7 +66,8 @@
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
-        "2026-01-18T08:01:02.155238"
+        "2026-01-18T08:01:02.155238",
+        "2026-01-19T08:01:06.429153"
       ],
       "views_rank": [
         268,
@@ -78,6 +79,7 @@
         267,
         268,
         268,
+        268,
         268
       ],
       "runs_rank": [
@@ -87,6 +89,7 @@
         269,
         270,
         270,
+        273,
         273,
         273,
         273,
@@ -102,7 +105,8 @@
         210,
         131,
         85,
-        76
+        76,
+        70
       ]
     }
   },

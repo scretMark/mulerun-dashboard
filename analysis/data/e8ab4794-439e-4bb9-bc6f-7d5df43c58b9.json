@@ -1,6 +1,6 @@
 {
   "agent_id": "e8ab4794-439e-4bb9-bc6f-7d5df43c58b9",
-  "generated_at": "2026-01-18T00:01:13.105939",
+  "generated_at": "2026-01-19T00:01:18.044895",
   "basic_info": {
     "title": "Navarasa Actor - The 9 Emotions Grid",
     "author": "hemanth_ching9j",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-12T01:07:30.535000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@hemanth_ching9j/navarasa-actor-the-9-emotions-grid",
-    "days_since_published": 36
+    "days_since_published": 37
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 225,
       "runs_rank": 173,
-      "likes_rank": 280,
+      "likes_rank": 202,
       "total_agents": 292,
       "views_percentile": 22.9,
       "runs_percentile": 40.8,
-      "likes_percentile": 4.1
+      "likes_percentile": 30.8
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 37,
+    "days_tracked": 38,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 36,
+    "days_tracked": 37,
     "last_7_days": {
-      "views_rank_change": 4,
+      "views_rank_change": 3,
       "runs_rank_change": 2,
-      "likes_rank_change": 177
+      "likes_rank_change": 97
     },
     "last_30_days": {
-      "views_rank_change": 17,
-      "runs_rank_change": -1,
-      "likes_rank_change": 258
+      "views_rank_change": 16,
+      "runs_rank_change": -2,
+      "likes_rank_change": 180
     },
     "all_time": {
       "best_views_rank": 204,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 37,
+    "data_points": 38,
     "first_recorded": "2025-12-13T08:00:26.854786",
-    "last_recorded": "2026-01-18T08:01:02.155238",
+    "last_recorded": "2026-01-19T08:01:06.429153",
     "time_series": {
       "dates": [
         "2025-12-13T08:00:26.854786",
@@ -93,7 +93,8 @@
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
-        "2026-01-18T08:01:02.155238"
+        "2026-01-18T08:01:02.155238",
+        "2026-01-19T08:01:06.429153"
       ],
       "views_rank": [
         null,
@@ -132,6 +133,7 @@
         223,
         224,
         226,
+        225,
         225
       ],
       "runs_rank": [
@@ -170,6 +172,7 @@
         171,
         172,
         172,
+        173,
         173,
         173
       ],
@@ -210,7 +213,8 @@
         62,
         38,
         26,
-        280
+        280,
+        202
       ]
     }
   },
@@ -229,7 +233,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 17 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 16 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

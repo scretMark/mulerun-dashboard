@@ -1,6 +1,6 @@
 {
   "agent_id": "2d79f678-8e50-4b89-8670-846e82767dc0",
-  "generated_at": "2026-01-18T00:01:13.742968",
+  "generated_at": "2026-01-19T00:01:16.431850",
   "basic_info": {
     "title": "Giant fluffy Monster with ME",
     "author": "Darren",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-20T11:30:47.994000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/giant-fluffy-monster-with-me",
-    "days_since_published": 89
+    "days_since_published": 90
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 141,
       "runs_rank": 175,
-      "likes_rank": 201,
+      "likes_rank": 158,
       "total_agents": 292,
       "views_percentile": 51.7,
       "runs_percentile": 40.1,
-      "likes_percentile": 31.2
+      "likes_percentile": 45.9
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 82,
+    "days_tracked": 83,
     "price": 51.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 59,
+    "days_tracked": 60,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 2,
-      "likes_rank_change": -13
+      "likes_rank_change": -58
     },
     "last_30_days": {
       "views_rank_change": 4,
       "runs_rank_change": 21,
-      "likes_rank_change": 112
+      "likes_rank_change": 69
     },
     "all_time": {
       "best_views_rank": 134,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 60,
+    "data_points": 61,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-18T08:01:02.155238",
+    "last_recorded": "2026-01-19T08:01:06.429153",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -116,7 +116,8 @@
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
-        "2026-01-18T08:01:02.155238"
+        "2026-01-18T08:01:02.155238",
+        "2026-01-19T08:01:06.429153"
       ],
       "views_rank": [
         null,
@@ -177,6 +178,7 @@
         141,
         141,
         142,
+        141,
         141,
         141
       ],
@@ -240,6 +242,7 @@
         174,
         174,
         175,
+        175,
         175
       ],
       "likes_rank": [
@@ -302,7 +305,8 @@
         145,
         92,
         161,
-        201
+        201,
+        158
       ]
     }
   },

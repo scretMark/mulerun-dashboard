@@ -1,6 +1,6 @@
 {
   "agent_id": "b88f4481-003a-4da7-8ab0-ab801f2dde61",
-  "generated_at": "2026-01-18T00:01:12.422618",
+  "generated_at": "2026-01-19T00:01:15.410952",
   "basic_info": {
     "title": "Virtual Try On",
     "author": "PicCopilot",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-11T19:30:42.097000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/virtual-try-on",
-    "days_since_published": 67
+    "days_since_published": 68
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 34,
       "runs_rank": 8,
-      "likes_rank": 242,
+      "likes_rank": 244,
       "total_agents": 292,
       "views_percentile": 88.4,
       "runs_percentile": 97.3,
-      "likes_percentile": 17.1
+      "likes_percentile": 16.4
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 67,
+    "days_tracked": 68,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 60,
+    "days_tracked": 61,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": 108
+      "likes_rank_change": 107
     },
     "last_30_days": {
-      "views_rank_change": -8,
+      "views_rank_change": -7,
       "runs_rank_change": 1,
-      "likes_rank_change": 37
+      "likes_rank_change": 35
     },
     "all_time": {
       "best_views_rank": 33,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 61,
+    "data_points": 62,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-18T08:01:02.155238",
+    "last_recorded": "2026-01-19T08:01:06.429153",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -117,7 +117,8 @@
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
-        "2026-01-18T08:01:02.155238"
+        "2026-01-18T08:01:02.155238",
+        "2026-01-19T08:01:06.429153"
       ],
       "views_rank": [
         null,
@@ -180,6 +181,7 @@
         33,
         33,
         33,
+        34,
         34
       ],
       "runs_rank": [
@@ -226,6 +228,7 @@
         7,
         7,
         7,
+        8,
         8,
         8,
         8,
@@ -306,7 +309,8 @@
         292,
         259,
         228,
-        242
+        242,
+        244
       ]
     }
   },

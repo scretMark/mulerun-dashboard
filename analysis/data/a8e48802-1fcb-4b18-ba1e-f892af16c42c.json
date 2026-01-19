@@ -1,6 +1,6 @@
 {
   "agent_id": "a8e48802-1fcb-4b18-ba1e-f892af16c42c",
-  "generated_at": "2026-01-18T00:01:13.029181",
+  "generated_at": "2026-01-19T00:01:15.830304",
   "basic_info": {
     "title": "AI Image Resizer",
     "author": "Zane29222",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-03T21:03:11.210000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Zane29222/ai-image-resizer",
-    "days_since_published": 75
+    "days_since_published": 76
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 82,
       "runs_rank": 44,
-      "likes_rank": 258,
+      "likes_rank": 197,
       "total_agents": 292,
       "views_percentile": 71.9,
       "runs_percentile": 84.9,
-      "likes_percentile": 11.6
+      "likes_percentile": 32.5
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 80,
+    "days_tracked": 81,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 59,
+    "days_tracked": 60,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": -3,
-      "likes_rank_change": 212
+      "likes_rank_change": 151
     },
     "last_30_days": {
       "views_rank_change": 3,
       "runs_rank_change": -7,
-      "likes_rank_change": 69
+      "likes_rank_change": 7
     },
     "all_time": {
       "best_views_rank": 79,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 60,
+    "data_points": 61,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-18T08:01:02.155238",
+    "last_recorded": "2026-01-19T08:01:06.429153",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -116,7 +116,8 @@
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
-        "2026-01-18T08:01:02.155238"
+        "2026-01-18T08:01:02.155238",
+        "2026-01-19T08:01:06.429153"
       ],
       "views_rank": [
         null,
@@ -171,6 +172,7 @@
         80,
         80,
         80,
+        82,
         82,
         82,
         82,
@@ -240,6 +242,7 @@
         46,
         45,
         45,
+        44,
         44
       ],
       "likes_rank": [
@@ -302,7 +305,8 @@
         52,
         225,
         226,
-        258
+        258,
+        197
       ]
     }
   },

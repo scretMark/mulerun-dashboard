@@ -1,6 +1,6 @@
 {
   "agent_id": "980aa77e-92a0-46fa-996e-6bf665c1febe",
-  "generated_at": "2026-01-18T00:01:14.461616",
+  "generated_at": "2026-01-19T00:01:17.078745",
   "basic_info": {
     "title": "LegoFigBox",
     "author": "HongwuQz",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-25T12:41:18.171000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@HongwuQz/legofigbox",
-    "days_since_published": 114
+    "days_since_published": 115
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 104,
-      "runs_rank": 100,
-      "likes_rank": 227,
+      "runs_rank": 101,
+      "likes_rank": 176,
       "total_agents": 292,
       "views_percentile": 64.4,
-      "runs_percentile": 65.8,
-      "likes_percentile": 22.3
+      "runs_percentile": 65.4,
+      "likes_percentile": 39.7
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 111,
+    "days_tracked": 112,
     "price": 20.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 59,
+    "days_tracked": 60,
     "last_7_days": {
-      "views_rank_change": 2,
+      "views_rank_change": 1,
       "runs_rank_change": 3,
-      "likes_rank_change": -11
+      "likes_rank_change": -62
     },
     "last_30_days": {
       "views_rank_change": 8,
-      "runs_rank_change": 3,
-      "likes_rank_change": 122
+      "runs_rank_change": 4,
+      "likes_rank_change": 66
     },
     "all_time": {
       "best_views_rank": 95,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 60,
+    "data_points": 61,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-18T08:01:02.155238",
+    "last_recorded": "2026-01-19T08:01:06.429153",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -116,7 +116,8 @@
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
-        "2026-01-18T08:01:02.155238"
+        "2026-01-18T08:01:02.155238",
+        "2026-01-19T08:01:06.429153"
       ],
       "views_rank": [
         null,
@@ -177,6 +178,7 @@
         103,
         103,
         105,
+        104,
         104,
         104
       ],
@@ -240,7 +242,8 @@
         99,
         99,
         100,
-        100
+        100,
+        101
       ],
       "likes_rank": [
         null,
@@ -302,7 +305,8 @@
         38,
         254,
         270,
-        227
+        227,
+        176
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "d751a918-33cb-420e-bb6c-fe7f6406c887",
-  "generated_at": "2026-01-18T00:01:14.416392",
+  "generated_at": "2026-01-19T00:01:17.015914",
   "basic_info": {
     "title": "Halloween Costume Changer",
     "author": "Norsizu",
@@ -11,40 +11,40 @@
     "published_at": "2025-10-31T12:41:50.060000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/halloween-costume-changer",
-    "days_since_published": 78
+    "days_since_published": 79
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 91,
       "runs_rank": 96,
-      "likes_rank": 57,
+      "likes_rank": 52,
       "total_agents": 292,
       "views_percentile": 68.8,
       "runs_percentile": 67.1,
-      "likes_percentile": 80.5
+      "likes_percentile": 82.2
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 78,
+    "days_tracked": 79,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 59,
+    "days_tracked": 60,
     "last_7_days": {
       "views_rank_change": 2,
-      "runs_rank_change": 3,
-      "likes_rank_change": -147
+      "runs_rank_change": 1,
+      "likes_rank_change": -153
     },
     "last_30_days": {
       "views_rank_change": 3,
       "runs_rank_change": 5,
-      "likes_rank_change": -55
+      "likes_rank_change": -60
     },
     "all_time": {
       "best_views_rank": 88,
       "best_runs_rank": 89,
-      "best_likes_rank": 57,
+      "best_likes_rank": 52,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 91
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 60,
+    "data_points": 61,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-18T08:01:02.155238",
+    "last_recorded": "2026-01-19T08:01:06.429153",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -116,7 +116,8 @@
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
-        "2026-01-18T08:01:02.155238"
+        "2026-01-18T08:01:02.155238",
+        "2026-01-19T08:01:06.429153"
       ],
       "views_rank": [
         null,
@@ -178,6 +179,7 @@
         90,
         90,
         90,
+        91,
         91
       ],
       "runs_rank": [
@@ -239,6 +241,7 @@
         95,
         95,
         95,
+        96,
         96,
         96
       ],
@@ -302,7 +305,8 @@
         138,
         85,
         61,
-        57
+        57,
+        52
       ]
     }
   },
@@ -314,7 +318,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #57 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #52 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

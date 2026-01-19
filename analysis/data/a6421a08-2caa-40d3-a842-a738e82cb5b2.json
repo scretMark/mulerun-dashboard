@@ -1,6 +1,6 @@
 {
   "agent_id": "a6421a08-2caa-40d3-a842-a738e82cb5b2",
-  "generated_at": "2026-01-18T00:01:14.800623",
+  "generated_at": "2026-01-19T00:01:17.421145",
   "basic_info": {
     "title": "One prompt 10 replies",
     "author": "MonkeyE",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-18T11:03:57.331000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@MonkeyE/one-prompt-10-replies",
-    "days_since_published": 91
+    "days_since_published": 92
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 171,
       "runs_rank": 192,
-      "likes_rank": 148,
+      "likes_rank": 122,
       "total_agents": 292,
       "views_percentile": 41.4,
       "runs_percentile": 34.2,
-      "likes_percentile": 49.3
+      "likes_percentile": 58.2
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 88,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 89,
     "price": 1.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 59,
+    "days_tracked": 60,
     "last_7_days": {
-      "views_rank_change": 4,
-      "runs_rank_change": 3,
-      "likes_rank_change": -135
+      "views_rank_change": 3,
+      "runs_rank_change": 2,
+      "likes_rank_change": -164
     },
     "last_30_days": {
       "views_rank_change": 12,
       "runs_rank_change": 23,
-      "likes_rank_change": -35
+      "likes_rank_change": -62
     },
     "all_time": {
       "best_views_rank": 157,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 60,
+    "data_points": 61,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-18T08:01:02.155238",
+    "last_recorded": "2026-01-19T08:01:06.429153",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -116,7 +116,8 @@
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
-        "2026-01-18T08:01:02.155238"
+        "2026-01-18T08:01:02.155238",
+        "2026-01-19T08:01:06.429153"
       ],
       "views_rank": [
         null,
@@ -178,6 +179,7 @@
         169,
         169,
         170,
+        171,
         171
       ],
       "runs_rank": [
@@ -237,6 +239,7 @@
         189,
         190,
         191,
+        192,
         192,
         192,
         192,
@@ -302,7 +305,8 @@
         196,
         125,
         212,
-        148
+        148,
+        122
       ]
     }
   },

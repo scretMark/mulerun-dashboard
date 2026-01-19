@@ -1,6 +1,6 @@
 {
   "agent_id": "d47bf37a-39b4-4ab5-8324-269e0a133ef2",
-  "generated_at": "2026-01-18T00:01:13.703540",
+  "generated_at": "2026-01-19T00:01:18.663275",
   "basic_info": {
     "title": "Anime Creator",
     "author": "summerail",
@@ -11,17 +11,17 @@
     "published_at": "2026-01-08T19:07:58.617000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/comic-creator",
-    "days_since_published": 9
+    "days_since_published": 10
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 215,
+      "views_rank": 214,
       "runs_rank": 214,
-      "likes_rank": 261,
+      "likes_rank": 207,
       "total_agents": 292,
-      "views_percentile": 26.4,
+      "views_percentile": 26.7,
       "runs_percentile": 26.7,
-      "likes_percentile": 10.6
+      "likes_percentile": 29.1
     },
     "tier": "Low",
     "tier_class": "low",
@@ -30,55 +30,59 @@
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 2,
+    "days_tracked": 4,
     "last_7_days": {
-      "views_rank_change": -17,
+      "views_rank_change": -18,
       "runs_rank_change": -23,
-      "likes_rank_change": 11
+      "likes_rank_change": -43
     },
     "last_30_days": {
-      "views_rank_change": -17,
+      "views_rank_change": -18,
       "runs_rank_change": -23,
-      "likes_rank_change": 11
+      "likes_rank_change": -43
     },
     "all_time": {
-      "best_views_rank": 215,
+      "best_views_rank": 214,
       "best_runs_rank": 214,
-      "best_likes_rank": 250,
+      "best_likes_rank": 207,
       "days_in_top_10": 0,
       "first_rank": 232,
-      "current_rank": 215
+      "current_rank": 214
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 4,
+    "data_points": 5,
     "first_recorded": "2026-01-15T08:01:02.601407",
-    "last_recorded": "2026-01-18T08:01:02.155238",
+    "last_recorded": "2026-01-19T08:01:06.429153",
     "time_series": {
       "dates": [
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
-        "2026-01-18T08:01:02.155238"
+        "2026-01-18T08:01:02.155238",
+        "2026-01-19T08:01:06.429153"
       ],
       "views_rank": [
         232,
         221,
         216,
-        215
+        215,
+        214
       ],
       "runs_rank": [
         237,
         230,
         217,
+        214,
         214
       ],
       "likes_rank": [
         250,
         261,
         293,
-        261
+        261,
+        207
       ]
     }
   },
@@ -97,7 +101,7 @@
     {
       "type": "positive",
       "title": "Rising Star",
-      "description": "Improved by 17 positions in views ranking over the last 30 days - showing strong momentum!"
+      "description": "Improved by 18 positions in views ranking over the last 30 days - showing strong momentum!"
     },
     {
       "type": "positive",
@@ -107,7 +111,7 @@
     {
       "type": "positive",
       "title": "Hot Trend",
-      "description": "Up 17 positions in just 7 days - currently trending and gaining rapid visibility!"
+      "description": "Up 18 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

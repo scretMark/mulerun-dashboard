@@ -1,6 +1,6 @@
 {
   "agent_id": "e08aed07-2d6b-4ea4-a61d-63b367b69597",
-  "generated_at": "2026-01-18T00:01:12.615060",
+  "generated_at": "2026-01-19T00:01:17.610159",
   "basic_info": {
     "title": "Winter Cinema",
     "author": "luckyy",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-20T15:43:31.761000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@luckyy/winter-cinema",
-    "days_since_published": 58
+    "days_since_published": 59
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 227,
       "runs_rank": 168,
-      "likes_rank": 61,
+      "likes_rank": 236,
       "total_agents": 292,
       "views_percentile": 22.3,
       "runs_percentile": 42.5,
-      "likes_percentile": 79.1
+      "likes_percentile": 19.2
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 58,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 59,
     "price": 23.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 55,
+    "days_tracked": 56,
     "last_7_days": {
-      "views_rank_change": 5,
-      "runs_rank_change": 3,
-      "likes_rank_change": -151
+      "views_rank_change": 4,
+      "runs_rank_change": 2,
+      "likes_rank_change": 22
     },
     "last_30_days": {
       "views_rank_change": 17,
       "runs_rank_change": 20,
-      "likes_rank_change": -13
+      "likes_rank_change": 163
     },
     "all_time": {
       "best_views_rank": 209,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-23T13:27:48.290198",
-    "last_recorded": "2026-01-18T08:01:02.155238",
+    "last_recorded": "2026-01-19T08:01:06.429153",
     "time_series": {
       "dates": [
         "2025-11-23T13:27:48.290198",
@@ -113,7 +113,8 @@
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
-        "2026-01-18T08:01:02.155238"
+        "2026-01-18T08:01:02.155238",
+        "2026-01-19T08:01:06.429153"
       ],
       "views_rank": [
         null,
@@ -171,6 +172,7 @@
         223,
         224,
         225,
+        227,
         227,
         227
       ],
@@ -231,6 +233,7 @@
         167,
         167,
         168,
+        168,
         168
       ],
       "likes_rank": [
@@ -290,7 +293,8 @@
         144,
         91,
         65,
-        61
+        61,
+        236
       ]
     }
   },

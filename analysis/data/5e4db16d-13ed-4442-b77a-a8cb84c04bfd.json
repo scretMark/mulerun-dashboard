@@ -1,6 +1,6 @@
 {
   "agent_id": "5e4db16d-13ed-4442-b77a-a8cb84c04bfd",
-  "generated_at": "2026-01-18T00:01:12.964067",
+  "generated_at": "2026-01-19T00:01:17.893271",
   "basic_info": {
     "title": "Cartoon Cookbook",
     "author": "Barry",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-10T11:31:33.615000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Barry/cartoon-cookbook",
-    "days_since_published": 38
+    "days_since_published": 39
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 226,
-      "runs_rank": 139,
-      "likes_rank": 40,
+      "runs_rank": 140,
+      "likes_rank": 36,
       "total_agents": 292,
       "views_percentile": 22.6,
-      "runs_percentile": 52.4,
-      "likes_percentile": 86.3
+      "runs_percentile": 52.1,
+      "likes_percentile": 87.7
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 38,
+    "days_tracked": 39,
     "price": 48.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 37,
+    "days_tracked": 38,
     "last_7_days": {
-      "views_rank_change": 7,
+      "views_rank_change": 6,
       "runs_rank_change": 2,
-      "likes_rank_change": -130
+      "likes_rank_change": -136
     },
     "last_30_days": {
       "views_rank_change": 14,
-      "runs_rank_change": 13,
-      "likes_rank_change": 15
+      "runs_rank_change": 14,
+      "likes_rank_change": 10
     },
     "all_time": {
       "best_views_rank": 209,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 38,
+    "data_points": 39,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2026-01-18T08:01:02.155238",
+    "last_recorded": "2026-01-19T08:01:06.429153",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -94,7 +94,8 @@
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
-        "2026-01-18T08:01:02.155238"
+        "2026-01-18T08:01:02.155238",
+        "2026-01-19T08:01:06.429153"
       ],
       "views_rank": [
         null,
@@ -134,6 +135,7 @@
         222,
         223,
         225,
+        226,
         226
       ],
       "runs_rank": [
@@ -174,7 +176,8 @@
         138,
         138,
         139,
-        139
+        139,
+        140
       ],
       "likes_rank": [
         null,
@@ -214,7 +217,8 @@
         113,
         65,
         44,
-        40
+        40,
+        36
       ]
     }
   },
@@ -233,7 +237,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #40 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #36 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     },
     {
       "type": "warning",

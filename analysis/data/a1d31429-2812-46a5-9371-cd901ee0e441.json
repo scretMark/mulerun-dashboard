@@ -1,6 +1,6 @@
 {
   "agent_id": "a1d31429-2812-46a5-9371-cd901ee0e441",
-  "generated_at": "2026-01-18T00:01:14.893567",
+  "generated_at": "2026-01-19T00:01:17.504508",
   "basic_info": {
     "title": "SpeechMeme",
     "author": "AllenCreator",
@@ -11,40 +11,40 @@
     "published_at": "2025-10-13T15:47:08.063000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AllenCreator/speehmeme",
-    "days_since_published": 96
+    "days_since_published": 97
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 201,
       "runs_rank": 267,
-      "likes_rank": 24,
+      "likes_rank": 21,
       "total_agents": 292,
       "views_percentile": 31.2,
       "runs_percentile": 8.6,
-      "likes_percentile": 91.8
+      "likes_percentile": 92.8
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 82,
+    "days_tracked": 83,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 59,
+    "days_tracked": 60,
     "last_7_days": {
-      "views_rank_change": 1,
+      "views_rank_change": 0,
       "runs_rank_change": 4,
-      "likes_rank_change": -63
+      "likes_rank_change": -60
     },
     "last_30_days": {
       "views_rank_change": 12,
       "runs_rank_change": 29,
-      "likes_rank_change": -62
+      "likes_rank_change": -64
     },
     "all_time": {
       "best_views_rank": 187,
       "best_runs_rank": 233,
-      "best_likes_rank": 24,
+      "best_likes_rank": 21,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 201
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 60,
+    "data_points": 61,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-18T08:01:02.155238",
+    "last_recorded": "2026-01-19T08:01:06.429153",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -116,7 +116,8 @@
         "2026-01-15T08:01:02.601407",
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
-        "2026-01-18T08:01:02.155238"
+        "2026-01-18T08:01:02.155238",
+        "2026-01-19T08:01:06.429153"
       ],
       "views_rank": [
         null,
@@ -173,6 +174,7 @@
         200,
         200,
         200,
+        201,
         201,
         201,
         201,
@@ -240,6 +242,7 @@
         266,
         267,
         267,
+        267,
         267
       ],
       "likes_rank": [
@@ -302,7 +305,8 @@
         56,
         35,
         25,
-        24
+        24,
+        21
       ]
     }
   },
@@ -314,7 +318,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #24 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #21 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     },
     {
       "type": "warning",
