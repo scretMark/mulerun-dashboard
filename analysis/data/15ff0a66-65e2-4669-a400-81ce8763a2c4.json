@@ -1,6 +1,6 @@
 {
   "agent_id": "15ff0a66-65e2-4669-a400-81ce8763a2c4",
-  "generated_at": "2026-01-19T00:01:16.012238",
+  "generated_at": "2026-01-20T00:01:13.227211",
   "basic_info": {
     "title": "YouTube Quick Scan",
     "author": "Zane29222",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-06T20:24:45.395000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Zane29222/youtube-quick-scan",
-    "days_since_published": 104
+    "days_since_published": 105
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 31,
+      "views_rank": 32,
       "runs_rank": 83,
-      "likes_rank": 253,
+      "likes_rank": 237,
       "total_agents": 292,
-      "views_percentile": 89.4,
+      "views_percentile": 89.0,
       "runs_percentile": 71.6,
-      "likes_percentile": 13.4
+      "likes_percentile": 18.8
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 103,
+    "days_tracked": 104,
     "price": 40.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 60,
+    "days_tracked": 61,
     "last_7_days": {
-      "views_rank_change": 0,
+      "views_rank_change": 1,
       "runs_rank_change": 0,
-      "likes_rank_change": 157
+      "likes_rank_change": 84
     },
     "last_30_days": {
-      "views_rank_change": -1,
+      "views_rank_change": 1,
       "runs_rank_change": 4,
-      "likes_rank_change": 179
+      "likes_rank_change": 165
     },
     "all_time": {
       "best_views_rank": 31,
@@ -47,14 +47,14 @@
       "best_likes_rank": 1,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 31
+      "current_rank": 32
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 61,
+    "data_points": 62,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-19T08:01:06.429153",
+    "last_recorded": "2026-01-20T08:01:02.655733",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -117,7 +117,8 @@
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
-        "2026-01-19T08:01:06.429153"
+        "2026-01-19T08:01:06.429153",
+        "2026-01-20T08:01:02.655733"
       ],
       "views_rank": [
         null,
@@ -180,7 +181,8 @@
         31,
         31,
         31,
-        31
+        31,
+        32
       ],
       "runs_rank": [
         null,
@@ -237,6 +239,7 @@
         82,
         82,
         82,
+        83,
         83,
         83,
         83,
@@ -306,7 +309,8 @@
         168,
         194,
         210,
-        253
+        253,
+        237
       ]
     }
   },
@@ -318,7 +322,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #31 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #32 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

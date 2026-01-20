@@ -1,6 +1,6 @@
 {
   "agent_id": "8bd3ff56-3c2a-4b13-aaff-071e8177fe99",
-  "generated_at": "2026-01-19T00:01:18.145864",
+  "generated_at": "2026-01-20T00:01:14.176067",
   "basic_info": {
     "title": "Super Pet Styler",
     "author": "kai_tiane5y",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-16T18:44:25.415000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@kai_tiane5y/super-pet-styler",
-    "days_since_published": 33
+    "days_since_published": 34
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 162,
       "runs_rank": 74,
-      "likes_rank": 169,
+      "likes_rank": 111,
       "total_agents": 292,
       "views_percentile": 44.5,
       "runs_percentile": 74.7,
-      "likes_percentile": 42.1
+      "likes_percentile": 62.0
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 29,
+    "days_tracked": 30,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 31,
+    "days_tracked": 32,
     "last_7_days": {
-      "views_rank_change": 0,
+      "views_rank_change": -1,
       "runs_rank_change": 0,
-      "likes_rank_change": 3
+      "likes_rank_change": -68
     },
     "last_30_days": {
-      "views_rank_change": -5,
+      "views_rank_change": -4,
       "runs_rank_change": -11,
-      "likes_rank_change": 126
+      "likes_rank_change": 74
     },
     "all_time": {
       "best_views_rank": 154,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 29,
+    "data_points": 30,
     "first_recorded": "2025-12-18T15:35:16.146705",
-    "last_recorded": "2026-01-19T08:01:06.429153",
+    "last_recorded": "2026-01-20T08:01:02.655733",
     "time_series": {
       "dates": [
         "2025-12-18T15:35:16.146705",
@@ -85,7 +85,8 @@
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
-        "2026-01-19T08:01:06.429153"
+        "2026-01-19T08:01:06.429153",
+        "2026-01-20T08:01:02.655733"
       ],
       "views_rank": [
         171,
@@ -114,6 +115,7 @@
         163,
         164,
         164,
+        162,
         162,
         162,
         162
@@ -147,6 +149,7 @@
         75,
         75,
         74,
+        74,
         74
       ],
       "likes_rank": [
@@ -178,7 +181,8 @@
         62,
         261,
         215,
-        169
+        169,
+        111
       ]
     }
   },

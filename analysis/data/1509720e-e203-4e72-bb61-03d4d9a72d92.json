@@ -1,45 +1,45 @@
 {
   "agent_id": "1509720e-e203-4e72-bb61-03d4d9a72d92",
-  "generated_at": "2026-01-19T00:01:15.861530",
+  "generated_at": "2026-01-20T00:01:13.006473",
   "basic_info": {
     "title": "Doc2Presentation",
     "author": "charlin",
-    "description": "Turn PDFs into polished, ready-to-deliver slides perfect for pitches, lectures, and client meetings.",
+    "description": "Transform PDFs into polished, ready-to-deliver slides in seconds.",
     "short_description": "Instantly transform documents into presentation outlines.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2025-10-16T00:13:38.438000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@charlin/doc2presentation",
-    "days_since_published": 94
+    "days_since_published": 95
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 55,
       "runs_rank": 92,
-      "likes_rank": 151,
+      "likes_rank": 184,
       "total_agents": 292,
       "views_percentile": 81.2,
       "runs_percentile": 68.5,
-      "likes_percentile": 48.3
+      "likes_percentile": 37.0
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 87,
+    "days_tracked": 88,
     "price": 100.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 60,
+    "days_tracked": 61,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 2,
-      "likes_rank_change": 61
+      "runs_rank_change": 1,
+      "likes_rank_change": 133
     },
     "last_30_days": {
       "views_rank_change": 1,
       "runs_rank_change": 2,
-      "likes_rank_change": 100
+      "likes_rank_change": 139
     },
     "all_time": {
       "best_views_rank": 54,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 61,
+    "data_points": 62,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-19T08:01:06.429153",
+    "last_recorded": "2026-01-20T08:01:02.655733",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -117,7 +117,8 @@
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
-        "2026-01-19T08:01:06.429153"
+        "2026-01-19T08:01:06.429153",
+        "2026-01-20T08:01:02.655733"
       ],
       "views_rank": [
         null,
@@ -167,6 +168,7 @@
         54,
         54,
         54,
+        55,
         55,
         55,
         55,
@@ -243,6 +245,7 @@
         92,
         92,
         92,
+        92,
         92
       ],
       "likes_rank": [
@@ -306,7 +309,8 @@
         144,
         90,
         186,
-        151
+        151,
+        184
       ]
     }
   },

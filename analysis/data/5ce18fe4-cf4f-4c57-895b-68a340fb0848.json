@@ -1,6 +1,6 @@
 {
   "agent_id": "5ce18fe4-cf4f-4c57-895b-68a340fb0848",
-  "generated_at": "2026-01-19T00:01:15.882772",
+  "generated_at": "2026-01-20T00:01:13.035772",
   "basic_info": {
     "title": "AI Portrait Painting at Gallery",
     "author": "Jayden",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-12T14:15:30.649000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Jayden/ai-portrait-painting-at-gallery",
-    "days_since_published": 67
+    "days_since_published": 68
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 257,
       "runs_rank": 271,
-      "likes_rank": 277,
+      "likes_rank": 144,
       "total_agents": 292,
       "views_percentile": 12.0,
       "runs_percentile": 7.2,
-      "likes_percentile": 5.1
+      "likes_percentile": 50.7
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 66,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 67,
     "price": 49.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 60,
+    "days_tracked": 61,
     "last_7_days": {
       "views_rank_change": 2,
       "runs_rank_change": 3,
-      "likes_rank_change": 188
+      "likes_rank_change": 36
     },
     "last_30_days": {
-      "views_rank_change": 20,
+      "views_rank_change": 21,
       "runs_rank_change": 25,
-      "likes_rank_change": 80
+      "likes_rank_change": -52
     },
     "all_time": {
       "best_views_rank": 232,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 61,
+    "data_points": 62,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-19T08:01:06.429153",
+    "last_recorded": "2026-01-20T08:01:02.655733",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -117,7 +117,8 @@
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
-        "2026-01-19T08:01:06.429153"
+        "2026-01-19T08:01:06.429153",
+        "2026-01-20T08:01:02.655733"
       ],
       "views_rank": [
         null,
@@ -180,6 +181,7 @@
         258,
         258,
         258,
+        257,
         257
       ],
       "runs_rank": [
@@ -239,6 +241,7 @@
         266,
         268,
         268,
+        271,
         271,
         271,
         271,
@@ -306,7 +309,8 @@
         36,
         206,
         145,
-        277
+        277,
+        144
       ]
     }
   },
@@ -318,7 +322,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 20 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 21 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

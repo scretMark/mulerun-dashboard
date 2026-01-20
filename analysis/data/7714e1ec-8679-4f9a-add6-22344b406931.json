@@ -1,6 +1,6 @@
 {
   "agent_id": "7714e1ec-8679-4f9a-add6-22344b406931",
-  "generated_at": "2026-01-19T00:01:18.184533",
+  "generated_at": "2026-01-20T00:01:14.203812",
   "basic_info": {
     "title": "Brand VI System Generator",
     "author": "AneX",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-19T01:12:14.357000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AneX/brand-vi-system-generator",
-    "days_since_published": 30
+    "days_since_published": 31
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 215,
       "runs_rank": 238,
-      "likes_rank": 103,
+      "likes_rank": 78,
       "total_agents": 292,
       "views_percentile": 26.4,
       "runs_percentile": 18.5,
-      "likes_percentile": 64.7
+      "likes_percentile": 73.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 27,
+    "days_tracked": 28,
     "price": 110.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 30,
+    "days_tracked": 31,
     "last_7_days": {
       "views_rank_change": -1,
       "runs_rank_change": 4,
-      "likes_rank_change": -91
+      "likes_rank_change": -128
     },
     "last_30_days": {
       "views_rank_change": -10,
       "runs_rank_change": 20,
-      "likes_rank_change": 48
+      "likes_rank_change": 21
     },
     "all_time": {
       "best_views_rank": 212,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 28,
+    "data_points": 29,
     "first_recorded": "2025-12-20T08:01:00.398750",
-    "last_recorded": "2026-01-19T08:01:06.429153",
+    "last_recorded": "2026-01-20T08:01:02.655733",
     "time_series": {
       "dates": [
         "2025-12-20T08:01:00.398750",
@@ -84,7 +84,8 @@
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
-        "2026-01-19T08:01:06.429153"
+        "2026-01-19T08:01:06.429153",
+        "2026-01-20T08:01:02.655733"
       ],
       "views_rank": [
         225,
@@ -114,6 +115,7 @@
         214,
         214,
         214,
+        215,
         215
       ],
       "runs_rank": [
@@ -141,6 +143,7 @@
         234,
         234,
         236,
+        238,
         238,
         238,
         238,
@@ -174,7 +177,8 @@
         219,
         156,
         118,
-        103
+        103,
+        78
       ]
     }
   },

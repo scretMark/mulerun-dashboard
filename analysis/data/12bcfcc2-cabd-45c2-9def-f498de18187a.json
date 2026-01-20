@@ -1,6 +1,6 @@
 {
   "agent_id": "12bcfcc2-cabd-45c2-9def-f498de18187a",
-  "generated_at": "2026-01-19T00:01:16.736545",
+  "generated_at": "2026-01-20T00:01:14.117310",
   "basic_info": {
     "title": "Dimensional Barrier Breaker",
     "author": "luoxiaoyv",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-14T22:13:00.928000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@luoxiaoyv/dimensional-barrier-breaker",
-    "days_since_published": 96
+    "days_since_published": 97
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 200,
-      "runs_rank": 249,
-      "likes_rank": 269,
+      "runs_rank": 251,
+      "likes_rank": 183,
       "total_agents": 292,
       "views_percentile": 31.5,
-      "runs_percentile": 14.7,
-      "likes_percentile": 7.9
+      "runs_percentile": 14.0,
+      "likes_percentile": 37.3
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 83,
+    "days_tracked": 84,
     "price": 49.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 60,
+    "days_tracked": 61,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 4,
-      "likes_rank_change": 222
+      "runs_rank_change": 6,
+      "likes_rank_change": 145
     },
     "last_30_days": {
       "views_rank_change": 9,
-      "runs_rank_change": 24,
-      "likes_rank_change": 179
+      "runs_rank_change": 26,
+      "likes_rank_change": 93
     },
     "all_time": {
       "best_views_rank": 190,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 61,
+    "data_points": 62,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-19T08:01:06.429153",
+    "last_recorded": "2026-01-20T08:01:02.655733",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -117,7 +117,8 @@
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
-        "2026-01-19T08:01:06.429153"
+        "2026-01-19T08:01:06.429153",
+        "2026-01-20T08:01:02.655733"
       ],
       "views_rank": [
         null,
@@ -174,6 +175,7 @@
         199,
         199,
         199,
+        200,
         200,
         200,
         200,
@@ -243,7 +245,8 @@
         249,
         249,
         249,
-        249
+        249,
+        251
       ],
       "likes_rank": [
         null,
@@ -306,7 +309,8 @@
         19,
         16,
         16,
-        269
+        269,
+        183
       ]
     }
   },

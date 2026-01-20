@@ -1,6 +1,6 @@
 {
   "agent_id": "bf05b9d8-f133-4873-8976-2939575dacdb",
-  "generated_at": "2026-01-19T00:01:17.882644",
+  "generated_at": "2026-01-20T00:01:13.894428",
   "basic_info": {
     "title": "Your profession in the 20th century",
     "author": "8bit",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-09T14:26:51.198000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/your-profession-in-the-20th-century",
-    "days_since_published": 40
+    "days_since_published": 41
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 251,
       "runs_rank": 134,
-      "likes_rank": 112,
+      "likes_rank": 84,
       "total_agents": 292,
       "views_percentile": 14.0,
       "runs_percentile": 54.1,
-      "likes_percentile": 61.6
+      "likes_percentile": 71.2
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 39,
+    "days_tracked": 40,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 38,
+    "days_tracked": 39,
     "last_7_days": {
-      "views_rank_change": 3,
+      "views_rank_change": 2,
       "runs_rank_change": 1,
-      "likes_rank_change": 70
+      "likes_rank_change": 51
     },
     "last_30_days": {
       "views_rank_change": 22,
       "runs_rank_change": 14,
-      "likes_rank_change": 103
+      "likes_rank_change": 74
     },
     "all_time": {
       "best_views_rank": 224,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 39,
+    "data_points": 40,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2026-01-19T08:01:06.429153",
+    "last_recorded": "2026-01-20T08:01:02.655733",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -95,7 +95,8 @@
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
-        "2026-01-19T08:01:06.429153"
+        "2026-01-19T08:01:06.429153",
+        "2026-01-20T08:01:02.655733"
       ],
       "views_rank": [
         null,
@@ -134,6 +135,7 @@
         249,
         251,
         252,
+        251,
         251,
         251,
         251
@@ -177,6 +179,7 @@
         133,
         133,
         133,
+        134,
         134
       ],
       "likes_rank": [
@@ -218,7 +221,8 @@
         15,
         178,
         130,
-        112
+        112,
+        84
       ]
     }
   },

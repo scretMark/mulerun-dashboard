@@ -1,6 +1,6 @@
 {
   "agent_id": "ed52f279-b88f-42da-89d0-5bcb25a899e4",
-  "generated_at": "2026-01-19T00:01:15.642009",
+  "generated_at": "2026-01-20T00:01:12.654223",
   "basic_info": {
     "title": "White Background",
     "author": "PicCopilot",
@@ -11,50 +11,50 @@
     "published_at": "2025-11-11T19:24:00.925000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/white-background",
-    "days_since_published": 68
+    "days_since_published": 69
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 138,
-      "runs_rank": 23,
-      "likes_rank": 199,
+      "views_rank": 136,
+      "runs_rank": 22,
+      "likes_rank": 187,
       "total_agents": 292,
-      "views_percentile": 52.7,
-      "runs_percentile": 92.1,
-      "likes_percentile": 31.8
+      "views_percentile": 53.4,
+      "runs_percentile": 92.5,
+      "likes_percentile": 36.0
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 68,
+    "days_tracked": 69,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 61,
+    "days_tracked": 62,
     "last_7_days": {
-      "views_rank_change": -3,
+      "views_rank_change": -2,
       "runs_rank_change": -2,
-      "likes_rank_change": 92
+      "likes_rank_change": 66
     },
     "last_30_days": {
-      "views_rank_change": -23,
-      "runs_rank_change": -2,
-      "likes_rank_change": -11
+      "views_rank_change": -24,
+      "runs_rank_change": -3,
+      "likes_rank_change": -17
     },
     "all_time": {
-      "best_views_rank": 137,
-      "best_runs_rank": 23,
+      "best_views_rank": 136,
+      "best_runs_rank": 22,
       "best_likes_rank": 64,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 138
+      "current_rank": 136
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 62,
+    "data_points": 63,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-19T08:01:06.429153",
+    "last_recorded": "2026-01-20T08:01:02.655733",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -118,7 +118,8 @@
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
-        "2026-01-19T08:01:06.429153"
+        "2026-01-19T08:01:06.429153",
+        "2026-01-20T08:01:02.655733"
       ],
       "views_rank": [
         null,
@@ -182,7 +183,8 @@
         138,
         138,
         137,
-        138
+        138,
+        136
       ],
       "runs_rank": [
         null,
@@ -246,7 +248,8 @@
         24,
         23,
         23,
-        23
+        23,
+        22
       ],
       "likes_rank": [
         null,
@@ -310,7 +313,8 @@
         291,
         246,
         267,
-        199
+        199,
+        187
       ]
     }
   },
@@ -322,12 +326,12 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #23 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #22 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     },
     {
       "type": "positive",
       "title": "Rising Star",
-      "description": "Improved by 23 positions in views ranking over the last 30 days - showing strong momentum!"
+      "description": "Improved by 24 positions in views ranking over the last 30 days - showing strong momentum!"
     }
   ]
 }

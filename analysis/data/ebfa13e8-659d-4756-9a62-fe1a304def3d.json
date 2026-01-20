@@ -1,6 +1,6 @@
 {
   "agent_id": "ebfa13e8-659d-4756-9a62-fe1a304def3d",
-  "generated_at": "2026-01-19T00:01:15.652085",
+  "generated_at": "2026-01-20T00:01:12.668582",
   "basic_info": {
     "title": "AI Avatars",
     "author": "PicCopilot",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-11T19:36:25.710000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/ai-avatars",
-    "days_since_published": 68
+    "days_since_published": 69
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 93,
       "runs_rank": 19,
-      "likes_rank": 90,
+      "likes_rank": 253,
       "total_agents": 292,
       "views_percentile": 68.2,
       "runs_percentile": 93.5,
-      "likes_percentile": 69.2
+      "likes_percentile": 13.4
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 81,
+    "days_tracked": 82,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 60,
+    "days_tracked": 61,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": -1,
-      "likes_rank_change": -25
+      "likes_rank_change": 207
     },
     "last_30_days": {
-      "views_rank_change": -24,
+      "views_rank_change": -23,
       "runs_rank_change": -4,
-      "likes_rank_change": -87
+      "likes_rank_change": 75
     },
     "all_time": {
       "best_views_rank": 92,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 61,
+    "data_points": 62,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-19T08:01:06.429153",
+    "last_recorded": "2026-01-20T08:01:02.655733",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -117,7 +117,8 @@
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
-        "2026-01-19T08:01:06.429153"
+        "2026-01-19T08:01:06.429153",
+        "2026-01-20T08:01:02.655733"
       ],
       "views_rank": [
         null,
@@ -177,6 +178,7 @@
         93,
         93,
         92,
+        93,
         93,
         93,
         93,
@@ -243,6 +245,7 @@
         20,
         20,
         20,
+        19,
         19
       ],
       "likes_rank": [
@@ -306,7 +309,8 @@
         221,
         121,
         102,
-        90
+        90,
+        253
       ]
     }
   },
@@ -323,7 +327,7 @@
     {
       "type": "positive",
       "title": "Rising Star",
-      "description": "Improved by 24 positions in views ranking over the last 30 days - showing strong momentum!"
+      "description": "Improved by 23 positions in views ranking over the last 30 days - showing strong momentum!"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "0cfa5d63-8037-4690-820c-b1d3f2a43d7f",
-  "generated_at": "2026-01-19T00:01:18.317060",
+  "generated_at": "2026-01-20T00:01:14.322600",
   "basic_info": {
     "title": "Reddit to YouTube Script - laughing_code",
     "author": "laughing_code",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-22T12:25:46.444000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@laughing_code/reddit-to-youtube-script-laughing-code",
-    "days_since_published": 27
+    "days_since_published": 28
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 203,
-      "runs_rank": 250,
-      "likes_rank": 69,
+      "runs_rank": 252,
+      "likes_rank": 59,
       "total_agents": 292,
       "views_percentile": 30.5,
-      "runs_percentile": 14.4,
-      "likes_percentile": 76.4
+      "runs_percentile": 13.7,
+      "likes_percentile": 79.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 24,
+    "days_tracked": 25,
     "price": 90.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 27,
+    "days_tracked": 28,
     "last_7_days": {
       "views_rank_change": -2,
-      "runs_rank_change": 4,
+      "runs_rank_change": 6,
       "likes_rank_change": 35
     },
     "last_30_days": {
       "views_rank_change": -25,
-      "runs_rank_change": 12,
-      "likes_rank_change": 25
+      "runs_rank_change": 14,
+      "likes_rank_change": 15
     },
     "all_time": {
       "best_views_rank": 203,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 25,
+    "data_points": 26,
     "first_recorded": "2025-12-23T08:00:59.635142",
-    "last_recorded": "2026-01-19T08:01:06.429153",
+    "last_recorded": "2026-01-20T08:01:02.655733",
     "time_series": {
       "dates": [
         "2025-12-23T08:00:59.635142",
@@ -81,7 +81,8 @@
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
-        "2026-01-19T08:01:06.429153"
+        "2026-01-19T08:01:06.429153",
+        "2026-01-20T08:01:02.655733"
       ],
       "views_rank": [
         228,
@@ -104,6 +105,7 @@
         204,
         205,
         205,
+        203,
         203,
         203,
         203,
@@ -135,7 +137,8 @@
         250,
         250,
         250,
-        250
+        250,
+        252
       ],
       "likes_rank": [
         44,
@@ -162,7 +165,8 @@
         129,
         83,
         75,
-        69
+        69,
+        59
       ]
     }
   },

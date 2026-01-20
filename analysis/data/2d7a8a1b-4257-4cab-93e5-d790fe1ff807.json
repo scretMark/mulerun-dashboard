@@ -1,6 +1,6 @@
 {
   "agent_id": "2d7a8a1b-4257-4cab-93e5-d790fe1ff807",
-  "generated_at": "2026-01-19T00:01:18.273304",
+  "generated_at": "2026-01-20T00:01:14.287267",
   "basic_info": {
     "title": "Shorts Script Factory",
     "author": "ali_mohammed2tm",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-18T02:09:10.785000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@ali_mohammed2tm/shorts-script-factory",
-    "days_since_published": 31
+    "days_since_published": 32
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 166,
-      "runs_rank": 126,
-      "likes_rank": 279,
+      "runs_rank": 127,
+      "likes_rank": 148,
       "total_agents": 292,
       "views_percentile": 43.2,
-      "runs_percentile": 56.8,
-      "likes_percentile": 4.5
+      "runs_percentile": 56.5,
+      "likes_percentile": 49.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 24,
+    "days_tracked": 25,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 27,
+    "days_tracked": 28,
     "last_7_days": {
-      "views_rank_change": -3,
+      "views_rank_change": -2,
       "runs_rank_change": 1,
-      "likes_rank_change": 153
+      "likes_rank_change": null
     },
     "last_30_days": {
       "views_rank_change": -20,
-      "runs_rank_change": 6,
-      "likes_rank_change": 271
+      "runs_rank_change": 7,
+      "likes_rank_change": 140
     },
     "all_time": {
       "best_views_rank": 166,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 25,
+    "data_points": 26,
     "first_recorded": "2025-12-23T08:00:59.635142",
-    "last_recorded": "2026-01-19T08:01:06.429153",
+    "last_recorded": "2026-01-20T08:01:02.655733",
     "time_series": {
       "dates": [
         "2025-12-23T08:00:59.635142",
@@ -81,7 +81,8 @@
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
-        "2026-01-19T08:01:06.429153"
+        "2026-01-19T08:01:06.429153",
+        "2026-01-20T08:01:02.655733"
       ],
       "views_rank": [
         186,
@@ -108,6 +109,7 @@
         168,
         168,
         169,
+        166,
         166
       ],
       "runs_rank": [
@@ -135,7 +137,8 @@
         126,
         126,
         126,
-        126
+        126,
+        127
       ],
       "likes_rank": [
         8,
@@ -162,7 +165,8 @@
         215,
         289,
         183,
-        279
+        279,
+        148
       ]
     }
   },

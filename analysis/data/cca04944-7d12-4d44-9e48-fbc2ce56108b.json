@@ -1,6 +1,6 @@
 {
   "agent_id": "cca04944-7d12-4d44-9e48-fbc2ce56108b",
-  "generated_at": "2026-01-19T00:01:18.637260",
+  "generated_at": "2026-01-20T00:01:14.654630",
   "basic_info": {
     "title": "JOJO STAND",
     "author": "Hugo_zz567",
@@ -11,35 +11,35 @@
     "published_at": "2026-01-10T23:43:49.406000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Hugo_zz567/jojo-stand",
-    "days_since_published": 8
+    "days_since_published": 9
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 282,
       "runs_rank": 293,
-      "likes_rank": 104,
+      "likes_rank": 167,
       "total_agents": 292,
       "views_percentile": 3.4,
       "runs_percentile": -0.3,
-      "likes_percentile": 64.4
+      "likes_percentile": 42.8
     },
-    "tier": "Mid",
-    "tier_class": "mid",
+    "tier": "Low",
+    "tier_class": "low",
     "days_tracked": 0,
     "price": 90.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 6,
+    "days_tracked": 7,
     "last_7_days": {
       "views_rank_change": -3,
       "runs_rank_change": 3,
-      "likes_rank_change": 95
+      "likes_rank_change": 160
     },
     "last_30_days": {
       "views_rank_change": -3,
       "runs_rank_change": 3,
-      "likes_rank_change": 95
+      "likes_rank_change": 158
     },
     "all_time": {
       "best_views_rank": 282,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 7,
+    "data_points": 8,
     "first_recorded": "2026-01-13T08:00:58.516114",
-    "last_recorded": "2026-01-19T08:01:06.429153",
+    "last_recorded": "2026-01-20T08:01:02.655733",
     "time_series": {
       "dates": [
         "2026-01-13T08:00:58.516114",
@@ -63,11 +63,13 @@
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
-        "2026-01-19T08:01:06.429153"
+        "2026-01-19T08:01:06.429153",
+        "2026-01-20T08:01:02.655733"
       ],
       "views_rank": [
         285,
         285,
+        282,
         282,
         282,
         282,
@@ -81,6 +83,7 @@
         293,
         293,
         293,
+        293,
         293
       ],
       "likes_rank": [
@@ -90,7 +93,8 @@
         140,
         158,
         120,
-        104
+        104,
+        167
       ]
     }
   },

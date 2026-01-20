@@ -1,6 +1,6 @@
 {
   "agent_id": "9a6962c9-7cdf-4fa0-a365-e8eb01f53a55",
-  "generated_at": "2026-01-19T00:01:16.909501",
+  "generated_at": "2026-01-20T00:01:14.293067",
   "basic_info": {
     "title": "Holiday Costume",
     "author": "LinkAIBrain",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-23T22:12:01.948000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/holiday-costume",
-    "days_since_published": 117
+    "days_since_published": 118
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 60,
       "runs_rank": 93,
-      "likes_rank": 134,
+      "likes_rank": 193,
       "total_agents": 292,
       "views_percentile": 79.5,
       "runs_percentile": 68.2,
-      "likes_percentile": 54.1
+      "likes_percentile": 33.9
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 81,
+    "days_tracked": 82,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 60,
+    "days_tracked": 61,
     "last_7_days": {
       "views_rank_change": -1,
-      "runs_rank_change": 1,
-      "likes_rank_change": -100
+      "runs_rank_change": 0,
+      "likes_rank_change": -50
     },
     "last_30_days": {
       "views_rank_change": 3,
       "runs_rank_change": 5,
-      "likes_rank_change": -14
+      "likes_rank_change": 45
     },
     "all_time": {
       "best_views_rank": 57,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 61,
+    "data_points": 62,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-19T08:01:06.429153",
+    "last_recorded": "2026-01-20T08:01:02.655733",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -117,7 +117,8 @@
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
-        "2026-01-19T08:01:06.429153"
+        "2026-01-19T08:01:06.429153",
+        "2026-01-20T08:01:02.655733"
       ],
       "views_rank": [
         null,
@@ -180,6 +181,7 @@
         60,
         59,
         60,
+        60,
         60
       ],
       "runs_rank": [
@@ -238,6 +240,7 @@
         90,
         91,
         92,
+        93,
         93,
         93,
         93,
@@ -306,7 +309,8 @@
         176,
         252,
         167,
-        134
+        134,
+        193
       ]
     }
   },

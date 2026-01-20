@@ -1,6 +1,6 @@
 {
   "agent_id": "d88b74c6-da1a-4faa-ba94-2a477a2171bb",
-  "generated_at": "2026-01-19T00:01:15.515515",
+  "generated_at": "2026-01-20T00:01:12.469410",
   "basic_info": {
     "title": "Swap Faces",
     "author": "PicCopilot",
@@ -11,34 +11,34 @@
     "published_at": "2025-11-11T19:43:39.105000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/swap-faces",
-    "days_since_published": 68
+    "days_since_published": 69
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 101,
       "runs_rank": 18,
-      "likes_rank": 286,
+      "likes_rank": 203,
       "total_agents": 292,
       "views_percentile": 65.4,
       "runs_percentile": 93.8,
-      "likes_percentile": 2.1
+      "likes_percentile": 30.5
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 81,
+    "days_tracked": 82,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 61,
+    "days_tracked": 62,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": 220
+      "likes_rank_change": 111
     },
     "last_30_days": {
       "views_rank_change": -6,
-      "runs_rank_change": 2,
+      "runs_rank_change": 0,
       "likes_rank_change": null
     },
     "all_time": {
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 62,
+    "data_points": 63,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-19T08:01:06.429153",
+    "last_recorded": "2026-01-20T08:01:02.655733",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -118,7 +118,8 @@
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
-        "2026-01-19T08:01:06.429153"
+        "2026-01-19T08:01:06.429153",
+        "2026-01-20T08:01:02.655733"
       ],
       "views_rank": [
         null,
@@ -182,6 +183,7 @@
         102,
         101,
         101,
+        101,
         101
       ],
       "runs_rank": [
@@ -221,6 +223,7 @@
         16,
         16,
         16,
+        18,
         18,
         18,
         18,
@@ -310,7 +313,8 @@
         115,
         160,
         208,
-        286
+        286,
+        203
       ]
     }
   },

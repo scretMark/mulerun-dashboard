@@ -1,6 +1,6 @@
 {
   "agent_id": "11c166a1-1a28-4d95-a876-350ddf069c00",
-  "generated_at": "2026-01-19T00:01:17.862661",
+  "generated_at": "2026-01-20T00:01:13.874407",
   "basic_info": {
     "title": "Design pajamas for you",
     "author": "8bit",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-09T16:32:01.173000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/design-pajamas-for-you",
-    "days_since_published": 40
+    "days_since_published": 41
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 269,
       "runs_rank": 220,
-      "likes_rank": 34,
+      "likes_rank": 27,
       "total_agents": 292,
       "views_percentile": 7.9,
       "runs_percentile": 24.7,
-      "likes_percentile": 88.4
+      "likes_percentile": 90.8
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 40,
+    "days_tracked": 41,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 39,
+    "days_tracked": 40,
     "last_7_days": {
       "views_rank_change": 6,
       "runs_rank_change": 7,
-      "likes_rank_change": -135
+      "likes_rank_change": -154
     },
     "last_30_days": {
-      "views_rank_change": 33,
+      "views_rank_change": 32,
       "runs_rank_change": 27,
-      "likes_rank_change": 7
+      "likes_rank_change": 0
     },
     "all_time": {
       "best_views_rank": 229,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 40,
+    "data_points": 41,
     "first_recorded": "2025-12-11T08:00:23.962890",
-    "last_recorded": "2026-01-19T08:01:06.429153",
+    "last_recorded": "2026-01-20T08:01:02.655733",
     "time_series": {
       "dates": [
         "2025-12-11T08:00:23.962890",
@@ -96,7 +96,8 @@
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
-        "2026-01-19T08:01:06.429153"
+        "2026-01-19T08:01:06.429153",
+        "2026-01-20T08:01:02.655733"
       ],
       "views_rank": [
         null,
@@ -135,6 +136,7 @@
         263,
         263,
         268,
+        269,
         269,
         269,
         269,
@@ -180,6 +182,7 @@
         219,
         220,
         220,
+        220,
         220
       ],
       "likes_rank": [
@@ -222,7 +225,8 @@
         63,
         42,
         38,
-        34
+        34,
+        27
       ]
     }
   },
@@ -241,12 +245,12 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #34 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #27 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     },
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 33 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 32 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

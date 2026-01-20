@@ -1,6 +1,6 @@
 {
   "agent_id": "a6b8beaa-a431-4ae4-9f51-044fbdcd64f0",
-  "generated_at": "2026-01-19T00:01:17.986070",
+  "generated_at": "2026-01-20T00:01:13.986331",
   "basic_info": {
     "title": "Festival Purikura",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-09T19:56:57.349000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/festival-purikura",
-    "days_since_published": 40
+    "days_since_published": 41
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 253,
       "runs_rank": 141,
-      "likes_rank": 40,
+      "likes_rank": 32,
       "total_agents": 292,
       "views_percentile": 13.4,
       "runs_percentile": 51.7,
-      "likes_percentile": 86.3
+      "likes_percentile": 89.0
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 39,
+    "days_tracked": 40,
     "price": 75.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 38,
+    "days_tracked": 39,
     "last_7_days": {
-      "views_rank_change": 4,
+      "views_rank_change": 3,
       "runs_rank_change": 2,
-      "likes_rank_change": -137
+      "likes_rank_change": -157
     },
     "last_30_days": {
       "views_rank_change": 30,
-      "runs_rank_change": 14,
-      "likes_rank_change": 35
+      "runs_rank_change": 13,
+      "likes_rank_change": 28
     },
     "all_time": {
       "best_views_rank": 219,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 39,
+    "data_points": 40,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2026-01-19T08:01:06.429153",
+    "last_recorded": "2026-01-20T08:01:02.655733",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -95,7 +95,8 @@
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
-        "2026-01-19T08:01:06.429153"
+        "2026-01-19T08:01:06.429153",
+        "2026-01-20T08:01:02.655733"
       ],
       "views_rank": [
         null,
@@ -133,6 +134,7 @@
         249,
         250,
         252,
+        253,
         253,
         253,
         253,
@@ -177,6 +179,7 @@
         139,
         140,
         141,
+        141,
         141
       ],
       "likes_rank": [
@@ -218,7 +221,8 @@
         70,
         49,
         45,
-        40
+        40,
+        32
       ]
     }
   },
@@ -237,7 +241,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #40 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #32 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     },
     {
       "type": "warning",

@@ -1,6 +1,6 @@
 {
   "agent_id": "9f2af205-abf8-435e-a29f-0cfa00daa24a",
-  "generated_at": "2026-01-19T00:01:18.366606",
+  "generated_at": "2026-01-20T00:01:14.381686",
   "basic_info": {
     "title": "PDF Mind",
     "author": "Aichimp",
@@ -11,39 +11,39 @@
     "published_at": "2025-12-24T22:27:24.012000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aichimp/pdf",
-    "days_since_published": 25
+    "days_since_published": 26
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 183,
-      "runs_rank": 112,
-      "likes_rank": 91,
+      "runs_rank": 107,
+      "likes_rank": 71,
       "total_agents": 292,
       "views_percentile": 37.3,
-      "runs_percentile": 61.6,
-      "likes_percentile": 68.8
+      "runs_percentile": 63.4,
+      "likes_percentile": 75.7
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 21,
+    "days_tracked": 22,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 24,
+    "days_tracked": 25,
     "last_7_days": {
-      "views_rank_change": -4,
-      "runs_rank_change": -17,
-      "likes_rank_change": null
+      "views_rank_change": 1,
+      "runs_rank_change": -16,
+      "likes_rank_change": 7
     },
     "last_30_days": {
       "views_rank_change": -30,
-      "runs_rank_change": -63,
-      "likes_rank_change": 40
+      "runs_rank_change": -68,
+      "likes_rank_change": 20
     },
     "all_time": {
       "best_views_rank": 182,
-      "best_runs_rank": 112,
+      "best_runs_rank": 107,
       "best_likes_rank": 35,
       "days_in_top_10": 0,
       "first_rank": 213,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 22,
+    "data_points": 23,
     "first_recorded": "2025-12-26T08:00:54.905148",
-    "last_recorded": "2026-01-19T08:01:06.429153",
+    "last_recorded": "2026-01-20T08:01:02.655733",
     "time_series": {
       "dates": [
         "2025-12-26T08:00:54.905148",
@@ -78,7 +78,8 @@
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
-        "2026-01-19T08:01:06.429153"
+        "2026-01-19T08:01:06.429153",
+        "2026-01-20T08:01:02.655733"
       ],
       "views_rank": [
         213,
@@ -100,6 +101,7 @@
         182,
         182,
         182,
+        183,
         183,
         183,
         183
@@ -126,7 +128,8 @@
         118,
         116,
         115,
-        112
+        112,
+        107
       ],
       "likes_rank": [
         51,
@@ -150,7 +153,8 @@
         226,
         123,
         104,
-        91
+        91,
+        71
       ]
     }
   },
@@ -174,7 +178,7 @@
     {
       "type": "positive",
       "title": "Growing Usage",
-      "description": "Runs ranking improved by 63 positions in the last 30 days - users are actively engaging with this agent!"
+      "description": "Runs ranking improved by 68 positions in the last 30 days - users are actively engaging with this agent!"
     }
   ]
 }

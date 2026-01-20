@@ -1,6 +1,6 @@
 {
   "agent_id": "96154dc5-a009-4fdc-9cb7-699f7ae72de6",
-  "generated_at": "2026-01-19T00:01:16.234483",
+  "generated_at": "2026-01-20T00:01:13.518922",
   "basic_info": {
     "title": "Ani-Me Cosplay",
     "author": "laughing_code",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-26T14:58:39.244000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@laughing_code/ani-me-cosplay",
-    "days_since_published": 114
+    "days_since_published": 115
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 26,
-      "runs_rank": 48,
-      "likes_rank": 238,
+      "runs_rank": 49,
+      "likes_rank": 149,
       "total_agents": 292,
       "views_percentile": 91.1,
-      "runs_percentile": 83.6,
-      "likes_percentile": 18.5
+      "runs_percentile": 83.2,
+      "likes_percentile": 49.0
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 88,
+    "days_tracked": 89,
     "price": 70.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 60,
+    "days_tracked": 61,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 2,
-      "likes_rank_change": 25
+      "runs_rank_change": 3,
+      "likes_rank_change": -72
     },
     "last_30_days": {
       "views_rank_change": 3,
-      "runs_rank_change": 2,
-      "likes_rank_change": 170
+      "runs_rank_change": 3,
+      "likes_rank_change": 81
     },
     "all_time": {
       "best_views_rank": 23,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 61,
+    "data_points": 62,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-19T08:01:06.429153",
+    "last_recorded": "2026-01-20T08:01:02.655733",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -117,7 +117,8 @@
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
-        "2026-01-19T08:01:06.429153"
+        "2026-01-19T08:01:06.429153",
+        "2026-01-20T08:01:02.655733"
       ],
       "views_rank": [
         null,
@@ -171,6 +172,7 @@
         25,
         25,
         25,
+        26,
         26,
         26,
         26,
@@ -243,7 +245,8 @@
         47,
         47,
         47,
-        48
+        48,
+        49
       ],
       "likes_rank": [
         null,
@@ -306,7 +309,8 @@
         293,
         144,
         110,
-        238
+        238,
+        149
       ]
     }
   },

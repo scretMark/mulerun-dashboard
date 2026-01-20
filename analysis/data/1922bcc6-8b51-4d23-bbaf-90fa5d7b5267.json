@@ -1,6 +1,6 @@
 {
   "agent_id": "1922bcc6-8b51-4d23-bbaf-90fa5d7b5267",
-  "generated_at": "2026-01-19T00:01:18.507546",
+  "generated_at": "2026-01-20T00:01:14.494719",
   "basic_info": {
     "title": "Chat With Youtube Video",
     "author": "Eren_kaif",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-27T21:43:09.382000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Eren_kaif/chat-with-youtube-video",
-    "days_since_published": 22
+    "days_since_published": 23
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 276,
-      "runs_rank": 269,
-      "likes_rank": 156,
+      "views_rank": 271,
+      "runs_rank": 267,
+      "likes_rank": 215,
       "total_agents": 292,
-      "views_percentile": 5.5,
-      "runs_percentile": 7.9,
-      "likes_percentile": 46.6
+      "views_percentile": 7.2,
+      "runs_percentile": 8.6,
+      "likes_percentile": 26.4
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 17,
+    "days_tracked": 18,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 19,
+    "days_tracked": 20,
     "last_7_days": {
-      "views_rank_change": 6,
-      "runs_rank_change": 5,
-      "likes_rank_change": 16
+      "views_rank_change": 0,
+      "runs_rank_change": 2,
+      "likes_rank_change": 89
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 112
+      "likes_rank_change": 171
     },
     "all_time": {
       "best_views_rank": 267,
@@ -47,14 +47,14 @@
       "best_likes_rank": 27,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 276
+      "current_rank": 271
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 17,
+    "data_points": 18,
     "first_recorded": "2025-12-31T08:00:58.854286",
-    "last_recorded": "2026-01-19T08:01:06.429153",
+    "last_recorded": "2026-01-20T08:01:02.655733",
     "time_series": {
       "dates": [
         "2025-12-31T08:00:58.854286",
@@ -73,7 +73,8 @@
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
-        "2026-01-19T08:01:06.429153"
+        "2026-01-19T08:01:06.429153",
+        "2026-01-20T08:01:02.655733"
       ],
       "views_rank": [
         null,
@@ -92,7 +93,8 @@
         276,
         276,
         276,
-        276
+        276,
+        271
       ],
       "runs_rank": [
         null,
@@ -111,7 +113,8 @@
         269,
         269,
         269,
-        269
+        269,
+        267
       ],
       "likes_rank": [
         44,
@@ -130,7 +133,8 @@
         40,
         27,
         198,
-        156
+        156,
+        215
       ]
     }
   },
@@ -149,7 +153,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #276 out of 292 active agents."
+      "description": "This agent is currently ranked #271 out of 292 active agents."
     }
   ]
 }

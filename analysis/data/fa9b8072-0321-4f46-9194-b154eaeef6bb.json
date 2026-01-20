@@ -1,6 +1,6 @@
 {
   "agent_id": "fa9b8072-0321-4f46-9194-b154eaeef6bb",
-  "generated_at": "2026-01-19T00:01:16.181145",
+  "generated_at": "2026-01-20T00:01:13.463773",
   "basic_info": {
     "title": "Ink Alive",
     "author": "AllenCreator",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-12T17:38:21.168000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AllenCreator/ink-alive",
-    "days_since_published": 98
+    "days_since_published": 99
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 188,
       "runs_rank": 105,
-      "likes_rank": 100,
+      "likes_rank": 228,
       "total_agents": 292,
       "views_percentile": 35.6,
       "runs_percentile": 64.0,
-      "likes_percentile": 65.8
+      "likes_percentile": 21.9
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 83,
+    "days_tracked": 84,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 60,
+    "days_tracked": 61,
     "last_7_days": {
-      "views_rank_change": 3,
+      "views_rank_change": 1,
       "runs_rank_change": 1,
-      "likes_rank_change": 99
+      "likes_rank_change": 128
     },
     "last_30_days": {
       "views_rank_change": 8,
       "runs_rank_change": 5,
-      "likes_rank_change": 17
+      "likes_rank_change": 145
     },
     "all_time": {
       "best_views_rank": 180,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 61,
+    "data_points": 62,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-19T08:01:06.429153",
+    "last_recorded": "2026-01-20T08:01:02.655733",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -117,7 +117,8 @@
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
-        "2026-01-19T08:01:06.429153"
+        "2026-01-19T08:01:06.429153",
+        "2026-01-20T08:01:02.655733"
       ],
       "views_rank": [
         null,
@@ -177,6 +178,7 @@
         185,
         187,
         187,
+        188,
         188,
         188,
         188,
@@ -243,6 +245,7 @@
         104,
         105,
         105,
+        105,
         105
       ],
       "likes_rank": [
@@ -306,7 +309,8 @@
         100,
         100,
         100,
-        100
+        100,
+        228
       ]
     }
   },

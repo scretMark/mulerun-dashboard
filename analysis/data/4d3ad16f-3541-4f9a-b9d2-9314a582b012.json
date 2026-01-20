@@ -1,6 +1,6 @@
 {
   "agent_id": "4d3ad16f-3541-4f9a-b9d2-9314a582b012",
-  "generated_at": "2026-01-19T00:01:18.566454",
+  "generated_at": "2026-01-20T00:01:14.559133",
   "basic_info": {
     "title": "Thesis Lens",
     "author": "liang_caoqw1",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-30T17:57:21.268000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@liang_caoqw1/deepscholar",
-    "days_since_published": 19
+    "days_since_published": 20
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 249,
-      "runs_rank": 210,
-      "likes_rank": 267,
+      "runs_rank": 211,
+      "likes_rank": 141,
       "total_agents": 292,
       "views_percentile": 14.7,
-      "runs_percentile": 28.1,
-      "likes_percentile": 8.6
+      "runs_percentile": 27.7,
+      "likes_percentile": 51.7
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 16,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 17,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 13,
+    "days_tracked": 14,
     "last_7_days": {
-      "views_rank_change": -1,
+      "views_rank_change": -2,
       "runs_rank_change": -8,
-      "likes_rank_change": 142
+      "likes_rank_change": 17
     },
     "last_30_days": {
       "views_rank_change": -1,
-      "runs_rank_change": -3,
-      "likes_rank_change": 188
+      "runs_rank_change": -2,
+      "likes_rank_change": 62
     },
     "all_time": {
       "best_views_rank": 247,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 14,
+    "data_points": 15,
     "first_recorded": "2026-01-05T08:01:10.022221",
-    "last_recorded": "2026-01-19T08:01:06.429153",
+    "last_recorded": "2026-01-20T08:01:02.655733",
     "time_series": {
       "dates": [
         "2026-01-05T08:01:10.022221",
@@ -70,7 +70,8 @@
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
-        "2026-01-19T08:01:06.429153"
+        "2026-01-19T08:01:06.429153",
+        "2026-01-20T08:01:02.655733"
       ],
       "views_rank": [
         250,
@@ -83,6 +84,7 @@
         250,
         251,
         253,
+        249,
         249,
         249,
         249,
@@ -102,7 +104,8 @@
         210,
         210,
         210,
-        210
+        210,
+        211
       ],
       "likes_rank": [
         79,
@@ -118,7 +121,8 @@
         192,
         111,
         93,
-        267
+        267,
+        141
       ]
     }
   },

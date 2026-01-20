@@ -1,6 +1,6 @@
 {
   "agent_id": "6d852596-ca92-4086-9fcb-4da9c8ece17e",
-  "generated_at": "2026-01-19T00:01:17.630905",
+  "generated_at": "2026-01-20T00:01:13.633908",
   "basic_info": {
     "title": "Banana Pro Canvas",
     "author": "Aronlong",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-20T20:11:49.993000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aronlong/banana-pro-canvas",
-    "days_since_published": 59
+    "days_since_published": 60
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 58,
       "runs_rank": 70,
-      "likes_rank": 144,
+      "likes_rank": 181,
       "total_agents": 292,
       "views_percentile": 80.1,
       "runs_percentile": 76.0,
-      "likes_percentile": 50.7
+      "likes_percentile": 38.0
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 52,
+    "days_tracked": 53,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 54,
+    "days_tracked": 55,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 1,
-      "likes_rank_change": 11
+      "likes_rank_change": 125
     },
     "last_30_days": {
       "views_rank_change": -8,
       "runs_rank_change": 3,
-      "likes_rank_change": 143
+      "likes_rank_change": 175
     },
     "all_time": {
       "best_views_rank": 58,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 52,
+    "data_points": 53,
     "first_recorded": "2025-11-26T08:00:32.046352",
-    "last_recorded": "2026-01-19T08:01:06.429153",
+    "last_recorded": "2026-01-20T08:01:02.655733",
     "time_series": {
       "dates": [
         "2025-11-26T08:00:32.046352",
@@ -108,7 +108,8 @@
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
-        "2026-01-19T08:01:06.429153"
+        "2026-01-19T08:01:06.429153",
+        "2026-01-20T08:01:02.655733"
       ],
       "views_rank": [
         null,
@@ -153,6 +154,7 @@
         63,
         62,
         61,
+        58,
         58,
         58,
         58,
@@ -216,6 +218,7 @@
         69,
         70,
         70,
+        70,
         70
       ],
       "likes_rank": [
@@ -270,7 +273,8 @@
         167,
         279,
         178,
-        144
+        144,
+        181
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "e00f06c2-9bee-4023-821d-8f215ca8417f",
-  "generated_at": "2026-01-19T00:01:18.540278",
+  "generated_at": "2026-01-20T00:01:14.522481",
   "basic_info": {
     "title": "Sales Advisor",
     "author": "SmartQ",
@@ -11,50 +11,50 @@
     "published_at": "2026-01-01T02:59:46.639000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@SmartQ/winnexo",
-    "days_since_published": 17
+    "days_since_published": 18
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 98,
-      "runs_rank": 88,
-      "likes_rank": 289,
+      "views_rank": 96,
+      "runs_rank": 85,
+      "likes_rank": 229,
       "total_agents": 292,
-      "views_percentile": 66.4,
-      "runs_percentile": 69.9,
-      "likes_percentile": 1.0
+      "views_percentile": 67.1,
+      "runs_percentile": 70.9,
+      "likes_percentile": 21.6
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 16,
+    "days_tracked": 17,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 13,
+    "days_tracked": 14,
     "last_7_days": {
-      "views_rank_change": -4,
-      "runs_rank_change": -3,
-      "likes_rank_change": 132
+      "views_rank_change": -6,
+      "runs_rank_change": -7,
+      "likes_rank_change": 58
     },
     "last_30_days": {
-      "views_rank_change": -28,
-      "runs_rank_change": -19,
-      "likes_rank_change": 183
+      "views_rank_change": -30,
+      "runs_rank_change": -22,
+      "likes_rank_change": 123
     },
     "all_time": {
-      "best_views_rank": 98,
-      "best_runs_rank": 88,
+      "best_views_rank": 96,
+      "best_runs_rank": 85,
       "best_likes_rank": 106,
       "days_in_top_10": 0,
       "first_rank": 126,
-      "current_rank": 98
+      "current_rank": 96
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 14,
+    "data_points": 15,
     "first_recorded": "2026-01-05T08:01:10.022221",
-    "last_recorded": "2026-01-19T08:01:06.429153",
+    "last_recorded": "2026-01-20T08:01:02.655733",
     "time_series": {
       "dates": [
         "2026-01-05T08:01:10.022221",
@@ -70,7 +70,8 @@
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
-        "2026-01-19T08:01:06.429153"
+        "2026-01-19T08:01:06.429153",
+        "2026-01-20T08:01:02.655733"
       ],
       "views_rank": [
         126,
@@ -86,7 +87,8 @@
         98,
         98,
         98,
-        98
+        98,
+        96
       ],
       "runs_rank": [
         107,
@@ -102,7 +104,8 @@
         89,
         88,
         88,
-        88
+        88,
+        85
       ],
       "likes_rank": [
         106,
@@ -118,7 +121,8 @@
         277,
         195,
         140,
-        289
+        289,
+        229
       ]
     }
   },
@@ -137,12 +141,17 @@
     {
       "type": "positive",
       "title": "Rising Star",
-      "description": "Improved by 28 positions in views ranking over the last 30 days - showing strong momentum!"
+      "description": "Improved by 30 positions in views ranking over the last 30 days - showing strong momentum!"
     },
     {
       "type": "positive",
       "title": "Growing Usage",
-      "description": "Runs ranking improved by 19 positions in the last 30 days - users are actively engaging with this agent!"
+      "description": "Runs ranking improved by 22 positions in the last 30 days - users are actively engaging with this agent!"
+    },
+    {
+      "type": "positive",
+      "title": "Hot Trend",
+      "description": "Up 6 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

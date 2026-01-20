@@ -1,6 +1,6 @@
 {
   "agent_id": "5f299841-8d14-44c9-8988-6bc4ec3a4abc",
-  "generated_at": "2026-01-19T00:01:15.787628",
+  "generated_at": "2026-01-20T00:01:12.885923",
   "basic_info": {
     "title": "Remove Sora2 Video Watermark",
     "author": "Darren",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-20T12:11:44.378000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/remove-sora2-video-watermark",
-    "days_since_published": 90
+    "days_since_published": 91
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 16,
       "runs_rank": 38,
-      "likes_rank": 194,
+      "likes_rank": 119,
       "total_agents": 292,
       "views_percentile": 94.5,
       "runs_percentile": 87.0,
-      "likes_percentile": 33.6
+      "likes_percentile": 59.2
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 81,
+    "days_tracked": 82,
     "price": 101.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 60,
+    "days_tracked": 61,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": 60
+      "likes_rank_change": 36
     },
     "last_30_days": {
       "views_rank_change": 1,
       "runs_rank_change": -4,
-      "likes_rank_change": -29
+      "likes_rank_change": -106
     },
     "all_time": {
       "best_views_rank": 15,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 61,
+    "data_points": 62,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-19T08:01:06.429153",
+    "last_recorded": "2026-01-20T08:01:02.655733",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -117,7 +117,8 @@
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
-        "2026-01-19T08:01:06.429153"
+        "2026-01-19T08:01:06.429153",
+        "2026-01-20T08:01:02.655733"
       ],
       "views_rank": [
         null,
@@ -167,6 +168,7 @@
         15,
         15,
         15,
+        16,
         16,
         16,
         16,
@@ -243,6 +245,7 @@
         38,
         38,
         38,
+        38,
         38
       ],
       "likes_rank": [
@@ -306,7 +309,8 @@
         239,
         129,
         255,
-        194
+        194,
+        119
       ]
     }
   },

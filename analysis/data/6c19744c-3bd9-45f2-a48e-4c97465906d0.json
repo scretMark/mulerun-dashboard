@@ -1,6 +1,6 @@
 {
   "agent_id": "6c19744c-3bd9-45f2-a48e-4c97465906d0",
-  "generated_at": "2026-01-19T00:01:17.743608",
+  "generated_at": "2026-01-20T00:01:13.756121",
   "basic_info": {
     "title": "Mockup Studio Try On",
     "author": "DENNIS",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-04T09:50:58.930000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@DENNIS/mockup-studio-try-on",
-    "days_since_published": 45
+    "days_since_published": 46
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 165,
       "runs_rank": 144,
-      "likes_rank": 227,
+      "likes_rank": 163,
       "total_agents": 292,
       "views_percentile": 43.5,
       "runs_percentile": 50.7,
-      "likes_percentile": 22.3
+      "likes_percentile": 44.2
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 45,
+    "days_tracked": 46,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "last_7_days": {
-      "views_rank_change": -6,
-      "runs_rank_change": 1,
-      "likes_rank_change": 12
+      "views_rank_change": -7,
+      "runs_rank_change": 0,
+      "likes_rank_change": -61
     },
     "last_30_days": {
       "views_rank_change": -9,
       "runs_rank_change": -2,
-      "likes_rank_change": 163
+      "likes_rank_change": 99
     },
     "all_time": {
       "best_views_rank": 165,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 44,
+    "data_points": 45,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2026-01-19T08:01:06.429153",
+    "last_recorded": "2026-01-20T08:01:02.655733",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -100,7 +100,8 @@
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
-        "2026-01-19T08:01:06.429153"
+        "2026-01-19T08:01:06.429153",
+        "2026-01-20T08:01:02.655733"
       ],
       "views_rank": [
         null,
@@ -146,6 +147,7 @@
         171,
         171,
         168,
+        165,
         165
       ],
       "runs_rank": [
@@ -190,6 +192,7 @@
         144,
         142,
         142,
+        144,
         144,
         144,
         144
@@ -238,7 +241,8 @@
         47,
         31,
         262,
-        227
+        227,
+        163
       ]
     }
   },
@@ -257,7 +261,7 @@
     {
       "type": "positive",
       "title": "Hot Trend",
-      "description": "Up 6 positions in just 7 days - currently trending and gaining rapid visibility!"
+      "description": "Up 7 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

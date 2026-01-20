@@ -1,6 +1,6 @@
 {
   "agent_id": "e1e7db99-ba94-45f5-833f-ea3cfe89b58c",
-  "generated_at": "2026-01-19T00:01:17.368664",
+  "generated_at": "2026-01-20T00:01:13.264369",
   "basic_info": {
     "title": "Fantasy Companion Studio",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-09T14:47:36.149000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/fantasy-companion-studio",
-    "days_since_published": 101
+    "days_since_published": 102
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 167,
       "runs_rank": 241,
-      "likes_rank": 182,
+      "likes_rank": 207,
       "total_agents": 292,
       "views_percentile": 42.8,
       "runs_percentile": 17.5,
-      "likes_percentile": 37.7
+      "likes_percentile": 29.1
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 83,
+    "days_tracked": 84,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 60,
+    "days_tracked": 61,
     "last_7_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": 5,
-      "likes_rank_change": -79
+      "views_rank_change": 1,
+      "runs_rank_change": 4,
+      "likes_rank_change": 70
     },
     "last_30_days": {
-      "views_rank_change": 7,
+      "views_rank_change": 6,
       "runs_rank_change": 29,
-      "likes_rank_change": 13
+      "likes_rank_change": 38
     },
     "all_time": {
       "best_views_rank": 159,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 61,
+    "data_points": 62,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-19T08:01:06.429153",
+    "last_recorded": "2026-01-20T08:01:02.655733",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -117,7 +117,8 @@
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
-        "2026-01-19T08:01:06.429153"
+        "2026-01-19T08:01:06.429153",
+        "2026-01-20T08:01:02.655733"
       ],
       "views_rank": [
         null,
@@ -180,6 +181,7 @@
         167,
         166,
         165,
+        167,
         167
       ],
       "runs_rank": [
@@ -240,6 +242,7 @@
         236,
         237,
         240,
+        241,
         241,
         241,
         241,
@@ -306,7 +309,8 @@
         258,
         271,
         239,
-        182
+        182,
+        207
       ]
     }
   },

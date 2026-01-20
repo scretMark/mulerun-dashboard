@@ -1,6 +1,6 @@
 {
   "agent_id": "990a2558-13c3-4fe8-bcc3-f3897a7b9866",
-  "generated_at": "2026-01-19T00:01:18.584289",
+  "generated_at": "2026-01-20T00:01:14.582253",
   "basic_info": {
     "title": "Try New Hair Color",
     "author": "AngryBerry",
@@ -11,35 +11,35 @@
     "published_at": "2026-01-06T22:44:35.857000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AngryBerry/try-new-hair-color",
-    "days_since_published": 12
+    "days_since_published": 13
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 259,
       "runs_rank": 203,
-      "likes_rank": 11,
+      "likes_rank": 202,
       "total_agents": 292,
       "views_percentile": 11.3,
       "runs_percentile": 30.5,
-      "likes_percentile": 96.2
+      "likes_percentile": 30.8
     },
-    "tier": "Elite",
-    "tier_class": "elite",
-    "days_tracked": 11,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 12,
     "price": 40.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 11,
+    "days_tracked": 12,
     "last_7_days": {
       "views_rank_change": 3,
-      "runs_rank_change": 3,
-      "likes_rank_change": -28
+      "runs_rank_change": 2,
+      "likes_rank_change": 172
     },
     "last_30_days": {
       "views_rank_change": 1,
       "runs_rank_change": 3,
-      "likes_rank_change": -70
+      "likes_rank_change": 121
     },
     "all_time": {
       "best_views_rank": 256,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 11,
+    "data_points": 12,
     "first_recorded": "2026-01-08T08:01:02.485852",
-    "last_recorded": "2026-01-19T08:01:06.429153",
+    "last_recorded": "2026-01-20T08:01:02.655733",
     "time_series": {
       "dates": [
         "2026-01-08T08:01:02.485852",
@@ -67,7 +67,8 @@
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
-        "2026-01-19T08:01:06.429153"
+        "2026-01-19T08:01:06.429153",
+        "2026-01-20T08:01:02.655733"
       ],
       "views_rank": [
         258,
@@ -77,6 +78,7 @@
         256,
         256,
         258,
+        259,
         259,
         259,
         259,
@@ -93,6 +95,7 @@
         202,
         203,
         203,
+        203,
         203
       ],
       "likes_rank": [
@@ -106,7 +109,8 @@
         13,
         12,
         12,
-        11
+        11,
+        202
       ]
     }
   },
@@ -123,9 +127,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "Elite Performance",
-      "description": "Ranked #11 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #259 out of 292 active agents."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "f4452c07-4e3b-4f7e-a76f-6f08d2199113",
-  "generated_at": "2026-01-19T00:01:18.557086",
+  "generated_at": "2026-01-20T00:01:14.540040",
   "basic_info": {
     "title": "Rank Quest",
     "author": "favourite",
@@ -11,40 +11,40 @@
     "published_at": "2025-12-30T11:16:33.492000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@favourite/rank-quest-2",
-    "days_since_published": 19
+    "days_since_published": 20
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 202,
-      "runs_rank": 159,
-      "likes_rank": 75,
+      "runs_rank": 160,
+      "likes_rank": 61,
       "total_agents": 292,
       "views_percentile": 30.8,
-      "runs_percentile": 45.5,
-      "likes_percentile": 74.3
+      "runs_percentile": 45.2,
+      "likes_percentile": 79.1
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 16,
+    "days_tracked": 17,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 13,
+    "days_tracked": 14,
     "last_7_days": {
-      "views_rank_change": -1,
-      "runs_rank_change": 0,
-      "likes_rank_change": -89
+      "views_rank_change": 0,
+      "runs_rank_change": 3,
+      "likes_rank_change": -117
     },
     "last_30_days": {
       "views_rank_change": -9,
-      "runs_rank_change": -4,
-      "likes_rank_change": -38
+      "runs_rank_change": -3,
+      "likes_rank_change": -52
     },
     "all_time": {
       "best_views_rank": 202,
       "best_runs_rank": 157,
-      "best_likes_rank": 75,
+      "best_likes_rank": 61,
       "days_in_top_10": 0,
       "first_rank": 211,
       "current_rank": 202
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 14,
+    "data_points": 15,
     "first_recorded": "2026-01-05T08:01:10.022221",
-    "last_recorded": "2026-01-19T08:01:06.429153",
+    "last_recorded": "2026-01-20T08:01:02.655733",
     "time_series": {
       "dates": [
         "2026-01-05T08:01:10.022221",
@@ -70,7 +70,8 @@
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
-        "2026-01-19T08:01:06.429153"
+        "2026-01-19T08:01:06.429153",
+        "2026-01-20T08:01:02.655733"
       ],
       "views_rank": [
         211,
@@ -81,6 +82,7 @@
         202,
         202,
         203,
+        202,
         202,
         202,
         202,
@@ -102,7 +104,8 @@
         158,
         158,
         159,
-        159
+        159,
+        160
       ],
       "likes_rank": [
         113,
@@ -118,7 +121,8 @@
         156,
         95,
         82,
-        75
+        75,
+        61
       ]
     }
   },

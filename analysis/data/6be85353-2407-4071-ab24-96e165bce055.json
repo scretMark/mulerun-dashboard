@@ -1,6 +1,6 @@
 {
   "agent_id": "6be85353-2407-4071-ab24-96e165bce055",
-  "generated_at": "2026-01-19T00:01:18.025052",
+  "generated_at": "2026-01-20T00:01:14.022681",
   "basic_info": {
     "title": "The Pet Fruit on the Tree",
     "author": "8bit",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-10T15:04:26.066000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/the-pet-fruit-on-the-tree",
-    "days_since_published": 39
+    "days_since_published": 40
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 293,
       "runs_rank": 277,
-      "likes_rank": 7,
+      "likes_rank": 6,
       "total_agents": 292,
       "views_percentile": -0.3,
       "runs_percentile": 5.1,
-      "likes_percentile": 97.6
+      "likes_percentile": 97.9
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 39,
+    "days_tracked": 40,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 38,
+    "days_tracked": 39,
     "last_7_days": {
       "views_rank_change": 3,
       "runs_rank_change": 4,
-      "likes_rank_change": -4
+      "likes_rank_change": -3
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": 34,
-      "likes_rank_change": -34
+      "likes_rank_change": -36
     },
     "all_time": {
       "best_views_rank": 246,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 39,
+    "data_points": 40,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2026-01-19T08:01:06.429153",
+    "last_recorded": "2026-01-20T08:01:02.655733",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -95,7 +95,8 @@
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
-        "2026-01-19T08:01:06.429153"
+        "2026-01-19T08:01:06.429153",
+        "2026-01-20T08:01:02.655733"
       ],
       "views_rank": [
         null,
@@ -132,6 +133,7 @@
         288,
         290,
         290,
+        293,
         293,
         293,
         293,
@@ -177,6 +179,7 @@
         276,
         277,
         277,
+        277,
         277
       ],
       "likes_rank": [
@@ -218,7 +221,8 @@
         7,
         7,
         7,
-        7
+        7,
+        6
       ]
     }
   },
@@ -237,7 +241,7 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #7 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #6 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     }
   ]
 }

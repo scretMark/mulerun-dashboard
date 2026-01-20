@@ -1,6 +1,6 @@
 {
   "agent_id": "23955924-d6ed-48cc-8ec0-a776427979cb",
-  "generated_at": "2026-01-19T00:01:17.813092",
+  "generated_at": "2026-01-20T00:01:13.825945",
   "basic_info": {
     "title": "Change the color of your pet",
     "author": "8bit",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-08T20:39:24.448000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/change-the-color-of-your-pet",
-    "days_since_published": 41
+    "days_since_published": 42
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 258,
-      "runs_rank": 186,
-      "likes_rank": 1,
+      "runs_rank": 187,
+      "likes_rank": 100,
       "total_agents": 292,
       "views_percentile": 11.6,
-      "runs_percentile": 36.3,
-      "likes_percentile": 99.7
+      "runs_percentile": 36.0,
+      "likes_percentile": 65.8
     },
-    "tier": "Elite",
-    "tier_class": "elite",
-    "days_tracked": 41,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 42,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 40,
+    "days_tracked": 41,
     "last_7_days": {
       "views_rank_change": 4,
       "runs_rank_change": 2,
-      "likes_rank_change": -2
+      "likes_rank_change": 98
     },
     "last_30_days": {
       "views_rank_change": 30,
-      "runs_rank_change": 25,
-      "likes_rank_change": -27
+      "runs_rank_change": 26,
+      "likes_rank_change": 72
     },
     "all_time": {
       "best_views_rank": 223,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 41,
+    "data_points": 42,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2026-01-19T08:01:06.429153",
+    "last_recorded": "2026-01-20T08:01:02.655733",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
@@ -97,7 +97,8 @@
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
-        "2026-01-19T08:01:06.429153"
+        "2026-01-19T08:01:06.429153",
+        "2026-01-20T08:01:02.655733"
       ],
       "views_rank": [
         null,
@@ -140,6 +141,7 @@
         257,
         257,
         257,
+        258,
         258
       ],
       "runs_rank": [
@@ -183,7 +185,8 @@
         186,
         186,
         186,
-        186
+        186,
+        187
       ],
       "likes_rank": [
         null,
@@ -226,7 +229,8 @@
         1,
         1,
         1,
-        1
+        1,
+        100
       ]
     }
   },
@@ -242,11 +246,6 @@
     ]
   },
   "insights": [
-    {
-      "type": "positive",
-      "title": "Elite Performance",
-      "description": "Ranked #1 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
-    },
     {
       "type": "warning",
       "title": "Declining Ranking",

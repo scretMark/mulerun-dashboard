@@ -1,6 +1,6 @@
 {
   "agent_id": "d7b85cff-5179-46c7-a1e5-09560f825c92",
-  "generated_at": "2026-01-19T00:01:15.449912",
+  "generated_at": "2026-01-20T00:01:12.370118",
   "basic_info": {
     "title": "AI Model Swap",
     "author": "PicCopilot",
@@ -11,50 +11,50 @@
     "published_at": "2025-11-11T19:26:53.701000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/ai-model-swap",
-    "days_since_published": 68
+    "days_since_published": 69
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 63,
+      "views_rank": 62,
       "runs_rank": 10,
-      "likes_rank": 180,
+      "likes_rank": 206,
       "total_agents": 292,
-      "views_percentile": 78.4,
+      "views_percentile": 78.8,
       "runs_percentile": 96.6,
-      "likes_percentile": 38.4
+      "likes_percentile": 29.5
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 68,
+    "days_tracked": 69,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 61,
+    "days_tracked": 62,
     "last_7_days": {
       "views_rank_change": -2,
       "runs_rank_change": -1,
-      "likes_rank_change": 66
+      "likes_rank_change": 149
     },
     "last_30_days": {
-      "views_rank_change": -10,
+      "views_rank_change": -11,
       "runs_rank_change": 2,
-      "likes_rank_change": 124
+      "likes_rank_change": 151
     },
     "all_time": {
-      "best_views_rank": 63,
+      "best_views_rank": 62,
       "best_runs_rank": 8,
       "best_likes_rank": 16,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 63
+      "current_rank": 62
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 62,
+    "data_points": 63,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-19T08:01:06.429153",
+    "last_recorded": "2026-01-20T08:01:02.655733",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -118,7 +118,8 @@
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
-        "2026-01-19T08:01:06.429153"
+        "2026-01-19T08:01:06.429153",
+        "2026-01-20T08:01:02.655733"
       ],
       "views_rank": [
         null,
@@ -182,7 +183,8 @@
         64,
         63,
         63,
-        63
+        63,
+        62
       ],
       "runs_rank": [
         null,
@@ -242,6 +244,7 @@
         11,
         11,
         11,
+        10,
         10,
         10,
         10,
@@ -310,7 +313,8 @@
         211,
         224,
         234,
-        180
+        180,
+        206
       ]
     }
   },
@@ -323,6 +327,11 @@
       "type": "positive",
       "title": "Elite Performance",
       "description": "Ranked #10 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+    },
+    {
+      "type": "positive",
+      "title": "Rising Star",
+      "description": "Improved by 11 positions in views ranking over the last 30 days - showing strong momentum!"
     }
   ]
 }

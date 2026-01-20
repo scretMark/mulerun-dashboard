@@ -1,6 +1,6 @@
 {
   "agent_id": "c10ae341-6770-4502-825a-f04f2e82a977",
-  "generated_at": "2026-01-19T00:01:16.389029",
+  "generated_at": "2026-01-20T00:01:13.713266",
   "basic_info": {
     "title": "Ghibli Image Generator",
     "author": "Darren",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-22T21:33:31.876000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/ghibili-image-generator",
-    "days_since_published": 118
+    "days_since_published": 119
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 95,
       "runs_rank": 106,
-      "likes_rank": 175,
+      "likes_rank": 185,
       "total_agents": 292,
       "views_percentile": 67.5,
       "runs_percentile": 63.7,
-      "likes_percentile": 40.1
+      "likes_percentile": 36.6
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 113,
+    "days_tracked": 114,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 60,
+    "days_tracked": 61,
     "last_7_days": {
       "views_rank_change": 3,
       "runs_rank_change": 1,
-      "likes_rank_change": -31
+      "likes_rank_change": -29
     },
     "last_30_days": {
       "views_rank_change": 4,
       "runs_rank_change": 5,
-      "likes_rank_change": 69
+      "likes_rank_change": 79
     },
     "all_time": {
       "best_views_rank": 91,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 61,
+    "data_points": 62,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-19T08:01:06.429153",
+    "last_recorded": "2026-01-20T08:01:02.655733",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -117,7 +117,8 @@
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
-        "2026-01-19T08:01:06.429153"
+        "2026-01-19T08:01:06.429153",
+        "2026-01-20T08:01:02.655733"
       ],
       "views_rank": [
         null,
@@ -180,6 +181,7 @@
         94,
         95,
         95,
+        95,
         95
       ],
       "runs_rank": [
@@ -240,6 +242,7 @@
         105,
         105,
         105,
+        106,
         106,
         106,
         106,
@@ -306,7 +309,8 @@
         84,
         199,
         226,
-        175
+        175,
+        185
       ]
     }
   },

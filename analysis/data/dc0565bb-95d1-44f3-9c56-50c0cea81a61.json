@@ -1,6 +1,6 @@
 {
   "agent_id": "dc0565bb-95d1-44f3-9c56-50c0cea81a61",
-  "generated_at": "2026-01-19T00:01:16.421149",
+  "generated_at": "2026-01-20T00:01:13.753382",
   "basic_info": {
     "title": "Business Card",
     "author": "Darren",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-01T16:13:53.027000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/business-card",
-    "days_since_published": 109
+    "days_since_published": 110
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 131,
       "runs_rank": 174,
-      "likes_rank": 177,
+      "likes_rank": 161,
       "total_agents": 292,
       "views_percentile": 55.1,
       "runs_percentile": 40.4,
-      "likes_percentile": 39.4
+      "likes_percentile": 44.9
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 83,
+    "days_tracked": 84,
     "price": 18.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 60,
+    "days_tracked": 61,
     "last_7_days": {
       "views_rank_change": -1,
-      "runs_rank_change": 2,
-      "likes_rank_change": 77
+      "runs_rank_change": 1,
+      "likes_rank_change": 160
     },
     "last_30_days": {
       "views_rank_change": 4,
       "runs_rank_change": 17,
-      "likes_rank_change": 79
+      "likes_rank_change": 63
     },
     "all_time": {
       "best_views_rank": 126,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 61,
+    "data_points": 62,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-19T08:01:06.429153",
+    "last_recorded": "2026-01-20T08:01:02.655733",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -117,7 +117,8 @@
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
-        "2026-01-19T08:01:06.429153"
+        "2026-01-19T08:01:06.429153",
+        "2026-01-20T08:01:02.655733"
       ],
       "views_rank": [
         null,
@@ -180,6 +181,7 @@
         132,
         132,
         131,
+        131,
         131
       ],
       "runs_rank": [
@@ -241,6 +243,7 @@
         173,
         173,
         173,
+        174,
         174,
         174,
         174
@@ -306,7 +309,8 @@
         244,
         147,
         228,
-        177
+        177,
+        161
       ]
     }
   },

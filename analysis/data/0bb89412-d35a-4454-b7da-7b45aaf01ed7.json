@@ -1,6 +1,6 @@
 {
   "agent_id": "0bb89412-d35a-4454-b7da-7b45aaf01ed7",
-  "generated_at": "2026-01-19T00:01:16.567774",
+  "generated_at": "2026-01-20T00:01:13.945351",
   "basic_info": {
     "title": "One-Click Series",
     "author": "williamyang5050",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-11T01:04:55.128000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@williamyang5050/one-click-series",
-    "days_since_published": 99
+    "days_since_published": 100
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 81,
-      "runs_rank": 85,
-      "likes_rank": 117,
+      "runs_rank": 86,
+      "likes_rank": 254,
       "total_agents": 292,
       "views_percentile": 72.3,
-      "runs_percentile": 70.9,
-      "likes_percentile": 59.9
+      "runs_percentile": 70.5,
+      "likes_percentile": 13.0
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 81,
+    "days_tracked": 82,
     "price": 70.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 60,
+    "days_tracked": 61,
     "last_7_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": 0,
-      "likes_rank_change": -82
+      "views_rank_change": 2,
+      "runs_rank_change": 2,
+      "likes_rank_change": 115
     },
     "last_30_days": {
       "views_rank_change": 6,
-      "runs_rank_change": 3,
-      "likes_rank_change": 45
+      "runs_rank_change": 4,
+      "likes_rank_change": 180
     },
     "all_time": {
       "best_views_rank": 74,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 61,
+    "data_points": 62,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-19T08:01:06.429153",
+    "last_recorded": "2026-01-20T08:01:02.655733",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -117,7 +117,8 @@
         "2026-01-16T08:01:10.137236",
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
-        "2026-01-19T08:01:06.429153"
+        "2026-01-19T08:01:06.429153",
+        "2026-01-20T08:01:02.655733"
       ],
       "views_rank": [
         null,
@@ -179,6 +180,7 @@
         79,
         81,
         79,
+        81,
         81,
         81
       ],
@@ -243,7 +245,8 @@
         85,
         85,
         85,
-        85
+        85,
+        86
       ],
       "likes_rank": [
         null,
@@ -306,7 +309,8 @@
         43,
         198,
         142,
-        117
+        117,
+        254
       ]
     }
   },
