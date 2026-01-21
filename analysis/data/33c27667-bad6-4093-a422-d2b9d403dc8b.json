@@ -1,6 +1,6 @@
 {
   "agent_id": "33c27667-bad6-4093-a422-d2b9d403dc8b",
-  "generated_at": "2026-01-20T00:01:14.505591",
+  "generated_at": "2026-01-21T00:01:14.045581",
   "basic_info": {
     "title": "An Exploded VIEW",
     "author": "Darren",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-07T16:12:19.379000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/an-exploded-view",
-    "days_since_published": 104
+    "days_since_published": 105
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 120,
       "runs_rank": 130,
-      "likes_rank": 113,
+      "likes_rank": 148,
       "total_agents": 292,
       "views_percentile": 58.9,
       "runs_percentile": 55.5,
-      "likes_percentile": 61.3
+      "likes_percentile": 49.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 84,
+    "days_tracked": 85,
     "price": 48.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 61,
+    "days_tracked": 62,
     "last_7_days": {
       "views_rank_change": -1,
       "runs_rank_change": 0,
-      "likes_rank_change": 97
+      "likes_rank_change": 39
     },
     "last_30_days": {
       "views_rank_change": -1,
-      "runs_rank_change": 9,
-      "likes_rank_change": 22
+      "runs_rank_change": 8,
+      "likes_rank_change": 50
     },
     "all_time": {
       "best_views_rank": 117,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 62,
+    "data_points": 63,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -118,7 +118,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -178,6 +179,7 @@
         121,
         121,
         121,
+        120,
         120,
         120,
         120,
@@ -246,6 +248,7 @@
         130,
         129,
         129,
+        130,
         130
       ],
       "likes_rank": [
@@ -310,7 +313,8 @@
         200,
         220,
         172,
-        113
+        113,
+        148
       ]
     }
   },

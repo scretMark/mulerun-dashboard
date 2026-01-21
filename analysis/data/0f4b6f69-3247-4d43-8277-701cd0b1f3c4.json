@@ -1,6 +1,6 @@
 {
   "agent_id": "0f4b6f69-3247-4d43-8277-701cd0b1f3c4",
-  "generated_at": "2026-01-20T00:01:12.611531",
+  "generated_at": "2026-01-21T00:01:12.147837",
   "basic_info": {
     "title": "ResumePic for LinkedIn",
     "author": "Zane29222",
@@ -11,50 +11,50 @@
     "published_at": "2025-11-03T21:58:06.997000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Zane29222/resumepic-for-linkedin",
-    "days_since_published": 77
+    "days_since_published": 78
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 8,
-      "runs_rank": 13,
-      "likes_rank": 248,
+      "runs_rank": 14,
+      "likes_rank": 216,
       "total_agents": 292,
       "views_percentile": 97.3,
-      "runs_percentile": 95.5,
-      "likes_percentile": 15.1
+      "runs_percentile": 95.2,
+      "likes_percentile": 26.0
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 85,
+    "days_tracked": 86,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 62,
+    "days_tracked": 63,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 0,
-      "likes_rank_change": 85
+      "runs_rank_change": 1,
+      "likes_rank_change": -61
     },
     "last_30_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 2,
-      "likes_rank_change": 3
+      "runs_rank_change": 3,
+      "likes_rank_change": null
     },
     "all_time": {
       "best_views_rank": 8,
       "best_runs_rank": 10,
       "best_likes_rank": 30,
-      "days_in_top_10": 35,
+      "days_in_top_10": 36,
       "first_rank": null,
       "current_rank": 8
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 63,
+    "data_points": 64,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -119,7 +119,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -150,6 +151,7 @@
         null,
         null,
         null,
+        8,
         8,
         8,
         8,
@@ -249,7 +251,8 @@
         13,
         13,
         13,
-        13
+        13,
+        14
       ],
       "likes_rank": [
         null,
@@ -314,7 +317,8 @@
         286,
         288,
         273,
-        248
+        248,
+        216
       ]
     }
   },
@@ -331,7 +335,7 @@
     {
       "type": "positive",
       "title": "Consistent Top Performer",
-      "description": "Maintained Top 10 ranking for 35 days - showing sustained excellence and user preference."
+      "description": "Maintained Top 10 ranking for 36 days - showing sustained excellence and user preference."
     },
     {
       "type": "info",
@@ -341,7 +345,7 @@
     {
       "type": "info",
       "title": "Premium Agent Success",
-      "description": "Despite $50.0 pricing, this agent ranks #13 in usage - demonstrating strong value proposition."
+      "description": "Despite $50.0 pricing, this agent ranks #14 in usage - demonstrating strong value proposition."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "910d7312-122e-4fdd-a71a-32461ad1319c",
-  "generated_at": "2026-01-20T00:01:13.855079",
+  "generated_at": "2026-01-21T00:01:14.881582",
   "basic_info": {
     "title": "Cute Pet Outfit Generate",
     "author": "8bit",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-08T21:17:46.986000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/cute-pet-outfit-generate",
-    "days_since_published": 42
+    "days_since_published": 43
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 272,
       "runs_rank": 226,
-      "likes_rank": 154,
+      "likes_rank": 97,
       "total_agents": 292,
       "views_percentile": 6.8,
       "runs_percentile": 22.6,
-      "likes_percentile": 47.3
+      "likes_percentile": 66.8
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 42,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 43,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "last_7_days": {
-      "views_rank_change": 4,
-      "runs_rank_change": 6,
-      "likes_rank_change": 66
+      "views_rank_change": -2,
+      "runs_rank_change": 3,
+      "likes_rank_change": 52
     },
     "last_30_days": {
-      "views_rank_change": 31,
-      "runs_rank_change": 18,
-      "likes_rank_change": 138
+      "views_rank_change": 25,
+      "runs_rank_change": 17,
+      "likes_rank_change": 82
     },
     "all_time": {
       "best_views_rank": 236,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 42,
+    "data_points": 43,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
@@ -98,7 +98,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -142,6 +143,7 @@
         275,
         275,
         275,
+        272,
         272
       ],
       "runs_rank": [
@@ -185,6 +187,7 @@
         224,
         227,
         227,
+        226,
         226,
         226
       ],
@@ -230,7 +233,8 @@
         23,
         22,
         19,
-        154
+        154,
+        97
       ]
     }
   },
@@ -249,7 +253,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 31 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 25 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

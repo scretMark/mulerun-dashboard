@@ -1,6 +1,6 @@
 {
   "agent_id": "1922bcc6-8b51-4d23-bbaf-90fa5d7b5267",
-  "generated_at": "2026-01-20T00:01:14.494719",
+  "generated_at": "2026-01-21T00:01:15.617335",
   "basic_info": {
     "title": "Chat With Youtube Video",
     "author": "Eren_kaif",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-27T21:43:09.382000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Eren_kaif/chat-with-youtube-video",
-    "days_since_published": 23
+    "days_since_published": 24
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 271,
       "runs_rank": 267,
-      "likes_rank": 215,
+      "likes_rank": 117,
       "total_agents": 292,
       "views_percentile": 7.2,
       "runs_percentile": 8.6,
-      "likes_percentile": 26.4
+      "likes_percentile": 59.9
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 18,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 19,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 20,
+    "days_tracked": 21,
     "last_7_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": 2,
-      "likes_rank_change": 89
+      "views_rank_change": -4,
+      "runs_rank_change": -1,
+      "likes_rank_change": 50
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 171
+      "likes_rank_change": 73
     },
     "all_time": {
       "best_views_rank": 267,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 18,
+    "data_points": 19,
     "first_recorded": "2025-12-31T08:00:58.854286",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-12-31T08:00:58.854286",
@@ -74,7 +74,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -94,6 +95,7 @@
         276,
         276,
         276,
+        271,
         271
       ],
       "runs_rank": [
@@ -114,6 +116,7 @@
         269,
         269,
         269,
+        267,
         267
       ],
       "likes_rank": [
@@ -134,7 +137,8 @@
         27,
         198,
         156,
-        215
+        215,
+        117
       ]
     }
   },

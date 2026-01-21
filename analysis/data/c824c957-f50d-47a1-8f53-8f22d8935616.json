@@ -1,6 +1,6 @@
 {
   "agent_id": "c824c957-f50d-47a1-8f53-8f22d8935616",
-  "generated_at": "2026-01-20T00:01:13.845210",
+  "generated_at": "2026-01-21T00:01:14.870757",
   "basic_info": {
     "title": "Generate your photos in China",
     "author": "8bit",
@@ -11,7 +11,7 @@
     "published_at": "2025-12-09T00:34:28.759000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/generate-your-photos-in-china",
-    "days_since_published": 41
+    "days_since_published": 42
   },
   "ranking_metrics": {
     "current_position": {
@@ -25,20 +25,20 @@
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 42,
+    "days_tracked": 43,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "last_7_days": {
-      "views_rank_change": 4,
-      "runs_rank_change": 6,
-      "likes_rank_change": -3
+      "views_rank_change": 1,
+      "runs_rank_change": 4,
+      "likes_rank_change": -2
     },
     "last_30_days": {
-      "views_rank_change": 34,
-      "runs_rank_change": 30,
+      "views_rank_change": null,
+      "runs_rank_change": 26,
       "likes_rank_change": -31
     },
     "all_time": {
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 42,
+    "data_points": 43,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
@@ -98,7 +98,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -138,6 +139,7 @@
         277,
         277,
         280,
+        281,
         281,
         281,
         281,
@@ -186,6 +188,7 @@
         229,
         229,
         229,
+        229,
         229
       ],
       "likes_rank": [
@@ -230,6 +233,7 @@
         6,
         6,
         6,
+        5,
         5
       ]
     }
@@ -250,11 +254,6 @@
       "type": "positive",
       "title": "Elite Performance",
       "description": "Ranked #5 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
-    },
-    {
-      "type": "warning",
-      "title": "Declining Ranking",
-      "description": "Dropped 34 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

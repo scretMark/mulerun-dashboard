@@ -1,6 +1,6 @@
 {
   "agent_id": "980aa77e-92a0-46fa-996e-6bf665c1febe",
-  "generated_at": "2026-01-20T00:01:14.420014",
+  "generated_at": "2026-01-21T00:01:13.951787",
   "basic_info": {
     "title": "LegoFigBox",
     "author": "HongwuQz",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-25T12:41:18.171000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@HongwuQz/legofigbox",
-    "days_since_published": 116
+    "days_since_published": 117
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 104,
       "runs_rank": 101,
-      "likes_rank": 114,
+      "likes_rank": 156,
       "total_agents": 292,
       "views_percentile": 64.4,
       "runs_percentile": 65.4,
-      "likes_percentile": 61.0
+      "likes_percentile": 46.6
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 113,
+    "days_tracked": 114,
     "price": 20.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 61,
+    "days_tracked": 62,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 2,
-      "likes_rank_change": 43
+      "likes_rank_change": 118
     },
     "last_30_days": {
-      "views_rank_change": 8,
+      "views_rank_change": 7,
       "runs_rank_change": 4,
-      "likes_rank_change": 4
+      "likes_rank_change": 39
     },
     "all_time": {
       "best_views_rank": 95,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 62,
+    "data_points": 63,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -118,7 +118,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -179,6 +180,7 @@
         103,
         103,
         105,
+        104,
         104,
         104,
         104,
@@ -246,6 +248,7 @@
         100,
         100,
         101,
+        101,
         101
       ],
       "likes_rank": [
@@ -310,7 +313,8 @@
         270,
         227,
         176,
-        114
+        114,
+        156
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "53386b62-c349-426a-8120-856f4771e8e5",
-  "generated_at": "2026-01-20T00:01:13.202738",
+  "generated_at": "2026-01-21T00:01:12.634666",
   "basic_info": {
     "title": "Multi-style Portrait Studio",
     "author": "AFei_AITalk",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-10T17:34:54.782000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AFei_AITalk/multi-style-portrait-studio",
-    "days_since_published": 70
+    "days_since_published": 71
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 189,
       "runs_rank": 118,
-      "likes_rank": 234,
+      "likes_rank": 121,
       "total_agents": 292,
       "views_percentile": 35.3,
       "runs_percentile": 59.6,
-      "likes_percentile": 19.9
+      "likes_percentile": 58.6
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 69,
+    "days_tracked": 70,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 61,
+    "days_tracked": 62,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 2,
-      "likes_rank_change": 191
+      "likes_rank_change": 95
     },
     "last_30_days": {
-      "views_rank_change": 8,
+      "views_rank_change": 9,
       "runs_rank_change": 8,
-      "likes_rank_change": 108
+      "likes_rank_change": -8
     },
     "all_time": {
       "best_views_rank": 178,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 62,
+    "data_points": 63,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -118,7 +118,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -182,6 +183,7 @@
         190,
         190,
         190,
+        189,
         189
       ],
       "runs_rank": [
@@ -243,6 +245,7 @@
         116,
         116,
         116,
+        118,
         118,
         118,
         118,
@@ -310,7 +313,8 @@
         17,
         17,
         14,
-        234
+        234,
+        121
       ]
     }
   },

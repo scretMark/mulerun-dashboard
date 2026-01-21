@@ -1,6 +1,6 @@
 {
   "agent_id": "23955924-d6ed-48cc-8ec0-a776427979cb",
-  "generated_at": "2026-01-20T00:01:13.825945",
+  "generated_at": "2026-01-21T00:01:14.848706",
   "basic_info": {
     "title": "Change the color of your pet",
     "author": "8bit",
@@ -11,7 +11,7 @@
     "published_at": "2025-12-08T20:39:24.448000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/change-the-color-of-your-pet",
-    "days_since_published": 42
+    "days_since_published": 43
   },
   "ranking_metrics": {
     "current_position": {
@@ -25,20 +25,20 @@
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 42,
+    "days_tracked": 43,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "last_7_days": {
-      "views_rank_change": 4,
-      "runs_rank_change": 2,
+      "views_rank_change": 2,
+      "runs_rank_change": 1,
       "likes_rank_change": 98
     },
     "last_30_days": {
-      "views_rank_change": 30,
-      "runs_rank_change": 26,
+      "views_rank_change": 26,
+      "runs_rank_change": 23,
       "likes_rank_change": 72
     },
     "all_time": {
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 42,
+    "data_points": 43,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
@@ -98,7 +98,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -141,6 +142,7 @@
         257,
         257,
         257,
+        258,
         258,
         258
       ],
@@ -186,6 +188,7 @@
         186,
         186,
         186,
+        187,
         187
       ],
       "likes_rank": [
@@ -230,6 +233,7 @@
         1,
         1,
         1,
+        100,
         100
       ]
     }
@@ -249,7 +253,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 30 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 26 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

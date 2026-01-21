@@ -1,6 +1,6 @@
 {
   "agent_id": "8a6ccf9e-95dd-46a2-98d4-560302fd99e2",
-  "generated_at": "2026-01-20T00:01:13.388170",
+  "generated_at": "2026-01-21T00:01:12.797594",
   "basic_info": {
     "title": "Explain it like I am 5",
     "author": "vktsbiy414205x1",
@@ -11,33 +11,33 @@
     "published_at": "2025-10-01T17:25:08.531000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@vktsbiy414205x1/explain-it-like-i-am-5",
-    "days_since_published": 110
+    "days_since_published": 111
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 59,
       "runs_rank": 87,
-      "likes_rank": 174,
+      "likes_rank": 181,
       "total_agents": 292,
       "views_percentile": 79.8,
       "runs_percentile": 70.2,
-      "likes_percentile": 40.4
+      "likes_percentile": 38.0
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 89,
+    "days_tracked": 90,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 61,
+    "days_tracked": 62,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 1,
-      "likes_rank_change": 101
+      "likes_rank_change": 95
     },
     "last_30_days": {
-      "views_rank_change": -2,
+      "views_rank_change": -1,
       "runs_rank_change": 7,
       "likes_rank_change": -52
     },
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 62,
+    "data_points": 63,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -118,7 +118,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -180,6 +181,7 @@
         59,
         59,
         60,
+        59,
         59,
         59,
         59
@@ -246,6 +248,7 @@
         86,
         86,
         86,
+        87,
         87
       ],
       "likes_rank": [
@@ -310,7 +313,8 @@
         150,
         221,
         173,
-        174
+        174,
+        181
       ]
     }
   },

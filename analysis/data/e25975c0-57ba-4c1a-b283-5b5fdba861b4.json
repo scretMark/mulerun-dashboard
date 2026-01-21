@@ -1,6 +1,6 @@
 {
   "agent_id": "e25975c0-57ba-4c1a-b283-5b5fdba861b4",
-  "generated_at": "2026-01-20T00:01:14.064304",
+  "generated_at": "2026-01-21T00:01:13.549201",
   "basic_info": {
     "title": "Tattoo-Style Pencil Sketch Generator",
     "author": "AFei_AITalk",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-04T16:24:00.105000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AFei_AITalk/tattoo-style-pencil-sketch-generator",
-    "days_since_published": 76
+    "days_since_published": 77
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 161,
+      "views_rank": 162,
       "runs_rank": 254,
-      "likes_rank": 101,
+      "likes_rank": 76,
       "total_agents": 292,
-      "views_percentile": 44.9,
+      "views_percentile": 44.5,
       "runs_percentile": 13.0,
-      "likes_percentile": 65.4
+      "likes_percentile": 74.0
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 75,
+    "days_tracked": 76,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 61,
+    "days_tracked": 62,
     "last_7_days": {
       "views_rank_change": 2,
-      "runs_rank_change": 4,
-      "likes_rank_change": -66
+      "runs_rank_change": 1,
+      "likes_rank_change": -3
     },
     "last_30_days": {
-      "views_rank_change": 10,
-      "runs_rank_change": 27,
-      "likes_rank_change": 89
+      "views_rank_change": 11,
+      "runs_rank_change": 22,
+      "likes_rank_change": 69
     },
     "all_time": {
       "best_views_rank": 149,
@@ -47,14 +47,14 @@
       "best_likes_rank": 7,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 161
+      "current_rank": 162
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 62,
+    "data_points": 63,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -118,7 +118,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -182,7 +183,8 @@
         161,
         161,
         161,
-        161
+        161,
+        162
       ],
       "runs_rank": [
         null,
@@ -242,6 +244,7 @@
         250,
         250,
         253,
+        254,
         254,
         254,
         254,
@@ -310,7 +313,8 @@
         266,
         174,
         140,
-        101
+        101,
+        76
       ]
     }
   },
@@ -320,9 +324,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #161 out of 292 active agents."
+      "type": "warning",
+      "title": "Declining Ranking",
+      "description": "Dropped 11 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

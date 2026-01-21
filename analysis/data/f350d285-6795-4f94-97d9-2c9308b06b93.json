@@ -1,6 +1,6 @@
 {
   "agent_id": "f350d285-6795-4f94-97d9-2c9308b06b93",
-  "generated_at": "2026-01-20T00:01:14.085550",
+  "generated_at": "2026-01-21T00:01:13.577190",
   "basic_info": {
     "title": "YouTube title generator with emojis",
     "author": "kpviqlcmhm864vu",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-23T09:20:11.896000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@kpviqlcmhm864vu/youtube-title-generator-with-emojis",
-    "days_since_published": 88
+    "days_since_published": 89
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 114,
       "runs_rank": 224,
-      "likes_rank": 76,
+      "likes_rank": 63,
       "total_agents": 292,
       "views_percentile": 61.0,
       "runs_percentile": 23.3,
-      "likes_percentile": 74.0
+      "likes_percentile": 78.4
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 88,
+    "days_tracked": 89,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 61,
+    "days_tracked": 62,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 6,
-      "likes_rank_change": 29
+      "runs_rank_change": 4,
+      "likes_rank_change": 35
     },
     "last_30_days": {
-      "views_rank_change": -4,
-      "runs_rank_change": 26,
-      "likes_rank_change": -2
+      "views_rank_change": 1,
+      "runs_rank_change": 22,
+      "likes_rank_change": -21
     },
     "all_time": {
       "best_views_rank": 111,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 62,
+    "data_points": 63,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -118,7 +118,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -179,6 +180,7 @@
         113,
         113,
         113,
+        114,
         114,
         114,
         114,
@@ -246,6 +248,7 @@
         224,
         224,
         224,
+        224,
         224
       ],
       "likes_rank": [
@@ -310,7 +313,8 @@
         148,
         113,
         97,
-        76
+        76,
+        63
       ]
     }
   },

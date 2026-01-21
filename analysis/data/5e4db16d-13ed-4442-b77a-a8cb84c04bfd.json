@@ -1,6 +1,6 @@
 {
   "agent_id": "5e4db16d-13ed-4442-b77a-a8cb84c04bfd",
-  "generated_at": "2026-01-20T00:01:13.903903",
+  "generated_at": "2026-01-21T00:01:14.950529",
   "basic_info": {
     "title": "Cartoon Cookbook",
     "author": "Barry",
@@ -11,34 +11,34 @@
     "published_at": "2025-12-10T11:31:33.615000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Barry/cartoon-cookbook",
-    "days_since_published": 40
+    "days_since_published": 41
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 227,
       "runs_rank": 140,
-      "likes_rank": 29,
+      "likes_rank": 27,
       "total_agents": 292,
       "views_percentile": 22.3,
       "runs_percentile": 52.1,
-      "likes_percentile": 90.1
+      "likes_percentile": 90.8
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 40,
+    "days_tracked": 41,
     "price": 48.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 39,
+    "days_tracked": 40,
     "last_7_days": {
-      "views_rank_change": 6,
+      "views_rank_change": 5,
       "runs_rank_change": 2,
-      "likes_rank_change": -154
+      "likes_rank_change": -86
     },
     "last_30_days": {
-      "views_rank_change": 14,
-      "runs_rank_change": 13,
+      "views_rank_change": 13,
+      "runs_rank_change": 12,
       "likes_rank_change": 3
     },
     "all_time": {
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 40,
+    "data_points": 41,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -96,7 +96,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -138,6 +139,7 @@
         225,
         226,
         226,
+        227,
         227
       ],
       "runs_rank": [
@@ -179,6 +181,7 @@
         138,
         139,
         139,
+        140,
         140,
         140
       ],
@@ -222,7 +225,8 @@
         44,
         40,
         36,
-        29
+        29,
+        27
       ]
     }
   },
@@ -241,12 +245,12 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #29 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #27 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     },
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 14 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 13 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

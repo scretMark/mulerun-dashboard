@@ -1,6 +1,6 @@
 {
   "agent_id": "81a7b21c-32fd-4106-b473-4c1eb7e2934f",
-  "generated_at": "2026-01-20T00:01:13.999394",
+  "generated_at": "2026-01-21T00:01:13.462834",
   "basic_info": {
     "title": "Elon Musk I Love YOU",
     "author": "Darren",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-20T11:38:39.595000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/elon-musk-i-love-you",
-    "days_since_published": 91
+    "days_since_published": 92
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 121,
       "runs_rank": 180,
-      "likes_rank": 73,
+      "likes_rank": 62,
       "total_agents": 292,
       "views_percentile": 58.6,
       "runs_percentile": 38.4,
-      "likes_percentile": 75.0
+      "likes_percentile": 78.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 89,
+    "days_tracked": 90,
     "price": 51.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 61,
+    "days_tracked": 62,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 2,
-      "likes_rank_change": -188
+      "likes_rank_change": -113
     },
     "last_30_days": {
-      "views_rank_change": 6,
-      "runs_rank_change": 27,
-      "likes_rank_change": -88
+      "views_rank_change": 3,
+      "runs_rank_change": 23,
+      "likes_rank_change": -105
     },
     "all_time": {
       "best_views_rank": 114,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 62,
+    "data_points": 63,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -118,7 +118,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -178,6 +179,7 @@
         120,
         120,
         120,
+        121,
         121,
         121,
         121,
@@ -246,6 +248,7 @@
         180,
         180,
         180,
+        180,
         180
       ],
       "likes_rank": [
@@ -310,7 +313,8 @@
         132,
         107,
         93,
-        73
+        73,
+        62
       ]
     }
   },

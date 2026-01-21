@@ -1,6 +1,6 @@
 {
   "agent_id": "57c5c690-5c9f-4e63-8dcd-3ef2f0a68f5a",
-  "generated_at": "2026-01-20T00:01:13.913820",
+  "generated_at": "2026-01-21T00:01:14.963793",
   "basic_info": {
     "title": "Christmas card",
     "author": "pxzzf1010_cr73m",
@@ -11,7 +11,7 @@
     "published_at": "2025-12-09T22:10:15.357000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@pxzzf1010_cr73m/christmas-card",
-    "days_since_published": 41
+    "days_since_published": 42
   },
   "ranking_metrics": {
     "current_position": {
@@ -25,21 +25,21 @@
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 40,
+    "days_tracked": 41,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 39,
+    "days_tracked": 40,
     "last_7_days": {
-      "views_rank_change": 3,
+      "views_rank_change": 1,
       "runs_rank_change": 2,
       "likes_rank_change": -2
     },
     "last_30_days": {
-      "views_rank_change": 25,
-      "runs_rank_change": 10,
-      "likes_rank_change": -30
+      "views_rank_change": 23,
+      "runs_rank_change": 16,
+      "likes_rank_change": -29
     },
     "all_time": {
       "best_views_rank": 230,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 40,
+    "data_points": 41,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -96,7 +96,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -138,6 +139,7 @@
         256,
         256,
         256,
+        256,
         256
       ],
       "runs_rank": [
@@ -176,6 +178,7 @@
         178,
         179,
         179,
+        181,
         181,
         181,
         181,
@@ -222,6 +225,7 @@
         3,
         3,
         3,
+        2,
         2
       ]
     }
@@ -246,7 +250,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 25 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 23 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

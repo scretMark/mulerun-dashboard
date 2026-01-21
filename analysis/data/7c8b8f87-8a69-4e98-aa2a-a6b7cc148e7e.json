@@ -1,6 +1,6 @@
 {
   "agent_id": "7c8b8f87-8a69-4e98-aa2a-a6b7cc148e7e",
-  "generated_at": "2026-01-20T00:01:14.423246",
+  "generated_at": "2026-01-21T00:01:15.520514",
   "basic_info": {
     "title": "FrozenFrame AI",
     "author": "Lucas",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-25T01:10:29.525000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/frozenframe-ai",
-    "days_since_published": 25
+    "days_since_published": 26
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 274,
       "runs_rank": 289,
-      "likes_rank": 26,
+      "likes_rank": 24,
       "total_agents": 292,
       "views_percentile": 6.2,
       "runs_percentile": 1.0,
-      "likes_percentile": 91.1
+      "likes_percentile": 91.8
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 22,
+    "days_tracked": 23,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 25,
+    "days_tracked": 26,
     "last_7_days": {
-      "views_rank_change": 5,
-      "runs_rank_change": 3,
-      "likes_rank_change": 4
+      "views_rank_change": 3,
+      "runs_rank_change": 0,
+      "likes_rank_change": -84
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 13
+      "likes_rank_change": 11
     },
     "all_time": {
       "best_views_rank": 263,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 23,
+    "data_points": 24,
     "first_recorded": "2025-12-26T08:00:54.905148",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-12-26T08:00:54.905148",
@@ -79,7 +79,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -104,6 +105,7 @@
         272,
         272,
         272,
+        274,
         274
       ],
       "runs_rank": [
@@ -124,6 +126,7 @@
         285,
         286,
         286,
+        289,
         289,
         289,
         289,
@@ -154,7 +157,8 @@
         41,
         37,
         33,
-        26
+        26,
+        24
       ]
     }
   },
@@ -173,7 +177,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #26 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #24 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

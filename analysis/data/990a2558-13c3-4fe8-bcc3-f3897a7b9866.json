@@ -1,6 +1,6 @@
 {
   "agent_id": "990a2558-13c3-4fe8-bcc3-f3897a7b9866",
-  "generated_at": "2026-01-20T00:01:14.582253",
+  "generated_at": "2026-01-21T00:01:15.716798",
   "basic_info": {
     "title": "Try New Hair Color",
     "author": "AngryBerry",
@@ -11,35 +11,35 @@
     "published_at": "2026-01-06T22:44:35.857000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AngryBerry/try-new-hair-color",
-    "days_since_published": 13
+    "days_since_published": 14
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 259,
-      "runs_rank": 203,
-      "likes_rank": 202,
+      "runs_rank": 204,
+      "likes_rank": 115,
       "total_agents": 292,
       "views_percentile": 11.3,
-      "runs_percentile": 30.5,
-      "likes_percentile": 30.8
+      "runs_percentile": 30.1,
+      "likes_percentile": 60.6
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 12,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 13,
     "price": 40.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 12,
+    "days_tracked": 13,
     "last_7_days": {
-      "views_rank_change": 3,
-      "runs_rank_change": 2,
-      "likes_rank_change": 172
+      "views_rank_change": 1,
+      "runs_rank_change": 3,
+      "likes_rank_change": 97
     },
     "last_30_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 3,
-      "likes_rank_change": 121
+      "runs_rank_change": 4,
+      "likes_rank_change": 34
     },
     "all_time": {
       "best_views_rank": 256,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 12,
+    "data_points": 13,
     "first_recorded": "2026-01-08T08:01:02.485852",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2026-01-08T08:01:02.485852",
@@ -68,7 +68,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         258,
@@ -78,6 +79,7 @@
         256,
         256,
         258,
+        259,
         259,
         259,
         259,
@@ -96,7 +98,8 @@
         203,
         203,
         203,
-        203
+        203,
+        204
       ],
       "likes_rank": [
         81,
@@ -110,7 +113,8 @@
         12,
         12,
         11,
-        202
+        202,
+        115
       ]
     }
   },

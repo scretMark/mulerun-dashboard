@@ -1,6 +1,6 @@
 {
   "agent_id": "6350d3ee-dee8-4b5f-ba61-19cfef1448c8",
-  "generated_at": "2026-01-20T00:01:13.786160",
+  "generated_at": "2026-01-21T00:01:14.799810",
   "basic_info": {
     "title": "Youtube Thumbnail",
     "author": "pxzzf1010_cr73m",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-05T20:32:44.732000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@pxzzf1010_cr73m/youtube-thumbnail",
-    "days_since_published": 45
+    "days_since_published": 46
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 31,
       "runs_rank": 3,
-      "likes_rank": 283,
+      "likes_rank": 271,
       "total_agents": 292,
       "views_percentile": 89.4,
       "runs_percentile": 99.0,
-      "likes_percentile": 3.1
+      "likes_percentile": 7.2
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 43,
+    "days_tracked": 44,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 42,
+    "days_tracked": 43,
     "last_7_days": {
       "views_rank_change": -4,
       "runs_rank_change": 0,
-      "likes_rank_change": 124
+      "likes_rank_change": 4
     },
     "last_30_days": {
-      "views_rank_change": -71,
-      "runs_rank_change": -13,
-      "likes_rank_change": 161
+      "views_rank_change": -63,
+      "runs_rank_change": -11,
+      "likes_rank_change": 140
     },
     "all_time": {
       "best_views_rank": 31,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 44,
+    "data_points": 45,
     "first_recorded": "2025-12-09T08:00:25.308684",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-12-09T08:00:25.308684",
@@ -100,7 +100,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -146,6 +147,7 @@
         34,
         32,
         32,
+        31,
         31
       ],
       "runs_rank": [
@@ -182,6 +184,7 @@
         4,
         4,
         4,
+        3,
         3,
         3,
         3,
@@ -238,7 +241,8 @@
         292,
         283,
         276,
-        283
+        283,
+        271
       ]
     }
   },
@@ -262,12 +266,12 @@
     {
       "type": "positive",
       "title": "Rising Star",
-      "description": "Improved by 71 positions in views ranking over the last 30 days - showing strong momentum!"
+      "description": "Improved by 63 positions in views ranking over the last 30 days - showing strong momentum!"
     },
     {
       "type": "positive",
       "title": "Growing Usage",
-      "description": "Runs ranking improved by 13 positions in the last 30 days - users are actively engaging with this agent!"
+      "description": "Runs ranking improved by 11 positions in the last 30 days - users are actively engaging with this agent!"
     },
     {
       "type": "info",

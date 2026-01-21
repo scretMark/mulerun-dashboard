@@ -1,6 +1,6 @@
 {
   "agent_id": "a3000bd1-6ece-4f87-8914-322de6ac70eb",
-  "generated_at": "2026-01-20T00:01:13.257712",
+  "generated_at": "2026-01-21T00:01:12.681986",
   "basic_info": {
     "title": "Giant Prop Studio",
     "author": "Lucas",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-31T15:37:32.015000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/giant-prop-studio",
-    "days_since_published": 80
+    "days_since_published": 81
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 143,
+      "views_rank": 142,
       "runs_rank": 184,
-      "likes_rank": null,
+      "likes_rank": 237,
       "total_agents": 292,
-      "views_percentile": 51.0,
+      "views_percentile": 51.4,
       "runs_percentile": 37.0,
-      "likes_percentile": 0
+      "likes_percentile": 18.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 77,
+    "days_tracked": 78,
     "price": 49.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 61,
+    "days_tracked": 62,
     "last_7_days": {
-      "views_rank_change": 3,
+      "views_rank_change": 2,
       "runs_rank_change": 2,
-      "likes_rank_change": null
+      "likes_rank_change": 73
     },
     "last_30_days": {
-      "views_rank_change": 7,
-      "runs_rank_change": 25,
-      "likes_rank_change": null
+      "views_rank_change": 6,
+      "runs_rank_change": 23,
+      "likes_rank_change": 111
     },
     "all_time": {
       "best_views_rank": 133,
@@ -47,14 +47,14 @@
       "best_likes_rank": 11,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 143
+      "current_rank": 142
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 62,
+    "data_points": 63,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -118,7 +118,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -182,7 +183,8 @@
         142,
         142,
         142,
-        143
+        143,
+        142
       ],
       "runs_rank": [
         null,
@@ -242,6 +244,7 @@
         181,
         182,
         182,
+        184,
         184,
         184,
         184,
@@ -310,7 +313,8 @@
         71,
         65,
         59,
-        null
+        null,
+        237
       ]
     }
   },
@@ -322,7 +326,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #143 out of 292 active agents."
+      "description": "This agent is currently ranked #142 out of 292 active agents."
     }
   ]
 }

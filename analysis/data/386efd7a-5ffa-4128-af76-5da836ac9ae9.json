@@ -1,6 +1,6 @@
 {
   "agent_id": "386efd7a-5ffa-4128-af76-5da836ac9ae9",
-  "generated_at": "2026-01-20T00:01:13.699007",
+  "generated_at": "2026-01-21T00:01:13.117470",
   "basic_info": {
     "title": "KW_Fully automated SEO keyword tool",
     "author": "bFundai",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-11T18:29:17.432000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@bFundai/kw-fully-automated-seo-keyword-tool",
-    "days_since_published": 100
+    "days_since_published": 101
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 78,
       "runs_rank": 109,
-      "likes_rank": 151,
+      "likes_rank": 234,
       "total_agents": 292,
       "views_percentile": 73.3,
       "runs_percentile": 62.7,
-      "likes_percentile": 48.3
+      "likes_percentile": 19.9
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 98,
+    "days_tracked": 99,
     "price": 100.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 61,
+    "days_tracked": 62,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 3,
-      "likes_rank_change": 35
+      "likes_rank_change": -38
     },
     "last_30_days": {
       "views_rank_change": 2,
-      "runs_rank_change": 2,
-      "likes_rank_change": 95
+      "runs_rank_change": 5,
+      "likes_rank_change": 174
     },
     "all_time": {
       "best_views_rank": 76,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 62,
+    "data_points": 63,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -118,7 +118,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -179,6 +180,7 @@
         77,
         77,
         77,
+        78,
         78,
         78,
         78,
@@ -246,6 +248,7 @@
         107,
         107,
         107,
+        109,
         109
       ],
       "likes_rank": [
@@ -310,7 +313,8 @@
         136,
         108,
         94,
-        151
+        151,
+        234
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "12aba2c2-55b3-4dd3-8c40-469f28672f79",
-  "generated_at": "2026-01-20T00:01:14.393141",
+  "generated_at": "2026-01-21T00:01:15.484567",
   "basic_info": {
     "title": "Speech to Text for Lite Version",
     "author": "zhoudshu",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-24T16:02:22.495000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@zhoudshu/speech-to-text",
-    "days_since_published": 26
+    "days_since_published": 27
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 247,
-      "runs_rank": 199,
-      "likes_rank": 142,
+      "runs_rank": 200,
+      "likes_rank": 91,
       "total_agents": 292,
       "views_percentile": 15.4,
-      "runs_percentile": 31.8,
-      "likes_percentile": 51.4
+      "runs_percentile": 31.5,
+      "likes_percentile": 68.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 22,
+    "days_tracked": 23,
     "price": 20.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 25,
+    "days_tracked": 26,
     "last_7_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": 2,
-      "likes_rank_change": -26
+      "views_rank_change": -1,
+      "runs_rank_change": 3,
+      "likes_rank_change": -1
     },
     "last_30_days": {
       "views_rank_change": 9,
-      "runs_rank_change": 11,
-      "likes_rank_change": 72
+      "runs_rank_change": 12,
+      "likes_rank_change": 21
     },
     "all_time": {
       "best_views_rank": 236,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 23,
+    "data_points": 24,
     "first_recorded": "2025-12-26T08:00:54.905148",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-12-26T08:00:54.905148",
@@ -79,7 +79,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         238,
@@ -103,6 +104,7 @@
         248,
         248,
         248,
+        247,
         247,
         247
       ],
@@ -129,7 +131,8 @@
         199,
         199,
         199,
-        199
+        199,
+        200
       ],
       "likes_rank": [
         70,
@@ -154,7 +157,8 @@
         36,
         32,
         268,
-        142
+        142,
+        91
       ]
     }
   },

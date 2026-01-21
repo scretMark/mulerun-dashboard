@@ -1,6 +1,6 @@
 {
   "agent_id": "aee41d41-0318-43ce-b6cd-e6a2def163b8",
-  "generated_at": "2026-01-20T00:01:13.726456",
+  "generated_at": "2026-01-21T00:01:13.142503",
   "basic_info": {
     "title": "Mechanical Image Generator",
     "author": "Darren",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-30T09:50:41.881000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/mechanical-image-generator",
-    "days_since_published": 111
+    "days_since_published": 112
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 103,
       "runs_rank": 78,
-      "likes_rank": 150,
+      "likes_rank": 191,
       "total_agents": 292,
       "views_percentile": 64.7,
       "runs_percentile": 73.3,
-      "likes_percentile": 48.6
+      "likes_percentile": 34.6
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 84,
+    "days_tracked": 85,
     "price": 29.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 61,
+    "days_tracked": 62,
     "last_7_days": {
       "views_rank_change": -1,
       "runs_rank_change": 1,
-      "likes_rank_change": -116
+      "likes_rank_change": 11
     },
     "last_30_days": {
-      "views_rank_change": 4,
+      "views_rank_change": 3,
       "runs_rank_change": -14,
-      "likes_rank_change": -80
+      "likes_rank_change": -34
     },
     "all_time": {
       "best_views_rank": 96,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 62,
+    "data_points": 63,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -118,7 +118,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -178,6 +179,7 @@
         104,
         104,
         104,
+        103,
         103,
         103,
         103,
@@ -246,6 +248,7 @@
         78,
         78,
         78,
+        78,
         78
       ],
       "likes_rank": [
@@ -310,7 +313,8 @@
         189,
         222,
         219,
-        150
+        150,
+        191
       ]
     }
   },

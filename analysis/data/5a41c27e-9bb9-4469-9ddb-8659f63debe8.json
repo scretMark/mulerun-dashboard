@@ -1,6 +1,6 @@
 {
   "agent_id": "5a41c27e-9bb9-4469-9ddb-8659f63debe8",
-  "generated_at": "2026-01-20T00:01:14.483396",
+  "generated_at": "2026-01-21T00:01:14.021768",
   "basic_info": {
     "title": "chalkboard STICK PEOPLE with real heads",
     "author": "Darren",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-20T11:36:22.916000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/chalkboard-stick-people-with-real-heads",
-    "days_since_published": 91
+    "days_since_published": 92
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 122,
       "runs_rank": 249,
-      "likes_rank": 108,
+      "likes_rank": 179,
       "total_agents": 292,
       "views_percentile": 58.2,
       "runs_percentile": 14.7,
-      "likes_percentile": 63.0
+      "likes_percentile": 38.7
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 89,
+    "days_tracked": 90,
     "price": 51.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 61,
+    "days_tracked": 62,
     "last_7_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": 6,
-      "likes_rank_change": 28
+      "views_rank_change": -1,
+      "runs_rank_change": 3,
+      "likes_rank_change": 138
     },
     "last_30_days": {
       "views_rank_change": 2,
-      "runs_rank_change": 27,
-      "likes_rank_change": -51
+      "runs_rank_change": 24,
+      "likes_rank_change": 14
     },
     "all_time": {
       "best_views_rank": 116,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 62,
+    "data_points": 63,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -118,7 +118,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -178,6 +179,7 @@
         122,
         122,
         123,
+        122,
         122,
         122,
         122,
@@ -246,6 +248,7 @@
         247,
         247,
         247,
+        249,
         249
       ],
       "likes_rank": [
@@ -310,7 +313,8 @@
         159,
         203,
         160,
-        108
+        108,
+        179
       ]
     }
   },

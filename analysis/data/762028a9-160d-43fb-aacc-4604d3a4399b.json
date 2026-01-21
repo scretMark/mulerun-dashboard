@@ -1,6 +1,6 @@
 {
   "agent_id": "762028a9-160d-43fb-aacc-4604d3a4399b",
-  "generated_at": "2026-01-20T00:01:14.503762",
+  "generated_at": "2026-01-21T00:01:15.627525",
   "basic_info": {
     "title": "The Cosmic Birthday Reader",
     "author": "Eren_kaif",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-26T15:27:50.220000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Eren_kaif/the-cosmic-birthday-reader",
-    "days_since_published": 24
+    "days_since_published": 25
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 283,
       "runs_rank": 279,
-      "likes_rank": 196,
+      "likes_rank": 112,
       "total_agents": 292,
       "views_percentile": 3.1,
       "runs_percentile": 4.5,
-      "likes_percentile": 32.9
+      "likes_percentile": 61.6
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 18,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 19,
     "price": 30.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 20,
+    "days_tracked": 21,
     "last_7_days": {
-      "views_rank_change": 4,
-      "runs_rank_change": 3,
-      "likes_rank_change": 181
+      "views_rank_change": 0,
+      "runs_rank_change": 0,
+      "likes_rank_change": 100
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 140
+      "likes_rank_change": 56
     },
     "all_time": {
       "best_views_rank": 269,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 18,
+    "data_points": 19,
     "first_recorded": "2025-12-31T08:00:58.854286",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-12-31T08:00:58.854286",
@@ -74,7 +74,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -89,6 +90,7 @@
         278,
         279,
         279,
+        283,
         283,
         283,
         283,
@@ -114,6 +116,7 @@
         279,
         279,
         279,
+        279,
         279
       ],
       "likes_rank": [
@@ -134,7 +137,8 @@
         9,
         9,
         275,
-        196
+        196,
+        112
       ]
     }
   },

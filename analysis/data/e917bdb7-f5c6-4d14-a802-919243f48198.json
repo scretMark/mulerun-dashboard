@@ -1,6 +1,6 @@
 {
   "agent_id": "e917bdb7-f5c6-4d14-a802-919243f48198",
-  "generated_at": "2026-01-20T00:01:14.430231",
+  "generated_at": "2026-01-21T00:01:13.963479",
   "basic_info": {
     "title": "Pet Art Photo Studio",
     "author": "whosyourdaddcdw",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-30T22:42:02.887000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@whosyourdaddcdw/pet-art-photo-studio",
-    "days_since_published": 111
+    "days_since_published": 112
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 108,
       "runs_rank": 112,
-      "likes_rank": 80,
+      "likes_rank": 142,
       "total_agents": 292,
       "views_percentile": 63.0,
       "runs_percentile": 61.6,
-      "likes_percentile": 72.6
+      "likes_percentile": 51.4
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 104,
+    "days_tracked": 105,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 61,
+    "days_tracked": 62,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 4,
-      "likes_rank_change": -152
+      "likes_rank_change": -12
     },
     "last_30_days": {
-      "views_rank_change": 13,
+      "views_rank_change": 12,
       "runs_rank_change": 10,
-      "likes_rank_change": -55
+      "likes_rank_change": 1
     },
     "all_time": {
       "best_views_rank": 94,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 62,
+    "data_points": 63,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -118,7 +118,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -178,6 +179,7 @@
         108,
         107,
         107,
+        108,
         108,
         108,
         108,
@@ -246,6 +248,7 @@
         109,
         109,
         110,
+        112,
         112
       ],
       "likes_rank": [
@@ -310,7 +313,8 @@
         168,
         124,
         108,
-        80
+        80,
+        142
       ]
     }
   },
@@ -322,7 +326,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 13 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 12 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

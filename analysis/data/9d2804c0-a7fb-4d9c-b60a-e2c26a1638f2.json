@@ -1,6 +1,6 @@
 {
   "agent_id": "9d2804c0-a7fb-4d9c-b60a-e2c26a1638f2",
-  "generated_at": "2026-01-20T00:01:14.138510",
+  "generated_at": "2026-01-21T00:01:13.643693",
   "basic_info": {
     "title": "Outfit Decomposition",
     "author": "zafmlrxoaw869hw",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-11T13:09:43.389000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@zafmlrxoaw869hw/outfit-decomposition",
-    "days_since_published": 100
+    "days_since_published": 101
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 222,
+      "views_rank": 221,
       "runs_rank": 257,
-      "likes_rank": 178,
+      "likes_rank": 163,
       "total_agents": 292,
-      "views_percentile": 24.0,
+      "views_percentile": 24.3,
       "runs_percentile": 12.0,
-      "likes_percentile": 39.0
+      "likes_percentile": 44.2
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 94,
+    "days_tracked": 95,
     "price": 70.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 61,
+    "days_tracked": 62,
     "last_7_days": {
-      "views_rank_change": -4,
-      "runs_rank_change": -3,
-      "likes_rank_change": -34
+      "views_rank_change": -5,
+      "runs_rank_change": -7,
+      "likes_rank_change": 27
     },
     "last_30_days": {
-      "views_rank_change": 15,
-      "runs_rank_change": 20,
-      "likes_rank_change": 91
+      "views_rank_change": 12,
+      "runs_rank_change": 16,
+      "likes_rank_change": 71
     },
     "all_time": {
       "best_views_rank": 202,
@@ -47,14 +47,14 @@
       "best_likes_rank": 23,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 222
+      "current_rank": 221
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 62,
+    "data_points": 63,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -118,7 +118,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -182,7 +183,8 @@
         229,
         229,
         229,
-        222
+        222,
+        221
       ],
       "runs_rank": [
         null,
@@ -246,6 +248,7 @@
         264,
         264,
         264,
+        257,
         257
       ],
       "likes_rank": [
@@ -310,7 +313,8 @@
         210,
         147,
         121,
-        178
+        178,
+        163
       ]
     }
   },
@@ -322,7 +326,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 15 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 12 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

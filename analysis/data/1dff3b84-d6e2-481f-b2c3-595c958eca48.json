@@ -1,6 +1,6 @@
 {
   "agent_id": "1dff3b84-d6e2-481f-b2c3-595c958eca48",
-  "generated_at": "2026-01-20T00:01:13.746417",
+  "generated_at": "2026-01-21T00:01:14.748824",
   "basic_info": {
     "title": "Let Zootopia",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-03T12:14:04.150000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/let-zootopia",
-    "days_since_published": 47
+    "days_since_published": 48
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 273,
       "runs_rank": 235,
-      "likes_rank": 33,
+      "likes_rank": 31,
       "total_agents": 292,
       "views_percentile": 6.5,
       "runs_percentile": 19.5,
-      "likes_percentile": 88.7
+      "likes_percentile": 89.4
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 48,
+    "days_tracked": 49,
     "price": 80.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 42,
+    "days_tracked": 43,
     "last_7_days": {
       "views_rank_change": 3,
-      "runs_rank_change": 4,
-      "likes_rank_change": -158
+      "runs_rank_change": 2,
+      "likes_rank_change": -88
     },
     "last_30_days": {
-      "views_rank_change": 27,
+      "views_rank_change": 24,
       "runs_rank_change": 25,
-      "likes_rank_change": 26
+      "likes_rank_change": 21
     },
     "all_time": {
       "best_views_rank": 240,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 45,
+    "data_points": 46,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -101,7 +101,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -148,6 +149,7 @@
         271,
         271,
         271,
+        273,
         273
       ],
       "runs_rank": [
@@ -191,6 +193,7 @@
         231,
         231,
         233,
+        235,
         235,
         235,
         235,
@@ -242,7 +245,8 @@
         null,
         46,
         41,
-        33
+        33,
+        31
       ]
     }
   },
@@ -261,12 +265,12 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #33 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #31 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     },
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 27 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 24 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

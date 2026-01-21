@@ -1,6 +1,6 @@
 {
   "agent_id": "c4e74a68-aebc-4566-af54-8f7eef880b05",
-  "generated_at": "2026-01-20T00:01:13.816134",
+  "generated_at": "2026-01-21T00:01:14.837253",
   "basic_info": {
     "title": "CoinAnalyst Pro",
     "author": "Barry",
@@ -11,34 +11,34 @@
     "published_at": "2025-12-06T23:56:50.364000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Barry/coinanalyst-pro",
-    "days_since_published": 44
+    "days_since_published": 45
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 221,
+      "views_rank": 222,
       "runs_rank": 142,
       "likes_rank": 9,
       "total_agents": 292,
-      "views_percentile": 24.3,
+      "views_percentile": 24.0,
       "runs_percentile": 51.4,
       "likes_percentile": 96.9
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 42,
+    "days_tracked": 43,
     "price": 78.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "last_7_days": {
       "views_rank_change": 4,
       "runs_rank_change": 2,
-      "likes_rank_change": -25
+      "likes_rank_change": -12
     },
     "last_30_days": {
-      "views_rank_change": 4,
-      "runs_rank_change": 12,
+      "views_rank_change": 2,
+      "runs_rank_change": 10,
       "likes_rank_change": -2
     },
     "all_time": {
@@ -47,14 +47,14 @@
       "best_likes_rank": 9,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 221
+      "current_rank": 222
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 42,
+    "data_points": 43,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
@@ -98,7 +98,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -142,7 +143,8 @@
         221,
         221,
         221,
-        221
+        221,
+        222
       ],
       "runs_rank": [
         null,
@@ -184,6 +186,7 @@
         140,
         140,
         141,
+        142,
         142,
         142,
         142
@@ -230,6 +233,7 @@
         14,
         14,
         12,
+        9,
         9
       ]
     }

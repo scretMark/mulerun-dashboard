@@ -1,6 +1,6 @@
 {
   "agent_id": "bc213112-8801-4ca4-aace-426d69a2f2f2",
-  "generated_at": "2026-01-20T00:01:14.149377",
+  "generated_at": "2026-01-21T00:01:13.656489",
   "basic_info": {
     "title": "Judy Hopps Cosplay Filter",
     "author": "Lucas",
@@ -11,34 +11,34 @@
     "published_at": "2025-11-05T20:03:39.255000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/judy-hopps-cosplay-filter",
-    "days_since_published": 75
+    "days_since_published": 76
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 151,
+      "views_rank": 152,
       "runs_rank": 275,
-      "likes_rank": 226,
+      "likes_rank": 119,
       "total_agents": 292,
-      "views_percentile": 48.3,
+      "views_percentile": 47.9,
       "runs_percentile": 5.8,
-      "likes_percentile": 22.6
+      "likes_percentile": 59.2
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 74,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 75,
     "price": 49.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 61,
+    "days_tracked": 62,
     "last_7_days": {
-      "views_rank_change": -5,
-      "runs_rank_change": 3,
-      "likes_rank_change": 200
+      "views_rank_change": -4,
+      "runs_rank_change": 0,
+      "likes_rank_change": 30
     },
     "last_30_days": {
-      "views_rank_change": -4,
-      "runs_rank_change": 33,
+      "views_rank_change": -5,
+      "runs_rank_change": 28,
       "likes_rank_change": null
     },
     "all_time": {
@@ -47,14 +47,14 @@
       "best_likes_rank": 8,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 151
+      "current_rank": 152
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 62,
+    "data_points": 63,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -118,7 +118,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -182,7 +183,8 @@
         153,
         153,
         151,
-        151
+        151,
+        152
       ],
       "runs_rank": [
         null,
@@ -241,6 +243,7 @@
         271,
         272,
         272,
+        275,
         275,
         275,
         275,
@@ -310,7 +313,8 @@
         218,
         223,
         287,
-        226
+        226,
+        119
       ]
     }
   },
@@ -322,7 +326,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #151 out of 292 active agents."
+      "description": "This agent is currently ranked #152 out of 292 active agents."
     }
   ]
 }

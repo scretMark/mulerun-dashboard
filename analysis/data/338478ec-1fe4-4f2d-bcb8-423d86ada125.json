@@ -1,6 +1,6 @@
 {
   "agent_id": "338478ec-1fe4-4f2d-bcb8-423d86ada125",
-  "generated_at": "2026-01-20T00:01:13.967242",
+  "generated_at": "2026-01-21T00:01:13.410881",
   "basic_info": {
     "title": "Halloween Popcorn",
     "author": "Lucas",
@@ -11,40 +11,40 @@
     "published_at": "2025-10-29T22:12:35.458000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/halloween-popcorn",
-    "days_since_published": 82
+    "days_since_published": 83
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 111,
       "runs_rank": 102,
-      "likes_rank": 16,
+      "likes_rank": 15,
       "total_agents": 292,
       "views_percentile": 62.0,
       "runs_percentile": 65.1,
-      "likes_percentile": 94.5
+      "likes_percentile": 94.9
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 81,
+    "days_tracked": 82,
     "price": 49.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 61,
+    "days_tracked": 62,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 2,
-      "likes_rank_change": -116
+      "likes_rank_change": -55
     },
     "last_30_days": {
       "views_rank_change": 7,
       "runs_rank_change": 7,
-      "likes_rank_change": -150
+      "likes_rank_change": -156
     },
     "all_time": {
       "best_views_rank": 102,
       "best_runs_rank": 94,
-      "best_likes_rank": 16,
+      "best_likes_rank": 15,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 111
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 62,
+    "data_points": 63,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -118,7 +118,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -171,6 +172,7 @@
         108,
         108,
         110,
+        111,
         111,
         111,
         111,
@@ -246,6 +248,7 @@
         101,
         101,
         102,
+        102,
         102
       ],
       "likes_rank": [
@@ -310,7 +313,8 @@
         29,
         26,
         23,
-        16
+        16,
+        15
       ]
     }
   },
@@ -322,7 +326,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #16 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #15 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

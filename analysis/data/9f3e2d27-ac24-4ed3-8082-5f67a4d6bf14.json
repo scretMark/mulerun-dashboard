@@ -1,6 +1,6 @@
 {
   "agent_id": "9f3e2d27-ac24-4ed3-8082-5f67a4d6bf14",
-  "generated_at": "2026-01-20T00:01:13.864734",
+  "generated_at": "2026-01-21T00:01:14.892184",
   "basic_info": {
     "title": "Fireworks Show",
     "author": "LinkAIBrain",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-03T11:04:04.300000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/fireworks-show",
-    "days_since_published": 47
+    "days_since_published": 48
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 219,
       "runs_rank": 232,
-      "likes_rank": 146,
+      "likes_rank": 93,
       "total_agents": 292,
       "views_percentile": 25.0,
       "runs_percentile": 20.5,
-      "likes_percentile": 50.0
+      "likes_percentile": 68.2
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 42,
+    "days_tracked": 43,
     "price": 500.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "last_7_days": {
-      "views_rank_change": 4,
-      "runs_rank_change": 6,
-      "likes_rank_change": 115
+      "views_rank_change": 3,
+      "runs_rank_change": 4,
+      "likes_rank_change": 74
     },
     "last_30_days": {
-      "views_rank_change": -21,
-      "runs_rank_change": -9,
-      "likes_rank_change": 144
+      "views_rank_change": -27,
+      "runs_rank_change": -14,
+      "likes_rank_change": 91
     },
     "all_time": {
       "best_views_rank": 215,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 42,
+    "data_points": 43,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
@@ -98,7 +98,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -142,6 +143,7 @@
         218,
         218,
         218,
+        219,
         219
       ],
       "runs_rank": [
@@ -183,6 +185,7 @@
         226,
         228,
         229,
+        232,
         232,
         232,
         232,
@@ -230,7 +233,8 @@
         13,
         13,
         290,
-        146
+        146,
+        93
       ]
     }
   },
@@ -249,7 +253,12 @@
     {
       "type": "positive",
       "title": "Rising Star",
-      "description": "Improved by 21 positions in views ranking over the last 30 days - showing strong momentum!"
+      "description": "Improved by 27 positions in views ranking over the last 30 days - showing strong momentum!"
+    },
+    {
+      "type": "positive",
+      "title": "Growing Usage",
+      "description": "Runs ranking improved by 14 positions in the last 30 days - users are actively engaging with this agent!"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "cdb7a712-fb55-4bb8-ac8d-2081aab17a27",
-  "generated_at": "2026-01-20T00:01:13.566441",
+  "generated_at": "2026-01-21T00:01:12.996755",
   "basic_info": {
     "title": "Colorful Magazine Cover Image Generation",
     "author": "Jayden",
@@ -11,40 +11,40 @@
     "published_at": "2025-11-04T18:21:51.011000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Jayden/colorful-magazine-cover-image-generation",
-    "days_since_published": 76
+    "days_since_published": 77
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 170,
       "runs_rank": 218,
-      "likes_rank": 63,
+      "likes_rank": 56,
       "total_agents": 292,
       "views_percentile": 41.8,
       "runs_percentile": 25.3,
-      "likes_percentile": 78.4
+      "likes_percentile": 80.8
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 75,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 76,
     "price": 40.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 61,
+    "days_tracked": 62,
     "last_7_days": {
       "views_rank_change": 5,
-      "runs_rank_change": 6,
-      "likes_rank_change": -130
+      "runs_rank_change": 5,
+      "likes_rank_change": -66
     },
     "last_30_days": {
-      "views_rank_change": 17,
-      "runs_rank_change": 26,
-      "likes_rank_change": -8
+      "views_rank_change": 16,
+      "runs_rank_change": 23,
+      "likes_rank_change": -21
     },
     "all_time": {
       "best_views_rank": 151,
       "best_runs_rank": 184,
-      "best_likes_rank": 62,
+      "best_likes_rank": 56,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 170
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 62,
+    "data_points": 63,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -118,7 +118,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -182,6 +183,7 @@
         165,
         167,
         169,
+        170,
         170
       ],
       "runs_rank": [
@@ -244,6 +246,7 @@
         213,
         216,
         216,
+        218,
         218,
         218,
         218
@@ -310,7 +313,8 @@
         99,
         86,
         78,
-        63
+        63,
+        56
       ]
     }
   },
@@ -320,9 +324,14 @@
   },
   "insights": [
     {
+      "type": "positive",
+      "title": "High Performer",
+      "description": "Ranked #56 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+    },
+    {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 17 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 16 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

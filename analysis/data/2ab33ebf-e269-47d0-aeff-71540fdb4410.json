@@ -1,6 +1,6 @@
 {
   "agent_id": "2ab33ebf-e269-47d0-aeff-71540fdb4410",
-  "generated_at": "2026-01-20T00:01:13.765869",
+  "generated_at": "2026-01-21T00:01:14.774162",
   "basic_info": {
     "title": "Profile Picture Maker",
     "author": "AFei_AITalk",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-03T09:43:44.270000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AFei_AITalk/profile-picture-maker",
-    "days_since_published": 47
+    "days_since_published": 48
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 242,
       "runs_rank": 219,
-      "likes_rank": 64,
+      "likes_rank": 157,
       "total_agents": 292,
       "views_percentile": 17.1,
       "runs_percentile": 25.0,
-      "likes_percentile": 78.1
+      "likes_percentile": 46.2
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 48,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 49,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 42,
+    "days_tracked": 43,
     "last_7_days": {
-      "views_rank_change": 3,
-      "runs_rank_change": 2,
-      "likes_rank_change": -226
+      "views_rank_change": 1,
+      "runs_rank_change": 0,
+      "likes_rank_change": -48
     },
     "last_30_days": {
-      "views_rank_change": 21,
+      "views_rank_change": 18,
       "runs_rank_change": 5,
-      "likes_rank_change": -160
+      "likes_rank_change": -77
     },
     "all_time": {
       "best_views_rank": 218,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 45,
+    "data_points": 46,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -101,7 +101,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -146,6 +147,7 @@
         241,
         240,
         240,
+        242,
         242,
         242,
         242
@@ -195,6 +197,7 @@
         218,
         219,
         219,
+        219,
         219
       ],
       "likes_rank": [
@@ -242,7 +245,8 @@
         101,
         87,
         79,
-        64
+        64,
+        157
       ]
     }
   },
@@ -261,7 +265,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 21 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 18 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

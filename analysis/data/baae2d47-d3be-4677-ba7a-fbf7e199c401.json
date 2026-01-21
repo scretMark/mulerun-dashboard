@@ -1,6 +1,6 @@
 {
   "agent_id": "baae2d47-d3be-4677-ba7a-fbf7e199c401",
-  "generated_at": "2026-01-20T00:01:14.513247",
+  "generated_at": "2026-01-21T00:01:15.637705",
   "basic_info": {
     "title": "Why Dont You Call Me Godfather",
     "author": "nzwhouxvbbb094f",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-29T13:52:32.207000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@nzwhouxvbbb094f/why-dont-you-call-me-godfather",
-    "days_since_published": 21
+    "days_since_published": 22
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 288,
       "runs_rank": 283,
-      "likes_rank": 287,
+      "likes_rank": 131,
       "total_agents": 292,
       "views_percentile": 1.4,
       "runs_percentile": 3.1,
-      "likes_percentile": 1.7
+      "likes_percentile": 55.1
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 19,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 20,
     "price": 68.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 20,
+    "days_tracked": 21,
     "last_7_days": {
-      "views_rank_change": 2,
-      "runs_rank_change": 3,
-      "likes_rank_change": 264
+      "views_rank_change": -1,
+      "runs_rank_change": 0,
+      "likes_rank_change": 115
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 269
+      "likes_rank_change": 113
     },
     "all_time": {
       "best_views_rank": 276,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 18,
+    "data_points": 19,
     "first_recorded": "2025-12-31T08:00:58.854286",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-12-31T08:00:58.854286",
@@ -74,7 +74,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -94,6 +95,7 @@
         289,
         289,
         289,
+        288,
         288
       ],
       "runs_rank": [
@@ -109,6 +111,7 @@
         279,
         280,
         280,
+        283,
         283,
         283,
         283,
@@ -134,7 +137,8 @@
         11,
         11,
         10,
-        287
+        287,
+        131
       ]
     }
   },

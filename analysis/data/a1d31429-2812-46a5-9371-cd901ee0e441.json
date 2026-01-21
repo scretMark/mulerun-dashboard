@@ -1,6 +1,6 @@
 {
   "agent_id": "a1d31429-2812-46a5-9371-cd901ee0e441",
-  "generated_at": "2026-01-20T00:01:13.448878",
+  "generated_at": "2026-01-21T00:01:14.443196",
   "basic_info": {
     "title": "SpeechMeme",
     "author": "AllenCreator",
@@ -11,7 +11,7 @@
     "published_at": "2025-10-13T15:47:08.063000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AllenCreator/speehmeme",
-    "days_since_published": 98
+    "days_since_published": 99
   },
   "ranking_metrics": {
     "current_position": {
@@ -25,21 +25,21 @@
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 84,
+    "days_tracked": 85,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 61,
+    "days_tracked": 62,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 5,
-      "likes_rank_change": -93
+      "runs_rank_change": 2,
+      "likes_rank_change": -42
     },
     "last_30_days": {
-      "views_rank_change": 12,
-      "runs_rank_change": 30,
-      "likes_rank_change": -71
+      "views_rank_change": 10,
+      "runs_rank_change": 26,
+      "likes_rank_change": -76
     },
     "all_time": {
       "best_views_rank": 187,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 62,
+    "data_points": 63,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -118,7 +118,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -175,6 +176,7 @@
         200,
         200,
         200,
+        201,
         201,
         201,
         201,
@@ -246,6 +248,7 @@
         267,
         267,
         267,
+        268,
         268
       ],
       "likes_rank": [
@@ -310,6 +313,7 @@
         25,
         24,
         21,
+        14,
         14
       ]
     }
@@ -323,11 +327,6 @@
       "type": "positive",
       "title": "Elite Performance",
       "description": "Ranked #14 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
-    },
-    {
-      "type": "warning",
-      "title": "Declining Ranking",
-      "description": "Dropped 12 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

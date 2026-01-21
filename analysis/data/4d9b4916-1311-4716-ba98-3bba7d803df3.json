@@ -1,6 +1,6 @@
 {
   "agent_id": "4d9b4916-1311-4716-ba98-3bba7d803df3",
-  "generated_at": "2026-01-20T00:01:13.450054",
+  "generated_at": "2026-01-21T00:01:12.855774",
   "basic_info": {
     "title": "Content Pilot AI",
     "author": "cqplaquemh41i2k",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-13T18:50:29.799000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@cqplaquemh41i2k/content-pilot-ai",
-    "days_since_published": 98
+    "days_since_published": 99
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 94,
       "runs_rank": 54,
-      "likes_rank": 218,
+      "likes_rank": 264,
       "total_agents": 292,
       "views_percentile": 67.8,
       "runs_percentile": 81.5,
-      "likes_percentile": 25.3
+      "likes_percentile": 9.6
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 94,
+    "days_tracked": 95,
     "price": 15.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 61,
+    "days_tracked": 62,
     "last_7_days": {
-      "views_rank_change": -2,
+      "views_rank_change": -1,
       "runs_rank_change": 1,
-      "likes_rank_change": 151
+      "likes_rank_change": 15
     },
     "last_30_days": {
-      "views_rank_change": -12,
-      "runs_rank_change": -1,
-      "likes_rank_change": 46
+      "views_rank_change": -11,
+      "runs_rank_change": 0,
+      "likes_rank_change": 86
     },
     "all_time": {
       "best_views_rank": 94,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 62,
+    "data_points": 63,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -118,7 +118,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -179,6 +180,7 @@
         96,
         95,
         95,
+        94,
         94,
         94,
         94,
@@ -246,6 +248,7 @@
         54,
         54,
         54,
+        54,
         54
       ],
       "likes_rank": [
@@ -310,7 +313,8 @@
         201,
         143,
         118,
-        218
+        218,
+        264
       ]
     }
   },
@@ -327,7 +331,7 @@
     {
       "type": "positive",
       "title": "Rising Star",
-      "description": "Improved by 12 positions in views ranking over the last 30 days - showing strong momentum!"
+      "description": "Improved by 11 positions in views ranking over the last 30 days - showing strong momentum!"
     }
   ]
 }

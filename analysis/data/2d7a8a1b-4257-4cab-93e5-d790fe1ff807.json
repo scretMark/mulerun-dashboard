@@ -1,6 +1,6 @@
 {
   "agent_id": "2d7a8a1b-4257-4cab-93e5-d790fe1ff807",
-  "generated_at": "2026-01-20T00:01:14.287267",
+  "generated_at": "2026-01-21T00:01:15.371868",
   "basic_info": {
     "title": "Shorts Script Factory",
     "author": "ali_mohammed2tm",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-18T02:09:10.785000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@ali_mohammed2tm/shorts-script-factory",
-    "days_since_published": 32
+    "days_since_published": 33
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 166,
+      "views_rank": 167,
       "runs_rank": 127,
-      "likes_rank": 148,
+      "likes_rank": 95,
       "total_agents": 292,
-      "views_percentile": 43.2,
+      "views_percentile": 42.8,
       "runs_percentile": 56.5,
-      "likes_percentile": 49.3
+      "likes_percentile": 67.5
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 25,
+    "days_tracked": 26,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 28,
+    "days_tracked": 29,
     "last_7_days": {
-      "views_rank_change": -2,
+      "views_rank_change": -1,
       "runs_rank_change": 1,
-      "likes_rank_change": null
+      "likes_rank_change": -129
     },
     "last_30_days": {
-      "views_rank_change": -20,
+      "views_rank_change": -19,
       "runs_rank_change": 7,
-      "likes_rank_change": 140
+      "likes_rank_change": 87
     },
     "all_time": {
       "best_views_rank": 166,
@@ -47,14 +47,14 @@
       "best_likes_rank": 8,
       "days_in_top_10": 0,
       "first_rank": 186,
-      "current_rank": 166
+      "current_rank": 167
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 26,
+    "data_points": 27,
     "first_recorded": "2025-12-23T08:00:59.635142",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-12-23T08:00:59.635142",
@@ -82,7 +82,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         186,
@@ -110,7 +111,8 @@
         168,
         169,
         166,
-        166
+        166,
+        167
       ],
       "runs_rank": [
         120,
@@ -138,6 +140,7 @@
         126,
         126,
         126,
+        127,
         127
       ],
       "likes_rank": [
@@ -166,7 +169,8 @@
         289,
         183,
         279,
-        148
+        148,
+        95
       ]
     }
   },
@@ -185,7 +189,7 @@
     {
       "type": "positive",
       "title": "Rising Star",
-      "description": "Improved by 20 positions in views ranking over the last 30 days - showing strong momentum!"
+      "description": "Improved by 19 positions in views ranking over the last 30 days - showing strong momentum!"
     }
   ]
 }

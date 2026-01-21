@@ -1,6 +1,6 @@
 {
   "agent_id": "03d920f7-6199-4bd0-9379-5fac38051523",
-  "generated_at": "2026-01-20T00:01:14.370190",
+  "generated_at": "2026-01-21T00:01:15.459341",
   "basic_info": {
     "title": "Viral Shorts AI Architect",
     "author": "yuzhou",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-20T21:05:43.834000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@yuzhou/viral-shorts-ai-architect",
-    "days_since_published": 30
+    "days_since_published": 31
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 232,
       "runs_rank": 269,
-      "likes_rank": 219,
+      "likes_rank": 118,
       "total_agents": 292,
       "views_percentile": 20.5,
       "runs_percentile": 7.9,
-      "likes_percentile": 25.0
+      "likes_percentile": 59.6
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 23,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 24,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 26,
+    "days_tracked": 27,
     "last_7_days": {
-      "views_rank_change": -9,
-      "runs_rank_change": 5,
-      "likes_rank_change": 11
+      "views_rank_change": -8,
+      "runs_rank_change": 2,
+      "likes_rank_change": 20
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": 123
+      "likes_rank_change": 22
     },
     "all_time": {
       "best_views_rank": 232,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 24,
+    "data_points": 25,
     "first_recorded": "2025-12-25T08:01:00.196993",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-12-25T08:01:00.196993",
@@ -80,7 +80,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -106,6 +107,7 @@
         242,
         239,
         234,
+        232,
         232
       ],
       "runs_rank": [
@@ -132,6 +134,7 @@
         268,
         268,
         268,
+        269,
         269
       ],
       "likes_rank": [
@@ -158,7 +161,8 @@
         153,
         192,
         272,
-        219
+        219,
+        118
       ]
     }
   },
@@ -177,7 +181,7 @@
     {
       "type": "positive",
       "title": "Hot Trend",
-      "description": "Up 9 positions in just 7 days - currently trending and gaining rapid visibility!"
+      "description": "Up 8 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

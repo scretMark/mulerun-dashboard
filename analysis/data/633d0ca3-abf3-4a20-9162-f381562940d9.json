@@ -1,6 +1,6 @@
 {
   "agent_id": "633d0ca3-abf3-4a20-9162-f381562940d9",
-  "generated_at": "2026-01-20T00:01:13.146403",
+  "generated_at": "2026-01-21T00:01:12.573596",
   "basic_info": {
     "title": "Kabutack Agent",
     "author": "Ailurus",
@@ -11,30 +11,30 @@
     "published_at": "2025-10-30T18:00:14.557000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Ailurus/kabutack-agent",
-    "days_since_published": 81
+    "days_since_published": 82
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 46,
       "runs_rank": 52,
-      "likes_rank": 247,
+      "likes_rank": 276,
       "total_agents": 292,
       "views_percentile": 84.2,
       "runs_percentile": 82.2,
-      "likes_percentile": 15.4
+      "likes_percentile": 5.5
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 94,
+    "days_tracked": 95,
     "price": 1.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 61,
+    "days_tracked": 62,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 2,
-      "likes_rank_change": 161
+      "likes_rank_change": 232
     },
     "last_30_days": {
       "views_rank_change": -2,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 62,
+    "data_points": 63,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -118,7 +118,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -165,6 +166,7 @@
         47,
         47,
         47,
+        46,
         46,
         46,
         46,
@@ -246,6 +248,7 @@
         51,
         51,
         51,
+        52,
         52
       ],
       "likes_rank": [
@@ -310,7 +313,8 @@
         193,
         263,
         237,
-        247
+        247,
+        276
       ]
     }
   },

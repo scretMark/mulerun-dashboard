@@ -1,6 +1,6 @@
 {
   "agent_id": "c9e98be8-f68e-4ea8-919c-adc59f7555cf",
-  "generated_at": "2026-01-20T00:01:12.406675",
+  "generated_at": "2026-01-21T00:01:11.954256",
   "basic_info": {
     "title": "UPCV Resume Gen ",
     "author": "upcv",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-12T11:14:49.973000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@upcv/upcv-resume-gen",
-    "days_since_published": 68
+    "days_since_published": 69
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 76,
-      "runs_rank": 14,
-      "likes_rank": 170,
+      "runs_rank": 13,
+      "likes_rank": 274,
       "total_agents": 292,
       "views_percentile": 74.0,
-      "runs_percentile": 95.2,
-      "likes_percentile": 41.8
+      "runs_percentile": 95.5,
+      "likes_percentile": 6.2
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 68,
+    "days_tracked": 69,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 62,
+    "days_tracked": 63,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 0,
-      "likes_rank_change": 104
+      "runs_rank_change": -1,
+      "likes_rank_change": 5
     },
     "last_30_days": {
-      "views_rank_change": -4,
-      "runs_rank_change": 1,
-      "likes_rank_change": 17
+      "views_rank_change": -2,
+      "runs_rank_change": 0,
+      "likes_rank_change": 118
     },
     "all_time": {
       "best_views_rank": 76,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 63,
+    "data_points": 64,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -119,7 +119,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -168,6 +169,7 @@
         78,
         78,
         77,
+        76,
         76,
         76,
         76,
@@ -249,7 +251,8 @@
         14,
         14,
         14,
-        14
+        14,
+        13
       ],
       "likes_rank": [
         null,
@@ -314,7 +317,8 @@
         235,
         237,
         259,
-        170
+        170,
+        274
       ]
     }
   },
@@ -326,7 +330,7 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #14 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #13 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     }
   ]
 }

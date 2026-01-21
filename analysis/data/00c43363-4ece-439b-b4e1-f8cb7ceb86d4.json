@@ -1,6 +1,6 @@
 {
   "agent_id": "00c43363-4ece-439b-b4e1-f8cb7ceb86d4",
-  "generated_at": "2026-01-20T00:01:14.432081",
+  "generated_at": "2026-01-21T00:01:15.532423",
   "basic_info": {
     "title": "SoulSync Chat AI  Companion",
     "author": "Eren_kaif",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-25T12:10:36.534000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Eren_kaif/soulsync-ai-agent",
-    "days_since_published": 25
+    "days_since_published": 26
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 206,
       "runs_rank": 114,
-      "likes_rank": 198,
+      "likes_rank": 113,
       "total_agents": 292,
       "views_percentile": 29.5,
       "runs_percentile": 61.0,
-      "likes_percentile": 32.2
+      "likes_percentile": 61.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 21,
+    "days_tracked": 22,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 24,
+    "days_tracked": 25,
     "last_7_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": 1,
-      "likes_rank_change": 170
+      "views_rank_change": 1,
+      "runs_rank_change": 2,
+      "likes_rank_change": -96
     },
     "last_30_days": {
       "views_rank_change": 9,
       "runs_rank_change": 4,
-      "likes_rank_change": 140
+      "likes_rank_change": 55
     },
     "all_time": {
       "best_views_rank": 197,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 22,
+    "data_points": 23,
     "first_recorded": "2025-12-27T08:01:00.423663",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-12-27T08:01:00.423663",
@@ -78,7 +78,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         197,
@@ -98,6 +99,7 @@
         206,
         206,
         205,
+        206,
         206,
         206,
         206,
@@ -126,6 +128,7 @@
         112,
         112,
         113,
+        114,
         114
       ],
       "likes_rank": [
@@ -150,7 +153,8 @@
         119,
         101,
         89,
-        198
+        198,
+        113
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "c55f8b40-1659-4417-95f0-14b5ad4cd1e2",
-  "generated_at": "2026-01-20T00:01:14.441311",
+  "generated_at": "2026-01-21T00:01:15.545401",
   "basic_info": {
     "title": "FreeAI Builder",
     "author": "li_alan7qd",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-24T00:43:06.317000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@li_alan7qd/freeai-builder",
-    "days_since_published": 26
+    "days_since_published": 27
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 169,
       "runs_rank": 98,
-      "likes_rank": 221,
+      "likes_rank": 204,
       "total_agents": 292,
       "views_percentile": 42.1,
       "runs_percentile": 66.4,
-      "likes_percentile": 24.3
+      "likes_percentile": 30.1
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 21,
+    "days_tracked": 22,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 24,
+    "days_tracked": 25,
     "last_7_days": {
-      "views_rank_change": -2,
+      "views_rank_change": -1,
       "runs_rank_change": 0,
-      "likes_rank_change": 101
+      "likes_rank_change": 54
     },
     "last_30_days": {
       "views_rank_change": -44,
       "runs_rank_change": -29,
-      "likes_rank_change": 208
+      "likes_rank_change": 191
     },
     "all_time": {
       "best_views_rank": 169,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 22,
+    "data_points": 23,
     "first_recorded": "2025-12-27T08:01:00.423663",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-12-27T08:01:00.423663",
@@ -78,7 +78,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         213,
@@ -102,6 +103,7 @@
         169,
         170,
         170,
+        169,
         169
       ],
       "runs_rank": [
@@ -126,6 +128,7 @@
         98,
         97,
         97,
+        98,
         98
       ],
       "likes_rank": [
@@ -150,7 +153,8 @@
         217,
         247,
         187,
-        221
+        221,
+        204
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "9b763d44-e476-4b9b-844f-f4db81c6d09e",
-  "generated_at": "2026-01-20T00:01:13.675792",
+  "generated_at": "2026-01-21T00:01:14.657507",
   "basic_info": {
     "title": "Christmas costume generator",
     "author": "luckyy",
@@ -11,50 +11,50 @@
     "published_at": "2025-11-25T17:16:09.297000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@luckyy/christmas-costume-generator",
-    "days_since_published": 55
+    "days_since_published": 56
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 224,
+      "views_rank": 226,
       "runs_rank": 91,
-      "likes_rank": 95,
+      "likes_rank": 73,
       "total_agents": 292,
-      "views_percentile": 23.3,
+      "views_percentile": 22.6,
       "runs_percentile": 68.8,
-      "likes_percentile": 67.5
+      "likes_percentile": 75.0
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 51,
+    "days_tracked": 52,
     "price": 28.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 54,
+    "days_tracked": 55,
     "last_7_days": {
-      "views_rank_change": 0,
+      "views_rank_change": 1,
       "runs_rank_change": 1,
-      "likes_rank_change": -161
+      "likes_rank_change": -98
     },
     "last_30_days": {
-      "views_rank_change": 13,
+      "views_rank_change": 15,
       "runs_rank_change": 5,
-      "likes_rank_change": -96
+      "likes_rank_change": -120
     },
     "all_time": {
       "best_views_rank": 207,
       "best_runs_rank": 84,
-      "best_likes_rank": 95,
+      "best_likes_rank": 73,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 224
+      "current_rank": 226
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 52,
+    "data_points": 53,
     "first_recorded": "2025-11-27T08:00:22.157746",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-11-27T08:00:22.157746",
@@ -108,7 +108,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -162,7 +163,8 @@
         222,
         222,
         222,
-        224
+        224,
+        226
       ],
       "runs_rank": [
         null,
@@ -212,6 +214,7 @@
         89,
         90,
         90,
+        91,
         91,
         91,
         91,
@@ -270,7 +273,8 @@
         254,
         169,
         135,
-        95
+        95,
+        73
       ]
     }
   },
@@ -289,7 +293,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 13 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 15 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

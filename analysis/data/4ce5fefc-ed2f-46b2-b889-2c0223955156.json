@@ -1,6 +1,6 @@
 {
   "agent_id": "4ce5fefc-ed2f-46b2-b889-2c0223955156",
-  "generated_at": "2026-01-20T00:01:14.603789",
+  "generated_at": "2026-01-21T00:01:15.736135",
   "basic_info": {
     "title": "Manga Translator",
     "author": "usernuk",
@@ -11,35 +11,35 @@
     "published_at": "2026-01-06T09:35:53.576000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@usernuk/manga-translator",
-    "days_since_published": 13
+    "days_since_published": 14
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 268,
       "runs_rank": 273,
-      "likes_rank": 60,
+      "likes_rank": 185,
       "total_agents": 292,
       "views_percentile": 8.2,
       "runs_percentile": 6.5,
-      "likes_percentile": 79.5
+      "likes_percentile": 36.6
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 12,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 13,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 12,
+    "days_tracked": 13,
     "last_7_days": {
-      "views_rank_change": 3,
-      "runs_rank_change": 3,
-      "likes_rank_change": 6
+      "views_rank_change": 1,
+      "runs_rank_change": 0,
+      "likes_rank_change": -25
     },
     "last_30_days": {
       "views_rank_change": 0,
       "runs_rank_change": 5,
-      "likes_rank_change": -24
+      "likes_rank_change": 101
     },
     "all_time": {
       "best_views_rank": 265,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 12,
+    "data_points": 13,
     "first_recorded": "2026-01-08T08:01:02.485852",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2026-01-08T08:01:02.485852",
@@ -68,7 +68,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         268,
@@ -82,6 +83,7 @@
         268,
         268,
         268,
+        268,
         268
       ],
       "runs_rank": [
@@ -91,6 +93,7 @@
         269,
         270,
         270,
+        273,
         273,
         273,
         273,
@@ -110,7 +113,8 @@
         85,
         76,
         70,
-        60
+        60,
+        185
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "53f4ae6b-d4a8-445f-b2bc-5617d96a8392",
-  "generated_at": "2026-01-20T00:01:13.532713",
+  "generated_at": "2026-01-21T00:01:12.954114",
   "basic_info": {
     "title": "Illustrate Mind Spark to Social",
     "author": "Rhino",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-15T13:01:39.091000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Rhino/illustrate-mind-spark-to-social",
-    "days_since_published": 126
+    "days_since_published": 127
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 68,
       "runs_rank": 75,
-      "likes_rank": 280,
+      "likes_rank": 170,
       "total_agents": 292,
       "views_percentile": 76.7,
       "runs_percentile": 74.3,
-      "likes_percentile": 4.1
+      "likes_percentile": 41.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 122,
+    "days_tracked": 123,
     "price": 8.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 61,
+    "days_tracked": 62,
     "last_7_days": {
-      "views_rank_change": 0,
+      "views_rank_change": -1,
       "runs_rank_change": 2,
-      "likes_rank_change": 145
+      "likes_rank_change": 99
     },
     "last_30_days": {
-      "views_rank_change": 4,
+      "views_rank_change": 3,
       "runs_rank_change": 4,
-      "likes_rank_change": 205
+      "likes_rank_change": 89
     },
     "all_time": {
       "best_views_rank": 63,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 62,
+    "data_points": 63,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-20T08:01:02.655733",
+    "last_recorded": "2026-01-21T08:01:03.691655",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -118,7 +118,8 @@
         "2026-01-17T08:01:02.724830",
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
-        "2026-01-20T08:01:02.655733"
+        "2026-01-20T08:01:02.655733",
+        "2026-01-21T08:01:03.691655"
       ],
       "views_rank": [
         null,
@@ -178,6 +179,7 @@
         68,
         68,
         69,
+        68,
         68,
         68,
         68,
@@ -246,6 +248,7 @@
         74,
         75,
         75,
+        75,
         75
       ],
       "likes_rank": [
@@ -310,7 +313,8 @@
         117,
         98,
         87,
-        280
+        280,
+        170
       ]
     }
   },
