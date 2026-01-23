@@ -1,6 +1,6 @@
 {
   "agent_id": "b1f9b6ed-0f0d-4564-9695-e23373b1e565",
-  "generated_at": "2026-01-21T00:01:12.711434",
+  "generated_at": "2026-01-23T00:01:27.748549",
   "basic_info": {
     "title": "Pose Grid Generator",
     "author": "laughing_code",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-28T14:14:02.445000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@laughing_code/pose-grid-generator",
-    "days_since_published": 114
+    "days_since_published": 116
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 28,
+      "views_rank": 29,
       "runs_rank": 34,
-      "likes_rank": 197,
-      "total_agents": 292,
-      "views_percentile": 90.4,
-      "runs_percentile": 88.4,
-      "likes_percentile": 32.5
+      "likes_rank": 223,
+      "total_agents": 297,
+      "views_percentile": 90.2,
+      "runs_percentile": 88.6,
+      "likes_percentile": 24.9
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 114,
+    "days_tracked": 115,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 62,
+    "days_tracked": 64,
     "last_7_days": {
-      "views_rank_change": 0,
+      "views_rank_change": 1,
       "runs_rank_change": 0,
-      "likes_rank_change": 96
+      "likes_rank_change": 70
     },
     "last_30_days": {
-      "views_rank_change": 0,
+      "views_rank_change": 1,
       "runs_rank_change": 1,
-      "likes_rank_change": 46
+      "likes_rank_change": 82
     },
     "all_time": {
       "best_views_rank": 27,
@@ -47,14 +47,14 @@
       "best_likes_rank": 56,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 28
+      "current_rank": 29
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 63,
+    "data_points": 64,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-21T08:01:03.691655",
+    "last_recorded": "2026-01-23T08:01:01.579068",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -119,7 +119,8 @@
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
         "2026-01-20T08:01:02.655733",
-        "2026-01-21T08:01:03.691655"
+        "2026-01-21T08:01:03.691655",
+        "2026-01-23T08:01:01.579068"
       ],
       "views_rank": [
         null,
@@ -184,7 +185,8 @@
         28,
         28,
         28,
-        28
+        28,
+        29
       ],
       "runs_rank": [
         null,
@@ -234,6 +236,7 @@
         33,
         33,
         33,
+        34,
         34,
         34,
         34,
@@ -314,7 +317,8 @@
         225,
         282,
         261,
-        197
+        197,
+        223
       ]
     }
   },
@@ -326,7 +330,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #28 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #29 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

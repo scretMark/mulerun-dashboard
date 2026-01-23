@@ -1,6 +1,6 @@
 {
   "agent_id": "311be0d7-cd68-4fa7-99bc-232e535ebb39",
-  "generated_at": "2026-01-21T00:01:12.006008",
+  "generated_at": "2026-01-23T00:01:26.928278",
   "basic_info": {
     "title": "3D Desk Figure Creation",
     "author": "laughing_code",
@@ -11,50 +11,50 @@
     "published_at": "2025-09-02T15:37:32.901000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@laughing_code/3d-desk-figure-creation",
-    "days_since_published": 140
+    "days_since_published": 142
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 1,
-      "runs_rank": 2,
-      "likes_rank": 285,
-      "total_agents": 292,
+      "runs_rank": 3,
+      "likes_rank": 298,
+      "total_agents": 297,
       "views_percentile": 99.7,
-      "runs_percentile": 99.3,
-      "likes_percentile": 2.4
+      "runs_percentile": 99.0,
+      "likes_percentile": -0.3
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 90,
+    "days_tracked": 91,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 63,
+    "days_tracked": 65,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 0,
-      "likes_rank_change": 17
+      "runs_rank_change": 1,
+      "likes_rank_change": 22
     },
     "last_30_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 0,
-      "likes_rank_change": 214
+      "runs_rank_change": 1,
+      "likes_rank_change": 50
     },
     "all_time": {
       "best_views_rank": 1,
       "best_runs_rank": 2,
       "best_likes_rank": 32,
-      "days_in_top_10": 36,
+      "days_in_top_10": 37,
       "first_rank": null,
       "current_rank": 1
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 64,
+    "data_points": 65,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-21T08:01:03.691655",
+    "last_recorded": "2026-01-23T08:01:01.579068",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -120,7 +120,8 @@
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
         "2026-01-20T08:01:02.655733",
-        "2026-01-21T08:01:03.691655"
+        "2026-01-21T08:01:03.691655",
+        "2026-01-23T08:01:01.579068"
       ],
       "views_rank": [
         null,
@@ -151,6 +152,7 @@
         null,
         null,
         null,
+        1,
         1,
         1,
         1,
@@ -252,7 +254,8 @@
         2,
         2,
         2,
-        2
+        2,
+        3
       ],
       "likes_rank": [
         null,
@@ -318,7 +321,8 @@
         270,
         270,
         225,
-        285
+        285,
+        298
       ]
     }
   },
@@ -340,7 +344,7 @@
     {
       "type": "positive",
       "title": "Consistent Top Performer",
-      "description": "Maintained Top 10 ranking for 36 days - showing sustained excellence and user preference."
+      "description": "Maintained Top 10 ranking for 37 days - showing sustained excellence and user preference."
     },
     {
       "type": "info",
@@ -350,7 +354,7 @@
     {
       "type": "info",
       "title": "Premium Agent Success",
-      "description": "Despite $50.0 pricing, this agent ranks #2 in usage - demonstrating strong value proposition."
+      "description": "Despite $50.0 pricing, this agent ranks #3 in usage - demonstrating strong value proposition."
     }
   ]
 }

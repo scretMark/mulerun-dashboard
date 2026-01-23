@@ -1,6 +1,6 @@
 {
   "agent_id": "e25975c0-57ba-4c1a-b283-5b5fdba861b4",
-  "generated_at": "2026-01-21T00:01:13.549201",
+  "generated_at": "2026-01-23T00:01:28.579274",
   "basic_info": {
     "title": "Tattoo-Style Pencil Sketch Generator",
     "author": "AFei_AITalk",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-04T16:24:00.105000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AFei_AITalk/tattoo-style-pencil-sketch-generator",
-    "days_since_published": 77
+    "days_since_published": 79
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 162,
-      "runs_rank": 254,
-      "likes_rank": 76,
-      "total_agents": 292,
-      "views_percentile": 44.5,
-      "runs_percentile": 13.0,
-      "likes_percentile": 74.0
+      "runs_rank": 257,
+      "likes_rank": 53,
+      "total_agents": 297,
+      "views_percentile": 45.5,
+      "runs_percentile": 13.5,
+      "likes_percentile": 82.2
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 76,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 77,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 62,
+    "days_tracked": 64,
     "last_7_days": {
-      "views_rank_change": 2,
-      "runs_rank_change": 1,
-      "likes_rank_change": -3
+      "views_rank_change": 1,
+      "runs_rank_change": 3,
+      "likes_rank_change": 7
     },
     "last_30_days": {
-      "views_rank_change": 11,
-      "runs_rank_change": 22,
-      "likes_rank_change": 69
+      "views_rank_change": 10,
+      "runs_rank_change": 25,
+      "likes_rank_change": -3
     },
     "all_time": {
       "best_views_rank": 149,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 63,
+    "data_points": 64,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-21T08:01:03.691655",
+    "last_recorded": "2026-01-23T08:01:01.579068",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -119,7 +119,8 @@
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
         "2026-01-20T08:01:02.655733",
-        "2026-01-21T08:01:03.691655"
+        "2026-01-21T08:01:03.691655",
+        "2026-01-23T08:01:01.579068"
       ],
       "views_rank": [
         null,
@@ -184,6 +185,7 @@
         161,
         161,
         161,
+        162,
         162
       ],
       "runs_rank": [
@@ -249,7 +251,8 @@
         254,
         254,
         254,
-        254
+        254,
+        257
       ],
       "likes_rank": [
         null,
@@ -314,7 +317,8 @@
         174,
         140,
         101,
-        76
+        76,
+        53
       ]
     }
   },
@@ -324,9 +328,9 @@
   },
   "insights": [
     {
-      "type": "warning",
-      "title": "Declining Ranking",
-      "description": "Dropped 11 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "type": "positive",
+      "title": "High Performer",
+      "description": "Ranked #53 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

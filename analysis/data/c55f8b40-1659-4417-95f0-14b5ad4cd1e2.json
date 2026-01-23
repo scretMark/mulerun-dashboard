@@ -1,6 +1,6 @@
 {
   "agent_id": "c55f8b40-1659-4417-95f0-14b5ad4cd1e2",
-  "generated_at": "2026-01-21T00:01:15.545401",
+  "generated_at": "2026-01-23T00:01:30.772684",
   "basic_info": {
     "title": "FreeAI Builder",
     "author": "li_alan7qd",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-24T00:43:06.317000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@li_alan7qd/freeai-builder",
-    "days_since_published": 27
+    "days_since_published": 29
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 169,
       "runs_rank": 98,
-      "likes_rank": 204,
-      "total_agents": 292,
-      "views_percentile": 42.1,
-      "runs_percentile": 66.4,
-      "likes_percentile": 30.1
+      "likes_rank": 166,
+      "total_agents": 297,
+      "views_percentile": 43.1,
+      "runs_percentile": 67.0,
+      "likes_percentile": 44.1
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 22,
+    "days_tracked": 23,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 25,
+    "days_tracked": 27,
     "last_7_days": {
       "views_rank_change": -1,
       "runs_rank_change": 0,
-      "likes_rank_change": 54
+      "likes_rank_change": -43
     },
     "last_30_days": {
       "views_rank_change": -44,
       "runs_rank_change": -29,
-      "likes_rank_change": 191
+      "likes_rank_change": 153
     },
     "all_time": {
       "best_views_rank": 169,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 23,
+    "data_points": 24,
     "first_recorded": "2025-12-27T08:01:00.423663",
-    "last_recorded": "2026-01-21T08:01:03.691655",
+    "last_recorded": "2026-01-23T08:01:01.579068",
     "time_series": {
       "dates": [
         "2025-12-27T08:01:00.423663",
@@ -79,7 +79,8 @@
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
         "2026-01-20T08:01:02.655733",
-        "2026-01-21T08:01:03.691655"
+        "2026-01-21T08:01:03.691655",
+        "2026-01-23T08:01:01.579068"
       ],
       "views_rank": [
         213,
@@ -103,6 +104,7 @@
         169,
         170,
         170,
+        169,
         169,
         169
       ],
@@ -129,6 +131,7 @@
         97,
         97,
         98,
+        98,
         98
       ],
       "likes_rank": [
@@ -154,7 +157,8 @@
         247,
         187,
         221,
-        204
+        204,
+        166
       ]
     }
   },

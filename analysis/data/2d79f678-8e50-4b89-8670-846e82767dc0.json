@@ -1,6 +1,6 @@
 {
   "agent_id": "2d79f678-8e50-4b89-8670-846e82767dc0",
-  "generated_at": "2026-01-21T00:01:13.200353",
+  "generated_at": "2026-01-23T00:01:28.209451",
   "basic_info": {
     "title": "Giant fluffy Monster with ME",
     "author": "Darren",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-20T11:30:47.994000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/giant-fluffy-monster-with-me",
-    "days_since_published": 92
+    "days_since_published": 94
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 141,
-      "runs_rank": 175,
-      "likes_rank": 158,
-      "total_agents": 292,
-      "views_percentile": 51.7,
-      "runs_percentile": 40.1,
-      "likes_percentile": 45.9
+      "runs_rank": 177,
+      "likes_rank": 92,
+      "total_agents": 297,
+      "views_percentile": 52.5,
+      "runs_percentile": 40.4,
+      "likes_percentile": 69.0
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 85,
+    "days_tracked": 86,
     "price": 51.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 62,
+    "days_tracked": 64,
     "last_7_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": 1,
-      "likes_rank_change": 13
+      "views_rank_change": -1,
+      "runs_rank_change": 3,
+      "likes_rank_change": 0
     },
     "last_30_days": {
-      "views_rank_change": 6,
-      "runs_rank_change": 16,
-      "likes_rank_change": 63
+      "views_rank_change": 4,
+      "runs_rank_change": 23,
+      "likes_rank_change": -32
     },
     "all_time": {
       "best_views_rank": 134,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 63,
+    "data_points": 64,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-21T08:01:03.691655",
+    "last_recorded": "2026-01-23T08:01:01.579068",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -119,7 +119,8 @@
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
         "2026-01-20T08:01:02.655733",
-        "2026-01-21T08:01:03.691655"
+        "2026-01-21T08:01:03.691655",
+        "2026-01-23T08:01:01.579068"
       ],
       "views_rank": [
         null,
@@ -180,6 +181,7 @@
         141,
         141,
         142,
+        141,
         141,
         141,
         141,
@@ -249,7 +251,8 @@
         175,
         175,
         175,
-        175
+        175,
+        177
       ],
       "likes_rank": [
         null,
@@ -314,7 +317,8 @@
         201,
         158,
         289,
-        158
+        158,
+        92
       ]
     }
   },
@@ -326,7 +330,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #141 out of 292 active agents."
+      "description": "This agent is currently ranked #141 out of 297 active agents."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "6350d3ee-dee8-4b5f-ba61-19cfef1448c8",
-  "generated_at": "2026-01-21T00:01:14.799810",
+  "generated_at": "2026-01-23T00:01:30.026638",
   "basic_info": {
     "title": "Youtube Thumbnail",
     "author": "pxzzf1010_cr73m",
@@ -11,50 +11,50 @@
     "published_at": "2025-12-05T20:32:44.732000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@pxzzf1010_cr73m/youtube-thumbnail",
-    "days_since_published": 46
+    "days_since_published": 48
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 31,
-      "runs_rank": 3,
-      "likes_rank": 271,
-      "total_agents": 292,
-      "views_percentile": 89.4,
-      "runs_percentile": 99.0,
-      "likes_percentile": 7.2
+      "views_rank": 28,
+      "runs_rank": 2,
+      "likes_rank": 254,
+      "total_agents": 297,
+      "views_percentile": 90.6,
+      "runs_percentile": 99.3,
+      "likes_percentile": 14.5
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 44,
+    "days_tracked": 45,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 43,
+    "days_tracked": 45,
     "last_7_days": {
-      "views_rank_change": -4,
-      "runs_rank_change": 0,
-      "likes_rank_change": 4
+      "views_rank_change": -7,
+      "runs_rank_change": -1,
+      "likes_rank_change": -9
     },
     "last_30_days": {
-      "views_rank_change": -63,
+      "views_rank_change": -59,
       "runs_rank_change": -11,
-      "likes_rank_change": 140
+      "likes_rank_change": 228
     },
     "all_time": {
-      "best_views_rank": 31,
-      "best_runs_rank": 3,
+      "best_views_rank": 28,
+      "best_runs_rank": 2,
       "best_likes_rank": 26,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 31
+      "current_rank": 28
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 45,
+    "data_points": 46,
     "first_recorded": "2025-12-09T08:00:25.308684",
-    "last_recorded": "2026-01-21T08:01:03.691655",
+    "last_recorded": "2026-01-23T08:01:01.579068",
     "time_series": {
       "dates": [
         "2025-12-09T08:00:25.308684",
@@ -101,7 +101,8 @@
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
         "2026-01-20T08:01:02.655733",
-        "2026-01-21T08:01:03.691655"
+        "2026-01-21T08:01:03.691655",
+        "2026-01-23T08:01:01.579068"
       ],
       "views_rank": [
         null,
@@ -148,7 +149,8 @@
         32,
         32,
         31,
-        31
+        31,
+        28
       ],
       "runs_rank": [
         null,
@@ -195,7 +197,8 @@
         3,
         3,
         3,
-        3
+        3,
+        2
       ],
       "likes_rank": [
         null,
@@ -242,7 +245,8 @@
         283,
         276,
         283,
-        271
+        271,
+        254
       ]
     }
   },
@@ -261,12 +265,12 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #3 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #2 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     },
     {
       "type": "positive",
       "title": "Rising Star",
-      "description": "Improved by 63 positions in views ranking over the last 30 days - showing strong momentum!"
+      "description": "Improved by 59 positions in views ranking over the last 30 days - showing strong momentum!"
     },
     {
       "type": "positive",
@@ -274,9 +278,14 @@
       "description": "Runs ranking improved by 11 positions in the last 30 days - users are actively engaging with this agent!"
     },
     {
+      "type": "positive",
+      "title": "Hot Trend",
+      "description": "Up 7 positions in just 7 days - currently trending and gaining rapid visibility!"
+    },
+    {
       "type": "info",
       "title": "Premium Agent Success",
-      "description": "Despite $10.0 pricing, this agent ranks #3 in usage - demonstrating strong value proposition."
+      "description": "Despite $10.0 pricing, this agent ranks #2 in usage - demonstrating strong value proposition."
     }
   ]
 }

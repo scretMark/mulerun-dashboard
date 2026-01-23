@@ -1,6 +1,6 @@
 {
   "agent_id": "0066aba1-5246-4c07-870b-f2bffb4396a9",
-  "generated_at": "2026-01-21T00:01:12.549387",
+  "generated_at": "2026-01-23T00:01:27.589358",
   "basic_info": {
     "title": "Cinematic Rooftop",
     "author": "Lucas",
@@ -11,50 +11,50 @@
     "published_at": "2025-11-12T18:53:01.452000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/cinematic-rooftop",
-    "days_since_published": 69
+    "days_since_published": 71
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 265,
-      "runs_rank": 288,
-      "likes_rank": null,
-      "total_agents": 292,
-      "views_percentile": 9.2,
-      "runs_percentile": 1.4,
-      "likes_percentile": 0
+      "views_rank": 267,
+      "runs_rank": 292,
+      "likes_rank": 34,
+      "total_agents": 297,
+      "views_percentile": 10.1,
+      "runs_percentile": 1.7,
+      "likes_percentile": 88.6
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 68,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 69,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 62,
+    "days_tracked": 64,
     "last_7_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": 0,
-      "likes_rank_change": null
+      "views_rank_change": 2,
+      "runs_rank_change": 4,
+      "likes_rank_change": -86
     },
     "last_30_days": {
       "views_rank_change": 27,
       "runs_rank_change": null,
-      "likes_rank_change": null
+      "likes_rank_change": -184
     },
     "all_time": {
       "best_views_rank": 225,
       "best_runs_rank": 244,
-      "best_likes_rank": 55,
+      "best_likes_rank": 34,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 265
+      "current_rank": 267
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 63,
+    "data_points": 64,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-21T08:01:03.691655",
+    "last_recorded": "2026-01-23T08:01:01.579068",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -119,7 +119,8 @@
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
         "2026-01-20T08:01:02.655733",
-        "2026-01-21T08:01:03.691655"
+        "2026-01-21T08:01:03.691655",
+        "2026-01-23T08:01:01.579068"
       ],
       "views_rank": [
         null,
@@ -184,7 +185,8 @@
         265,
         265,
         265,
-        265
+        265,
+        267
       ],
       "runs_rank": [
         null,
@@ -249,7 +251,8 @@
         288,
         288,
         288,
-        288
+        288,
+        292
       ],
       "likes_rank": [
         null,
@@ -314,7 +317,8 @@
         71,
         65,
         55,
-        null
+        null,
+        34
       ]
     }
   },
@@ -323,6 +327,11 @@
     "changes": []
   },
   "insights": [
+    {
+      "type": "positive",
+      "title": "High Performer",
+      "description": "Ranked #34 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+    },
     {
       "type": "warning",
       "title": "Declining Ranking",

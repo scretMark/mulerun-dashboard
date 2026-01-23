@@ -1,6 +1,6 @@
 {
   "agent_id": "b88f4481-003a-4da7-8ab0-ab801f2dde61",
-  "generated_at": "2026-01-21T00:01:11.850610",
+  "generated_at": "2026-01-23T00:01:26.795267",
   "basic_info": {
     "title": "Virtual Try On",
     "author": "PicCopilot",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-11T19:30:42.097000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/virtual-try-on",
-    "days_since_published": 70
+    "days_since_published": 72
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 33,
       "runs_rank": 8,
-      "likes_rank": 225,
-      "total_agents": 292,
-      "views_percentile": 88.7,
+      "likes_rank": 207,
+      "total_agents": 297,
+      "views_percentile": 88.9,
       "runs_percentile": 97.3,
-      "likes_percentile": 22.9
+      "likes_percentile": 30.3
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 70,
+    "days_tracked": 71,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 63,
+    "days_tracked": 65,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": -67
+      "likes_rank_change": -52
     },
     "last_30_days": {
-      "views_rank_change": -8,
+      "views_rank_change": -7,
       "runs_rank_change": 1,
-      "likes_rank_change": 10
+      "likes_rank_change": null
     },
     "all_time": {
       "best_views_rank": 33,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 64,
+    "data_points": 65,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-21T08:01:03.691655",
+    "last_recorded": "2026-01-23T08:01:01.579068",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -120,7 +120,8 @@
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
         "2026-01-20T08:01:02.655733",
-        "2026-01-21T08:01:03.691655"
+        "2026-01-21T08:01:03.691655",
+        "2026-01-23T08:01:01.579068"
       ],
       "views_rank": [
         null,
@@ -186,6 +187,7 @@
         34,
         34,
         33,
+        33,
         33
       ],
       "runs_rank": [
@@ -232,6 +234,7 @@
         7,
         7,
         7,
+        8,
         8,
         8,
         8,
@@ -318,7 +321,8 @@
         242,
         244,
         180,
-        225
+        225,
+        207
       ]
     }
   },

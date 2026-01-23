@@ -1,6 +1,6 @@
 {
   "agent_id": "9f3e2d27-ac24-4ed3-8082-5f67a4d6bf14",
-  "generated_at": "2026-01-21T00:01:14.892184",
+  "generated_at": "2026-01-23T00:01:30.131957",
   "basic_info": {
     "title": "Fireworks Show",
     "author": "LinkAIBrain",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-03T11:04:04.300000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/fireworks-show",
-    "days_since_published": 48
+    "days_since_published": 50
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 219,
-      "runs_rank": 232,
-      "likes_rank": 93,
-      "total_agents": 292,
-      "views_percentile": 25.0,
-      "runs_percentile": 20.5,
-      "likes_percentile": 68.2
+      "views_rank": 220,
+      "runs_rank": 234,
+      "likes_rank": 65,
+      "total_agents": 297,
+      "views_percentile": 25.9,
+      "runs_percentile": 21.2,
+      "likes_percentile": 78.1
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 43,
+    "days_tracked": 44,
     "price": 500.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 42,
+    "days_tracked": 44,
     "last_7_days": {
       "views_rank_change": 3,
-      "runs_rank_change": 4,
-      "likes_rank_change": 74
+      "runs_rank_change": 5,
+      "likes_rank_change": 51
     },
     "last_30_days": {
-      "views_rank_change": -27,
-      "runs_rank_change": -14,
-      "likes_rank_change": 91
+      "views_rank_change": -22,
+      "runs_rank_change": -6,
+      "likes_rank_change": -29
     },
     "all_time": {
       "best_views_rank": 215,
@@ -47,14 +47,14 @@
       "best_likes_rank": 2,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 219
+      "current_rank": 220
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 43,
+    "data_points": 44,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2026-01-21T08:01:03.691655",
+    "last_recorded": "2026-01-23T08:01:01.579068",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
@@ -99,7 +99,8 @@
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
         "2026-01-20T08:01:02.655733",
-        "2026-01-21T08:01:03.691655"
+        "2026-01-21T08:01:03.691655",
+        "2026-01-23T08:01:01.579068"
       ],
       "views_rank": [
         null,
@@ -144,7 +145,8 @@
         218,
         218,
         219,
-        219
+        219,
+        220
       ],
       "runs_rank": [
         null,
@@ -189,7 +191,8 @@
         232,
         232,
         232,
-        232
+        232,
+        234
       ],
       "likes_rank": [
         null,
@@ -234,7 +237,8 @@
         13,
         290,
         146,
-        93
+        93,
+        65
       ]
     }
   },
@@ -253,12 +257,7 @@
     {
       "type": "positive",
       "title": "Rising Star",
-      "description": "Improved by 27 positions in views ranking over the last 30 days - showing strong momentum!"
-    },
-    {
-      "type": "positive",
-      "title": "Growing Usage",
-      "description": "Runs ranking improved by 14 positions in the last 30 days - users are actively engaging with this agent!"
+      "description": "Improved by 22 positions in views ranking over the last 30 days - showing strong momentum!"
     }
   ]
 }

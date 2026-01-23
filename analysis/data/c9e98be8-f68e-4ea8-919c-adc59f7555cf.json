@@ -1,6 +1,6 @@
 {
   "agent_id": "c9e98be8-f68e-4ea8-919c-adc59f7555cf",
-  "generated_at": "2026-01-21T00:01:11.954256",
+  "generated_at": "2026-01-23T00:01:26.881718",
   "basic_info": {
     "title": "UPCV Resume Gen ",
     "author": "upcv",
@@ -11,50 +11,50 @@
     "published_at": "2025-11-12T11:14:49.973000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@upcv/upcv-resume-gen",
-    "days_since_published": 69
+    "days_since_published": 71
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 76,
+      "views_rank": 75,
       "runs_rank": 13,
-      "likes_rank": 274,
-      "total_agents": 292,
-      "views_percentile": 74.0,
-      "runs_percentile": 95.5,
-      "likes_percentile": 6.2
+      "likes_rank": 222,
+      "total_agents": 297,
+      "views_percentile": 74.7,
+      "runs_percentile": 95.6,
+      "likes_percentile": 25.3
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 69,
+    "days_tracked": 70,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 63,
+    "days_tracked": 65,
     "last_7_days": {
-      "views_rank_change": 0,
+      "views_rank_change": -1,
       "runs_rank_change": -1,
-      "likes_rank_change": 5
+      "likes_rank_change": -34
     },
     "last_30_days": {
       "views_rank_change": -2,
-      "runs_rank_change": 0,
-      "likes_rank_change": 118
+      "runs_rank_change": -2,
+      "likes_rank_change": 170
     },
     "all_time": {
-      "best_views_rank": 76,
+      "best_views_rank": 75,
       "best_runs_rank": 13,
       "best_likes_rank": 34,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 76
+      "current_rank": 75
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 64,
+    "data_points": 65,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-21T08:01:03.691655",
+    "last_recorded": "2026-01-23T08:01:01.579068",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -120,7 +120,8 @@
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
         "2026-01-20T08:01:02.655733",
-        "2026-01-21T08:01:03.691655"
+        "2026-01-21T08:01:03.691655",
+        "2026-01-23T08:01:01.579068"
       ],
       "views_rank": [
         null,
@@ -186,7 +187,8 @@
         76,
         76,
         76,
-        76
+        76,
+        75
       ],
       "runs_rank": [
         null,
@@ -252,6 +254,7 @@
         14,
         14,
         14,
+        13,
         13
       ],
       "likes_rank": [
@@ -318,7 +321,8 @@
         237,
         259,
         170,
-        274
+        274,
+        222
       ]
     }
   },

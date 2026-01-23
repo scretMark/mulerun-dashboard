@@ -1,6 +1,6 @@
 {
   "agent_id": "02e698c2-c9fa-4ad8-a303-8a2065e933dc",
-  "generated_at": "2026-01-21T00:01:15.447154",
+  "generated_at": "2026-01-23T00:01:30.658244",
   "basic_info": {
     "title": "Infinite Monkey Coder",
     "author": "Ailurus",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-23T17:18:40.559000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Ailurus/infinite-monkey-coder",
-    "days_since_published": 28
+    "days_since_published": 30
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 231,
+      "views_rank": 234,
       "runs_rank": 239,
-      "likes_rank": 109,
-      "total_agents": 292,
-      "views_percentile": 20.9,
-      "runs_percentile": 18.2,
-      "likes_percentile": 62.7
+      "likes_rank": 262,
+      "total_agents": 297,
+      "views_percentile": 21.2,
+      "runs_percentile": 19.5,
+      "likes_percentile": 11.8
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 25,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 26,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 28,
+    "days_tracked": 30,
     "last_7_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": -16,
-      "likes_rank_change": 58
+      "views_rank_change": 4,
+      "runs_rank_change": -13,
+      "likes_rank_change": 44
     },
     "last_30_days": {
-      "views_rank_change": -18,
-      "runs_rank_change": null,
-      "likes_rank_change": 96
+      "views_rank_change": 2,
+      "runs_rank_change": -9,
+      "likes_rank_change": 232
     },
     "all_time": {
       "best_views_rank": 230,
@@ -47,14 +47,14 @@
       "best_likes_rank": 13,
       "days_in_top_10": 0,
       "first_rank": 249,
-      "current_rank": 231
+      "current_rank": 234
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 26,
+    "data_points": 27,
     "first_recorded": "2025-12-24T08:01:01.461546",
-    "last_recorded": "2026-01-21T08:01:03.691655",
+    "last_recorded": "2026-01-23T08:01:01.579068",
     "time_series": {
       "dates": [
         "2025-12-24T08:01:01.461546",
@@ -82,7 +82,8 @@
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
         "2026-01-20T08:01:02.655733",
-        "2026-01-21T08:01:03.691655"
+        "2026-01-21T08:01:03.691655",
+        "2026-01-23T08:01:01.579068"
       ],
       "views_rank": [
         249,
@@ -110,7 +111,8 @@
         231,
         231,
         231,
-        231
+        231,
+        234
       ],
       "runs_rank": [
         null,
@@ -138,6 +140,7 @@
         252,
         252,
         245,
+        239,
         239
       ],
       "likes_rank": [
@@ -166,7 +169,8 @@
         137,
         116,
         191,
-        109
+        109,
+        262
       ]
     }
   },
@@ -183,9 +187,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "Rising Star",
-      "description": "Improved by 18 positions in views ranking over the last 30 days - showing strong momentum!"
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #234 out of 297 active agents."
     }
   ]
 }

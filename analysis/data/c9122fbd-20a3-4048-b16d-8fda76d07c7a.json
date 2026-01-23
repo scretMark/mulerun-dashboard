@@ -1,6 +1,6 @@
 {
   "agent_id": "c9122fbd-20a3-4048-b16d-8fda76d07c7a",
-  "generated_at": "2026-01-21T00:01:15.004669",
+  "generated_at": "2026-01-23T00:01:30.237400",
   "basic_info": {
     "title": "Design your quilt",
     "author": "8bit",
@@ -11,50 +11,50 @@
     "published_at": "2025-12-09T11:20:27.693000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/design-your-quilt",
-    "days_since_published": 42
+    "days_since_published": 44
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 277,
-      "runs_rank": 241,
-      "likes_rank": 35,
-      "total_agents": 292,
-      "views_percentile": 5.1,
-      "runs_percentile": 17.5,
-      "likes_percentile": 88.0
+      "views_rank": 280,
+      "runs_rank": 243,
+      "likes_rank": 24,
+      "total_agents": 297,
+      "views_percentile": 5.7,
+      "runs_percentile": 18.2,
+      "likes_percentile": 91.9
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 41,
+    "days_tracked": 42,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 40,
+    "days_tracked": 42,
     "last_7_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": 2,
-      "likes_rank_change": -93
+      "views_rank_change": 3,
+      "runs_rank_change": 3,
+      "likes_rank_change": -52
     },
     "last_30_days": {
-      "views_rank_change": 27,
-      "runs_rank_change": 26,
-      "likes_rank_change": -13
+      "views_rank_change": null,
+      "runs_rank_change": 28,
+      "likes_rank_change": -60
     },
     "all_time": {
       "best_views_rank": 237,
       "best_runs_rank": 205,
-      "best_likes_rank": 35,
+      "best_likes_rank": 24,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 277
+      "current_rank": 280
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 41,
+    "data_points": 42,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2026-01-21T08:01:03.691655",
+    "last_recorded": "2026-01-23T08:01:01.579068",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -97,7 +97,8 @@
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
         "2026-01-20T08:01:02.655733",
-        "2026-01-21T08:01:03.691655"
+        "2026-01-21T08:01:03.691655",
+        "2026-01-23T08:01:01.579068"
       ],
       "views_rank": [
         null,
@@ -140,7 +141,8 @@
         277,
         277,
         277,
-        277
+        277,
+        280
       ],
       "runs_rank": [
         null,
@@ -183,7 +185,8 @@
         240,
         240,
         240,
-        241
+        241,
+        243
       ],
       "likes_rank": [
         null,
@@ -226,7 +229,8 @@
         51,
         46,
         37,
-        35
+        35,
+        24
       ]
     }
   },
@@ -245,12 +249,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #35 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
-    },
-    {
-      "type": "warning",
-      "title": "Declining Ranking",
-      "description": "Dropped 27 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Ranked #24 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

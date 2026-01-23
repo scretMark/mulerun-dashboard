@@ -1,6 +1,6 @@
 {
   "agent_id": "a6055106-2028-4a04-b278-4ace2a187f0e",
-  "generated_at": "2026-01-21T00:01:12.966068",
+  "generated_at": "2026-01-23T00:01:27.997419",
   "basic_info": {
     "title": "Amazing Caricature Generator",
     "author": "Darren",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-20T11:37:45.353000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/amazing-caricature-generator",
-    "days_since_published": 92
+    "days_since_published": 94
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 73,
-      "runs_rank": 57,
-      "likes_rank": 189,
-      "total_agents": 292,
-      "views_percentile": 75.0,
-      "runs_percentile": 80.5,
-      "likes_percentile": 35.3
+      "runs_rank": 55,
+      "likes_rank": 205,
+      "total_agents": 297,
+      "views_percentile": 75.4,
+      "runs_percentile": 81.5,
+      "likes_percentile": 31.0
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 90,
+    "days_tracked": 91,
     "price": 51.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 62,
+    "days_tracked": 64,
     "last_7_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": -1,
-      "likes_rank_change": 159
+      "views_rank_change": -1,
+      "runs_rank_change": -3,
+      "likes_rank_change": 181
     },
     "last_30_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": 0,
-      "likes_rank_change": 16
+      "views_rank_change": 3,
+      "runs_rank_change": -2,
+      "likes_rank_change": 194
     },
     "all_time": {
       "best_views_rank": 70,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 63,
+    "data_points": 64,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-21T08:01:03.691655",
+    "last_recorded": "2026-01-23T08:01:01.579068",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -119,7 +119,8 @@
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
         "2026-01-20T08:01:02.655733",
-        "2026-01-21T08:01:03.691655"
+        "2026-01-21T08:01:03.691655",
+        "2026-01-23T08:01:01.579068"
       ],
       "views_rank": [
         null,
@@ -183,6 +184,7 @@
         74,
         74,
         74,
+        73,
         73,
         73
       ],
@@ -249,7 +251,8 @@
         58,
         58,
         58,
-        57
+        57,
+        55
       ],
       "likes_rank": [
         null,
@@ -314,7 +317,8 @@
         207,
         164,
         173,
-        189
+        189,
+        205
       ]
     }
   },
@@ -326,7 +330,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #57 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #55 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

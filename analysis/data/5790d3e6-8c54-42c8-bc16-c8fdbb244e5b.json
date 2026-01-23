@@ -1,6 +1,6 @@
 {
   "agent_id": "5790d3e6-8c54-42c8-bc16-c8fdbb244e5b",
-  "generated_at": "2026-01-21T00:01:15.188006",
+  "generated_at": "2026-01-23T00:01:30.382580",
   "basic_info": {
     "title": "DEEPINSIGHT_Briefing",
     "author": "liang_caoqw1",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-13T21:55:32.074000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@liang_caoqw1/deepinsight-briefing",
-    "days_since_published": 38
+    "days_since_published": 40
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 126,
       "runs_rank": 81,
-      "likes_rank": 144,
-      "total_agents": 292,
-      "views_percentile": 56.8,
-      "runs_percentile": 72.3,
-      "likes_percentile": 50.7
+      "likes_rank": 251,
+      "total_agents": 297,
+      "views_percentile": 57.6,
+      "runs_percentile": 72.7,
+      "likes_percentile": 15.5
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 36,
+    "days_tracked": 37,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 35,
+    "days_tracked": 37,
     "last_7_days": {
       "views_rank_change": -1,
       "runs_rank_change": -1,
-      "likes_rank_change": 63
+      "likes_rank_change": 203
     },
     "last_30_days": {
-      "views_rank_change": -7,
-      "runs_rank_change": 4,
-      "likes_rank_change": 23
+      "views_rank_change": -5,
+      "runs_rank_change": 2,
+      "likes_rank_change": 118
     },
     "all_time": {
       "best_views_rank": 126,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 37,
+    "data_points": 38,
     "first_recorded": "2025-12-16T19:09:41.063612",
-    "last_recorded": "2026-01-21T08:01:03.691655",
+    "last_recorded": "2026-01-23T08:01:01.579068",
     "time_series": {
       "dates": [
         "2025-12-16T19:09:41.063612",
@@ -93,7 +93,8 @@
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
         "2026-01-20T08:01:02.655733",
-        "2026-01-21T08:01:03.691655"
+        "2026-01-21T08:01:03.691655",
+        "2026-01-23T08:01:01.579068"
       ],
       "views_rank": [
         null,
@@ -132,6 +133,7 @@
         128,
         128,
         129,
+        126,
         126
       ],
       "runs_rank": [
@@ -171,6 +173,7 @@
         82,
         82,
         82,
+        81,
         81
       ],
       "likes_rank": [
@@ -210,7 +213,8 @@
         28,
         25,
         18,
-        144
+        144,
+        251
       ]
     }
   },
@@ -229,7 +233,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #126 out of 292 active agents."
+      "description": "This agent is currently ranked #126 out of 297 active agents."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "6d852596-ca92-4086-9fcb-4da9c8ece17e",
-  "generated_at": "2026-01-21T00:01:14.617155",
+  "generated_at": "2026-01-23T00:01:29.794613",
   "basic_info": {
     "title": "Banana Pro Canvas",
     "author": "Aronlong",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-20T20:11:49.993000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aronlong/banana-pro-canvas",
-    "days_since_published": 61
+    "days_since_published": 63
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 58,
       "runs_rank": 70,
-      "likes_rank": 246,
-      "total_agents": 292,
-      "views_percentile": 80.1,
-      "runs_percentile": 76.0,
-      "likes_percentile": 15.8
+      "likes_rank": 295,
+      "total_agents": 297,
+      "views_percentile": 80.5,
+      "runs_percentile": 76.4,
+      "likes_percentile": 0.7
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 54,
+    "days_tracked": 55,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 58,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 1,
-      "likes_rank_change": 215
+      "likes_rank_change": 128
     },
     "last_30_days": {
       "views_rank_change": -8,
       "runs_rank_change": 3,
-      "likes_rank_change": 232
+      "likes_rank_change": 240
     },
     "all_time": {
       "best_views_rank": 58,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 54,
+    "data_points": 55,
     "first_recorded": "2025-11-26T08:00:32.046352",
-    "last_recorded": "2026-01-21T08:01:03.691655",
+    "last_recorded": "2026-01-23T08:01:01.579068",
     "time_series": {
       "dates": [
         "2025-11-26T08:00:32.046352",
@@ -110,7 +110,8 @@
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
         "2026-01-20T08:01:02.655733",
-        "2026-01-21T08:01:03.691655"
+        "2026-01-21T08:01:03.691655",
+        "2026-01-23T08:01:01.579068"
       ],
       "views_rank": [
         null,
@@ -155,6 +156,7 @@
         63,
         62,
         61,
+        58,
         58,
         58,
         58,
@@ -222,6 +224,7 @@
         70,
         70,
         70,
+        70,
         70
       ],
       "likes_rank": [
@@ -278,7 +281,8 @@
         178,
         144,
         181,
-        246
+        246,
+        295
       ]
     }
   },

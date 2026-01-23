@@ -1,6 +1,6 @@
 {
   "agent_id": "f4452c07-4e3b-4f7e-a76f-6f08d2199113",
-  "generated_at": "2026-01-21T00:01:15.683898",
+  "generated_at": "2026-01-23T00:01:30.884224",
   "basic_info": {
     "title": "Rank Quest",
     "author": "favourite",
@@ -11,50 +11,50 @@
     "published_at": "2025-12-30T11:16:33.492000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@favourite/rank-quest-2",
-    "days_since_published": 21
+    "days_since_published": 23
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 202,
-      "runs_rank": 160,
-      "likes_rank": 54,
-      "total_agents": 292,
-      "views_percentile": 30.8,
-      "runs_percentile": 45.2,
-      "likes_percentile": 81.5
+      "views_rank": 201,
+      "runs_rank": 157,
+      "likes_rank": 221,
+      "total_agents": 297,
+      "views_percentile": 32.3,
+      "runs_percentile": 47.1,
+      "likes_percentile": 25.6
     },
-    "tier": "High",
-    "tier_class": "high",
-    "days_tracked": 18,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 19,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 15,
+    "days_tracked": 17,
     "last_7_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": 2,
-      "likes_rank_change": -52
+      "views_rank_change": -1,
+      "runs_rank_change": -1,
+      "likes_rank_change": 65
     },
     "last_30_days": {
-      "views_rank_change": -9,
-      "runs_rank_change": -3,
-      "likes_rank_change": -59
+      "views_rank_change": -10,
+      "runs_rank_change": -6,
+      "likes_rank_change": 108
     },
     "all_time": {
-      "best_views_rank": 202,
+      "best_views_rank": 201,
       "best_runs_rank": 157,
       "best_likes_rank": 54,
       "days_in_top_10": 0,
       "first_rank": 211,
-      "current_rank": 202
+      "current_rank": 201
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 16,
+    "data_points": 17,
     "first_recorded": "2026-01-05T08:01:10.022221",
-    "last_recorded": "2026-01-21T08:01:03.691655",
+    "last_recorded": "2026-01-23T08:01:01.579068",
     "time_series": {
       "dates": [
         "2026-01-05T08:01:10.022221",
@@ -72,7 +72,8 @@
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
         "2026-01-20T08:01:02.655733",
-        "2026-01-21T08:01:03.691655"
+        "2026-01-21T08:01:03.691655",
+        "2026-01-23T08:01:01.579068"
       ],
       "views_rank": [
         211,
@@ -90,7 +91,8 @@
         202,
         202,
         202,
-        202
+        202,
+        201
       ],
       "runs_rank": [
         163,
@@ -108,7 +110,8 @@
         159,
         159,
         160,
-        160
+        160,
+        157
       ],
       "likes_rank": [
         113,
@@ -126,7 +129,8 @@
         82,
         75,
         61,
-        54
+        54,
+        221
       ]
     }
   },
@@ -143,9 +147,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "High Performer",
-      "description": "Ranked #54 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #201 out of 297 active agents."
     }
   ]
 }

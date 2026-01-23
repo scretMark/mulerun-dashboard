@@ -1,6 +1,6 @@
 {
   "agent_id": "c16d3179-561b-4c4c-8fca-632da002faad",
-  "generated_at": "2026-01-21T00:01:12.588015",
+  "generated_at": "2026-01-23T00:01:27.635241",
   "basic_info": {
     "title": "A nine-grid of headshots",
     "author": "laughing_code",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-28T13:13:34.793000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@laughing_code/a-nine-grid-of-headshots",
-    "days_since_published": 114
+    "days_since_published": 116
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 64,
       "runs_rank": 69,
-      "likes_rank": 240,
-      "total_agents": 292,
-      "views_percentile": 78.1,
-      "runs_percentile": 76.4,
-      "likes_percentile": 17.8
+      "likes_rank": 115,
+      "total_agents": 297,
+      "views_percentile": 78.5,
+      "runs_percentile": 76.8,
+      "likes_percentile": 61.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 114,
+    "days_tracked": 115,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 62,
+    "days_tracked": 64,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 1,
-      "likes_rank_change": 137
+      "likes_rank_change": -155
     },
     "last_30_days": {
-      "views_rank_change": 6,
+      "views_rank_change": 4,
       "runs_rank_change": 3,
-      "likes_rank_change": 100
+      "likes_rank_change": -20
     },
     "all_time": {
       "best_views_rank": 58,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 63,
+    "data_points": 64,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-21T08:01:03.691655",
+    "last_recorded": "2026-01-23T08:01:01.579068",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -119,7 +119,8 @@
         "2026-01-18T08:01:02.155238",
         "2026-01-19T08:01:06.429153",
         "2026-01-20T08:01:02.655733",
-        "2026-01-21T08:01:03.691655"
+        "2026-01-21T08:01:03.691655",
+        "2026-01-23T08:01:01.579068"
       ],
       "views_rank": [
         null,
@@ -180,6 +181,7 @@
         63,
         63,
         63,
+        64,
         64,
         64,
         64,
@@ -249,6 +251,7 @@
         69,
         69,
         69,
+        69,
         69
       ],
       "likes_rank": [
@@ -314,7 +317,8 @@
         206,
         163,
         197,
-        240
+        240,
+        115
       ]
     }
   },
@@ -326,7 +330,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #64 out of 292 active agents."
+      "description": "This agent is currently ranked #64 out of 297 active agents."
     }
   ]
 }
