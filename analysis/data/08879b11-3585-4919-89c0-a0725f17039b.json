@@ -1,6 +1,6 @@
 {
   "agent_id": "08879b11-3585-4919-89c0-a0725f17039b",
-  "generated_at": "2026-01-23T00:01:28.221542",
+  "generated_at": "2026-01-24T00:01:15.306018",
   "basic_info": {
     "title": "Amazon Product Search",
     "author": "createAny",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-13T18:19:42.979000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@createAny/amazon-product-search",
-    "days_since_published": 101
+    "days_since_published": 102
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 127,
       "runs_rank": 137,
-      "likes_rank": 209,
-      "total_agents": 297,
-      "views_percentile": 57.2,
-      "runs_percentile": 53.9,
-      "likes_percentile": 29.6
+      "likes_rank": 246,
+      "total_agents": 298,
+      "views_percentile": 57.4,
+      "runs_percentile": 54.0,
+      "likes_percentile": 17.4
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 96,
+    "days_tracked": 97,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 64,
+    "days_tracked": 65,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 3,
-      "likes_rank_change": 184
+      "likes_rank_change": 227
     },
     "last_30_days": {
       "views_rank_change": -16,
       "runs_rank_change": 5,
-      "likes_rank_change": 199
+      "likes_rank_change": 232
     },
     "all_time": {
       "best_views_rank": 126,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 64,
+    "data_points": 65,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-23T08:01:01.579068",
+    "last_recorded": "2026-01-24T08:01:00.990153",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -120,7 +120,8 @@
         "2026-01-19T08:01:06.429153",
         "2026-01-20T08:01:02.655733",
         "2026-01-21T08:01:03.691655",
-        "2026-01-23T08:01:01.579068"
+        "2026-01-23T08:01:01.579068",
+        "2026-01-24T08:01:00.990153"
       ],
       "views_rank": [
         null,
@@ -186,6 +187,7 @@
         126,
         126,
         129,
+        127,
         127
       ],
       "runs_rank": [
@@ -252,6 +254,7 @@
         135,
         135,
         136,
+        137,
         137
       ],
       "likes_rank": [
@@ -318,7 +321,8 @@
         15,
         11,
         11,
-        209
+        209,
+        246
       ]
     }
   },

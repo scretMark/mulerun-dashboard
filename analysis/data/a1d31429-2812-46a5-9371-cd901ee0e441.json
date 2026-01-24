@@ -1,6 +1,6 @@
 {
   "agent_id": "a1d31429-2812-46a5-9371-cd901ee0e441",
-  "generated_at": "2026-01-23T00:01:29.598746",
+  "generated_at": "2026-01-24T00:01:16.638143",
   "basic_info": {
     "title": "SpeechMeme",
     "author": "AllenCreator",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-13T15:47:08.063000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AllenCreator/speehmeme",
-    "days_since_published": 101
+    "days_since_published": 102
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 203,
-      "runs_rank": 272,
-      "likes_rank": 201,
-      "total_agents": 297,
-      "views_percentile": 31.6,
+      "runs_rank": 273,
+      "likes_rank": 155,
+      "total_agents": 298,
+      "views_percentile": 31.9,
       "runs_percentile": 8.4,
-      "likes_percentile": 32.3
+      "likes_percentile": 48.0
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 86,
+    "days_tracked": 87,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 64,
+    "days_tracked": 65,
     "last_7_days": {
       "views_rank_change": 2,
-      "runs_rank_change": 5,
-      "likes_rank_change": 166
+      "runs_rank_change": 6,
+      "likes_rank_change": 130
     },
     "last_30_days": {
       "views_rank_change": 11,
-      "runs_rank_change": 29,
-      "likes_rank_change": 57
+      "runs_rank_change": 26,
+      "likes_rank_change": 6
     },
     "all_time": {
       "best_views_rank": 187,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 64,
+    "data_points": 65,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-23T08:01:01.579068",
+    "last_recorded": "2026-01-24T08:01:00.990153",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -120,7 +120,8 @@
         "2026-01-19T08:01:06.429153",
         "2026-01-20T08:01:02.655733",
         "2026-01-21T08:01:03.691655",
-        "2026-01-23T08:01:01.579068"
+        "2026-01-23T08:01:01.579068",
+        "2026-01-24T08:01:00.990153"
       ],
       "views_rank": [
         null,
@@ -186,6 +187,7 @@
         201,
         201,
         201,
+        203,
         203
       ],
       "runs_rank": [
@@ -252,7 +254,8 @@
         267,
         268,
         268,
-        272
+        272,
+        273
       ],
       "likes_rank": [
         null,
@@ -318,7 +321,8 @@
         21,
         14,
         14,
-        201
+        201,
+        155
       ]
     }
   },

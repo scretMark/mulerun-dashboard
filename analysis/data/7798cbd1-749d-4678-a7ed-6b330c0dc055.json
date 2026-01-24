@@ -1,6 +1,6 @@
 {
   "agent_id": "7798cbd1-749d-4678-a7ed-6b330c0dc055",
-  "generated_at": "2026-01-23T00:01:31.029837",
+  "generated_at": "2026-01-24T00:01:17.977368",
   "basic_info": {
     "title": "VibeCrat-Pro",
     "author": "Kaif-Qureshi",
@@ -11,54 +11,66 @@
     "published_at": "2026-01-21T23:35:51.262000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Kaif-Qureshi/rgsgrd",
-    "days_since_published": 1
+    "days_since_published": 2
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 285,
-      "runs_rank": 283,
-      "likes_rank": 264,
-      "total_agents": 297,
+      "views_rank": 286,
+      "runs_rank": 284,
+      "likes_rank": 201,
+      "total_agents": 298,
       "views_percentile": 4.0,
       "runs_percentile": 4.7,
-      "likes_percentile": 11.1
+      "likes_percentile": 32.6
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 0,
+    "days_tracked": 1,
     "price": 15.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 0,
-    "last_7_days": {},
-    "last_30_days": {},
+    "days_tracked": 1,
+    "last_7_days": {
+      "views_rank_change": 1,
+      "runs_rank_change": 1,
+      "likes_rank_change": -63
+    },
+    "last_30_days": {
+      "views_rank_change": 1,
+      "runs_rank_change": 1,
+      "likes_rank_change": -63
+    },
     "all_time": {
       "best_views_rank": 285,
       "best_runs_rank": 283,
-      "best_likes_rank": 264,
+      "best_likes_rank": 201,
       "days_in_top_10": 0,
       "first_rank": 285,
-      "current_rank": 285
+      "current_rank": 286
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 1,
+    "data_points": 2,
     "first_recorded": "2026-01-23T08:01:01.579068",
-    "last_recorded": "2026-01-23T08:01:01.579068",
+    "last_recorded": "2026-01-24T08:01:00.990153",
     "time_series": {
       "dates": [
-        "2026-01-23T08:01:01.579068"
+        "2026-01-23T08:01:01.579068",
+        "2026-01-24T08:01:00.990153"
       ],
       "views_rank": [
-        285
+        285,
+        286
       ],
       "runs_rank": [
-        283
+        283,
+        284
       ],
       "likes_rank": [
-        264
+        264,
+        201
       ]
     }
   },
@@ -77,7 +89,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #285 out of 297 active agents."
+      "description": "This agent is currently ranked #286 out of 298 active agents."
     }
   ]
 }

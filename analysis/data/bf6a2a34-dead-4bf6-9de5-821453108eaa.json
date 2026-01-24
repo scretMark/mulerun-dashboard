@@ -1,6 +1,6 @@
 {
   "agent_id": "bf6a2a34-dead-4bf6-9de5-821453108eaa",
-  "generated_at": "2026-01-23T00:01:27.213213",
+  "generated_at": "2026-01-24T00:01:14.223010",
   "basic_info": {
     "title": "ProHeadshot Studio",
     "author": "Darren",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-20T11:36:43.297000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/proheadshot-studio",
-    "days_since_published": 94
+    "days_since_published": 95
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 39,
-      "runs_rank": 46,
-      "likes_rank": 235,
-      "total_agents": 297,
+      "runs_rank": 45,
+      "likes_rank": 273,
+      "total_agents": 298,
       "views_percentile": 86.9,
-      "runs_percentile": 84.5,
-      "likes_percentile": 20.9
+      "runs_percentile": 84.9,
+      "likes_percentile": 8.4
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 91,
+    "days_tracked": 92,
     "price": 51.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 64,
+    "days_tracked": 65,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 3,
-      "likes_rank_change": 217
+      "runs_rank_change": 2,
+      "likes_rank_change": -12
     },
     "last_30_days": {
       "views_rank_change": 2,
-      "runs_rank_change": 2,
-      "likes_rank_change": 8
+      "runs_rank_change": 1,
+      "likes_rank_change": 43
     },
     "all_time": {
       "best_views_rank": 37,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 64,
+    "data_points": 65,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-23T08:01:01.579068",
+    "last_recorded": "2026-01-24T08:01:00.990153",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -120,7 +120,8 @@
         "2026-01-19T08:01:06.429153",
         "2026-01-20T08:01:02.655733",
         "2026-01-21T08:01:03.691655",
-        "2026-01-23T08:01:01.579068"
+        "2026-01-23T08:01:01.579068",
+        "2026-01-24T08:01:00.990153"
       ],
       "views_rank": [
         null,
@@ -177,6 +178,7 @@
         39,
         39,
         38,
+        39,
         39,
         39,
         39,
@@ -252,7 +254,8 @@
         43,
         45,
         46,
-        46
+        46,
+        45
       ],
       "likes_rank": [
         null,
@@ -318,7 +321,8 @@
         246,
         211,
         174,
-        235
+        235,
+        273
       ]
     }
   },

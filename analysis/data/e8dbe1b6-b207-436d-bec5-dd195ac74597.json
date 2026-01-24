@@ -1,6 +1,6 @@
 {
   "agent_id": "e8dbe1b6-b207-436d-bec5-dd195ac74597",
-  "generated_at": "2026-01-23T00:01:29.087358",
+  "generated_at": "2026-01-24T00:01:16.176987",
   "basic_info": {
     "title": "Change Multiple Hairstyles",
     "author": "Darren",
@@ -11,40 +11,40 @@
     "published_at": "2025-10-20T11:33:47.987000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/change-multiple-hairstyles",
-    "days_since_published": 94
+    "days_since_published": 95
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 110,
       "runs_rank": 110,
-      "likes_rank": 72,
-      "total_agents": 297,
-      "views_percentile": 63.0,
-      "runs_percentile": 63.0,
-      "likes_percentile": 75.8
+      "likes_rank": 66,
+      "total_agents": 298,
+      "views_percentile": 63.1,
+      "runs_percentile": 63.1,
+      "likes_percentile": 77.9
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 91,
+    "days_tracked": 92,
     "price": 51.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 64,
+    "days_tracked": 65,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 2,
-      "likes_rank_change": -175
+      "likes_rank_change": -67
     },
     "last_30_days": {
       "views_rank_change": 8,
       "runs_rank_change": 7,
-      "likes_rank_change": -140
+      "likes_rank_change": -152
     },
     "all_time": {
       "best_views_rank": 99,
       "best_runs_rank": 101,
-      "best_likes_rank": 72,
+      "best_likes_rank": 66,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 110
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 64,
+    "data_points": 65,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-23T08:01:01.579068",
+    "last_recorded": "2026-01-24T08:01:00.990153",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -120,7 +120,8 @@
         "2026-01-19T08:01:06.429153",
         "2026-01-20T08:01:02.655733",
         "2026-01-21T08:01:03.691655",
-        "2026-01-23T08:01:01.579068"
+        "2026-01-23T08:01:01.579068",
+        "2026-01-24T08:01:00.990153"
       ],
       "views_rank": [
         null,
@@ -186,6 +187,7 @@
         109,
         109,
         109,
+        110,
         110
       ],
       "runs_rank": [
@@ -250,6 +252,7 @@
         108,
         108,
         108,
+        110,
         110,
         110,
         110
@@ -318,7 +321,8 @@
         155,
         175,
         104,
-        72
+        72,
+        66
       ]
     }
   },
@@ -330,7 +334,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #110 out of 297 active agents."
+      "description": "This agent is currently ranked #110 out of 298 active agents."
     }
   ]
 }

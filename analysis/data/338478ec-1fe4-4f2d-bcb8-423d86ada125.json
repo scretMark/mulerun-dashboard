@@ -1,6 +1,6 @@
 {
   "agent_id": "338478ec-1fe4-4f2d-bcb8-423d86ada125",
-  "generated_at": "2026-01-23T00:01:28.443818",
+  "generated_at": "2026-01-24T00:01:15.525573",
   "basic_info": {
     "title": "Halloween Popcorn",
     "author": "Lucas",
@@ -11,40 +11,40 @@
     "published_at": "2025-10-29T22:12:35.458000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/halloween-popcorn",
-    "days_since_published": 85
+    "days_since_published": 86
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 111,
       "runs_rank": 104,
-      "likes_rank": 9,
-      "total_agents": 297,
-      "views_percentile": 62.6,
-      "runs_percentile": 65.0,
-      "likes_percentile": 97.0
+      "likes_rank": 8,
+      "total_agents": 298,
+      "views_percentile": 62.8,
+      "runs_percentile": 65.1,
+      "likes_percentile": 97.3
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 83,
+    "days_tracked": 84,
     "price": 49.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 64,
+    "days_tracked": 65,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 4,
-      "likes_rank_change": -33
+      "runs_rank_change": 3,
+      "likes_rank_change": -21
     },
     "last_30_days": {
-      "views_rank_change": 3,
+      "views_rank_change": 4,
       "runs_rank_change": 9,
-      "likes_rank_change": -165
+      "likes_rank_change": -175
     },
     "all_time": {
       "best_views_rank": 102,
       "best_runs_rank": 94,
-      "best_likes_rank": 9,
+      "best_likes_rank": 8,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 111
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 64,
+    "data_points": 65,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-23T08:01:01.579068",
+    "last_recorded": "2026-01-24T08:01:00.990153",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -120,7 +120,8 @@
         "2026-01-19T08:01:06.429153",
         "2026-01-20T08:01:02.655733",
         "2026-01-21T08:01:03.691655",
-        "2026-01-23T08:01:01.579068"
+        "2026-01-23T08:01:01.579068",
+        "2026-01-24T08:01:00.990153"
       ],
       "views_rank": [
         null,
@@ -173,6 +174,7 @@
         108,
         108,
         110,
+        111,
         111,
         111,
         111,
@@ -252,6 +254,7 @@
         102,
         102,
         102,
+        104,
         104
       ],
       "likes_rank": [
@@ -318,7 +321,8 @@
         23,
         16,
         15,
-        9
+        9,
+        8
       ]
     }
   },
@@ -330,7 +334,7 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #9 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #8 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "dd39eb4e-4dfc-4410-90ef-6f429e767453",
-  "generated_at": "2026-01-23T00:01:29.957722",
+  "generated_at": "2026-01-24T00:01:16.926706",
   "basic_info": {
     "title": "Christmas Studio",
     "author": "DENNIS",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-04T09:23:54.267000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@DENNIS/christmas-studio",
-    "days_since_published": 49
+    "days_since_published": 50
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 198,
       "runs_rank": 155,
-      "likes_rank": 38,
-      "total_agents": 297,
-      "views_percentile": 33.3,
-      "runs_percentile": 47.8,
-      "likes_percentile": 87.2
+      "likes_rank": 37,
+      "total_agents": 298,
+      "views_percentile": 33.6,
+      "runs_percentile": 48.0,
+      "likes_percentile": 87.6
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 48,
+    "days_tracked": 49,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 45,
+    "days_tracked": 46,
     "last_7_days": {
-      "views_rank_change": 4,
-      "runs_rank_change": 4,
-      "likes_rank_change": -122
+      "views_rank_change": 3,
+      "runs_rank_change": 3,
+      "likes_rank_change": -61
     },
     "last_30_days": {
       "views_rank_change": 4,
-      "runs_rank_change": 5,
-      "likes_rank_change": -32
+      "runs_rank_change": 6,
+      "likes_rank_change": -49
     },
     "all_time": {
       "best_views_rank": 192,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 47,
+    "data_points": 48,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2026-01-23T08:01:01.579068",
+    "last_recorded": "2026-01-24T08:01:00.990153",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -103,7 +103,8 @@
         "2026-01-19T08:01:06.429153",
         "2026-01-20T08:01:02.655733",
         "2026-01-21T08:01:03.691655",
-        "2026-01-23T08:01:01.579068"
+        "2026-01-23T08:01:01.579068",
+        "2026-01-24T08:01:00.990153"
       ],
       "views_rank": [
         null,
@@ -152,6 +153,7 @@
         195,
         196,
         196,
+        198,
         198
       ],
       "runs_rank": [
@@ -201,6 +203,7 @@
         152,
         153,
         153,
+        155,
         155
       ],
       "likes_rank": [
@@ -250,7 +253,8 @@
         77,
         62,
         55,
-        38
+        38,
+        37
       ]
     }
   },
@@ -269,7 +273,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #38 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #37 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

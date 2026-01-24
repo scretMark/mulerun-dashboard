@@ -1,6 +1,6 @@
 {
   "agent_id": "35025bdc-16fa-44b5-a613-224ca7a871ea",
-  "generated_at": "2026-01-23T00:01:27.444188",
+  "generated_at": "2026-01-24T00:01:14.481363",
   "basic_info": {
     "title": "Portraitify AI",
     "author": "DENNIS",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-28T15:03:29.770000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@DENNIS/portraitify-ai",
-    "days_since_published": 116
+    "days_since_published": 117
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 84,
       "runs_rank": 84,
-      "likes_rank": 208,
-      "total_agents": 297,
-      "views_percentile": 71.7,
-      "runs_percentile": 71.7,
-      "likes_percentile": 30.0
+      "likes_rank": 284,
+      "total_agents": 298,
+      "views_percentile": 71.8,
+      "runs_percentile": 71.8,
+      "likes_percentile": 4.7
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 112,
+    "days_tracked": 113,
     "price": 100.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 64,
+    "days_tracked": 65,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": 163
+      "likes_rank_change": 42
     },
     "last_30_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 6,
-      "likes_rank_change": 171
+      "runs_rank_change": 5,
+      "likes_rank_change": 238
     },
     "all_time": {
       "best_views_rank": 82,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 64,
+    "data_points": 65,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-23T08:01:01.579068",
+    "last_recorded": "2026-01-24T08:01:00.990153",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -120,7 +120,8 @@
         "2026-01-19T08:01:06.429153",
         "2026-01-20T08:01:02.655733",
         "2026-01-21T08:01:03.691655",
-        "2026-01-23T08:01:01.579068"
+        "2026-01-23T08:01:01.579068",
+        "2026-01-24T08:01:00.990153"
       ],
       "views_rank": [
         null,
@@ -163,6 +164,7 @@
         82,
         83,
         83,
+        84,
         84,
         84,
         84,
@@ -252,6 +254,7 @@
         84,
         84,
         84,
+        84,
         84
       ],
       "likes_rank": [
@@ -318,7 +321,8 @@
         224,
         128,
         186,
-        208
+        208,
+        284
       ]
     }
   },
@@ -330,7 +334,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #84 out of 297 active agents."
+      "description": "This agent is currently ranked #84 out of 298 active agents."
     }
   ]
 }

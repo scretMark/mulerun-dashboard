@@ -1,6 +1,6 @@
 {
   "agent_id": "8db001f9-28ff-4b9a-8337-e7d5f025fd7f",
-  "generated_at": "2026-01-23T00:01:27.125252",
+  "generated_at": "2026-01-24T00:01:14.132850",
   "basic_info": {
     "title": "YouTube Thumbnail",
     "author": "summerail",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-09T16:48:38.136000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/youtube-thumbnail",
-    "days_since_published": 105
+    "days_since_published": 106
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 37,
       "runs_rank": 47,
-      "likes_rank": 233,
-      "total_agents": 297,
-      "views_percentile": 87.5,
+      "likes_rank": 275,
+      "total_agents": 298,
+      "views_percentile": 87.6,
       "runs_percentile": 84.2,
-      "likes_percentile": 21.5
+      "likes_percentile": 7.7
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 84,
+    "days_tracked": 85,
     "price": 30.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 65,
+    "days_tracked": 66,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 3,
-      "likes_rank_change": -19
+      "likes_rank_change": 30
     },
     "last_30_days": {
       "views_rank_change": 1,
       "runs_rank_change": 4,
-      "likes_rank_change": 18
+      "likes_rank_change": 49
     },
     "all_time": {
       "best_views_rank": 34,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 65,
+    "data_points": 66,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-23T08:01:01.579068",
+    "last_recorded": "2026-01-24T08:01:00.990153",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -121,7 +121,8 @@
         "2026-01-19T08:01:06.429153",
         "2026-01-20T08:01:02.655733",
         "2026-01-21T08:01:03.691655",
-        "2026-01-23T08:01:01.579068"
+        "2026-01-23T08:01:01.579068",
+        "2026-01-24T08:01:00.990153"
       ],
       "views_rank": [
         null,
@@ -180,6 +181,7 @@
         35,
         36,
         36,
+        37,
         37,
         37,
         37,
@@ -255,6 +257,7 @@
         45,
         46,
         47,
+        47,
         47
       ],
       "likes_rank": [
@@ -322,7 +325,8 @@
         248,
         260,
         233,
-        233
+        233,
+        275
       ]
     }
   },
