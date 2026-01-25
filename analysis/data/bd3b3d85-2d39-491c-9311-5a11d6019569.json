@@ -1,6 +1,6 @@
 {
   "agent_id": "bd3b3d85-2d39-491c-9311-5a11d6019569",
-  "generated_at": "2026-01-24T00:01:17.591383",
+  "generated_at": "2026-01-25T00:01:12.701084",
   "basic_info": {
     "title": "Serene Calm - Sounds and Meditation Experience",
     "author": "Serenetech",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-19T18:30:49.675000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Serenetech/serene-calm-sounds-and-meditation-experience",
-    "days_since_published": 35
+    "days_since_published": 36
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 230,
       "runs_rank": 43,
-      "likes_rank": 193,
+      "likes_rank": 229,
       "total_agents": 298,
       "views_percentile": 22.8,
       "runs_percentile": 85.6,
-      "likes_percentile": 35.2
+      "likes_percentile": 23.2
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 28,
+    "days_tracked": 29,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 32,
+    "days_tracked": 33,
     "last_7_days": {
-      "views_rank_change": -6,
+      "views_rank_change": -8,
       "runs_rank_change": -9,
-      "likes_rank_change": 44
+      "likes_rank_change": 115
     },
     "last_30_days": {
-      "views_rank_change": -7,
-      "runs_rank_change": -160,
-      "likes_rank_change": -55
+      "views_rank_change": -11,
+      "runs_rank_change": -112,
+      "likes_rank_change": null
     },
     "all_time": {
       "best_views_rank": 230,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 29,
+    "data_points": 30,
     "first_recorded": "2025-12-23T08:00:59.635142",
-    "last_recorded": "2026-01-24T08:01:00.990153",
+    "last_recorded": "2026-01-25T08:01:00.718016",
     "time_series": {
       "dates": [
         "2025-12-23T08:00:59.635142",
@@ -85,7 +85,8 @@
         "2026-01-20T08:01:02.655733",
         "2026-01-21T08:01:03.691655",
         "2026-01-23T08:01:01.579068",
-        "2026-01-24T08:01:00.990153"
+        "2026-01-24T08:01:00.990153",
+        "2026-01-25T08:01:00.718016"
       ],
       "views_rank": [
         null,
@@ -115,6 +116,7 @@
         239,
         234,
         233,
+        230,
         230,
         230
       ],
@@ -147,6 +149,7 @@
         48,
         44,
         43,
+        43,
         43
       ],
       "likes_rank": [
@@ -178,7 +181,8 @@
         162,
         286,
         289,
-        193
+        193,
+        229
       ]
     }
   },
@@ -201,13 +205,18 @@
     },
     {
       "type": "positive",
+      "title": "Rising Star",
+      "description": "Improved by 11 positions in views ranking over the last 30 days - showing strong momentum!"
+    },
+    {
+      "type": "positive",
       "title": "Growing Usage",
-      "description": "Runs ranking improved by 160 positions in the last 30 days - users are actively engaging with this agent!"
+      "description": "Runs ranking improved by 112 positions in the last 30 days - users are actively engaging with this agent!"
     },
     {
       "type": "positive",
       "title": "Hot Trend",
-      "description": "Up 6 positions in just 7 days - currently trending and gaining rapid visibility!"
+      "description": "Up 8 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "f56917c6-0924-40c4-9434-62da019bfdfb",
-  "generated_at": "2026-01-24T00:01:15.438870",
+  "generated_at": "2026-01-25T00:01:10.664398",
   "basic_info": {
     "title": "HairStyle AI",
     "author": "HongwuQz",
@@ -11,30 +11,30 @@
     "published_at": "2025-09-20T05:08:42.924000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@HongwuQz/hairstyle-ai",
-    "days_since_published": 125
+    "days_since_published": 126
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 56,
       "runs_rank": 61,
-      "likes_rank": 227,
+      "likes_rank": 249,
       "total_agents": 298,
       "views_percentile": 81.2,
       "runs_percentile": 79.5,
-      "likes_percentile": 23.8
+      "likes_percentile": 16.4
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 119,
+    "days_tracked": 120,
     "price": 26.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 65,
+    "days_tracked": 66,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 1,
-      "likes_rank_change": -41
+      "likes_rank_change": 61
     },
     "last_30_days": {
       "views_rank_change": 1,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 65,
+    "data_points": 66,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-24T08:01:00.990153",
+    "last_recorded": "2026-01-25T08:01:00.718016",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -121,7 +121,8 @@
         "2026-01-20T08:01:02.655733",
         "2026-01-21T08:01:03.691655",
         "2026-01-23T08:01:01.579068",
-        "2026-01-24T08:01:00.990153"
+        "2026-01-24T08:01:00.990153",
+        "2026-01-25T08:01:00.718016"
       ],
       "views_rank": [
         null,
@@ -171,6 +172,7 @@
         55,
         55,
         55,
+        56,
         56,
         56,
         56,
@@ -255,6 +257,7 @@
         61,
         61,
         61,
+        61,
         61
       ],
       "likes_rank": [
@@ -322,7 +325,8 @@
         124,
         254,
         119,
-        227
+        227,
+        249
       ]
     }
   },

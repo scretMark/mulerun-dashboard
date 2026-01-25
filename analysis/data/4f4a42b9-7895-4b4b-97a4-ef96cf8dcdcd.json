@@ -1,6 +1,6 @@
 {
   "agent_id": "4f4a42b9-7895-4b4b-97a4-ef96cf8dcdcd",
-  "generated_at": "2026-01-24T00:01:15.032376",
+  "generated_at": "2026-01-25T00:01:10.317849",
   "basic_info": {
     "title": "YouTube All Languages Subtitles",
     "author": "Darren",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-10T20:41:02.236000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/youtube-all-languages-subtitles",
-    "days_since_published": 105
+    "days_since_published": 106
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 169,
       "runs_rank": 208,
-      "likes_rank": 104,
+      "likes_rank": 86,
       "total_agents": 298,
       "views_percentile": 43.3,
       "runs_percentile": 30.2,
-      "likes_percentile": 65.1
+      "likes_percentile": 71.1
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 99,
+    "days_tracked": 100,
     "price": 38.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 65,
+    "days_tracked": 66,
     "last_7_days": {
-      "views_rank_change": 2,
+      "views_rank_change": 3,
       "runs_rank_change": 2,
-      "likes_rank_change": -39
+      "likes_rank_change": -157
     },
     "last_30_days": {
       "views_rank_change": 10,
-      "runs_rank_change": 19,
-      "likes_rank_change": -129
+      "runs_rank_change": 14,
+      "likes_rank_change": -152
     },
     "all_time": {
       "best_views_rank": 153,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 65,
+    "data_points": 66,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-24T08:01:00.990153",
+    "last_recorded": "2026-01-25T08:01:00.718016",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -121,7 +121,8 @@
         "2026-01-20T08:01:02.655733",
         "2026-01-21T08:01:03.691655",
         "2026-01-23T08:01:01.579068",
-        "2026-01-24T08:01:00.990153"
+        "2026-01-24T08:01:00.990153",
+        "2026-01-25T08:01:00.718016"
       ],
       "views_rank": [
         null,
@@ -188,6 +189,7 @@
         168,
         168,
         168,
+        169,
         169
       ],
       "runs_rank": [
@@ -254,6 +256,7 @@
         206,
         205,
         206,
+        208,
         208,
         208
       ],
@@ -322,7 +325,8 @@
         159,
         138,
         125,
-        104
+        104,
+        86
       ]
     }
   },

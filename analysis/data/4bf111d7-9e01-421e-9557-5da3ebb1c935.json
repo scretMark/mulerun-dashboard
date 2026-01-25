@@ -1,6 +1,6 @@
 {
   "agent_id": "4bf111d7-9e01-421e-9557-5da3ebb1c935",
-  "generated_at": "2026-01-24T00:01:16.754849",
+  "generated_at": "2026-01-25T00:01:11.890193",
   "basic_info": {
     "title": " Hand-Drawn Doodle Ads Generator",
     "author": "Aronlong",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-16T10:03:28.847000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aronlong/hand-drawn-doodle-ads-generator",
-    "days_since_published": 68
+    "days_since_published": 69
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 214,
       "runs_rank": 140,
-      "likes_rank": 208,
+      "likes_rank": 165,
       "total_agents": 298,
       "views_percentile": 28.2,
       "runs_percentile": 53.0,
-      "likes_percentile": 30.2
+      "likes_percentile": 44.6
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 64,
+    "days_tracked": 65,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 63,
+    "days_tracked": 64,
     "last_7_days": {
       "views_rank_change": 4,
       "runs_rank_change": 3,
-      "likes_rank_change": 203
+      "likes_rank_change": 160
     },
     "last_30_days": {
-      "views_rank_change": 12,
-      "runs_rank_change": 14,
-      "likes_rank_change": 191
+      "views_rank_change": 10,
+      "runs_rank_change": 12,
+      "likes_rank_change": 149
     },
     "all_time": {
       "best_views_rank": 198,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 63,
+    "data_points": 64,
     "first_recorded": "2025-11-21T14:09:56.591648",
-    "last_recorded": "2026-01-24T08:01:00.990153",
+    "last_recorded": "2026-01-25T08:01:00.718016",
     "time_series": {
       "dates": [
         "2025-11-21T14:09:56.591648",
@@ -119,7 +119,8 @@
         "2026-01-20T08:01:02.655733",
         "2026-01-21T08:01:03.691655",
         "2026-01-23T08:01:01.579068",
-        "2026-01-24T08:01:00.990153"
+        "2026-01-24T08:01:00.990153",
+        "2026-01-25T08:01:00.718016"
       ],
       "views_rank": [
         null,
@@ -183,6 +184,7 @@
         210,
         212,
         212,
+        214,
         214,
         214
       ],
@@ -249,6 +251,7 @@
         138,
         138,
         140,
+        140,
         140
       ],
       "likes_rank": [
@@ -314,7 +317,8 @@
         4,
         4,
         2,
-        208
+        208,
+        165
       ]
     }
   },
@@ -331,9 +335,9 @@
   },
   "insights": [
     {
-      "type": "warning",
-      "title": "Declining Ranking",
-      "description": "Dropped 12 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #214 out of 298 active agents."
     }
   ]
 }

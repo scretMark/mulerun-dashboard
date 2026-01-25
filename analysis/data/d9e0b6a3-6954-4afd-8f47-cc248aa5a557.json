@@ -1,6 +1,6 @@
 {
   "agent_id": "d9e0b6a3-6954-4afd-8f47-cc248aa5a557",
-  "generated_at": "2026-01-24T00:01:15.511086",
+  "generated_at": "2026-01-25T00:01:10.725926",
   "basic_info": {
     "title": "Marvel fan",
     "author": "Darren",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-22T21:42:27.400000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/marvel-fan",
-    "days_since_published": 123
+    "days_since_published": 124
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 91,
       "runs_rank": 182,
-      "likes_rank": 116,
+      "likes_rank": 96,
       "total_agents": 298,
       "views_percentile": 69.5,
       "runs_percentile": 38.9,
-      "likes_percentile": 61.1
+      "likes_percentile": 67.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 120,
+    "days_tracked": 121,
     "price": 66.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 65,
+    "days_tracked": 66,
     "last_7_days": {
       "views_rank_change": 2,
       "runs_rank_change": 4,
-      "likes_rank_change": -124
+      "likes_rank_change": -66
     },
     "last_30_days": {
       "views_rank_change": 3,
-      "runs_rank_change": 25,
-      "likes_rank_change": -113
+      "runs_rank_change": 20,
+      "likes_rank_change": -140
     },
     "all_time": {
       "best_views_rank": 86,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 65,
+    "data_points": 66,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-24T08:01:00.990153",
+    "last_recorded": "2026-01-25T08:01:00.718016",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -121,7 +121,8 @@
         "2026-01-20T08:01:02.655733",
         "2026-01-21T08:01:03.691655",
         "2026-01-23T08:01:01.579068",
-        "2026-01-24T08:01:00.990153"
+        "2026-01-24T08:01:00.990153",
+        "2026-01-25T08:01:00.718016"
       ],
       "views_rank": [
         null,
@@ -187,6 +188,7 @@
         90,
         90,
         90,
+        91,
         91,
         91
       ],
@@ -255,6 +257,7 @@
         178,
         178,
         182,
+        182,
         182
       ],
       "likes_rank": [
@@ -322,7 +325,8 @@
         93,
         178,
         144,
-        116
+        116,
+        96
       ]
     }
   },

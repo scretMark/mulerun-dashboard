@@ -1,6 +1,6 @@
 {
   "agent_id": "8cbc569d-cd48-4162-91f4-8689474c4320",
-  "generated_at": "2026-01-24T00:01:14.769504",
+  "generated_at": "2026-01-25T00:01:10.078598",
   "basic_info": {
     "title": "PDF 3D Flipbook",
     "author": "summerail",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-14T19:29:38.855000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/pdf-3d-flipbook",
-    "days_since_published": 101
+    "days_since_published": 102
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 175,
       "runs_rank": 240,
-      "likes_rank": 109,
+      "likes_rank": 91,
       "total_agents": 298,
       "views_percentile": 41.3,
       "runs_percentile": 19.5,
-      "likes_percentile": 63.4
+      "likes_percentile": 69.5
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 97,
+    "days_tracked": 98,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 65,
+    "days_tracked": 66,
     "last_7_days": {
       "views_rank_change": 3,
       "runs_rank_change": 3,
-      "likes_rank_change": 107
+      "likes_rank_change": 89
     },
     "last_30_days": {
       "views_rank_change": 9,
-      "runs_rank_change": 20,
-      "likes_rank_change": 9
+      "runs_rank_change": 16,
+      "likes_rank_change": 81
     },
     "all_time": {
       "best_views_rank": 161,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 65,
+    "data_points": 66,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-24T08:01:00.990153",
+    "last_recorded": "2026-01-25T08:01:00.718016",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -121,7 +121,8 @@
         "2026-01-20T08:01:02.655733",
         "2026-01-21T08:01:03.691655",
         "2026-01-23T08:01:01.579068",
-        "2026-01-24T08:01:00.990153"
+        "2026-01-24T08:01:00.990153",
+        "2026-01-25T08:01:00.718016"
       ],
       "views_rank": [
         null,
@@ -188,6 +189,7 @@
         173,
         173,
         174,
+        175,
         175
       ],
       "runs_rank": [
@@ -254,6 +256,7 @@
         237,
         237,
         237,
+        240,
         240,
         240
       ],
@@ -322,7 +325,8 @@
         1,
         1,
         134,
-        109
+        109,
+        91
       ]
     }
   },

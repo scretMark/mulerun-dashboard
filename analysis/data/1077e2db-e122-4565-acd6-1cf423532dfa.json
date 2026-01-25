@@ -1,6 +1,6 @@
 {
   "agent_id": "1077e2db-e122-4565-acd6-1cf423532dfa",
-  "generated_at": "2026-01-24T00:01:17.412735",
+  "generated_at": "2026-01-25T00:01:12.524755",
   "basic_info": {
     "title": "Character Wallpaper Generator",
     "author": "AneX",
@@ -11,40 +11,40 @@
     "published_at": "2025-12-12T19:04:12.849000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AneX/character-wallpaper-generator",
-    "days_since_published": 42
+    "days_since_published": 43
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 263,
       "runs_rank": 139,
-      "likes_rank": 13,
+      "likes_rank": 12,
       "total_agents": 298,
       "views_percentile": 11.7,
       "runs_percentile": 53.4,
-      "likes_percentile": 95.6
+      "likes_percentile": 96.0
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 38,
+    "days_tracked": 39,
     "price": 60.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 38,
+    "days_tracked": 39,
     "last_7_days": {
       "views_rank_change": 3,
       "runs_rank_change": 3,
-      "likes_rank_change": -27
+      "likes_rank_change": -24
     },
     "last_30_days": {
-      "views_rank_change": 20,
-      "runs_rank_change": 10,
-      "likes_rank_change": -63
+      "views_rank_change": 18,
+      "runs_rank_change": 8,
+      "likes_rank_change": -72
     },
     "all_time": {
       "best_views_rank": 227,
       "best_runs_rank": 126,
-      "best_likes_rank": 13,
+      "best_likes_rank": 12,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 263
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 39,
+    "data_points": 40,
     "first_recorded": "2025-12-16T19:09:41.063612",
-    "last_recorded": "2026-01-24T08:01:00.990153",
+    "last_recorded": "2026-01-25T08:01:00.718016",
     "time_series": {
       "dates": [
         "2025-12-16T19:09:41.063612",
@@ -95,7 +95,8 @@
         "2026-01-20T08:01:02.655733",
         "2026-01-21T08:01:03.691655",
         "2026-01-23T08:01:01.579068",
-        "2026-01-24T08:01:00.990153"
+        "2026-01-24T08:01:00.990153",
+        "2026-01-25T08:01:00.718016"
       ],
       "views_rank": [
         null,
@@ -136,6 +137,7 @@
         260,
         260,
         262,
+        263,
         263
       ],
       "runs_rank": [
@@ -176,6 +178,7 @@
         136,
         137,
         137,
+        139,
         139,
         139
       ],
@@ -218,7 +221,8 @@
         25,
         23,
         14,
-        13
+        13,
+        12
       ]
     }
   },
@@ -237,12 +241,12 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #13 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #12 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     },
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 20 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 18 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "710ab8e8-1b19-4c0f-a5da-db861ef22711",
-  "generated_at": "2026-01-24T00:01:16.545111",
+  "generated_at": "2026-01-25T00:01:11.719258",
   "basic_info": {
     "title": "Nine Hairstyles  Nine Charismatic Personalities",
     "author": "owdaoyn18682p53",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-09T00:11:18.695000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@owdaoyn18682p53/nine-hairstyles-nine-charismatic-personalities",
-    "days_since_published": 106
+    "days_since_published": 107
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 200,
       "runs_rank": 267,
-      "likes_rank": 103,
+      "likes_rank": 85,
       "total_agents": 298,
       "views_percentile": 32.9,
       "runs_percentile": 10.4,
-      "likes_percentile": 65.4
+      "likes_percentile": 71.5
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 100,
+    "days_tracked": 101,
     "price": 39.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 65,
+    "days_tracked": 66,
     "last_7_days": {
       "views_rank_change": 2,
       "runs_rank_change": 5,
-      "likes_rank_change": -83
+      "likes_rank_change": -50
     },
     "last_30_days": {
-      "views_rank_change": 13,
-      "runs_rank_change": 22,
-      "likes_rank_change": -112
+      "views_rank_change": 12,
+      "runs_rank_change": 18,
+      "likes_rank_change": -138
     },
     "all_time": {
       "best_views_rank": 181,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 65,
+    "data_points": 66,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-24T08:01:00.990153",
+    "last_recorded": "2026-01-25T08:01:00.718016",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -121,7 +121,8 @@
         "2026-01-20T08:01:02.655733",
         "2026-01-21T08:01:03.691655",
         "2026-01-23T08:01:01.579068",
-        "2026-01-24T08:01:00.990153"
+        "2026-01-24T08:01:00.990153",
+        "2026-01-25T08:01:00.718016"
       ],
       "views_rank": [
         null,
@@ -187,6 +188,7 @@
         199,
         199,
         199,
+        200,
         200,
         200
       ],
@@ -255,6 +257,7 @@
         263,
         263,
         266,
+        267,
         267
       ],
       "likes_rank": [
@@ -322,7 +325,8 @@
         85,
         265,
         121,
-        103
+        103,
+        85
       ]
     }
   },
@@ -334,7 +338,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 13 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 12 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "65ab6667-615b-42c2-a1b8-a90848db7493",
-  "generated_at": "2026-01-24T00:01:17.285264",
+  "generated_at": "2026-01-25T00:01:12.395222",
   "basic_info": {
     "title": "Generate vintage-style old photo",
     "author": "8bit",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-10T17:29:24.993000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/generate-vintage-style-old-photo",
-    "days_since_published": 44
+    "days_since_published": 45
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 283,
       "runs_rank": 251,
-      "likes_rank": 185,
+      "likes_rank": 152,
       "total_agents": 298,
       "views_percentile": 5.0,
       "runs_percentile": 15.8,
-      "likes_percentile": 37.9
+      "likes_percentile": 49.0
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 43,
+    "days_tracked": 44,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 43,
+    "days_tracked": 44,
     "last_7_days": {
       "views_rank_change": 3,
       "runs_rank_change": -2,
-      "likes_rank_change": 140
+      "likes_rank_change": 111
     },
     "last_30_days": {
       "views_rank_change": null,
-      "runs_rank_change": 17,
-      "likes_rank_change": 106
+      "runs_rank_change": 13,
+      "likes_rank_change": 63
     },
     "all_time": {
       "best_views_rank": 243,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 43,
+    "data_points": 44,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2026-01-24T08:01:00.990153",
+    "last_recorded": "2026-01-25T08:01:00.718016",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -99,7 +99,8 @@
         "2026-01-20T08:01:02.655733",
         "2026-01-21T08:01:03.691655",
         "2026-01-23T08:01:01.579068",
-        "2026-01-24T08:01:00.990153"
+        "2026-01-24T08:01:00.990153",
+        "2026-01-25T08:01:00.718016"
       ],
       "views_rank": [
         null,
@@ -144,6 +145,7 @@
         279,
         279,
         282,
+        283,
         283
       ],
       "runs_rank": [
@@ -188,6 +190,7 @@
         253,
         248,
         248,
+        251,
         251,
         251
       ],
@@ -234,7 +237,8 @@
         264,
         127,
         274,
-        185
+        185,
+        152
       ]
     }
   },

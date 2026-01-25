@@ -1,6 +1,6 @@
 {
   "agent_id": "8ec21e95-f6ee-48a9-bf41-d2b4e08f9307",
-  "generated_at": "2026-01-24T00:01:16.682251",
+  "generated_at": "2026-01-25T00:01:11.829902",
   "basic_info": {
     "title": "n8n workflow blueprint",
     "author": "Rhino",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-04T13:09:01.474000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Rhino/n8n-workflow-blueprint",
-    "days_since_published": 80
+    "days_since_published": 81
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 193,
       "runs_rank": 168,
-      "likes_rank": 176,
+      "likes_rank": 147,
       "total_agents": 298,
       "views_percentile": 35.2,
       "runs_percentile": 43.6,
-      "likes_percentile": 40.9
+      "likes_percentile": 50.7
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 96,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 97,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 65,
+    "days_tracked": 66,
     "last_7_days": {
       "views_rank_change": -6,
       "runs_rank_change": 1,
-      "likes_rank_change": 2
+      "likes_rank_change": 20
     },
     "last_30_days": {
-      "views_rank_change": -5,
-      "runs_rank_change": 12,
-      "likes_rank_change": 50
+      "views_rank_change": -6,
+      "runs_rank_change": 8,
+      "likes_rank_change": 12
     },
     "all_time": {
       "best_views_rank": 193,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 65,
+    "data_points": 66,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-24T08:01:00.990153",
+    "last_recorded": "2026-01-25T08:01:00.718016",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -121,7 +121,8 @@
         "2026-01-20T08:01:02.655733",
         "2026-01-21T08:01:03.691655",
         "2026-01-23T08:01:01.579068",
-        "2026-01-24T08:01:00.990153"
+        "2026-01-24T08:01:00.990153",
+        "2026-01-25T08:01:00.718016"
       ],
       "views_rank": [
         null,
@@ -187,6 +188,7 @@
         198,
         194,
         194,
+        193,
         193,
         193
       ],
@@ -255,6 +257,7 @@
         166,
         166,
         168,
+        168,
         168
       ],
       "likes_rank": [
@@ -322,7 +325,8 @@
         195,
         111,
         258,
-        176
+        176,
+        147
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "dad3b0bf-9cd8-4445-9b07-9fa834107852",
-  "generated_at": "2026-01-24T00:01:17.525896",
+  "generated_at": "2026-01-25T00:01:12.635450",
   "basic_info": {
     "title": "You in a Snow Globe",
     "author": "Norsizu",
@@ -11,40 +11,40 @@
     "published_at": "2025-12-19T16:16:07.657000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/you-in-a-snow-globe",
-    "days_since_published": 35
+    "days_since_published": 36
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 297,
-      "runs_rank": 297,
-      "likes_rank": 28,
+      "runs_rank": 296,
+      "likes_rank": 27,
       "total_agents": 298,
       "views_percentile": 0.3,
-      "runs_percentile": 0.3,
-      "likes_percentile": 90.6
+      "runs_percentile": 0.7,
+      "likes_percentile": 90.9
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 31,
+    "days_tracked": 32,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 35,
+    "days_tracked": 36,
     "last_7_days": {
       "views_rank_change": 7,
-      "runs_rank_change": 6,
-      "likes_rank_change": -32
+      "runs_rank_change": 5,
+      "likes_rank_change": -29
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": -81
+      "likes_rank_change": -91
     },
     "all_time": {
       "best_views_rank": 275,
       "best_runs_rank": 277,
-      "best_likes_rank": 28,
+      "best_likes_rank": 27,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 297
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 32,
+    "data_points": 33,
     "first_recorded": "2025-12-20T08:01:00.398750",
-    "last_recorded": "2026-01-24T08:01:00.990153",
+    "last_recorded": "2026-01-25T08:01:00.718016",
     "time_series": {
       "dates": [
         "2025-12-20T08:01:00.398750",
@@ -88,7 +88,8 @@
         "2026-01-20T08:01:02.655733",
         "2026-01-21T08:01:03.691655",
         "2026-01-23T08:01:01.579068",
-        "2026-01-24T08:01:00.990153"
+        "2026-01-24T08:01:00.990153",
+        "2026-01-25T08:01:00.718016"
       ],
       "views_rank": [
         null,
@@ -122,6 +123,7 @@
         290,
         290,
         294,
+        297,
         297
       ],
       "runs_rank": [
@@ -156,7 +158,8 @@
         291,
         291,
         295,
-        297
+        297,
+        296
       ],
       "likes_rank": [
         48,
@@ -190,7 +193,8 @@
         42,
         40,
         29,
-        28
+        28,
+        27
       ]
     }
   },
@@ -209,7 +213,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #28 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #27 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

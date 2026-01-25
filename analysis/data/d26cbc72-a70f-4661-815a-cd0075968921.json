@@ -1,6 +1,6 @@
 {
   "agent_id": "d26cbc72-a70f-4661-815a-cd0075968921",
-  "generated_at": "2026-01-24T00:01:17.308507",
+  "generated_at": "2026-01-25T00:01:12.419230",
   "basic_info": {
     "title": "Pretend I was here",
     "author": "Barry",
@@ -11,40 +11,40 @@
     "published_at": "2025-12-09T09:50:37.765000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Barry/pretend-i-was-here",
-    "days_since_published": 45
+    "days_since_published": 46
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 244,
       "runs_rank": 133,
-      "likes_rank": 12,
+      "likes_rank": 11,
       "total_agents": 298,
       "views_percentile": 18.1,
       "runs_percentile": 55.4,
-      "likes_percentile": 96.0
+      "likes_percentile": 96.3
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 42,
+    "days_tracked": 43,
     "price": 46.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 42,
+    "days_tracked": 43,
     "last_7_days": {
-      "views_rank_change": 6,
-      "runs_rank_change": 4,
-      "likes_rank_change": -27
+      "views_rank_change": 4,
+      "runs_rank_change": 3,
+      "likes_rank_change": -24
     },
     "last_30_days": {
-      "views_rank_change": 22,
-      "runs_rank_change": 13,
-      "likes_rank_change": -62
+      "views_rank_change": 20,
+      "runs_rank_change": 12,
+      "likes_rank_change": -72
     },
     "all_time": {
       "best_views_rank": 212,
       "best_runs_rank": 119,
-      "best_likes_rank": 12,
+      "best_likes_rank": 11,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 244
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 42,
+    "data_points": 43,
     "first_recorded": "2025-12-13T08:00:26.854786",
-    "last_recorded": "2026-01-24T08:01:00.990153",
+    "last_recorded": "2026-01-25T08:01:00.718016",
     "time_series": {
       "dates": [
         "2025-12-13T08:00:26.854786",
@@ -98,7 +98,8 @@
         "2026-01-20T08:01:02.655733",
         "2026-01-21T08:01:03.691655",
         "2026-01-23T08:01:01.579068",
-        "2026-01-24T08:01:00.990153"
+        "2026-01-24T08:01:00.990153",
+        "2026-01-25T08:01:00.718016"
       ],
       "views_rank": [
         null,
@@ -142,6 +143,7 @@
         241,
         241,
         243,
+        244,
         244
       ],
       "runs_rank": [
@@ -185,6 +187,7 @@
         130,
         131,
         131,
+        133,
         133,
         133
       ],
@@ -230,7 +233,8 @@
         24,
         22,
         13,
-        12
+        12,
+        11
       ]
     }
   },
@@ -249,12 +253,12 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #12 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #11 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     },
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 22 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 20 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

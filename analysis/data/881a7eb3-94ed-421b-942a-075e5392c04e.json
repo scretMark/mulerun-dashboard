@@ -1,6 +1,6 @@
 {
   "agent_id": "881a7eb3-94ed-421b-942a-075e5392c04e",
-  "generated_at": "2026-01-24T00:01:17.728427",
+  "generated_at": "2026-01-25T00:01:12.842488",
   "basic_info": {
     "title": "Kitchen Shuffle",
     "author": "nzwhouxvbbb094f",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-25T16:03:11.023000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@nzwhouxvbbb094f/kitchen-shuffle",
-    "days_since_published": 29
+    "days_since_published": 30
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 290,
       "runs_rank": 278,
-      "likes_rank": 5,
+      "likes_rank": 245,
       "total_agents": 298,
       "views_percentile": 2.7,
       "runs_percentile": 6.7,
-      "likes_percentile": 98.3
+      "likes_percentile": 17.8
     },
-    "tier": "Elite",
-    "tier_class": "elite",
-    "days_tracked": 24,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 25,
     "price": 35.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 28,
+    "days_tracked": 29,
     "last_7_days": {
       "views_rank_change": 5,
       "runs_rank_change": 4,
-      "likes_rank_change": -5
+      "likes_rank_change": 235
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": -32
+      "likes_rank_change": 208
     },
     "all_time": {
       "best_views_rank": 277,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 25,
+    "data_points": 26,
     "first_recorded": "2025-12-27T08:01:00.423663",
-    "last_recorded": "2026-01-24T08:01:00.990153",
+    "last_recorded": "2026-01-25T08:01:00.718016",
     "time_series": {
       "dates": [
         "2025-12-27T08:01:00.423663",
@@ -81,7 +81,8 @@
         "2026-01-20T08:01:02.655733",
         "2026-01-21T08:01:03.691655",
         "2026-01-23T08:01:01.579068",
-        "2026-01-24T08:01:00.990153"
+        "2026-01-24T08:01:00.990153",
+        "2026-01-25T08:01:00.718016"
       ],
       "views_rank": [
         null,
@@ -108,6 +109,7 @@
         285,
         285,
         289,
+        290,
         290
       ],
       "runs_rank": [
@@ -135,6 +137,7 @@
         274,
         274,
         277,
+        278,
         278
       ],
       "likes_rank": [
@@ -162,7 +165,8 @@
         8,
         8,
         6,
-        5
+        5,
+        245
       ]
     }
   },
@@ -179,9 +183,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "Elite Performance",
-      "description": "Ranked #5 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #290 out of 298 active agents."
     }
   ]
 }

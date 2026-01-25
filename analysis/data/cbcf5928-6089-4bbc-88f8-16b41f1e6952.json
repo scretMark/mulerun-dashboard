@@ -1,6 +1,6 @@
 {
   "agent_id": "cbcf5928-6089-4bbc-88f8-16b41f1e6952",
-  "generated_at": "2026-01-24T00:01:17.662986",
+  "generated_at": "2026-01-25T00:01:12.779031",
   "basic_info": {
     "title": "Y2K Xmas Portraits AI",
     "author": "Lucas",
@@ -11,30 +11,30 @@
     "published_at": "2025-12-25T01:14:04.109000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/y2k-xmas-portraits-ai",
-    "days_since_published": 29
+    "days_since_published": 30
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 282,
       "runs_rank": 291,
-      "likes_rank": 9,
+      "likes_rank": 8,
       "total_agents": 298,
       "views_percentile": 5.4,
       "runs_percentile": 2.3,
-      "likes_percentile": 97.0
+      "likes_percentile": 97.3
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 25,
+    "days_tracked": 26,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 29,
+    "days_tracked": 30,
     "last_7_days": {
       "views_rank_change": 4,
       "runs_rank_change": 6,
-      "likes_rank_change": -21
+      "likes_rank_change": -19
     },
     "last_30_days": {
       "views_rank_change": null,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 26,
+    "data_points": 27,
     "first_recorded": "2025-12-26T08:00:54.905148",
-    "last_recorded": "2026-01-24T08:01:00.990153",
+    "last_recorded": "2026-01-25T08:01:00.718016",
     "time_series": {
       "dates": [
         "2025-12-26T08:00:54.905148",
@@ -82,7 +82,8 @@
         "2026-01-20T08:01:02.655733",
         "2026-01-21T08:01:03.691655",
         "2026-01-23T08:01:01.579068",
-        "2026-01-24T08:01:00.990153"
+        "2026-01-24T08:01:00.990153",
+        "2026-01-25T08:01:00.718016"
       ],
       "views_rank": [
         null,
@@ -110,6 +111,7 @@
         278,
         278,
         281,
+        282,
         282
       ],
       "runs_rank": [
@@ -138,6 +140,7 @@
         285,
         285,
         289,
+        291,
         291
       ],
       "likes_rank": [
@@ -166,7 +169,8 @@
         17,
         16,
         10,
-        9
+        9,
+        8
       ]
     }
   },
@@ -185,7 +189,7 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #9 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #8 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     }
   ]
 }

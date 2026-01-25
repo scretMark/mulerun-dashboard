@@ -1,6 +1,6 @@
 {
   "agent_id": "de4167ad-c2a2-4f81-85ee-01ef33c45f40",
-  "generated_at": "2026-01-24T00:01:15.614005",
+  "generated_at": "2026-01-25T00:01:10.830695",
   "basic_info": {
     "title": "AI Portrait Enhancer",
     "author": "marspace_ai",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-20T17:25:22.899000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@marspace_ai/ai-portrait-enhancer",
-    "days_since_published": 95
+    "days_since_published": 96
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 148,
       "runs_rank": 174,
-      "likes_rank": 153,
+      "likes_rank": 227,
       "total_agents": 298,
       "views_percentile": 50.3,
       "runs_percentile": 41.6,
-      "likes_percentile": 48.7
+      "likes_percentile": 23.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 87,
+    "days_tracked": 88,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 65,
+    "days_tracked": 66,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 3,
-      "likes_rank_change": 87
+      "likes_rank_change": 165
     },
     "last_30_days": {
       "views_rank_change": 2,
-      "runs_rank_change": 6,
-      "likes_rank_change": 16
+      "runs_rank_change": 1,
+      "likes_rank_change": 81
     },
     "all_time": {
       "best_views_rank": 141,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 65,
+    "data_points": 66,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-24T08:01:00.990153",
+    "last_recorded": "2026-01-25T08:01:00.718016",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -121,7 +121,8 @@
         "2026-01-20T08:01:02.655733",
         "2026-01-21T08:01:03.691655",
         "2026-01-23T08:01:01.579068",
-        "2026-01-24T08:01:00.990153"
+        "2026-01-24T08:01:00.990153",
+        "2026-01-25T08:01:00.718016"
       ],
       "views_rank": [
         null,
@@ -188,6 +189,7 @@
         148,
         149,
         147,
+        148,
         148
       ],
       "runs_rank": [
@@ -254,6 +256,7 @@
         171,
         171,
         171,
+        174,
         174,
         174
       ],
@@ -322,7 +325,8 @@
         47,
         44,
         198,
-        153
+        153,
+        227
       ]
     }
   },

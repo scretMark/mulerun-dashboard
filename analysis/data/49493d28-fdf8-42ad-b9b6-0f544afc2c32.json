@@ -1,6 +1,6 @@
 {
   "agent_id": "49493d28-fdf8-42ad-b9b6-0f544afc2c32",
-  "generated_at": "2026-01-24T00:01:16.128798",
+  "generated_at": "2026-01-25T00:01:11.302969",
   "basic_info": {
     "title": "Chinese Animal",
     "author": "dotb78",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-25T22:23:02.692000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@dotb78/chinese-animal",
-    "days_since_published": 120
+    "days_since_published": 121
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 103,
+      "views_rank": 104,
       "runs_rank": 179,
-      "likes_rank": 95,
+      "likes_rank": 79,
       "total_agents": 298,
-      "views_percentile": 65.4,
+      "views_percentile": 65.1,
       "runs_percentile": 39.9,
-      "likes_percentile": 68.1
+      "likes_percentile": 73.5
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 114,
+    "days_tracked": 115,
     "price": 35.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 65,
+    "days_tracked": 66,
     "last_7_days": {
-      "views_rank_change": 1,
+      "views_rank_change": 2,
       "runs_rank_change": 3,
-      "likes_rank_change": -12
+      "likes_rank_change": -169
     },
     "last_30_days": {
-      "views_rank_change": 9,
-      "runs_rank_change": 24,
-      "likes_rank_change": -81
+      "views_rank_change": 10,
+      "runs_rank_change": 18,
+      "likes_rank_change": -104
     },
     "all_time": {
       "best_views_rank": 92,
@@ -47,14 +47,14 @@
       "best_likes_rank": 77,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 103
+      "current_rank": 104
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 65,
+    "data_points": 66,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-24T08:01:00.990153",
+    "last_recorded": "2026-01-25T08:01:00.718016",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -121,7 +121,8 @@
         "2026-01-20T08:01:02.655733",
         "2026-01-21T08:01:03.691655",
         "2026-01-23T08:01:01.579068",
-        "2026-01-24T08:01:00.990153"
+        "2026-01-24T08:01:00.990153",
+        "2026-01-25T08:01:00.718016"
       ],
       "views_rank": [
         null,
@@ -188,7 +189,8 @@
         102,
         102,
         103,
-        103
+        103,
+        104
       ],
       "runs_rank": [
         null,
@@ -254,6 +256,7 @@
         176,
         176,
         176,
+        179,
         179,
         179
       ],
@@ -322,7 +325,8 @@
         279,
         220,
         111,
-        95
+        95,
+        79
       ]
     }
   },
@@ -334,7 +338,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #103 out of 298 active agents."
+      "description": "This agent is currently ranked #104 out of 298 active agents."
     }
   ]
 }

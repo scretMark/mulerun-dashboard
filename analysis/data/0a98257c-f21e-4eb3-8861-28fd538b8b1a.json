@@ -1,6 +1,6 @@
 {
   "agent_id": "0a98257c-f21e-4eb3-8861-28fd538b8b1a",
-  "generated_at": "2026-01-24T00:01:17.958703",
+  "generated_at": "2026-01-25T00:01:13.074805",
   "basic_info": {
     "title": "AuditKing PRO - Shopify Killer Audit",
     "author": "Gallmur",
@@ -11,66 +11,70 @@
     "published_at": "2026-01-22T07:45:06.227000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Gallmur/auditking-pro-shopify-killer-audit",
-    "days_since_published": 1
+    "days_since_published": 2
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 227,
+      "views_rank": 228,
       "runs_rank": 138,
-      "likes_rank": 239,
+      "likes_rank": 184,
       "total_agents": 298,
-      "views_percentile": 23.8,
+      "views_percentile": 23.5,
       "runs_percentile": 53.7,
-      "likes_percentile": 19.8
+      "likes_percentile": 38.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 1,
+    "days_tracked": 2,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
     "days_tracked": 1,
     "last_7_days": {
-      "views_rank_change": -1,
+      "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": -1
+      "likes_rank_change": -56
     },
     "last_30_days": {
-      "views_rank_change": -1,
+      "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": -1
+      "likes_rank_change": -56
     },
     "all_time": {
       "best_views_rank": 227,
       "best_runs_rank": 138,
-      "best_likes_rank": 239,
+      "best_likes_rank": 184,
       "days_in_top_10": 0,
       "first_rank": 228,
-      "current_rank": 227
+      "current_rank": 228
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 2,
+    "data_points": 3,
     "first_recorded": "2026-01-23T08:01:01.579068",
-    "last_recorded": "2026-01-24T08:01:00.990153",
+    "last_recorded": "2026-01-25T08:01:00.718016",
     "time_series": {
       "dates": [
         "2026-01-23T08:01:01.579068",
-        "2026-01-24T08:01:00.990153"
+        "2026-01-24T08:01:00.990153",
+        "2026-01-25T08:01:00.718016"
       ],
       "views_rank": [
         228,
-        227
+        227,
+        228
       ],
       "runs_rank": [
+        138,
         138,
         138
       ],
       "likes_rank": [
         240,
-        239
+        239,
+        184
       ]
     }
   },
@@ -89,7 +93,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #227 out of 298 active agents."
+      "description": "This agent is currently ranked #228 out of 298 active agents."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "7a63ab8a-1ecc-48ad-9cad-1255c1a8d049",
-  "generated_at": "2026-01-24T00:01:17.986918",
+  "generated_at": "2026-01-25T00:01:13.102136",
   "basic_info": {
     "title": "Serene Mental Companion",
     "author": "Serenetech",
@@ -11,21 +11,21 @@
     "published_at": "2025-12-24T12:55:35.498000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Serenetech/serene-mental-companion",
-    "days_since_published": 30
+    "days_since_published": 31
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 296,
-      "runs_rank": 296,
-      "likes_rank": 240,
+      "runs_rank": 297,
+      "likes_rank": 185,
       "total_agents": 298,
       "views_percentile": 0.7,
-      "runs_percentile": 0.7,
-      "likes_percentile": 19.5
+      "runs_percentile": 0.3,
+      "likes_percentile": 37.9
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 1,
+    "days_tracked": 2,
     "price": 0.0
   },
   "ranking_trends": {
@@ -33,18 +33,18 @@
     "days_tracked": 1,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": -2,
-      "likes_rank_change": -1
+      "runs_rank_change": -1,
+      "likes_rank_change": -56
     },
     "last_30_days": {
       "views_rank_change": 0,
-      "runs_rank_change": -2,
-      "likes_rank_change": -1
+      "runs_rank_change": -1,
+      "likes_rank_change": -56
     },
     "all_time": {
       "best_views_rank": 296,
       "best_runs_rank": 296,
-      "best_likes_rank": 240,
+      "best_likes_rank": 185,
       "days_in_top_10": 0,
       "first_rank": 296,
       "current_rank": 296
@@ -52,25 +52,29 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 2,
+    "data_points": 3,
     "first_recorded": "2026-01-23T08:01:01.579068",
-    "last_recorded": "2026-01-24T08:01:00.990153",
+    "last_recorded": "2026-01-25T08:01:00.718016",
     "time_series": {
       "dates": [
         "2026-01-23T08:01:01.579068",
-        "2026-01-24T08:01:00.990153"
+        "2026-01-24T08:01:00.990153",
+        "2026-01-25T08:01:00.718016"
       ],
       "views_rank": [
+        296,
         296,
         296
       ],
       "runs_rank": [
         298,
-        296
+        296,
+        297
       ],
       "likes_rank": [
         241,
-        240
+        240,
+        185
       ]
     }
   },

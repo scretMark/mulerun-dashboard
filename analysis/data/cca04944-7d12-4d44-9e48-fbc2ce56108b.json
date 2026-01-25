@@ -1,6 +1,6 @@
 {
   "agent_id": "cca04944-7d12-4d44-9e48-fbc2ce56108b",
-  "generated_at": "2026-01-24T00:01:17.908868",
+  "generated_at": "2026-01-25T00:01:13.025492",
   "basic_info": {
     "title": "JOJO STAND",
     "author": "Hugo_zz567",
@@ -11,35 +11,35 @@
     "published_at": "2026-01-10T23:43:49.406000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Hugo_zz567/jojo-stand",
-    "days_since_published": 13
+    "days_since_published": 14
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 287,
       "runs_rank": 299,
-      "likes_rank": 64,
+      "likes_rank": 58,
       "total_agents": 298,
       "views_percentile": 3.7,
       "runs_percentile": -0.3,
-      "likes_percentile": 78.5
+      "likes_percentile": 80.5
     },
-    "tier": "Mid",
-    "tier_class": "mid",
+    "tier": "High",
+    "tier_class": "high",
     "days_tracked": 0,
     "price": 90.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 11,
+    "days_tracked": 12,
     "last_7_days": {
       "views_rank_change": 5,
       "runs_rank_change": 6,
-      "likes_rank_change": -94
+      "likes_rank_change": -62
     },
     "last_30_days": {
       "views_rank_change": 2,
       "runs_rank_change": 9,
-      "likes_rank_change": 55
+      "likes_rank_change": 49
     },
     "all_time": {
       "best_views_rank": 282,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 11,
+    "data_points": 12,
     "first_recorded": "2026-01-13T08:00:58.516114",
-    "last_recorded": "2026-01-24T08:01:00.990153",
+    "last_recorded": "2026-01-25T08:01:00.718016",
     "time_series": {
       "dates": [
         "2026-01-13T08:00:58.516114",
@@ -67,7 +67,8 @@
         "2026-01-20T08:01:02.655733",
         "2026-01-21T08:01:03.691655",
         "2026-01-23T08:01:01.579068",
-        "2026-01-24T08:01:00.990153"
+        "2026-01-24T08:01:00.990153",
+        "2026-01-25T08:01:00.718016"
       ],
       "views_rank": [
         285,
@@ -80,6 +81,7 @@
         282,
         282,
         286,
+        287,
         287
       ],
       "runs_rank": [
@@ -93,6 +95,7 @@
         293,
         293,
         297,
+        299,
         299
       ],
       "likes_rank": [
@@ -106,7 +109,8 @@
         167,
         102,
         70,
-        64
+        64,
+        58
       ]
     }
   },
@@ -123,9 +127,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #287 out of 298 active agents."
+      "type": "positive",
+      "title": "High Performer",
+      "description": "Ranked #58 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

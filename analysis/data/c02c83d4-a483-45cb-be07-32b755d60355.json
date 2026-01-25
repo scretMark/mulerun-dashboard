@@ -1,6 +1,6 @@
 {
   "agent_id": "c02c83d4-a483-45cb-be07-32b755d60355",
-  "generated_at": "2026-01-24T00:01:16.914428",
+  "generated_at": "2026-01-25T00:01:12.061930",
   "basic_info": {
     "title": "Zootopia Selfie-You Nick and Judy",
     "author": "Matt",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-03T10:40:10.086000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Matt/zootopia-selfie-you-nick-and-judy",
-    "days_since_published": 51
+    "days_since_published": 52
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 237,
       "runs_rank": 197,
-      "likes_rank": 56,
+      "likes_rank": 51,
       "total_agents": 298,
       "views_percentile": 20.5,
       "runs_percentile": 33.9,
-      "likes_percentile": 81.2
+      "likes_percentile": 82.9
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 51,
+    "days_tracked": 52,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 46,
+    "days_tracked": 47,
     "last_7_days": {
       "views_rank_change": 4,
       "runs_rank_change": 4,
-      "likes_rank_change": -66
+      "likes_rank_change": -52
     },
     "last_30_days": {
-      "views_rank_change": 16,
-      "runs_rank_change": 21,
-      "likes_rank_change": -37
+      "views_rank_change": 14,
+      "runs_rank_change": 16,
+      "likes_rank_change": -53
     },
     "all_time": {
       "best_views_rank": 210,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 48,
+    "data_points": 49,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2026-01-24T08:01:00.990153",
+    "last_recorded": "2026-01-25T08:01:00.718016",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -104,7 +104,8 @@
         "2026-01-20T08:01:02.655733",
         "2026-01-21T08:01:03.691655",
         "2026-01-23T08:01:01.579068",
-        "2026-01-24T08:01:00.990153"
+        "2026-01-24T08:01:00.990153",
+        "2026-01-25T08:01:00.718016"
       ],
       "views_rank": [
         null,
@@ -153,6 +154,7 @@
         232,
         233,
         234,
+        237,
         237,
         237
       ],
@@ -204,6 +206,7 @@
         194,
         195,
         197,
+        197,
         197
       ],
       "likes_rank": [
@@ -254,7 +257,8 @@
         136,
         89,
         61,
-        56
+        56,
+        51
       ]
     }
   },
@@ -273,12 +277,12 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #56 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #51 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     },
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 16 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 14 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

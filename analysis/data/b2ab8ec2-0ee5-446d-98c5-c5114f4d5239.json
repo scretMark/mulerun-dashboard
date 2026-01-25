@@ -1,6 +1,6 @@
 {
   "agent_id": "b2ab8ec2-0ee5-446d-98c5-c5114f4d5239",
-  "generated_at": "2026-01-24T00:01:16.503958",
+  "generated_at": "2026-01-25T00:01:11.681687",
   "basic_info": {
     "title": "Kitty Closet",
     "author": "wujin",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-07T12:48:36.093000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@wujin/kitty-closet",
-    "days_since_published": 108
+    "days_since_published": 109
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 178,
       "runs_rank": 199,
-      "likes_rank": 126,
+      "likes_rank": 105,
       "total_agents": 298,
       "views_percentile": 40.3,
       "runs_percentile": 33.2,
-      "likes_percentile": 57.7
+      "likes_percentile": 64.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 87,
+    "days_tracked": 88,
     "price": 30.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 65,
+    "days_tracked": 66,
     "last_7_days": {
-      "views_rank_change": 0,
+      "views_rank_change": 1,
       "runs_rank_change": 4,
-      "likes_rank_change": -11
+      "likes_rank_change": -145
     },
     "last_30_days": {
       "views_rank_change": 8,
-      "runs_rank_change": 21,
-      "likes_rank_change": -55
+      "runs_rank_change": 16,
+      "likes_rank_change": -83
     },
     "all_time": {
       "best_views_rank": 166,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 65,
+    "data_points": 66,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-24T08:01:00.990153",
+    "last_recorded": "2026-01-25T08:01:00.718016",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -121,7 +121,8 @@
         "2026-01-20T08:01:02.655733",
         "2026-01-21T08:01:03.691655",
         "2026-01-23T08:01:01.579068",
-        "2026-01-24T08:01:00.990153"
+        "2026-01-24T08:01:00.990153",
+        "2026-01-25T08:01:00.718016"
       ],
       "views_rank": [
         null,
@@ -188,6 +189,7 @@
         178,
         177,
         177,
+        178,
         178
       ],
       "runs_rank": [
@@ -254,6 +256,7 @@
         195,
         196,
         197,
+        199,
         199,
         199
       ],
@@ -322,7 +325,8 @@
         249,
         172,
         156,
-        126
+        126,
+        105
       ]
     }
   },
