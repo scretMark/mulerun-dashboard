@@ -1,6 +1,6 @@
 {
   "agent_id": "4ce5fefc-ed2f-46b2-b889-2c0223955156",
-  "generated_at": "2026-01-25T00:01:12.982747",
+  "generated_at": "2026-01-27T00:01:25.675166",
   "basic_info": {
     "title": "Manga Translator",
     "author": "usernuk",
@@ -11,35 +11,35 @@
     "published_at": "2026-01-06T09:35:53.576000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@usernuk/manga-translator",
-    "days_since_published": 18
+    "days_since_published": 20
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 268,
-      "runs_rank": 277,
-      "likes_rank": 178,
-      "total_agents": 298,
-      "views_percentile": 10.1,
+      "views_rank": 269,
+      "runs_rank": 278,
+      "likes_rank": 282,
+      "total_agents": 299,
+      "views_percentile": 10.0,
       "runs_percentile": 7.0,
-      "likes_percentile": 40.3
+      "likes_percentile": 5.7
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 16,
+    "days_tracked": 17,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 16,
+    "days_tracked": 19,
     "last_7_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": 4,
-      "likes_rank_change": 102
+      "views_rank_change": 1,
+      "runs_rank_change": 5,
+      "likes_rank_change": 97
     },
     "last_30_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": 9,
-      "likes_rank_change": 94
+      "views_rank_change": 1,
+      "runs_rank_change": 10,
+      "likes_rank_change": 198
     },
     "all_time": {
       "best_views_rank": 265,
@@ -47,14 +47,14 @@
       "best_likes_rank": 41,
       "days_in_top_10": 0,
       "first_rank": 268,
-      "current_rank": 268
+      "current_rank": 269
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 16,
+    "data_points": 17,
     "first_recorded": "2026-01-08T08:01:02.485852",
-    "last_recorded": "2026-01-25T08:01:00.718016",
+    "last_recorded": "2026-01-27T08:01:06.918717",
     "time_series": {
       "dates": [
         "2026-01-08T08:01:02.485852",
@@ -72,7 +72,8 @@
         "2026-01-21T08:01:03.691655",
         "2026-01-23T08:01:01.579068",
         "2026-01-24T08:01:00.990153",
-        "2026-01-25T08:01:00.718016"
+        "2026-01-25T08:01:00.718016",
+        "2026-01-27T08:01:06.918717"
       ],
       "views_rank": [
         268,
@@ -90,7 +91,8 @@
         268,
         270,
         268,
-        268
+        268,
+        269
       ],
       "runs_rank": [
         268,
@@ -108,7 +110,8 @@
         273,
         276,
         277,
-        277
+        277,
+        278
       ],
       "likes_rank": [
         84,
@@ -126,7 +129,8 @@
         185,
         194,
         225,
-        178
+        178,
+        282
       ]
     }
   },
@@ -145,7 +149,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #268 out of 298 active agents."
+      "description": "This agent is currently ranked #269 out of 299 active agents."
     }
   ]
 }

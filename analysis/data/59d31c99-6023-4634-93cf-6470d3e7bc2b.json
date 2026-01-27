@@ -1,6 +1,6 @@
 {
   "agent_id": "59d31c99-6023-4634-93cf-6470d3e7bc2b",
-  "generated_at": "2026-01-25T00:01:12.502120",
+  "generated_at": "2026-01-27T00:01:25.110552",
   "basic_info": {
     "title": "image matting",
     "author": "jumdata",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-12T09:37:01.780000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@jumdata/image-matting",
-    "days_since_published": 43
+    "days_since_published": 45
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 212,
+      "views_rank": 213,
       "runs_rank": 106,
-      "likes_rank": 171,
-      "total_agents": 298,
-      "views_percentile": 28.9,
-      "runs_percentile": 64.4,
-      "likes_percentile": 42.6
+      "likes_rank": 127,
+      "total_agents": 299,
+      "views_percentile": 28.8,
+      "runs_percentile": 64.5,
+      "likes_percentile": 57.5
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 39,
+    "days_tracked": 40,
     "price": 20.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 39,
+    "days_tracked": 41,
     "last_7_days": {
-      "views_rank_change": 3,
-      "runs_rank_change": -11,
-      "likes_rank_change": 75
+      "views_rank_change": 2,
+      "runs_rank_change": -1,
+      "likes_rank_change": 67
     },
     "last_30_days": {
-      "views_rank_change": 10,
-      "runs_rank_change": -71,
-      "likes_rank_change": 89
+      "views_rank_change": 11,
+      "runs_rank_change": -65,
+      "likes_rank_change": 44
     },
     "all_time": {
       "best_views_rank": 200,
@@ -47,14 +47,14 @@
       "best_likes_rank": 41,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 212
+      "current_rank": 213
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 40,
+    "data_points": 41,
     "first_recorded": "2025-12-16T19:09:41.063612",
-    "last_recorded": "2026-01-25T08:01:00.718016",
+    "last_recorded": "2026-01-27T08:01:06.918717",
     "time_series": {
       "dates": [
         "2025-12-16T19:09:41.063612",
@@ -96,7 +96,8 @@
         "2026-01-21T08:01:03.691655",
         "2026-01-23T08:01:01.579068",
         "2026-01-24T08:01:00.990153",
-        "2026-01-25T08:01:00.718016"
+        "2026-01-25T08:01:00.718016",
+        "2026-01-27T08:01:06.918717"
       ],
       "views_rank": [
         null,
@@ -138,7 +139,8 @@
         211,
         213,
         212,
-        212
+        212,
+        213
       ],
       "runs_rank": [
         null,
@@ -178,6 +180,7 @@
         115,
         108,
         107,
+        106,
         106,
         106,
         106
@@ -222,7 +225,8 @@
         60,
         196,
         215,
-        171
+        171,
+        127
       ]
     }
   },
@@ -239,9 +243,14 @@
   },
   "insights": [
     {
+      "type": "warning",
+      "title": "Declining Ranking",
+      "description": "Dropped 11 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+    },
+    {
       "type": "positive",
       "title": "Growing Usage",
-      "description": "Runs ranking improved by 71 positions in the last 30 days - users are actively engaging with this agent!"
+      "description": "Runs ranking improved by 65 positions in the last 30 days - users are actively engaging with this agent!"
     }
   ]
 }

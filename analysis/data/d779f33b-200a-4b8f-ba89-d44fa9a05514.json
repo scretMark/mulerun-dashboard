@@ -1,6 +1,6 @@
 {
   "agent_id": "d779f33b-200a-4b8f-ba89-d44fa9a05514",
-  "generated_at": "2026-01-25T00:01:11.164218",
+  "generated_at": "2026-01-27T00:01:23.641580",
   "basic_info": {
     "title": "BuildingMagicMaker",
     "author": "YuTou_baby",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-02T11:05:16.028000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@YuTou_baby/buildingmagicmaker",
-    "days_since_published": 144
+    "days_since_published": 146
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 55,
       "runs_rank": 62,
-      "likes_rank": 70,
-      "total_agents": 298,
-      "views_percentile": 81.5,
-      "runs_percentile": 79.2,
-      "likes_percentile": 76.5
+      "likes_rank": 204,
+      "total_agents": 299,
+      "views_percentile": 81.6,
+      "runs_percentile": 79.3,
+      "likes_percentile": 31.8
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 130,
+    "days_tracked": 131,
     "price": 15.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 66,
+    "days_tracked": 68,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 1,
-      "likes_rank_change": -63
+      "runs_rank_change": 0,
+      "likes_rank_change": 49
     },
     "last_30_days": {
       "views_rank_change": 2,
       "runs_rank_change": 2,
-      "likes_rank_change": -144
+      "likes_rank_change": -8
     },
     "all_time": {
       "best_views_rank": 53,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 66,
+    "data_points": 67,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-25T08:01:00.718016",
+    "last_recorded": "2026-01-27T08:01:06.918717",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -122,7 +122,8 @@
         "2026-01-21T08:01:03.691655",
         "2026-01-23T08:01:01.579068",
         "2026-01-24T08:01:00.990153",
-        "2026-01-25T08:01:00.718016"
+        "2026-01-25T08:01:00.718016",
+        "2026-01-27T08:01:06.918717"
       ],
       "views_rank": [
         null,
@@ -190,6 +191,7 @@
         54,
         54,
         54,
+        55,
         55
       ],
       "runs_rank": [
@@ -254,6 +256,7 @@
         61,
         61,
         61,
+        62,
         62,
         62,
         62,
@@ -326,7 +329,8 @@
         155,
         90,
         82,
-        70
+        70,
+        204
       ]
     }
   },

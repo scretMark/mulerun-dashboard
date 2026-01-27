@@ -1,6 +1,6 @@
 {
   "agent_id": "fbb3064f-f371-41c9-b1e8-feddd18d083a",
-  "generated_at": "2026-01-25T00:01:11.756341",
+  "generated_at": "2026-01-27T00:01:24.299053",
   "basic_info": {
     "title": "Nobelize Me",
     "author": "Aichimp",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-10T13:13:16.209000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aichimp/nobelize-me",
-    "days_since_published": 106
+    "days_since_published": 108
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 194,
       "runs_rank": 225,
-      "likes_rank": 57,
-      "total_agents": 298,
-      "views_percentile": 34.9,
-      "runs_percentile": 24.5,
-      "likes_percentile": 80.9
+      "likes_rank": 44,
+      "total_agents": 299,
+      "views_percentile": 35.1,
+      "runs_percentile": 24.7,
+      "likes_percentile": 85.3
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 88,
+    "days_tracked": 89,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 66,
+    "days_tracked": 68,
     "last_7_days": {
-      "views_rank_change": 1,
+      "views_rank_change": 3,
       "runs_rank_change": 2,
-      "likes_rank_change": -92
+      "likes_rank_change": -55
     },
     "last_30_days": {
-      "views_rank_change": 10,
+      "views_rank_change": 9,
       "runs_rank_change": 12,
-      "likes_rank_change": -173
+      "likes_rank_change": -185
     },
     "all_time": {
       "best_views_rank": 182,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 66,
+    "data_points": 67,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-25T08:01:00.718016",
+    "last_recorded": "2026-01-27T08:01:06.918717",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -122,7 +122,8 @@
         "2026-01-21T08:01:03.691655",
         "2026-01-23T08:01:01.579068",
         "2026-01-24T08:01:00.990153",
-        "2026-01-25T08:01:00.718016"
+        "2026-01-25T08:01:00.718016",
+        "2026-01-27T08:01:06.918717"
       ],
       "views_rank": [
         null,
@@ -188,6 +189,7 @@
         193,
         191,
         191,
+        194,
         194,
         194,
         194
@@ -258,6 +260,7 @@
         223,
         225,
         225,
+        225,
         225
       ],
       "likes_rank": [
@@ -326,7 +329,8 @@
         99,
         69,
         63,
-        57
+        57,
+        44
       ]
     }
   },
@@ -338,7 +342,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #57 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #44 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

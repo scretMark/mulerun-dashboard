@@ -1,6 +1,6 @@
 {
   "agent_id": "4d9b4916-1311-4716-ba98-3bba7d803df3",
-  "generated_at": "2026-01-25T00:01:10.178332",
+  "generated_at": "2026-01-27T00:01:22.740799",
   "basic_info": {
     "title": "Content Pilot AI",
     "author": "cqplaquemh41i2k",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-13T18:50:29.799000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@cqplaquemh41i2k/content-pilot-ai",
-    "days_since_published": 103
+    "days_since_published": 105
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 95,
       "runs_rank": 56,
-      "likes_rank": 260,
-      "total_agents": 298,
-      "views_percentile": 68.1,
-      "runs_percentile": 81.2,
-      "likes_percentile": 12.8
+      "likes_rank": 161,
+      "total_agents": 299,
+      "views_percentile": 68.2,
+      "runs_percentile": 81.3,
+      "likes_percentile": 46.2
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 98,
+    "days_tracked": 99,
     "price": 15.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 66,
+    "days_tracked": 68,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 2,
-      "likes_rank_change": 117
+      "likes_rank_change": -103
     },
     "last_30_days": {
-      "views_rank_change": -8,
+      "views_rank_change": -7,
       "runs_rank_change": 4,
-      "likes_rank_change": 51
+      "likes_rank_change": -48
     },
     "all_time": {
       "best_views_rank": 94,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 66,
+    "data_points": 67,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-25T08:01:00.718016",
+    "last_recorded": "2026-01-27T08:01:06.918717",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -122,7 +122,8 @@
         "2026-01-21T08:01:03.691655",
         "2026-01-23T08:01:01.579068",
         "2026-01-24T08:01:00.990153",
-        "2026-01-25T08:01:00.718016"
+        "2026-01-25T08:01:00.718016",
+        "2026-01-27T08:01:06.918717"
       ],
       "views_rank": [
         null,
@@ -188,6 +189,7 @@
         94,
         94,
         94,
+        95,
         95,
         95,
         95
@@ -258,6 +260,7 @@
         54,
         56,
         56,
+        56,
         56
       ],
       "likes_rank": [
@@ -326,7 +329,8 @@
         264,
         270,
         183,
-        260
+        260,
+        161
       ]
     }
   },

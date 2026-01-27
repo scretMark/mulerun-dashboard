@@ -1,6 +1,6 @@
 {
   "agent_id": "d3b06b6c-552d-44a0-a7f8-457a832ede65",
-  "generated_at": "2026-01-25T00:01:11.377785",
+  "generated_at": "2026-01-27T00:01:23.868380",
   "basic_info": {
     "title": "Line Drawing of a Face",
     "author": "Darren",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-07T09:54:35.853000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/line-drawing-of-a-face",
-    "days_since_published": 109
+    "days_since_published": 111
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 119,
       "runs_rank": 150,
-      "likes_rank": 150,
-      "total_agents": 298,
-      "views_percentile": 60.1,
-      "runs_percentile": 49.7,
-      "likes_percentile": 49.7
+      "likes_rank": 111,
+      "total_agents": 299,
+      "views_percentile": 60.2,
+      "runs_percentile": 49.8,
+      "likes_percentile": 62.9
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 88,
+    "days_tracked": 89,
     "price": 66.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 66,
+    "days_tracked": 68,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 3,
-      "likes_rank_change": -29
+      "runs_rank_change": 2,
+      "likes_rank_change": 34
     },
     "last_30_days": {
       "views_rank_change": 2,
-      "runs_rank_change": 13,
-      "likes_rank_change": -25
+      "runs_rank_change": 12,
+      "likes_rank_change": -64
     },
     "all_time": {
       "best_views_rank": 115,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 66,
+    "data_points": 67,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-25T08:01:00.718016",
+    "last_recorded": "2026-01-27T08:01:06.918717",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -122,7 +122,8 @@
         "2026-01-21T08:01:03.691655",
         "2026-01-23T08:01:01.579068",
         "2026-01-24T08:01:00.990153",
-        "2026-01-25T08:01:00.718016"
+        "2026-01-25T08:01:00.718016",
+        "2026-01-27T08:01:06.918717"
       ],
       "views_rank": [
         null,
@@ -188,6 +189,7 @@
         118,
         118,
         118,
+        119,
         119,
         119,
         119
@@ -258,6 +260,7 @@
         148,
         150,
         150,
+        150,
         150
       ],
       "likes_rank": [
@@ -326,7 +329,8 @@
         77,
         267,
         181,
-        150
+        150,
+        111
       ]
     }
   },
@@ -338,7 +342,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #119 out of 298 active agents."
+      "description": "This agent is currently ranked #119 out of 299 active agents."
     }
   ]
 }

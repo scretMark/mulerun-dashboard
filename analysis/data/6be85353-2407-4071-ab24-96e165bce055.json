@@ -1,6 +1,6 @@
 {
   "agent_id": "6be85353-2407-4071-ab24-96e165bce055",
-  "generated_at": "2026-01-25T00:01:12.407238",
+  "generated_at": "2026-01-27T00:01:24.994071",
   "basic_info": {
     "title": "The Pet Fruit on the Tree",
     "author": "8bit",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-10T15:04:26.066000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/the-pet-fruit-on-the-tree",
-    "days_since_published": 45
+    "days_since_published": 47
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 299,
-      "runs_rank": 281,
+      "views_rank": 300,
+      "runs_rank": 282,
       "likes_rank": 3,
-      "total_agents": 298,
+      "total_agents": 299,
       "views_percentile": -0.3,
       "runs_percentile": 5.7,
       "likes_percentile": 99.0
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 44,
+    "days_tracked": 45,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 44,
+    "days_tracked": 46,
     "last_7_days": {
-      "views_rank_change": 6,
-      "runs_rank_change": 4,
-      "likes_rank_change": -4
+      "views_rank_change": 7,
+      "runs_rank_change": 5,
+      "likes_rank_change": -3
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": -4
+      "likes_rank_change": -2
     },
     "all_time": {
       "best_views_rank": 246,
@@ -47,14 +47,14 @@
       "best_likes_rank": 3,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 299
+      "current_rank": 300
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 44,
+    "data_points": 45,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2026-01-25T08:01:00.718016",
+    "last_recorded": "2026-01-27T08:01:06.918717",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -100,7 +100,8 @@
         "2026-01-21T08:01:03.691655",
         "2026-01-23T08:01:01.579068",
         "2026-01-24T08:01:00.990153",
-        "2026-01-25T08:01:00.718016"
+        "2026-01-25T08:01:00.718016",
+        "2026-01-27T08:01:06.918717"
       ],
       "views_rank": [
         null,
@@ -146,7 +147,8 @@
         293,
         298,
         299,
-        299
+        299,
+        300
       ],
       "runs_rank": [
         null,
@@ -192,7 +194,8 @@
         277,
         280,
         281,
-        281
+        281,
+        282
       ],
       "likes_rank": [
         null,
@@ -237,6 +240,7 @@
         6,
         6,
         4,
+        3,
         3,
         3
       ]

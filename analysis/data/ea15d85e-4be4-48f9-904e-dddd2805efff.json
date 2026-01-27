@@ -1,6 +1,6 @@
 {
   "agent_id": "ea15d85e-4be4-48f9-904e-dddd2805efff",
-  "generated_at": "2026-01-25T00:01:10.546922",
+  "generated_at": "2026-01-27T00:01:23.138084",
   "basic_info": {
     "title": "Pet Morph Wizard",
     "author": "Milo_Em",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-11T17:30:04.210000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Milo_Em/pet-morph-wizard",
-    "days_since_published": 105
+    "days_since_published": 107
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 189,
       "runs_rank": 233,
-      "likes_rank": 92,
-      "total_agents": 298,
-      "views_percentile": 36.6,
-      "runs_percentile": 21.8,
-      "likes_percentile": 69.1
+      "likes_rank": 74,
+      "total_agents": 299,
+      "views_percentile": 36.8,
+      "runs_percentile": 22.1,
+      "likes_percentile": 75.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 88,
+    "days_tracked": 89,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 66,
+    "days_tracked": 68,
     "last_7_days": {
-      "views_rank_change": 2,
+      "views_rank_change": 1,
       "runs_rank_change": 2,
-      "likes_rank_change": 45
+      "likes_rank_change": 42
     },
     "last_30_days": {
       "views_rank_change": 13,
       "runs_rank_change": 21,
-      "likes_rank_change": -13
+      "likes_rank_change": -32
     },
     "all_time": {
       "best_views_rank": 169,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 66,
+    "data_points": 67,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-25T08:01:00.718016",
+    "last_recorded": "2026-01-27T08:01:06.918717",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -122,7 +122,8 @@
         "2026-01-21T08:01:03.691655",
         "2026-01-23T08:01:01.579068",
         "2026-01-24T08:01:00.990153",
-        "2026-01-25T08:01:00.718016"
+        "2026-01-25T08:01:00.718016",
+        "2026-01-27T08:01:06.918717"
       ],
       "views_rank": [
         null,
@@ -188,6 +189,7 @@
         187,
         187,
         188,
+        189,
         189,
         189,
         189
@@ -258,6 +260,7 @@
         231,
         233,
         233,
+        233,
         233
       ],
       "likes_rank": [
@@ -326,7 +329,8 @@
         32,
         137,
         111,
-        92
+        92,
+        74
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "9540b1a3-2ffb-4a11-95d2-53ed0995637a",
-  "generated_at": "2026-01-25T00:01:09.877525",
+  "generated_at": "2026-01-27T00:01:22.437381",
   "basic_info": {
     "title": "ExplainerVideoGen",
     "author": "2_lullakah",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-07T10:24:37.592000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@2_lullakah/explainervideogen",
-    "days_since_published": 78
+    "days_since_published": 80
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 85,
+      "views_rank": 87,
       "runs_rank": 131,
-      "likes_rank": 63,
-      "total_agents": 298,
-      "views_percentile": 71.5,
-      "runs_percentile": 56.0,
-      "likes_percentile": 78.9
+      "likes_rank": 49,
+      "total_agents": 299,
+      "views_percentile": 70.9,
+      "runs_percentile": 56.2,
+      "likes_percentile": 83.6
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 77,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 78,
     "price": 48.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 66,
+    "days_tracked": 68,
     "last_7_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": 4,
-      "likes_rank_change": -175
+      "views_rank_change": 2,
+      "runs_rank_change": 3,
+      "likes_rank_change": -65
     },
     "last_30_days": {
-      "views_rank_change": -1,
+      "views_rank_change": 1,
       "runs_rank_change": 9,
-      "likes_rank_change": 22
+      "likes_rank_change": 8
     },
     "all_time": {
       "best_views_rank": 85,
@@ -47,14 +47,14 @@
       "best_likes_rank": 11,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 85
+      "current_rank": 87
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 66,
+    "data_points": 67,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-25T08:01:00.718016",
+    "last_recorded": "2026-01-27T08:01:06.918717",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -122,7 +122,8 @@
         "2026-01-21T08:01:03.691655",
         "2026-01-23T08:01:01.579068",
         "2026-01-24T08:01:00.990153",
-        "2026-01-25T08:01:00.718016"
+        "2026-01-25T08:01:00.718016",
+        "2026-01-27T08:01:06.918717"
       ],
       "views_rank": [
         null,
@@ -190,7 +191,8 @@
         85,
         85,
         85,
-        85
+        85,
+        87
       ],
       "runs_rank": [
         null,
@@ -256,6 +258,7 @@
         127,
         128,
         128,
+        131,
         131,
         131,
         131
@@ -326,7 +329,8 @@
         114,
         77,
         71,
-        63
+        63,
+        49
       ]
     }
   },
@@ -336,9 +340,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #85 out of 298 active agents."
+      "type": "positive",
+      "title": "High Performer",
+      "description": "Ranked #49 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

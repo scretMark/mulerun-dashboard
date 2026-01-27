@@ -1,6 +1,6 @@
 {
   "agent_id": "8ecf0316-7c0a-40c3-8095-83b57d32ed7c",
-  "generated_at": "2026-01-25T00:01:11.974922",
+  "generated_at": "2026-01-27T00:01:24.568131",
   "basic_info": {
     "title": "Historical place visualizer",
     "author": "Bhola",
@@ -11,33 +11,33 @@
     "published_at": "2025-11-24T13:53:45.229000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Bhola/historical-place-visualizer",
-    "days_since_published": 61
+    "days_since_published": 63
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 242,
+      "views_rank": 243,
       "runs_rank": 248,
-      "likes_rank": 60,
-      "total_agents": 298,
-      "views_percentile": 18.8,
-      "runs_percentile": 16.8,
-      "likes_percentile": 79.9
+      "likes_rank": 47,
+      "total_agents": 299,
+      "views_percentile": 18.7,
+      "runs_percentile": 17.1,
+      "likes_percentile": 84.3
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 57,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 58,
     "price": 29.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 60,
+    "days_tracked": 62,
     "last_7_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": 3,
-      "likes_rank_change": -20
+      "views_rank_change": 3,
+      "runs_rank_change": 2,
+      "likes_rank_change": -63
     },
     "last_30_days": {
-      "views_rank_change": 16,
+      "views_rank_change": 17,
       "runs_rank_change": 20,
       "likes_rank_change": null
     },
@@ -47,14 +47,14 @@
       "best_likes_rank": 12,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 242
+      "current_rank": 243
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-11-26T08:00:32.046352",
-    "last_recorded": "2026-01-25T08:01:00.718016",
+    "last_recorded": "2026-01-27T08:01:06.918717",
     "time_series": {
       "dates": [
         "2025-11-26T08:00:32.046352",
@@ -113,7 +113,8 @@
         "2026-01-21T08:01:03.691655",
         "2026-01-23T08:01:01.579068",
         "2026-01-24T08:01:00.990153",
-        "2026-01-25T08:01:00.718016"
+        "2026-01-25T08:01:00.718016",
+        "2026-01-27T08:01:06.918717"
       ],
       "views_rank": [
         null,
@@ -172,7 +173,8 @@
         240,
         242,
         242,
-        242
+        242,
+        243
       ],
       "runs_rank": [
         null,
@@ -229,6 +231,7 @@
         245,
         246,
         246,
+        248,
         248,
         248,
         248
@@ -290,7 +293,8 @@
         110,
         74,
         68,
-        60
+        60,
+        47
       ]
     }
   },
@@ -307,9 +311,14 @@
   },
   "insights": [
     {
+      "type": "positive",
+      "title": "High Performer",
+      "description": "Ranked #47 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+    },
+    {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 16 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 17 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

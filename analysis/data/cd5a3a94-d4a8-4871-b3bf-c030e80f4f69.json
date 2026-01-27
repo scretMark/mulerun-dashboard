@@ -1,6 +1,6 @@
 {
   "agent_id": "cd5a3a94-d4a8-4871-b3bf-c030e80f4f69",
-  "generated_at": "2026-01-25T00:01:11.592710",
+  "generated_at": "2026-01-27T00:01:24.069886",
   "basic_info": {
     "title": "Chiikawa In 9-Grid",
     "author": "dotb78",
@@ -11,40 +11,40 @@
     "published_at": "2025-10-04T11:38:48.535000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@dotb78/chiikawa-in-9-grid",
-    "days_since_published": 112
+    "days_since_published": 114
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 158,
       "runs_rank": 217,
-      "likes_rank": 81,
-      "total_agents": 298,
-      "views_percentile": 47.0,
-      "runs_percentile": 27.2,
-      "likes_percentile": 72.8
+      "likes_rank": 64,
+      "total_agents": 299,
+      "views_percentile": 47.2,
+      "runs_percentile": 27.4,
+      "likes_percentile": 78.6
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 88,
+    "days_tracked": 89,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 66,
+    "days_tracked": 68,
     "last_7_days": {
-      "views_rank_change": 4,
-      "runs_rank_change": 4,
-      "likes_rank_change": -28
+      "views_rank_change": 3,
+      "runs_rank_change": 2,
+      "likes_rank_change": -164
     },
     "last_30_days": {
       "views_rank_change": 10,
       "runs_rank_change": 19,
-      "likes_rank_change": -93
+      "likes_rank_change": -110
     },
     "all_time": {
       "best_views_rank": 144,
       "best_runs_rank": 188,
-      "best_likes_rank": 74,
+      "best_likes_rank": 64,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 158
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 66,
+    "data_points": 67,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-25T08:01:00.718016",
+    "last_recorded": "2026-01-27T08:01:06.918717",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -122,7 +122,8 @@
         "2026-01-21T08:01:03.691655",
         "2026-01-23T08:01:01.579068",
         "2026-01-24T08:01:00.990153",
-        "2026-01-25T08:01:00.718016"
+        "2026-01-25T08:01:00.718016",
+        "2026-01-27T08:01:06.918717"
       ],
       "views_rank": [
         null,
@@ -190,6 +191,7 @@
         155,
         156,
         157,
+        158,
         158
       ],
       "runs_rank": [
@@ -256,6 +258,7 @@
         213,
         215,
         215,
+        217,
         217,
         217,
         217
@@ -326,7 +329,8 @@
         228,
         113,
         97,
-        81
+        81,
+        64
       ]
     }
   },
@@ -338,7 +342,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #158 out of 298 active agents."
+      "description": "This agent is currently ranked #158 out of 299 active agents."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "d7b85cff-5179-46c7-a1e5-09560f825c92",
-  "generated_at": "2026-01-25T00:01:09.221342",
+  "generated_at": "2026-01-27T00:01:21.720916",
   "basic_info": {
     "title": "AI Model Swap",
     "author": "PicCopilot",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-11T19:26:53.701000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/ai-model-swap",
-    "days_since_published": 74
+    "days_since_published": 76
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 59,
       "runs_rank": 10,
-      "likes_rank": 278,
-      "total_agents": 298,
-      "views_percentile": 80.2,
-      "runs_percentile": 96.6,
-      "likes_percentile": 6.7
+      "likes_rank": 238,
+      "total_agents": 299,
+      "views_percentile": 80.3,
+      "runs_percentile": 96.7,
+      "likes_percentile": 20.4
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 73,
+    "days_tracked": 74,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 67,
+    "days_tracked": 69,
     "last_7_days": {
-      "views_rank_change": -4,
+      "views_rank_change": -2,
       "runs_rank_change": 0,
-      "likes_rank_change": 44
+      "likes_rank_change": -3
     },
     "last_30_days": {
-      "views_rank_change": -15,
+      "views_rank_change": -14,
       "runs_rank_change": 0,
-      "likes_rank_change": 235
+      "likes_rank_change": 185
     },
     "all_time": {
       "best_views_rank": 59,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 67,
+    "data_points": 68,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-25T08:01:00.718016",
+    "last_recorded": "2026-01-27T08:01:06.918717",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -123,7 +123,8 @@
         "2026-01-21T08:01:03.691655",
         "2026-01-23T08:01:01.579068",
         "2026-01-24T08:01:00.990153",
-        "2026-01-25T08:01:00.718016"
+        "2026-01-25T08:01:00.718016",
+        "2026-01-27T08:01:06.918717"
       ],
       "views_rank": [
         null,
@@ -192,6 +193,7 @@
         61,
         59,
         59,
+        59,
         59
       ],
       "runs_rank": [
@@ -252,6 +254,7 @@
         11,
         11,
         11,
+        10,
         10,
         10,
         10,
@@ -330,7 +333,8 @@
         241,
         250,
         232,
-        278
+        278,
+        238
       ]
     }
   },
@@ -347,7 +351,7 @@
     {
       "type": "positive",
       "title": "Rising Star",
-      "description": "Improved by 15 positions in views ranking over the last 30 days - showing strong momentum!"
+      "description": "Improved by 14 positions in views ranking over the last 30 days - showing strong momentum!"
     }
   ]
 }

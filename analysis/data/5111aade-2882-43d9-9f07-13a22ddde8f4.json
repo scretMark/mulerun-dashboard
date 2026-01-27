@@ -1,6 +1,6 @@
 {
   "agent_id": "5111aade-2882-43d9-9f07-13a22ddde8f4",
-  "generated_at": "2026-01-25T00:01:10.970779",
+  "generated_at": "2026-01-27T00:01:23.474830",
   "basic_info": {
     "title": "Nimbus",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-14T22:46:52.487000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/nimbus",
-    "days_since_published": 102
+    "days_since_published": 104
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 219,
       "runs_rank": 247,
-      "likes_rank": 217,
-      "total_agents": 298,
-      "views_percentile": 26.5,
-      "runs_percentile": 17.1,
-      "likes_percentile": 27.2
+      "likes_rank": 142,
+      "total_agents": 299,
+      "views_percentile": 26.8,
+      "runs_percentile": 17.4,
+      "likes_percentile": 52.5
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 88,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 89,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 66,
+    "days_tracked": 68,
     "last_7_days": {
-      "views_rank_change": 3,
-      "runs_rank_change": 3,
-      "likes_rank_change": 81
+      "views_rank_change": 2,
+      "runs_rank_change": 2,
+      "likes_rank_change": 74
     },
     "last_30_days": {
       "views_rank_change": 13,
       "runs_rank_change": 20,
-      "likes_rank_change": -30
+      "likes_rank_change": null
     },
     "all_time": {
       "best_views_rank": 196,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 66,
+    "data_points": 67,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-25T08:01:00.718016",
+    "last_recorded": "2026-01-27T08:01:06.918717",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -122,7 +122,8 @@
         "2026-01-21T08:01:03.691655",
         "2026-01-23T08:01:01.579068",
         "2026-01-24T08:01:00.990153",
-        "2026-01-25T08:01:00.718016"
+        "2026-01-25T08:01:00.718016",
+        "2026-01-27T08:01:06.918717"
       ],
       "views_rank": [
         null,
@@ -190,6 +191,7 @@
         217,
         218,
         220,
+        219,
         219
       ],
       "runs_rank": [
@@ -256,6 +258,7 @@
         244,
         244,
         245,
+        247,
         247,
         247,
         247
@@ -326,7 +329,8 @@
         68,
         48,
         46,
-        217
+        217,
+        142
       ]
     }
   },
