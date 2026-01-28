@@ -1,6 +1,6 @@
 {
   "agent_id": "3079e928-f57b-462a-94f8-a041b78534dd",
-  "generated_at": "2026-01-27T00:01:22.462416",
+  "generated_at": "2026-01-28T00:01:14.293061",
   "basic_info": {
     "title": "Mindmap Generator",
     "author": "AngryBerry",
@@ -11,34 +11,34 @@
     "published_at": "2025-10-29T16:06:11.635000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AngryBerry/mindmap-generator",
-    "days_since_published": 89
+    "days_since_published": 90
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 40,
-      "runs_rank": 115,
-      "likes_rank": 298,
+      "runs_rank": 116,
+      "likes_rank": 241,
       "total_agents": 299,
       "views_percentile": 86.6,
-      "runs_percentile": 61.5,
-      "likes_percentile": 0.3
+      "runs_percentile": 61.2,
+      "likes_percentile": 19.4
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 86,
+    "days_tracked": 87,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 68,
+    "days_tracked": 69,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": -2,
-      "likes_rank_change": 102
+      "runs_rank_change": 1,
+      "likes_rank_change": 11
     },
     "last_30_days": {
       "views_rank_change": 4,
-      "runs_rank_change": 5,
+      "runs_rank_change": 6,
       "likes_rank_change": null
     },
     "all_time": {
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 67,
+    "data_points": 68,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-27T08:01:06.918717",
+    "last_recorded": "2026-01-28T08:01:04.643118",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -123,7 +123,8 @@
         "2026-01-23T08:01:01.579068",
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
-        "2026-01-27T08:01:06.918717"
+        "2026-01-27T08:01:06.918717",
+        "2026-01-28T08:01:04.643118"
       ],
       "views_rank": [
         null,
@@ -180,6 +181,7 @@
         38,
         38,
         39,
+        40,
         40,
         40,
         40,
@@ -261,7 +263,8 @@
         115,
         115,
         115,
-        115
+        115,
+        116
       ],
       "likes_rank": [
         null,
@@ -330,7 +333,8 @@
         230,
         285,
         203,
-        298
+        298,
+        241
       ]
     }
   },

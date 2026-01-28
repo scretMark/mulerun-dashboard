@@ -1,6 +1,6 @@
 {
   "agent_id": "f312d26e-e790-4571-a881-2af89a281851",
-  "generated_at": "2026-01-27T00:01:25.243291",
+  "generated_at": "2026-01-28T00:01:16.601089",
   "basic_info": {
     "title": "Cozy Xmas Cube",
     "author": "Norsizu",
@@ -11,40 +11,40 @@
     "published_at": "2025-12-19T16:25:54.256000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/cozy-xmas-cube",
-    "days_since_published": 38
+    "days_since_published": 39
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 293,
       "runs_rank": 286,
-      "likes_rank": 25,
+      "likes_rank": 24,
       "total_agents": 299,
       "views_percentile": 2.0,
       "runs_percentile": 4.3,
-      "likes_percentile": 91.6
+      "likes_percentile": 92.0
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 33,
+    "days_tracked": 34,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 38,
+    "days_tracked": 39,
     "last_7_days": {
-      "views_rank_change": 7,
-      "runs_rank_change": 6,
-      "likes_rank_change": -17
+      "views_rank_change": 3,
+      "runs_rank_change": 2,
+      "likes_rank_change": -7
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": -109
+      "likes_rank_change": -122
     },
     "all_time": {
       "best_views_rank": 271,
       "best_runs_rank": 247,
-      "best_likes_rank": 25,
+      "best_likes_rank": 24,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 293
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 34,
+    "data_points": 35,
     "first_recorded": "2025-12-20T08:01:00.398750",
-    "last_recorded": "2026-01-27T08:01:06.918717",
+    "last_recorded": "2026-01-28T08:01:04.643118",
     "time_series": {
       "dates": [
         "2025-12-20T08:01:00.398750",
@@ -90,7 +90,8 @@
         "2026-01-23T08:01:01.579068",
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
-        "2026-01-27T08:01:06.918717"
+        "2026-01-27T08:01:06.918717",
+        "2026-01-28T08:01:04.643118"
       ],
       "views_rank": [
         null,
@@ -126,6 +127,7 @@
         290,
         291,
         291,
+        293,
         293
       ],
       "runs_rank": [
@@ -162,6 +164,7 @@
         284,
         285,
         285,
+        286,
         286
       ],
       "likes_rank": [
@@ -198,7 +201,8 @@
         31,
         30,
         29,
-        25
+        25,
+        24
       ]
     }
   },
@@ -217,7 +221,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #25 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #24 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

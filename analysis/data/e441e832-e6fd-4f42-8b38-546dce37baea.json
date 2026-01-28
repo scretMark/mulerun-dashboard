@@ -1,6 +1,6 @@
 {
   "agent_id": "e441e832-e6fd-4f42-8b38-546dce37baea",
-  "generated_at": "2026-01-27T00:01:24.591221",
+  "generated_at": "2026-01-28T00:01:16.076799",
   "basic_info": {
     "title": "Bored Ape NFT avatar",
     "author": "Barry",
@@ -11,40 +11,40 @@
     "published_at": "2025-12-01T00:16:36.080000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Barry/bored-ape-nft-avatar",
-    "days_since_published": 56
+    "days_since_published": 57
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 253,
-      "runs_rank": 169,
-      "likes_rank": 17,
+      "runs_rank": 171,
+      "likes_rank": 16,
       "total_agents": 299,
       "views_percentile": 15.4,
-      "runs_percentile": 43.5,
-      "likes_percentile": 94.3
+      "runs_percentile": 42.8,
+      "likes_percentile": 94.6
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 52,
+    "days_tracked": 53,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 55,
+    "days_tracked": 56,
     "last_7_days": {
-      "views_rank_change": 5,
+      "views_rank_change": 3,
       "runs_rank_change": 2,
-      "likes_rank_change": -16
+      "likes_rank_change": -6
     },
     "last_30_days": {
       "views_rank_change": 22,
-      "runs_rank_change": 14,
-      "likes_rank_change": -93
+      "runs_rank_change": 15,
+      "likes_rank_change": -107
     },
     "all_time": {
       "best_views_rank": 217,
       "best_runs_rank": 141,
-      "best_likes_rank": 17,
+      "best_likes_rank": 16,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 253
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 52,
+    "data_points": 53,
     "first_recorded": "2025-12-02T16:52:00.461129",
-    "last_recorded": "2026-01-27T08:01:06.918717",
+    "last_recorded": "2026-01-28T08:01:04.643118",
     "time_series": {
       "dates": [
         "2025-12-02T16:52:00.461129",
@@ -108,7 +108,8 @@
         "2026-01-23T08:01:01.579068",
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
-        "2026-01-27T08:01:06.918717"
+        "2026-01-27T08:01:06.918717",
+        "2026-01-28T08:01:04.643118"
       ],
       "views_rank": [
         null,
@@ -162,6 +163,7 @@
         250,
         250,
         250,
+        253,
         253
       ],
       "runs_rank": [
@@ -216,7 +218,8 @@
         169,
         169,
         169,
-        169
+        169,
+        171
       ],
       "likes_rank": [
         null,
@@ -270,7 +273,8 @@
         22,
         21,
         20,
-        17
+        17,
+        16
       ]
     }
   },
@@ -289,7 +293,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #17 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #16 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     },
     {
       "type": "warning",

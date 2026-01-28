@@ -1,6 +1,6 @@
 {
   "agent_id": "b85e1c2e-2721-4471-8734-1b8a6471564a",
-  "generated_at": "2026-01-27T00:01:22.709452",
+  "generated_at": "2026-01-28T00:01:14.481023",
   "basic_info": {
     "title": "Photo to Sticker",
     "author": "Zane29222",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-11T11:10:42.694000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Zane29222/photo-to-sticker",
-    "days_since_published": 107
+    "days_since_published": 108
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 109,
       "runs_rank": 73,
-      "likes_rank": 207,
+      "likes_rank": 162,
       "total_agents": 299,
       "views_percentile": 63.5,
       "runs_percentile": 75.6,
-      "likes_percentile": 30.8
+      "likes_percentile": 45.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 89,
+    "days_tracked": 90,
     "price": 40.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 68,
+    "days_tracked": 69,
     "last_7_days": {
-      "views_rank_change": -1,
-      "runs_rank_change": 0,
-      "likes_rank_change": 72
+      "views_rank_change": 0,
+      "runs_rank_change": 1,
+      "likes_rank_change": -57
     },
     "last_30_days": {
       "views_rank_change": 2,
       "runs_rank_change": 2,
-      "likes_rank_change": 148
+      "likes_rank_change": 90
     },
     "all_time": {
       "best_views_rank": 104,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 67,
+    "data_points": 68,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-27T08:01:06.918717",
+    "last_recorded": "2026-01-28T08:01:04.643118",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -123,7 +123,8 @@
         "2026-01-23T08:01:01.579068",
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
-        "2026-01-27T08:01:06.918717"
+        "2026-01-27T08:01:06.918717",
+        "2026-01-28T08:01:04.643118"
       ],
       "views_rank": [
         null,
@@ -189,6 +190,7 @@
         110,
         110,
         110,
+        109,
         109,
         109,
         109,
@@ -261,6 +263,7 @@
         72,
         72,
         72,
+        73,
         73
       ],
       "likes_rank": [
@@ -330,7 +333,8 @@
         219,
         163,
         136,
-        207
+        207,
+        162
       ]
     }
   },

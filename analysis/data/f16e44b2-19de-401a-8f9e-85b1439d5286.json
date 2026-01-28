@@ -1,6 +1,6 @@
 {
   "agent_id": "f16e44b2-19de-401a-8f9e-85b1439d5286",
-  "generated_at": "2026-01-27T00:01:24.908956",
+  "generated_at": "2026-01-28T00:01:16.355083",
   "basic_info": {
     "title": "The room turns into Chinese style",
     "author": "8bit",
@@ -11,40 +11,40 @@
     "published_at": "2025-12-09T10:00:12.121000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/the-room-turns-into-chinese-style",
-    "days_since_published": 48
+    "days_since_published": 49
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 294,
       "runs_rank": 230,
-      "likes_rank": 22,
+      "likes_rank": 21,
       "total_agents": 299,
       "views_percentile": 1.7,
       "runs_percentile": 23.1,
-      "likes_percentile": 92.6
+      "likes_percentile": 93.0
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 45,
+    "days_tracked": 46,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 46,
+    "days_tracked": 47,
     "last_7_days": {
-      "views_rank_change": 7,
-      "runs_rank_change": 2,
-      "likes_rank_change": -17
+      "views_rank_change": 3,
+      "runs_rank_change": 0,
+      "likes_rank_change": -7
     },
     "last_30_days": {
       "views_rank_change": null,
-      "runs_rank_change": 20,
-      "likes_rank_change": -101
+      "runs_rank_change": 19,
+      "likes_rank_change": -115
     },
     "all_time": {
       "best_views_rank": 245,
       "best_runs_rank": 193,
-      "best_likes_rank": 22,
+      "best_likes_rank": 21,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 294
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 45,
+    "data_points": 46,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2026-01-27T08:01:06.918717",
+    "last_recorded": "2026-01-28T08:01:04.643118",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -101,7 +101,8 @@
         "2026-01-23T08:01:01.579068",
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
-        "2026-01-27T08:01:06.918717"
+        "2026-01-27T08:01:06.918717",
+        "2026-01-28T08:01:04.643118"
       ],
       "views_rank": [
         null,
@@ -148,6 +149,7 @@
         291,
         292,
         292,
+        294,
         294
       ],
       "runs_rank": [
@@ -192,6 +194,7 @@
         228,
         228,
         228,
+        230,
         230,
         230,
         230,
@@ -242,7 +245,8 @@
         28,
         27,
         26,
-        22
+        22,
+        21
       ]
     }
   },
@@ -261,7 +265,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #22 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #21 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

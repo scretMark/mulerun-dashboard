@@ -1,6 +1,6 @@
 {
   "agent_id": "805eb8a2-6450-4dd0-a545-43f5776fe86b",
-  "generated_at": "2026-01-27T00:01:25.722437",
+  "generated_at": "2026-01-28T00:01:16.995827",
   "basic_info": {
     "title": "YouTube StudySlice",
     "author": "laughing_code",
@@ -11,17 +11,17 @@
     "published_at": "2026-01-05T09:54:17.078000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@laughing_code/youtube-studyslice",
-    "days_since_published": 21
+    "days_since_published": 22
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 252,
       "runs_rank": 202,
-      "likes_rank": 256,
+      "likes_rank": 177,
       "total_agents": 299,
       "views_percentile": 15.7,
       "runs_percentile": 32.4,
-      "likes_percentile": 14.4
+      "likes_percentile": 40.8
     },
     "tier": "Low",
     "tier_class": "low",
@@ -30,16 +30,16 @@
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 12,
+    "days_tracked": 13,
     "last_7_days": {
-      "views_rank_change": -3,
-      "runs_rank_change": -1,
-      "likes_rank_change": 172
+      "views_rank_change": -1,
+      "runs_rank_change": 1,
+      "likes_rank_change": 8
     },
     "last_30_days": {
       "views_rank_change": -8,
       "runs_rank_change": 0,
-      "likes_rank_change": 40
+      "likes_rank_change": -39
     },
     "all_time": {
       "best_views_rank": 252,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 11,
+    "data_points": 12,
     "first_recorded": "2026-01-15T08:01:02.601407",
-    "last_recorded": "2026-01-27T08:01:06.918717",
+    "last_recorded": "2026-01-28T08:01:04.643118",
     "time_series": {
       "dates": [
         "2026-01-15T08:01:02.601407",
@@ -67,7 +67,8 @@
         "2026-01-23T08:01:01.579068",
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
-        "2026-01-27T08:01:06.918717"
+        "2026-01-27T08:01:06.918717",
+        "2026-01-28T08:01:04.643118"
       ],
       "views_rank": [
         260,
@@ -80,6 +81,7 @@
         253,
         252,
         253,
+        252,
         252
       ],
       "runs_rank": [
@@ -93,6 +95,7 @@
         201,
         201,
         201,
+        202,
         202
       ],
       "likes_rank": [
@@ -106,7 +109,8 @@
         169,
         237,
         182,
-        256
+        256,
+        177
       ]
     }
   },

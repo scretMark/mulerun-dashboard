@@ -1,6 +1,6 @@
 {
   "agent_id": "65ab6667-615b-42c2-a1b8-a90848db7493",
-  "generated_at": "2026-01-27T00:01:24.979972",
+  "generated_at": "2026-01-28T00:01:16.404702",
   "basic_info": {
     "title": "Generate vintage-style old photo",
     "author": "8bit",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-10T17:29:24.993000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/generate-vintage-style-old-photo",
-    "days_since_published": 47
+    "days_since_published": 48
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 284,
       "runs_rank": 253,
-      "likes_rank": 113,
+      "likes_rank": 98,
       "total_agents": 299,
       "views_percentile": 5.0,
       "runs_percentile": 15.4,
-      "likes_percentile": 62.2
+      "likes_percentile": 67.2
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 45,
+    "days_tracked": 46,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 46,
+    "days_tracked": 47,
     "last_7_days": {
-      "views_rank_change": 5,
-      "runs_rank_change": 5,
-      "likes_rank_change": -14
+      "views_rank_change": 2,
+      "runs_rank_change": 2,
+      "likes_rank_change": -176
     },
     "last_30_days": {
       "views_rank_change": null,
-      "runs_rank_change": 15,
-      "likes_rank_change": 22
+      "runs_rank_change": 14,
+      "likes_rank_change": -7
     },
     "all_time": {
       "best_views_rank": 243,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 45,
+    "data_points": 46,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2026-01-27T08:01:06.918717",
+    "last_recorded": "2026-01-28T08:01:04.643118",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -101,7 +101,8 @@
         "2026-01-23T08:01:01.579068",
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
-        "2026-01-27T08:01:06.918717"
+        "2026-01-27T08:01:06.918717",
+        "2026-01-28T08:01:04.643118"
       ],
       "views_rank": [
         null,
@@ -148,6 +149,7 @@
         282,
         283,
         283,
+        284,
         284
       ],
       "runs_rank": [
@@ -195,6 +197,7 @@
         251,
         251,
         251,
+        253,
         253
       ],
       "likes_rank": [
@@ -242,7 +245,8 @@
         274,
         185,
         152,
-        113
+        113,
+        98
       ]
     }
   },

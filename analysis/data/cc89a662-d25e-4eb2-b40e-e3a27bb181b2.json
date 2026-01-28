@@ -1,6 +1,6 @@
 {
   "agent_id": "cc89a662-d25e-4eb2-b40e-e3a27bb181b2",
-  "generated_at": "2026-01-27T00:01:25.665485",
+  "generated_at": "2026-01-28T00:01:16.935163",
   "basic_info": {
     "title": "Top-video YouTube Tracking",
     "author": "Rhino",
@@ -11,50 +11,50 @@
     "published_at": "2026-01-07T00:33:13.319000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Rhino/youtubetitle",
-    "days_since_published": 19
+    "days_since_published": 20
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 267,
+      "views_rank": 265,
       "runs_rank": 267,
-      "likes_rank": 215,
+      "likes_rank": 234,
       "total_agents": 299,
-      "views_percentile": 10.7,
+      "views_percentile": 11.4,
       "runs_percentile": 10.7,
-      "likes_percentile": 28.1
+      "likes_percentile": 21.7
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 17,
+    "days_tracked": 18,
     "price": 8.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 19,
+    "days_tracked": 20,
     "last_7_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": 5,
-      "likes_rank_change": 156
-    },
-    "last_30_days": {
-      "views_rank_change": -9,
-      "runs_rank_change": 6,
+      "views_rank_change": -4,
+      "runs_rank_change": 2,
       "likes_rank_change": 192
     },
+    "last_30_days": {
+      "views_rank_change": -11,
+      "runs_rank_change": 6,
+      "likes_rank_change": 211
+    },
     "all_time": {
-      "best_views_rank": 266,
+      "best_views_rank": 265,
       "best_runs_rank": 261,
       "best_likes_rank": 23,
       "days_in_top_10": 0,
       "first_rank": 276,
-      "current_rank": 267
+      "current_rank": 265
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 17,
+    "data_points": 18,
     "first_recorded": "2026-01-08T08:01:02.485852",
-    "last_recorded": "2026-01-27T08:01:06.918717",
+    "last_recorded": "2026-01-28T08:01:04.643118",
     "time_series": {
       "dates": [
         "2026-01-08T08:01:02.485852",
@@ -73,7 +73,8 @@
         "2026-01-23T08:01:01.579068",
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
-        "2026-01-27T08:01:06.918717"
+        "2026-01-27T08:01:06.918717",
+        "2026-01-28T08:01:04.643118"
       ],
       "views_rank": [
         276,
@@ -92,7 +93,8 @@
         269,
         267,
         267,
-        267
+        267,
+        265
       ],
       "runs_rank": [
         261,
@@ -111,6 +113,7 @@
         265,
         266,
         266,
+        267,
         267
       ],
       "likes_rank": [
@@ -130,7 +133,8 @@
         42,
         242,
         186,
-        215
+        215,
+        234
       ]
     }
   },
@@ -147,9 +151,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #267 out of 299 active agents."
+      "type": "positive",
+      "title": "Rising Star",
+      "description": "Improved by 11 positions in views ranking over the last 30 days - showing strong momentum!"
     }
   ]
 }

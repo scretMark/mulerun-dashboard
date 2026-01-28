@@ -1,6 +1,6 @@
 {
   "agent_id": "ca8f87b0-cc33-4e18-973d-04031871e731",
-  "generated_at": "2026-01-27T00:01:21.937966",
+  "generated_at": "2026-01-28T00:01:13.752318",
   "basic_info": {
     "title": "General Browser Operator",
     "author": "Ailurus",
@@ -11,50 +11,50 @@
     "published_at": "2025-10-31T13:30:41.517000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Ailurus/general-browser-operator",
-    "days_since_published": 87
+    "days_since_published": 88
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 2,
-      "runs_rank": 1,
-      "likes_rank": 274,
+      "runs_rank": 2,
+      "likes_rank": 286,
       "total_agents": 299,
       "views_percentile": 99.3,
-      "runs_percentile": 99.7,
-      "likes_percentile": 8.4
+      "runs_percentile": 99.3,
+      "likes_percentile": 4.3
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 98,
+    "days_tracked": 99,
     "price": 1.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 69,
+    "days_tracked": 70,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 0,
-      "likes_rank_change": -19
+      "runs_rank_change": 1,
+      "likes_rank_change": -8
     },
     "last_30_days": {
       "views_rank_change": -1,
-      "runs_rank_change": 0,
-      "likes_rank_change": null
+      "runs_rank_change": 1,
+      "likes_rank_change": 248
     },
     "all_time": {
       "best_views_rank": 2,
       "best_runs_rank": 1,
       "best_likes_rank": 29,
-      "days_in_top_10": 40,
+      "days_in_top_10": 41,
       "first_rank": null,
       "current_rank": 2
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 68,
+    "data_points": 69,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-27T08:01:06.918717",
+    "last_recorded": "2026-01-28T08:01:04.643118",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -124,7 +124,8 @@
         "2026-01-23T08:01:01.579068",
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
-        "2026-01-27T08:01:06.918717"
+        "2026-01-27T08:01:06.918717",
+        "2026-01-28T08:01:04.643118"
       ],
       "views_rank": [
         null,
@@ -179,6 +180,7 @@
         3,
         3,
         3,
+        2,
         2,
         2,
         2,
@@ -264,7 +266,8 @@
         1,
         1,
         1,
-        1
+        1,
+        2
       ],
       "likes_rank": [
         null,
@@ -334,7 +337,8 @@
         294,
         293,
         285,
-        274
+        274,
+        286
       ]
     }
   },
@@ -346,7 +350,7 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #1 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #2 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     },
     {
       "type": "positive",
@@ -356,7 +360,7 @@
     {
       "type": "positive",
       "title": "Consistent Top Performer",
-      "description": "Maintained Top 10 ranking for 40 days - showing sustained excellence and user preference."
+      "description": "Maintained Top 10 ranking for 41 days - showing sustained excellence and user preference."
     },
     {
       "type": "info",
@@ -366,7 +370,7 @@
     {
       "type": "info",
       "title": "Premium Agent Success",
-      "description": "Despite $1.0 pricing, this agent ranks #1 in usage - demonstrating strong value proposition."
+      "description": "Despite $1.0 pricing, this agent ranks #2 in usage - demonstrating strong value proposition."
     }
   ]
 }

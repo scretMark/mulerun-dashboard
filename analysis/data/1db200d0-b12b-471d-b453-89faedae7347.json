@@ -1,6 +1,6 @@
 {
   "agent_id": "1db200d0-b12b-471d-b453-89faedae7347",
-  "generated_at": "2026-01-27T00:01:23.186122",
+  "generated_at": "2026-01-28T00:01:14.836695",
   "basic_info": {
     "title": "ScriptCraft AI",
     "author": "Supremebbb096b",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-30T18:03:30.737000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Supremebbb096b/scriptcraft-ai",
-    "days_since_published": 88
+    "days_since_published": 89
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 38,
       "runs_rank": 78,
-      "likes_rank": 145,
+      "likes_rank": 228,
       "total_agents": 299,
       "views_percentile": 87.3,
       "runs_percentile": 73.9,
-      "likes_percentile": 51.5
+      "likes_percentile": 23.7
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 99,
+    "days_tracked": 100,
     "price": 3.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 68,
+    "days_tracked": 69,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 1,
-      "likes_rank_change": -134
+      "runs_rank_change": 0,
+      "likes_rank_change": -21
     },
     "last_30_days": {
       "views_rank_change": 4,
       "runs_rank_change": 4,
-      "likes_rank_change": -35
+      "likes_rank_change": 40
     },
     "all_time": {
       "best_views_rank": 34,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 67,
+    "data_points": 68,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-27T08:01:06.918717",
+    "last_recorded": "2026-01-28T08:01:04.643118",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -123,7 +123,8 @@
         "2026-01-23T08:01:01.579068",
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
-        "2026-01-27T08:01:06.918717"
+        "2026-01-27T08:01:06.918717",
+        "2026-01-28T08:01:04.643118"
       ],
       "views_rank": [
         null,
@@ -181,6 +182,7 @@
         37,
         37,
         37,
+        38,
         38,
         38,
         38,
@@ -261,6 +263,7 @@
         78,
         78,
         78,
+        78,
         78
       ],
       "likes_rank": [
@@ -330,7 +333,8 @@
         249,
         172,
         223,
-        145
+        145,
+        228
       ]
     }
   },

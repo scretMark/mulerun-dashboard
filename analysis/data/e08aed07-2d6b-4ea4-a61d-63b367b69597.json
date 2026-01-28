@@ -1,6 +1,6 @@
 {
   "agent_id": "e08aed07-2d6b-4ea4-a61d-63b367b69597",
-  "generated_at": "2026-01-27T00:01:24.507340",
+  "generated_at": "2026-01-28T00:01:16.012650",
   "basic_info": {
     "title": "Winter Cinema",
     "author": "luckyy",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-20T15:43:31.761000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@luckyy/winter-cinema",
-    "days_since_published": 67
+    "days_since_published": 68
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 232,
-      "runs_rank": 172,
-      "likes_rank": 181,
+      "runs_rank": 173,
+      "likes_rank": 145,
       "total_agents": 299,
       "views_percentile": 22.4,
-      "runs_percentile": 42.5,
-      "likes_percentile": 39.5
+      "runs_percentile": 42.1,
+      "likes_percentile": 51.5
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 65,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 66,
     "price": 23.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 64,
+    "days_tracked": 65,
     "last_7_days": {
-      "views_rank_change": 4,
-      "runs_rank_change": 4,
-      "likes_rank_change": 94
+      "views_rank_change": 0,
+      "runs_rank_change": 2,
+      "likes_rank_change": 86
     },
     "last_30_days": {
-      "views_rank_change": 13,
+      "views_rank_change": 15,
       "runs_rank_change": 18,
-      "likes_rank_change": 43
+      "likes_rank_change": -6
     },
     "all_time": {
       "best_views_rank": 209,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 64,
+    "data_points": 65,
     "first_recorded": "2025-11-23T13:27:48.290198",
-    "last_recorded": "2026-01-27T08:01:06.918717",
+    "last_recorded": "2026-01-28T08:01:04.643118",
     "time_series": {
       "dates": [
         "2025-11-23T13:27:48.290198",
@@ -120,7 +120,8 @@
         "2026-01-23T08:01:01.579068",
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
-        "2026-01-27T08:01:06.918717"
+        "2026-01-27T08:01:06.918717",
+        "2026-01-28T08:01:04.643118"
       ],
       "views_rank": [
         null,
@@ -186,6 +187,7 @@
         232,
         232,
         233,
+        232,
         232
       ],
       "runs_rank": [
@@ -252,7 +254,8 @@
         171,
         171,
         172,
-        172
+        172,
+        173
       ],
       "likes_rank": [
         null,
@@ -318,7 +321,8 @@
         59,
         55,
         null,
-        181
+        181,
+        145
       ]
     }
   },
@@ -337,7 +341,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 13 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 15 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

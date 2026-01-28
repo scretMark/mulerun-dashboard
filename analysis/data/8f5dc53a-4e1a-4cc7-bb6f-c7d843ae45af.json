@@ -1,6 +1,6 @@
 {
   "agent_id": "8f5dc53a-4e1a-4cc7-bb6f-c7d843ae45af",
-  "generated_at": "2026-01-27T00:01:25.801543",
+  "generated_at": "2026-01-28T00:01:17.084576",
   "basic_info": {
     "title": "Snapmath - AI Math Homework Helper",
     "author": "quseit",
@@ -11,32 +11,40 @@
     "published_at": "2026-01-25T16:37:10.382000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@quseit/math-homework-helper",
-    "days_since_published": 1
+    "days_since_published": 2
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 250,
-      "runs_rank": 249,
-      "likes_rank": 269,
+      "runs_rank": 242,
+      "likes_rank": 195,
       "total_agents": 299,
       "views_percentile": 16.4,
-      "runs_percentile": 16.7,
-      "likes_percentile": 10.0
+      "runs_percentile": 19.1,
+      "likes_percentile": 34.8
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 0,
+    "days_tracked": 1,
     "price": 2.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 0,
-    "last_7_days": {},
-    "last_30_days": {},
+    "days_tracked": 1,
+    "last_7_days": {
+      "views_rank_change": 0,
+      "runs_rank_change": -7,
+      "likes_rank_change": -74
+    },
+    "last_30_days": {
+      "views_rank_change": 0,
+      "runs_rank_change": -7,
+      "likes_rank_change": -74
+    },
     "all_time": {
       "best_views_rank": 250,
-      "best_runs_rank": 249,
-      "best_likes_rank": 269,
+      "best_runs_rank": 242,
+      "best_likes_rank": 195,
       "days_in_top_10": 0,
       "first_rank": 250,
       "current_rank": 250
@@ -44,21 +52,25 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 1,
+    "data_points": 2,
     "first_recorded": "2026-01-27T08:01:06.918717",
-    "last_recorded": "2026-01-27T08:01:06.918717",
+    "last_recorded": "2026-01-28T08:01:04.643118",
     "time_series": {
       "dates": [
-        "2026-01-27T08:01:06.918717"
+        "2026-01-27T08:01:06.918717",
+        "2026-01-28T08:01:04.643118"
       ],
       "views_rank": [
+        250,
         250
       ],
       "runs_rank": [
-        249
+        249,
+        242
       ],
       "likes_rank": [
-        269
+        269,
+        195
       ]
     }
   },

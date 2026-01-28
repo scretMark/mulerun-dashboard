@@ -1,6 +1,6 @@
 {
   "agent_id": "ca22ef2a-7104-4d88-86a5-106d9008cd6b",
-  "generated_at": "2026-01-27T00:01:25.270073",
+  "generated_at": "2026-01-28T00:01:16.620936",
   "basic_info": {
     "title": "Xmas Monster Market",
     "author": "Norsizu",
@@ -11,40 +11,40 @@
     "published_at": "2025-12-19T16:34:38.383000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/xmas-monster-market",
-    "days_since_published": 38
+    "days_since_published": 39
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 296,
       "runs_rank": 293,
-      "likes_rank": 9,
+      "likes_rank": 8,
       "total_agents": 299,
       "views_percentile": 1.0,
       "runs_percentile": 2.0,
-      "likes_percentile": 97.0
+      "likes_percentile": 97.3
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 33,
+    "days_tracked": 34,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 38,
+    "days_tracked": 39,
     "last_7_days": {
-      "views_rank_change": 7,
-      "runs_rank_change": 7,
-      "likes_rank_change": -12
+      "views_rank_change": 3,
+      "runs_rank_change": 3,
+      "likes_rank_change": -4
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": -73
+      "likes_rank_change": -88
     },
     "all_time": {
       "best_views_rank": 273,
       "best_runs_rank": 272,
-      "best_likes_rank": 9,
+      "best_likes_rank": 8,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 296
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 34,
+    "data_points": 35,
     "first_recorded": "2025-12-20T08:01:00.398750",
-    "last_recorded": "2026-01-27T08:01:06.918717",
+    "last_recorded": "2026-01-28T08:01:04.643118",
     "time_series": {
       "dates": [
         "2025-12-20T08:01:00.398750",
@@ -90,7 +90,8 @@
         "2026-01-23T08:01:01.579068",
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
-        "2026-01-27T08:01:06.918717"
+        "2026-01-27T08:01:06.918717",
+        "2026-01-28T08:01:04.643118"
       ],
       "views_rank": [
         null,
@@ -126,6 +127,7 @@
         293,
         295,
         295,
+        296,
         296
       ],
       "runs_rank": [
@@ -162,6 +164,7 @@
         290,
         292,
         292,
+        293,
         293
       ],
       "likes_rank": [
@@ -198,7 +201,8 @@
         12,
         11,
         10,
-        9
+        9,
+        8
       ]
     }
   },
@@ -217,7 +221,7 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #9 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #8 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     }
   ]
 }

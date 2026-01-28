@@ -1,6 +1,6 @@
 {
   "agent_id": "fa9b8072-0321-4f46-9194-b154eaeef6bb",
-  "generated_at": "2026-01-27T00:01:22.756552",
+  "generated_at": "2026-01-28T00:01:14.513504",
   "basic_info": {
     "title": "Ink Alive",
     "author": "AllenCreator",
@@ -11,34 +11,34 @@
     "published_at": "2025-10-12T17:38:21.168000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AllenCreator/ink-alive",
-    "days_since_published": 106
+    "days_since_published": 107
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 188,
       "runs_rank": 107,
-      "likes_rank": 58,
+      "likes_rank": 55,
       "total_agents": 299,
       "views_percentile": 37.1,
       "runs_percentile": 64.2,
-      "likes_percentile": 80.6
+      "likes_percentile": 81.6
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 89,
+    "days_tracked": 90,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 68,
+    "days_tracked": 69,
     "last_7_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": 1,
-      "likes_rank_change": -111
+      "views_rank_change": 0,
+      "runs_rank_change": 0,
+      "likes_rank_change": -41
     },
     "last_30_days": {
       "views_rank_change": 7,
-      "runs_rank_change": 8,
+      "runs_rank_change": 7,
       "likes_rank_change": 47
     },
     "all_time": {
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 67,
+    "data_points": 68,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-27T08:01:06.918717",
+    "last_recorded": "2026-01-28T08:01:04.643118",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -123,7 +123,8 @@
         "2026-01-23T08:01:01.579068",
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
-        "2026-01-27T08:01:06.918717"
+        "2026-01-27T08:01:06.918717",
+        "2026-01-28T08:01:04.643118"
       ],
       "views_rank": [
         null,
@@ -189,6 +190,7 @@
         188,
         188,
         187,
+        188,
         188,
         188,
         188,
@@ -261,6 +263,7 @@
         107,
         107,
         107,
+        107,
         107
       ],
       "likes_rank": [
@@ -330,7 +333,8 @@
         96,
         87,
         74,
-        58
+        58,
+        55
       ]
     }
   },
@@ -342,7 +346,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #58 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #55 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

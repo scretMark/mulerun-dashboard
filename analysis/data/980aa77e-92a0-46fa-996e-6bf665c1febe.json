@@ -1,6 +1,6 @@
 {
   "agent_id": "980aa77e-92a0-46fa-996e-6bf665c1febe",
-  "generated_at": "2026-01-27T00:01:23.806751",
+  "generated_at": "2026-01-28T00:01:15.475967",
   "basic_info": {
     "title": "LegoFigBox",
     "author": "HongwuQz",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-25T12:41:18.171000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@HongwuQz/legofigbox",
-    "days_since_published": 123
+    "days_since_published": 124
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 105,
       "runs_rank": 102,
-      "likes_rank": 271,
+      "likes_rank": 181,
       "total_agents": 299,
       "views_percentile": 64.9,
       "runs_percentile": 65.9,
-      "likes_percentile": 9.4
+      "likes_percentile": 39.5
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 118,
+    "days_tracked": 119,
     "price": 20.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 68,
+    "days_tracked": 69,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 1,
-      "likes_rank_change": 115
+      "runs_rank_change": 0,
+      "likes_rank_change": 27
     },
     "last_30_days": {
       "views_rank_change": 7,
       "runs_rank_change": 5,
-      "likes_rank_change": 95
+      "likes_rank_change": -2
     },
     "all_time": {
       "best_views_rank": 95,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 67,
+    "data_points": 68,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-27T08:01:06.918717",
+    "last_recorded": "2026-01-28T08:01:04.643118",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -123,7 +123,8 @@
         "2026-01-23T08:01:01.579068",
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
-        "2026-01-27T08:01:06.918717"
+        "2026-01-27T08:01:06.918717",
+        "2026-01-28T08:01:04.643118"
       ],
       "views_rank": [
         null,
@@ -192,6 +193,7 @@
         104,
         105,
         105,
+        105,
         105
       ],
       "runs_rank": [
@@ -258,6 +260,7 @@
         101,
         101,
         101,
+        102,
         102,
         102,
         102,
@@ -330,7 +333,8 @@
         154,
         125,
         276,
-        271
+        271,
+        181
       ]
     }
   },

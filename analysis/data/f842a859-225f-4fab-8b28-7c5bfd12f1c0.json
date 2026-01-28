@@ -1,6 +1,6 @@
 {
   "agent_id": "f842a859-225f-4fab-8b28-7c5bfd12f1c0",
-  "generated_at": "2026-01-27T00:01:24.023210",
+  "generated_at": "2026-01-28T00:01:15.680044",
   "basic_info": {
     "title": "Excuse Saviour",
     "author": "Excel",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-05T18:21:23.665000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Excel/excuse-saviour",
-    "days_since_published": 113
+    "days_since_published": 114
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 135,
       "runs_rank": 151,
-      "likes_rank": 295,
+      "likes_rank": 191,
       "total_agents": 299,
       "views_percentile": 54.8,
       "runs_percentile": 49.5,
-      "likes_percentile": 1.3
+      "likes_percentile": 36.1
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 94,
+    "days_tracked": 95,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 68,
+    "days_tracked": 69,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 2,
-      "likes_rank_change": 158
+      "runs_rank_change": 0,
+      "likes_rank_change": -20
     },
     "last_30_days": {
-      "views_rank_change": 6,
+      "views_rank_change": 5,
       "runs_rank_change": 12,
-      "likes_rank_change": 103
+      "likes_rank_change": -8
     },
     "all_time": {
       "best_views_rank": 128,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 67,
+    "data_points": 68,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-27T08:01:06.918717",
+    "last_recorded": "2026-01-28T08:01:04.643118",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -123,7 +123,8 @@
         "2026-01-23T08:01:01.579068",
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
-        "2026-01-27T08:01:06.918717"
+        "2026-01-27T08:01:06.918717",
+        "2026-01-28T08:01:04.643118"
       ],
       "views_rank": [
         null,
@@ -192,6 +193,7 @@
         134,
         134,
         135,
+        135,
         135
       ],
       "runs_rank": [
@@ -258,6 +260,7 @@
         148,
         148,
         149,
+        151,
         151,
         151,
         151,
@@ -330,7 +333,8 @@
         211,
         206,
         163,
-        295
+        295,
+        191
       ]
     }
   },

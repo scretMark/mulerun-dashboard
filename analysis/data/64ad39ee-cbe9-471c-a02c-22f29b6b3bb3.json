@@ -1,6 +1,6 @@
 {
   "agent_id": "64ad39ee-cbe9-471c-a02c-22f29b6b3bb3",
-  "generated_at": "2026-01-27T00:01:25.685323",
+  "generated_at": "2026-01-28T00:01:16.953901",
   "basic_info": {
     "title": "PixelSensei",
     "author": "LunarAITalk",
@@ -11,35 +11,35 @@
     "published_at": "2026-01-01T19:25:02.602000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LunarAITalk/pixelsensei",
-    "days_since_published": 25
+    "days_since_published": 26
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 160,
       "runs_rank": 93,
-      "likes_rank": 254,
+      "likes_rank": 219,
       "total_agents": 299,
       "views_percentile": 46.5,
       "runs_percentile": 68.9,
-      "likes_percentile": 15.1
+      "likes_percentile": 26.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 15,
+    "days_tracked": 16,
     "price": 20.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 17,
+    "days_tracked": 18,
     "last_7_days": {
-      "views_rank_change": -19,
-      "runs_rank_change": -2,
-      "likes_rank_change": 54
+      "views_rank_change": -7,
+      "runs_rank_change": 0,
+      "likes_rank_change": -56
     },
     "last_30_days": {
       "views_rank_change": -91,
       "runs_rank_change": -129,
-      "likes_rank_change": 180
+      "likes_rank_change": 145
     },
     "all_time": {
       "best_views_rank": 160,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 16,
+    "data_points": 17,
     "first_recorded": "2026-01-10T08:01:02.077885",
-    "last_recorded": "2026-01-27T08:01:06.918717",
+    "last_recorded": "2026-01-28T08:01:04.643118",
     "time_series": {
       "dates": [
         "2026-01-10T08:01:02.077885",
@@ -72,7 +72,8 @@
         "2026-01-23T08:01:01.579068",
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
-        "2026-01-27T08:01:06.918717"
+        "2026-01-27T08:01:06.918717",
+        "2026-01-28T08:01:04.643118"
       ],
       "views_rank": [
         251,
@@ -90,6 +91,7 @@
         167,
         163,
         161,
+        160,
         160
       ],
       "runs_rank": [
@@ -107,6 +109,7 @@
         95,
         93,
         92,
+        93,
         93,
         93
       ],
@@ -126,7 +129,8 @@
         275,
         263,
         244,
-        254
+        254,
+        219
       ]
     }
   },
@@ -155,7 +159,7 @@
     {
       "type": "positive",
       "title": "Hot Trend",
-      "description": "Up 19 positions in just 7 days - currently trending and gaining rapid visibility!"
+      "description": "Up 7 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

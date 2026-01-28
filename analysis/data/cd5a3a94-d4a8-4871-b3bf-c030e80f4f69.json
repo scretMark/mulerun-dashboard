@@ -1,6 +1,6 @@
 {
   "agent_id": "cd5a3a94-d4a8-4871-b3bf-c030e80f4f69",
-  "generated_at": "2026-01-27T00:01:24.069886",
+  "generated_at": "2026-01-28T00:01:15.723798",
   "basic_info": {
     "title": "Chiikawa In 9-Grid",
     "author": "dotb78",
@@ -11,40 +11,40 @@
     "published_at": "2025-10-04T11:38:48.535000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@dotb78/chiikawa-in-9-grid",
-    "days_since_published": 114
+    "days_since_published": 115
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 158,
       "runs_rank": 217,
-      "likes_rank": 64,
+      "likes_rank": 60,
       "total_agents": 299,
       "views_percentile": 47.2,
       "runs_percentile": 27.4,
-      "likes_percentile": 78.6
+      "likes_percentile": 79.9
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 89,
+    "days_tracked": 90,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 68,
+    "days_tracked": 69,
     "last_7_days": {
-      "views_rank_change": 3,
-      "runs_rank_change": 2,
-      "likes_rank_change": -164
+      "views_rank_change": 2,
+      "runs_rank_change": 0,
+      "likes_rank_change": -53
     },
     "last_30_days": {
       "views_rank_change": 10,
-      "runs_rank_change": 19,
-      "likes_rank_change": -110
+      "runs_rank_change": 17,
+      "likes_rank_change": -121
     },
     "all_time": {
       "best_views_rank": 144,
       "best_runs_rank": 188,
-      "best_likes_rank": 64,
+      "best_likes_rank": 60,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 158
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 67,
+    "data_points": 68,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-27T08:01:06.918717",
+    "last_recorded": "2026-01-28T08:01:04.643118",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -123,7 +123,8 @@
         "2026-01-23T08:01:01.579068",
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
-        "2026-01-27T08:01:06.918717"
+        "2026-01-27T08:01:06.918717",
+        "2026-01-28T08:01:04.643118"
       ],
       "views_rank": [
         null,
@@ -192,6 +193,7 @@
         156,
         157,
         158,
+        158,
         158
       ],
       "runs_rank": [
@@ -258,6 +260,7 @@
         213,
         215,
         215,
+        217,
         217,
         217,
         217,
@@ -330,7 +333,8 @@
         113,
         97,
         81,
-        64
+        64,
+        60
       ]
     }
   },

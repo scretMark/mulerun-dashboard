@@ -1,6 +1,6 @@
 {
   "agent_id": "4d3ad16f-3541-4f9a-b9d2-9314a582b012",
-  "generated_at": "2026-01-27T00:01:25.635370",
+  "generated_at": "2026-01-28T00:01:16.907521",
   "basic_info": {
     "title": "Thesis Lens",
     "author": "liang_caoqw1",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-30T17:57:21.268000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@liang_caoqw1/deepscholar",
-    "days_since_published": 27
+    "days_since_published": 28
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 251,
       "runs_rank": 214,
-      "likes_rank": 252,
+      "likes_rank": 176,
       "total_agents": 299,
       "views_percentile": 16.1,
       "runs_percentile": 28.4,
-      "likes_percentile": 15.7
+      "likes_percentile": 41.1
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 22,
+    "days_tracked": 23,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 21,
+    "days_tracked": 22,
     "last_7_days": {
-      "views_rank_change": 2,
-      "runs_rank_change": 3,
-      "likes_rank_change": 162
+      "views_rank_change": 0,
+      "runs_rank_change": 1,
+      "likes_rank_change": 114
     },
     "last_30_days": {
       "views_rank_change": 1,
       "runs_rank_change": 1,
-      "likes_rank_change": 173
+      "likes_rank_change": 97
     },
     "all_time": {
       "best_views_rank": 247,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 20,
+    "data_points": 21,
     "first_recorded": "2026-01-05T08:01:10.022221",
-    "last_recorded": "2026-01-27T08:01:06.918717",
+    "last_recorded": "2026-01-28T08:01:04.643118",
     "time_series": {
       "dates": [
         "2026-01-05T08:01:10.022221",
@@ -76,7 +76,8 @@
         "2026-01-23T08:01:01.579068",
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
-        "2026-01-27T08:01:06.918717"
+        "2026-01-27T08:01:06.918717",
+        "2026-01-28T08:01:04.643118"
       ],
       "views_rank": [
         250,
@@ -95,6 +96,7 @@
         249,
         249,
         249,
+        251,
         251,
         251,
         251,
@@ -120,6 +122,7 @@
         213,
         213,
         213,
+        214,
         214
       ],
       "likes_rank": [
@@ -142,7 +145,8 @@
         62,
         57,
         52,
-        252
+        252,
+        176
       ]
     }
   },

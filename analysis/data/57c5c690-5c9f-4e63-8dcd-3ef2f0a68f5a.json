@@ -1,6 +1,6 @@
 {
   "agent_id": "57c5c690-5c9f-4e63-8dcd-3ef2f0a68f5a",
-  "generated_at": "2026-01-27T00:01:24.872350",
+  "generated_at": "2026-01-28T00:01:16.333149",
   "basic_info": {
     "title": "Christmas card",
     "author": "pxzzf1010_cr73m",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-09T22:10:15.357000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@pxzzf1010_cr73m/christmas-card",
-    "days_since_published": 48
+    "days_since_published": 49
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 260,
-      "runs_rank": 187,
+      "runs_rank": 188,
       "likes_rank": 1,
       "total_agents": 299,
       "views_percentile": 13.0,
-      "runs_percentile": 37.5,
+      "runs_percentile": 37.1,
       "likes_percentile": 99.7
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 45,
+    "days_tracked": 46,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 46,
+    "days_tracked": 47,
     "last_7_days": {
-      "views_rank_change": 4,
-      "runs_rank_change": 6,
-      "likes_rank_change": -1
+      "views_rank_change": 2,
+      "runs_rank_change": 2,
+      "likes_rank_change": 0
     },
     "last_30_days": {
-      "views_rank_change": 17,
-      "runs_rank_change": 22,
-      "likes_rank_change": -2
+      "views_rank_change": 18,
+      "runs_rank_change": 20,
+      "likes_rank_change": -8
     },
     "all_time": {
       "best_views_rank": 230,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 45,
+    "data_points": 46,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2026-01-27T08:01:06.918717",
+    "last_recorded": "2026-01-28T08:01:04.643118",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -101,7 +101,8 @@
         "2026-01-23T08:01:01.579068",
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
-        "2026-01-27T08:01:06.918717"
+        "2026-01-27T08:01:06.918717",
+        "2026-01-28T08:01:04.643118"
       ],
       "views_rank": [
         null,
@@ -148,6 +149,7 @@
         258,
         258,
         259,
+        260,
         260
       ],
       "runs_rank": [
@@ -195,7 +197,8 @@
         186,
         186,
         186,
-        187
+        187,
+        188
       ],
       "likes_rank": [
         null,
@@ -242,6 +245,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     }
@@ -266,7 +270,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 17 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 18 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

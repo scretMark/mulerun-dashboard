@@ -1,6 +1,6 @@
 {
   "agent_id": "e8dbe1b6-b207-436d-bec5-dd195ac74597",
-  "generated_at": "2026-01-27T00:01:23.843796",
+  "generated_at": "2026-01-28T00:01:15.510586",
   "basic_info": {
     "title": "Change Multiple Hairstyles",
     "author": "Darren",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-20T11:33:47.987000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/change-multiple-hairstyles",
-    "days_since_published": 98
+    "days_since_published": 99
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 110,
-      "runs_rank": 109,
-      "likes_rank": 219,
+      "runs_rank": 110,
+      "likes_rank": 254,
       "total_agents": 299,
       "views_percentile": 63.2,
-      "runs_percentile": 63.5,
-      "likes_percentile": 26.8
+      "runs_percentile": 63.2,
+      "likes_percentile": 15.1
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 94,
+    "days_tracked": 95,
     "price": 51.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 68,
+    "days_tracked": 69,
     "last_7_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": -1,
-      "likes_rank_change": 115
+      "views_rank_change": 0,
+      "runs_rank_change": 0,
+      "likes_rank_change": 182
     },
     "last_30_days": {
       "views_rank_change": 7,
-      "runs_rank_change": 6,
-      "likes_rank_change": -6
+      "runs_rank_change": 8,
+      "likes_rank_change": 24
     },
     "all_time": {
       "best_views_rank": 99,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 67,
+    "data_points": 68,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-27T08:01:06.918717",
+    "last_recorded": "2026-01-28T08:01:04.643118",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -123,7 +123,8 @@
         "2026-01-23T08:01:01.579068",
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
-        "2026-01-27T08:01:06.918717"
+        "2026-01-27T08:01:06.918717",
+        "2026-01-28T08:01:04.643118"
       ],
       "views_rank": [
         null,
@@ -189,6 +190,7 @@
         109,
         109,
         109,
+        110,
         110,
         110,
         110,
@@ -261,7 +263,8 @@
         110,
         110,
         109,
-        109
+        109,
+        110
       ],
       "likes_rank": [
         null,
@@ -330,7 +333,8 @@
         72,
         66,
         248,
-        219
+        219,
+        254
       ]
     }
   },

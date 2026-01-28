@@ -1,6 +1,6 @@
 {
   "agent_id": "5111aade-2882-43d9-9f07-13a22ddde8f4",
-  "generated_at": "2026-01-27T00:01:23.474830",
+  "generated_at": "2026-01-28T00:01:15.141769",
   "basic_info": {
     "title": "Nimbus",
     "author": "Norsizu",
@@ -11,34 +11,34 @@
     "published_at": "2025-10-14T22:46:52.487000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/nimbus",
-    "days_since_published": 104
+    "days_since_published": 105
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 219,
-      "runs_rank": 247,
-      "likes_rank": 142,
+      "views_rank": 220,
+      "runs_rank": 249,
+      "likes_rank": 208,
       "total_agents": 299,
-      "views_percentile": 26.8,
-      "runs_percentile": 17.4,
-      "likes_percentile": 52.5
+      "views_percentile": 26.4,
+      "runs_percentile": 16.7,
+      "likes_percentile": 30.4
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 89,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 90,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 68,
+    "days_tracked": 69,
     "last_7_days": {
       "views_rank_change": 2,
       "runs_rank_change": 2,
-      "likes_rank_change": 74
+      "likes_rank_change": 160
     },
     "last_30_days": {
-      "views_rank_change": 13,
-      "runs_rank_change": 20,
+      "views_rank_change": 14,
+      "runs_rank_change": 21,
       "likes_rank_change": null
     },
     "all_time": {
@@ -47,14 +47,14 @@
       "best_likes_rank": 40,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 219
+      "current_rank": 220
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 67,
+    "data_points": 68,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-27T08:01:06.918717",
+    "last_recorded": "2026-01-28T08:01:04.643118",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -123,7 +123,8 @@
         "2026-01-23T08:01:01.579068",
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
-        "2026-01-27T08:01:06.918717"
+        "2026-01-27T08:01:06.918717",
+        "2026-01-28T08:01:04.643118"
       ],
       "views_rank": [
         null,
@@ -192,7 +193,8 @@
         218,
         220,
         219,
-        219
+        219,
+        220
       ],
       "runs_rank": [
         null,
@@ -261,7 +263,8 @@
         247,
         247,
         247,
-        247
+        247,
+        249
       ],
       "likes_rank": [
         null,
@@ -330,7 +333,8 @@
         48,
         46,
         217,
-        142
+        142,
+        208
       ]
     }
   },
@@ -342,7 +346,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 13 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 14 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }
