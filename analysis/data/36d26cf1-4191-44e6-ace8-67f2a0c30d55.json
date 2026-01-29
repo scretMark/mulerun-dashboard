@@ -1,6 +1,6 @@
 {
   "agent_id": "36d26cf1-4191-44e6-ace8-67f2a0c30d55",
-  "generated_at": "2026-01-28T00:01:14.106497",
+  "generated_at": "2026-01-29T00:01:23.518273",
   "basic_info": {
     "title": "Video Face Swap",
     "author": "Darren",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-05T16:24:10.619000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/video-face-swap",
-    "days_since_published": 114
+    "days_since_published": 115
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 74,
-      "runs_rank": 71,
-      "likes_rank": 255,
-      "total_agents": 299,
+      "runs_rank": 72,
+      "likes_rank": 192,
+      "total_agents": 300,
       "views_percentile": 75.3,
-      "runs_percentile": 76.3,
-      "likes_percentile": 14.7
+      "runs_percentile": 76.0,
+      "likes_percentile": 36.0
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 90,
+    "days_tracked": 91,
     "price": 99.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 69,
+    "days_tracked": 70,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 0,
-      "likes_rank_change": 154
+      "runs_rank_change": 1,
+      "likes_rank_change": 91
     },
     "last_30_days": {
-      "views_rank_change": 3,
-      "runs_rank_change": 2,
-      "likes_rank_change": 194
+      "views_rank_change": 2,
+      "runs_rank_change": 3,
+      "likes_rank_change": 122
     },
     "all_time": {
       "best_views_rank": 69,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 68,
+    "data_points": 69,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-28T08:01:04.643118",
+    "last_recorded": "2026-01-29T08:01:09.639000",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -124,7 +124,8 @@
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
-        "2026-01-28T08:01:04.643118"
+        "2026-01-28T08:01:04.643118",
+        "2026-01-29T08:01:09.639000"
       ],
       "views_rank": [
         null,
@@ -194,6 +195,7 @@
         74,
         74,
         73,
+        74,
         74
       ],
       "runs_rank": [
@@ -264,7 +266,8 @@
         71,
         71,
         71,
-        71
+        71,
+        72
       ],
       "likes_rank": [
         null,
@@ -334,7 +337,8 @@
         217,
         270,
         208,
-        255
+        255,
+        192
       ]
     }
   },
@@ -346,7 +350,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #74 out of 299 active agents."
+      "description": "This agent is currently ranked #74 out of 300 active agents."
     }
   ]
 }

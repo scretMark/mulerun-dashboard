@@ -1,6 +1,6 @@
 {
   "agent_id": "ca2574af-c9bf-4260-98d2-ea4e56d09142",
-  "generated_at": "2026-01-28T00:01:14.946197",
+  "generated_at": "2026-01-29T00:01:24.528247",
   "basic_info": {
     "title": "FilmFace Changer",
     "author": "Darren",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-29T20:46:29.926000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/filmface-changer",
-    "days_since_published": 120
+    "days_since_published": 121
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 113,
       "runs_rank": 132,
-      "likes_rank": 79,
-      "total_agents": 299,
-      "views_percentile": 62.2,
-      "runs_percentile": 55.9,
-      "likes_percentile": 73.6
+      "likes_rank": 73,
+      "total_agents": 300,
+      "views_percentile": 62.3,
+      "runs_percentile": 56.0,
+      "likes_percentile": 75.7
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 90,
+    "days_tracked": 91,
     "price": 66.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 69,
+    "days_tracked": 70,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": -83
+      "likes_rank_change": -89
     },
     "last_30_days": {
       "views_rank_change": 2,
       "runs_rank_change": 11,
-      "likes_rank_change": 59
+      "likes_rank_change": 57
     },
     "all_time": {
       "best_views_rank": 108,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 68,
+    "data_points": 69,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-28T08:01:04.643118",
+    "last_recorded": "2026-01-29T08:01:09.639000",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -124,7 +124,8 @@
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
-        "2026-01-28T08:01:04.643118"
+        "2026-01-28T08:01:04.643118",
+        "2026-01-29T08:01:09.639000"
       ],
       "views_rank": [
         null,
@@ -185,6 +186,7 @@
         114,
         114,
         114,
+        113,
         113,
         113,
         113,
@@ -264,6 +266,7 @@
         132,
         132,
         132,
+        132,
         132
       ],
       "likes_rank": [
@@ -334,7 +337,8 @@
         130,
         109,
         87,
-        79
+        79,
+        73
       ]
     }
   },
@@ -346,7 +350,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #113 out of 299 active agents."
+      "description": "This agent is currently ranked #113 out of 300 active agents."
     }
   ]
 }

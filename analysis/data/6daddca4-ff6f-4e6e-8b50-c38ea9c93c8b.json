@@ -1,6 +1,6 @@
 {
   "agent_id": "6daddca4-ff6f-4e6e-8b50-c38ea9c93c8b",
-  "generated_at": "2026-01-28T00:01:15.766855",
+  "generated_at": "2026-01-29T00:01:25.391758",
   "basic_info": {
     "title": "Movie Poster Design",
     "author": "summerail",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-12T14:14:16.439000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/movie-poster-design",
-    "days_since_published": 107
+    "days_since_published": 108
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 170,
-      "runs_rank": 146,
-      "likes_rank": 93,
-      "total_agents": 299,
-      "views_percentile": 43.1,
-      "runs_percentile": 51.2,
-      "likes_percentile": 68.9
+      "runs_rank": 148,
+      "likes_rank": 86,
+      "total_agents": 300,
+      "views_percentile": 43.3,
+      "runs_percentile": 50.7,
+      "likes_percentile": 71.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 97,
+    "days_tracked": 98,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 69,
+    "days_tracked": 70,
     "last_7_days": {
       "views_rank_change": 5,
-      "runs_rank_change": 0,
-      "likes_rank_change": -154
+      "runs_rank_change": 2,
+      "likes_rank_change": -161
     },
     "last_30_days": {
-      "views_rank_change": 17,
-      "runs_rank_change": 11,
-      "likes_rank_change": -108
+      "views_rank_change": 16,
+      "runs_rank_change": 13,
+      "likes_rank_change": -119
     },
     "all_time": {
       "best_views_rank": 150,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 68,
+    "data_points": 69,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-28T08:01:04.643118",
+    "last_recorded": "2026-01-29T08:01:09.639000",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -124,7 +124,8 @@
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
-        "2026-01-28T08:01:04.643118"
+        "2026-01-28T08:01:04.643118",
+        "2026-01-29T08:01:09.639000"
       ],
       "views_rank": [
         null,
@@ -194,6 +195,7 @@
         168,
         168,
         169,
+        170,
         170
       ],
       "runs_rank": [
@@ -264,7 +266,8 @@
         146,
         146,
         146,
-        146
+        146,
+        148
       ],
       "likes_rank": [
         null,
@@ -334,7 +337,8 @@
         170,
         143,
         106,
-        93
+        93,
+        86
       ]
     }
   },
@@ -346,7 +350,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 17 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 16 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

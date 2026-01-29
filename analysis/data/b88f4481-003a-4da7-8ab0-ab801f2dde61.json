@@ -1,6 +1,6 @@
 {
   "agent_id": "b88f4481-003a-4da7-8ab0-ab801f2dde61",
-  "generated_at": "2026-01-28T00:01:13.549119",
+  "generated_at": "2026-01-29T00:01:23.072250",
   "basic_info": {
     "title": "Virtual Try On",
     "author": "PicCopilot",
@@ -11,30 +11,30 @@
     "published_at": "2025-11-11T19:30:42.097000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/virtual-try-on",
-    "days_since_published": 77
+    "days_since_published": 78
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 32,
       "runs_rank": 8,
-      "likes_rank": 268,
-      "total_agents": 299,
+      "likes_rank": 226,
+      "total_agents": 300,
       "views_percentile": 89.3,
       "runs_percentile": 97.3,
-      "likes_percentile": 10.4
+      "likes_percentile": 24.7
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 75,
+    "days_tracked": 76,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 70,
+    "days_tracked": 71,
     "last_7_days": {
       "views_rank_change": -1,
       "runs_rank_change": 0,
-      "likes_rank_change": 61
+      "likes_rank_change": 19
     },
     "last_30_days": {
       "views_rank_change": -5,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 69,
+    "data_points": 70,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-28T08:01:04.643118",
+    "last_recorded": "2026-01-29T08:01:09.639000",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -125,7 +125,8 @@
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
-        "2026-01-28T08:01:04.643118"
+        "2026-01-28T08:01:04.643118",
+        "2026-01-29T08:01:09.639000"
       ],
       "views_rank": [
         null,
@@ -196,6 +197,7 @@
         32,
         32,
         32,
+        32,
         32
       ],
       "runs_rank": [
@@ -242,6 +244,7 @@
         7,
         7,
         7,
+        8,
         8,
         8,
         8,
@@ -338,7 +341,8 @@
         291,
         265,
         276,
-        268
+        268,
+        226
       ]
     }
   },

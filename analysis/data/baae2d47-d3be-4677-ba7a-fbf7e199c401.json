@@ -1,6 +1,6 @@
 {
   "agent_id": "baae2d47-d3be-4677-ba7a-fbf7e199c401",
-  "generated_at": "2026-01-28T00:01:16.856638",
+  "generated_at": "2026-01-29T00:01:26.602033",
   "basic_info": {
     "title": "Why Dont You Call Me Godfather",
     "author": "nzwhouxvbbb094f",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-29T13:52:32.207000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@nzwhouxvbbb094f/why-dont-you-call-me-godfather",
-    "days_since_published": 29
+    "days_since_published": 30
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 295,
-      "runs_rank": 290,
-      "likes_rank": null,
-      "total_agents": 299,
+      "views_rank": 296,
+      "runs_rank": 291,
+      "likes_rank": 47,
+      "total_agents": 300,
       "views_percentile": 1.3,
       "runs_percentile": 3.0,
-      "likes_percentile": 0
+      "likes_percentile": 84.3
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 25,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 26,
     "price": 68.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 28,
+    "days_tracked": 29,
     "last_7_days": {
-      "views_rank_change": 3,
-      "runs_rank_change": 3,
-      "likes_rank_change": null
+      "views_rank_change": 4,
+      "runs_rank_change": 4,
+      "likes_rank_change": -36
     },
     "last_30_days": {
       "views_rank_change": null,
       "runs_rank_change": null,
-      "likes_rank_change": null
+      "likes_rank_change": 29
     },
     "all_time": {
       "best_views_rank": 276,
@@ -47,14 +47,14 @@
       "best_likes_rank": 10,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 295
+      "current_rank": 296
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 24,
+    "data_points": 25,
     "first_recorded": "2025-12-31T08:00:58.854286",
-    "last_recorded": "2026-01-28T08:01:04.643118",
+    "last_recorded": "2026-01-29T08:01:09.639000",
     "time_series": {
       "dates": [
         "2025-12-31T08:00:58.854286",
@@ -80,7 +80,8 @@
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
-        "2026-01-28T08:01:04.643118"
+        "2026-01-28T08:01:04.643118",
+        "2026-01-29T08:01:09.639000"
       ],
       "views_rank": [
         null,
@@ -106,7 +107,8 @@
         294,
         294,
         295,
-        295
+        295,
+        296
       ],
       "runs_rank": [
         null,
@@ -132,7 +134,8 @@
         289,
         288,
         290,
-        290
+        290,
+        291
       ],
       "likes_rank": [
         18,
@@ -158,7 +161,8 @@
         77,
         67,
         52,
-        null
+        null,
+        47
       ]
     }
   },
@@ -175,9 +179,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #295 out of 299 active agents."
+      "type": "positive",
+      "title": "High Performer",
+      "description": "Ranked #47 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

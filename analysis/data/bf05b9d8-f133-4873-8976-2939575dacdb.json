@@ -1,6 +1,6 @@
 {
   "agent_id": "bf05b9d8-f133-4873-8976-2939575dacdb",
-  "generated_at": "2026-01-28T00:01:16.309309",
+  "generated_at": "2026-01-29T00:01:25.972683",
   "basic_info": {
     "title": "Your profession in the 20th century",
     "author": "8bit",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-09T14:26:51.198000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/your-profession-in-the-20th-century",
-    "days_since_published": 49
+    "days_since_published": 50
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 255,
-      "runs_rank": 136,
-      "likes_rank": 182,
-      "total_agents": 299,
+      "views_rank": 256,
+      "runs_rank": 137,
+      "likes_rank": 155,
+      "total_agents": 300,
       "views_percentile": 14.7,
-      "runs_percentile": 54.5,
-      "likes_percentile": 39.1
+      "runs_percentile": 54.3,
+      "likes_percentile": 48.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 46,
+    "days_tracked": 47,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 47,
+    "days_tracked": 48,
     "last_7_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": 0,
-      "likes_rank_change": 135
+      "views_rank_change": 2,
+      "runs_rank_change": 1,
+      "likes_rank_change": 108
     },
     "last_30_days": {
-      "views_rank_change": 15,
+      "views_rank_change": 12,
       "runs_rank_change": 11,
-      "likes_rank_change": 69
+      "likes_rank_change": 37
     },
     "all_time": {
       "best_views_rank": 224,
@@ -47,14 +47,14 @@
       "best_likes_rank": 9,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 255
+      "current_rank": 256
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 46,
+    "data_points": 47,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2026-01-28T08:01:04.643118",
+    "last_recorded": "2026-01-29T08:01:09.639000",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -102,7 +102,8 @@
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
-        "2026-01-28T08:01:04.643118"
+        "2026-01-28T08:01:04.643118",
+        "2026-01-29T08:01:09.639000"
       ],
       "views_rank": [
         null,
@@ -150,7 +151,8 @@
         254,
         254,
         255,
-        255
+        255,
+        256
       ],
       "runs_rank": [
         null,
@@ -198,7 +200,8 @@
         136,
         136,
         136,
-        136
+        136,
+        137
       ],
       "likes_rank": [
         null,
@@ -246,7 +249,8 @@
         45,
         43,
         272,
-        182
+        182,
+        155
       ]
     }
   },
@@ -265,7 +269,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 15 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 12 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

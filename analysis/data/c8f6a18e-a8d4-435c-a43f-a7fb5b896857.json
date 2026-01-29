@@ -1,6 +1,6 @@
 {
   "agent_id": "c8f6a18e-a8d4-435c-a43f-a7fb5b896857",
-  "generated_at": "2026-01-28T00:01:13.947580",
+  "generated_at": "2026-01-29T00:01:23.385815",
   "basic_info": {
     "title": "Image Translator",
     "author": "PicCopilot",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-11T19:14:13.154000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/image-translator",
-    "days_since_published": 77
+    "days_since_published": 78
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 151,
+      "views_rank": 150,
       "runs_rank": 27,
-      "likes_rank": 119,
-      "total_agents": 299,
-      "views_percentile": 49.5,
+      "likes_rank": 219,
+      "total_agents": 300,
+      "views_percentile": 50.0,
       "runs_percentile": 91.0,
-      "likes_percentile": 60.2
+      "likes_percentile": 27.0
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 75,
+    "days_tracked": 76,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 69,
+    "days_tracked": 70,
     "last_7_days": {
-      "views_rank_change": 2,
+      "views_rank_change": 1,
       "runs_rank_change": 0,
-      "likes_rank_change": -53
+      "likes_rank_change": 47
     },
     "last_30_days": {
-      "views_rank_change": -12,
+      "views_rank_change": -9,
       "runs_rank_change": 0,
-      "likes_rank_change": -123
+      "likes_rank_change": -22
     },
     "all_time": {
       "best_views_rank": 148,
@@ -47,14 +47,14 @@
       "best_likes_rank": 55,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 151
+      "current_rank": 150
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 68,
+    "data_points": 69,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-28T08:01:04.643118",
+    "last_recorded": "2026-01-29T08:01:09.639000",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -124,7 +124,8 @@
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
-        "2026-01-28T08:01:04.643118"
+        "2026-01-28T08:01:04.643118",
+        "2026-01-29T08:01:09.639000"
       ],
       "views_rank": [
         null,
@@ -194,7 +195,8 @@
         150,
         149,
         150,
-        151
+        151,
+        150
       ],
       "runs_rank": [
         null,
@@ -234,6 +236,7 @@
         28,
         28,
         28,
+        27,
         27,
         27,
         27,
@@ -334,7 +337,8 @@
         136,
         219,
         143,
-        119
+        119,
+        219
       ]
     }
   },
@@ -347,11 +351,6 @@
       "type": "positive",
       "title": "High Performer",
       "description": "Ranked #27 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
-    },
-    {
-      "type": "positive",
-      "title": "Rising Star",
-      "description": "Improved by 12 positions in views ranking over the last 30 days - showing strong momentum!"
     }
   ]
 }

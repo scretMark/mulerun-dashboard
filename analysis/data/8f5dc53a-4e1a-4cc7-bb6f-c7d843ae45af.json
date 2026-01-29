@@ -1,8 +1,8 @@
 {
   "agent_id": "8f5dc53a-4e1a-4cc7-bb6f-c7d843ae45af",
-  "generated_at": "2026-01-28T00:01:17.084576",
+  "generated_at": "2026-01-29T00:01:26.840889",
   "basic_info": {
-    "title": "Snapmath - AI Math Homework Helper",
+    "title": "Snapmath - Math Homework Helper",
     "author": "quseit",
     "description": "Transform math homework challenges into clear, step-by-step solutions.",
     "short_description": "Solves math problems with step-by-step explanations.",
@@ -11,66 +11,70 @@
     "published_at": "2026-01-25T16:37:10.382000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@quseit/math-homework-helper",
-    "days_since_published": 2
+    "days_since_published": 3
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 250,
-      "runs_rank": 242,
-      "likes_rank": 195,
-      "total_agents": 299,
-      "views_percentile": 16.4,
-      "runs_percentile": 19.1,
-      "likes_percentile": 34.8
+      "views_rank": 248,
+      "runs_rank": 228,
+      "likes_rank": 245,
+      "total_agents": 300,
+      "views_percentile": 17.3,
+      "runs_percentile": 24.0,
+      "likes_percentile": 18.3
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 1,
+    "days_tracked": 2,
     "price": 2.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 1,
+    "days_tracked": 2,
     "last_7_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": -7,
-      "likes_rank_change": -74
+      "views_rank_change": -2,
+      "runs_rank_change": -21,
+      "likes_rank_change": -24
     },
     "last_30_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": -7,
-      "likes_rank_change": -74
+      "views_rank_change": -2,
+      "runs_rank_change": -21,
+      "likes_rank_change": -24
     },
     "all_time": {
-      "best_views_rank": 250,
-      "best_runs_rank": 242,
+      "best_views_rank": 248,
+      "best_runs_rank": 228,
       "best_likes_rank": 195,
       "days_in_top_10": 0,
       "first_rank": 250,
-      "current_rank": 250
+      "current_rank": 248
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 2,
+    "data_points": 3,
     "first_recorded": "2026-01-27T08:01:06.918717",
-    "last_recorded": "2026-01-28T08:01:04.643118",
+    "last_recorded": "2026-01-29T08:01:09.639000",
     "time_series": {
       "dates": [
         "2026-01-27T08:01:06.918717",
-        "2026-01-28T08:01:04.643118"
+        "2026-01-28T08:01:04.643118",
+        "2026-01-29T08:01:09.639000"
       ],
       "views_rank": [
         250,
-        250
+        250,
+        248
       ],
       "runs_rank": [
         249,
-        242
+        242,
+        228
       ],
       "likes_rank": [
         269,
-        195
+        195,
+        245
       ]
     }
   },
@@ -87,9 +91,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #250 out of 299 active agents."
+      "type": "positive",
+      "title": "Growing Usage",
+      "description": "Runs ranking improved by 21 positions in the last 30 days - users are actively engaging with this agent!"
     }
   ]
 }

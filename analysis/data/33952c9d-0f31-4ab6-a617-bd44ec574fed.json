@@ -1,6 +1,6 @@
 {
   "agent_id": "33952c9d-0f31-4ab6-a617-bd44ec574fed",
-  "generated_at": "2026-01-28T00:01:16.191826",
+  "generated_at": "2026-01-29T00:01:25.863822",
   "basic_info": {
     "title": "Pixel Avatar Agent ",
     "author": "Matt",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-05T19:04:02.237000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Matt/pixel-avatar-agent",
-    "days_since_published": 53
+    "days_since_published": 54
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 240,
+      "views_rank": 241,
       "runs_rank": 206,
       "likes_rank": 12,
-      "total_agents": 299,
+      "total_agents": 300,
       "views_percentile": 19.7,
-      "runs_percentile": 31.1,
+      "runs_percentile": 31.3,
       "likes_percentile": 96.0
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 49,
+    "days_tracked": 50,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 50,
+    "days_tracked": 51,
     "last_7_days": {
-      "views_rank_change": 2,
+      "views_rank_change": 3,
       "runs_rank_change": 1,
       "likes_rank_change": -5
     },
     "last_30_days": {
       "views_rank_change": 21,
       "runs_rank_change": 15,
-      "likes_rank_change": -97
+      "likes_rank_change": -103
     },
     "all_time": {
       "best_views_rank": 208,
@@ -47,14 +47,14 @@
       "best_likes_rank": 12,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 240
+      "current_rank": 241
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 50,
+    "data_points": 51,
     "first_recorded": "2025-12-09T08:00:25.308684",
-    "last_recorded": "2026-01-28T08:01:04.643118",
+    "last_recorded": "2026-01-29T08:01:09.639000",
     "time_series": {
       "dates": [
         "2025-12-09T08:00:25.308684",
@@ -106,7 +106,8 @@
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
-        "2026-01-28T08:01:04.643118"
+        "2026-01-28T08:01:04.643118",
+        "2026-01-29T08:01:09.639000"
       ],
       "views_rank": [
         null,
@@ -158,7 +159,8 @@
         238,
         238,
         240,
-        240
+        240,
+        241
       ],
       "runs_rank": [
         null,
@@ -209,6 +211,7 @@
         205,
         205,
         205,
+        206,
         206,
         206
       ],
@@ -262,6 +265,7 @@
         16,
         15,
         13,
+        12,
         12
       ]
     }

@@ -1,6 +1,6 @@
 {
   "agent_id": "659f0230-a5be-4090-88b8-6875c5199459",
-  "generated_at": "2026-01-28T00:01:15.453328",
+  "generated_at": "2026-01-29T00:01:25.045063",
   "basic_info": {
     "title": "Virtual High Five",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-05T22:47:31.583000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/virtual-high-five",
-    "days_since_published": 114
+    "days_since_published": 115
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 99,
-      "runs_rank": 154,
-      "likes_rank": 157,
-      "total_agents": 299,
-      "views_percentile": 66.9,
-      "runs_percentile": 48.5,
-      "likes_percentile": 47.5
+      "runs_rank": 156,
+      "likes_rank": 133,
+      "total_agents": 300,
+      "views_percentile": 67.0,
+      "runs_percentile": 48.0,
+      "likes_percentile": 55.7
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 90,
+    "days_tracked": 91,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 69,
+    "days_tracked": 70,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": -4,
-      "likes_rank_change": 70
+      "runs_rank_change": -2,
+      "likes_rank_change": 46
     },
     "last_30_days": {
       "views_rank_change": 8,
-      "runs_rank_change": 12,
-      "likes_rank_change": -5
+      "runs_rank_change": 14,
+      "likes_rank_change": -33
     },
     "all_time": {
       "best_views_rank": 90,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 68,
+    "data_points": 69,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-28T08:01:04.643118",
+    "last_recorded": "2026-01-29T08:01:09.639000",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -124,7 +124,8 @@
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
-        "2026-01-28T08:01:04.643118"
+        "2026-01-28T08:01:04.643118",
+        "2026-01-29T08:01:09.639000"
       ],
       "views_rank": [
         null,
@@ -194,6 +195,7 @@
         99,
         98,
         98,
+        99,
         99
       ],
       "runs_rank": [
@@ -264,7 +266,8 @@
         158,
         154,
         154,
-        154
+        154,
+        156
       ],
       "likes_rank": [
         null,
@@ -334,7 +337,8 @@
         79,
         225,
         197,
-        157
+        157,
+        133
       ]
     }
   },
@@ -346,7 +350,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #99 out of 299 active agents."
+      "description": "This agent is currently ranked #99 out of 300 active agents."
     }
   ]
 }

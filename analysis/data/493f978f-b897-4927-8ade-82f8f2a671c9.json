@@ -1,6 +1,6 @@
 {
   "agent_id": "493f978f-b897-4927-8ade-82f8f2a671c9",
-  "generated_at": "2026-01-28T00:01:15.301200",
+  "generated_at": "2026-01-29T00:01:24.883608",
   "basic_info": {
     "title": "Pet Super Bowl",
     "author": "LinkAIBrain",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-18T21:03:29.981000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/pet-super-bowl",
-    "days_since_published": 131
+    "days_since_published": 132
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 49,
+      "views_rank": 50,
       "runs_rank": 124,
-      "likes_rank": 135,
-      "total_agents": 299,
-      "views_percentile": 83.6,
-      "runs_percentile": 58.5,
-      "likes_percentile": 54.8
+      "likes_rank": 115,
+      "total_agents": 300,
+      "views_percentile": 83.3,
+      "runs_percentile": 58.7,
+      "likes_percentile": 61.7
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 129,
+    "days_tracked": 130,
     "price": 30.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 69,
+    "days_tracked": 70,
     "last_7_days": {
-      "views_rank_change": 0,
+      "views_rank_change": 1,
       "runs_rank_change": 0,
-      "likes_rank_change": -13
+      "likes_rank_change": -33
     },
     "last_30_days": {
-      "views_rank_change": 1,
+      "views_rank_change": 2,
       "runs_rank_change": 8,
-      "likes_rank_change": -59
+      "likes_rank_change": -81
     },
     "all_time": {
       "best_views_rank": 46,
@@ -47,14 +47,14 @@
       "best_likes_rank": 94,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 49
+      "current_rank": 50
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 68,
+    "data_points": 69,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-28T08:01:04.643118",
+    "last_recorded": "2026-01-29T08:01:09.639000",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -124,7 +124,8 @@
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
-        "2026-01-28T08:01:04.643118"
+        "2026-01-28T08:01:04.643118",
+        "2026-01-29T08:01:09.639000"
       ],
       "views_rank": [
         null,
@@ -194,7 +195,8 @@
         49,
         49,
         49,
-        49
+        49,
+        50
       ],
       "runs_rank": [
         null,
@@ -260,6 +262,7 @@
         122,
         122,
         123,
+        124,
         124,
         124,
         124,
@@ -334,7 +337,8 @@
         119,
         286,
         166,
-        135
+        135,
+        115
       ]
     }
   },
@@ -346,7 +350,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #49 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #50 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "9c43c798-660b-4ff7-ab0c-f930b3c96621",
-  "generated_at": "2026-01-28T00:01:17.075737",
+  "generated_at": "2026-01-29T00:01:26.826979",
   "basic_info": {
     "title": "Product Avatars",
     "author": "PicCopilot",
@@ -11,35 +11,35 @@
     "published_at": "2026-01-23T17:29:07.771000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/handheld-goods",
-    "days_since_published": 4
+    "days_since_published": 5
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 259,
-      "runs_rank": 252,
-      "likes_rank": 271,
-      "total_agents": 299,
-      "views_percentile": 13.4,
+      "views_rank": 258,
+      "runs_rank": 253,
+      "likes_rank": 237,
+      "total_agents": 300,
+      "views_percentile": 14.0,
       "runs_percentile": 15.7,
-      "likes_percentile": 9.4
+      "likes_percentile": 21.0
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 3,
+    "days_tracked": 4,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 4,
+    "days_tracked": 5,
     "last_7_days": {
-      "views_rank_change": -3,
-      "runs_rank_change": -8,
-      "likes_rank_change": 43
+      "views_rank_change": -4,
+      "runs_rank_change": -7,
+      "likes_rank_change": 9
     },
     "last_30_days": {
-      "views_rank_change": -3,
-      "runs_rank_change": -8,
-      "likes_rank_change": 43
+      "views_rank_change": -4,
+      "runs_rank_change": -7,
+      "likes_rank_change": 9
     },
     "all_time": {
       "best_views_rank": 258,
@@ -47,38 +47,42 @@
       "best_likes_rank": 221,
       "days_in_top_10": 0,
       "first_rank": 262,
-      "current_rank": 259
+      "current_rank": 258
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 4,
+    "data_points": 5,
     "first_recorded": "2026-01-24T08:01:00.990153",
-    "last_recorded": "2026-01-28T08:01:04.643118",
+    "last_recorded": "2026-01-29T08:01:09.639000",
     "time_series": {
       "dates": [
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
-        "2026-01-28T08:01:04.643118"
+        "2026-01-28T08:01:04.643118",
+        "2026-01-29T08:01:09.639000"
       ],
       "views_rank": [
         262,
         258,
         259,
-        259
+        259,
+        258
       ],
       "runs_rank": [
         260,
         256,
         252,
-        252
+        252,
+        253
       ],
       "likes_rank": [
         228,
         221,
         265,
-        271
+        271,
+        237
       ]
     }
   },
@@ -97,7 +101,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #259 out of 299 active agents."
+      "description": "This agent is currently ranked #258 out of 300 active agents."
     }
   ]
 }

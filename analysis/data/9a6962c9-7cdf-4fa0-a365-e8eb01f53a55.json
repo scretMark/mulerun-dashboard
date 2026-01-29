@@ -1,6 +1,6 @@
 {
   "agent_id": "9a6962c9-7cdf-4fa0-a365-e8eb01f53a55",
-  "generated_at": "2026-01-28T00:01:15.351453",
+  "generated_at": "2026-01-29T00:01:24.933877",
   "basic_info": {
     "title": "Holiday Costume",
     "author": "LinkAIBrain",
@@ -11,40 +11,40 @@
     "published_at": "2025-09-23T22:12:01.948000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/holiday-costume",
-    "days_since_published": 126
+    "days_since_published": 127
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 61,
       "runs_rank": 94,
-      "likes_rank": 108,
-      "total_agents": 299,
-      "views_percentile": 79.6,
-      "runs_percentile": 68.6,
-      "likes_percentile": 63.9
+      "likes_rank": 97,
+      "total_agents": 300,
+      "views_percentile": 79.7,
+      "runs_percentile": 68.7,
+      "likes_percentile": 67.7
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 88,
+    "days_tracked": 89,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 69,
+    "days_tracked": 70,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": -92
+      "likes_rank_change": -103
     },
     "last_30_days": {
       "views_rank_change": 3,
       "runs_rank_change": 4,
-      "likes_rank_change": -72
+      "likes_rank_change": -87
     },
     "all_time": {
       "best_views_rank": 57,
       "best_runs_rank": 85,
-      "best_likes_rank": 108,
+      "best_likes_rank": 97,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 61
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 68,
+    "data_points": 69,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-28T08:01:04.643118",
+    "last_recorded": "2026-01-29T08:01:09.639000",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -124,7 +124,8 @@
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
-        "2026-01-28T08:01:04.643118"
+        "2026-01-28T08:01:04.643118",
+        "2026-01-29T08:01:09.639000"
       ],
       "views_rank": [
         null,
@@ -190,6 +191,7 @@
         60,
         60,
         60,
+        61,
         61,
         61,
         61,
@@ -264,6 +266,7 @@
         94,
         94,
         94,
+        94,
         94
       ],
       "likes_rank": [
@@ -334,7 +337,8 @@
         209,
         166,
         124,
-        108
+        108,
+        97
       ]
     }
   },
@@ -346,7 +350,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #61 out of 299 active agents."
+      "description": "This agent is currently ranked #61 out of 300 active agents."
     }
   ]
 }

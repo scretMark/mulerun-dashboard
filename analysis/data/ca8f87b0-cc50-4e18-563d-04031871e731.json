@@ -1,6 +1,6 @@
 {
   "agent_id": "ca8f87b0-cc50-4e18-563d-04031871e731",
-  "generated_at": "2026-01-28T00:01:15.256523",
+  "generated_at": "2026-01-29T00:01:24.844371",
   "basic_info": {
     "title": "YouTube Comments Generator",
     "author": "Spotlighbbb0e8d",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-30T17:49:19.152000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Spotlighbbb0e8d/youtube-comments-generator",
-    "days_since_published": 89
+    "days_since_published": 90
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 43,
       "runs_rank": 63,
-      "likes_rank": 293,
-      "total_agents": 299,
-      "views_percentile": 85.6,
-      "runs_percentile": 78.9,
-      "likes_percentile": 2.0
+      "likes_rank": 253,
+      "total_agents": 300,
+      "views_percentile": 85.7,
+      "runs_percentile": 79.0,
+      "likes_percentile": 15.7
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 100,
+    "days_tracked": 101,
     "price": 2.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 69,
+    "days_tracked": 70,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": 30
+      "likes_rank_change": -10
     },
     "last_30_days": {
       "views_rank_change": 2,
       "runs_rank_change": 2,
-      "likes_rank_change": 238
+      "likes_rank_change": 189
     },
     "all_time": {
       "best_views_rank": 36,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 68,
+    "data_points": 69,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-28T08:01:04.643118",
+    "last_recorded": "2026-01-29T08:01:09.639000",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -124,7 +124,8 @@
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
-        "2026-01-28T08:01:04.643118"
+        "2026-01-28T08:01:04.643118",
+        "2026-01-29T08:01:09.639000"
       ],
       "views_rank": [
         null,
@@ -181,6 +182,7 @@
         41,
         41,
         42,
+        43,
         43,
         43,
         43,
@@ -264,6 +266,7 @@
         63,
         63,
         63,
+        63,
         63
       ],
       "likes_rank": [
@@ -334,7 +337,8 @@
         179,
         149,
         110,
-        293
+        293,
+        253
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "8b3c92d0-c08f-4cf7-b4ec-a55111c7f73d",
-  "generated_at": "2026-01-28T00:01:15.228205",
+  "generated_at": "2026-01-29T00:01:24.819792",
   "basic_info": {
     "title": "Cover Star Maker",
     "author": "YuTou_baby",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-19T18:09:04.267000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@YuTou_baby/cover-star-maker",
-    "days_since_published": 130
+    "days_since_published": 131
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 25,
       "runs_rank": 35,
-      "likes_rank": 88,
-      "total_agents": 299,
-      "views_percentile": 91.6,
+      "likes_rank": 81,
+      "total_agents": 300,
+      "views_percentile": 91.7,
       "runs_percentile": 88.3,
-      "likes_percentile": 70.6
+      "likes_percentile": 73.0
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 95,
+    "days_tracked": 96,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 69,
+    "days_tracked": 70,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 0,
-      "likes_rank_change": -101
+      "likes_rank_change": -108
     },
     "last_30_days": {
       "views_rank_change": 2,
       "runs_rank_change": 0,
-      "likes_rank_change": -50
+      "likes_rank_change": -57
     },
     "all_time": {
       "best_views_rank": 22,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 68,
+    "data_points": 69,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-28T08:01:04.643118",
+    "last_recorded": "2026-01-29T08:01:09.639000",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -124,7 +124,8 @@
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
-        "2026-01-28T08:01:04.643118"
+        "2026-01-28T08:01:04.643118",
+        "2026-01-29T08:01:09.639000"
       ],
       "views_rank": [
         null,
@@ -194,6 +195,7 @@
         24,
         25,
         25,
+        25,
         25
       ],
       "runs_rank": [
@@ -230,6 +232,7 @@
         33,
         33,
         33,
+        35,
         35,
         35,
         35,
@@ -334,7 +337,8 @@
         147,
         124,
         96,
-        88
+        88,
+        81
       ]
     }
   },

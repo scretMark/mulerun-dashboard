@@ -1,6 +1,6 @@
 {
   "agent_id": "55e9e618-8189-42e2-8f90-9b23cbbe3369",
-  "generated_at": "2026-01-28T00:01:14.446755",
+  "generated_at": "2026-01-29T00:01:23.862157",
   "basic_info": {
     "title": "Halloween Costume",
     "author": "LinkAIBrain",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-30T11:21:04.717000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/halloween-costume",
-    "days_since_published": 89
+    "days_since_published": 90
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 19,
       "runs_rank": 33,
-      "likes_rank": 147,
-      "total_agents": 299,
-      "views_percentile": 93.6,
+      "likes_rank": 126,
+      "total_agents": 300,
+      "views_percentile": 93.7,
       "runs_percentile": 89.0,
-      "likes_percentile": 50.8
+      "likes_percentile": 58.0
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 87,
+    "days_tracked": 88,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 69,
+    "days_tracked": 70,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": -141
+      "likes_rank_change": -162
     },
     "last_30_days": {
       "views_rank_change": 1,
       "runs_rank_change": 1,
-      "likes_rank_change": 112
+      "likes_rank_change": 89
     },
     "all_time": {
       "best_views_rank": 18,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 68,
+    "data_points": 69,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-28T08:01:04.643118",
+    "last_recorded": "2026-01-29T08:01:09.639000",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -124,7 +124,8 @@
         "2026-01-24T08:01:00.990153",
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
-        "2026-01-28T08:01:04.643118"
+        "2026-01-28T08:01:04.643118",
+        "2026-01-29T08:01:09.639000"
       ],
       "views_rank": [
         null,
@@ -194,6 +195,7 @@
         19,
         19,
         19,
+        19,
         19
       ],
       "runs_rank": [
@@ -250,6 +252,7 @@
         32,
         32,
         32,
+        33,
         33,
         33,
         33,
@@ -334,7 +337,8 @@
         192,
         216,
         183,
-        147
+        147,
+        126
       ]
     }
   },
