@@ -1,6 +1,6 @@
 {
   "agent_id": "b18c7e0e-462d-4904-857f-e9bf4658e7c9",
-  "generated_at": "2026-01-29T00:01:23.457715",
+  "generated_at": "2026-01-30T00:01:21.597203",
   "basic_info": {
     "title": "Me And My Mini-Me",
     "author": "YuTou_baby",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-19T20:13:16.719000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@YuTou_baby/me-and-my-mini-me",
-    "days_since_published": 131
+    "days_since_published": 132
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 20,
+      "views_rank": 21,
       "runs_rank": 26,
-      "likes_rank": 136,
-      "total_agents": 300,
-      "views_percentile": 93.3,
-      "runs_percentile": 91.3,
-      "likes_percentile": 54.7
+      "likes_rank": 98,
+      "total_agents": 301,
+      "views_percentile": 93.0,
+      "runs_percentile": 91.4,
+      "likes_percentile": 67.4
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 96,
+    "days_tracked": 97,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 70,
+    "days_tracked": 71,
     "last_7_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": 0,
-      "likes_rank_change": -140
-    },
-    "last_30_days": {
       "views_rank_change": 1,
       "runs_rank_change": 0,
-      "likes_rank_change": -71
+      "likes_rank_change": -124
+    },
+    "last_30_days": {
+      "views_rank_change": 2,
+      "runs_rank_change": 0,
+      "likes_rank_change": -109
     },
     "all_time": {
       "best_views_rank": 19,
@@ -47,14 +47,14 @@
       "best_likes_rank": 55,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 20
+      "current_rank": 21
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 69,
+    "data_points": 70,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-29T08:01:09.639000",
+    "last_recorded": "2026-01-30T08:01:10.448186",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -125,7 +125,8 @@
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
-        "2026-01-29T08:01:09.639000"
+        "2026-01-29T08:01:09.639000",
+        "2026-01-30T08:01:10.448186"
       ],
       "views_rank": [
         null,
@@ -196,7 +197,8 @@
         20,
         20,
         20,
-        20
+        20,
+        21
       ],
       "runs_rank": [
         null,
@@ -242,6 +244,7 @@
         23,
         25,
         25,
+        26,
         26,
         26,
         26,
@@ -338,7 +341,8 @@
         218,
         206,
         161,
-        136
+        136,
+        98
       ]
     }
   },
@@ -350,12 +354,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #20 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
-    },
-    {
-      "type": "info",
-      "title": "Stable Leader",
-      "description": "Maintained #20 ranking for 7+ days - showing consistent market position and reliability."
+      "description": "Ranked #21 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     },
     {
       "type": "info",

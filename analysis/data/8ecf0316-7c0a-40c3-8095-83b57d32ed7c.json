@@ -1,6 +1,6 @@
 {
   "agent_id": "8ecf0316-7c0a-40c3-8095-83b57d32ed7c",
-  "generated_at": "2026-01-29T00:01:25.717069",
+  "generated_at": "2026-01-30T00:01:24.104223",
   "basic_info": {
     "title": "Historical place visualizer",
     "author": "Bhola",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-24T13:53:45.229000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Bhola/historical-place-visualizer",
-    "days_since_published": 65
+    "days_since_published": 66
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 242,
-      "runs_rank": 251,
-      "likes_rank": 214,
-      "total_agents": 300,
-      "views_percentile": 19.3,
+      "runs_rank": 252,
+      "likes_rank": 134,
+      "total_agents": 301,
+      "views_percentile": 19.6,
       "runs_percentile": 16.3,
-      "likes_percentile": 28.7
+      "likes_percentile": 55.5
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 60,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 61,
     "price": 29.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 64,
+    "days_tracked": 65,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 3,
-      "likes_rank_change": 140
+      "runs_rank_change": 4,
+      "likes_rank_change": 66
     },
     "last_30_days": {
       "views_rank_change": 16,
-      "runs_rank_change": 20,
-      "likes_rank_change": null
+      "runs_rank_change": 21,
+      "likes_rank_change": -142
     },
     "all_time": {
       "best_views_rank": 218,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 60,
+    "data_points": 61,
     "first_recorded": "2025-11-26T08:00:32.046352",
-    "last_recorded": "2026-01-29T08:01:09.639000",
+    "last_recorded": "2026-01-30T08:01:10.448186",
     "time_series": {
       "dates": [
         "2025-11-26T08:00:32.046352",
@@ -116,7 +116,8 @@
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
-        "2026-01-29T08:01:09.639000"
+        "2026-01-29T08:01:09.639000",
+        "2026-01-30T08:01:10.448186"
       ],
       "views_rank": [
         null,
@@ -178,6 +179,7 @@
         242,
         243,
         244,
+        242,
         242
       ],
       "runs_rank": [
@@ -240,7 +242,8 @@
         248,
         248,
         250,
-        251
+        251,
+        252
       ],
       "likes_rank": [
         null,
@@ -302,7 +305,8 @@
         60,
         47,
         203,
-        214
+        214,
+        134
       ]
     }
   },

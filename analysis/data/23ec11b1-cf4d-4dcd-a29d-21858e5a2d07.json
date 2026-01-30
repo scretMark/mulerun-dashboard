@@ -1,6 +1,6 @@
 {
   "agent_id": "23ec11b1-cf4d-4dcd-a29d-21858e5a2d07",
-  "generated_at": "2026-01-29T00:01:24.857011",
+  "generated_at": "2026-01-30T00:01:23.154191",
   "basic_info": {
     "title": "Decorate A Room",
     "author": "laughing_code",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-28T17:37:12.367000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@laughing_code/decorate-a-room",
-    "days_since_published": 122
+    "days_since_published": 123
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 45,
-      "runs_rank": 82,
-      "likes_rank": 232,
-      "total_agents": 300,
+      "runs_rank": 83,
+      "likes_rank": 176,
+      "total_agents": 301,
       "views_percentile": 85.0,
-      "runs_percentile": 72.7,
-      "likes_percentile": 22.7
+      "runs_percentile": 72.4,
+      "likes_percentile": 41.5
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 120,
+    "days_tracked": 121,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 70,
+    "days_tracked": 71,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 0,
-      "likes_rank_change": 91
+      "runs_rank_change": 1,
+      "likes_rank_change": 61
     },
     "last_30_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 6,
-      "likes_rank_change": 166
+      "runs_rank_change": 7,
+      "likes_rank_change": 109
     },
     "all_time": {
       "best_views_rank": 42,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 69,
+    "data_points": 70,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-29T08:01:09.639000",
+    "last_recorded": "2026-01-30T08:01:10.448186",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -125,7 +125,8 @@
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
-        "2026-01-29T08:01:09.639000"
+        "2026-01-29T08:01:09.639000",
+        "2026-01-30T08:01:10.448186"
       ],
       "views_rank": [
         null,
@@ -179,6 +180,7 @@
         44,
         44,
         44,
+        45,
         45,
         45,
         45,
@@ -267,7 +269,8 @@
         82,
         82,
         82,
-        82
+        82,
+        83
       ],
       "likes_rank": [
         null,
@@ -338,7 +341,8 @@
         268,
         188,
         150,
-        232
+        232,
+        176
       ]
     }
   },

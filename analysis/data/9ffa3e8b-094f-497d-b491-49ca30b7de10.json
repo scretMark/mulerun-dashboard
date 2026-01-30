@@ -1,6 +1,6 @@
 {
   "agent_id": "9ffa3e8b-094f-497d-b491-49ca30b7de10",
-  "generated_at": "2026-01-29T00:01:23.233407",
+  "generated_at": "2026-01-30T00:01:21.274375",
   "basic_info": {
     "title": "Product Creativity Lab",
     "author": "Aichimp",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-10T11:19:13.755000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aichimp/product-creativity-lab",
-    "days_since_published": 79
+    "days_since_published": 80
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 58,
       "runs_rank": 32,
-      "likes_rank": 275,
-      "total_agents": 300,
+      "likes_rank": 194,
+      "total_agents": 301,
       "views_percentile": 80.7,
-      "runs_percentile": 89.3,
-      "likes_percentile": 8.3
+      "runs_percentile": 89.4,
+      "likes_percentile": 35.5
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 106,
+    "days_tracked": 107,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 71,
+    "days_tracked": 72,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 0,
-      "likes_rank_change": 51
+      "likes_rank_change": -39
     },
     "last_30_days": {
       "views_rank_change": -2,
       "runs_rank_change": -2,
-      "likes_rank_change": 222
+      "likes_rank_change": 150
     },
     "all_time": {
       "best_views_rank": 57,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 70,
+    "data_points": 71,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-29T08:01:09.639000",
+    "last_recorded": "2026-01-30T08:01:10.448186",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -126,7 +126,8 @@
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
-        "2026-01-29T08:01:09.639000"
+        "2026-01-29T08:01:09.639000",
+        "2026-01-30T08:01:10.448186"
       ],
       "views_rank": [
         null,
@@ -198,6 +199,7 @@
         57,
         57,
         57,
+        58,
         58
       ],
       "runs_rank": [
@@ -255,6 +257,7 @@
         33,
         33,
         33,
+        32,
         32,
         32,
         32,
@@ -342,7 +345,8 @@
         240,
         232,
         204,
-        275
+        275,
+        194
       ]
     }
   },

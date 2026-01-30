@@ -1,6 +1,6 @@
 {
   "agent_id": "81dcc6fe-5f37-425b-8ff8-7fc92f3171c8",
-  "generated_at": "2026-01-29T00:01:24.896176",
+  "generated_at": "2026-01-30T00:01:23.199175",
   "basic_info": {
     "title": "Time Gate",
     "author": "LinkAIBrain",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-23T05:42:38.874000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/time-gate",
-    "days_since_published": 127
+    "days_since_published": 128
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 51,
       "runs_rank": 66,
-      "likes_rank": 139,
-      "total_agents": 300,
-      "views_percentile": 83.0,
-      "runs_percentile": 78.0,
-      "likes_percentile": 53.7
+      "likes_rank": 242,
+      "total_agents": 301,
+      "views_percentile": 83.1,
+      "runs_percentile": 78.1,
+      "likes_percentile": 19.6
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 93,
+    "days_tracked": 94,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 70,
+    "days_tracked": 71,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": 61
+      "likes_rank_change": 170
     },
     "last_30_days": {
       "views_rank_change": 2,
       "runs_rank_change": 2,
-      "likes_rank_change": -32
+      "likes_rank_change": 71
     },
     "all_time": {
       "best_views_rank": 49,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 69,
+    "data_points": 70,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-29T08:01:09.639000",
+    "last_recorded": "2026-01-30T08:01:10.448186",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -125,7 +125,8 @@
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
-        "2026-01-29T08:01:09.639000"
+        "2026-01-29T08:01:09.639000",
+        "2026-01-30T08:01:10.448186"
       ],
       "views_rank": [
         null,
@@ -176,6 +177,7 @@
         49,
         49,
         50,
+        51,
         51,
         51,
         51,
@@ -267,6 +269,7 @@
         66,
         66,
         66,
+        66,
         66
       ],
       "likes_rank": [
@@ -338,7 +341,8 @@
         291,
         211,
         164,
-        139
+        139,
+        242
       ]
     }
   },

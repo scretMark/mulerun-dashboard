@@ -1,6 +1,6 @@
 {
   "agent_id": "5a41c27e-9bb9-4469-9ddb-8659f63debe8",
-  "generated_at": "2026-01-29T00:01:25.150949",
+  "generated_at": "2026-01-30T00:01:23.525263",
   "basic_info": {
     "title": "chalkboard STICK PEOPLE with real heads",
     "author": "Darren",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-20T11:36:22.916000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/chalkboard-stick-people-with-real-heads",
-    "days_since_published": 100
+    "days_since_published": 101
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 124,
-      "runs_rank": 255,
-      "likes_rank": 79,
-      "total_agents": 300,
-      "views_percentile": 58.7,
+      "runs_rank": 256,
+      "likes_rank": 59,
+      "total_agents": 301,
+      "views_percentile": 58.8,
       "runs_percentile": 15.0,
-      "likes_percentile": 73.7
+      "likes_percentile": 80.4
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 96,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 97,
     "price": 51.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 70,
+    "days_tracked": 71,
     "last_7_days": {
-      "views_rank_change": 2,
-      "runs_rank_change": 3,
-      "likes_rank_change": -103
+      "views_rank_change": 1,
+      "runs_rank_change": 4,
+      "likes_rank_change": -83
     },
     "last_30_days": {
       "views_rank_change": 3,
-      "runs_rank_change": 20,
-      "likes_rank_change": null
+      "runs_rank_change": 21,
+      "likes_rank_change": -193
     },
     "all_time": {
       "best_views_rank": 116,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 69,
+    "data_points": 70,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-29T08:01:09.639000",
+    "last_recorded": "2026-01-30T08:01:10.448186",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -125,7 +125,8 @@
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
-        "2026-01-29T08:01:09.639000"
+        "2026-01-29T08:01:09.639000",
+        "2026-01-30T08:01:10.448186"
       ],
       "views_rank": [
         null,
@@ -196,6 +197,7 @@
         123,
         123,
         123,
+        124,
         124
       ],
       "runs_rank": [
@@ -267,7 +269,8 @@
         252,
         254,
         254,
-        255
+        255,
+        256
       ],
       "likes_rank": [
         null,
@@ -338,7 +341,8 @@
         119,
         94,
         86,
-        79
+        79,
+        59
       ]
     }
   },
@@ -348,9 +352,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #124 out of 300 active agents."
+      "type": "positive",
+      "title": "High Performer",
+      "description": "Ranked #59 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "9f24838f-a5cf-4748-ab3b-5bdf5e295658",
-  "generated_at": "2026-01-29T00:01:25.249124",
+  "generated_at": "2026-01-30T00:01:23.639893",
   "basic_info": {
     "title": "Soul Spark",
     "author": "mtmr8466_crepis",
@@ -11,40 +11,40 @@
     "published_at": "2025-10-09T15:54:04.446000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@mtmr8466_crepis/soul-spark",
-    "days_since_published": 111
+    "days_since_published": 112
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 141,
       "runs_rank": 190,
-      "likes_rank": 82,
-      "total_agents": 300,
-      "views_percentile": 53.0,
-      "runs_percentile": 36.7,
-      "likes_percentile": 72.7
+      "likes_rank": 62,
+      "total_agents": 301,
+      "views_percentile": 53.2,
+      "runs_percentile": 36.9,
+      "likes_percentile": 79.4
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 106,
+    "days_tracked": 107,
     "price": 40.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 70,
+    "days_tracked": 71,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 2,
-      "likes_rank_change": -110
+      "likes_rank_change": -88
     },
     "last_30_days": {
       "views_rank_change": 5,
       "runs_rank_change": 18,
-      "likes_rank_change": -66
+      "likes_rank_change": -86
     },
     "all_time": {
       "best_views_rank": 130,
       "best_runs_rank": 160,
-      "best_likes_rank": 82,
+      "best_likes_rank": 62,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 141
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 69,
+    "data_points": 70,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-29T08:01:09.639000",
+    "last_recorded": "2026-01-30T08:01:10.448186",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -125,7 +125,8 @@
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
-        "2026-01-29T08:01:09.639000"
+        "2026-01-29T08:01:09.639000",
+        "2026-01-30T08:01:10.448186"
       ],
       "views_rank": [
         null,
@@ -196,6 +197,7 @@
         140,
         140,
         140,
+        141,
         141
       ],
       "runs_rank": [
@@ -266,6 +268,7 @@
         188,
         188,
         189,
+        190,
         190,
         190
       ],
@@ -338,7 +341,8 @@
         127,
         98,
         89,
-        82
+        82,
+        62
       ]
     }
   },
@@ -350,7 +354,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #141 out of 300 active agents."
+      "description": "This agent is currently ranked #141 out of 301 active agents."
     }
   ]
 }

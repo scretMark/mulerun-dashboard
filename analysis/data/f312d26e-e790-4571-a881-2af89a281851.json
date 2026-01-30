@@ -1,6 +1,6 @@
 {
   "agent_id": "f312d26e-e790-4571-a881-2af89a281851",
-  "generated_at": "2026-01-29T00:01:26.284954",
+  "generated_at": "2026-01-30T00:01:24.736510",
   "basic_info": {
     "title": "Cozy Xmas Cube",
     "author": "Norsizu",
@@ -11,50 +11,50 @@
     "published_at": "2025-12-19T16:25:54.256000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/cozy-xmas-cube",
-    "days_since_published": 40
+    "days_since_published": 41
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 294,
-      "runs_rank": 287,
-      "likes_rank": 24,
-      "total_agents": 300,
+      "views_rank": 295,
+      "runs_rank": 289,
+      "likes_rank": 19,
+      "total_agents": 301,
       "views_percentile": 2.0,
-      "runs_percentile": 4.3,
-      "likes_percentile": 92.0
+      "runs_percentile": 4.0,
+      "likes_percentile": 93.7
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 35,
+    "days_tracked": 36,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 40,
+    "days_tracked": 41,
     "last_7_days": {
       "views_rank_change": 4,
-      "runs_rank_change": 3,
-      "likes_rank_change": -7
+      "runs_rank_change": 4,
+      "likes_rank_change": -11
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": -129
+      "views_rank_change": 24,
+      "runs_rank_change": 22,
+      "likes_rank_change": -134
     },
     "all_time": {
       "best_views_rank": 271,
       "best_runs_rank": 247,
-      "best_likes_rank": 24,
+      "best_likes_rank": 19,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 294
+      "current_rank": 295
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 36,
+    "data_points": 37,
     "first_recorded": "2025-12-20T08:01:00.398750",
-    "last_recorded": "2026-01-29T08:01:09.639000",
+    "last_recorded": "2026-01-30T08:01:10.448186",
     "time_series": {
       "dates": [
         "2025-12-20T08:01:00.398750",
@@ -92,7 +92,8 @@
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
-        "2026-01-29T08:01:09.639000"
+        "2026-01-29T08:01:09.639000",
+        "2026-01-30T08:01:10.448186"
       ],
       "views_rank": [
         null,
@@ -130,7 +131,8 @@
         291,
         293,
         293,
-        294
+        294,
+        295
       ],
       "runs_rank": [
         247,
@@ -168,7 +170,8 @@
         285,
         286,
         286,
-        287
+        287,
+        289
       ],
       "likes_rank": [
         49,
@@ -206,7 +209,8 @@
         29,
         25,
         24,
-        24
+        24,
+        19
       ]
     }
   },
@@ -225,7 +229,12 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #24 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #19 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+    },
+    {
+      "type": "warning",
+      "title": "Declining Ranking",
+      "description": "Dropped 24 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "c213a78e-a893-480e-8238-58ee129fcc84",
-  "generated_at": "2026-01-29T00:01:23.791230",
+  "generated_at": "2026-01-30T00:01:21.985178",
   "basic_info": {
     "title": "Vintage Gold Vogue",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-11T22:25:53.477000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/vintage-gold-vogue",
-    "days_since_published": 78
+    "days_since_published": 79
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 269,
       "runs_rank": 229,
-      "likes_rank": 36,
-      "total_agents": 300,
-      "views_percentile": 10.3,
-      "runs_percentile": 23.7,
-      "likes_percentile": 88.0
+      "likes_rank": 224,
+      "total_agents": 301,
+      "views_percentile": 10.6,
+      "runs_percentile": 23.9,
+      "likes_percentile": 25.6
     },
-    "tier": "High",
-    "tier_class": "high",
-    "days_tracked": 75,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 76,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 70,
+    "days_tracked": 71,
     "last_7_days": {
-      "views_rank_change": 4,
+      "views_rank_change": 3,
       "runs_rank_change": 2,
-      "likes_rank_change": -18
+      "likes_rank_change": null
     },
     "last_30_days": {
-      "views_rank_change": null,
+      "views_rank_change": 16,
       "runs_rank_change": 7,
-      "likes_rank_change": null
+      "likes_rank_change": -30
     },
     "all_time": {
       "best_views_rank": 237,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 69,
+    "data_points": 70,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-29T08:01:09.639000",
+    "last_recorded": "2026-01-30T08:01:10.448186",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -125,7 +125,8 @@
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
-        "2026-01-29T08:01:09.639000"
+        "2026-01-29T08:01:09.639000",
+        "2026-01-30T08:01:10.448186"
       ],
       "views_rank": [
         null,
@@ -196,6 +197,7 @@
         266,
         268,
         268,
+        269,
         269
       ],
       "runs_rank": [
@@ -267,6 +269,7 @@
         227,
         227,
         227,
+        229,
         229
       ],
       "likes_rank": [
@@ -338,7 +341,8 @@
         46,
         39,
         38,
-        36
+        36,
+        224
       ]
     }
   },
@@ -348,9 +352,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "High Performer",
-      "description": "Ranked #36 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "type": "warning",
+      "title": "Declining Ranking",
+      "description": "Dropped 16 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

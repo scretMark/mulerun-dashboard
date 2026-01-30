@@ -1,6 +1,6 @@
 {
   "agent_id": "11c166a1-1a28-4d95-a876-350ddf069c00",
-  "generated_at": "2026-01-29T00:01:25.950560",
+  "generated_at": "2026-01-30T00:01:24.344798",
   "basic_info": {
     "title": "Design pajamas for you",
     "author": "8bit",
@@ -11,50 +11,50 @@
     "published_at": "2025-12-09T16:32:01.173000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/design-pajamas-for-you",
-    "days_since_published": 50
+    "days_since_published": 51
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 277,
+      "views_rank": 278,
       "runs_rank": 222,
-      "likes_rank": 11,
-      "total_agents": 300,
-      "views_percentile": 7.7,
-      "runs_percentile": 26.0,
-      "likes_percentile": 96.3
+      "likes_rank": 8,
+      "total_agents": 301,
+      "views_percentile": 7.6,
+      "runs_percentile": 26.2,
+      "likes_percentile": 97.3
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 48,
+    "days_tracked": 49,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 49,
+    "days_tracked": 50,
     "last_7_days": {
       "views_rank_change": 3,
       "runs_rank_change": 0,
-      "likes_rank_change": -5
+      "likes_rank_change": -7
     },
     "last_30_days": {
-      "views_rank_change": null,
+      "views_rank_change": 23,
       "runs_rank_change": 16,
-      "likes_rank_change": -101
+      "likes_rank_change": -105
     },
     "all_time": {
       "best_views_rank": 229,
       "best_runs_rank": 187,
-      "best_likes_rank": 11,
+      "best_likes_rank": 8,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 277
+      "current_rank": 278
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 48,
+    "data_points": 49,
     "first_recorded": "2025-12-11T08:00:23.962890",
-    "last_recorded": "2026-01-29T08:01:09.639000",
+    "last_recorded": "2026-01-30T08:01:10.448186",
     "time_series": {
       "dates": [
         "2025-12-11T08:00:23.962890",
@@ -104,7 +104,8 @@
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
-        "2026-01-29T08:01:09.639000"
+        "2026-01-29T08:01:09.639000",
+        "2026-01-30T08:01:10.448186"
       ],
       "views_rank": [
         null,
@@ -154,7 +155,8 @@
         275,
         276,
         276,
-        277
+        277,
+        278
       ],
       "runs_rank": [
         null,
@@ -199,6 +201,7 @@
         220,
         220,
         220,
+        222,
         222,
         222,
         222,
@@ -254,7 +257,8 @@
         14,
         12,
         11,
-        11
+        11,
+        8
       ]
     }
   },
@@ -273,7 +277,12 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #11 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #8 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+    },
+    {
+      "type": "warning",
+      "title": "Declining Ranking",
+      "description": "Dropped 23 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

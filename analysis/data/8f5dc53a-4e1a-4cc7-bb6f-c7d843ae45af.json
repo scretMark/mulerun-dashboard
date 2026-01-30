@@ -1,6 +1,6 @@
 {
   "agent_id": "8f5dc53a-4e1a-4cc7-bb6f-c7d843ae45af",
-  "generated_at": "2026-01-29T00:01:26.840889",
+  "generated_at": "2026-01-30T00:01:25.421910",
   "basic_info": {
     "title": "Snapmath - Math Homework Helper",
     "author": "quseit",
@@ -11,39 +11,39 @@
     "published_at": "2026-01-25T16:37:10.382000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@quseit/math-homework-helper",
-    "days_since_published": 3
+    "days_since_published": 4
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 248,
-      "runs_rank": 228,
-      "likes_rank": 245,
-      "total_agents": 300,
-      "views_percentile": 17.3,
-      "runs_percentile": 24.0,
-      "likes_percentile": 18.3
+      "runs_rank": 227,
+      "likes_rank": 257,
+      "total_agents": 301,
+      "views_percentile": 17.6,
+      "runs_percentile": 24.6,
+      "likes_percentile": 14.6
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 2,
+    "days_tracked": 3,
     "price": 2.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 2,
+    "days_tracked": 3,
     "last_7_days": {
       "views_rank_change": -2,
-      "runs_rank_change": -21,
-      "likes_rank_change": -24
+      "runs_rank_change": -22,
+      "likes_rank_change": -12
     },
     "last_30_days": {
       "views_rank_change": -2,
-      "runs_rank_change": -21,
-      "likes_rank_change": -24
+      "runs_rank_change": -22,
+      "likes_rank_change": -12
     },
     "all_time": {
       "best_views_rank": 248,
-      "best_runs_rank": 228,
+      "best_runs_rank": 227,
       "best_likes_rank": 195,
       "days_in_top_10": 0,
       "first_rank": 250,
@@ -52,29 +52,33 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 3,
+    "data_points": 4,
     "first_recorded": "2026-01-27T08:01:06.918717",
-    "last_recorded": "2026-01-29T08:01:09.639000",
+    "last_recorded": "2026-01-30T08:01:10.448186",
     "time_series": {
       "dates": [
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
-        "2026-01-29T08:01:09.639000"
+        "2026-01-29T08:01:09.639000",
+        "2026-01-30T08:01:10.448186"
       ],
       "views_rank": [
         250,
         250,
+        248,
         248
       ],
       "runs_rank": [
         249,
         242,
-        228
+        228,
+        227
       ],
       "likes_rank": [
         269,
         195,
-        245
+        245,
+        257
       ]
     }
   },
@@ -93,7 +97,7 @@
     {
       "type": "positive",
       "title": "Growing Usage",
-      "description": "Runs ranking improved by 21 positions in the last 30 days - users are actively engaging with this agent!"
+      "description": "Runs ranking improved by 22 positions in the last 30 days - users are actively engaging with this agent!"
     }
   ]
 }

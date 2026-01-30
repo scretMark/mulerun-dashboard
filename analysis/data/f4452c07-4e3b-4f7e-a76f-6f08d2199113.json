@@ -1,6 +1,6 @@
 {
   "agent_id": "f4452c07-4e3b-4f7e-a76f-6f08d2199113",
-  "generated_at": "2026-01-29T00:01:26.633893",
+  "generated_at": "2026-01-30T00:01:25.134051",
   "basic_info": {
     "title": "Rank Quest",
     "author": "favourite",
@@ -11,50 +11,50 @@
     "published_at": "2025-12-30T11:16:33.492000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@favourite/rank-quest-2",
-    "days_since_published": 29
+    "days_since_published": 30
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 201,
+      "views_rank": 198,
       "runs_rank": 158,
-      "likes_rank": 204,
-      "total_agents": 300,
-      "views_percentile": 33.0,
-      "runs_percentile": 47.3,
-      "likes_percentile": 32.0
+      "likes_rank": 210,
+      "total_agents": 301,
+      "views_percentile": 34.2,
+      "runs_percentile": 47.5,
+      "likes_percentile": 30.2
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 24,
+    "days_tracked": 25,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 23,
+    "days_tracked": 25,
     "last_7_days": {
-      "views_rank_change": 0,
+      "views_rank_change": -3,
       "runs_rank_change": 1,
-      "likes_rank_change": -17
+      "likes_rank_change": -10
     },
     "last_30_days": {
-      "views_rank_change": -10,
+      "views_rank_change": -13,
       "runs_rank_change": -5,
-      "likes_rank_change": 91
+      "likes_rank_change": 97
     },
     "all_time": {
-      "best_views_rank": 201,
+      "best_views_rank": 198,
       "best_runs_rank": 157,
       "best_likes_rank": 54,
       "days_in_top_10": 0,
       "first_rank": 211,
-      "current_rank": 201
+      "current_rank": 198
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 22,
+    "data_points": 23,
     "first_recorded": "2026-01-05T08:01:10.022221",
-    "last_recorded": "2026-01-29T08:01:09.639000",
+    "last_recorded": "2026-01-30T08:01:10.448186",
     "time_series": {
       "dates": [
         "2026-01-05T08:01:10.022221",
@@ -78,7 +78,8 @@
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
-        "2026-01-29T08:01:09.639000"
+        "2026-01-29T08:01:09.639000",
+        "2026-01-30T08:01:10.448186"
       ],
       "views_rank": [
         211,
@@ -102,7 +103,8 @@
         201,
         201,
         201,
-        201
+        201,
+        198
       ],
       "runs_rank": [
         163,
@@ -126,6 +128,7 @@
         158,
         158,
         157,
+        158,
         158
       ],
       "likes_rank": [
@@ -150,7 +153,8 @@
         174,
         186,
         287,
-        204
+        204,
+        210
       ]
     }
   },
@@ -167,9 +171,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #201 out of 300 active agents."
+      "type": "positive",
+      "title": "Rising Star",
+      "description": "Improved by 13 positions in views ranking over the last 30 days - showing strong momentum!"
     }
   ]
 }

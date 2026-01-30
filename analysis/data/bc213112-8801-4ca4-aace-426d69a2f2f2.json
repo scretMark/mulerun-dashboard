@@ -1,6 +1,6 @@
 {
   "agent_id": "bc213112-8801-4ca4-aace-426d69a2f2f2",
-  "generated_at": "2026-01-29T00:01:24.770043",
+  "generated_at": "2026-01-30T00:01:23.024241",
   "basic_info": {
     "title": "Judy Hopps Cosplay Filter",
     "author": "Lucas",
@@ -11,50 +11,50 @@
     "published_at": "2025-11-05T20:03:39.255000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/judy-hopps-cosplay-filter",
-    "days_since_published": 84
+    "days_since_published": 85
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 147,
-      "runs_rank": 281,
-      "likes_rank": 268,
-      "total_agents": 300,
-      "views_percentile": 51.0,
+      "views_rank": 146,
+      "runs_rank": 282,
+      "likes_rank": 214,
+      "total_agents": 301,
+      "views_percentile": 51.5,
       "runs_percentile": 6.3,
-      "likes_percentile": 10.7
+      "likes_percentile": 28.9
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 81,
+    "days_tracked": 82,
     "price": 49.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 70,
+    "days_tracked": 71,
     "last_7_days": {
-      "views_rank_change": -5,
+      "views_rank_change": -6,
       "runs_rank_change": 3,
-      "likes_rank_change": 52
+      "likes_rank_change": 53
     },
     "last_30_days": {
       "views_rank_change": -13,
-      "runs_rank_change": null,
-      "likes_rank_change": 254
+      "runs_rank_change": 20,
+      "likes_rank_change": 187
     },
     "all_time": {
-      "best_views_rank": 147,
+      "best_views_rank": 146,
       "best_runs_rank": 237,
       "best_likes_rank": 8,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 147
+      "current_rank": 146
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 69,
+    "data_points": 70,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-29T08:01:09.639000",
+    "last_recorded": "2026-01-30T08:01:10.448186",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -125,7 +125,8 @@
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
-        "2026-01-29T08:01:09.639000"
+        "2026-01-29T08:01:09.639000",
+        "2026-01-30T08:01:10.448186"
       ],
       "views_rank": [
         null,
@@ -196,7 +197,8 @@
         152,
         152,
         149,
-        147
+        147,
+        146
       ],
       "runs_rank": [
         null,
@@ -267,7 +269,8 @@
         279,
         280,
         280,
-        281
+        281,
+        282
       ],
       "likes_rank": [
         null,
@@ -338,7 +341,8 @@
         134,
         257,
         216,
-        268
+        268,
+        214
       ]
     }
   },
@@ -351,6 +355,11 @@
       "type": "positive",
       "title": "Rising Star",
       "description": "Improved by 13 positions in views ranking over the last 30 days - showing strong momentum!"
+    },
+    {
+      "type": "positive",
+      "title": "Hot Trend",
+      "description": "Up 6 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

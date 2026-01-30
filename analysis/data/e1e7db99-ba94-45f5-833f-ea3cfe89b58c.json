@@ -1,6 +1,6 @@
 {
   "agent_id": "e1e7db99-ba94-45f5-833f-ea3cfe89b58c",
-  "generated_at": "2026-01-29T00:01:25.380137",
+  "generated_at": "2026-01-30T00:01:23.774598",
   "basic_info": {
     "title": "Fantasy Companion Studio",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-09T14:47:36.149000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/fantasy-companion-studio",
-    "days_since_published": 111
+    "days_since_published": 112
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 168,
-      "runs_rank": 246,
-      "likes_rank": 158,
-      "total_agents": 300,
-      "views_percentile": 44.0,
-      "runs_percentile": 18.0,
-      "likes_percentile": 47.3
+      "views_rank": 169,
+      "runs_rank": 247,
+      "likes_rank": 109,
+      "total_agents": 301,
+      "views_percentile": 43.9,
+      "runs_percentile": 17.9,
+      "likes_percentile": 63.8
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 91,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 92,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 70,
+    "days_tracked": 71,
     "last_7_days": {
       "views_rank_change": 2,
-      "runs_rank_change": 2,
-      "likes_rank_change": 22
+      "runs_rank_change": 3,
+      "likes_rank_change": -101
     },
     "last_30_days": {
-      "views_rank_change": 4,
-      "runs_rank_change": 21,
-      "likes_rank_change": -54
+      "views_rank_change": 5,
+      "runs_rank_change": 22,
+      "likes_rank_change": -103
     },
     "all_time": {
       "best_views_rank": 159,
@@ -47,14 +47,14 @@
       "best_likes_rank": 41,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 168
+      "current_rank": 169
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 69,
+    "data_points": 70,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-29T08:01:09.639000",
+    "last_recorded": "2026-01-30T08:01:10.448186",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -125,7 +125,8 @@
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
-        "2026-01-29T08:01:09.639000"
+        "2026-01-29T08:01:09.639000",
+        "2026-01-30T08:01:10.448186"
       ],
       "views_rank": [
         null,
@@ -196,7 +197,8 @@
         167,
         166,
         167,
-        168
+        168,
+        169
       ],
       "runs_rank": [
         null,
@@ -267,7 +269,8 @@
         244,
         244,
         245,
-        246
+        246,
+        247
       ],
       "likes_rank": [
         null,
@@ -338,7 +341,8 @@
         167,
         291,
         188,
-        158
+        158,
+        109
       ]
     }
   },
@@ -350,7 +354,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #168 out of 300 active agents."
+      "description": "This agent is currently ranked #169 out of 301 active agents."
     }
   ]
 }

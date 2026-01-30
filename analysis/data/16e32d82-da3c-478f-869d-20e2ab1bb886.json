@@ -1,6 +1,6 @@
 {
   "agent_id": "16e32d82-da3c-478f-869d-20e2ab1bb886",
-  "generated_at": "2026-01-29T00:01:25.272461",
+  "generated_at": "2026-01-30T00:01:23.663764",
   "basic_info": {
     "title": "Puzzle toy characters",
     "author": "Darren",
@@ -11,40 +11,40 @@
     "published_at": "2025-09-22T21:44:40.342000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/puzzle-toy-characters",
-    "days_since_published": 128
+    "days_since_published": 129
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 152,
-      "runs_rank": 248,
-      "likes_rank": 72,
-      "total_agents": 300,
-      "views_percentile": 49.3,
+      "runs_rank": 249,
+      "likes_rank": 52,
+      "total_agents": 301,
+      "views_percentile": 49.5,
       "runs_percentile": 17.3,
-      "likes_percentile": 76.0
+      "likes_percentile": 82.7
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 121,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 122,
     "price": 48.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 70,
+    "days_tracked": 71,
     "last_7_days": {
-      "views_rank_change": 4,
-      "runs_rank_change": 2,
-      "likes_rank_change": -87
+      "views_rank_change": 3,
+      "runs_rank_change": 3,
+      "likes_rank_change": -77
     },
     "last_30_days": {
       "views_rank_change": 9,
-      "runs_rank_change": 19,
-      "likes_rank_change": -132
+      "runs_rank_change": 20,
+      "likes_rank_change": -152
     },
     "all_time": {
       "best_views_rank": 136,
       "best_runs_rank": 210,
-      "best_likes_rank": 60,
+      "best_likes_rank": 52,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 152
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 69,
+    "data_points": 70,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-29T08:01:09.639000",
+    "last_recorded": "2026-01-30T08:01:10.448186",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -125,7 +125,8 @@
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
-        "2026-01-29T08:01:09.639000"
+        "2026-01-29T08:01:09.639000",
+        "2026-01-30T08:01:10.448186"
       ],
       "views_rank": [
         null,
@@ -195,6 +196,7 @@
         149,
         150,
         151,
+        152,
         152,
         152
       ],
@@ -267,7 +269,8 @@
         246,
         246,
         247,
-        248
+        248,
+        249
       ],
       "likes_rank": [
         null,
@@ -338,7 +341,8 @@
         108,
         86,
         78,
-        72
+        72,
+        52
       ]
     }
   },
@@ -348,9 +352,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #152 out of 300 active agents."
+      "type": "positive",
+      "title": "High Performer",
+      "description": "Ranked #52 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

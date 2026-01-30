@@ -1,6 +1,6 @@
 {
   "agent_id": "80395f29-5f6a-46c5-8d69-ac5180b121bd",
-  "generated_at": "2026-01-29T00:01:25.489629",
+  "generated_at": "2026-01-30T00:01:23.884295",
   "basic_info": {
     "title": "Al Murshid - Peace be upon you",
     "author": "xyLin",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-11T17:28:01.522000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@xyLin/al-murshid-peace-be-upon-you",
-    "days_since_published": 109
+    "days_since_published": 110
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 182,
-      "runs_rank": 249,
-      "likes_rank": 239,
-      "total_agents": 300,
-      "views_percentile": 39.3,
-      "runs_percentile": 17.0,
-      "likes_percentile": 20.3
+      "runs_rank": 250,
+      "likes_rank": 142,
+      "total_agents": 301,
+      "views_percentile": 39.5,
+      "runs_percentile": 16.9,
+      "likes_percentile": 52.8
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 102,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 103,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 70,
+    "days_tracked": 71,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": -1,
-      "likes_rank_change": 151
+      "runs_rank_change": 0,
+      "likes_rank_change": 62
     },
     "last_30_days": {
-      "views_rank_change": 7,
-      "runs_rank_change": 15,
-      "likes_rank_change": 25
+      "views_rank_change": 6,
+      "runs_rank_change": 16,
+      "likes_rank_change": -72
     },
     "all_time": {
       "best_views_rank": 170,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 69,
+    "data_points": 70,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-29T08:01:09.639000",
+    "last_recorded": "2026-01-30T08:01:10.448186",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -125,7 +125,8 @@
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
-        "2026-01-29T08:01:09.639000"
+        "2026-01-29T08:01:09.639000",
+        "2026-01-30T08:01:10.448186"
       ],
       "views_rank": [
         null,
@@ -191,6 +192,7 @@
         181,
         180,
         181,
+        182,
         182,
         182,
         182,
@@ -267,7 +269,8 @@
         249,
         250,
         248,
-        249
+        249,
+        250
       ],
       "likes_rank": [
         null,
@@ -338,7 +341,8 @@
         255,
         159,
         218,
-        239
+        239,
+        142
       ]
     }
   },
@@ -350,7 +354,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #182 out of 300 active agents."
+      "description": "This agent is currently ranked #182 out of 301 active agents."
     }
   ]
 }

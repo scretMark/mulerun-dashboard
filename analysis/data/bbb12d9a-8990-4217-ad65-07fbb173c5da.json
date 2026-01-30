@@ -1,6 +1,6 @@
 {
   "agent_id": "bbb12d9a-8990-4217-ad65-07fbb173c5da",
-  "generated_at": "2026-01-29T00:01:26.781472",
+  "generated_at": "2026-01-30T00:01:25.351967",
   "basic_info": {
     "title": "Snappage - Webpage Builder",
     "author": "quseit",
@@ -11,40 +11,40 @@
     "published_at": "2026-01-21T20:18:01.947000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@quseit/webpage-builder",
-    "days_since_published": 7
+    "days_since_published": 8
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 140,
       "runs_rank": 112,
-      "likes_rank": 280,
-      "total_agents": 300,
-      "views_percentile": 53.3,
-      "runs_percentile": 62.7,
-      "likes_percentile": 6.7
+      "likes_rank": 161,
+      "total_agents": 301,
+      "views_percentile": 53.5,
+      "runs_percentile": 62.8,
+      "likes_percentile": 46.5
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 5,
+    "days_tracked": 6,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 6,
+    "days_tracked": 7,
     "last_7_days": {
-      "views_rank_change": -40,
+      "views_rank_change": -18,
       "runs_rank_change": -7,
-      "likes_rank_change": 23
+      "likes_rank_change": -109
     },
     "last_30_days": {
       "views_rank_change": -40,
       "runs_rank_change": -7,
-      "likes_rank_change": 23
+      "likes_rank_change": -96
     },
     "all_time": {
       "best_views_rank": 140,
       "best_runs_rank": 112,
-      "best_likes_rank": 220,
+      "best_likes_rank": 161,
       "days_in_top_10": 0,
       "first_rank": 180,
       "current_rank": 140
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 6,
+    "data_points": 7,
     "first_recorded": "2026-01-23T08:01:01.579068",
-    "last_recorded": "2026-01-29T08:01:09.639000",
+    "last_recorded": "2026-01-30T08:01:10.448186",
     "time_series": {
       "dates": [
         "2026-01-23T08:01:01.579068",
@@ -62,7 +62,8 @@
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
-        "2026-01-29T08:01:09.639000"
+        "2026-01-29T08:01:09.639000",
+        "2026-01-30T08:01:10.448186"
       ],
       "views_rank": [
         180,
@@ -70,6 +71,7 @@
         155,
         148,
         143,
+        140,
         140
       ],
       "runs_rank": [
@@ -78,6 +80,7 @@
         119,
         119,
         118,
+        112,
         112
       ],
       "likes_rank": [
@@ -86,7 +89,8 @@
         299,
         258,
         220,
-        280
+        280,
+        161
       ]
     }
   },
@@ -110,7 +114,7 @@
     {
       "type": "positive",
       "title": "Hot Trend",
-      "description": "Up 40 positions in just 7 days - currently trending and gaining rapid visibility!"
+      "description": "Up 18 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

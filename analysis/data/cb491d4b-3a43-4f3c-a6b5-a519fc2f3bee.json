@@ -1,6 +1,6 @@
 {
   "agent_id": "cb491d4b-3a43-4f3c-a6b5-a519fc2f3bee",
-  "generated_at": "2026-01-29T00:01:26.537013",
+  "generated_at": "2026-01-30T00:01:25.043775",
   "basic_info": {
     "title": "Serene Chat-Style Assessment",
     "author": "Serenetech",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-22T14:48:12.852000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Serenetech/serene-chat-style-assessment",
-    "days_since_published": 37
+    "days_since_published": 38
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 237,
-      "runs_rank": 216,
-      "likes_rank": 40,
-      "total_agents": 300,
-      "views_percentile": 21.0,
-      "runs_percentile": 28.0,
-      "likes_percentile": 86.7
+      "views_rank": 236,
+      "runs_rank": 213,
+      "likes_rank": 204,
+      "total_agents": 301,
+      "views_percentile": 21.6,
+      "runs_percentile": 29.2,
+      "likes_percentile": 32.2
     },
-    "tier": "High",
-    "tier_class": "high",
-    "days_tracked": 28,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 29,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 33,
+    "days_tracked": 34,
     "last_7_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": 1,
-      "likes_rank_change": -27
+      "views_rank_change": 0,
+      "runs_rank_change": -2,
+      "likes_rank_change": 143
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": null,
-      "likes_rank_change": -40
+      "views_rank_change": -12,
+      "runs_rank_change": -36,
+      "likes_rank_change": 122
     },
     "all_time": {
       "best_views_rank": 227,
@@ -47,14 +47,14 @@
       "best_likes_rank": 32,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 237
+      "current_rank": 236
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 29,
+    "data_points": 30,
     "first_recorded": "2025-12-27T08:01:00.423663",
-    "last_recorded": "2026-01-29T08:01:09.639000",
+    "last_recorded": "2026-01-30T08:01:10.448186",
     "time_series": {
       "dates": [
         "2025-12-27T08:01:00.423663",
@@ -85,7 +85,8 @@
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
-        "2026-01-29T08:01:09.639000"
+        "2026-01-29T08:01:09.639000",
+        "2026-01-30T08:01:10.448186"
       ],
       "views_rank": [
         null,
@@ -116,7 +117,8 @@
         236,
         236,
         236,
-        237
+        237,
+        236
       ],
       "runs_rank": [
         null,
@@ -147,7 +149,8 @@
         215,
         216,
         216,
-        216
+        216,
+        213
       ],
       "likes_rank": [
         59,
@@ -178,7 +181,8 @@
         56,
         43,
         42,
-        40
+        40,
+        204
       ]
     }
   },
@@ -196,8 +200,13 @@
   "insights": [
     {
       "type": "positive",
-      "title": "High Performer",
-      "description": "Ranked #40 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "title": "Rising Star",
+      "description": "Improved by 12 positions in views ranking over the last 30 days - showing strong momentum!"
+    },
+    {
+      "type": "positive",
+      "title": "Growing Usage",
+      "description": "Runs ranking improved by 36 positions in the last 30 days - users are actively engaging with this agent!"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "e21d31f5-a2ab-45a7-951c-303492358e60",
-  "generated_at": "2026-01-29T00:01:24.994512",
+  "generated_at": "2026-01-30T00:01:23.323182",
   "basic_info": {
     "title": "AI Secretary for Google Meet",
     "author": "Aurorabbafef3",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-30T17:56:21.736000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aurorabbafef3/ai-secretary-for-google-meet",
-    "days_since_published": 90
+    "days_since_published": 91
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 70,
+      "views_rank": 71,
       "runs_rank": 118,
-      "likes_rank": 212,
-      "total_agents": 300,
-      "views_percentile": 76.7,
-      "runs_percentile": 60.7,
-      "likes_percentile": 29.3
+      "likes_rank": 133,
+      "total_agents": 301,
+      "views_percentile": 76.4,
+      "runs_percentile": 60.8,
+      "likes_percentile": 55.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 101,
+    "days_tracked": 102,
     "price": 1.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 70,
+    "days_tracked": 71,
     "last_7_days": {
-      "views_rank_change": 0,
+      "views_rank_change": 1,
       "runs_rank_change": 2,
-      "likes_rank_change": 36
+      "likes_rank_change": -4
     },
     "last_30_days": {
-      "views_rank_change": 1,
+      "views_rank_change": 2,
       "runs_rank_change": 10,
-      "likes_rank_change": 32
+      "likes_rank_change": -43
     },
     "all_time": {
       "best_views_rank": 68,
@@ -47,14 +47,14 @@
       "best_likes_rank": 83,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 70
+      "current_rank": 71
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 69,
+    "data_points": 70,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-29T08:01:09.639000",
+    "last_recorded": "2026-01-30T08:01:10.448186",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -125,7 +125,8 @@
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
-        "2026-01-29T08:01:09.639000"
+        "2026-01-29T08:01:09.639000",
+        "2026-01-30T08:01:10.448186"
       ],
       "views_rank": [
         null,
@@ -196,7 +197,8 @@
         70,
         70,
         71,
-        70
+        70,
+        71
       ],
       "runs_rank": [
         null,
@@ -267,6 +269,7 @@
         116,
         116,
         117,
+        118,
         118
       ],
       "likes_rank": [
@@ -338,7 +341,8 @@
         114,
         91,
         83,
-        212
+        212,
+        133
       ]
     }
   },
@@ -350,7 +354,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #70 out of 300 active agents."
+      "description": "This agent is currently ranked #71 out of 301 active agents."
     }
   ]
 }

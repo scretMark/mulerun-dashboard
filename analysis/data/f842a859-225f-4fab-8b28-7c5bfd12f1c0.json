@@ -1,6 +1,6 @@
 {
   "agent_id": "f842a859-225f-4fab-8b28-7c5bfd12f1c0",
-  "generated_at": "2026-01-29T00:01:25.296980",
+  "generated_at": "2026-01-30T00:01:23.687801",
   "basic_info": {
     "title": "Excuse Saviour",
     "author": "Excel",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-05T18:21:23.665000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Excel/excuse-saviour",
-    "days_since_published": 115
+    "days_since_published": 116
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 135,
-      "runs_rank": 153,
-      "likes_rank": 161,
-      "total_agents": 300,
-      "views_percentile": 55.0,
-      "runs_percentile": 49.0,
-      "likes_percentile": 46.3
+      "runs_rank": 154,
+      "likes_rank": 112,
+      "total_agents": 301,
+      "views_percentile": 55.1,
+      "runs_percentile": 48.8,
+      "likes_percentile": 62.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 96,
+    "days_tracked": 97,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 70,
+    "days_tracked": 71,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 2,
-      "likes_rank_change": -50
+      "runs_rank_change": 3,
+      "likes_rank_change": -94
     },
     "last_30_days": {
       "views_rank_change": 5,
-      "runs_rank_change": 14,
-      "likes_rank_change": -42
+      "runs_rank_change": 15,
+      "likes_rank_change": -91
     },
     "all_time": {
       "best_views_rank": 128,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 69,
+    "data_points": 70,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-29T08:01:09.639000",
+    "last_recorded": "2026-01-30T08:01:10.448186",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -125,7 +125,8 @@
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
-        "2026-01-29T08:01:09.639000"
+        "2026-01-29T08:01:09.639000",
+        "2026-01-30T08:01:10.448186"
       ],
       "views_rank": [
         null,
@@ -193,6 +194,7 @@
         134,
         134,
         134,
+        135,
         135,
         135,
         135,
@@ -267,7 +269,8 @@
         151,
         151,
         151,
-        153
+        153,
+        154
       ],
       "likes_rank": [
         null,
@@ -338,7 +341,8 @@
         163,
         295,
         191,
-        161
+        161,
+        112
       ]
     }
   },
@@ -350,7 +354,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #135 out of 300 active agents."
+      "description": "This agent is currently ranked #135 out of 301 active agents."
     }
   ]
 }

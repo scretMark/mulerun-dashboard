@@ -1,6 +1,6 @@
 {
   "agent_id": "f287a273-a8e9-4f84-bcad-d14484f88465",
-  "generated_at": "2026-01-29T00:01:24.782617",
+  "generated_at": "2026-01-30T00:01:23.036863",
   "basic_info": {
     "title": "Ethereal Bloom",
     "author": "Lucas",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-04T22:06:12.064000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/ethereal-bloom",
-    "days_since_published": 85
+    "days_since_published": 86
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 243,
-      "runs_rank": 289,
-      "likes_rank": 107,
-      "total_agents": 300,
-      "views_percentile": 19.0,
-      "runs_percentile": 3.7,
-      "likes_percentile": 64.3
+      "runs_rank": 291,
+      "likes_rank": 76,
+      "total_agents": 301,
+      "views_percentile": 19.3,
+      "runs_percentile": 3.3,
+      "likes_percentile": 74.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 82,
+    "days_tracked": 83,
     "price": 49.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 70,
+    "days_tracked": 71,
     "last_7_days": {
       "views_rank_change": 2,
-      "runs_rank_change": 3,
-      "likes_rank_change": 50
+      "runs_rank_change": 4,
+      "likes_rank_change": 23
     },
     "last_30_days": {
       "views_rank_change": 21,
-      "runs_rank_change": null,
-      "likes_rank_change": -103
+      "runs_rank_change": 23,
+      "likes_rank_change": -134
     },
     "all_time": {
       "best_views_rank": 207,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 69,
+    "data_points": 70,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-29T08:01:09.639000",
+    "last_recorded": "2026-01-30T08:01:10.448186",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -125,7 +125,8 @@
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
-        "2026-01-29T08:01:09.639000"
+        "2026-01-29T08:01:09.639000",
+        "2026-01-30T08:01:10.448186"
       ],
       "views_rank": [
         null,
@@ -196,6 +197,7 @@
         240,
         241,
         241,
+        243,
         243
       ],
       "runs_rank": [
@@ -267,7 +269,8 @@
         287,
         288,
         288,
-        289
+        289,
+        291
       ],
       "likes_rank": [
         null,
@@ -338,7 +341,8 @@
         235,
         150,
         125,
-        107
+        107,
+        76
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "9e25dbaa-2289-4ced-bafe-c3d169c38d12",
-  "generated_at": "2026-01-29T00:01:25.764700",
+  "generated_at": "2026-01-30T00:01:24.151345",
   "basic_info": {
     "title": "Object Letter Crafter",
     "author": "LinkAIBrain",
@@ -11,40 +11,40 @@
     "published_at": "2025-12-02T14:51:54.036000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/object-letter-crafter",
-    "days_since_published": 57
+    "days_since_published": 58
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 195,
       "runs_rank": 119,
-      "likes_rank": 57,
-      "total_agents": 300,
-      "views_percentile": 35.0,
-      "runs_percentile": 60.3,
-      "likes_percentile": 81.0
+      "likes_rank": 42,
+      "total_agents": 301,
+      "views_percentile": 35.2,
+      "runs_percentile": 60.5,
+      "likes_percentile": 86.0
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 56,
+    "days_tracked": 57,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 51,
+    "days_tracked": 52,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 1,
-      "likes_rank_change": -59
+      "likes_rank_change": -57
     },
     "last_30_days": {
       "views_rank_change": 4,
       "runs_rank_change": 10,
-      "likes_rank_change": -165
+      "likes_rank_change": -180
     },
     "all_time": {
       "best_views_rank": 184,
       "best_runs_rank": 102,
-      "best_likes_rank": 57,
+      "best_likes_rank": 42,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 195
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 52,
+    "data_points": 53,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2026-01-29T08:01:09.639000",
+    "last_recorded": "2026-01-30T08:01:10.448186",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -108,7 +108,8 @@
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
-        "2026-01-29T08:01:09.639000"
+        "2026-01-29T08:01:09.639000",
+        "2026-01-30T08:01:10.448186"
       ],
       "views_rank": [
         null,
@@ -157,6 +158,7 @@
         192,
         193,
         193,
+        195,
         195,
         195,
         195,
@@ -216,6 +218,7 @@
         118,
         118,
         119,
+        119,
         119
       ],
       "likes_rank": [
@@ -270,7 +273,8 @@
         83,
         66,
         62,
-        57
+        57,
+        42
       ]
     }
   },
@@ -289,7 +293,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #57 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #42 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

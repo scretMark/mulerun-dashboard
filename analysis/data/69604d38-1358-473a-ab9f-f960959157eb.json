@@ -1,6 +1,6 @@
 {
   "agent_id": "69604d38-1358-473a-ab9f-f960959157eb",
-  "generated_at": "2026-01-29T00:01:25.332470",
+  "generated_at": "2026-01-30T00:01:23.725327",
   "basic_info": {
     "title": "Halloween Skull Night",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-29T15:55:37.076000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/halloween-skull-night",
-    "days_since_published": 91
+    "days_since_published": 92
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 162,
+      "views_rank": 156,
       "runs_rank": 192,
-      "likes_rank": 127,
-      "total_agents": 300,
-      "views_percentile": 46.0,
-      "runs_percentile": 36.0,
-      "likes_percentile": 57.7
+      "likes_rank": 256,
+      "total_agents": 301,
+      "views_percentile": 48.2,
+      "runs_percentile": 36.2,
+      "likes_percentile": 15.0
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 88,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 89,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 70,
+    "days_tracked": 71,
     "last_7_days": {
-      "views_rank_change": 2,
+      "views_rank_change": -5,
       "runs_rank_change": 2,
-      "likes_rank_change": -85
+      "likes_rank_change": 97
     },
     "last_30_days": {
-      "views_rank_change": 9,
+      "views_rank_change": 5,
       "runs_rank_change": 18,
-      "likes_rank_change": -102
+      "likes_rank_change": 33
     },
     "all_time": {
       "best_views_rank": 148,
@@ -47,14 +47,14 @@
       "best_likes_rank": 71,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 162
+      "current_rank": 156
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 69,
+    "data_points": 70,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-29T08:01:09.639000",
+    "last_recorded": "2026-01-30T08:01:10.448186",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -125,7 +125,8 @@
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
-        "2026-01-29T08:01:09.639000"
+        "2026-01-29T08:01:09.639000",
+        "2026-01-30T08:01:10.448186"
       ],
       "views_rank": [
         null,
@@ -196,7 +197,8 @@
         162,
         162,
         162,
-        162
+        162,
+        156
       ],
       "runs_rank": [
         null,
@@ -266,6 +268,7 @@
         190,
         190,
         191,
+        192,
         192,
         192
       ],
@@ -338,7 +341,8 @@
         132,
         184,
         148,
-        127
+        127,
+        256
       ]
     }
   },
@@ -350,7 +354,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #162 out of 300 active agents."
+      "description": "This agent is currently ranked #156 out of 301 active agents."
     }
   ]
 }

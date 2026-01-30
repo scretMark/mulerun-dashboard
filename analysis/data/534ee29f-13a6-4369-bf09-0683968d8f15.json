@@ -1,6 +1,6 @@
 {
   "agent_id": "534ee29f-13a6-4369-bf09-0683968d8f15",
-  "generated_at": "2026-01-29T00:01:26.733282",
+  "generated_at": "2026-01-30T00:01:25.269933",
   "basic_info": {
     "title": "Comic Meme Caption",
     "author": "thurnz",
@@ -11,35 +11,35 @@
     "published_at": "2026-01-09T11:09:10.896000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@thurnz/comic-meme-caption",
-    "days_since_published": 19
+    "days_since_published": 20
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 275,
-      "runs_rank": 274,
-      "likes_rank": 34,
-      "total_agents": 300,
-      "views_percentile": 8.3,
-      "runs_percentile": 8.7,
-      "likes_percentile": 88.7
+      "views_rank": 273,
+      "runs_rank": 275,
+      "likes_rank": 207,
+      "total_agents": 301,
+      "views_percentile": 9.3,
+      "runs_percentile": 8.6,
+      "likes_percentile": 31.2
     },
-    "tier": "High",
-    "tier_class": "high",
+    "tier": "Low",
+    "tier_class": "low",
     "days_tracked": 0,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 16,
+    "days_tracked": 17,
     "last_7_days": {
-      "views_rank_change": 7,
+      "views_rank_change": 1,
       "runs_rank_change": 4,
-      "likes_rank_change": -10
+      "likes_rank_change": 165
     },
     "last_30_days": {
-      "views_rank_change": -3,
-      "runs_rank_change": 9,
-      "likes_rank_change": -54
+      "views_rank_change": -5,
+      "runs_rank_change": 10,
+      "likes_rank_change": 119
     },
     "all_time": {
       "best_views_rank": 266,
@@ -47,14 +47,14 @@
       "best_likes_rank": 34,
       "days_in_top_10": 0,
       "first_rank": 278,
-      "current_rank": 275
+      "current_rank": 273
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 15,
+    "data_points": 16,
     "first_recorded": "2026-01-13T08:00:58.516114",
-    "last_recorded": "2026-01-29T08:01:09.639000",
+    "last_recorded": "2026-01-30T08:01:10.448186",
     "time_series": {
       "dates": [
         "2026-01-13T08:00:58.516114",
@@ -71,7 +71,8 @@
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
-        "2026-01-29T08:01:09.639000"
+        "2026-01-29T08:01:09.639000",
+        "2026-01-30T08:01:10.448186"
       ],
       "views_rank": [
         278,
@@ -88,7 +89,8 @@
         272,
         273,
         274,
-        275
+        275,
+        273
       ],
       "runs_rank": [
         265,
@@ -105,7 +107,8 @@
         271,
         273,
         273,
-        274
+        274,
+        275
       ],
       "likes_rank": [
         88,
@@ -122,7 +125,8 @@
         40,
         36,
         35,
-        34
+        34,
+        207
       ]
     }
   },
@@ -139,9 +143,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "High Performer",
-      "description": "Ranked #34 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #273 out of 301 active agents."
     }
   ]
 }

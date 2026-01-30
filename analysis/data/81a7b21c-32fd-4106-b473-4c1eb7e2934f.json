@@ -1,6 +1,6 @@
 {
   "agent_id": "81a7b21c-32fd-4106-b473-4c1eb7e2934f",
-  "generated_at": "2026-01-29T00:01:24.559227",
+  "generated_at": "2026-01-30T00:01:22.821982",
   "basic_info": {
     "title": "Elon Musk I Love YOU",
     "author": "Darren",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-20T11:38:39.595000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/elon-musk-i-love-you",
-    "days_since_published": 100
+    "days_since_published": 101
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 120,
       "runs_rank": 186,
-      "likes_rank": 185,
-      "total_agents": 300,
-      "views_percentile": 60.0,
-      "runs_percentile": 38.0,
-      "likes_percentile": 38.3
+      "likes_rank": 166,
+      "total_agents": 301,
+      "views_percentile": 60.1,
+      "runs_percentile": 38.2,
+      "likes_percentile": 44.9
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 96,
+    "days_tracked": 97,
     "price": 51.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 70,
+    "days_tracked": 71,
     "last_7_days": {
       "views_rank_change": -1,
       "runs_rank_change": 1,
-      "likes_rank_change": 14
+      "likes_rank_change": -99
     },
     "last_30_days": {
       "views_rank_change": 1,
       "runs_rank_change": 17,
-      "likes_rank_change": -28
+      "likes_rank_change": -47
     },
     "all_time": {
       "best_views_rank": 114,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 69,
+    "data_points": 70,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-29T08:01:09.639000",
+    "last_recorded": "2026-01-30T08:01:10.448186",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -125,7 +125,8 @@
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
-        "2026-01-29T08:01:09.639000"
+        "2026-01-29T08:01:09.639000",
+        "2026-01-30T08:01:10.448186"
       ],
       "views_rank": [
         null,
@@ -195,6 +196,7 @@
         121,
         121,
         121,
+        120,
         120,
         120
       ],
@@ -267,6 +269,7 @@
         185,
         185,
         186,
+        186,
         186
       ],
       "likes_rank": [
@@ -338,7 +341,8 @@
         294,
         167,
         246,
-        185
+        185,
+        166
       ]
     }
   },
@@ -350,7 +354,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #120 out of 300 active agents."
+      "description": "This agent is currently ranked #120 out of 301 active agents."
     }
   ]
 }

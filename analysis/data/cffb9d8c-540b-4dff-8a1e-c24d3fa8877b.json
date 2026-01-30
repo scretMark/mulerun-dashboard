@@ -1,6 +1,6 @@
 {
   "agent_id": "cffb9d8c-540b-4dff-8a1e-c24d3fa8877b",
-  "generated_at": "2026-01-29T00:01:23.577205",
+  "generated_at": "2026-01-30T00:01:21.754717",
   "basic_info": {
     "title": "ID Photo",
     "author": "HongwuQz",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-25T12:49:57.242000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@HongwuQz/id-photo",
-    "days_since_published": 125
+    "days_since_published": 126
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 52,
       "runs_rank": 68,
-      "likes_rank": 218,
-      "total_agents": 300,
+      "likes_rank": 135,
+      "total_agents": 301,
       "views_percentile": 82.7,
-      "runs_percentile": 77.3,
-      "likes_percentile": 27.3
+      "runs_percentile": 77.4,
+      "likes_percentile": 55.1
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 96,
+    "days_tracked": 97,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 70,
+    "days_tracked": 71,
     "last_7_days": {
       "views_rank_change": -1,
       "runs_rank_change": 0,
-      "likes_rank_change": -61
+      "likes_rank_change": -124
     },
     "last_30_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": 10
+      "likes_rank_change": -73
     },
     "all_time": {
       "best_views_rank": 52,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 69,
+    "data_points": 70,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-29T08:01:09.639000",
+    "last_recorded": "2026-01-30T08:01:10.448186",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -125,7 +125,8 @@
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
-        "2026-01-29T08:01:09.639000"
+        "2026-01-29T08:01:09.639000",
+        "2026-01-30T08:01:10.448186"
       ],
       "views_rank": [
         null,
@@ -196,6 +197,7 @@
         53,
         52,
         52,
+        52,
         52
       ],
       "runs_rank": [
@@ -257,6 +259,7 @@
         67,
         67,
         67,
+        68,
         68,
         68,
         68,
@@ -338,7 +341,8 @@
         195,
         236,
         223,
-        218
+        218,
+        135
       ]
     }
   },

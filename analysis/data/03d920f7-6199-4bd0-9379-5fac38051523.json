@@ -1,6 +1,6 @@
 {
   "agent_id": "03d920f7-6199-4bd0-9379-5fac38051523",
-  "generated_at": "2026-01-29T00:01:26.404070",
+  "generated_at": "2026-01-30T00:01:24.898104",
   "basic_info": {
     "title": "Viral Shorts AI Architect",
     "author": "yuzhou",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-20T21:05:43.834000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@yuzhou/viral-shorts-ai-architect",
-    "days_since_published": 39
+    "days_since_published": 40
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 215,
-      "runs_rank": 272,
-      "likes_rank": 283,
-      "total_agents": 300,
-      "views_percentile": 28.3,
+      "runs_rank": 273,
+      "likes_rank": 218,
+      "total_agents": 301,
+      "views_percentile": 28.6,
       "runs_percentile": 9.3,
-      "likes_percentile": 5.7
+      "likes_percentile": 27.6
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 30,
+    "days_tracked": 31,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 35,
+    "days_tracked": 36,
     "last_7_days": {
-      "views_rank_change": -14,
+      "views_rank_change": -13,
       "runs_rank_change": 3,
-      "likes_rank_change": 120
+      "likes_rank_change": -54
     },
     "last_30_days": {
-      "views_rank_change": -27,
-      "runs_rank_change": null,
-      "likes_rank_change": 146
+      "views_rank_change": -26,
+      "runs_rank_change": 13,
+      "likes_rank_change": 77
     },
     "all_time": {
       "best_views_rank": 215,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 31,
+    "data_points": 32,
     "first_recorded": "2025-12-25T08:01:00.196993",
-    "last_recorded": "2026-01-29T08:01:09.639000",
+    "last_recorded": "2026-01-30T08:01:10.448186",
     "time_series": {
       "dates": [
         "2025-12-25T08:01:00.196993",
@@ -87,7 +87,8 @@
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
-        "2026-01-29T08:01:09.639000"
+        "2026-01-29T08:01:09.639000",
+        "2026-01-30T08:01:10.448186"
       ],
       "views_rank": [
         null,
@@ -119,6 +120,7 @@
         228,
         222,
         220,
+        215,
         215,
         215
       ],
@@ -153,7 +155,8 @@
         269,
         271,
         271,
-        272
+        272,
+        273
       ],
       "likes_rank": [
         96,
@@ -186,7 +189,8 @@
         273,
         241,
         230,
-        283
+        283,
+        218
       ]
     }
   },
@@ -205,12 +209,12 @@
     {
       "type": "positive",
       "title": "Rising Star",
-      "description": "Improved by 27 positions in views ranking over the last 30 days - showing strong momentum!"
+      "description": "Improved by 26 positions in views ranking over the last 30 days - showing strong momentum!"
     },
     {
       "type": "positive",
       "title": "Hot Trend",
-      "description": "Up 14 positions in just 7 days - currently trending and gaining rapid visibility!"
+      "description": "Up 13 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

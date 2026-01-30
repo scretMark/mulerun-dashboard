@@ -1,6 +1,6 @@
 {
   "agent_id": "b52490b5-59b2-4d47-8437-f4278542febd",
-  "generated_at": "2026-01-29T00:01:24.117359",
+  "generated_at": "2026-01-30T00:01:22.366464",
   "basic_info": {
     "title": "Quipple Meme Generator",
     "author": "akirakai",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-12T17:17:32.318000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@akirakai/quipple-meme-generator",
-    "days_since_published": 138
+    "days_since_published": 139
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 28,
-      "runs_rank": 24,
-      "likes_rank": 261,
-      "total_agents": 300,
+      "runs_rank": 25,
+      "likes_rank": 152,
+      "total_agents": 301,
       "views_percentile": 90.7,
-      "runs_percentile": 92.0,
-      "likes_percentile": 13.0
+      "runs_percentile": 91.7,
+      "likes_percentile": 49.5
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 133,
+    "days_tracked": 134,
     "price": 0.5
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 70,
+    "days_tracked": 71,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 0,
-      "likes_rank_change": 25
+      "runs_rank_change": 1,
+      "likes_rank_change": -66
     },
     "last_30_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 4,
-      "likes_rank_change": 234
+      "runs_rank_change": 5,
+      "likes_rank_change": 135
     },
     "all_time": {
       "best_views_rank": 24,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 69,
+    "data_points": 70,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-29T08:01:09.639000",
+    "last_recorded": "2026-01-30T08:01:10.448186",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -125,7 +125,8 @@
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
-        "2026-01-29T08:01:09.639000"
+        "2026-01-29T08:01:09.639000",
+        "2026-01-30T08:01:10.448186"
       ],
       "views_rank": [
         null,
@@ -196,6 +197,7 @@
         27,
         27,
         27,
+        28,
         28
       ],
       "runs_rank": [
@@ -267,7 +269,8 @@
         24,
         24,
         24,
-        24
+        24,
+        25
       ],
       "likes_rank": [
         null,
@@ -338,7 +341,8 @@
         209,
         220,
         197,
-        261
+        261,
+        152
       ]
     }
   },
@@ -350,12 +354,12 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #24 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #25 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     },
     {
       "type": "info",
       "title": "Premium Agent Success",
-      "description": "Despite $0.5 pricing, this agent ranks #24 in usage - demonstrating strong value proposition."
+      "description": "Despite $0.5 pricing, this agent ranks #25 in usage - demonstrating strong value proposition."
     }
   ]
 }

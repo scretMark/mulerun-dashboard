@@ -1,6 +1,6 @@
 {
   "agent_id": "1dff3b84-d6e2-481f-b2c3-595c958eca48",
-  "generated_at": "2026-01-29T00:01:25.809145",
+  "generated_at": "2026-01-30T00:01:24.197815",
   "basic_info": {
     "title": "Let Zootopia",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-03T12:14:04.150000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/let-zootopia",
-    "days_since_published": 56
+    "days_since_published": 57
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 273,
-      "runs_rank": 237,
-      "likes_rank": 170,
-      "total_agents": 300,
-      "views_percentile": 9.0,
-      "runs_percentile": 21.0,
-      "likes_percentile": 43.3
+      "views_rank": 276,
+      "runs_rank": 238,
+      "likes_rank": 115,
+      "total_agents": 301,
+      "views_percentile": 8.3,
+      "runs_percentile": 20.9,
+      "likes_percentile": 61.8
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 55,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 56,
     "price": 80.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 51,
+    "days_tracked": 52,
     "last_7_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": 2,
-      "likes_rank_change": -16
+      "views_rank_change": 3,
+      "runs_rank_change": 3,
+      "likes_rank_change": -30
     },
     "last_30_days": {
-      "views_rank_change": null,
-      "runs_rank_change": 17,
-      "likes_rank_change": 49
+      "views_rank_change": 15,
+      "runs_rank_change": 18,
+      "likes_rank_change": -6
     },
     "all_time": {
       "best_views_rank": 240,
@@ -47,14 +47,14 @@
       "best_likes_rank": 7,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 273
+      "current_rank": 276
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 52,
+    "data_points": 53,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2026-01-29T08:01:09.639000",
+    "last_recorded": "2026-01-30T08:01:10.448186",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -108,7 +108,8 @@
         "2026-01-25T08:01:00.718016",
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
-        "2026-01-29T08:01:09.639000"
+        "2026-01-29T08:01:09.639000",
+        "2026-01-30T08:01:10.448186"
       ],
       "views_rank": [
         null,
@@ -162,7 +163,8 @@
         273,
         275,
         272,
-        273
+        273,
+        276
       ],
       "runs_rank": [
         null,
@@ -216,7 +218,8 @@
         235,
         235,
         235,
-        237
+        237,
+        238
       ],
       "likes_rank": [
         null,
@@ -270,7 +273,8 @@
         122,
         263,
         215,
-        170
+        170,
+        115
       ]
     }
   },
@@ -287,9 +291,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #273 out of 300 active agents."
+      "type": "warning",
+      "title": "Declining Ranking",
+      "description": "Dropped 15 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }
