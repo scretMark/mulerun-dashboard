@@ -1,6 +1,6 @@
 {
   "agent_id": "2e902b59-7a30-4db6-9dd6-670d34e30fb8",
-  "generated_at": "2026-01-30T00:01:24.629729",
+  "generated_at": "2026-01-31T00:01:25.044025",
   "basic_info": {
     "title": "PostcardGenie",
     "author": "AneX",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-12T12:32:37.864000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AneX/postcardgenie",
-    "days_since_published": 48
+    "days_since_published": 49
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 270,
-      "runs_rank": 218,
+      "runs_rank": 219,
       "likes_rank": 4,
       "total_agents": 301,
       "views_percentile": 10.3,
-      "runs_percentile": 27.6,
+      "runs_percentile": 27.2,
       "likes_percentile": 98.7
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 43,
+    "days_tracked": 44,
     "price": 60.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 44,
+    "days_tracked": 45,
     "last_7_days": {
       "views_rank_change": 5,
-      "runs_rank_change": 0,
-      "likes_rank_change": -6
+      "runs_rank_change": 1,
+      "likes_rank_change": -5
     },
     "last_30_days": {
-      "views_rank_change": 20,
-      "runs_rank_change": 15,
-      "likes_rank_change": -28
+      "views_rank_change": 14,
+      "runs_rank_change": 13,
+      "likes_rank_change": -22
     },
     "all_time": {
       "best_views_rank": 228,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 44,
+    "data_points": 45,
     "first_recorded": "2025-12-16T19:09:41.063612",
-    "last_recorded": "2026-01-30T08:01:10.448186",
+    "last_recorded": "2026-01-31T08:01:13.061776",
     "time_series": {
       "dates": [
         "2025-12-16T19:09:41.063612",
@@ -100,7 +100,8 @@
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
-        "2026-01-30T08:01:10.448186"
+        "2026-01-30T08:01:10.448186",
+        "2026-01-31T08:01:13.061776"
       ],
       "views_rank": [
         null,
@@ -146,6 +147,7 @@
         266,
         267,
         268,
+        270,
         270
       ],
       "runs_rank": [
@@ -192,7 +194,8 @@
         218,
         218,
         218,
-        218
+        218,
+        219
       ],
       "likes_rank": [
         null,
@@ -238,6 +241,7 @@
         8,
         7,
         7,
+        4,
         4
       ]
     }
@@ -262,7 +266,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 20 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 14 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

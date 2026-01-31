@@ -1,6 +1,6 @@
 {
   "agent_id": "f8a1b72e-a50d-4b78-beb3-b6df59c6d848",
-  "generated_at": "2026-01-30T00:01:24.139646",
+  "generated_at": "2026-01-31T00:01:24.486333",
   "basic_info": {
     "title": "VibeMimic",
     "author": "LinkAIBrain",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-04T07:39:09.075000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/vibemimic",
-    "days_since_published": 56
+    "days_since_published": 57
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 190,
       "runs_rank": 141,
-      "likes_rank": 245,
+      "likes_rank": 190,
       "total_agents": 301,
       "views_percentile": 36.9,
       "runs_percentile": 53.2,
-      "likes_percentile": 18.6
+      "likes_percentile": 36.9
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 56,
+    "days_tracked": 57,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 52,
+    "days_tracked": 53,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": -12
+      "likes_rank_change": -21
     },
     "last_30_days": {
-      "views_rank_change": 4,
-      "runs_rank_change": 11,
-      "likes_rank_change": 100
+      "views_rank_change": 0,
+      "runs_rank_change": 9,
+      "likes_rank_change": 44
     },
     "all_time": {
       "best_views_rank": 184,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 53,
+    "data_points": 54,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2026-01-30T08:01:10.448186",
+    "last_recorded": "2026-01-31T08:01:13.061776",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -109,7 +109,8 @@
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
-        "2026-01-30T08:01:10.448186"
+        "2026-01-30T08:01:10.448186",
+        "2026-01-31T08:01:13.061776"
       ],
       "views_rank": [
         null,
@@ -164,6 +165,7 @@
         190,
         190,
         190,
+        190,
         190
       ],
       "runs_rank": [
@@ -213,6 +215,7 @@
         138,
         139,
         139,
+        141,
         141,
         141,
         141,
@@ -274,7 +277,8 @@
         139,
         116,
         225,
-        245
+        245,
+        190
       ]
     }
   },

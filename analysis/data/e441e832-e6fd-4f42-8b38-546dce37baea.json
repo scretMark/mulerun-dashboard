@@ -1,6 +1,6 @@
 {
   "agent_id": "e441e832-e6fd-4f42-8b38-546dce37baea",
-  "generated_at": "2026-01-30T00:01:24.128497",
+  "generated_at": "2026-01-31T00:01:24.473036",
   "basic_info": {
     "title": "Bored Ape NFT avatar",
     "author": "Barry",
@@ -11,7 +11,7 @@
     "published_at": "2025-12-01T00:16:36.080000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Barry/bored-ape-nft-avatar",
-    "days_since_published": 59
+    "days_since_published": 60
   },
   "ranking_metrics": {
     "current_position": {
@@ -25,21 +25,21 @@
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 55,
+    "days_tracked": 56,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 58,
+    "days_tracked": 59,
     "last_7_days": {
       "views_rank_change": 5,
       "runs_rank_change": 2,
-      "likes_rank_change": -9
+      "likes_rank_change": -8
     },
     "last_30_days": {
-      "views_rank_change": 22,
-      "runs_rank_change": 14,
-      "likes_rank_change": -114
+      "views_rank_change": 18,
+      "runs_rank_change": 11,
+      "likes_rank_change": -119
     },
     "all_time": {
       "best_views_rank": 217,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 55,
+    "data_points": 56,
     "first_recorded": "2025-12-02T16:52:00.461129",
-    "last_recorded": "2026-01-30T08:01:10.448186",
+    "last_recorded": "2026-01-31T08:01:13.061776",
     "time_series": {
       "dates": [
         "2025-12-02T16:52:00.461129",
@@ -111,7 +111,8 @@
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
-        "2026-01-30T08:01:10.448186"
+        "2026-01-30T08:01:10.448186",
+        "2026-01-31T08:01:13.061776"
       ],
       "views_rank": [
         null,
@@ -168,6 +169,7 @@
         253,
         253,
         254,
+        255,
         255
       ],
       "runs_rank": [
@@ -223,6 +225,7 @@
         169,
         169,
         169,
+        171,
         171,
         171,
         171
@@ -282,6 +285,7 @@
         17,
         16,
         16,
+        12,
         12
       ]
     }
@@ -306,7 +310,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 22 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 18 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

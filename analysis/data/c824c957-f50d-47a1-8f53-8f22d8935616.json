@@ -1,6 +1,6 @@
 {
   "agent_id": "c824c957-f50d-47a1-8f53-8f22d8935616",
-  "generated_at": "2026-01-30T00:01:24.310117",
+  "generated_at": "2026-01-31T00:01:24.691761",
   "basic_info": {
     "title": "Generate your photos in China",
     "author": "8bit",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-09T00:34:28.759000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/generate-your-photos-in-china",
-    "days_since_published": 51
+    "days_since_published": 52
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 288,
+      "views_rank": 289,
       "runs_rank": 233,
-      "likes_rank": 174,
+      "likes_rank": 143,
       "total_agents": 301,
-      "views_percentile": 4.3,
+      "views_percentile": 4.0,
       "runs_percentile": 22.6,
-      "likes_percentile": 42.2
+      "likes_percentile": 52.5
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 50,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 51,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 51,
+    "days_tracked": 52,
     "last_7_days": {
-      "views_rank_change": 3,
+      "views_rank_change": 4,
       "runs_rank_change": 2,
-      "likes_rank_change": 172
+      "likes_rank_change": 141
     },
     "last_30_days": {
-      "views_rank_change": 23,
-      "runs_rank_change": 19,
-      "likes_rank_change": 160
+      "views_rank_change": 16,
+      "runs_rank_change": 15,
+      "likes_rank_change": 123
     },
     "all_time": {
       "best_views_rank": 241,
@@ -47,14 +47,14 @@
       "best_likes_rank": 2,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 288
+      "current_rank": 289
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 50,
+    "data_points": 51,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2026-01-30T08:01:10.448186",
+    "last_recorded": "2026-01-31T08:01:13.061776",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
@@ -106,7 +106,8 @@
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
-        "2026-01-30T08:01:10.448186"
+        "2026-01-30T08:01:10.448186",
+        "2026-01-31T08:01:13.061776"
       ],
       "views_rank": [
         null,
@@ -158,7 +159,8 @@
         286,
         287,
         288,
-        288
+        288,
+        289
       ],
       "runs_rank": [
         null,
@@ -209,6 +211,7 @@
         231,
         231,
         231,
+        233,
         233,
         233
       ],
@@ -262,7 +265,8 @@
         2,
         2,
         2,
-        174
+        174,
+        143
       ]
     }
   },
@@ -281,7 +285,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 23 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 16 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "d47bf37a-39b4-4ab5-8324-269e0a133ef2",
-  "generated_at": "2026-01-30T00:01:25.339881",
+  "generated_at": "2026-01-31T00:01:25.643510",
   "basic_info": {
     "title": "Anime Creator",
     "author": "summerail",
@@ -11,17 +11,17 @@
     "published_at": "2026-01-08T19:07:58.617000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/comic-creator",
-    "days_since_published": 21
+    "days_since_published": 22
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 207,
       "runs_rank": 205,
-      "likes_rank": 184,
+      "likes_rank": 153,
       "total_agents": 301,
       "views_percentile": 31.2,
       "runs_percentile": 31.9,
-      "likes_percentile": 38.9
+      "likes_percentile": 49.2
     },
     "tier": "Low",
     "tier_class": "low",
@@ -30,16 +30,16 @@
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 15,
+    "days_tracked": 16,
     "last_7_days": {
       "views_rank_change": -2,
       "runs_rank_change": -4,
-      "likes_rank_change": 19
+      "likes_rank_change": 15
     },
     "last_30_days": {
       "views_rank_change": -25,
       "runs_rank_change": -32,
-      "likes_rank_change": -66
+      "likes_rank_change": -97
     },
     "all_time": {
       "best_views_rank": 207,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 14,
+    "data_points": 15,
     "first_recorded": "2026-01-15T08:01:02.601407",
-    "last_recorded": "2026-01-30T08:01:10.448186",
+    "last_recorded": "2026-01-31T08:01:13.061776",
     "time_series": {
       "dates": [
         "2026-01-15T08:01:02.601407",
@@ -70,7 +70,8 @@
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
-        "2026-01-30T08:01:10.448186"
+        "2026-01-30T08:01:10.448186",
+        "2026-01-31T08:01:13.061776"
       ],
       "views_rank": [
         232,
@@ -86,6 +87,7 @@
         209,
         208,
         208,
+        207,
         207
       ],
       "runs_rank": [
@@ -99,6 +101,7 @@
         209,
         209,
         209,
+        205,
         205,
         205,
         205,
@@ -118,7 +121,8 @@
         199,
         232,
         178,
-        184
+        184,
+        153
       ]
     }
   },

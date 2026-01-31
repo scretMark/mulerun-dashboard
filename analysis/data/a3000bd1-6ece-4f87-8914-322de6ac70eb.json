@@ -1,6 +1,6 @@
 {
   "agent_id": "a3000bd1-6ece-4f87-8914-322de6ac70eb",
-  "generated_at": "2026-01-30T00:01:21.972823",
+  "generated_at": "2026-01-31T00:01:22.397686",
   "basic_info": {
     "title": "Giant Prop Studio",
     "author": "Lucas",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-31T15:37:32.015000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/giant-prop-studio",
-    "days_since_published": 90
+    "days_since_published": 91
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 147,
       "runs_rank": 191,
-      "likes_rank": 57,
+      "likes_rank": 54,
       "total_agents": 301,
       "views_percentile": 51.2,
       "runs_percentile": 36.5,
-      "likes_percentile": 81.1
+      "likes_percentile": 82.1
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 85,
+    "days_tracked": 86,
     "price": 49.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 71,
+    "days_tracked": 72,
     "last_7_days": {
       "views_rank_change": 5,
       "runs_rank_change": 2,
-      "likes_rank_change": -82
+      "likes_rank_change": -62
     },
     "last_30_days": {
-      "views_rank_change": 8,
-      "runs_rank_change": 18,
-      "likes_rank_change": -136
+      "views_rank_change": 7,
+      "runs_rank_change": 13,
+      "likes_rank_change": -141
     },
     "all_time": {
       "best_views_rank": 133,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 70,
+    "data_points": 71,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-30T08:01:10.448186",
+    "last_recorded": "2026-01-31T08:01:13.061776",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -126,7 +126,8 @@
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
-        "2026-01-30T08:01:10.448186"
+        "2026-01-30T08:01:10.448186",
+        "2026-01-31T08:01:13.061776"
       ],
       "views_rank": [
         null,
@@ -198,6 +199,7 @@
         142,
         145,
         145,
+        147,
         147
       ],
       "runs_rank": [
@@ -268,6 +270,7 @@
         189,
         189,
         190,
+        191,
         191,
         191,
         191
@@ -342,7 +345,8 @@
         92,
         84,
         77,
-        57
+        57,
+        54
       ]
     }
   },
@@ -354,7 +358,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #57 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #54 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

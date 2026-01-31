@@ -1,6 +1,6 @@
 {
   "agent_id": "309345ee-b4b8-45f3-8980-81073cf148eb",
-  "generated_at": "2026-01-30T00:01:21.708880",
+  "generated_at": "2026-01-31T00:01:22.084091",
   "basic_info": {
     "title": "Studio Portrait",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-12T23:21:17.162000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/studio-portrait",
-    "days_since_published": 78
+    "days_since_published": 79
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 260,
-      "runs_rank": 269,
+      "runs_rank": 271,
       "likes_rank": 10,
       "total_agents": 301,
       "views_percentile": 13.6,
-      "runs_percentile": 10.6,
+      "runs_percentile": 10.0,
       "likes_percentile": 96.7
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 75,
+    "days_tracked": 76,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 71,
+    "days_tracked": 72,
     "last_7_days": {
       "views_rank_change": 5,
-      "runs_rank_change": 4,
-      "likes_rank_change": -8
+      "runs_rank_change": 6,
+      "likes_rank_change": -7
     },
     "last_30_days": {
-      "views_rank_change": 26,
-      "runs_rank_change": 18,
-      "likes_rank_change": -107
+      "views_rank_change": 18,
+      "runs_rank_change": 16,
+      "likes_rank_change": -113
     },
     "all_time": {
       "best_views_rank": 220,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 70,
+    "data_points": 71,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-30T08:01:10.448186",
+    "last_recorded": "2026-01-31T08:01:13.061776",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -126,7 +126,8 @@
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
-        "2026-01-30T08:01:10.448186"
+        "2026-01-30T08:01:10.448186",
+        "2026-01-31T08:01:13.061776"
       ],
       "views_rank": [
         null,
@@ -198,6 +199,7 @@
         256,
         256,
         257,
+        260,
         260
       ],
       "runs_rank": [
@@ -270,7 +272,8 @@
         266,
         266,
         267,
-        269
+        269,
+        271
       ],
       "likes_rank": [
         null,
@@ -342,6 +345,7 @@
         14,
         13,
         13,
+        10,
         10
       ]
     }
@@ -359,7 +363,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 26 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 18 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

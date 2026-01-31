@@ -1,6 +1,6 @@
 {
   "agent_id": "bd54b71a-e406-4cb8-b8d1-4360a797ee73",
-  "generated_at": "2026-01-30T00:01:24.603145",
+  "generated_at": "2026-01-31T00:01:25.018558",
   "basic_info": {
     "title": "QuotePress-Card Maker",
     "author": "AneX",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-12T13:35:41.437000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AneX/quotepress-card-maker",
-    "days_since_published": 48
+    "days_since_published": 49
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 257,
       "runs_rank": 204,
-      "likes_rank": 83,
+      "likes_rank": 77,
       "total_agents": 301,
       "views_percentile": 14.6,
       "runs_percentile": 32.2,
-      "likes_percentile": 72.4
+      "likes_percentile": 74.4
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 43,
+    "days_tracked": 44,
     "price": 60.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 44,
+    "days_tracked": 45,
     "last_7_days": {
-      "views_rank_change": 4,
+      "views_rank_change": 5,
       "runs_rank_change": 0,
-      "likes_rank_change": 7
+      "likes_rank_change": -204
     },
     "last_30_days": {
-      "views_rank_change": 15,
-      "runs_rank_change": 16,
-      "likes_rank_change": -53
+      "views_rank_change": 9,
+      "runs_rank_change": 12,
+      "likes_rank_change": -64
     },
     "all_time": {
       "best_views_rank": 225,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 44,
+    "data_points": 45,
     "first_recorded": "2025-12-16T19:09:41.063612",
-    "last_recorded": "2026-01-30T08:01:10.448186",
+    "last_recorded": "2026-01-31T08:01:13.061776",
     "time_series": {
       "dates": [
         "2025-12-16T19:09:41.063612",
@@ -100,7 +100,8 @@
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
-        "2026-01-30T08:01:10.448186"
+        "2026-01-30T08:01:10.448186",
+        "2026-01-31T08:01:13.061776"
       ],
       "views_rank": [
         null,
@@ -146,6 +147,7 @@
         254,
         254,
         255,
+        257,
         257
       ],
       "runs_rank": [
@@ -186,6 +188,7 @@
         200,
         200,
         201,
+        204,
         204,
         204,
         204,
@@ -238,7 +241,8 @@
         165,
         134,
         114,
-        83
+        83,
+        77
       ]
     }
   },
@@ -255,9 +259,9 @@
   },
   "insights": [
     {
-      "type": "warning",
-      "title": "Declining Ranking",
-      "description": "Dropped 15 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #257 out of 301 active agents."
     }
   ]
 }

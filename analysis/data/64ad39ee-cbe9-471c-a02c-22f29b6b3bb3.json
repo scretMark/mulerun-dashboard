@@ -1,6 +1,6 @@
 {
   "agent_id": "64ad39ee-cbe9-471c-a02c-22f29b6b3bb3",
-  "generated_at": "2026-01-30T00:01:25.228008",
+  "generated_at": "2026-01-31T00:01:25.555807",
   "basic_info": {
     "title": "PixelSensei",
     "author": "LunarAITalk",
@@ -11,35 +11,35 @@
     "published_at": "2026-01-01T19:25:02.602000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LunarAITalk/pixelsensei",
-    "days_since_published": 28
+    "days_since_published": 29
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 161,
       "runs_rank": 93,
-      "likes_rank": 158,
+      "likes_rank": 252,
       "total_agents": 301,
       "views_percentile": 46.5,
       "runs_percentile": 69.1,
-      "likes_percentile": 47.5
+      "likes_percentile": 16.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 18,
+    "days_tracked": 19,
     "price": 20.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 20,
+    "days_tracked": 21,
     "last_7_days": {
-      "views_rank_change": -2,
-      "runs_rank_change": 1,
-      "likes_rank_change": -105
+      "views_rank_change": 0,
+      "runs_rank_change": 0,
+      "likes_rank_change": 8
     },
     "last_30_days": {
       "views_rank_change": -90,
       "runs_rank_change": -129,
-      "likes_rank_change": 84
+      "likes_rank_change": 178
     },
     "all_time": {
       "best_views_rank": 160,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 19,
+    "data_points": 20,
     "first_recorded": "2026-01-10T08:01:02.077885",
-    "last_recorded": "2026-01-30T08:01:10.448186",
+    "last_recorded": "2026-01-31T08:01:13.061776",
     "time_series": {
       "dates": [
         "2026-01-10T08:01:02.077885",
@@ -75,7 +75,8 @@
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
-        "2026-01-30T08:01:10.448186"
+        "2026-01-30T08:01:10.448186",
+        "2026-01-31T08:01:13.061776"
       ],
       "views_rank": [
         251,
@@ -96,6 +97,7 @@
         160,
         160,
         160,
+        161,
         161
       ],
       "runs_rank": [
@@ -113,6 +115,7 @@
         95,
         93,
         92,
+        93,
         93,
         93,
         93,
@@ -138,7 +141,8 @@
         254,
         219,
         290,
-        158
+        158,
+        252
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "cdb7a712-fb55-4bb8-ac8d-2081aab17a27",
-  "generated_at": "2026-01-30T00:01:22.280889",
+  "generated_at": "2026-01-31T00:01:22.715363",
   "basic_info": {
     "title": "Colorful Magazine Cover Image Generation",
     "author": "Jayden",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-04T18:21:51.011000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Jayden/colorful-magazine-cover-image-generation",
-    "days_since_published": 86
+    "days_since_published": 87
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 173,
-      "runs_rank": 220,
+      "runs_rank": 221,
       "likes_rank": 26,
       "total_agents": 301,
       "views_percentile": 42.5,
-      "runs_percentile": 26.9,
+      "runs_percentile": 26.6,
       "likes_percentile": 91.4
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 83,
+    "days_tracked": 84,
     "price": 40.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 71,
+    "days_tracked": 72,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 0,
-      "likes_rank_change": -12
+      "runs_rank_change": 1,
+      "likes_rank_change": -11
     },
     "last_30_days": {
-      "views_rank_change": 12,
-      "runs_rank_change": 15,
-      "likes_rank_change": -104
+      "views_rank_change": 11,
+      "runs_rank_change": 13,
+      "likes_rank_change": -110
     },
     "all_time": {
       "best_views_rank": 151,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 70,
+    "data_points": 71,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-30T08:01:10.448186",
+    "last_recorded": "2026-01-31T08:01:13.061776",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -126,7 +126,8 @@
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
-        "2026-01-30T08:01:10.448186"
+        "2026-01-30T08:01:10.448186",
+        "2026-01-31T08:01:13.061776"
       ],
       "views_rank": [
         null,
@@ -197,6 +198,7 @@
         172,
         172,
         172,
+        173,
         173,
         173
       ],
@@ -270,7 +272,8 @@
         220,
         220,
         220,
-        220
+        220,
+        221
       ],
       "likes_rank": [
         null,
@@ -342,6 +345,7 @@
         33,
         32,
         31,
+        26,
         26
       ]
     }
@@ -359,7 +363,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 12 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 11 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

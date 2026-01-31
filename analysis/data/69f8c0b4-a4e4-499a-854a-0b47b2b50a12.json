@@ -1,6 +1,6 @@
 {
   "agent_id": "69f8c0b4-a4e4-499a-854a-0b47b2b50a12",
-  "generated_at": "2026-01-30T00:01:24.042630",
+  "generated_at": "2026-01-31T00:01:24.376132",
   "basic_info": {
     "title": "ShadowShift",
     "author": "luckyy",
@@ -11,40 +11,40 @@
     "published_at": "2025-11-20T19:16:57.498000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@luckyy/shadowshift",
-    "days_since_published": 70
+    "days_since_published": 71
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 238,
       "runs_rank": 121,
-      "likes_rank": 47,
+      "likes_rank": 44,
       "total_agents": 301,
       "views_percentile": 20.9,
       "runs_percentile": 59.8,
-      "likes_percentile": 84.4
+      "likes_percentile": 85.4
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 68,
+    "days_tracked": 69,
     "price": 23.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 67,
+    "days_tracked": 68,
     "last_7_days": {
-      "views_rank_change": 5,
+      "views_rank_change": 4,
       "runs_rank_change": 0,
-      "likes_rank_change": -66
+      "likes_rank_change": -50
     },
     "last_30_days": {
-      "views_rank_change": 15,
-      "runs_rank_change": 6,
-      "likes_rank_change": -172
+      "views_rank_change": 12,
+      "runs_rank_change": 5,
+      "likes_rank_change": -180
     },
     "all_time": {
       "best_views_rank": 206,
       "best_runs_rank": 111,
-      "best_likes_rank": 47,
+      "best_likes_rank": 44,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 238
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 67,
+    "data_points": 68,
     "first_recorded": "2025-11-23T13:27:48.290198",
-    "last_recorded": "2026-01-30T08:01:10.448186",
+    "last_recorded": "2026-01-31T08:01:13.061776",
     "time_series": {
       "dates": [
         "2025-11-23T13:27:48.290198",
@@ -123,7 +123,8 @@
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
-        "2026-01-30T08:01:10.448186"
+        "2026-01-30T08:01:10.448186",
+        "2026-01-31T08:01:13.061776"
       ],
       "views_rank": [
         null,
@@ -192,6 +193,7 @@
         235,
         235,
         236,
+        238,
         238
       ],
       "runs_rank": [
@@ -255,6 +257,7 @@
         119,
         119,
         119,
+        121,
         121,
         121,
         121,
@@ -330,7 +333,8 @@
         75,
         69,
         63,
-        47
+        47,
+        44
       ]
     }
   },
@@ -349,12 +353,12 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #47 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #44 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     },
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 15 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 12 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

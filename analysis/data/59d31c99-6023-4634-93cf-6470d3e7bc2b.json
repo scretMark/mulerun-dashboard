@@ -1,6 +1,6 @@
 {
   "agent_id": "59d31c99-6023-4634-93cf-6470d3e7bc2b",
-  "generated_at": "2026-01-30T00:01:24.618064",
+  "generated_at": "2026-01-31T00:01:25.031258",
   "basic_info": {
     "title": "image matting",
     "author": "jumdata",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-12T09:37:01.780000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@jumdata/image-matting",
-    "days_since_published": 48
+    "days_since_published": 49
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 212,
       "runs_rank": 104,
-      "likes_rank": 127,
+      "likes_rank": 112,
       "total_agents": 301,
       "views_percentile": 29.6,
       "runs_percentile": 65.4,
-      "likes_percentile": 57.8
+      "likes_percentile": 62.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 43,
+    "days_tracked": 44,
     "price": 20.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 44,
+    "days_tracked": 45,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": -2,
-      "likes_rank_change": -88
+      "likes_rank_change": -59
     },
     "last_30_days": {
-      "views_rank_change": 9,
-      "runs_rank_change": -42,
-      "likes_rank_change": 25
+      "views_rank_change": 6,
+      "runs_rank_change": -33,
+      "likes_rank_change": 4
     },
     "all_time": {
       "best_views_rank": 200,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 44,
+    "data_points": 45,
     "first_recorded": "2025-12-16T19:09:41.063612",
-    "last_recorded": "2026-01-30T08:01:10.448186",
+    "last_recorded": "2026-01-31T08:01:13.061776",
     "time_series": {
       "dates": [
         "2025-12-16T19:09:41.063612",
@@ -100,7 +100,8 @@
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
-        "2026-01-30T08:01:10.448186"
+        "2026-01-30T08:01:10.448186",
+        "2026-01-31T08:01:13.061776"
       ],
       "views_rank": [
         null,
@@ -146,6 +147,7 @@
         213,
         211,
         211,
+        212,
         212
       ],
       "runs_rank": [
@@ -191,6 +193,7 @@
         106,
         106,
         103,
+        104,
         104,
         104
       ],
@@ -238,7 +241,8 @@
         127,
         282,
         203,
-        127
+        127,
+        112
       ]
     }
   },
@@ -257,7 +261,7 @@
     {
       "type": "positive",
       "title": "Growing Usage",
-      "description": "Runs ranking improved by 42 positions in the last 30 days - users are actively engaging with this agent!"
+      "description": "Runs ranking improved by 33 positions in the last 30 days - users are actively engaging with this agent!"
     }
   ]
 }

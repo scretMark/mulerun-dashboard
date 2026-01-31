@@ -1,6 +1,6 @@
 {
   "agent_id": "cd5a3a94-d4a8-4871-b3bf-c030e80f4f69",
-  "generated_at": "2026-01-30T00:01:23.737842",
+  "generated_at": "2026-01-31T00:01:24.017979",
   "basic_info": {
     "title": "Chiikawa In 9-Grid",
     "author": "dotb78",
@@ -11,7 +11,7 @@
     "published_at": "2025-10-04T11:38:48.535000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@dotb78/chiikawa-in-9-grid",
-    "days_since_published": 117
+    "days_since_published": 118
   },
   "ranking_metrics": {
     "current_position": {
@@ -25,21 +25,21 @@
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 92,
+    "days_tracked": 93,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 71,
+    "days_tracked": 72,
     "last_7_days": {
-      "views_rank_change": 2,
+      "views_rank_change": 1,
       "runs_rank_change": 0,
-      "likes_rank_change": -57
+      "likes_rank_change": -41
     },
     "last_30_days": {
-      "views_rank_change": 11,
-      "runs_rank_change": 16,
-      "likes_rank_change": -145
+      "views_rank_change": 9,
+      "runs_rank_change": 12,
+      "likes_rank_change": -150
     },
     "all_time": {
       "best_views_rank": 144,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 70,
+    "data_points": 71,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-30T08:01:10.448186",
+    "last_recorded": "2026-01-31T08:01:13.061776",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -126,7 +126,8 @@
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
-        "2026-01-30T08:01:10.448186"
+        "2026-01-30T08:01:10.448186",
+        "2026-01-31T08:01:13.061776"
       ],
       "views_rank": [
         null,
@@ -198,6 +199,7 @@
         158,
         158,
         158,
+        159,
         159
       ],
       "runs_rank": [
@@ -264,6 +266,7 @@
         213,
         215,
         215,
+        217,
         217,
         217,
         217,
@@ -342,6 +345,7 @@
         64,
         60,
         55,
+        40,
         40
       ]
     }
@@ -355,11 +359,6 @@
       "type": "positive",
       "title": "High Performer",
       "description": "Ranked #40 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
-    },
-    {
-      "type": "warning",
-      "title": "Declining Ranking",
-      "description": "Dropped 11 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

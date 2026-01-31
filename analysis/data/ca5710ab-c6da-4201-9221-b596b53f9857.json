@@ -1,6 +1,6 @@
 {
   "agent_id": "ca5710ab-c6da-4201-9221-b596b53f9857",
-  "generated_at": "2026-01-30T00:01:23.750215",
+  "generated_at": "2026-01-31T00:01:24.031911",
   "basic_info": {
     "title": "Ink Wash Painting",
     "author": "Darren",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-20T11:31:54.304000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/ink-wash-painting",
-    "days_since_published": 101
+    "days_since_published": 102
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 158,
       "runs_rank": 257,
-      "likes_rank": 165,
+      "likes_rank": 135,
       "total_agents": 301,
       "views_percentile": 47.5,
       "runs_percentile": 14.6,
-      "likes_percentile": 45.2
+      "likes_percentile": 55.1
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 92,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 93,
     "price": 51.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 71,
+    "days_tracked": 72,
     "last_7_days": {
-      "views_rank_change": 2,
+      "views_rank_change": 1,
       "runs_rank_change": 4,
-      "likes_rank_change": 51
+      "likes_rank_change": 40
     },
     "last_30_days": {
-      "views_rank_change": 8,
-      "runs_rank_change": 17,
-      "likes_rank_change": 125
+      "views_rank_change": 5,
+      "runs_rank_change": 13,
+      "likes_rank_change": 101
     },
     "all_time": {
       "best_views_rank": 146,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 70,
+    "data_points": 71,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-30T08:01:10.448186",
+    "last_recorded": "2026-01-31T08:01:13.061776",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -126,7 +126,8 @@
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
-        "2026-01-30T08:01:10.448186"
+        "2026-01-30T08:01:10.448186",
+        "2026-01-31T08:01:13.061776"
       ],
       "views_rank": [
         null,
@@ -198,6 +199,7 @@
         157,
         157,
         157,
+        158,
         158
       ],
       "runs_rank": [
@@ -270,6 +272,7 @@
         255,
         255,
         256,
+        257,
         257
       ],
       "likes_rank": [
@@ -342,7 +345,8 @@
         76,
         70,
         64,
-        165
+        165,
+        135
       ]
     }
   },

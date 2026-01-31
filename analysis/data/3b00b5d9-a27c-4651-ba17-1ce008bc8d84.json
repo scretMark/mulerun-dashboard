@@ -1,6 +1,6 @@
 {
   "agent_id": "3b00b5d9-a27c-4651-ba17-1ce008bc8d84",
-  "generated_at": "2026-01-30T00:01:23.260255",
+  "generated_at": "2026-01-31T00:01:23.601044",
   "basic_info": {
     "title": "Pet Red Carpet Photos",
     "author": "LinkAIBrain",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-18T19:16:26.843000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/pet-red-carpet-photos",
-    "days_since_published": 133
+    "days_since_published": 134
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 64,
       "runs_rank": 95,
-      "likes_rank": 75,
+      "likes_rank": 70,
       "total_agents": 301,
       "views_percentile": 78.7,
       "runs_percentile": 68.4,
-      "likes_percentile": 75.1
+      "likes_percentile": 76.7
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 130,
+    "days_tracked": 131,
     "price": 30.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 71,
+    "days_tracked": 72,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 0,
-      "likes_rank_change": -203
+      "likes_rank_change": -150
     },
     "last_30_days": {
-      "views_rank_change": 8,
-      "runs_rank_change": 6,
-      "likes_rank_change": -89
+      "views_rank_change": 6,
+      "runs_rank_change": 4,
+      "likes_rank_change": -100
     },
     "all_time": {
       "best_views_rank": 56,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 70,
+    "data_points": 71,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-30T08:01:10.448186",
+    "last_recorded": "2026-01-31T08:01:13.061776",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -126,7 +126,8 @@
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
-        "2026-01-30T08:01:10.448186"
+        "2026-01-30T08:01:10.448186",
+        "2026-01-31T08:01:13.061776"
       ],
       "views_rank": [
         null,
@@ -198,6 +199,7 @@
         63,
         63,
         64,
+        64,
         64
       ],
       "runs_rank": [
@@ -264,6 +266,7 @@
         94,
         94,
         94,
+        95,
         95,
         95,
         95,
@@ -342,7 +345,8 @@
         144,
         120,
         104,
-        75
+        75,
+        70
       ]
     }
   },

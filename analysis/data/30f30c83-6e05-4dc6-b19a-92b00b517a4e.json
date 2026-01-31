@@ -1,6 +1,6 @@
 {
   "agent_id": "30f30c83-6e05-4dc6-b19a-92b00b517a4e",
-  "generated_at": "2026-01-30T00:01:25.010536",
+  "generated_at": "2026-01-31T00:01:25.392324",
   "basic_info": {
     "title": "Image to gif",
     "author": "freeya619",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-25T17:32:32.840000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@freeya619/img-to-gif",
-    "days_since_published": 35
+    "days_since_published": 36
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 244,
+      "views_rank": 245,
       "runs_rank": 150,
       "likes_rank": 30,
       "total_agents": 301,
-      "views_percentile": 18.9,
+      "views_percentile": 18.6,
       "runs_percentile": 50.2,
       "likes_percentile": 90.0
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 29,
+    "days_tracked": 30,
     "price": 2.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "last_7_days": {
       "views_rank_change": 4,
       "runs_rank_change": 1,
-      "likes_rank_change": -22
+      "likes_rank_change": -18
     },
     "last_30_days": {
-      "views_rank_change": 13,
-      "runs_rank_change": -4,
-      "likes_rank_change": -70
+      "views_rank_change": 10,
+      "runs_rank_change": -7,
+      "likes_rank_change": 26
     },
     "all_time": {
       "best_views_rank": 229,
@@ -47,14 +47,14 @@
       "best_likes_rank": 1,
       "days_in_top_10": 0,
       "first_rank": 229,
-      "current_rank": 244
+      "current_rank": 245
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 30,
+    "data_points": 31,
     "first_recorded": "2025-12-27T08:01:00.423663",
-    "last_recorded": "2026-01-30T08:01:10.448186",
+    "last_recorded": "2026-01-31T08:01:13.061776",
     "time_series": {
       "dates": [
         "2025-12-27T08:01:00.423663",
@@ -86,7 +86,8 @@
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
-        "2026-01-30T08:01:10.448186"
+        "2026-01-30T08:01:10.448186",
+        "2026-01-31T08:01:13.061776"
       ],
       "views_rank": [
         229,
@@ -118,7 +119,8 @@
         242,
         242,
         244,
-        244
+        244,
+        245
       ],
       "runs_rank": [
         149,
@@ -149,6 +151,7 @@
         149,
         149,
         149,
+        150,
         150,
         150
       ],
@@ -182,6 +185,7 @@
         41,
         40,
         38,
+        30,
         30
       ]
     }
@@ -202,11 +206,6 @@
       "type": "positive",
       "title": "High Performer",
       "description": "Ranked #30 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
-    },
-    {
-      "type": "warning",
-      "title": "Declining Ranking",
-      "description": "Dropped 13 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

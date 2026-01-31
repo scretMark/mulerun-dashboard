@@ -1,6 +1,6 @@
 {
   "agent_id": "ea15d85e-4be4-48f9-904e-dddd2805efff",
-  "generated_at": "2026-01-30T00:01:22.568488",
+  "generated_at": "2026-01-31T00:01:22.917539",
   "basic_info": {
     "title": "Pet Morph Wizard",
     "author": "Milo_Em",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-11T17:30:04.210000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Milo_Em/pet-morph-wizard",
-    "days_since_published": 110
+    "days_since_published": 111
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 189,
+      "views_rank": 187,
       "runs_rank": 235,
-      "likes_rank": 46,
+      "likes_rank": 287,
       "total_agents": 301,
-      "views_percentile": 37.2,
+      "views_percentile": 37.9,
       "runs_percentile": 21.9,
-      "likes_percentile": 84.7
+      "likes_percentile": 4.7
     },
-    "tier": "High",
-    "tier_class": "high",
-    "days_tracked": 92,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 93,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 71,
+    "days_tracked": 72,
     "last_7_days": {
-      "views_rank_change": 0,
+      "views_rank_change": -2,
       "runs_rank_change": 2,
-      "likes_rank_change": -65
+      "likes_rank_change": 195
     },
     "last_30_days": {
-      "views_rank_change": 12,
-      "runs_rank_change": 20,
-      "likes_rank_change": -78
+      "views_rank_change": 9,
+      "runs_rank_change": 16,
+      "likes_rank_change": 158
     },
     "all_time": {
       "best_views_rank": 169,
@@ -47,14 +47,14 @@
       "best_likes_rank": 32,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 189
+      "current_rank": 187
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 70,
+    "data_points": 71,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-30T08:01:10.448186",
+    "last_recorded": "2026-01-31T08:01:13.061776",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -126,7 +126,8 @@
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
-        "2026-01-30T08:01:10.448186"
+        "2026-01-30T08:01:10.448186",
+        "2026-01-31T08:01:13.061776"
       ],
       "views_rank": [
         null,
@@ -198,7 +199,8 @@
         189,
         189,
         189,
-        189
+        189,
+        187
       ],
       "runs_rank": [
         null,
@@ -269,6 +271,7 @@
         233,
         233,
         233,
+        235,
         235,
         235
       ],
@@ -342,7 +345,8 @@
         74,
         68,
         62,
-        46
+        46,
+        287
       ]
     }
   },
@@ -352,14 +356,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "High Performer",
-      "description": "Ranked #46 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
-    },
-    {
-      "type": "warning",
-      "title": "Declining Ranking",
-      "description": "Dropped 12 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #187 out of 301 active agents."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "d2061c9a-ea91-4838-b825-ec338b9778cf",
-  "generated_at": "2026-01-30T00:01:22.584359",
+  "generated_at": "2026-01-31T00:01:22.941800",
   "basic_info": {
     "title": "Be the Headline",
     "author": "harry",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-20T18:12:05.708000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@harry/be-the-headline",
-    "days_since_published": 101
+    "days_since_published": 102
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 185,
-      "runs_rank": 168,
-      "likes_rank": 54,
+      "runs_rank": 169,
+      "likes_rank": 51,
       "total_agents": 301,
       "views_percentile": 38.5,
-      "runs_percentile": 44.2,
-      "likes_percentile": 82.1
+      "runs_percentile": 43.9,
+      "likes_percentile": 83.1
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 97,
+    "days_tracked": 98,
     "price": 48.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 71,
+    "days_tracked": 72,
     "last_7_days": {
       "views_rank_change": 2,
-      "runs_rank_change": 1,
-      "likes_rank_change": -79
+      "runs_rank_change": 2,
+      "likes_rank_change": -60
     },
     "last_30_days": {
-      "views_rank_change": 10,
-      "runs_rank_change": 13,
-      "likes_rank_change": -4
+      "views_rank_change": 8,
+      "runs_rank_change": 11,
+      "likes_rank_change": -3
     },
     "all_time": {
       "best_views_rank": 172,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 70,
+    "data_points": 71,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-30T08:01:10.448186",
+    "last_recorded": "2026-01-31T08:01:13.061776",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -126,7 +126,8 @@
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
-        "2026-01-30T08:01:10.448186"
+        "2026-01-30T08:01:10.448186",
+        "2026-01-31T08:01:13.061776"
       ],
       "views_rank": [
         null,
@@ -197,6 +198,7 @@
         183,
         184,
         184,
+        185,
         185,
         185
       ],
@@ -270,7 +272,8 @@
         167,
         168,
         168,
-        168
+        168,
+        169
       ],
       "likes_rank": [
         null,
@@ -342,7 +345,8 @@
         88,
         80,
         74,
-        54
+        54,
+        51
       ]
     }
   },
@@ -354,7 +358,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #54 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #51 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

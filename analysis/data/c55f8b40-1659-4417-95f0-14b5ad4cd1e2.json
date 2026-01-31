@@ -1,6 +1,6 @@
 {
   "agent_id": "c55f8b40-1659-4417-95f0-14b5ad4cd1e2",
-  "generated_at": "2026-01-30T00:01:24.992558",
+  "generated_at": "2026-01-31T00:01:25.380259",
   "basic_info": {
     "title": "FreeAI Builder",
     "author": "li_alan7qd",
@@ -11,50 +11,50 @@
     "published_at": "2025-12-24T00:43:06.317000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@li_alan7qd/freeai-builder",
-    "days_since_published": 36
+    "days_since_published": 37
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 168,
-      "runs_rank": 99,
-      "likes_rank": 269,
+      "views_rank": 166,
+      "runs_rank": 98,
+      "likes_rank": 230,
       "total_agents": 301,
-      "views_percentile": 44.2,
-      "runs_percentile": 67.1,
-      "likes_percentile": 10.6
+      "views_percentile": 44.9,
+      "runs_percentile": 67.4,
+      "likes_percentile": 23.6
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 29,
+    "days_tracked": 30,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 34,
+    "days_tracked": 35,
     "last_7_days": {
-      "views_rank_change": -2,
-      "runs_rank_change": 1,
-      "likes_rank_change": 137
+      "views_rank_change": -4,
+      "runs_rank_change": 0,
+      "likes_rank_change": 120
     },
     "last_30_days": {
       "views_rank_change": -37,
-      "runs_rank_change": -24,
-      "likes_rank_change": 221
+      "runs_rank_change": -27,
+      "likes_rank_change": 188
     },
     "all_time": {
-      "best_views_rank": 167,
+      "best_views_rank": 166,
       "best_runs_rank": 97,
       "best_likes_rank": 10,
       "days_in_top_10": 0,
       "first_rank": 213,
-      "current_rank": 168
+      "current_rank": 166
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 30,
+    "data_points": 31,
     "first_recorded": "2025-12-27T08:01:00.423663",
-    "last_recorded": "2026-01-30T08:01:10.448186",
+    "last_recorded": "2026-01-31T08:01:13.061776",
     "time_series": {
       "dates": [
         "2025-12-27T08:01:00.423663",
@@ -86,7 +86,8 @@
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
-        "2026-01-30T08:01:10.448186"
+        "2026-01-30T08:01:10.448186",
+        "2026-01-31T08:01:13.061776"
       ],
       "views_rank": [
         213,
@@ -118,7 +119,8 @@
         167,
         168,
         169,
-        168
+        168,
+        166
       ],
       "runs_rank": [
         127,
@@ -150,7 +152,8 @@
         98,
         98,
         99,
-        99
+        99,
+        98
       ],
       "likes_rank": [
         13,
@@ -182,7 +185,8 @@
         218,
         166,
         141,
-        269
+        269,
+        230
       ]
     }
   },
@@ -206,7 +210,7 @@
     {
       "type": "positive",
       "title": "Growing Usage",
-      "description": "Runs ranking improved by 24 positions in the last 30 days - users are actively engaging with this agent!"
+      "description": "Runs ranking improved by 27 positions in the last 30 days - users are actively engaging with this agent!"
     }
   ]
 }

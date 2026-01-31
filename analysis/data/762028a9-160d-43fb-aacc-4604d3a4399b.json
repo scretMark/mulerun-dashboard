@@ -1,6 +1,6 @@
 {
   "agent_id": "762028a9-160d-43fb-aacc-4604d3a4399b",
-  "generated_at": "2026-01-30T00:01:25.084724",
+  "generated_at": "2026-01-31T00:01:25.459125",
   "basic_info": {
     "title": "The Cosmic Birthday Reader",
     "author": "Eren_kaif",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-26T15:27:50.220000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Eren_kaif/the-cosmic-birthday-reader",
-    "days_since_published": 34
+    "days_since_published": 35
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 290,
+      "views_rank": 291,
       "runs_rank": 288,
-      "likes_rank": 188,
+      "likes_rank": 157,
       "total_agents": 301,
-      "views_percentile": 3.7,
+      "views_percentile": 3.3,
       "runs_percentile": 4.3,
-      "likes_percentile": 37.5
+      "likes_percentile": 47.8
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 26,
+    "days_tracked": 27,
     "price": 30.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 30,
+    "days_tracked": 31,
     "last_7_days": {
-      "views_rank_change": 2,
+      "views_rank_change": 3,
       "runs_rank_change": 5,
-      "likes_rank_change": 119
+      "likes_rank_change": 96
     },
     "last_30_days": {
-      "views_rank_change": 21,
-      "runs_rank_change": 22,
-      "likes_rank_change": 136
+      "views_rank_change": 17,
+      "runs_rank_change": 17,
+      "likes_rank_change": 116
     },
     "all_time": {
       "best_views_rank": 269,
@@ -47,14 +47,14 @@
       "best_likes_rank": 9,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 290
+      "current_rank": 291
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 26,
+    "data_points": 27,
     "first_recorded": "2025-12-31T08:00:58.854286",
-    "last_recorded": "2026-01-30T08:01:10.448186",
+    "last_recorded": "2026-01-31T08:01:13.061776",
     "time_series": {
       "dates": [
         "2025-12-31T08:00:58.854286",
@@ -82,7 +82,8 @@
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
-        "2026-01-30T08:01:10.448186"
+        "2026-01-30T08:01:10.448186",
+        "2026-01-31T08:01:13.061776"
       ],
       "views_rank": [
         null,
@@ -110,7 +111,8 @@
         289,
         289,
         290,
-        290
+        290,
+        291
       ],
       "runs_rank": [
         null,
@@ -138,6 +140,7 @@
         284,
         285,
         286,
+        288,
         288
       ],
       "likes_rank": [
@@ -166,7 +169,8 @@
         48,
         46,
         44,
-        188
+        188,
+        157
       ]
     }
   },
@@ -185,7 +189,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 21 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 17 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

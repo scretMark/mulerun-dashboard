@@ -1,6 +1,6 @@
 {
   "agent_id": "017c8118-0f78-43e2-8b24-a1b7e4b6d5a2",
-  "generated_at": "2026-01-30T00:01:21.405498",
+  "generated_at": "2026-01-31T00:01:21.812731",
   "basic_info": {
     "title": "veeverse-tarot",
     "author": "veeverseai",
@@ -17,29 +17,29 @@
     "current_position": {
       "views_rank": 116,
       "runs_rank": 74,
-      "likes_rank": 91,
+      "likes_rank": 83,
       "total_agents": 301,
       "views_percentile": 61.5,
       "runs_percentile": 75.4,
-      "likes_percentile": 69.8
+      "likes_percentile": 72.4
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 75,
+    "days_tracked": 76,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 72,
+    "days_tracked": 73,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 1,
-      "likes_rank_change": -132
+      "likes_rank_change": -93
     },
     "last_30_days": {
       "views_rank_change": 1,
       "runs_rank_change": 4,
-      "likes_rank_change": -61
+      "likes_rank_change": -75
     },
     "all_time": {
       "best_views_rank": 112,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 68,
+    "data_points": 69,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-01-30T08:01:10.448186",
+    "last_recorded": "2026-01-31T08:01:13.061776",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -124,7 +124,8 @@
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
-        "2026-01-30T08:01:10.448186"
+        "2026-01-30T08:01:10.448186",
+        "2026-01-31T08:01:13.061776"
       ],
       "views_rank": [
         null,
@@ -189,6 +190,7 @@
         116,
         116,
         117,
+        116,
         116,
         116,
         116,
@@ -264,6 +266,7 @@
         74,
         74,
         74,
+        74,
         74
       ],
       "likes_rank": [
@@ -334,7 +337,8 @@
         187,
         149,
         128,
-        91
+        91,
+        83
       ]
     }
   },

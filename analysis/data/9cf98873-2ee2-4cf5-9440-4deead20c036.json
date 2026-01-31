@@ -1,6 +1,6 @@
 {
   "agent_id": "9cf98873-2ee2-4cf5-9440-4deead20c036",
-  "generated_at": "2026-01-30T00:01:24.163169",
+  "generated_at": "2026-01-31T00:01:24.512831",
   "basic_info": {
     "title": "See Your Bodybuilding Physique in One Click",
     "author": "Matt",
@@ -11,7 +11,7 @@
     "published_at": "2025-12-03T16:33:11.999000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Matt/see-your-bodybuilding-physique-in-one-click",
-    "days_since_published": 57
+    "days_since_published": 58
   },
   "ranking_metrics": {
     "current_position": {
@@ -25,21 +25,21 @@
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 56,
+    "days_tracked": 57,
     "price": 55.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 52,
+    "days_tracked": 53,
     "last_7_days": {
       "views_rank_change": 3,
       "runs_rank_change": 1,
-      "likes_rank_change": -5
+      "likes_rank_change": -4
     },
     "last_30_days": {
-      "views_rank_change": 14,
-      "runs_rank_change": 13,
-      "likes_rank_change": -89
+      "views_rank_change": 11,
+      "runs_rank_change": 10,
+      "likes_rank_change": -93
     },
     "all_time": {
       "best_views_rank": 195,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 53,
+    "data_points": 54,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2026-01-30T08:01:10.448186",
+    "last_recorded": "2026-01-31T08:01:13.061776",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -109,7 +109,8 @@
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
-        "2026-01-30T08:01:10.448186"
+        "2026-01-30T08:01:10.448186",
+        "2026-01-31T08:01:13.061776"
       ],
       "views_rank": [
         null,
@@ -164,6 +165,7 @@
         218,
         219,
         219,
+        220,
         220
       ],
       "runs_rank": [
@@ -218,6 +220,7 @@
         148,
         148,
         148,
+        149,
         149,
         149
       ],
@@ -274,6 +277,7 @@
         6,
         5,
         5,
+        2,
         2
       ]
     }
@@ -298,7 +302,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 14 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 11 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

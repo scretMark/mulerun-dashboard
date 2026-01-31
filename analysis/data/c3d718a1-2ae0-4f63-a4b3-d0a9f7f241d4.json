@@ -1,6 +1,6 @@
 {
   "agent_id": "c3d718a1-2ae0-4f63-a4b3-d0a9f7f241d4",
-  "generated_at": "2026-01-30T00:01:24.006540",
+  "generated_at": "2026-01-31T00:01:24.333325",
   "basic_info": {
     "title": "Core Burst",
     "author": "Excel",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-11T10:30:07.114000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Excel/core-burst",
-    "days_since_published": 110
+    "days_since_published": 111
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 217,
       "runs_rank": 293,
-      "likes_rank": 153,
+      "likes_rank": 295,
       "total_agents": 301,
       "views_percentile": 27.9,
       "runs_percentile": 2.7,
-      "likes_percentile": 49.2
+      "likes_percentile": 2.0
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 102,
+    "days_tracked": 103,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 71,
+    "days_tracked": 72,
     "last_7_days": {
       "views_rank_change": 2,
       "runs_rank_change": 3,
-      "likes_rank_change": 121
+      "likes_rank_change": 264
     },
     "last_30_days": {
-      "views_rank_change": 10,
-      "runs_rank_change": 20,
-      "likes_rank_change": -48
+      "views_rank_change": 7,
+      "runs_rank_change": 15,
+      "likes_rank_change": 90
     },
     "all_time": {
       "best_views_rank": 199,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 70,
+    "data_points": 71,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-30T08:01:10.448186",
+    "last_recorded": "2026-01-31T08:01:13.061776",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -126,7 +126,8 @@
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
-        "2026-01-30T08:01:10.448186"
+        "2026-01-30T08:01:10.448186",
+        "2026-01-31T08:01:13.061776"
       ],
       "views_rank": [
         null,
@@ -198,6 +199,7 @@
         215,
         216,
         216,
+        217,
         217
       ],
       "runs_rank": [
@@ -270,6 +272,7 @@
         291,
         291,
         292,
+        293,
         293
       ],
       "likes_rank": [
@@ -342,7 +345,8 @@
         27,
         26,
         264,
-        153
+        153,
+        295
       ]
     }
   },

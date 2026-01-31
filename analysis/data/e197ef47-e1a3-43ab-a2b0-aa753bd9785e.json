@@ -1,6 +1,6 @@
 {
   "agent_id": "e197ef47-e1a3-43ab-a2b0-aa753bd9785e",
-  "generated_at": "2026-01-30T00:01:22.008674",
+  "generated_at": "2026-01-31T00:01:22.442024",
   "basic_info": {
     "title": "Kawaii Chibi Sticker Pack",
     "author": "AllenCreator",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-07T11:32:03.765000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AllenCreator/kawaii-chibi-sticker-pack",
-    "days_since_published": 114
+    "days_since_published": 115
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 160,
-      "runs_rank": 200,
-      "likes_rank": 89,
+      "runs_rank": 197,
+      "likes_rank": 264,
       "total_agents": 301,
       "views_percentile": 46.8,
-      "runs_percentile": 33.6,
-      "likes_percentile": 70.4
+      "runs_percentile": 34.6,
+      "likes_percentile": 12.3
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 92,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 93,
     "price": 20.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 71,
+    "days_tracked": 72,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 2,
-      "likes_rank_change": -23
+      "runs_rank_change": -1,
+      "likes_rank_change": 171
     },
     "last_30_days": {
-      "views_rank_change": -2,
-      "runs_rank_change": 14,
-      "likes_rank_change": 0
+      "views_rank_change": -4,
+      "runs_rank_change": 7,
+      "likes_rank_change": 171
     },
     "all_time": {
       "best_views_rank": 154,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 70,
+    "data_points": 71,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-30T08:01:10.448186",
+    "last_recorded": "2026-01-31T08:01:13.061776",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -126,7 +126,8 @@
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
-        "2026-01-30T08:01:10.448186"
+        "2026-01-30T08:01:10.448186",
+        "2026-01-31T08:01:13.061776"
       ],
       "views_rank": [
         null,
@@ -198,6 +199,7 @@
         159,
         159,
         159,
+        160,
         160
       ],
       "runs_rank": [
@@ -270,7 +272,8 @@
         199,
         199,
         199,
-        200
+        200,
+        197
       ],
       "likes_rank": [
         null,
@@ -342,7 +345,8 @@
         179,
         143,
         122,
-        89
+        89,
+        264
       ]
     }
   },

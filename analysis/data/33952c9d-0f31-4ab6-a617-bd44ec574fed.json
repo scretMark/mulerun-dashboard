@@ -1,6 +1,6 @@
 {
   "agent_id": "33952c9d-0f31-4ab6-a617-bd44ec574fed",
-  "generated_at": "2026-01-30T00:01:24.253903",
+  "generated_at": "2026-01-31T00:01:24.627926",
   "basic_info": {
     "title": "Pixel Avatar Agent ",
     "author": "Matt",
@@ -11,7 +11,7 @@
     "published_at": "2025-12-05T19:04:02.237000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Matt/pixel-avatar-agent",
-    "days_since_published": 55
+    "days_since_published": 56
   },
   "ranking_metrics": {
     "current_position": {
@@ -25,21 +25,21 @@
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 51,
+    "days_tracked": 52,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 52,
+    "days_tracked": 53,
     "last_7_days": {
       "views_rank_change": 3,
       "runs_rank_change": 1,
-      "likes_rank_change": -7
+      "likes_rank_change": -6
     },
     "last_30_days": {
-      "views_rank_change": 21,
-      "runs_rank_change": 15,
-      "likes_rank_change": -105
+      "views_rank_change": 16,
+      "runs_rank_change": 11,
+      "likes_rank_change": -111
     },
     "all_time": {
       "best_views_rank": 208,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 52,
+    "data_points": 53,
     "first_recorded": "2025-12-09T08:00:25.308684",
-    "last_recorded": "2026-01-30T08:01:10.448186",
+    "last_recorded": "2026-01-31T08:01:13.061776",
     "time_series": {
       "dates": [
         "2025-12-09T08:00:25.308684",
@@ -108,7 +108,8 @@
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
-        "2026-01-30T08:01:10.448186"
+        "2026-01-30T08:01:10.448186",
+        "2026-01-31T08:01:13.061776"
       ],
       "views_rank": [
         null,
@@ -162,6 +163,7 @@
         240,
         240,
         241,
+        241,
         241
       ],
       "runs_rank": [
@@ -213,6 +215,7 @@
         205,
         205,
         205,
+        206,
         206,
         206,
         206,
@@ -270,6 +273,7 @@
         13,
         12,
         12,
+        9,
         9
       ]
     }
@@ -294,7 +298,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 21 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 16 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

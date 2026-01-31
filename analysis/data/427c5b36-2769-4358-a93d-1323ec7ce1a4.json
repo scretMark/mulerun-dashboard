@@ -1,6 +1,6 @@
 {
   "agent_id": "427c5b36-2769-4358-a93d-1323ec7ce1a4",
-  "generated_at": "2026-01-30T00:01:21.924819",
+  "generated_at": "2026-01-31T00:01:22.339800",
   "basic_info": {
     "title": "Podcast Generator",
     "author": "AngryBerry",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-03T22:43:10.783000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AngryBerry/podcast-generator",
-    "days_since_published": 87
+    "days_since_published": 88
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 102,
       "runs_rank": 113,
-      "likes_rank": 282,
+      "likes_rank": 211,
       "total_agents": 301,
       "views_percentile": 66.1,
       "runs_percentile": 62.5,
-      "likes_percentile": 6.3
+      "likes_percentile": 29.9
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 93,
+    "days_tracked": 94,
     "price": 160.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 71,
+    "days_tracked": 72,
     "last_7_days": {
-      "views_rank_change": -2,
+      "views_rank_change": -1,
       "runs_rank_change": 2,
-      "likes_rank_change": 38
+      "likes_rank_change": -48
     },
     "last_30_days": {
       "views_rank_change": -4,
-      "runs_rank_change": 6,
-      "likes_rank_change": 27
+      "runs_rank_change": 5,
+      "likes_rank_change": -50
     },
     "all_time": {
       "best_views_rank": 102,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 70,
+    "data_points": 71,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-30T08:01:10.448186",
+    "last_recorded": "2026-01-31T08:01:13.061776",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -126,7 +126,8 @@
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
-        "2026-01-30T08:01:10.448186"
+        "2026-01-30T08:01:10.448186",
+        "2026-01-31T08:01:13.061776"
       ],
       "views_rank": [
         null,
@@ -196,6 +197,7 @@
         104,
         103,
         103,
+        102,
         102,
         102,
         102
@@ -270,6 +272,7 @@
         111,
         112,
         113,
+        113,
         113
       ],
       "likes_rank": [
@@ -342,7 +345,8 @@
         240,
         253,
         190,
-        282
+        282,
+        211
       ]
     }
   },

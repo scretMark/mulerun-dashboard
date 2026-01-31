@@ -1,6 +1,6 @@
 {
   "agent_id": "3c72d5f1-4c41-4caf-b559-42fc69c6faf2",
-  "generated_at": "2026-01-30T00:01:22.049695",
+  "generated_at": "2026-01-31T00:01:22.486442",
   "basic_info": {
     "title": "Instant Veo3 Downloader",
     "author": "JackCodebbb0c85",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-30T18:07:45.904000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@JackCodebbb0c85/instant-veo3-downloader",
-    "days_since_published": 91
+    "days_since_published": 92
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 13,
       "runs_rank": 37,
-      "likes_rank": 297,
+      "likes_rank": 216,
       "total_agents": 301,
       "views_percentile": 95.7,
       "runs_percentile": 87.7,
-      "likes_percentile": 1.3
+      "likes_percentile": 28.2
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 92,
+    "days_tracked": 93,
     "price": 1.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 71,
+    "days_tracked": 72,
     "last_7_days": {
       "views_rank_change": -1,
       "runs_rank_change": 0,
-      "likes_rank_change": 107
+      "likes_rank_change": -31
     },
     "last_30_days": {
       "views_rank_change": -1,
       "runs_rank_change": 1,
-      "likes_rank_change": 196
+      "likes_rank_change": 113
     },
     "all_time": {
       "best_views_rank": 13,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 70,
+    "data_points": 71,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-30T08:01:10.448186",
+    "last_recorded": "2026-01-31T08:01:13.061776",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -126,7 +126,8 @@
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
-        "2026-01-30T08:01:10.448186"
+        "2026-01-30T08:01:10.448186",
+        "2026-01-31T08:01:13.061776"
       ],
       "views_rank": [
         null,
@@ -198,6 +199,7 @@
         14,
         14,
         13,
+        13,
         13
       ],
       "runs_rank": [
@@ -264,6 +266,7 @@
         36,
         36,
         36,
+        37,
         37,
         37,
         37,
@@ -342,7 +345,8 @@
         246,
         205,
         291,
-        297
+        297,
+        216
       ]
     }
   },

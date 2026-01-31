@@ -1,6 +1,6 @@
 {
   "agent_id": "96154dc5-a009-4fdc-9cb7-699f7ae72de6",
-  "generated_at": "2026-01-30T00:01:22.200573",
+  "generated_at": "2026-01-31T00:01:22.657438",
   "basic_info": {
     "title": "Ani-Me Cosplay",
     "author": "laughing_code",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-26T14:58:39.244000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@laughing_code/ani-me-cosplay",
-    "days_since_published": 125
+    "days_since_published": 126
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 27,
       "runs_rank": 49,
-      "likes_rank": 255,
+      "likes_rank": 197,
       "total_agents": 301,
       "views_percentile": 91.0,
       "runs_percentile": 83.7,
-      "likes_percentile": 15.3
+      "likes_percentile": 34.6
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 97,
+    "days_tracked": 98,
     "price": 70.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 71,
+    "days_tracked": 72,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 0,
-      "likes_rank_change": 104
+      "likes_rank_change": -40
     },
     "last_30_days": {
       "views_rank_change": 2,
       "runs_rank_change": 3,
-      "likes_rank_change": 96
+      "likes_rank_change": 36
     },
     "all_time": {
       "best_views_rank": 23,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 70,
+    "data_points": 71,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-30T08:01:10.448186",
+    "last_recorded": "2026-01-31T08:01:13.061776",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -126,7 +126,8 @@
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
-        "2026-01-30T08:01:10.448186"
+        "2026-01-30T08:01:10.448186",
+        "2026-01-31T08:01:13.061776"
       ],
       "views_rank": [
         null,
@@ -198,6 +199,7 @@
         26,
         26,
         27,
+        27,
         27
       ],
       "runs_rank": [
@@ -262,6 +264,7 @@
         47,
         47,
         48,
+        49,
         49,
         49,
         49,
@@ -342,7 +345,8 @@
         226,
         170,
         262,
-        255
+        255,
+        197
       ]
     }
   },

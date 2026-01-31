@@ -1,6 +1,6 @@
 {
   "agent_id": "0066aba1-5246-4c07-870b-f2bffb4396a9",
-  "generated_at": "2026-01-30T00:01:21.876751",
+  "generated_at": "2026-01-31T00:01:22.265794",
   "basic_info": {
     "title": "Cinematic Rooftop",
     "author": "Lucas",
@@ -11,7 +11,7 @@
     "published_at": "2025-11-12T18:53:01.452000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/cinematic-rooftop",
-    "days_since_published": 78
+    "days_since_published": 79
   },
   "ranking_metrics": {
     "current_position": {
@@ -25,21 +25,21 @@
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 75,
+    "days_tracked": 76,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 71,
+    "days_tracked": 72,
     "last_7_days": {
       "views_rank_change": 7,
       "runs_rank_change": 3,
-      "likes_rank_change": -12
+      "likes_rank_change": -11
     },
     "last_30_days": {
-      "views_rank_change": 23,
-      "runs_rank_change": 22,
-      "likes_rank_change": -219
+      "views_rank_change": 18,
+      "runs_rank_change": 17,
+      "likes_rank_change": -224
     },
     "all_time": {
       "best_views_rank": 225,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 70,
+    "data_points": 71,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-30T08:01:10.448186",
+    "last_recorded": "2026-01-31T08:01:13.061776",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -126,7 +126,8 @@
         "2026-01-27T08:01:06.918717",
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
-        "2026-01-30T08:01:10.448186"
+        "2026-01-30T08:01:10.448186",
+        "2026-01-31T08:01:13.061776"
       ],
       "views_rank": [
         null,
@@ -198,6 +199,7 @@
         272,
         273,
         274,
+        277,
         277
       ],
       "runs_rank": [
@@ -270,6 +272,7 @@
         294,
         294,
         295,
+        296,
         296
       ],
       "likes_rank": [
@@ -342,6 +345,7 @@
         28,
         27,
         26,
+        21,
         21
       ]
     }
@@ -359,7 +363,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 23 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 18 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }
