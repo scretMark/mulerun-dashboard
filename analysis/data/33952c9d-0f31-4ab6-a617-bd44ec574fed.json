@@ -1,6 +1,6 @@
 {
   "agent_id": "33952c9d-0f31-4ab6-a617-bd44ec574fed",
-  "generated_at": "2026-01-31T00:01:24.627926",
+  "generated_at": "2026-02-01T00:01:25.266789",
   "basic_info": {
     "title": "Pixel Avatar Agent ",
     "author": "Matt",
@@ -11,50 +11,50 @@
     "published_at": "2025-12-05T19:04:02.237000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Matt/pixel-avatar-agent",
-    "days_since_published": 56
+    "days_since_published": 57
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 241,
+      "views_rank": 242,
       "runs_rank": 206,
-      "likes_rank": 9,
+      "likes_rank": 8,
       "total_agents": 301,
-      "views_percentile": 19.9,
+      "views_percentile": 19.6,
       "runs_percentile": 31.6,
-      "likes_percentile": 97.0
+      "likes_percentile": 97.3
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 52,
+    "days_tracked": 53,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 53,
+    "days_tracked": 54,
     "last_7_days": {
-      "views_rank_change": 3,
-      "runs_rank_change": 1,
-      "likes_rank_change": -6
+      "views_rank_change": 2,
+      "runs_rank_change": 0,
+      "likes_rank_change": -5
     },
     "last_30_days": {
-      "views_rank_change": 16,
+      "views_rank_change": 17,
       "runs_rank_change": 11,
-      "likes_rank_change": -111
+      "likes_rank_change": -112
     },
     "all_time": {
       "best_views_rank": 208,
       "best_runs_rank": 175,
-      "best_likes_rank": 9,
+      "best_likes_rank": 8,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 241
+      "current_rank": 242
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 53,
+    "data_points": 54,
     "first_recorded": "2025-12-09T08:00:25.308684",
-    "last_recorded": "2026-01-31T08:01:13.061776",
+    "last_recorded": "2026-02-01T08:01:13.578491",
     "time_series": {
       "dates": [
         "2025-12-09T08:00:25.308684",
@@ -109,7 +109,8 @@
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
-        "2026-01-31T08:01:13.061776"
+        "2026-01-31T08:01:13.061776",
+        "2026-02-01T08:01:13.578491"
       ],
       "views_rank": [
         null,
@@ -164,7 +165,8 @@
         240,
         241,
         241,
-        241
+        241,
+        242
       ],
       "runs_rank": [
         null,
@@ -215,6 +217,7 @@
         205,
         205,
         205,
+        206,
         206,
         206,
         206,
@@ -274,7 +277,8 @@
         12,
         12,
         9,
-        9
+        9,
+        8
       ]
     }
   },
@@ -293,12 +297,12 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #9 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #8 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     },
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 16 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 17 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

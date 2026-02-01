@@ -1,6 +1,6 @@
 {
   "agent_id": "b5076538-6a9f-4436-9116-7a611066782f",
-  "generated_at": "2026-01-31T00:01:25.156891",
+  "generated_at": "2026-02-01T00:01:25.825476",
   "basic_info": {
     "title": "Tiny Me in a Jar",
     "author": "Norsizu",
@@ -11,40 +11,40 @@
     "published_at": "2025-12-19T16:29:05.699000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/tiny-me-in-a-jar",
-    "days_since_published": 42
+    "days_since_published": 43
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 301,
       "runs_rank": 298,
-      "likes_rank": 18,
+      "likes_rank": 17,
       "total_agents": 301,
       "views_percentile": 0.0,
       "runs_percentile": 1.0,
-      "likes_percentile": 94.0
+      "likes_percentile": 94.4
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 37,
+    "days_tracked": 38,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 42,
+    "days_tracked": 43,
     "last_7_days": {
-      "views_rank_change": 3,
-      "runs_rank_change": 3,
-      "likes_rank_change": -10
+      "views_rank_change": 2,
+      "runs_rank_change": 2,
+      "likes_rank_change": -7
     },
     "last_30_days": {
       "views_rank_change": 20,
       "runs_rank_change": 17,
-      "likes_rank_change": -139
+      "likes_rank_change": -140
     },
     "all_time": {
       "best_views_rank": 274,
       "best_runs_rank": 250,
-      "best_likes_rank": 18,
+      "best_likes_rank": 17,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 301
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 38,
+    "data_points": 39,
     "first_recorded": "2025-12-20T08:01:00.398750",
-    "last_recorded": "2026-01-31T08:01:13.061776",
+    "last_recorded": "2026-02-01T08:01:13.578491",
     "time_series": {
       "dates": [
         "2025-12-20T08:01:00.398750",
@@ -94,7 +94,8 @@
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
-        "2026-01-31T08:01:13.061776"
+        "2026-01-31T08:01:13.061776",
+        "2026-02-01T08:01:13.578491"
       ],
       "views_rank": [
         null,
@@ -133,6 +134,7 @@
         299,
         299,
         300,
+        301,
         301,
         301
       ],
@@ -174,6 +176,7 @@
         296,
         297,
         298,
+        298,
         298
       ],
       "likes_rank": [
@@ -214,7 +217,8 @@
         23,
         23,
         18,
-        18
+        18,
+        17
       ]
     }
   },
@@ -233,7 +237,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #18 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #17 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     },
     {
       "type": "warning",

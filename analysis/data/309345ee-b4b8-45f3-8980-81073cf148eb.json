@@ -1,6 +1,6 @@
 {
   "agent_id": "309345ee-b4b8-45f3-8980-81073cf148eb",
-  "generated_at": "2026-01-31T00:01:22.084091",
+  "generated_at": "2026-02-01T00:01:22.660054",
   "basic_info": {
     "title": "Studio Portrait",
     "author": "Norsizu",
@@ -11,40 +11,40 @@
     "published_at": "2025-11-12T23:21:17.162000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/studio-portrait",
-    "days_since_published": 79
+    "days_since_published": 80
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 260,
-      "runs_rank": 271,
-      "likes_rank": 10,
+      "runs_rank": 272,
+      "likes_rank": 9,
       "total_agents": 301,
       "views_percentile": 13.6,
-      "runs_percentile": 10.0,
-      "likes_percentile": 96.7
+      "runs_percentile": 9.6,
+      "likes_percentile": 97.0
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 76,
+    "days_tracked": 77,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 72,
+    "days_tracked": 73,
     "last_7_days": {
-      "views_rank_change": 5,
+      "views_rank_change": 4,
       "runs_rank_change": 6,
-      "likes_rank_change": -7
+      "likes_rank_change": -5
     },
     "last_30_days": {
       "views_rank_change": 18,
-      "runs_rank_change": 16,
-      "likes_rank_change": -113
+      "runs_rank_change": 17,
+      "likes_rank_change": -114
     },
     "all_time": {
       "best_views_rank": 220,
       "best_runs_rank": 229,
-      "best_likes_rank": 10,
+      "best_likes_rank": 9,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 260
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 71,
+    "data_points": 72,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-31T08:01:13.061776",
+    "last_recorded": "2026-02-01T08:01:13.578491",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -127,7 +127,8 @@
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
-        "2026-01-31T08:01:13.061776"
+        "2026-01-31T08:01:13.061776",
+        "2026-02-01T08:01:13.578491"
       ],
       "views_rank": [
         null,
@@ -199,6 +200,7 @@
         256,
         256,
         257,
+        260,
         260,
         260
       ],
@@ -273,7 +275,8 @@
         266,
         267,
         269,
-        271
+        271,
+        272
       ],
       "likes_rank": [
         null,
@@ -346,7 +349,8 @@
         13,
         13,
         10,
-        10
+        10,
+        9
       ]
     }
   },
@@ -358,7 +362,7 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #10 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #9 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
     },
     {
       "type": "warning",

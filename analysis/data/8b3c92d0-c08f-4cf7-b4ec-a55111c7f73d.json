@@ -1,6 +1,6 @@
 {
   "agent_id": "8b3c92d0-c08f-4cf7-b4ec-a55111c7f73d",
-  "generated_at": "2026-01-31T00:01:23.460309",
+  "generated_at": "2026-02-01T00:01:24.067010",
   "basic_info": {
     "title": "Cover Star Maker",
     "author": "YuTou_baby",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-19T18:09:04.267000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@YuTou_baby/cover-star-maker",
-    "days_since_published": 133
+    "days_since_published": 134
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 26,
       "runs_rank": 35,
-      "likes_rank": 57,
+      "likes_rank": 54,
       "total_agents": 301,
       "views_percentile": 91.4,
       "runs_percentile": 88.4,
-      "likes_percentile": 81.1
+      "likes_percentile": 82.1
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 98,
+    "days_tracked": 99,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 72,
+    "days_tracked": 73,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 0,
-      "likes_rank_change": -67
+      "likes_rank_change": -42
     },
     "last_30_days": {
       "views_rank_change": 3,
       "runs_rank_change": 0,
-      "likes_rank_change": -94
+      "likes_rank_change": -97
     },
     "all_time": {
       "best_views_rank": 22,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 71,
+    "data_points": 72,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-31T08:01:13.061776",
+    "last_recorded": "2026-02-01T08:01:13.578491",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -127,7 +127,8 @@
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
-        "2026-01-31T08:01:13.061776"
+        "2026-01-31T08:01:13.061776",
+        "2026-02-01T08:01:13.578491"
       ],
       "views_rank": [
         null,
@@ -200,6 +201,7 @@
         25,
         25,
         25,
+        26,
         26
       ],
       "runs_rank": [
@@ -236,6 +238,7 @@
         33,
         33,
         33,
+        35,
         35,
         35,
         35,
@@ -346,7 +349,8 @@
         88,
         81,
         61,
-        57
+        57,
+        54
       ]
     }
   },

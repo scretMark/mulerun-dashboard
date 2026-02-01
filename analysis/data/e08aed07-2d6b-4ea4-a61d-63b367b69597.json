@@ -1,6 +1,6 @@
 {
   "agent_id": "e08aed07-2d6b-4ea4-a61d-63b367b69597",
-  "generated_at": "2026-01-31T00:01:24.390068",
+  "generated_at": "2026-02-01T00:01:25.062391",
   "basic_info": {
     "title": "Winter Cinema",
     "author": "luckyy",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-20T15:43:31.761000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@luckyy/winter-cinema",
-    "days_since_published": 71
+    "days_since_published": 72
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 234,
       "runs_rank": 173,
-      "likes_rank": 82,
+      "likes_rank": 78,
       "total_agents": 301,
       "views_percentile": 22.3,
       "runs_percentile": 42.5,
-      "likes_percentile": 72.8
+      "likes_percentile": 74.1
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 69,
+    "days_tracked": 70,
     "price": 23.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 68,
+    "days_tracked": 69,
     "last_7_days": {
-      "views_rank_change": 1,
+      "views_rank_change": 2,
       "runs_rank_change": 1,
-      "likes_rank_change": null
+      "likes_rank_change": -103
     },
     "last_30_days": {
       "views_rank_change": 14,
       "runs_rank_change": 14,
-      "likes_rank_change": -82
+      "likes_rank_change": -86
     },
     "all_time": {
       "best_views_rank": 209,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 68,
+    "data_points": 69,
     "first_recorded": "2025-11-23T13:27:48.290198",
-    "last_recorded": "2026-01-31T08:01:13.061776",
+    "last_recorded": "2026-02-01T08:01:13.578491",
     "time_series": {
       "dates": [
         "2025-11-23T13:27:48.290198",
@@ -124,7 +124,8 @@
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
-        "2026-01-31T08:01:13.061776"
+        "2026-01-31T08:01:13.061776",
+        "2026-02-01T08:01:13.578491"
       ],
       "views_rank": [
         null,
@@ -194,6 +195,7 @@
         232,
         233,
         234,
+        234,
         234
       ],
       "runs_rank": [
@@ -261,6 +263,7 @@
         171,
         172,
         172,
+        173,
         173,
         173,
         173,
@@ -334,7 +337,8 @@
         145,
         124,
         90,
-        82
+        82,
+        78
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "1415aefb-3010-4e61-baaa-6ca86dfe0951",
-  "generated_at": "2026-01-31T00:01:24.597845",
+  "generated_at": "2026-02-01T00:01:25.236679",
   "basic_info": {
     "title": "HYPER3D_AI_RODIN",
     "author": "hyper3d_rodin",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-03T17:41:12.737000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@hyper3d_rodin/hyper3d-ai-rodin",
-    "days_since_published": 58
+    "days_since_published": 59
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 84,
       "runs_rank": 7,
-      "likes_rank": 240,
+      "likes_rank": 269,
       "total_agents": 301,
       "views_percentile": 72.1,
       "runs_percentile": 97.7,
-      "likes_percentile": 20.3
+      "likes_percentile": 10.6
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 56,
+    "days_tracked": 57,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 53,
+    "days_tracked": 54,
     "last_7_days": {
-      "views_rank_change": -4,
+      "views_rank_change": -1,
       "runs_rank_change": 0,
-      "likes_rank_change": 44
+      "likes_rank_change": -15
     },
     "last_30_days": {
       "views_rank_change": -27,
       "runs_rank_change": -2,
-      "likes_rank_change": 216
+      "likes_rank_change": 245
     },
     "all_time": {
       "best_views_rank": 84,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 54,
+    "data_points": 55,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2026-01-31T08:01:13.061776",
+    "last_recorded": "2026-02-01T08:01:13.578491",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -110,7 +110,8 @@
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
-        "2026-01-31T08:01:13.061776"
+        "2026-01-31T08:01:13.061776",
+        "2026-02-01T08:01:13.578491"
       ],
       "views_rank": [
         null,
@@ -166,6 +167,7 @@
         86,
         84,
         84,
+        84,
         84
       ],
       "runs_rank": [
@@ -206,6 +208,7 @@
         9,
         9,
         9,
+        7,
         7,
         7,
         7,
@@ -278,7 +281,8 @@
         274,
         240,
         216,
-        240
+        240,
+        269
       ]
     }
   },

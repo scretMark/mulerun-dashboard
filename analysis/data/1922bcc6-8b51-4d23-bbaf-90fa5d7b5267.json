@@ -1,6 +1,6 @@
 {
   "agent_id": "1922bcc6-8b51-4d23-bbaf-90fa5d7b5267",
-  "generated_at": "2026-01-31T00:01:25.449031",
+  "generated_at": "2026-02-01T00:01:26.131239",
   "basic_info": {
     "title": "Chat With Youtube Video",
     "author": "Eren_kaif",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-27T21:43:09.382000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Eren_kaif/chat-with-youtube-video",
-    "days_since_published": 34
+    "days_since_published": 35
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 274,
       "runs_rank": 270,
-      "likes_rank": 155,
+      "likes_rank": 137,
       "total_agents": 301,
       "views_percentile": 9.0,
       "runs_percentile": 10.3,
-      "likes_percentile": 48.5
+      "likes_percentile": 54.5
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 27,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 28,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 31,
+    "days_tracked": 32,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": -2,
-      "likes_rank_change": 15
+      "runs_rank_change": 2,
+      "likes_rank_change": -114
     },
     "last_30_days": {
       "views_rank_change": 3,
       "runs_rank_change": 8,
-      "likes_rank_change": 124
+      "likes_rank_change": 106
     },
     "all_time": {
       "best_views_rank": 267,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 27,
+    "data_points": 28,
     "first_recorded": "2025-12-31T08:00:58.854286",
-    "last_recorded": "2026-01-31T08:01:13.061776",
+    "last_recorded": "2026-02-01T08:01:13.578491",
     "time_series": {
       "dates": [
         "2025-12-31T08:00:58.854286",
@@ -83,7 +83,8 @@
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
-        "2026-01-31T08:01:13.061776"
+        "2026-01-31T08:01:13.061776",
+        "2026-02-01T08:01:13.578491"
       ],
       "views_rank": [
         null,
@@ -111,6 +112,7 @@
         274,
         275,
         276,
+        274,
         274,
         274
       ],
@@ -141,6 +143,7 @@
         268,
         269,
         268,
+        270,
         270
       ],
       "likes_rank": [
@@ -170,7 +173,8 @@
         175,
         147,
         186,
-        155
+        155,
+        137
       ]
     }
   },

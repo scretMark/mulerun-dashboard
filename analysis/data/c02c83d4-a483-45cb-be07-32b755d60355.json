@@ -1,6 +1,6 @@
 {
   "agent_id": "c02c83d4-a483-45cb-be07-32b755d60355",
-  "generated_at": "2026-01-31T00:01:24.526108",
+  "generated_at": "2026-02-01T00:01:25.183930",
   "basic_info": {
     "title": "Zootopia Selfie-You Nick and Judy",
     "author": "Matt",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-03T10:40:10.086000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Matt/zootopia-selfie-you-nick-and-judy",
-    "days_since_published": 58
+    "days_since_published": 59
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 239,
       "runs_rank": 199,
-      "likes_rank": 93,
+      "likes_rank": 88,
       "total_agents": 301,
       "views_percentile": 20.6,
       "runs_percentile": 33.9,
-      "likes_percentile": 69.1
+      "likes_percentile": 70.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 57,
+    "days_tracked": 58,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 53,
+    "days_tracked": 54,
     "last_7_days": {
       "views_rank_change": 2,
-      "runs_rank_change": 2,
-      "likes_rank_change": 42
+      "runs_rank_change": 1,
+      "likes_rank_change": -172
     },
     "last_30_days": {
       "views_rank_change": 10,
       "runs_rank_change": 13,
-      "likes_rank_change": -35
+      "likes_rank_change": -40
     },
     "all_time": {
       "best_views_rank": 210,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 54,
+    "data_points": 55,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2026-01-31T08:01:13.061776",
+    "last_recorded": "2026-02-01T08:01:13.578491",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -110,7 +110,8 @@
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
-        "2026-01-31T08:01:13.061776"
+        "2026-01-31T08:01:13.061776",
+        "2026-02-01T08:01:13.578491"
       ],
       "views_rank": [
         null,
@@ -164,6 +165,7 @@
         237,
         237,
         238,
+        239,
         239,
         239,
         239
@@ -222,6 +224,7 @@
         198,
         198,
         198,
+        199,
         199
       ],
       "likes_rank": [
@@ -278,7 +281,8 @@
         178,
         151,
         104,
-        93
+        93,
+        88
       ]
     }
   },

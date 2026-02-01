@@ -1,6 +1,6 @@
 {
   "agent_id": "c4e74a68-aebc-4566-af54-8f7eef880b05",
-  "generated_at": "2026-01-31T00:01:24.658028",
+  "generated_at": "2026-02-01T00:01:25.291961",
   "basic_info": {
     "title": "CoinAnalyst Pro",
     "author": "Barry",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-06T23:56:50.364000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Barry/coinanalyst-pro",
-    "days_since_published": 55
+    "days_since_published": 56
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 228,
       "runs_rank": 147,
-      "likes_rank": 104,
+      "likes_rank": 97,
       "total_agents": 301,
       "views_percentile": 24.3,
       "runs_percentile": 51.2,
-      "likes_percentile": 65.4
+      "likes_percentile": 67.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 51,
+    "days_tracked": 52,
     "price": 78.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 52,
+    "days_tracked": 53,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 2,
-      "likes_rank_change": 99
+      "likes_rank_change": 92
     },
     "last_30_days": {
       "views_rank_change": 6,
       "runs_rank_change": 7,
-      "likes_rank_change": 22
+      "likes_rank_change": 15
     },
     "all_time": {
       "best_views_rank": 212,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 51,
+    "data_points": 52,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2026-01-31T08:01:13.061776",
+    "last_recorded": "2026-02-01T08:01:13.578491",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
@@ -107,7 +107,8 @@
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
-        "2026-01-31T08:01:13.061776"
+        "2026-01-31T08:01:13.061776",
+        "2026-02-01T08:01:13.578491"
       ],
       "views_rank": [
         null,
@@ -160,6 +161,7 @@
         225,
         227,
         227,
+        228,
         228
       ],
       "runs_rank": [
@@ -211,6 +213,7 @@
         145,
         145,
         145,
+        147,
         147,
         147,
         147
@@ -266,7 +269,8 @@
         217,
         171,
         116,
-        104
+        104,
+        97
       ]
     }
   },

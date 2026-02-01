@@ -1,6 +1,6 @@
 {
   "agent_id": "a1d31429-2812-46a5-9371-cd901ee0e441",
-  "generated_at": "2026-01-31T00:01:24.248962",
+  "generated_at": "2026-02-01T00:01:24.908290",
   "basic_info": {
     "title": "SpeechMeme",
     "author": "AllenCreator",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-13T15:47:08.063000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AllenCreator/speehmeme",
-    "days_since_published": 109
+    "days_since_published": 110
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 203,
+      "views_rank": 204,
       "runs_rank": 277,
-      "likes_rank": 215,
+      "likes_rank": 184,
       "total_agents": 301,
-      "views_percentile": 32.6,
+      "views_percentile": 32.2,
       "runs_percentile": 8.0,
-      "likes_percentile": 28.6
+      "likes_percentile": 38.9
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 93,
+    "days_tracked": 94,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 72,
+    "days_tracked": 73,
     "last_7_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": 4,
-      "likes_rank_change": -31
+      "views_rank_change": 1,
+      "runs_rank_change": 3,
+      "likes_rank_change": 27
     },
     "last_30_days": {
-      "views_rank_change": 5,
+      "views_rank_change": 6,
       "runs_rank_change": 17,
-      "likes_rank_change": 39
+      "likes_rank_change": 8
     },
     "all_time": {
       "best_views_rank": 187,
@@ -47,14 +47,14 @@
       "best_likes_rank": 14,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 203
+      "current_rank": 204
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 71,
+    "data_points": 72,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-31T08:01:13.061776",
+    "last_recorded": "2026-02-01T08:01:13.578491",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -127,7 +127,8 @@
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
-        "2026-01-31T08:01:13.061776"
+        "2026-01-31T08:01:13.061776",
+        "2026-02-01T08:01:13.578491"
       ],
       "views_rank": [
         null,
@@ -200,7 +201,8 @@
         203,
         203,
         203,
-        203
+        203,
+        204
       ],
       "runs_rank": [
         null,
@@ -273,6 +275,7 @@
         274,
         275,
         276,
+        277,
         277
       ],
       "likes_rank": [
@@ -346,7 +349,8 @@
         129,
         277,
         296,
-        215
+        215,
+        184
       ]
     }
   },
@@ -358,7 +362,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #203 out of 301 active agents."
+      "description": "This agent is currently ranked #204 out of 301 active agents."
     }
   ]
 }

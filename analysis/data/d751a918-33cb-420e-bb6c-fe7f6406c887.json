@@ -1,6 +1,6 @@
 {
   "agent_id": "d751a918-33cb-420e-bb6c-fe7f6406c887",
-  "generated_at": "2026-01-31T00:01:23.678723",
+  "generated_at": "2026-02-01T00:01:24.301073",
   "basic_info": {
     "title": "Halloween Costume Changer",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-31T12:41:50.060000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/halloween-costume-changer",
-    "days_since_published": 91
+    "days_since_published": 92
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 93,
       "runs_rank": 97,
-      "likes_rank": 277,
+      "likes_rank": 217,
       "total_agents": 301,
       "views_percentile": 69.1,
       "runs_percentile": 67.8,
-      "likes_percentile": 8.0
+      "likes_percentile": 27.9
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 89,
+    "days_tracked": 90,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 72,
+    "days_tracked": 73,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": 133
+      "likes_rank_change": 110
     },
     "last_30_days": {
       "views_rank_change": 4,
       "runs_rank_change": 5,
-      "likes_rank_change": 123
+      "likes_rank_change": 63
     },
     "all_time": {
       "best_views_rank": 88,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 71,
+    "data_points": 72,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-31T08:01:13.061776",
+    "last_recorded": "2026-02-01T08:01:13.578491",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -127,7 +127,8 @@
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
-        "2026-01-31T08:01:13.061776"
+        "2026-01-31T08:01:13.061776",
+        "2026-02-01T08:01:13.578491"
       ],
       "views_rank": [
         null,
@@ -200,6 +201,7 @@
         93,
         93,
         93,
+        93,
         93
       ],
       "runs_rank": [
@@ -265,6 +267,7 @@
         96,
         96,
         96,
+        97,
         97,
         97,
         97,
@@ -346,7 +349,8 @@
         275,
         200,
         238,
-        277
+        277,
+        217
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "c3d718a1-2ae0-4f63-a4b3-d0a9f7f241d4",
-  "generated_at": "2026-01-31T00:01:24.333325",
+  "generated_at": "2026-02-01T00:01:25.003880",
   "basic_info": {
     "title": "Core Burst",
     "author": "Excel",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-11T10:30:07.114000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Excel/core-burst",
-    "days_since_published": 111
+    "days_since_published": 112
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 217,
       "runs_rank": 293,
-      "likes_rank": 295,
+      "likes_rank": 223,
       "total_agents": 301,
       "views_percentile": 27.9,
       "runs_percentile": 2.7,
-      "likes_percentile": 2.0
+      "likes_percentile": 25.9
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 103,
+    "days_tracked": 104,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 72,
+    "days_tracked": 73,
     "last_7_days": {
       "views_rank_change": 2,
-      "runs_rank_change": 3,
-      "likes_rank_change": 264
+      "runs_rank_change": 2,
+      "likes_rank_change": 196
     },
     "last_30_days": {
       "views_rank_change": 7,
       "runs_rank_change": 15,
-      "likes_rank_change": 90
+      "likes_rank_change": 18
     },
     "all_time": {
       "best_views_rank": 199,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 71,
+    "data_points": 72,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-31T08:01:13.061776",
+    "last_recorded": "2026-02-01T08:01:13.578491",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -127,7 +127,8 @@
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
-        "2026-01-31T08:01:13.061776"
+        "2026-01-31T08:01:13.061776",
+        "2026-02-01T08:01:13.578491"
       ],
       "views_rank": [
         null,
@@ -199,6 +200,7 @@
         215,
         216,
         216,
+        217,
         217,
         217
       ],
@@ -273,6 +275,7 @@
         291,
         292,
         293,
+        293,
         293
       ],
       "likes_rank": [
@@ -346,7 +349,8 @@
         26,
         264,
         153,
-        295
+        295,
+        223
       ]
     }
   },

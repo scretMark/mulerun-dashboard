@@ -1,6 +1,6 @@
 {
   "agent_id": "a8e48802-1fcb-4b18-ba1e-f892af16c42c",
-  "generated_at": "2026-01-31T00:01:22.097914",
+  "generated_at": "2026-02-01T00:01:22.675048",
   "basic_info": {
     "title": "AI Image Resizer",
     "author": "Zane29222",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-03T21:03:11.210000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Zane29222/ai-image-resizer",
-    "days_since_published": 88
+    "days_since_published": 89
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 80,
       "runs_rank": 45,
-      "likes_rank": 259,
+      "likes_rank": 246,
       "total_agents": 301,
       "views_percentile": 73.4,
       "runs_percentile": 85.0,
-      "likes_percentile": 14.0
+      "likes_percentile": 18.3
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 91,
+    "days_tracked": 92,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 72,
+    "days_tracked": 73,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 0,
-      "likes_rank_change": -30
+      "likes_rank_change": 55
     },
     "last_30_days": {
       "views_rank_change": 1,
       "runs_rank_change": -5,
-      "likes_rank_change": 215
+      "likes_rank_change": 202
     },
     "all_time": {
       "best_views_rank": 79,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 71,
+    "data_points": 72,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-31T08:01:13.061776",
+    "last_recorded": "2026-02-01T08:01:13.578491",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -127,7 +127,8 @@
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
-        "2026-01-31T08:01:13.061776"
+        "2026-01-31T08:01:13.061776",
+        "2026-02-01T08:01:13.578491"
       ],
       "views_rank": [
         null,
@@ -200,6 +201,7 @@
         80,
         80,
         80,
+        80,
         80
       ],
       "runs_rank": [
@@ -268,6 +270,7 @@
         45,
         45,
         46,
+        45,
         45,
         45,
         45,
@@ -346,7 +349,8 @@
         152,
         130,
         93,
-        259
+        259,
+        246
       ]
     }
   },

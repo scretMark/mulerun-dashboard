@@ -1,6 +1,6 @@
 {
   "agent_id": "51db6cad-29a6-465e-be01-acd44664deeb",
-  "generated_at": "2026-01-31T00:01:24.977962",
+  "generated_at": "2026-02-01T00:01:25.613905",
   "basic_info": {
     "title": "Design your cup",
     "author": "8bit",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-09T15:24:54.449000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/design-your-cup",
-    "days_since_published": 52
+    "days_since_published": 53
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 290,
       "runs_rank": 242,
-      "likes_rank": 80,
+      "likes_rank": 76,
       "total_agents": 301,
       "views_percentile": 3.7,
       "runs_percentile": 19.6,
-      "likes_percentile": 73.4
+      "likes_percentile": 74.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 48,
+    "days_tracked": 49,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 49,
+    "days_tracked": 50,
     "last_7_days": {
-      "views_rank_change": 6,
+      "views_rank_change": 5,
       "runs_rank_change": 4,
-      "likes_rank_change": 56
+      "likes_rank_change": -98
     },
     "last_30_days": {
       "views_rank_change": 20,
       "runs_rank_change": 15,
-      "likes_rank_change": -59
+      "likes_rank_change": -63
     },
     "all_time": {
       "best_views_rank": 244,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 48,
+    "data_points": 49,
     "first_recorded": "2025-12-13T08:00:26.854786",
-    "last_recorded": "2026-01-31T08:01:13.061776",
+    "last_recorded": "2026-02-01T08:01:13.578491",
     "time_series": {
       "dates": [
         "2025-12-13T08:00:26.854786",
@@ -104,7 +104,8 @@
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
-        "2026-01-31T08:01:13.061776"
+        "2026-01-31T08:01:13.061776",
+        "2026-02-01T08:01:13.578491"
       ],
       "views_rank": [
         null,
@@ -154,6 +155,7 @@
         285,
         287,
         289,
+        290,
         290
       ],
       "runs_rank": [
@@ -204,6 +206,7 @@
         238,
         240,
         241,
+        242,
         242
       ],
       "likes_rank": [
@@ -254,7 +257,8 @@
         140,
         120,
         87,
-        80
+        80,
+        76
       ]
     }
   },

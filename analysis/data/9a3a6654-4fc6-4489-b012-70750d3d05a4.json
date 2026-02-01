@@ -1,6 +1,6 @@
 {
   "agent_id": "9a3a6654-4fc6-4489-b012-70750d3d05a4",
-  "generated_at": "2026-01-31T00:01:24.305336",
+  "generated_at": "2026-02-01T00:01:24.966242",
   "basic_info": {
     "title": "FrostyPunster",
     "author": "hoainamluci",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-14T00:45:06.127000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@hoainamluci/frostypunster",
-    "days_since_published": 108
+    "days_since_published": 109
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 208,
       "runs_rank": 301,
-      "likes_rank": 27,
+      "likes_rank": 26,
       "total_agents": 301,
       "views_percentile": 30.9,
       "runs_percentile": 0.0,
-      "likes_percentile": 91.0
+      "likes_percentile": 91.4
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 103,
+    "days_tracked": 104,
     "price": 70.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 72,
+    "days_tracked": 73,
     "last_7_days": {
-      "views_rank_change": 2,
-      "runs_rank_change": 3,
-      "likes_rank_change": -11
+      "views_rank_change": 1,
+      "runs_rank_change": 2,
+      "likes_rank_change": -8
     },
     "last_30_days": {
       "views_rank_change": 6,
       "runs_rank_change": 18,
-      "likes_rank_change": -5
+      "likes_rank_change": -6
     },
     "all_time": {
       "best_views_rank": 191,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 71,
+    "data_points": 72,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-31T08:01:13.061776",
+    "last_recorded": "2026-02-01T08:01:13.578491",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -127,7 +127,8 @@
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
-        "2026-01-31T08:01:13.061776"
+        "2026-01-31T08:01:13.061776",
+        "2026-02-01T08:01:13.578491"
       ],
       "views_rank": [
         null,
@@ -199,6 +200,7 @@
         207,
         207,
         207,
+        208,
         208,
         208
       ],
@@ -273,6 +275,7 @@
         299,
         300,
         301,
+        301,
         301
       ],
       "likes_rank": [
@@ -346,7 +349,8 @@
         33,
         32,
         27,
-        27
+        27,
+        26
       ]
     }
   },
@@ -358,7 +362,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #27 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #26 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

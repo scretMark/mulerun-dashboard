@@ -1,6 +1,6 @@
 {
   "agent_id": "7798cbd1-749d-4678-a7ed-6b330c0dc055",
-  "generated_at": "2026-01-31T00:01:25.686502",
+  "generated_at": "2026-02-01T00:01:26.406216",
   "basic_info": {
     "title": "VibeCrat-Pro",
     "author": "Kaif-Qureshi",
@@ -11,35 +11,35 @@
     "published_at": "2026-01-21T23:35:51.262000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Kaif-Qureshi/rgsgrd",
-    "days_since_published": 9
+    "days_since_published": 10
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 282,
       "runs_rank": 285,
-      "likes_rank": 231,
+      "likes_rank": 194,
       "total_agents": 301,
       "views_percentile": 6.3,
       "runs_percentile": 5.3,
-      "likes_percentile": 23.3
+      "likes_percentile": 35.5
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 7,
+    "days_tracked": 8,
     "price": 15.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 8,
+    "days_tracked": 9,
     "last_7_days": {
-      "views_rank_change": -4,
-      "runs_rank_change": 1,
-      "likes_rank_change": 72
+      "views_rank_change": -5,
+      "runs_rank_change": 0,
+      "likes_rank_change": 75
     },
     "last_30_days": {
       "views_rank_change": -3,
       "runs_rank_change": 2,
-      "likes_rank_change": -33
+      "likes_rank_change": -70
     },
     "all_time": {
       "best_views_rank": 281,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 8,
+    "data_points": 9,
     "first_recorded": "2026-01-23T08:01:01.579068",
-    "last_recorded": "2026-01-31T08:01:13.061776",
+    "last_recorded": "2026-02-01T08:01:13.578491",
     "time_series": {
       "dates": [
         "2026-01-23T08:01:01.579068",
@@ -64,7 +64,8 @@
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
-        "2026-01-31T08:01:13.061776"
+        "2026-01-31T08:01:13.061776",
+        "2026-02-01T08:01:13.578491"
       ],
       "views_rank": [
         285,
@@ -74,6 +75,7 @@
         286,
         283,
         281,
+        282,
         282
       ],
       "runs_rank": [
@@ -84,6 +86,7 @@
         284,
         285,
         284,
+        285,
         285
       ],
       "likes_rank": [
@@ -94,7 +97,8 @@
         202,
         267,
         220,
-        231
+        231,
+        194
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "cca04944-7d12-4d44-9e48-fbc2ce56108b",
-  "generated_at": "2026-01-31T00:01:25.596560",
+  "generated_at": "2026-02-01T00:01:26.328740",
   "basic_info": {
     "title": "JOJO STAND",
     "author": "Hugo_zz567",
@@ -11,17 +11,17 @@
     "published_at": "2026-01-10T23:43:49.406000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Hugo_zz567/jojo-stand",
-    "days_since_published": 20
+    "days_since_published": 21
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 292,
       "runs_rank": 302,
-      "likes_rank": 33,
+      "likes_rank": 31,
       "total_agents": 301,
       "views_percentile": 3.0,
       "runs_percentile": -0.3,
-      "likes_percentile": 89.0
+      "likes_percentile": 89.7
     },
     "tier": "High",
     "tier_class": "high",
@@ -30,16 +30,16 @@
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 18,
+    "days_tracked": 19,
     "last_7_days": {
-      "views_rank_change": 5,
-      "runs_rank_change": 3,
-      "likes_rank_change": -25
+      "views_rank_change": 4,
+      "runs_rank_change": 2,
+      "likes_rank_change": -14
     },
     "last_30_days": {
       "views_rank_change": 7,
       "runs_rank_change": 12,
-      "likes_rank_change": 24
+      "likes_rank_change": 22
     },
     "all_time": {
       "best_views_rank": 282,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 17,
+    "data_points": 18,
     "first_recorded": "2026-01-13T08:00:58.516114",
-    "last_recorded": "2026-01-31T08:01:13.061776",
+    "last_recorded": "2026-02-01T08:01:13.578491",
     "time_series": {
       "dates": [
         "2026-01-13T08:00:58.516114",
@@ -73,7 +73,8 @@
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
-        "2026-01-31T08:01:13.061776"
+        "2026-01-31T08:01:13.061776",
+        "2026-02-01T08:01:13.578491"
       ],
       "views_rank": [
         285,
@@ -92,6 +93,7 @@
         288,
         289,
         291,
+        292,
         292
       ],
       "runs_rank": [
@@ -110,6 +112,7 @@
         300,
         300,
         301,
+        302,
         302,
         302
       ],
@@ -130,7 +133,8 @@
         44,
         42,
         33,
-        33
+        33,
+        31
       ]
     }
   },
@@ -149,7 +153,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #33 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #31 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

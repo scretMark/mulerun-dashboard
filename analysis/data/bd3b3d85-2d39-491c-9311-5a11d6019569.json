@@ -1,6 +1,6 @@
 {
   "agent_id": "bd3b3d85-2d39-491c-9311-5a11d6019569",
-  "generated_at": "2026-01-31T00:01:25.255529",
+  "generated_at": "2026-02-01T00:01:25.929096",
   "basic_info": {
     "title": "Serene Calm - Sounds and Meditation Experience",
     "author": "Serenetech",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-19T18:30:49.675000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Serenetech/serene-calm-sounds-and-meditation-experience",
-    "days_since_published": 42
+    "days_since_published": 43
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 231,
       "runs_rank": 38,
-      "likes_rank": 207,
+      "likes_rank": 181,
       "total_agents": 301,
       "views_percentile": 23.3,
       "runs_percentile": 87.4,
-      "likes_percentile": 31.2
+      "likes_percentile": 39.9
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 34,
+    "days_tracked": 35,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 39,
+    "days_tracked": 40,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": -5,
-      "likes_rank_change": -22
+      "likes_rank_change": 33
     },
     "last_30_days": {
       "views_rank_change": -7,
       "runs_rank_change": -43,
-      "likes_rank_change": -62
+      "likes_rank_change": -88
     },
     "all_time": {
       "best_views_rank": 230,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 35,
+    "data_points": 36,
     "first_recorded": "2025-12-23T08:00:59.635142",
-    "last_recorded": "2026-01-31T08:01:13.061776",
+    "last_recorded": "2026-02-01T08:01:13.578491",
     "time_series": {
       "dates": [
         "2025-12-23T08:00:59.635142",
@@ -91,7 +91,8 @@
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
-        "2026-01-31T08:01:13.061776"
+        "2026-01-31T08:01:13.061776",
+        "2026-02-01T08:01:13.578491"
       ],
       "views_rank": [
         null,
@@ -128,6 +129,7 @@
         230,
         231,
         230,
+        231,
         231
       ],
       "runs_rank": [
@@ -165,6 +167,7 @@
         40,
         40,
         40,
+        38,
         38
       ],
       "likes_rank": [
@@ -202,7 +205,8 @@
         123,
         224,
         274,
-        207
+        207,
+        181
       ]
     }
   },

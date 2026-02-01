@@ -1,6 +1,6 @@
 {
   "agent_id": "76741283-969f-4947-955d-949a3e715d92",
-  "generated_at": "2026-01-31T00:01:25.622650",
+  "generated_at": "2026-02-01T00:01:26.351183",
   "basic_info": {
     "title": "WordSnap Flashcard",
     "author": "LinkAIBrain",
@@ -11,17 +11,17 @@
     "published_at": "2026-01-14T17:13:23.199000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/wordsnap-flashcard",
-    "days_since_published": 16
+    "days_since_published": 17
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 218,
       "runs_rank": 194,
-      "likes_rank": 68,
+      "likes_rank": 65,
       "total_agents": 301,
       "views_percentile": 27.6,
       "runs_percentile": 35.5,
-      "likes_percentile": 77.4
+      "likes_percentile": 78.4
     },
     "tier": "Mid",
     "tier_class": "mid",
@@ -30,21 +30,21 @@
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 16,
+    "days_tracked": 17,
     "last_7_days": {
       "views_rank_change": 2,
       "runs_rank_change": 1,
-      "likes_rank_change": -126
+      "likes_rank_change": -70
     },
     "last_30_days": {
       "views_rank_change": -25,
       "runs_rank_change": -20,
-      "likes_rank_change": -175
+      "likes_rank_change": -178
     },
     "all_time": {
       "best_views_rank": 216,
       "best_runs_rank": 193,
-      "best_likes_rank": 68,
+      "best_likes_rank": 65,
       "days_in_top_10": 0,
       "first_rank": 243,
       "current_rank": 218
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 15,
+    "data_points": 16,
     "first_recorded": "2026-01-15T08:01:02.601407",
-    "last_recorded": "2026-01-31T08:01:13.061776",
+    "last_recorded": "2026-02-01T08:01:13.578491",
     "time_series": {
       "dates": [
         "2026-01-15T08:01:02.601407",
@@ -71,7 +71,8 @@
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
-        "2026-01-31T08:01:13.061776"
+        "2026-01-31T08:01:13.061776",
+        "2026-02-01T08:01:13.578491"
       ],
       "views_rank": [
         243,
@@ -88,6 +89,7 @@
         217,
         217,
         218,
+        218,
         218
       ],
       "runs_rank": [
@@ -102,6 +104,7 @@
         193,
         193,
         193,
+        194,
         194,
         194,
         194,
@@ -122,7 +125,8 @@
         113,
         null,
         73,
-        68
+        68,
+        65
       ]
     }
   },

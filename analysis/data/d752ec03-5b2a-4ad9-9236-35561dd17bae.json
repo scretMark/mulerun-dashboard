@@ -1,6 +1,6 @@
 {
   "agent_id": "d752ec03-5b2a-4ad9-9236-35561dd17bae",
-  "generated_at": "2026-01-31T00:01:23.839027",
+  "generated_at": "2026-02-01T00:01:24.499447",
   "basic_info": {
     "title": "SpaceLeap and MemoryHug",
     "author": "HongwuQz",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-20T05:56:33.234000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@HongwuQz/spaceleap-and-memoryhug",
-    "days_since_published": 132
+    "days_since_published": 133
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 131,
       "runs_rank": 248,
-      "likes_rank": 161,
+      "likes_rank": 143,
       "total_agents": 301,
       "views_percentile": 56.5,
       "runs_percentile": 17.6,
-      "likes_percentile": 46.5
+      "likes_percentile": 52.5
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 125,
+    "days_tracked": 126,
     "price": 60.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 72,
+    "days_tracked": 73,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 3,
-      "likes_rank_change": -69
+      "likes_rank_change": -6
     },
     "last_30_days": {
       "views_rank_change": 6,
       "runs_rank_change": 15,
-      "likes_rank_change": -73
+      "likes_rank_change": -91
     },
     "all_time": {
       "best_views_rank": 122,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 71,
+    "data_points": 72,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-01-31T08:01:13.061776",
+    "last_recorded": "2026-02-01T08:01:13.578491",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -127,7 +127,8 @@
         "2026-01-28T08:01:04.643118",
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
-        "2026-01-31T08:01:13.061776"
+        "2026-01-31T08:01:13.061776",
+        "2026-02-01T08:01:13.578491"
       ],
       "views_rank": [
         null,
@@ -198,6 +199,7 @@
         130,
         130,
         130,
+        131,
         131,
         131,
         131
@@ -273,6 +275,7 @@
         246,
         247,
         248,
+        248,
         248
       ],
       "likes_rank": [
@@ -346,7 +349,8 @@
         124,
         106,
         192,
-        161
+        161,
+        143
       ]
     }
   },
