@@ -1,6 +1,6 @@
 {
   "agent_id": "f287a273-a8e9-4f84-bcad-d14484f88465",
-  "generated_at": "2026-02-01T00:01:24.023913",
+  "generated_at": "2026-02-02T00:01:20.482002",
   "basic_info": {
     "title": "Ethereal Bloom",
     "author": "Lucas",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-04T22:06:12.064000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/ethereal-bloom",
-    "days_since_published": 88
+    "days_since_published": 89
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 244,
+      "views_rank": 245,
       "runs_rank": 291,
-      "likes_rank": 68,
+      "likes_rank": 61,
       "total_agents": 301,
-      "views_percentile": 18.9,
+      "views_percentile": 18.6,
       "runs_percentile": 3.3,
-      "likes_percentile": 77.4
+      "likes_percentile": 79.7
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 85,
+    "days_tracked": 86,
     "price": 49.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 73,
+    "days_tracked": 74,
     "last_7_days": {
-      "views_rank_change": 3,
+      "views_rank_change": 4,
       "runs_rank_change": 3,
-      "likes_rank_change": -82
+      "likes_rank_change": -89
     },
     "last_30_days": {
-      "views_rank_change": 17,
+      "views_rank_change": 18,
       "runs_rank_change": 17,
-      "likes_rank_change": -148
+      "likes_rank_change": -155
     },
     "all_time": {
       "best_views_rank": 207,
@@ -47,14 +47,14 @@
       "best_likes_rank": 53,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 244
+      "current_rank": 245
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 72,
+    "data_points": 73,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-01T08:01:13.578491",
+    "last_recorded": "2026-02-02T08:01:09.244212",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -128,7 +128,8 @@
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
-        "2026-02-01T08:01:13.578491"
+        "2026-02-01T08:01:13.578491",
+        "2026-02-02T08:01:09.244212"
       ],
       "views_rank": [
         null,
@@ -202,7 +203,8 @@
         243,
         243,
         243,
-        244
+        244,
+        245
       ],
       "runs_rank": [
         null,
@@ -274,6 +276,7 @@
         288,
         288,
         289,
+        291,
         291,
         291,
         291
@@ -350,7 +353,8 @@
         107,
         76,
         71,
-        68
+        68,
+        61
       ]
     }
   },
@@ -362,7 +366,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 17 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 18 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

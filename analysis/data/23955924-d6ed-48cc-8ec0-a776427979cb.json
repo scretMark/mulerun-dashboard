@@ -1,6 +1,6 @@
 {
   "agent_id": "23955924-d6ed-48cc-8ec0-a776427979cb",
-  "generated_at": "2026-02-01T00:01:25.304160",
+  "generated_at": "2026-02-02T00:01:21.604827",
   "basic_info": {
     "title": "Change the color of your pet",
     "author": "8bit",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-08T20:39:24.448000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/change-the-color-of-your-pet",
-    "days_since_published": 54
+    "days_since_published": 55
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 265,
       "runs_rank": 193,
-      "likes_rank": 136,
+      "likes_rank": 118,
       "total_agents": 301,
       "views_percentile": 12.0,
       "runs_percentile": 35.9,
-      "likes_percentile": 54.8
+      "likes_percentile": 60.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 52,
+    "days_tracked": 53,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 53,
+    "days_tracked": 54,
     "last_7_days": {
       "views_rank_change": 2,
       "runs_rank_change": 1,
-      "likes_rank_change": 36
+      "likes_rank_change": 18
     },
     "last_30_days": {
       "views_rank_change": 14,
       "runs_rank_change": 13,
-      "likes_rank_change": 126
+      "likes_rank_change": 108
     },
     "all_time": {
       "best_views_rank": 223,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 52,
+    "data_points": 53,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2026-02-01T08:01:13.578491",
+    "last_recorded": "2026-02-02T08:01:09.244212",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
@@ -108,7 +108,8 @@
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
-        "2026-02-01T08:01:13.578491"
+        "2026-02-01T08:01:13.578491",
+        "2026-02-02T08:01:09.244212"
       ],
       "views_rank": [
         null,
@@ -162,6 +163,7 @@
         264,
         265,
         265,
+        265,
         265
       ],
       "runs_rank": [
@@ -212,6 +214,7 @@
         192,
         192,
         192,
+        193,
         193,
         193,
         193,
@@ -270,7 +273,8 @@
         150,
         185,
         154,
-        136
+        136,
+        118
       ]
     }
   },

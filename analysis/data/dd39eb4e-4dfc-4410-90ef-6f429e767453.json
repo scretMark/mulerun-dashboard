@@ -1,6 +1,6 @@
 {
   "agent_id": "dd39eb4e-4dfc-4410-90ef-6f429e767453",
-  "generated_at": "2026-02-01T00:01:25.193962",
+  "generated_at": "2026-02-02T00:01:21.503895",
   "basic_info": {
     "title": "Christmas Studio",
     "author": "DENNIS",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-04T09:23:54.267000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@DENNIS/christmas-studio",
-    "days_since_published": 58
+    "days_since_published": 59
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 199,
       "runs_rank": 158,
-      "likes_rank": 24,
+      "likes_rank": 22,
       "total_agents": 301,
       "views_percentile": 33.9,
       "runs_percentile": 47.5,
-      "likes_percentile": 92.0
+      "likes_percentile": 92.7
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 56,
+    "days_tracked": 57,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 54,
+    "days_tracked": 55,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 2,
-      "likes_rank_change": -8
+      "likes_rank_change": -10
     },
     "last_30_days": {
       "views_rank_change": 3,
       "runs_rank_change": 6,
-      "likes_rank_change": -92
+      "likes_rank_change": -94
     },
     "all_time": {
       "best_views_rank": 192,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 55,
+    "data_points": 56,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2026-02-01T08:01:13.578491",
+    "last_recorded": "2026-02-02T08:01:09.244212",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -111,7 +111,8 @@
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
-        "2026-02-01T08:01:13.578491"
+        "2026-02-01T08:01:13.578491",
+        "2026-02-02T08:01:09.244212"
       ],
       "views_rank": [
         null,
@@ -166,6 +167,7 @@
         198,
         198,
         198,
+        199,
         199,
         199,
         199
@@ -225,6 +227,7 @@
         157,
         157,
         158,
+        158,
         158
       ],
       "likes_rank": [
@@ -282,7 +285,8 @@
         30,
         25,
         25,
-        24
+        24,
+        22
       ]
     }
   },
@@ -301,7 +305,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #24 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #22 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

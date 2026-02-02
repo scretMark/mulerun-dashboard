@@ -1,6 +1,6 @@
 {
   "agent_id": "d47bf37a-39b4-4ab5-8324-269e0a133ef2",
-  "generated_at": "2026-02-01T00:01:26.362122",
+  "generated_at": "2026-02-02T00:01:22.433446",
   "basic_info": {
     "title": "Anime Creator",
     "author": "summerail",
@@ -11,50 +11,50 @@
     "published_at": "2026-01-08T19:07:58.617000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/comic-creator",
-    "days_since_published": 23
+    "days_since_published": 24
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 207,
-      "runs_rank": 205,
-      "likes_rank": 135,
+      "views_rank": 206,
+      "runs_rank": 203,
+      "likes_rank": 291,
       "total_agents": 301,
-      "views_percentile": 31.2,
-      "runs_percentile": 31.9,
-      "likes_percentile": 55.1
+      "views_percentile": 31.6,
+      "runs_percentile": 32.6,
+      "likes_percentile": 3.3
     },
-    "tier": "Mid",
-    "tier_class": "mid",
+    "tier": "Low",
+    "tier_class": "low",
     "days_tracked": 0,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 17,
+    "days_tracked": 18,
     "last_7_days": {
-      "views_rank_change": -2,
-      "runs_rank_change": 0,
-      "likes_rank_change": -64
+      "views_rank_change": -3,
+      "runs_rank_change": -2,
+      "likes_rank_change": 92
     },
     "last_30_days": {
-      "views_rank_change": -25,
-      "runs_rank_change": -32,
-      "likes_rank_change": -115
+      "views_rank_change": -26,
+      "runs_rank_change": -34,
+      "likes_rank_change": 41
     },
     "all_time": {
-      "best_views_rank": 207,
-      "best_runs_rank": 205,
+      "best_views_rank": 206,
+      "best_runs_rank": 203,
       "best_likes_rank": 135,
       "days_in_top_10": 0,
       "first_rank": 232,
-      "current_rank": 207
+      "current_rank": 206
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 16,
+    "data_points": 17,
     "first_recorded": "2026-01-15T08:01:02.601407",
-    "last_recorded": "2026-02-01T08:01:13.578491",
+    "last_recorded": "2026-02-02T08:01:09.244212",
     "time_series": {
       "dates": [
         "2026-01-15T08:01:02.601407",
@@ -72,7 +72,8 @@
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
-        "2026-02-01T08:01:13.578491"
+        "2026-02-01T08:01:13.578491",
+        "2026-02-02T08:01:09.244212"
       ],
       "views_rank": [
         232,
@@ -90,7 +91,8 @@
         208,
         207,
         207,
-        207
+        207,
+        206
       ],
       "runs_rank": [
         237,
@@ -108,7 +110,8 @@
         205,
         205,
         205,
-        205
+        205,
+        203
       ],
       "likes_rank": [
         250,
@@ -126,7 +129,8 @@
         178,
         184,
         153,
-        135
+        135,
+        291
       ]
     }
   },
@@ -145,12 +149,12 @@
     {
       "type": "positive",
       "title": "Rising Star",
-      "description": "Improved by 25 positions in views ranking over the last 30 days - showing strong momentum!"
+      "description": "Improved by 26 positions in views ranking over the last 30 days - showing strong momentum!"
     },
     {
       "type": "positive",
       "title": "Growing Usage",
-      "description": "Runs ranking improved by 32 positions in the last 30 days - users are actively engaging with this agent!"
+      "description": "Runs ranking improved by 34 positions in the last 30 days - users are actively engaging with this agent!"
     }
   ]
 }

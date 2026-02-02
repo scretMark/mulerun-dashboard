@@ -1,6 +1,6 @@
 {
   "agent_id": "81dcc6fe-5f37-425b-8ff8-7fc92f3171c8",
-  "generated_at": "2026-02-01T00:01:24.150500",
+  "generated_at": "2026-02-02T00:01:20.610532",
   "basic_info": {
     "title": "Time Gate",
     "author": "LinkAIBrain",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-23T05:42:38.874000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/time-gate",
-    "days_since_published": 130
+    "days_since_published": 131
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 51,
       "runs_rank": 66,
-      "likes_rank": 165,
+      "likes_rank": 143,
       "total_agents": 301,
       "views_percentile": 83.1,
       "runs_percentile": 78.1,
-      "likes_percentile": 45.2
+      "likes_percentile": 52.5
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 96,
+    "days_tracked": 97,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 73,
+    "days_tracked": 74,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": -46
+      "likes_rank_change": -68
     },
     "last_30_days": {
       "views_rank_change": 1,
       "runs_rank_change": 2,
-      "likes_rank_change": -12
+      "likes_rank_change": -34
     },
     "all_time": {
       "best_views_rank": 49,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 72,
+    "data_points": 73,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-01T08:01:13.578491",
+    "last_recorded": "2026-02-02T08:01:09.244212",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -128,7 +128,8 @@
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
-        "2026-02-01T08:01:13.578491"
+        "2026-02-01T08:01:13.578491",
+        "2026-02-02T08:01:09.244212"
       ],
       "views_rank": [
         null,
@@ -179,6 +180,7 @@
         49,
         49,
         50,
+        51,
         51,
         51,
         51,
@@ -276,6 +278,7 @@
         66,
         66,
         66,
+        66,
         66
       ],
       "likes_rank": [
@@ -350,7 +353,8 @@
         139,
         242,
         187,
-        165
+        165,
+        143
       ]
     }
   },

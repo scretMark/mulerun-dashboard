@@ -1,6 +1,6 @@
 {
   "agent_id": "e21d31f5-a2ab-45a7-951c-303492358e60",
-  "generated_at": "2026-02-01T00:01:24.272371",
+  "generated_at": "2026-02-02T00:01:20.710208",
   "basic_info": {
     "title": "AI Secretary for Google Meet",
     "author": "Aurorabbafef3",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-30T17:56:21.736000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aurorabbafef3/ai-secretary-for-google-meet",
-    "days_since_published": 93
+    "days_since_published": 94
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 72,
       "runs_rank": 118,
-      "likes_rank": 107,
+      "likes_rank": 94,
       "total_agents": 301,
       "views_percentile": 76.1,
       "runs_percentile": 60.8,
-      "likes_percentile": 64.5
+      "likes_percentile": 68.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 104,
+    "days_tracked": 105,
     "price": 1.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 73,
+    "days_tracked": 74,
     "last_7_days": {
       "views_rank_change": 2,
       "runs_rank_change": 2,
-      "likes_rank_change": 16
+      "likes_rank_change": 3
     },
     "last_30_days": {
       "views_rank_change": 4,
       "runs_rank_change": 9,
-      "likes_rank_change": -75
+      "likes_rank_change": -88
     },
     "all_time": {
       "best_views_rank": 68,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 72,
+    "data_points": 73,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-01T08:01:13.578491",
+    "last_recorded": "2026-02-02T08:01:09.244212",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -128,7 +128,8 @@
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
-        "2026-02-01T08:01:13.578491"
+        "2026-02-01T08:01:13.578491",
+        "2026-02-02T08:01:09.244212"
       ],
       "views_rank": [
         null,
@@ -202,6 +203,7 @@
         70,
         71,
         71,
+        72,
         72
       ],
       "runs_rank": [
@@ -273,6 +275,7 @@
         116,
         116,
         117,
+        118,
         118,
         118,
         118,
@@ -350,7 +353,8 @@
         212,
         133,
         117,
-        107
+        107,
+        94
       ]
     }
   },

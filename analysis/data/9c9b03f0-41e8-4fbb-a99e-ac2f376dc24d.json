@@ -1,6 +1,6 @@
 {
   "agent_id": "9c9b03f0-41e8-4fbb-a99e-ac2f376dc24d",
-  "generated_at": "2026-02-01T00:01:22.731097",
+  "generated_at": "2026-02-02T00:01:19.414827",
   "basic_info": {
     "title": "YouTube Video to Social Content",
     "author": "YuTou_baby",
@@ -11,35 +11,35 @@
     "published_at": "2025-08-27T11:52:15.881000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@YuTou_baby/youtube-video-to-social-content",
-    "days_since_published": 157
+    "days_since_published": 158
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 14,
       "runs_rank": 58,
-      "likes_rank": 271,
+      "likes_rank": 216,
       "total_agents": 301,
       "views_percentile": 95.3,
       "runs_percentile": 80.7,
-      "likes_percentile": 10.0
+      "likes_percentile": 28.2
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 92,
+    "days_tracked": 93,
     "price": 8.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 73,
+    "days_tracked": 74,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 0,
-      "likes_rank_change": 28
+      "likes_rank_change": -27
     },
     "last_30_days": {
       "views_rank_change": 1,
       "runs_rank_change": 3,
-      "likes_rank_change": 207
+      "likes_rank_change": 152
     },
     "all_time": {
       "best_views_rank": 13,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 72,
+    "data_points": 73,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-01T08:01:13.578491",
+    "last_recorded": "2026-02-02T08:01:09.244212",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -128,7 +128,8 @@
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
-        "2026-02-01T08:01:13.578491"
+        "2026-02-01T08:01:13.578491",
+        "2026-02-02T08:01:09.244212"
       ],
       "views_rank": [
         null,
@@ -202,6 +203,7 @@
         14,
         14,
         14,
+        14,
         14
       ],
       "runs_rank": [
@@ -267,6 +269,7 @@
         56,
         56,
         56,
+        58,
         58,
         58,
         58,
@@ -350,7 +353,8 @@
         282,
         157,
         130,
-        271
+        271,
+        216
       ]
     }
   },

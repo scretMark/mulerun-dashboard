@@ -1,6 +1,6 @@
 {
   "agent_id": "534ee29f-13a6-4369-bf09-0683968d8f15",
-  "generated_at": "2026-02-01T00:01:26.317297",
+  "generated_at": "2026-02-02T00:01:22.393545",
   "basic_info": {
     "title": "Comic Meme Caption",
     "author": "thurnz",
@@ -11,35 +11,35 @@
     "published_at": "2026-01-09T11:09:10.896000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@thurnz/comic-meme-caption",
-    "days_since_published": 22
+    "days_since_published": 23
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 273,
       "runs_rank": 276,
-      "likes_rank": 152,
+      "likes_rank": 131,
       "total_agents": 301,
       "views_percentile": 9.3,
       "runs_percentile": 8.3,
-      "likes_percentile": 49.5
+      "likes_percentile": 56.5
     },
-    "tier": "Low",
-    "tier_class": "low",
+    "tier": "Mid",
+    "tier_class": "mid",
     "days_tracked": 0,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 19,
+    "days_tracked": 20,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 3,
-      "likes_rank_change": 116
+      "likes_rank_change": 95
     },
     "last_30_days": {
       "views_rank_change": -5,
       "runs_rank_change": 11,
-      "likes_rank_change": 64
+      "likes_rank_change": 43
     },
     "all_time": {
       "best_views_rank": 266,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 18,
+    "data_points": 19,
     "first_recorded": "2026-01-13T08:00:58.516114",
-    "last_recorded": "2026-02-01T08:01:13.578491",
+    "last_recorded": "2026-02-02T08:01:09.244212",
     "time_series": {
       "dates": [
         "2026-01-13T08:00:58.516114",
@@ -74,7 +74,8 @@
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
-        "2026-02-01T08:01:13.578491"
+        "2026-02-01T08:01:13.578491",
+        "2026-02-02T08:01:09.244212"
       ],
       "views_rank": [
         278,
@@ -92,6 +93,7 @@
         273,
         274,
         275,
+        273,
         273,
         273,
         273
@@ -114,6 +116,7 @@
         274,
         275,
         276,
+        276,
         276
       ],
       "likes_rank": [
@@ -134,7 +137,8 @@
         34,
         207,
         169,
-        152
+        152,
+        131
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "09133889-04fc-4204-9210-3d979bea2fff",
-  "generated_at": "2026-02-01T00:01:23.311357",
+  "generated_at": "2026-02-02T00:01:19.897066",
   "basic_info": {
     "title": "Grid Protrait for Instagram",
     "author": "Zane29222",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-10T16:48:32.546000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Zane29222/grid-protrait-for-instagram",
-    "days_since_published": 113
+    "days_since_published": 114
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 181,
       "runs_rank": 163,
-      "likes_rank": 56,
+      "likes_rank": null,
       "total_agents": 301,
       "views_percentile": 39.9,
       "runs_percentile": 45.8,
-      "likes_percentile": 81.4
+      "likes_percentile": 0
     },
-    "tier": "High",
-    "tier_class": "high",
-    "days_tracked": 94,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 95,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 73,
+    "days_tracked": 74,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 1,
-      "likes_rank_change": -43
+      "likes_rank_change": null
     },
     "last_30_days": {
       "views_rank_change": 8,
       "runs_rank_change": 12,
-      "likes_rank_change": 41
+      "likes_rank_change": null
     },
     "all_time": {
       "best_views_rank": 169,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 72,
+    "data_points": 73,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-01T08:01:13.578491",
+    "last_recorded": "2026-02-02T08:01:09.244212",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -128,7 +128,8 @@
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
-        "2026-02-01T08:01:13.578491"
+        "2026-02-01T08:01:13.578491",
+        "2026-02-02T08:01:09.244212"
       ],
       "views_rank": [
         null,
@@ -194,6 +195,7 @@
         178,
         179,
         180,
+        181,
         181,
         181,
         181,
@@ -276,6 +278,7 @@
         163,
         163,
         163,
+        163,
         163
       ],
       "likes_rank": [
@@ -350,7 +353,8 @@
         83,
         63,
         59,
-        56
+        56,
+        null
       ]
     }
   },
@@ -360,9 +364,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "High Performer",
-      "description": "Ranked #56 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #181 out of 301 active agents."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "0a98257c-f21e-4eb3-8861-28fd538b8b1a",
-  "generated_at": "2026-02-01T00:01:26.384672",
+  "generated_at": "2026-02-02T00:01:22.452982",
   "basic_info": {
     "title": "AuditKing PRO - Shopify Killer Audit",
     "author": "Gallmur",
@@ -11,35 +11,35 @@
     "published_at": "2026-01-22T07:45:06.227000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Gallmur/auditking-pro-shopify-killer-audit",
-    "days_since_published": 9
+    "days_since_published": 10
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 225,
       "runs_rank": 138,
-      "likes_rank": 155,
+      "likes_rank": 134,
       "total_agents": 301,
       "views_percentile": 25.2,
       "runs_percentile": 54.2,
-      "likes_percentile": 48.5
+      "likes_percentile": 55.5
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 8,
+    "days_tracked": 9,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 9,
+    "days_tracked": 10,
     "last_7_days": {
       "views_rank_change": -4,
       "runs_rank_change": 0,
-      "likes_rank_change": 25
+      "likes_rank_change": 4
     },
     "last_30_days": {
       "views_rank_change": -3,
       "runs_rank_change": 0,
-      "likes_rank_change": -85
+      "likes_rank_change": -106
     },
     "all_time": {
       "best_views_rank": 223,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 9,
+    "data_points": 10,
     "first_recorded": "2026-01-23T08:01:01.579068",
-    "last_recorded": "2026-02-01T08:01:13.578491",
+    "last_recorded": "2026-02-02T08:01:09.244212",
     "time_series": {
       "dates": [
         "2026-01-23T08:01:01.579068",
@@ -65,7 +65,8 @@
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
-        "2026-02-01T08:01:13.578491"
+        "2026-02-01T08:01:13.578491",
+        "2026-02-02T08:01:09.244212"
       ],
       "views_rank": [
         228,
@@ -76,9 +77,11 @@
         225,
         223,
         224,
+        225,
         225
       ],
       "runs_rank": [
+        138,
         138,
         138,
         138,
@@ -98,7 +101,8 @@
         215,
         228,
         175,
-        155
+        155,
+        134
       ]
     }
   },

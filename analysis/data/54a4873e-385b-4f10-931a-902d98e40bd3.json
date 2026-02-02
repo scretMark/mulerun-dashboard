@@ -1,6 +1,6 @@
 {
   "agent_id": "54a4873e-385b-4f10-931a-902d98e40bd3",
-  "generated_at": "2026-02-01T00:01:24.922540",
+  "generated_at": "2026-02-02T00:01:21.263395",
   "basic_info": {
     "title": "Teams Calling AI Advisor",
     "author": "xnexpstwmg34pd3",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-20T19:29:02.092000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@xnexpstwmg34pd3/teams-calling-ai-advisor",
-    "days_since_published": 103
+    "days_since_published": 104
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 226,
       "runs_rank": 262,
-      "likes_rank": 200,
+      "likes_rank": 173,
       "total_agents": 301,
       "views_percentile": 24.9,
       "runs_percentile": 13.0,
-      "likes_percentile": 33.6
+      "likes_percentile": 42.5
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 98,
+    "days_tracked": 99,
     "price": 5.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 73,
+    "days_tracked": 74,
     "last_7_days": {
       "views_rank_change": 2,
       "runs_rank_change": 2,
-      "likes_rank_change": 32
+      "likes_rank_change": 5
     },
     "last_30_days": {
       "views_rank_change": 12,
       "runs_rank_change": 15,
-      "likes_rank_change": 33
+      "likes_rank_change": 6
     },
     "all_time": {
       "best_views_rank": 198,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 72,
+    "data_points": 73,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-01T08:01:13.578491",
+    "last_recorded": "2026-02-02T08:01:09.244212",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -128,7 +128,8 @@
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
-        "2026-02-01T08:01:13.578491"
+        "2026-02-01T08:01:13.578491",
+        "2026-02-02T08:01:09.244212"
       ],
       "views_rank": [
         null,
@@ -202,6 +203,7 @@
         229,
         229,
         226,
+        226,
         226
       ],
       "runs_rank": [
@@ -274,6 +276,7 @@
         260,
         260,
         261,
+        262,
         262,
         262,
         262
@@ -350,7 +353,8 @@
         116,
         84,
         241,
-        200
+        200,
+        173
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "00c43363-4ece-439b-b4e1-f8cb7ceb86d4",
-  "generated_at": "2026-02-01T00:01:26.043506",
+  "generated_at": "2026-02-02T00:01:22.182756",
   "basic_info": {
     "title": "SoulSync Chat AI  Companion",
     "author": "Eren_kaif",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-25T12:10:36.534000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Eren_kaif/soulsync-ai-agent",
-    "days_since_published": 37
+    "days_since_published": 38
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 206,
+      "views_rank": 207,
       "runs_rank": 116,
-      "likes_rank": 83,
+      "likes_rank": 74,
       "total_agents": 301,
-      "views_percentile": 31.6,
+      "views_percentile": 31.2,
       "runs_percentile": 61.5,
-      "likes_percentile": 72.4
+      "likes_percentile": 75.4
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 31,
+    "days_tracked": 32,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 36,
+    "days_tracked": 37,
     "last_7_days": {
-      "views_rank_change": 1,
+      "views_rank_change": 2,
       "runs_rank_change": 2,
-      "likes_rank_change": -115
+      "likes_rank_change": -124
     },
     "last_30_days": {
-      "views_rank_change": 5,
+      "views_rank_change": 6,
       "runs_rank_change": 5,
-      "likes_rank_change": 9
+      "likes_rank_change": 0
     },
     "all_time": {
       "best_views_rank": 197,
@@ -47,14 +47,14 @@
       "best_likes_rank": 28,
       "days_in_top_10": 0,
       "first_rank": 197,
-      "current_rank": 206
+      "current_rank": 207
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 32,
+    "data_points": 33,
     "first_recorded": "2025-12-27T08:01:00.423663",
-    "last_recorded": "2026-02-01T08:01:13.578491",
+    "last_recorded": "2026-02-02T08:01:09.244212",
     "time_series": {
       "dates": [
         "2025-12-27T08:01:00.423663",
@@ -88,7 +88,8 @@
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
-        "2026-02-01T08:01:13.578491"
+        "2026-02-01T08:01:13.578491",
+        "2026-02-02T08:01:09.244212"
       ],
       "views_rank": [
         197,
@@ -122,7 +123,8 @@
         206,
         206,
         206,
-        206
+        206,
+        207
       ],
       "runs_rank": [
         110,
@@ -153,6 +155,7 @@
         114,
         114,
         115,
+        116,
         116,
         116,
         116,
@@ -190,7 +193,8 @@
         134,
         96,
         87,
-        83
+        83,
+        74
       ]
     }
   },
@@ -209,7 +213,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #206 out of 301 active agents."
+      "description": "This agent is currently ranked #207 out of 301 active agents."
     }
   ]
 }

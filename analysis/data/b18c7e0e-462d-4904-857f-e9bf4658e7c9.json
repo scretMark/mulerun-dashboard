@@ -1,6 +1,6 @@
 {
   "agent_id": "b18c7e0e-462d-4904-857f-e9bf4658e7c9",
-  "generated_at": "2026-02-01T00:01:22.548083",
+  "generated_at": "2026-02-02T00:01:19.263257",
   "basic_info": {
     "title": "Me And My Mini-Me",
     "author": "YuTou_baby",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-19T20:13:16.719000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@YuTou_baby/me-and-my-mini-me",
-    "days_since_published": 134
+    "days_since_published": 135
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 21,
       "runs_rank": 26,
-      "likes_rank": 257,
+      "likes_rank": 253,
       "total_agents": 301,
       "views_percentile": 93.0,
       "runs_percentile": 91.4,
-      "likes_percentile": 14.6
+      "likes_percentile": 15.9
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 99,
+    "days_tracked": 100,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 73,
+    "days_tracked": 74,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 0,
-      "likes_rank_change": 51
+      "likes_rank_change": 47
     },
     "last_30_days": {
       "views_rank_change": 2,
       "runs_rank_change": 0,
-      "likes_rank_change": 47
+      "likes_rank_change": 43
     },
     "all_time": {
       "best_views_rank": 19,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 72,
+    "data_points": 73,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-01T08:01:13.578491",
+    "last_recorded": "2026-02-02T08:01:09.244212",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -128,7 +128,8 @@
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
-        "2026-02-01T08:01:13.578491"
+        "2026-02-01T08:01:13.578491",
+        "2026-02-02T08:01:09.244212"
       ],
       "views_rank": [
         null,
@@ -202,6 +203,7 @@
         20,
         21,
         21,
+        21,
         21
       ],
       "runs_rank": [
@@ -248,6 +250,7 @@
         23,
         25,
         25,
+        26,
         26,
         26,
         26,
@@ -350,7 +353,8 @@
         136,
         98,
         242,
-        257
+        257,
+        253
       ]
     }
   },

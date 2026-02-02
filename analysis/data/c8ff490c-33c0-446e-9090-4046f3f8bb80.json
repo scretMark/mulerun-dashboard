@@ -1,6 +1,6 @@
 {
   "agent_id": "c8ff490c-33c0-446e-9090-4046f3f8bb80",
-  "generated_at": "2026-02-01T00:01:26.450168",
+  "generated_at": "2026-02-02T00:01:22.513088",
   "basic_info": {
     "title": "PodCraft AI",
     "author": "Lucas",
@@ -11,21 +11,21 @@
     "published_at": "2026-01-27T17:17:18.496000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/podcraft-ai",
-    "days_since_published": 4
+    "days_since_published": 5
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 247,
       "runs_rank": 227,
-      "likes_rank": 125,
+      "likes_rank": 110,
       "total_agents": 301,
       "views_percentile": 17.9,
       "runs_percentile": 24.6,
-      "likes_percentile": 58.5
+      "likes_percentile": 63.5
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 3,
+    "days_tracked": 4,
     "price": 60.0
   },
   "ranking_trends": {
@@ -34,17 +34,17 @@
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 1,
-      "likes_rank_change": -111
+      "likes_rank_change": -126
     },
     "last_30_days": {
       "views_rank_change": 0,
       "runs_rank_change": 1,
-      "likes_rank_change": -111
+      "likes_rank_change": -126
     },
     "all_time": {
       "best_views_rank": 246,
       "best_runs_rank": 226,
-      "best_likes_rank": 125,
+      "best_likes_rank": 110,
       "days_in_top_10": 0,
       "first_rank": 247,
       "current_rank": 247
@@ -52,19 +52,21 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 4,
+    "data_points": 5,
     "first_recorded": "2026-01-29T08:01:09.639000",
-    "last_recorded": "2026-02-01T08:01:13.578491",
+    "last_recorded": "2026-02-02T08:01:09.244212",
     "time_series": {
       "dates": [
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
-        "2026-02-01T08:01:13.578491"
+        "2026-02-01T08:01:13.578491",
+        "2026-02-02T08:01:09.244212"
       ],
       "views_rank": [
         247,
         246,
+        247,
         247,
         247
       ],
@@ -72,13 +74,15 @@
         226,
         226,
         227,
+        227,
         227
       ],
       "likes_rank": [
         236,
         170,
         140,
-        125
+        125,
+        110
       ]
     }
   },

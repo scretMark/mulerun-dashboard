@@ -1,6 +1,6 @@
 {
   "agent_id": "9e25dbaa-2289-4ced-bafe-c3d169c38d12",
-  "generated_at": "2026-02-01T00:01:25.162662",
+  "generated_at": "2026-02-02T00:01:21.470491",
   "basic_info": {
     "title": "Object Letter Crafter",
     "author": "LinkAIBrain",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-02T14:51:54.036000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/object-letter-crafter",
-    "days_since_published": 60
+    "days_since_published": 61
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 195,
+      "views_rank": 194,
       "runs_rank": 119,
-      "likes_rank": 222,
+      "likes_rank": 258,
       "total_agents": 301,
-      "views_percentile": 35.2,
+      "views_percentile": 35.5,
       "runs_percentile": 60.5,
-      "likes_percentile": 26.2
+      "likes_percentile": 14.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 59,
+    "days_tracked": 60,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 54,
+    "days_tracked": 55,
     "last_7_days": {
-      "views_rank_change": 0,
+      "views_rank_change": -1,
       "runs_rank_change": 1,
-      "likes_rank_change": 156
+      "likes_rank_change": 192
     },
     "last_30_days": {
-      "views_rank_change": 4,
+      "views_rank_change": 3,
       "runs_rank_change": 9,
-      "likes_rank_change": -7
+      "likes_rank_change": 29
     },
     "all_time": {
       "best_views_rank": 184,
@@ -47,14 +47,14 @@
       "best_likes_rank": 42,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 195
+      "current_rank": 194
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 55,
+    "data_points": 56,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2026-02-01T08:01:13.578491",
+    "last_recorded": "2026-02-02T08:01:09.244212",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -111,7 +111,8 @@
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
-        "2026-02-01T08:01:13.578491"
+        "2026-02-01T08:01:13.578491",
+        "2026-02-02T08:01:09.244212"
       ],
       "views_rank": [
         null,
@@ -168,7 +169,8 @@
         195,
         195,
         194,
-        195
+        195,
+        194
       ],
       "runs_rank": [
         null,
@@ -221,6 +223,7 @@
         118,
         118,
         118,
+        119,
         119,
         119,
         119,
@@ -282,7 +285,8 @@
         57,
         42,
         294,
-        222
+        222,
+        258
       ]
     }
   },
@@ -301,7 +305,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #195 out of 301 active agents."
+      "description": "This agent is currently ranked #194 out of 301 active agents."
     }
   ]
 }

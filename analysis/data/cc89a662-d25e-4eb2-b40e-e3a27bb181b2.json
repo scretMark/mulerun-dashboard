@@ -1,6 +1,6 @@
 {
   "agent_id": "cc89a662-d25e-4eb2-b40e-e3a27bb181b2",
-  "generated_at": "2026-02-01T00:01:26.271878",
+  "generated_at": "2026-02-02T00:01:22.349922",
   "basic_info": {
     "title": "Top-video YouTube Tracking",
     "author": "Rhino",
@@ -11,35 +11,35 @@
     "published_at": "2026-01-07T00:33:13.319000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Rhino/youtubetitle",
-    "days_since_published": 24
+    "days_since_published": 25
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 262,
       "runs_rank": 269,
-      "likes_rank": 268,
+      "likes_rank": 293,
       "total_agents": 301,
       "views_percentile": 13.0,
       "runs_percentile": 10.6,
-      "likes_percentile": 11.0
+      "likes_percentile": 2.7
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 22,
+    "days_tracked": 23,
     "price": 8.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 24,
+    "days_tracked": 25,
     "last_7_days": {
       "views_rank_change": -5,
       "runs_rank_change": 2,
-      "likes_rank_change": 53
+      "likes_rank_change": 78
     },
     "last_30_days": {
       "views_rank_change": -14,
       "runs_rank_change": 8,
-      "likes_rank_change": 245
+      "likes_rank_change": 270
     },
     "all_time": {
       "best_views_rank": 262,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 22,
+    "data_points": 23,
     "first_recorded": "2026-01-08T08:01:02.485852",
-    "last_recorded": "2026-02-01T08:01:13.578491",
+    "last_recorded": "2026-02-02T08:01:09.244212",
     "time_series": {
       "dates": [
         "2026-01-08T08:01:02.485852",
@@ -78,7 +78,8 @@
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
-        "2026-02-01T08:01:13.578491"
+        "2026-02-01T08:01:13.578491",
+        "2026-02-02T08:01:09.244212"
       ],
       "views_rank": [
         276,
@@ -102,6 +103,7 @@
         266,
         263,
         264,
+        262,
         262
       ],
       "runs_rank": [
@@ -125,6 +127,7 @@
         267,
         268,
         270,
+        269,
         269,
         269
       ],
@@ -150,7 +153,8 @@
         180,
         279,
         210,
-        268
+        268,
+        293
       ]
     }
   },

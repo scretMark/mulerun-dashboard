@@ -1,6 +1,6 @@
 {
   "agent_id": "ca22ef2a-7104-4d88-86a5-106d9008cd6b",
-  "generated_at": "2026-02-01T00:01:25.837548",
+  "generated_at": "2026-02-02T00:01:22.022403",
   "basic_info": {
     "title": "Xmas Monster Market",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-19T16:34:38.383000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/xmas-monster-market",
-    "days_since_published": 43
+    "days_since_published": 44
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 295,
       "runs_rank": 295,
-      "likes_rank": 254,
+      "likes_rank": 210,
       "total_agents": 301,
       "views_percentile": 2.0,
       "runs_percentile": 2.0,
-      "likes_percentile": 15.6
+      "likes_percentile": 30.2
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 38,
+    "days_tracked": 39,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 43,
+    "days_tracked": 44,
     "last_7_days": {
       "views_rank_change": -1,
       "runs_rank_change": 2,
-      "likes_rank_change": 245
+      "likes_rank_change": 201
     },
     "last_30_days": {
       "views_rank_change": 18,
       "runs_rank_change": 18,
-      "likes_rank_change": 147
+      "likes_rank_change": 103
     },
     "all_time": {
       "best_views_rank": 273,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 39,
+    "data_points": 40,
     "first_recorded": "2025-12-20T08:01:00.398750",
-    "last_recorded": "2026-02-01T08:01:13.578491",
+    "last_recorded": "2026-02-02T08:01:09.244212",
     "time_series": {
       "dates": [
         "2025-12-20T08:01:00.398750",
@@ -95,7 +95,8 @@
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
-        "2026-02-01T08:01:13.578491"
+        "2026-02-01T08:01:13.578491",
+        "2026-02-02T08:01:09.244212"
       ],
       "views_rank": [
         null,
@@ -136,6 +137,7 @@
         297,
         298,
         298,
+        295,
         295
       ],
       "runs_rank": [
@@ -175,6 +177,7 @@
         293,
         293,
         294,
+        295,
         295,
         295,
         295
@@ -218,7 +221,8 @@
         8,
         5,
         5,
-        254
+        254,
+        210
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "990a2558-13c3-4fe8-bcc3-f3897a7b9866",
-  "generated_at": "2026-02-01T00:01:26.260644",
+  "generated_at": "2026-02-02T00:01:22.339714",
   "basic_info": {
     "title": "Try New Hair Color",
     "author": "AngryBerry",
@@ -11,35 +11,35 @@
     "published_at": "2026-01-06T22:44:35.857000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AngryBerry/try-new-hair-color",
-    "days_since_published": 25
+    "days_since_published": 26
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 264,
       "runs_rank": 207,
-      "likes_rank": 188,
+      "likes_rank": 162,
       "total_agents": 301,
       "views_percentile": 12.3,
       "runs_percentile": 31.2,
-      "likes_percentile": 37.5
+      "likes_percentile": 46.2
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 22,
+    "days_tracked": 23,
     "price": 40.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 24,
+    "days_tracked": 25,
     "last_7_days": {
       "views_rank_change": 3,
       "runs_rank_change": 0,
-      "likes_rank_change": 56
+      "likes_rank_change": 30
     },
     "last_30_days": {
       "views_rank_change": 6,
       "runs_rank_change": 7,
-      "likes_rank_change": 107
+      "likes_rank_change": 81
     },
     "all_time": {
       "best_views_rank": 256,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 22,
+    "data_points": 23,
     "first_recorded": "2026-01-08T08:01:02.485852",
-    "last_recorded": "2026-02-01T08:01:13.578491",
+    "last_recorded": "2026-02-02T08:01:09.244212",
     "time_series": {
       "dates": [
         "2026-01-08T08:01:02.485852",
@@ -78,7 +78,8 @@
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
-        "2026-02-01T08:01:13.578491"
+        "2026-02-01T08:01:13.578491",
+        "2026-02-02T08:01:09.244212"
       ],
       "views_rank": [
         258,
@@ -102,6 +103,7 @@
         262,
         264,
         263,
+        264,
         264
       ],
       "runs_rank": [
@@ -121,6 +123,7 @@
         206,
         206,
         206,
+        207,
         207,
         207,
         207,
@@ -150,7 +153,8 @@
         99,
         72,
         223,
-        188
+        188,
+        162
       ]
     }
   },

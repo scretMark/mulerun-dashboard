@@ -1,6 +1,6 @@
 {
   "agent_id": "c9e98be8-f68e-4ea8-919c-adc59f7555cf",
-  "generated_at": "2026-02-01T00:01:22.160517",
+  "generated_at": "2026-02-02T00:01:18.942242",
   "basic_info": {
     "title": "UPCV Resume Gen ",
     "author": "upcv",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-12T11:14:49.973000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@upcv/upcv-resume-gen",
-    "days_since_published": 80
+    "days_since_published": 81
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 71,
       "runs_rank": 12,
-      "likes_rank": 262,
+      "likes_rank": 213,
       "total_agents": 301,
       "views_percentile": 76.4,
       "runs_percentile": 96.0,
-      "likes_percentile": 13.0
+      "likes_percentile": 29.2
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 78,
+    "days_tracked": 79,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 74,
+    "days_tracked": 75,
     "last_7_days": {
       "views_rank_change": -4,
       "runs_rank_change": -1,
-      "likes_rank_change": -5
+      "likes_rank_change": -54
     },
     "last_30_days": {
       "views_rank_change": -5,
       "runs_rank_change": -2,
-      "likes_rank_change": 166
+      "likes_rank_change": 117
     },
     "all_time": {
       "best_views_rank": 71,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 73,
+    "data_points": 74,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-02-01T08:01:13.578491",
+    "last_recorded": "2026-02-02T08:01:09.244212",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -129,7 +129,8 @@
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
-        "2026-02-01T08:01:13.578491"
+        "2026-02-01T08:01:13.578491",
+        "2026-02-02T08:01:09.244212"
       ],
       "views_rank": [
         null,
@@ -204,6 +205,7 @@
         72,
         72,
         72,
+        71,
         71
       ],
       "runs_rank": [
@@ -275,6 +277,7 @@
         13,
         13,
         13,
+        12,
         12,
         12,
         12,
@@ -354,7 +357,8 @@
         295,
         215,
         229,
-        262
+        262,
+        213
       ]
     }
   },

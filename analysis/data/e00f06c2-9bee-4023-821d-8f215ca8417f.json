@@ -1,6 +1,6 @@
 {
   "agent_id": "e00f06c2-9bee-4023-821d-8f215ca8417f",
-  "generated_at": "2026-02-01T00:01:26.179524",
+  "generated_at": "2026-02-02T00:01:22.286578",
   "basic_info": {
     "title": "Sales Advisor",
     "author": "SmartQ",
@@ -11,21 +11,21 @@
     "published_at": "2026-01-01T02:59:46.639000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@SmartQ/winnexo",
-    "days_since_published": 30
+    "days_since_published": 31
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 83,
       "runs_rank": 70,
-      "likes_rank": 180,
+      "likes_rank": 155,
       "total_agents": 301,
       "views_percentile": 72.4,
       "runs_percentile": 76.7,
-      "likes_percentile": 40.2
+      "likes_percentile": 48.5
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 27,
+    "days_tracked": 28,
     "price": 0.0
   },
   "ranking_trends": {
@@ -34,12 +34,12 @@
     "last_7_days": {
       "views_rank_change": -3,
       "runs_rank_change": -2,
-      "likes_rank_change": -120
+      "likes_rank_change": -145
     },
     "last_30_days": {
       "views_rank_change": -43,
       "runs_rank_change": -37,
-      "likes_rank_change": 74
+      "likes_rank_change": 49
     },
     "all_time": {
       "best_views_rank": 83,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 25,
+    "data_points": 26,
     "first_recorded": "2026-01-05T08:01:10.022221",
-    "last_recorded": "2026-02-01T08:01:13.578491",
+    "last_recorded": "2026-02-02T08:01:09.244212",
     "time_series": {
       "dates": [
         "2026-01-05T08:01:10.022221",
@@ -81,7 +81,8 @@
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
-        "2026-02-01T08:01:13.578491"
+        "2026-02-01T08:01:13.578491",
+        "2026-02-02T08:01:09.244212"
       ],
       "views_rank": [
         126,
@@ -105,6 +106,7 @@
         87,
         86,
         85,
+        83,
         83,
         83,
         83,
@@ -135,6 +137,7 @@
         70,
         70,
         70,
+        70,
         70
       ],
       "likes_rank": [
@@ -162,7 +165,8 @@
         294,
         271,
         204,
-        180
+        180,
+        155
       ]
     }
   },

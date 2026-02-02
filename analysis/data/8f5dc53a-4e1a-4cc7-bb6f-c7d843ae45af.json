@@ -1,6 +1,6 @@
 {
   "agent_id": "8f5dc53a-4e1a-4cc7-bb6f-c7d843ae45af",
-  "generated_at": "2026-02-01T00:01:26.438967",
+  "generated_at": "2026-02-02T00:01:22.502436",
   "basic_info": {
     "title": "Snapmath - Math Homework Helper",
     "author": "quseit",
@@ -11,50 +11,50 @@
     "published_at": "2026-01-25T16:37:10.382000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@quseit/math-homework-helper",
-    "days_since_published": 6
+    "days_since_published": 7
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 241,
+      "views_rank": 240,
       "runs_rank": 218,
-      "likes_rank": 259,
+      "likes_rank": 250,
       "total_agents": 301,
-      "views_percentile": 19.9,
+      "views_percentile": 20.3,
       "runs_percentile": 27.6,
-      "likes_percentile": 14.0
+      "likes_percentile": 16.9
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 5,
+    "days_tracked": 6,
     "price": 2.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 5,
+    "days_tracked": 6,
     "last_7_days": {
-      "views_rank_change": -9,
+      "views_rank_change": -10,
       "runs_rank_change": -31,
-      "likes_rank_change": -10
+      "likes_rank_change": -19
     },
     "last_30_days": {
-      "views_rank_change": -9,
+      "views_rank_change": -10,
       "runs_rank_change": -31,
-      "likes_rank_change": -10
+      "likes_rank_change": -19
     },
     "all_time": {
-      "best_views_rank": 241,
+      "best_views_rank": 240,
       "best_runs_rank": 218,
       "best_likes_rank": 195,
       "days_in_top_10": 0,
       "first_rank": 250,
-      "current_rank": 241
+      "current_rank": 240
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 6,
+    "data_points": 7,
     "first_recorded": "2026-01-27T08:01:06.918717",
-    "last_recorded": "2026-02-01T08:01:13.578491",
+    "last_recorded": "2026-02-02T08:01:09.244212",
     "time_series": {
       "dates": [
         "2026-01-27T08:01:06.918717",
@@ -62,7 +62,8 @@
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
-        "2026-02-01T08:01:13.578491"
+        "2026-02-01T08:01:13.578491",
+        "2026-02-02T08:01:09.244212"
       ],
       "views_rank": [
         250,
@@ -70,13 +71,15 @@
         248,
         248,
         244,
-        241
+        241,
+        240
       ],
       "runs_rank": [
         249,
         242,
         228,
         227,
+        218,
         218,
         218
       ],
@@ -86,7 +89,8 @@
         245,
         257,
         220,
-        259
+        259,
+        250
       ]
     }
   },
@@ -110,7 +114,7 @@
     {
       "type": "positive",
       "title": "Hot Trend",
-      "description": "Up 9 positions in just 7 days - currently trending and gaining rapid visibility!"
+      "description": "Up 10 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

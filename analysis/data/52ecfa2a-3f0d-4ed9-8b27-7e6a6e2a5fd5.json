@@ -1,6 +1,6 @@
 {
   "agent_id": "52ecfa2a-3f0d-4ed9-8b27-7e6a6e2a5fd5",
-  "generated_at": "2026-02-01T00:01:24.639144",
+  "generated_at": "2026-02-02T00:01:21.015054",
   "basic_info": {
     "title": "Calorie Counter",
     "author": "wujin",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-07T12:55:04.113000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@wujin/calorie-counter",
-    "days_since_published": 116
+    "days_since_published": 117
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 138,
-      "runs_rank": 212,
-      "likes_rank": 146,
+      "runs_rank": 213,
+      "likes_rank": 127,
       "total_agents": 301,
       "views_percentile": 54.2,
-      "runs_percentile": 29.6,
-      "likes_percentile": 51.5
+      "runs_percentile": 29.2,
+      "likes_percentile": 57.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 99,
+    "days_tracked": 100,
     "price": 30.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 73,
+    "days_tracked": 74,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 0,
-      "likes_rank_change": 74
+      "runs_rank_change": 1,
+      "likes_rank_change": 55
     },
     "last_30_days": {
       "views_rank_change": 2,
-      "runs_rank_change": 10,
-      "likes_rank_change": 127
+      "runs_rank_change": 11,
+      "likes_rank_change": 108
     },
     "all_time": {
       "best_views_rank": 132,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 72,
+    "data_points": 73,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-01T08:01:13.578491",
+    "last_recorded": "2026-02-02T08:01:09.244212",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -128,7 +128,8 @@
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
-        "2026-02-01T08:01:13.578491"
+        "2026-02-01T08:01:13.578491",
+        "2026-02-02T08:01:09.244212"
       ],
       "views_rank": [
         null,
@@ -201,6 +202,7 @@
         138,
         138,
         137,
+        138,
         138,
         138
       ],
@@ -276,7 +278,8 @@
         212,
         212,
         212,
-        212
+        212,
+        213
       ],
       "likes_rank": [
         null,
@@ -350,7 +353,8 @@
         61,
         199,
         164,
-        146
+        146,
+        127
       ]
     }
   },

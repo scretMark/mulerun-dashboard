@@ -1,6 +1,6 @@
 {
   "agent_id": "f03d88a2-28ed-440f-8c81-46cdd68e96be",
-  "generated_at": "2026-02-01T00:01:25.104732",
+  "generated_at": "2026-02-02T00:01:21.409949",
   "basic_info": {
     "title": "The Humanizer ",
     "author": "Eren_kaif",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-24T21:31:24.066000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Eren_kaif/the-humanizer",
-    "days_since_published": 68
+    "days_since_published": 69
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 162,
       "runs_rank": 161,
-      "likes_rank": 252,
+      "likes_rank": 256,
       "total_agents": 301,
       "views_percentile": 46.2,
       "runs_percentile": 46.5,
-      "likes_percentile": 16.3
+      "likes_percentile": 15.0
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 63,
+    "days_tracked": 64,
     "price": 15.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 67,
+    "days_tracked": 68,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 1,
-      "likes_rank_change": 134
+      "likes_rank_change": 138
     },
     "last_30_days": {
       "views_rank_change": 2,
       "runs_rank_change": 8,
-      "likes_rank_change": 225
+      "likes_rank_change": 229
     },
     "all_time": {
       "best_views_rank": 156,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 63,
+    "data_points": 64,
     "first_recorded": "2025-11-26T08:00:32.046352",
-    "last_recorded": "2026-02-01T08:01:13.578491",
+    "last_recorded": "2026-02-02T08:01:09.244212",
     "time_series": {
       "dates": [
         "2025-11-26T08:00:32.046352",
@@ -119,7 +119,8 @@
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
-        "2026-02-01T08:01:13.578491"
+        "2026-02-01T08:01:13.578491",
+        "2026-02-02T08:01:09.244212"
       ],
       "views_rank": [
         null,
@@ -184,6 +185,7 @@
         161,
         162,
         162,
+        162,
         162
       ],
       "runs_rank": [
@@ -245,6 +247,7 @@
         160,
         160,
         160,
+        161,
         161,
         161,
         161,
@@ -314,7 +317,8 @@
         93,
         183,
         152,
-        252
+        252,
+        256
       ]
     }
   },

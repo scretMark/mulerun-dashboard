@@ -1,6 +1,6 @@
 {
   "agent_id": "50779f19-e630-4894-8db8-1b1839419eb6",
-  "generated_at": "2026-02-01T00:01:22.806560",
+  "generated_at": "2026-02-02T00:01:19.479572",
   "basic_info": {
     "title": "Nick Wilde Cosplay Filter",
     "author": "Lucas",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-05T20:03:18.006000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/nick-wilde-cosplay-filter",
-    "days_since_published": 87
+    "days_since_published": 88
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 95,
       "runs_rank": 208,
-      "likes_rank": 230,
+      "likes_rank": 198,
       "total_agents": 301,
       "views_percentile": 68.4,
       "runs_percentile": 30.9,
-      "likes_percentile": 23.6
+      "likes_percentile": 34.2
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 84,
+    "days_tracked": 85,
     "price": 49.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 73,
+    "days_tracked": 74,
     "last_7_days": {
       "views_rank_change": -4,
       "runs_rank_change": 0,
-      "likes_rank_change": -31
+      "likes_rank_change": -63
     },
     "last_30_days": {
       "views_rank_change": -3,
       "runs_rank_change": 12,
-      "likes_rank_change": 3
+      "likes_rank_change": -29
     },
     "all_time": {
       "best_views_rank": 95,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 72,
+    "data_points": 73,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-01T08:01:13.578491",
+    "last_recorded": "2026-02-02T08:01:09.244212",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -128,7 +128,8 @@
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
-        "2026-02-01T08:01:13.578491"
+        "2026-02-01T08:01:13.578491",
+        "2026-02-02T08:01:09.244212"
       ],
       "views_rank": [
         null,
@@ -202,6 +203,7 @@
         96,
         96,
         95,
+        95,
         95
       ],
       "runs_rank": [
@@ -271,6 +273,7 @@
         207,
         207,
         207,
+        208,
         208,
         208,
         208,
@@ -350,7 +353,8 @@
         230,
         213,
         296,
-        230
+        230,
+        198
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "4bf111d7-9e01-421e-9557-5da3ebb1c935",
-  "generated_at": "2026-02-01T00:01:25.033193",
+  "generated_at": "2026-02-02T00:01:21.348241",
   "basic_info": {
     "title": " Hand-Drawn Doodle Ads Generator",
     "author": "Aronlong",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-16T10:03:28.847000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aronlong/hand-drawn-doodle-ads-generator",
-    "days_since_published": 76
+    "days_since_published": 77
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 216,
       "runs_rank": 140,
-      "likes_rank": 147,
+      "likes_rank": 128,
       "total_agents": 301,
       "views_percentile": 28.2,
       "runs_percentile": 53.5,
-      "likes_percentile": 51.2
+      "likes_percentile": 57.5
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 71,
+    "days_tracked": 72,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 71,
+    "days_tracked": 72,
     "last_7_days": {
       "views_rank_change": 2,
       "runs_rank_change": 0,
-      "likes_rank_change": 24
+      "likes_rank_change": 5
     },
     "last_30_days": {
       "views_rank_change": 8,
       "runs_rank_change": 9,
-      "likes_rank_change": 126
+      "likes_rank_change": 107
     },
     "all_time": {
       "best_views_rank": 198,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 70,
+    "data_points": 71,
     "first_recorded": "2025-11-21T14:09:56.591648",
-    "last_recorded": "2026-02-01T08:01:13.578491",
+    "last_recorded": "2026-02-02T08:01:09.244212",
     "time_series": {
       "dates": [
         "2025-11-21T14:09:56.591648",
@@ -126,7 +126,8 @@
         "2026-01-29T08:01:09.639000",
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
-        "2026-02-01T08:01:13.578491"
+        "2026-02-01T08:01:13.578491",
+        "2026-02-02T08:01:09.244212"
       ],
       "views_rank": [
         null,
@@ -198,6 +199,7 @@
         214,
         214,
         214,
+        216,
         216
       ],
       "runs_rank": [
@@ -262,6 +264,7 @@
         137,
         138,
         138,
+        140,
         140,
         140,
         140,
@@ -342,7 +345,8 @@
         96,
         200,
         165,
-        147
+        147,
+        128
       ]
     }
   },
