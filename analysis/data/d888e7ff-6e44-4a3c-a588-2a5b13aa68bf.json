@@ -1,6 +1,6 @@
 {
   "agent_id": "d888e7ff-6e44-4a3c-a588-2a5b13aa68bf",
-  "generated_at": "2026-02-02T00:01:20.032513",
+  "generated_at": "2026-02-03T00:01:28.884698",
   "basic_info": {
     "title": "n8n stylist",
     "author": "summerail",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-04T14:40:15.184000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/n8n-stylist",
-    "days_since_published": 120
+    "days_since_published": 121
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 106,
       "runs_rank": 278,
-      "likes_rank": 137,
+      "likes_rank": 116,
       "total_agents": 301,
       "views_percentile": 64.8,
       "runs_percentile": 7.6,
-      "likes_percentile": 54.5
+      "likes_percentile": 61.5
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 118,
+    "days_tracked": 119,
     "price": 60.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 74,
+    "days_tracked": 75,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 3,
-      "likes_rank_change": -88
+      "likes_rank_change": -53
     },
     "last_30_days": {
       "views_rank_change": 7,
       "runs_rank_change": 12,
-      "likes_rank_change": 20
+      "likes_rank_change": -1
     },
     "all_time": {
       "best_views_rank": 97,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 73,
+    "data_points": 74,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-02T08:01:09.244212",
+    "last_recorded": "2026-02-03T08:01:17.619447",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -129,7 +129,8 @@
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
         "2026-02-01T08:01:13.578491",
-        "2026-02-02T08:01:09.244212"
+        "2026-02-02T08:01:09.244212",
+        "2026-02-03T08:01:17.619447"
       ],
       "views_rank": [
         null,
@@ -186,6 +187,7 @@
         103,
         104,
         105,
+        106,
         106,
         106,
         106,
@@ -279,6 +281,7 @@
         277,
         278,
         278,
+        278,
         278
       ],
       "likes_rank": [
@@ -354,7 +357,8 @@
         233,
         179,
         159,
-        137
+        137,
+        116
       ]
     }
   },

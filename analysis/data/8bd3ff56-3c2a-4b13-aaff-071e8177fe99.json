@@ -1,6 +1,6 @@
 {
   "agent_id": "8bd3ff56-3c2a-4b13-aaff-071e8177fe99",
-  "generated_at": "2026-02-02T00:01:21.943331",
+  "generated_at": "2026-02-03T00:01:31.359135",
   "basic_info": {
     "title": "Super Pet Styler",
     "author": "kai_tiane5y",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-16T18:44:25.415000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@kai_tiane5y/super-pet-styler",
-    "days_since_published": 47
+    "days_since_published": 48
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 165,
       "runs_rank": 76,
-      "likes_rank": 263,
+      "likes_rank": 192,
       "total_agents": 301,
       "views_percentile": 45.2,
       "runs_percentile": 74.8,
-      "likes_percentile": 12.6
+      "likes_percentile": 36.2
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 41,
+    "days_tracked": 42,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 45,
+    "days_tracked": 46,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": 200
+      "likes_rank_change": -87
     },
     "last_30_days": {
       "views_rank_change": 6,
       "runs_rank_change": 3,
-      "likes_rank_change": 149
+      "likes_rank_change": 78
     },
     "all_time": {
       "best_views_rank": 154,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 41,
+    "data_points": 42,
     "first_recorded": "2025-12-18T15:35:16.146705",
-    "last_recorded": "2026-02-02T08:01:09.244212",
+    "last_recorded": "2026-02-03T08:01:17.619447",
     "time_series": {
       "dates": [
         "2025-12-18T15:35:16.146705",
@@ -97,7 +97,8 @@
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
         "2026-02-01T08:01:13.578491",
-        "2026-02-02T08:01:09.244212"
+        "2026-02-02T08:01:09.244212",
+        "2026-02-03T08:01:17.619447"
       ],
       "views_rank": [
         171,
@@ -140,6 +141,7 @@
         166,
         168,
         168,
+        165,
         165
       ],
       "runs_rank": [
@@ -175,6 +177,7 @@
         74,
         74,
         75,
+        76,
         76,
         76,
         76,
@@ -226,7 +229,8 @@
         126,
         111,
         102,
-        263
+        263,
+        192
       ]
     }
   },

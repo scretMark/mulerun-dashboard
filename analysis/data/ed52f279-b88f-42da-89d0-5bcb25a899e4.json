@@ -1,6 +1,6 @@
 {
   "agent_id": "ed52f279-b88f-42da-89d0-5bcb25a899e4",
-  "generated_at": "2026-02-02T00:01:19.140040",
+  "generated_at": "2026-02-03T00:01:27.647807",
   "basic_info": {
     "title": "White Background",
     "author": "PicCopilot",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-11T19:24:00.925000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/white-background",
-    "days_since_published": 82
+    "days_since_published": 83
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 128,
       "runs_rank": 22,
-      "likes_rank": 282,
+      "likes_rank": 268,
       "total_agents": 301,
       "views_percentile": 57.5,
       "runs_percentile": 92.7,
-      "likes_percentile": 6.3
+      "likes_percentile": 11.0
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 80,
+    "days_tracked": 81,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 75,
+    "days_tracked": 76,
     "last_7_days": {
-      "views_rank_change": -4,
+      "views_rank_change": -3,
       "runs_rank_change": 0,
-      "likes_rank_change": 3
+      "likes_rank_change": 72
     },
     "last_30_days": {
       "views_rank_change": -21,
       "runs_rank_change": -3,
-      "likes_rank_change": 32
+      "likes_rank_change": 18
     },
     "all_time": {
       "best_views_rank": 128,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 74,
+    "data_points": 75,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-02-02T08:01:09.244212",
+    "last_recorded": "2026-02-03T08:01:17.619447",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -130,7 +130,8 @@
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
         "2026-02-01T08:01:13.578491",
-        "2026-02-02T08:01:09.244212"
+        "2026-02-02T08:01:09.244212",
+        "2026-02-03T08:01:17.619447"
       ],
       "views_rank": [
         null,
@@ -206,6 +207,7 @@
         129,
         129,
         129,
+        128,
         128
       ],
       "runs_rank": [
@@ -271,6 +273,7 @@
         23,
         23,
         23,
+        22,
         22,
         22,
         22,
@@ -358,7 +361,8 @@
         223,
         172,
         282,
-        282
+        282,
+        268
       ]
     }
   },

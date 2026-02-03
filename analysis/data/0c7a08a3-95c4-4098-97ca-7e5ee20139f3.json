@@ -1,60 +1,60 @@
 {
   "agent_id": "0c7a08a3-95c4-4098-97ca-7e5ee20139f3",
-  "generated_at": "2026-02-02T00:01:22.383216",
+  "generated_at": "2026-02-03T00:01:31.957053",
   "basic_info": {
     "title": "Restaurant Mockups Generator",
     "author": "jackbuilds",
-    "description": "Create lifelike restaurant mockups with real models enjoying a meal.\n",
+    "description": "Create lifelike restaurant mockups with real models enjoying a meal.",
     "short_description": "Creates realistic restaurant mockups featuring models and branding.",
     "category": "AI Agent",
     "is_active": true,
     "published_at": "2026-01-07T18:57:44.014000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@jackbuilds/restaurant-mockups-generator",
-    "days_since_published": 25
+    "days_since_published": 26
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 278,
-      "runs_rank": 264,
-      "likes_rank": 186,
+      "views_rank": 264,
+      "runs_rank": 242,
+      "likes_rank": 258,
       "total_agents": 301,
-      "views_percentile": 7.6,
-      "runs_percentile": 12.3,
-      "likes_percentile": 38.2
+      "views_percentile": 12.3,
+      "runs_percentile": 19.6,
+      "likes_percentile": 14.3
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 22,
+    "days_tracked": 23,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 23,
+    "days_tracked": 24,
     "last_7_days": {
-      "views_rank_change": -14,
-      "runs_rank_change": -25,
-      "likes_rank_change": -24
+      "views_rank_change": -28,
+      "runs_rank_change": -47,
+      "likes_rank_change": 95
     },
     "last_30_days": {
-      "views_rank_change": -10,
-      "runs_rank_change": -19,
-      "likes_rank_change": 43
+      "views_rank_change": -24,
+      "runs_rank_change": -41,
+      "likes_rank_change": 115
     },
     "all_time": {
-      "best_views_rank": 278,
-      "best_runs_rank": 264,
+      "best_views_rank": 264,
+      "best_runs_rank": 242,
       "best_likes_rank": 15,
       "days_in_top_10": 0,
       "first_rank": 288,
-      "current_rank": 278
+      "current_rank": 264
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 22,
+    "data_points": 23,
     "first_recorded": "2026-01-10T08:01:02.077885",
-    "last_recorded": "2026-02-02T08:01:09.244212",
+    "last_recorded": "2026-02-03T08:01:17.619447",
     "time_series": {
       "dates": [
         "2026-01-10T08:01:02.077885",
@@ -78,7 +78,8 @@
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
         "2026-02-01T08:01:13.578491",
-        "2026-02-02T08:01:09.244212"
+        "2026-02-02T08:01:09.244212",
+        "2026-02-03T08:01:17.619447"
       ],
       "views_rank": [
         288,
@@ -102,7 +103,8 @@
         292,
         278,
         278,
-        278
+        278,
+        264
       ],
       "runs_rank": [
         283,
@@ -126,7 +128,8 @@
         287,
         264,
         264,
-        264
+        264,
+        242
       ],
       "likes_rank": [
         143,
@@ -150,7 +153,8 @@
         267,
         275,
         215,
-        186
+        186,
+        258
       ]
     }
   },
@@ -168,13 +172,18 @@
   "insights": [
     {
       "type": "positive",
+      "title": "Rising Star",
+      "description": "Improved by 24 positions in views ranking over the last 30 days - showing strong momentum!"
+    },
+    {
+      "type": "positive",
       "title": "Growing Usage",
-      "description": "Runs ranking improved by 19 positions in the last 30 days - users are actively engaging with this agent!"
+      "description": "Runs ranking improved by 41 positions in the last 30 days - users are actively engaging with this agent!"
     },
     {
       "type": "positive",
       "title": "Hot Trend",
-      "description": "Up 14 positions in just 7 days - currently trending and gaining rapid visibility!"
+      "description": "Up 28 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

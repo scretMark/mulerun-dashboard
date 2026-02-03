@@ -1,6 +1,6 @@
 {
   "agent_id": "a63716fe-8230-49c7-8ea3-a9c1846e5e5c",
-  "generated_at": "2026-02-02T00:01:22.066672",
+  "generated_at": "2026-02-03T00:01:31.532896",
   "basic_info": {
     "title": "Viral Script Humanizer",
     "author": "pxzzf1010_cr73m",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-20T23:35:40.585000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@pxzzf1010_cr73m/viral-script-humanizer",
-    "days_since_published": 43
+    "days_since_published": 44
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 233,
       "runs_rank": 195,
-      "likes_rank": 292,
+      "likes_rank": 202,
       "total_agents": 301,
       "views_percentile": 22.6,
       "runs_percentile": 35.2,
-      "likes_percentile": 3.0
+      "likes_percentile": 32.9
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 36,
+    "days_tracked": 37,
     "price": 15.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "last_7_days": {
-      "views_rank_change": -6,
-      "runs_rank_change": 1,
-      "likes_rank_change": 75
+      "views_rank_change": -4,
+      "runs_rank_change": 0,
+      "likes_rank_change": -31
     },
     "last_30_days": {
       "views_rank_change": -3,
       "runs_rank_change": -3,
-      "likes_rank_change": 142
+      "likes_rank_change": 52
     },
     "all_time": {
       "best_views_rank": 233,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 37,
+    "data_points": 38,
     "first_recorded": "2025-12-23T08:00:59.635142",
-    "last_recorded": "2026-02-02T08:01:09.244212",
+    "last_recorded": "2026-02-03T08:01:17.619447",
     "time_series": {
       "dates": [
         "2025-12-23T08:00:59.635142",
@@ -93,7 +93,8 @@
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
         "2026-02-01T08:01:13.578491",
-        "2026-02-02T08:01:09.244212"
+        "2026-02-02T08:01:09.244212",
+        "2026-02-03T08:01:17.619447"
       ],
       "views_rank": [
         234,
@@ -132,6 +133,7 @@
         237,
         237,
         236,
+        233,
         233
       ],
       "runs_rank": [
@@ -166,6 +168,7 @@
         194,
         194,
         194,
+        195,
         195,
         195,
         195,
@@ -210,7 +213,8 @@
         273,
         206,
         253,
-        292
+        292,
+        202
       ]
     }
   },
@@ -227,9 +231,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "Hot Trend",
-      "description": "Up 6 positions in just 7 days - currently trending and gaining rapid visibility!"
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #233 out of 301 active agents."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "8cbc569d-cd48-4162-91f4-8689474c4320",
-  "generated_at": "2026-02-02T00:01:19.677458",
+  "generated_at": "2026-02-03T00:01:28.388874",
   "basic_info": {
     "title": "PDF 3D Flipbook",
     "author": "summerail",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-14T19:29:38.855000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/pdf-3d-flipbook",
-    "days_since_published": 110
+    "days_since_published": 111
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 175,
-      "runs_rank": 244,
-      "likes_rank": 117,
+      "runs_rank": 245,
+      "likes_rank": null,
       "total_agents": 301,
       "views_percentile": 41.9,
-      "runs_percentile": 18.9,
-      "likes_percentile": 61.1
+      "runs_percentile": 18.6,
+      "likes_percentile": 0
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 105,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 106,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 74,
+    "days_tracked": 75,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 4,
-      "likes_rank_change": 44
+      "runs_rank_change": 5,
+      "likes_rank_change": null
     },
     "last_30_days": {
       "views_rank_change": 8,
-      "runs_rank_change": 16,
-      "likes_rank_change": 17
+      "runs_rank_change": 17,
+      "likes_rank_change": null
     },
     "all_time": {
       "best_views_rank": 161,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 73,
+    "data_points": 74,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-02T08:01:09.244212",
+    "last_recorded": "2026-02-03T08:01:17.619447",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -129,7 +129,8 @@
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
         "2026-02-01T08:01:13.578491",
-        "2026-02-02T08:01:09.244212"
+        "2026-02-02T08:01:09.244212",
+        "2026-02-03T08:01:17.619447"
       ],
       "views_rank": [
         null,
@@ -201,6 +202,7 @@
         175,
         175,
         176,
+        175,
         175,
         175,
         175,
@@ -279,7 +281,8 @@
         243,
         244,
         244,
-        244
+        244,
+        245
       ],
       "likes_rank": [
         null,
@@ -354,7 +357,8 @@
         182,
         151,
         134,
-        117
+        117,
+        null
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "ad1c4d06-705b-47c4-b9f1-6abee261b6f9",
-  "generated_at": "2026-02-02T00:01:20.151427",
+  "generated_at": "2026-02-03T00:01:29.039884",
   "basic_info": {
     "title": "Food Image to Recipe",
     "author": "vktsbiy414205x1",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-07T20:08:53.831000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@vktsbiy414205x1/food-image-to-recipe",
-    "days_since_published": 117
+    "days_since_published": 118
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 41,
       "runs_rank": 30,
-      "likes_rank": 184,
+      "likes_rank": 154,
       "total_agents": 301,
       "views_percentile": 86.4,
       "runs_percentile": 90.0,
-      "likes_percentile": 38.9
+      "likes_percentile": 48.8
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 100,
+    "days_tracked": 101,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 74,
+    "days_tracked": 75,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": 12
+      "likes_rank_change": -91
     },
     "last_30_days": {
       "views_rank_change": 0,
       "runs_rank_change": 2,
-      "likes_rank_change": -65
+      "likes_rank_change": -95
     },
     "all_time": {
       "best_views_rank": 38,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 73,
+    "data_points": 74,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-02T08:01:09.244212",
+    "last_recorded": "2026-02-03T08:01:17.619447",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -129,7 +129,8 @@
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
         "2026-02-01T08:01:13.578491",
-        "2026-02-02T08:01:09.244212"
+        "2026-02-02T08:01:09.244212",
+        "2026-02-03T08:01:17.619447"
       ],
       "views_rank": [
         null,
@@ -186,6 +187,7 @@
         40,
         40,
         40,
+        41,
         41,
         41,
         41,
@@ -279,6 +281,7 @@
         30,
         30,
         30,
+        30,
         30
       ],
       "likes_rank": [
@@ -354,7 +357,8 @@
         144,
         272,
         213,
-        184
+        184,
+        154
       ]
     }
   },

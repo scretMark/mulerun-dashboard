@@ -1,6 +1,6 @@
 {
   "agent_id": "4bee3a8f-d8c4-4504-9984-5ff55659a871",
-  "generated_at": "2026-02-02T00:01:21.126401",
+  "generated_at": "2026-02-03T00:01:30.262937",
   "basic_info": {
     "title": "REMOVE Video Background",
     "author": "Darren",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-09T22:09:15.655000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/remove-video-background",
-    "days_since_published": 115
+    "days_since_published": 116
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 157,
       "runs_rank": 290,
-      "likes_rank": 59,
+      "likes_rank": 52,
       "total_agents": 301,
       "views_percentile": 47.8,
       "runs_percentile": 3.7,
-      "likes_percentile": 80.4
+      "likes_percentile": 82.7
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 111,
+    "days_tracked": 112,
     "price": 288.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 74,
+    "days_tracked": 75,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 3,
-      "likes_rank_change": -78
+      "likes_rank_change": -62
     },
     "last_30_days": {
       "views_rank_change": 1,
       "runs_rank_change": 17,
-      "likes_rank_change": -193
+      "likes_rank_change": -200
     },
     "all_time": {
       "best_views_rank": 153,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 73,
+    "data_points": 74,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-02T08:01:09.244212",
+    "last_recorded": "2026-02-03T08:01:17.619447",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -129,7 +129,8 @@
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
         "2026-02-01T08:01:13.578491",
-        "2026-02-02T08:01:09.244212"
+        "2026-02-02T08:01:09.244212",
+        "2026-02-03T08:01:17.619447"
       ],
       "views_rank": [
         null,
@@ -201,6 +202,7 @@
         156,
         156,
         156,
+        157,
         157,
         157,
         157,
@@ -279,6 +281,7 @@
         290,
         290,
         290,
+        290,
         290
       ],
       "likes_rank": [
@@ -354,7 +357,8 @@
         74,
         69,
         66,
-        59
+        59,
+        52
       ]
     }
   },
@@ -366,7 +370,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #59 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #52 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

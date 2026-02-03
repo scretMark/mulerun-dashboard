@@ -1,6 +1,6 @@
 {
   "agent_id": "ce336553-91a4-4e40-9ad5-a147eae50b23",
-  "generated_at": "2026-02-02T00:01:22.462684",
+  "generated_at": "2026-02-03T00:01:32.064727",
   "basic_info": {
     "title": "CoinSight Alpha - The Institutional Scalping Terminal",
     "author": "Gallmur",
@@ -11,35 +11,35 @@
     "published_at": "2026-01-22T09:01:17.384000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Gallmur/auditking",
-    "days_since_published": 10
+    "days_since_published": 11
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 272,
-      "runs_rank": 254,
-      "likes_rank": 75,
+      "views_rank": 274,
+      "runs_rank": 255,
+      "likes_rank": 287,
       "total_agents": 301,
-      "views_percentile": 9.6,
-      "runs_percentile": 15.6,
-      "likes_percentile": 75.1
+      "views_percentile": 9.0,
+      "runs_percentile": 15.3,
+      "likes_percentile": 4.7
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 9,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 10,
     "price": 70.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 10,
+    "days_tracked": 11,
     "last_7_days": {
-      "views_rank_change": 2,
-      "runs_rank_change": 3,
-      "likes_rank_change": -148
+      "views_rank_change": 4,
+      "runs_rank_change": 4,
+      "likes_rank_change": 120
     },
     "last_30_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": 5,
-      "likes_rank_change": -167
+      "views_rank_change": 3,
+      "runs_rank_change": 6,
+      "likes_rank_change": 45
     },
     "all_time": {
       "best_views_rank": 270,
@@ -47,14 +47,14 @@
       "best_likes_rank": 75,
       "days_in_top_10": 0,
       "first_rank": 271,
-      "current_rank": 272
+      "current_rank": 274
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 10,
+    "data_points": 11,
     "first_recorded": "2026-01-23T08:01:01.579068",
-    "last_recorded": "2026-02-02T08:01:09.244212",
+    "last_recorded": "2026-02-03T08:01:17.619447",
     "time_series": {
       "dates": [
         "2026-01-23T08:01:01.579068",
@@ -66,7 +66,8 @@
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
         "2026-02-01T08:01:13.578491",
-        "2026-02-02T08:01:09.244212"
+        "2026-02-02T08:01:09.244212",
+        "2026-02-03T08:01:17.619447"
       ],
       "views_rank": [
         271,
@@ -78,7 +79,8 @@
         272,
         272,
         272,
-        272
+        272,
+        274
       ],
       "runs_rank": [
         249,
@@ -90,7 +92,8 @@
         254,
         254,
         254,
-        254
+        254,
+        255
       ],
       "likes_rank": [
         242,
@@ -102,7 +105,8 @@
         null,
         89,
         84,
-        75
+        75,
+        287
       ]
     }
   },
@@ -121,7 +125,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #272 out of 301 active agents."
+      "description": "This agent is currently ranked #274 out of 301 active agents."
     }
   ]
 }

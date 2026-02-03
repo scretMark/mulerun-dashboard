@@ -1,6 +1,6 @@
 {
   "agent_id": "30f30c83-6e05-4dc6-b19a-92b00b517a4e",
-  "generated_at": "2026-02-02T00:01:22.204233",
+  "generated_at": "2026-02-03T00:01:31.729581",
   "basic_info": {
     "title": "Image to gif",
     "author": "freeya619",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-25T17:32:32.840000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@freeya619/img-to-gif",
-    "days_since_published": 38
+    "days_since_published": 39
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 244,
       "runs_rank": 148,
-      "likes_rank": 274,
+      "likes_rank": 230,
       "total_agents": 301,
       "views_percentile": 18.9,
       "runs_percentile": 50.8,
-      "likes_percentile": 9.0
+      "likes_percentile": 23.6
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 32,
+    "days_tracked": 33,
     "price": 2.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 37,
+    "days_tracked": 38,
     "last_7_days": {
       "views_rank_change": 2,
       "runs_rank_change": -1,
-      "likes_rank_change": 233
+      "likes_rank_change": 190
     },
     "last_30_days": {
       "views_rank_change": 9,
       "runs_rank_change": -9,
-      "likes_rank_change": 270
+      "likes_rank_change": 226
     },
     "all_time": {
       "best_views_rank": 229,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 33,
+    "data_points": 34,
     "first_recorded": "2025-12-27T08:01:00.423663",
-    "last_recorded": "2026-02-02T08:01:09.244212",
+    "last_recorded": "2026-02-03T08:01:17.619447",
     "time_series": {
       "dates": [
         "2025-12-27T08:01:00.423663",
@@ -89,7 +89,8 @@
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
         "2026-02-01T08:01:13.578491",
-        "2026-02-02T08:01:09.244212"
+        "2026-02-02T08:01:09.244212",
+        "2026-02-03T08:01:17.619447"
       ],
       "views_rank": [
         229,
@@ -124,6 +125,7 @@
         244,
         245,
         245,
+        244,
         244
       ],
       "runs_rank": [
@@ -159,6 +161,7 @@
         150,
         150,
         150,
+        148,
         148
       ],
       "likes_rank": [
@@ -194,7 +197,8 @@
         30,
         30,
         29,
-        274
+        274,
+        230
       ]
     }
   },

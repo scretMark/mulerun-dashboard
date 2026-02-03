@@ -1,6 +1,6 @@
 {
   "agent_id": "b5076538-6a9f-4436-9116-7a611066782f",
-  "generated_at": "2026-02-02T00:01:22.011071",
+  "generated_at": "2026-02-03T00:01:31.460036",
   "basic_info": {
     "title": "Tiny Me in a Jar",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-19T16:29:05.699000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/tiny-me-in-a-jar",
-    "days_since_published": 44
+    "days_since_published": 45
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 300,
       "runs_rank": 298,
-      "likes_rank": 251,
+      "likes_rank": 187,
       "total_agents": 301,
       "views_percentile": 0.3,
       "runs_percentile": 1.0,
-      "likes_percentile": 16.6
+      "likes_percentile": 37.9
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 39,
+    "days_tracked": 40,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 44,
+    "days_tracked": 45,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 2,
-      "likes_rank_change": 227
+      "likes_rank_change": 164
     },
     "last_30_days": {
       "views_rank_change": 19,
       "runs_rank_change": 17,
-      "likes_rank_change": 94
+      "likes_rank_change": 30
     },
     "all_time": {
       "best_views_rank": 274,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 40,
+    "data_points": 41,
     "first_recorded": "2025-12-20T08:01:00.398750",
-    "last_recorded": "2026-02-02T08:01:09.244212",
+    "last_recorded": "2026-02-03T08:01:17.619447",
     "time_series": {
       "dates": [
         "2025-12-20T08:01:00.398750",
@@ -96,7 +96,8 @@
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
         "2026-02-01T08:01:13.578491",
-        "2026-02-02T08:01:09.244212"
+        "2026-02-02T08:01:09.244212",
+        "2026-02-03T08:01:17.619447"
       ],
       "views_rank": [
         null,
@@ -138,6 +139,7 @@
         301,
         301,
         301,
+        300,
         300
       ],
       "runs_rank": [
@@ -177,6 +179,7 @@
         296,
         296,
         297,
+        298,
         298,
         298,
         298,
@@ -222,7 +225,8 @@
         18,
         18,
         17,
-        251
+        251,
+        187
       ]
     }
   },

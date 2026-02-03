@@ -1,6 +1,6 @@
 {
   "agent_id": "a96fb74c-e249-420a-b8ee-5a4914881a89",
-  "generated_at": "2026-02-02T00:01:22.056045",
+  "generated_at": "2026-02-03T00:01:31.516286",
   "basic_info": {
     "title": "Great Wall Memory Portrait",
     "author": "Matt",
@@ -11,50 +11,50 @@
     "published_at": "2025-12-19T18:22:14.659000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Matt/great-wall-memory-portrait",
-    "days_since_published": 44
+    "days_since_published": 45
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 209,
+      "views_rank": 210,
       "runs_rank": 136,
-      "likes_rank": 13,
+      "likes_rank": 12,
       "total_agents": 301,
-      "views_percentile": 30.6,
+      "views_percentile": 30.2,
       "runs_percentile": 54.8,
-      "likes_percentile": 95.7
+      "likes_percentile": 96.0
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 36,
+    "days_tracked": 37,
     "price": 55.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 1,
       "likes_rank_change": -8
     },
     "last_30_days": {
-      "views_rank_change": 10,
+      "views_rank_change": 11,
       "runs_rank_change": 9,
-      "likes_rank_change": -135
+      "likes_rank_change": -136
     },
     "all_time": {
       "best_views_rank": 193,
       "best_runs_rank": 124,
-      "best_likes_rank": 13,
+      "best_likes_rank": 12,
       "days_in_top_10": 0,
       "first_rank": 197,
-      "current_rank": 209
+      "current_rank": 210
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 37,
+    "data_points": 38,
     "first_recorded": "2025-12-23T08:00:59.635142",
-    "last_recorded": "2026-02-02T08:01:09.244212",
+    "last_recorded": "2026-02-03T08:01:17.619447",
     "time_series": {
       "dates": [
         "2025-12-23T08:00:59.635142",
@@ -93,7 +93,8 @@
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
         "2026-02-01T08:01:13.578491",
-        "2026-02-02T08:01:09.244212"
+        "2026-02-02T08:01:09.244212",
+        "2026-02-03T08:01:17.619447"
       ],
       "views_rank": [
         197,
@@ -132,7 +133,8 @@
         209,
         209,
         209,
-        209
+        209,
+        210
       ],
       "runs_rank": [
         124,
@@ -169,6 +171,7 @@
         135,
         135,
         135,
+        136,
         136,
         136,
         136
@@ -210,7 +213,8 @@
         15,
         15,
         14,
-        13
+        13,
+        12
       ]
     }
   },
@@ -229,7 +233,12 @@
     {
       "type": "positive",
       "title": "Elite Performance",
-      "description": "Ranked #13 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+      "description": "Ranked #12 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
+    },
+    {
+      "type": "warning",
+      "title": "Declining Ranking",
+      "description": "Dropped 11 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

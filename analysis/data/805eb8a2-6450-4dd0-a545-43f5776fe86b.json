@@ -1,6 +1,6 @@
 {
   "agent_id": "805eb8a2-6450-4dd0-a545-43f5776fe86b",
-  "generated_at": "2026-02-02T00:01:22.413894",
+  "generated_at": "2026-02-03T00:01:31.997532",
   "basic_info": {
     "title": "YouTube StudySlice",
     "author": "laughing_code",
@@ -11,17 +11,17 @@
     "published_at": "2026-01-05T09:54:17.078000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@laughing_code/youtube-studyslice",
-    "days_since_published": 27
+    "days_since_published": 28
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 254,
       "runs_rank": 200,
-      "likes_rank": 115,
+      "likes_rank": 98,
       "total_agents": 301,
       "views_percentile": 15.6,
       "runs_percentile": 33.6,
-      "likes_percentile": 61.8
+      "likes_percentile": 67.4
     },
     "tier": "Mid",
     "tier_class": "mid",
@@ -30,16 +30,16 @@
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 18,
+    "days_tracked": 19,
     "last_7_days": {
       "views_rank_change": 2,
       "runs_rank_change": -2,
-      "likes_rank_change": -141
+      "likes_rank_change": -79
     },
     "last_30_days": {
       "views_rank_change": -6,
       "runs_rank_change": -2,
-      "likes_rank_change": -101
+      "likes_rank_change": -118
     },
     "all_time": {
       "best_views_rank": 252,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 17,
+    "data_points": 18,
     "first_recorded": "2026-01-15T08:01:02.601407",
-    "last_recorded": "2026-02-02T08:01:09.244212",
+    "last_recorded": "2026-02-03T08:01:17.619447",
     "time_series": {
       "dates": [
         "2026-01-15T08:01:02.601407",
@@ -73,7 +73,8 @@
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
         "2026-02-01T08:01:13.578491",
-        "2026-02-02T08:01:09.244212"
+        "2026-02-02T08:01:09.244212",
+        "2026-02-03T08:01:17.619447"
       ],
       "views_rank": [
         260,
@@ -89,6 +90,7 @@
         252,
         252,
         253,
+        254,
         254,
         254,
         254,
@@ -111,6 +113,7 @@
         199,
         200,
         200,
+        200,
         200
       ],
       "likes_rank": [
@@ -130,7 +133,8 @@
         177,
         146,
         131,
-        115
+        115,
+        98
       ]
     }
   },

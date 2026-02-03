@@ -1,6 +1,6 @@
 {
   "agent_id": "3079e928-f57b-462a-94f8-a041b78534dd",
-  "generated_at": "2026-02-02T00:01:19.520684",
+  "generated_at": "2026-02-03T00:01:28.188419",
   "basic_info": {
     "title": "Mindmap Generator",
     "author": "AngryBerry",
@@ -11,40 +11,40 @@
     "published_at": "2025-10-29T16:06:11.635000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AngryBerry/mindmap-generator",
-    "days_since_published": 95
+    "days_since_published": 96
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 40,
       "runs_rank": 117,
-      "likes_rank": 88,
+      "likes_rank": 73,
       "total_agents": 301,
       "views_percentile": 86.7,
       "runs_percentile": 61.1,
-      "likes_percentile": 70.8
+      "likes_percentile": 75.7
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 92,
+    "days_tracked": 93,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 74,
+    "days_tracked": 75,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 2,
-      "likes_rank_change": -210
+      "runs_rank_change": 1,
+      "likes_rank_change": -168
     },
     "last_30_days": {
       "views_rank_change": 3,
       "runs_rank_change": 5,
-      "likes_rank_change": -178
+      "likes_rank_change": -193
     },
     "all_time": {
       "best_views_rank": 35,
       "best_runs_rank": 106,
-      "best_likes_rank": 80,
+      "best_likes_rank": 73,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 40
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 73,
+    "data_points": 74,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-02T08:01:09.244212",
+    "last_recorded": "2026-02-03T08:01:17.619447",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -129,7 +129,8 @@
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
         "2026-02-01T08:01:13.578491",
-        "2026-02-02T08:01:09.244212"
+        "2026-02-02T08:01:09.244212",
+        "2026-02-03T08:01:17.619447"
       ],
       "views_rank": [
         null,
@@ -186,6 +187,7 @@
         38,
         38,
         39,
+        40,
         40,
         40,
         40,
@@ -279,6 +281,7 @@
         117,
         117,
         117,
+        117,
         117
       ],
       "likes_rank": [
@@ -354,7 +357,8 @@
         121,
         107,
         99,
-        88
+        88,
+        73
       ]
     }
   },

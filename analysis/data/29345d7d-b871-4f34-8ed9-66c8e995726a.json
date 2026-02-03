@@ -1,6 +1,6 @@
 {
   "agent_id": "29345d7d-b871-4f34-8ed9-66c8e995726a",
-  "generated_at": "2026-02-02T00:01:21.027226",
+  "generated_at": "2026-02-03T00:01:30.129325",
   "basic_info": {
     "title": "Can Kitty Eat",
     "author": "wujin",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-07T13:04:27.727000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@wujin/can-kitty-eat",
-    "days_since_published": 117
+    "days_since_published": 118
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 154,
+      "views_rank": 155,
       "runs_rank": 225,
-      "likes_rank": 226,
+      "likes_rank": 175,
       "total_agents": 301,
-      "views_percentile": 48.8,
+      "views_percentile": 48.5,
       "runs_percentile": 25.2,
-      "likes_percentile": 24.9
+      "likes_percentile": 41.9
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 100,
+    "days_tracked": 101,
     "price": 30.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 74,
+    "days_tracked": 75,
     "last_7_days": {
-      "views_rank_change": -1,
+      "views_rank_change": 0,
       "runs_rank_change": 1,
-      "likes_rank_change": 88
+      "likes_rank_change": 60
     },
     "last_30_days": {
-      "views_rank_change": 6,
+      "views_rank_change": 7,
       "runs_rank_change": 14,
-      "likes_rank_change": -45
+      "likes_rank_change": -96
     },
     "all_time": {
       "best_views_rank": 140,
@@ -47,14 +47,14 @@
       "best_likes_rank": 77,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 154
+      "current_rank": 155
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 73,
+    "data_points": 74,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-02T08:01:09.244212",
+    "last_recorded": "2026-02-03T08:01:17.619447",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -129,7 +129,8 @@
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
         "2026-02-01T08:01:13.578491",
-        "2026-02-02T08:01:09.244212"
+        "2026-02-02T08:01:09.244212",
+        "2026-02-03T08:01:17.619447"
       ],
       "views_rank": [
         null,
@@ -204,7 +205,8 @@
         155,
         155,
         154,
-        154
+        154,
+        155
       ],
       "runs_rank": [
         null,
@@ -277,6 +279,7 @@
         224,
         224,
         224,
+        225,
         225,
         225,
         225
@@ -354,7 +357,8 @@
         294,
         214,
         285,
-        226
+        226,
+        175
       ]
     }
   },
@@ -366,7 +370,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #154 out of 301 active agents."
+      "description": "This agent is currently ranked #155 out of 301 active agents."
     }
   ]
 }

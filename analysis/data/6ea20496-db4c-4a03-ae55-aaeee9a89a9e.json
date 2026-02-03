@@ -1,6 +1,6 @@
 {
   "agent_id": "6ea20496-db4c-4a03-ae55-aaeee9a89a9e",
-  "generated_at": "2026-02-02T00:01:19.971569",
+  "generated_at": "2026-02-03T00:01:28.807954",
   "basic_info": {
     "title": "AI Relationship Mapper",
     "author": "TrallerTeam",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-30T18:05:40.234000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@TrallerTeam/ai-relationship-mapper",
-    "days_since_published": 94
+    "days_since_published": 95
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 44,
       "runs_rank": 54,
-      "likes_rank": 283,
+      "likes_rank": 215,
       "total_agents": 301,
       "views_percentile": 85.4,
       "runs_percentile": 82.1,
-      "likes_percentile": 6.0
+      "likes_percentile": 28.6
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 105,
+    "days_tracked": 106,
     "price": 20.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 74,
+    "days_tracked": 75,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": 13
+      "likes_rank_change": 1
     },
     "last_30_days": {
       "views_rank_change": 1,
       "runs_rank_change": 3,
-      "likes_rank_change": 20
+      "likes_rank_change": -48
     },
     "all_time": {
       "best_views_rank": 39,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 73,
+    "data_points": 74,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-02T08:01:09.244212",
+    "last_recorded": "2026-02-03T08:01:17.619447",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -129,7 +129,8 @@
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
         "2026-02-01T08:01:13.578491",
-        "2026-02-02T08:01:09.244212"
+        "2026-02-02T08:01:09.244212",
+        "2026-02-03T08:01:17.619447"
       ],
       "views_rank": [
         null,
@@ -184,6 +185,7 @@
         43,
         43,
         43,
+        44,
         44,
         44,
         44,
@@ -279,6 +281,7 @@
         54,
         54,
         54,
+        54,
         54
       ],
       "likes_rank": [
@@ -354,7 +357,8 @@
         159,
         263,
         208,
-        283
+        283,
+        215
       ]
     }
   },

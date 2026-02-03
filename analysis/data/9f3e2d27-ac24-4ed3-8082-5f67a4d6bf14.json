@@ -1,6 +1,6 @@
 {
   "agent_id": "9f3e2d27-ac24-4ed3-8082-5f67a4d6bf14",
-  "generated_at": "2026-02-02T00:01:21.650013",
+  "generated_at": "2026-02-03T00:01:30.965081",
   "basic_info": {
     "title": "Fireworks Show",
     "author": "LinkAIBrain",
@@ -11,26 +11,26 @@
     "published_at": "2025-12-03T11:04:04.300000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/fireworks-show",
-    "days_since_published": 60
+    "days_since_published": 61
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 219,
       "runs_rank": 236,
-      "likes_rank": 141,
+      "likes_rank": 119,
       "total_agents": 301,
       "views_percentile": 27.2,
       "runs_percentile": 21.6,
-      "likes_percentile": 53.2
+      "likes_percentile": 60.5
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 53,
+    "days_tracked": 54,
     "price": 500.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 54,
+    "days_tracked": 55,
     "last_7_days": {
       "views_rank_change": -2,
       "runs_rank_change": 2,
@@ -39,7 +39,7 @@
     "last_30_days": {
       "views_rank_change": 0,
       "runs_rank_change": 15,
-      "likes_rank_change": 60
+      "likes_rank_change": 38
     },
     "all_time": {
       "best_views_rank": 215,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 53,
+    "data_points": 54,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2026-02-02T08:01:09.244212",
+    "last_recorded": "2026-02-03T08:01:17.619447",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
@@ -109,7 +109,8 @@
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
         "2026-02-01T08:01:13.578491",
-        "2026-02-02T08:01:09.244212"
+        "2026-02-02T08:01:09.244212",
+        "2026-02-03T08:01:17.619447"
       ],
       "views_rank": [
         null,
@@ -164,6 +165,7 @@
         219,
         219,
         219,
+        219,
         219
       ],
       "runs_rank": [
@@ -215,6 +217,7 @@
         234,
         234,
         234,
+        236,
         236,
         236,
         236,
@@ -274,7 +277,8 @@
         240,
         185,
         163,
-        141
+        141,
+        119
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "910d7312-122e-4fdd-a71a-32461ad1319c",
-  "generated_at": "2026-02-02T00:01:21.638245",
+  "generated_at": "2026-02-03T00:01:30.951086",
   "basic_info": {
     "title": "Cute Pet Outfit Generate",
     "author": "8bit",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-08T21:17:46.986000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/cute-pet-outfit-generate",
-    "days_since_published": 55
+    "days_since_published": 56
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 280,
       "runs_rank": 230,
-      "likes_rank": 163,
+      "likes_rank": 139,
       "total_agents": 301,
       "views_percentile": 7.0,
       "runs_percentile": 23.6,
-      "likes_percentile": 45.8
+      "likes_percentile": 53.8
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 53,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 54,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 54,
+    "days_tracked": 55,
     "last_7_days": {
       "views_rank_change": 2,
       "runs_rank_change": 2,
-      "likes_rank_change": 0
+      "likes_rank_change": 6
     },
     "last_30_days": {
       "views_rank_change": 15,
       "runs_rank_change": 15,
-      "likes_rank_change": 69
+      "likes_rank_change": 45
     },
     "all_time": {
       "best_views_rank": 236,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 53,
+    "data_points": 54,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2026-02-02T08:01:09.244212",
+    "last_recorded": "2026-02-03T08:01:17.619447",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
@@ -109,7 +109,8 @@
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
         "2026-02-01T08:01:13.578491",
-        "2026-02-02T08:01:09.244212"
+        "2026-02-02T08:01:09.244212",
+        "2026-02-03T08:01:17.619447"
       ],
       "views_rank": [
         null,
@@ -164,6 +165,7 @@
         280,
         280,
         280,
+        280,
         280
       ],
       "runs_rank": [
@@ -215,6 +217,7 @@
         228,
         228,
         228,
+        230,
         230,
         230,
         230,
@@ -274,7 +277,8 @@
         82,
         224,
         189,
-        163
+        163,
+        139
       ]
     }
   },

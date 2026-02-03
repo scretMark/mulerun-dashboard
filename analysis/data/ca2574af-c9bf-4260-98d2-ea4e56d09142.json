@@ -1,6 +1,6 @@
 {
   "agent_id": "ca2574af-c9bf-4260-98d2-ea4e56d09142",
-  "generated_at": "2026-02-02T00:01:20.272325",
+  "generated_at": "2026-02-03T00:01:29.199385",
   "basic_info": {
     "title": "FilmFace Changer",
     "author": "Darren",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-29T20:46:29.926000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/filmface-changer",
-    "days_since_published": 125
+    "days_since_published": 126
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 114,
       "runs_rank": 132,
-      "likes_rank": 42,
+      "likes_rank": 37,
       "total_agents": 301,
       "views_percentile": 62.1,
       "runs_percentile": 56.1,
-      "likes_percentile": 86.0
+      "likes_percentile": 87.7
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 95,
+    "days_tracked": 96,
     "price": 66.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 74,
+    "days_tracked": 75,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 0,
-      "likes_rank_change": -45
+      "likes_rank_change": -42
     },
     "last_30_days": {
       "views_rank_change": 2,
       "runs_rank_change": 10,
-      "likes_rank_change": 20
+      "likes_rank_change": 15
     },
     "all_time": {
       "best_views_rank": 108,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 73,
+    "data_points": 74,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-02T08:01:09.244212",
+    "last_recorded": "2026-02-03T08:01:17.619447",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -129,7 +129,8 @@
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
         "2026-02-01T08:01:13.578491",
-        "2026-02-02T08:01:09.244212"
+        "2026-02-02T08:01:09.244212",
+        "2026-02-03T08:01:17.619447"
       ],
       "views_rank": [
         null,
@@ -204,6 +205,7 @@
         113,
         113,
         114,
+        114,
         114
       ],
       "runs_rank": [
@@ -270,6 +272,7 @@
         128,
         129,
         129,
+        132,
         132,
         132,
         132,
@@ -354,7 +357,8 @@
         53,
         null,
         47,
-        42
+        42,
+        37
       ]
     }
   },
@@ -366,7 +370,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #42 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #37 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

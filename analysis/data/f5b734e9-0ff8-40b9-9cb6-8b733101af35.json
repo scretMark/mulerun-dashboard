@@ -1,6 +1,6 @@
 {
   "agent_id": "f5b734e9-0ff8-40b9-9cb6-8b733101af35",
-  "generated_at": "2026-02-02T00:01:20.385651",
+  "generated_at": "2026-02-03T00:01:29.353755",
   "basic_info": {
     "title": "Micro-Course Builder",
     "author": "qdtqhbeim395zbp",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-16T12:26:13.461000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@qdtqhbeim395zbp/micro-course-builder",
-    "days_since_published": 108
+    "days_since_published": 109
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 153,
-      "runs_rank": 177,
-      "likes_rank": 231,
+      "runs_rank": 178,
+      "likes_rank": 178,
       "total_agents": 301,
       "views_percentile": 49.2,
-      "runs_percentile": 41.2,
-      "likes_percentile": 23.3
+      "runs_percentile": 40.9,
+      "likes_percentile": 40.9
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 102,
+    "days_tracked": 103,
     "price": 30.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 74,
+    "days_tracked": 75,
     "last_7_days": {
-      "views_rank_change": -1,
+      "views_rank_change": 0,
       "runs_rank_change": -3,
-      "likes_rank_change": 98
+      "likes_rank_change": -111
     },
     "last_30_days": {
       "views_rank_change": 2,
-      "runs_rank_change": -4,
-      "likes_rank_change": 175
+      "runs_rank_change": -3,
+      "likes_rank_change": 122
     },
     "all_time": {
       "best_views_rank": 149,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 73,
+    "data_points": 74,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-02T08:01:09.244212",
+    "last_recorded": "2026-02-03T08:01:17.619447",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -129,7 +129,8 @@
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
         "2026-02-01T08:01:13.578491",
-        "2026-02-02T08:01:09.244212"
+        "2026-02-02T08:01:09.244212",
+        "2026-02-03T08:01:17.619447"
       ],
       "views_rank": [
         null,
@@ -199,6 +200,7 @@
         153,
         153,
         154,
+        153,
         153,
         153,
         153,
@@ -279,7 +281,8 @@
         179,
         179,
         177,
-        177
+        177,
+        178
       ],
       "likes_rank": [
         null,
@@ -354,7 +357,8 @@
         129,
         114,
         293,
-        231
+        231,
+        178
       ]
     }
   },

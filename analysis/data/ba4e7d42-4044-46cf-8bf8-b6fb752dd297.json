@@ -1,6 +1,6 @@
 {
   "agent_id": "ba4e7d42-4044-46cf-8bf8-b6fb752dd297",
-  "generated_at": "2026-02-02T00:01:22.297569",
+  "generated_at": "2026-02-03T00:01:31.853369",
   "basic_info": {
     "title": "idea2Clip-Vlog and Podcast Generator",
     "author": "Aurafall",
@@ -11,39 +11,39 @@
     "published_at": "2025-12-24T18:40:34.503000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Aurafall/1111",
-    "days_since_published": 39
+    "days_since_published": 40
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 141,
-      "runs_rank": 49,
-      "likes_rank": 290,
+      "runs_rank": 47,
+      "likes_rank": 214,
       "total_agents": 301,
       "views_percentile": 53.2,
-      "runs_percentile": 83.7,
-      "likes_percentile": 3.7
+      "runs_percentile": 84.4,
+      "likes_percentile": 28.9
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 28,
+    "days_tracked": 29,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 27,
+    "days_tracked": 29,
     "last_7_days": {
-      "views_rank_change": -6,
+      "views_rank_change": -3,
       "runs_rank_change": -4,
-      "likes_rank_change": 57
+      "likes_rank_change": -17
     },
     "last_30_days": {
       "views_rank_change": -45,
-      "runs_rank_change": -74,
-      "likes_rank_change": 203
+      "runs_rank_change": -76,
+      "likes_rank_change": 127
     },
     "all_time": {
       "best_views_rank": 141,
-      "best_runs_rank": 49,
+      "best_runs_rank": 47,
       "best_likes_rank": 87,
       "days_in_top_10": 0,
       "first_rank": 186,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 26,
+    "data_points": 27,
     "first_recorded": "2026-01-05T08:01:10.022221",
-    "last_recorded": "2026-02-02T08:01:09.244212",
+    "last_recorded": "2026-02-03T08:01:17.619447",
     "time_series": {
       "dates": [
         "2026-01-05T08:01:10.022221",
@@ -82,7 +82,8 @@
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
         "2026-02-01T08:01:13.578491",
-        "2026-02-02T08:01:09.244212"
+        "2026-02-02T08:01:09.244212",
+        "2026-02-03T08:01:17.619447"
       ],
       "views_rank": [
         186,
@@ -109,6 +110,7 @@
         143,
         142,
         142,
+        141,
         141,
         141
       ],
@@ -138,7 +140,8 @@
         51,
         51,
         51,
-        49
+        49,
+        47
       ],
       "likes_rank": [
         87,
@@ -166,7 +169,8 @@
         264,
         226,
         290,
-        290
+        290,
+        214
       ]
     }
   },
@@ -185,7 +189,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #49 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #47 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     },
     {
       "type": "positive",
@@ -195,12 +199,7 @@
     {
       "type": "positive",
       "title": "Growing Usage",
-      "description": "Runs ranking improved by 74 positions in the last 30 days - users are actively engaging with this agent!"
-    },
-    {
-      "type": "positive",
-      "title": "Hot Trend",
-      "description": "Up 6 positions in just 7 days - currently trending and gaining rapid visibility!"
+      "description": "Runs ranking improved by 76 positions in the last 30 days - users are actively engaging with this agent!"
     }
   ]
 }

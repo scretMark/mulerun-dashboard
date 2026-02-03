@@ -1,6 +1,6 @@
 {
   "agent_id": "2d7a8a1b-4257-4cab-93e5-d790fe1ff807",
-  "generated_at": "2026-02-02T00:01:22.044089",
+  "generated_at": "2026-02-03T00:01:31.499935",
   "basic_info": {
     "title": "Shorts Script Factory",
     "author": "ali_mohammed2tm",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-18T02:09:10.785000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@ali_mohammed2tm/shorts-script-factory",
-    "days_since_published": 45
+    "days_since_published": 46
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 168,
       "runs_rank": 130,
-      "likes_rank": 179,
+      "likes_rank": 149,
       "total_agents": 301,
       "views_percentile": 44.2,
       "runs_percentile": 56.8,
-      "likes_percentile": 40.5
+      "likes_percentile": 50.5
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 36,
+    "days_tracked": 37,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 41,
+    "days_tracked": 42,
     "last_7_days": {
-      "views_rank_change": -3,
+      "views_rank_change": 2,
       "runs_rank_change": 0,
-      "likes_rank_change": -37
+      "likes_rank_change": -86
     },
     "last_30_days": {
       "views_rank_change": -6,
       "runs_rank_change": 9,
-      "likes_rank_change": 128
+      "likes_rank_change": 98
     },
     "all_time": {
       "best_views_rank": 166,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 37,
+    "data_points": 38,
     "first_recorded": "2025-12-23T08:00:59.635142",
-    "last_recorded": "2026-02-02T08:01:09.244212",
+    "last_recorded": "2026-02-03T08:01:17.619447",
     "time_series": {
       "dates": [
         "2025-12-23T08:00:59.635142",
@@ -93,7 +93,8 @@
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
         "2026-02-01T08:01:13.578491",
-        "2026-02-02T08:01:09.244212"
+        "2026-02-02T08:01:09.244212",
+        "2026-02-03T08:01:17.619447"
       ],
       "views_rank": [
         186,
@@ -132,6 +133,7 @@
         167,
         167,
         167,
+        168,
         168
       ],
       "runs_rank": [
@@ -162,6 +164,7 @@
         126,
         127,
         127,
+        130,
         130,
         130,
         130,
@@ -210,7 +213,8 @@
         149,
         258,
         206,
-        179
+        179,
+        149
       ]
     }
   },

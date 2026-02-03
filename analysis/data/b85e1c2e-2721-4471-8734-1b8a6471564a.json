@@ -1,6 +1,6 @@
 {
   "agent_id": "b85e1c2e-2721-4471-8734-1b8a6471564a",
-  "generated_at": "2026-02-02T00:01:19.737725",
+  "generated_at": "2026-02-03T00:01:28.479006",
   "basic_info": {
     "title": "Photo to Sticker",
     "author": "Zane29222",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-11T11:10:42.694000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Zane29222/photo-to-sticker",
-    "days_since_published": 113
+    "days_since_published": 114
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 107,
       "runs_rank": 73,
-      "likes_rank": 272,
+      "likes_rank": 197,
       "total_agents": 301,
       "views_percentile": 64.5,
       "runs_percentile": 75.7,
-      "likes_percentile": 9.6
+      "likes_percentile": 34.6
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 95,
+    "days_tracked": 96,
     "price": 40.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 74,
+    "days_tracked": 75,
     "last_7_days": {
       "views_rank_change": -2,
       "runs_rank_change": 0,
-      "likes_rank_change": 65
+      "likes_rank_change": 35
     },
     "last_30_days": {
       "views_rank_change": 0,
       "runs_rank_change": 2,
-      "likes_rank_change": 200
+      "likes_rank_change": 125
     },
     "all_time": {
       "best_views_rank": 104,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 73,
+    "data_points": 74,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-02T08:01:09.244212",
+    "last_recorded": "2026-02-03T08:01:17.619447",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -129,7 +129,8 @@
         "2026-01-30T08:01:10.448186",
         "2026-01-31T08:01:13.061776",
         "2026-02-01T08:01:13.578491",
-        "2026-02-02T08:01:09.244212"
+        "2026-02-02T08:01:09.244212",
+        "2026-02-03T08:01:17.619447"
       ],
       "views_rank": [
         null,
@@ -204,6 +205,7 @@
         109,
         108,
         108,
+        107,
         107
       ],
       "runs_rank": [
@@ -273,6 +275,7 @@
         72,
         72,
         72,
+        73,
         73,
         73,
         73,
@@ -354,7 +357,8 @@
         99,
         265,
         210,
-        272
+        272,
+        197
       ]
     }
   },
