@@ -1,6 +1,6 @@
 {
   "agent_id": "54a4873e-385b-4f10-931a-902d98e40bd3",
-  "generated_at": "2026-02-03T00:01:30.441154",
+  "generated_at": "2026-02-04T00:01:19.619234",
   "basic_info": {
     "title": "Teams Calling AI Advisor",
     "author": "xnexpstwmg34pd3",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-20T19:29:02.092000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@xnexpstwmg34pd3/teams-calling-ai-advisor",
-    "days_since_published": 105
+    "days_since_published": 106
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 227,
+      "views_rank": 228,
       "runs_rank": 265,
-      "likes_rank": 145,
+      "likes_rank": 187,
       "total_agents": 301,
-      "views_percentile": 24.6,
+      "views_percentile": 24.3,
       "runs_percentile": 12.0,
-      "likes_percentile": 51.8
+      "likes_percentile": 37.9
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 100,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 101,
     "price": 5.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 75,
+    "days_tracked": 76,
     "last_7_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": 5,
-      "likes_rank_change": 9
+      "views_rank_change": -1,
+      "runs_rank_change": 4,
+      "likes_rank_change": 71
     },
     "last_30_days": {
-      "views_rank_change": 13,
+      "views_rank_change": 14,
       "runs_rank_change": 18,
-      "likes_rank_change": -22
+      "likes_rank_change": 20
     },
     "all_time": {
       "best_views_rank": 198,
@@ -47,14 +47,14 @@
       "best_likes_rank": 48,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 227
+      "current_rank": 228
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 74,
+    "data_points": 75,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-03T08:01:17.619447",
+    "last_recorded": "2026-02-04T08:01:06.711371",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -130,7 +130,8 @@
         "2026-01-31T08:01:13.061776",
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
-        "2026-02-03T08:01:17.619447"
+        "2026-02-03T08:01:17.619447",
+        "2026-02-04T08:01:06.711371"
       ],
       "views_rank": [
         null,
@@ -206,7 +207,8 @@
         226,
         226,
         226,
-        227
+        227,
+        228
       ],
       "runs_rank": [
         null,
@@ -282,6 +284,7 @@
         262,
         262,
         262,
+        265,
         265
       ],
       "likes_rank": [
@@ -358,7 +361,8 @@
         241,
         200,
         173,
-        145
+        145,
+        187
       ]
     }
   },
@@ -370,7 +374,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 13 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 14 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

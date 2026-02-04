@@ -1,6 +1,6 @@
 {
   "agent_id": "6561750c-bef2-41e6-8084-480ac9e08399",
-  "generated_at": "2026-02-03T00:01:31.662138",
+  "generated_at": "2026-02-04T00:01:20.691360",
   "basic_info": {
     "title": "Technical Writing Assistant",
     "author": "Zane29222",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-24T16:37:29.173000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Zane29222/technical-writing-helper",
-    "days_since_published": 40
+    "days_since_published": 41
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 251,
       "runs_rank": 142,
-      "likes_rank": 151,
+      "likes_rank": 115,
       "total_agents": 301,
       "views_percentile": 16.6,
       "runs_percentile": 52.8,
-      "likes_percentile": 49.8
+      "likes_percentile": 61.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 34,
+    "days_tracked": 35,
     "price": 10.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 39,
+    "days_tracked": 40,
     "last_7_days": {
-      "views_rank_change": 2,
+      "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": -14
+      "likes_rank_change": -25
     },
     "last_30_days": {
       "views_rank_change": -1,
       "runs_rank_change": -90,
-      "likes_rank_change": 50
+      "likes_rank_change": 14
     },
     "all_time": {
       "best_views_rank": 245,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 35,
+    "data_points": 36,
     "first_recorded": "2025-12-26T08:00:54.905148",
-    "last_recorded": "2026-02-03T08:01:17.619447",
+    "last_recorded": "2026-02-04T08:01:06.711371",
     "time_series": {
       "dates": [
         "2025-12-26T08:00:54.905148",
@@ -91,7 +91,8 @@
         "2026-01-31T08:01:13.061776",
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
-        "2026-02-03T08:01:17.619447"
+        "2026-02-03T08:01:17.619447",
+        "2026-02-04T08:01:06.711371"
       ],
       "views_rank": [
         null,
@@ -128,6 +129,7 @@
         251,
         251,
         251,
+        251,
         251
       ],
       "runs_rank": [
@@ -155,6 +157,7 @@
         160,
         151,
         144,
+        142,
         142,
         142,
         142,
@@ -202,7 +205,8 @@
         260,
         207,
         180,
-        151
+        151,
+        115
       ]
     }
   },

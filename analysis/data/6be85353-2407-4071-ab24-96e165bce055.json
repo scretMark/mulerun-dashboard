@@ -1,6 +1,6 @@
 {
   "agent_id": "6be85353-2407-4071-ab24-96e165bce055",
-  "generated_at": "2026-02-03T00:01:31.159727",
+  "generated_at": "2026-02-04T00:01:20.281873",
   "basic_info": {
     "title": "The Pet Fruit on the Tree",
     "author": "8bit",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-10T15:04:26.066000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/the-pet-fruit-on-the-tree",
-    "days_since_published": 54
+    "days_since_published": 55
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 302,
       "runs_rank": 286,
-      "likes_rank": 221,
+      "likes_rank": 147,
       "total_agents": 301,
       "views_percentile": -0.3,
       "runs_percentile": 5.0,
-      "likes_percentile": 26.6
+      "likes_percentile": 51.2
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 52,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 53,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 53,
+    "days_tracked": 54,
     "last_7_days": {
-      "views_rank_change": 2,
-      "runs_rank_change": 4,
-      "likes_rank_change": 218
+      "views_rank_change": 1,
+      "runs_rank_change": 3,
+      "likes_rank_change": 144
     },
     "last_30_days": {
       "views_rank_change": 19,
       "runs_rank_change": 18,
-      "likes_rank_change": 205
+      "likes_rank_change": 131
     },
     "all_time": {
       "best_views_rank": 246,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 52,
+    "data_points": 53,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2026-02-03T08:01:17.619447",
+    "last_recorded": "2026-02-04T08:01:06.711371",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -108,7 +108,8 @@
         "2026-01-31T08:01:13.061776",
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
-        "2026-02-03T08:01:17.619447"
+        "2026-02-03T08:01:17.619447",
+        "2026-02-04T08:01:06.711371"
       ],
       "views_rank": [
         null,
@@ -158,6 +159,7 @@
         300,
         300,
         301,
+        302,
         302,
         302,
         302,
@@ -216,6 +218,7 @@
         286,
         286,
         286,
+        286,
         286
       ],
       "likes_rank": [
@@ -270,7 +273,8 @@
         1,
         1,
         1,
-        221
+        221,
+        147
       ]
     }
   },

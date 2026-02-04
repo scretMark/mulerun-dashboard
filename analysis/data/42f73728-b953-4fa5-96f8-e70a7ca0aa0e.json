@@ -1,6 +1,6 @@
 {
   "agent_id": "42f73728-b953-4fa5-96f8-e70a7ca0aa0e",
-  "generated_at": "2026-02-03T00:01:27.793102",
+  "generated_at": "2026-02-04T00:01:17.293790",
   "basic_info": {
     "title": "Winter Embrace",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-06T14:48:19.484000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/winter-embrace",
-    "days_since_published": 88
+    "days_since_published": 89
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 96,
-      "runs_rank": 101,
-      "likes_rank": 49,
+      "views_rank": 95,
+      "runs_rank": 102,
+      "likes_rank": 214,
       "total_agents": 301,
-      "views_percentile": 68.1,
-      "runs_percentile": 66.4,
-      "likes_percentile": 83.7
+      "views_percentile": 68.4,
+      "runs_percentile": 66.1,
+      "likes_percentile": 28.9
     },
-    "tier": "High",
-    "tier_class": "high",
-    "days_tracked": 86,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 87,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 75,
+    "days_tracked": 76,
     "last_7_days": {
-      "views_rank_change": 2,
-      "runs_rank_change": 1,
-      "likes_rank_change": -57
+      "views_rank_change": 1,
+      "runs_rank_change": 2,
+      "likes_rank_change": 119
     },
     "last_30_days": {
-      "views_rank_change": 6,
-      "runs_rank_change": 6,
-      "likes_rank_change": -166
+      "views_rank_change": 5,
+      "runs_rank_change": 7,
+      "likes_rank_change": -1
     },
     "all_time": {
       "best_views_rank": 89,
@@ -47,14 +47,14 @@
       "best_likes_rank": 49,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 96
+      "current_rank": 95
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 74,
+    "data_points": 75,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-03T08:01:17.619447",
+    "last_recorded": "2026-02-04T08:01:06.711371",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -130,7 +130,8 @@
         "2026-01-31T08:01:13.061776",
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
-        "2026-02-03T08:01:17.619447"
+        "2026-02-03T08:01:17.619447",
+        "2026-02-04T08:01:06.711371"
       ],
       "views_rank": [
         null,
@@ -206,7 +207,8 @@
         96,
         96,
         96,
-        96
+        96,
+        95
       ],
       "runs_rank": [
         null,
@@ -282,7 +284,8 @@
         100,
         100,
         101,
-        101
+        101,
+        102
       ],
       "likes_rank": [
         null,
@@ -358,7 +361,8 @@
         65,
         62,
         56,
-        49
+        49,
+        214
       ]
     }
   },
@@ -368,9 +372,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "High Performer",
-      "description": "Ranked #49 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #95 out of 301 active agents."
     }
   ]
 }

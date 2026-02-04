@@ -1,6 +1,6 @@
 {
   "agent_id": "e00f06c2-9bee-4023-821d-8f215ca8417f",
-  "generated_at": "2026-02-03T00:01:31.839485",
+  "generated_at": "2026-02-04T00:01:20.830018",
   "basic_info": {
     "title": "Sales Advisor",
     "author": "SmartQ",
@@ -11,21 +11,21 @@
     "published_at": "2026-01-01T02:59:46.639000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@SmartQ/winnexo",
-    "days_since_published": 32
+    "days_since_published": 33
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 81,
+      "views_rank": 79,
       "runs_rank": 67,
-      "likes_rank": 263,
+      "likes_rank": 295,
       "total_agents": 301,
-      "views_percentile": 73.1,
+      "views_percentile": 73.8,
       "runs_percentile": 77.7,
-      "likes_percentile": 12.6
+      "likes_percentile": 2.0
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 29,
+    "days_tracked": 30,
     "price": 0.0
   },
   "ranking_trends": {
@@ -33,28 +33,28 @@
     "days_tracked": 29,
     "last_7_days": {
       "views_rank_change": -4,
-      "runs_rank_change": -5,
-      "likes_rank_change": -37
+      "runs_rank_change": -3,
+      "likes_rank_change": 1
     },
     "last_30_days": {
-      "views_rank_change": -45,
+      "views_rank_change": -47,
       "runs_rank_change": -40,
-      "likes_rank_change": 157
+      "likes_rank_change": 189
     },
     "all_time": {
-      "best_views_rank": 81,
+      "best_views_rank": 79,
       "best_runs_rank": 67,
       "best_likes_rank": 106,
       "days_in_top_10": 0,
       "first_rank": 126,
-      "current_rank": 81
+      "current_rank": 79
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 27,
+    "data_points": 28,
     "first_recorded": "2026-01-05T08:01:10.022221",
-    "last_recorded": "2026-02-03T08:01:17.619447",
+    "last_recorded": "2026-02-04T08:01:06.711371",
     "time_series": {
       "dates": [
         "2026-01-05T08:01:10.022221",
@@ -83,7 +83,8 @@
         "2026-01-31T08:01:13.061776",
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
-        "2026-02-03T08:01:17.619447"
+        "2026-02-03T08:01:17.619447",
+        "2026-02-04T08:01:06.711371"
       ],
       "views_rank": [
         126,
@@ -112,7 +113,8 @@
         83,
         83,
         83,
-        81
+        81,
+        79
       ],
       "runs_rank": [
         107,
@@ -141,6 +143,7 @@
         70,
         70,
         70,
+        67,
         67
       ],
       "likes_rank": [
@@ -170,7 +173,8 @@
         204,
         180,
         155,
-        263
+        263,
+        295
       ]
     }
   },
@@ -189,7 +193,7 @@
     {
       "type": "positive",
       "title": "Rising Star",
-      "description": "Improved by 45 positions in views ranking over the last 30 days - showing strong momentum!"
+      "description": "Improved by 47 positions in views ranking over the last 30 days - showing strong momentum!"
     },
     {
       "type": "positive",

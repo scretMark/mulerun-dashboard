@@ -1,6 +1,6 @@
 {
   "agent_id": "39f43fbe-bbf5-4eb6-b600-b1d60dafcf8d",
-  "generated_at": "2026-02-03T00:01:29.121048",
+  "generated_at": "2026-02-04T00:01:18.492423",
   "basic_info": {
     "title": "Travel with AI",
     "author": "Rhino",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-16T16:55:46.056000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Rhino/travel-with-ai",
-    "days_since_published": 109
+    "days_since_published": 110
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 68,
       "runs_rank": 69,
-      "likes_rank": 86,
+      "likes_rank": 179,
       "total_agents": 301,
       "views_percentile": 77.4,
       "runs_percentile": 77.1,
-      "likes_percentile": 71.4
+      "likes_percentile": 40.5
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 96,
+    "days_tracked": 97,
     "price": 40.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 75,
+    "days_tracked": 76,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 2,
-      "likes_rank_change": -46
+      "likes_rank_change": -93
     },
     "last_30_days": {
       "views_rank_change": 2,
       "runs_rank_change": 4,
-      "likes_rank_change": -112
+      "likes_rank_change": -19
     },
     "all_time": {
       "best_views_rank": 64,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 74,
+    "data_points": 75,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-03T08:01:17.619447",
+    "last_recorded": "2026-02-04T08:01:06.711371",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -130,7 +130,8 @@
         "2026-01-31T08:01:13.061776",
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
-        "2026-02-03T08:01:17.619447"
+        "2026-02-03T08:01:17.619447",
+        "2026-02-04T08:01:06.711371"
       ],
       "views_rank": [
         null,
@@ -204,6 +205,7 @@
         67,
         67,
         67,
+        68,
         68,
         68,
         68
@@ -282,6 +284,7 @@
         67,
         67,
         67,
+        69,
         69
       ],
       "likes_rank": [
@@ -358,7 +361,8 @@
         128,
         115,
         102,
-        86
+        86,
+        179
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "c9e98be8-f68e-4ea8-919c-adc59f7555cf",
-  "generated_at": "2026-02-03T00:01:27.390756",
+  "generated_at": "2026-02-04T00:01:16.964924",
   "basic_info": {
     "title": "UPCV Resume Gen ",
     "author": "upcv",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-12T11:14:49.973000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@upcv/upcv-resume-gen",
-    "days_since_published": 82
+    "days_since_published": 83
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 70,
       "runs_rank": 12,
-      "likes_rank": 265,
+      "likes_rank": 237,
       "total_agents": 301,
       "views_percentile": 76.7,
       "runs_percentile": 96.0,
-      "likes_percentile": 12.0
+      "likes_percentile": 21.3
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 80,
+    "days_tracked": 81,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 76,
+    "days_tracked": 77,
     "last_7_days": {
-      "views_rank_change": -3,
+      "views_rank_change": -2,
       "runs_rank_change": 0,
-      "likes_rank_change": -13
+      "likes_rank_change": -58
     },
     "last_30_days": {
       "views_rank_change": -6,
       "runs_rank_change": -2,
-      "likes_rank_change": 169
+      "likes_rank_change": 141
     },
     "all_time": {
       "best_views_rank": 70,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 75,
+    "data_points": 76,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-02-03T08:01:17.619447",
+    "last_recorded": "2026-02-04T08:01:06.711371",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -131,7 +131,8 @@
         "2026-01-31T08:01:13.061776",
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
-        "2026-02-03T08:01:17.619447"
+        "2026-02-03T08:01:17.619447",
+        "2026-02-04T08:01:06.711371"
       ],
       "views_rank": [
         null,
@@ -208,6 +209,7 @@
         72,
         71,
         71,
+        70,
         70
       ],
       "runs_rank": [
@@ -279,6 +281,7 @@
         13,
         13,
         13,
+        12,
         12,
         12,
         12,
@@ -362,7 +365,8 @@
         229,
         262,
         213,
-        265
+        265,
+        237
       ]
     }
   },

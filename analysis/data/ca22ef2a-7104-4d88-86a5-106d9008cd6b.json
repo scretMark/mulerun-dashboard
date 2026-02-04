@@ -1,6 +1,6 @@
 {
   "agent_id": "ca22ef2a-7104-4d88-86a5-106d9008cd6b",
-  "generated_at": "2026-02-03T00:01:31.473570",
+  "generated_at": "2026-02-04T00:01:20.544346",
   "basic_info": {
     "title": "Xmas Monster Market",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-19T16:34:38.383000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/xmas-monster-market",
-    "days_since_published": 45
+    "days_since_published": 46
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 295,
       "runs_rank": 295,
-      "likes_rank": 168,
+      "likes_rank": 126,
       "total_agents": 301,
       "views_percentile": 2.0,
       "runs_percentile": 2.0,
-      "likes_percentile": 44.2
+      "likes_percentile": 58.1
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 40,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 41,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 45,
+    "days_tracked": 46,
     "last_7_days": {
-      "views_rank_change": -1,
-      "runs_rank_change": 2,
-      "likes_rank_change": 160
+      "views_rank_change": -2,
+      "runs_rank_change": 1,
+      "likes_rank_change": 118
     },
     "last_30_days": {
       "views_rank_change": 18,
       "runs_rank_change": 18,
-      "likes_rank_change": 61
+      "likes_rank_change": 19
     },
     "all_time": {
       "best_views_rank": 273,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 41,
+    "data_points": 42,
     "first_recorded": "2025-12-20T08:01:00.398750",
-    "last_recorded": "2026-02-03T08:01:17.619447",
+    "last_recorded": "2026-02-04T08:01:06.711371",
     "time_series": {
       "dates": [
         "2025-12-20T08:01:00.398750",
@@ -97,7 +97,8 @@
         "2026-01-31T08:01:13.061776",
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
-        "2026-02-03T08:01:17.619447"
+        "2026-02-03T08:01:17.619447",
+        "2026-02-04T08:01:06.711371"
       ],
       "views_rank": [
         null,
@@ -140,6 +141,7 @@
         298,
         295,
         295,
+        295,
         295
       ],
       "runs_rank": [
@@ -179,6 +181,7 @@
         293,
         293,
         294,
+        295,
         295,
         295,
         295,
@@ -226,7 +229,8 @@
         5,
         254,
         210,
-        168
+        168,
+        126
       ]
     }
   },

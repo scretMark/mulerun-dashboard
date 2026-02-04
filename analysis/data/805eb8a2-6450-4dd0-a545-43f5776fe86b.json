@@ -1,6 +1,6 @@
 {
   "agent_id": "805eb8a2-6450-4dd0-a545-43f5776fe86b",
-  "generated_at": "2026-02-03T00:01:31.997532",
+  "generated_at": "2026-02-04T00:01:20.956240",
   "basic_info": {
     "title": "YouTube StudySlice",
     "author": "laughing_code",
@@ -11,17 +11,17 @@
     "published_at": "2026-01-05T09:54:17.078000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@laughing_code/youtube-studyslice",
-    "days_since_published": 28
+    "days_since_published": 29
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 254,
-      "runs_rank": 200,
-      "likes_rank": 98,
+      "runs_rank": 201,
+      "likes_rank": 83,
       "total_agents": 301,
       "views_percentile": 15.6,
-      "runs_percentile": 33.6,
-      "likes_percentile": 67.4
+      "runs_percentile": 33.2,
+      "likes_percentile": 72.4
     },
     "tier": "Mid",
     "tier_class": "mid",
@@ -30,21 +30,21 @@
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 19,
+    "days_tracked": 20,
     "last_7_days": {
-      "views_rank_change": 2,
-      "runs_rank_change": -2,
-      "likes_rank_change": -79
+      "views_rank_change": 1,
+      "runs_rank_change": -1,
+      "likes_rank_change": -66
     },
     "last_30_days": {
       "views_rank_change": -6,
-      "runs_rank_change": -2,
-      "likes_rank_change": -118
+      "runs_rank_change": -1,
+      "likes_rank_change": -133
     },
     "all_time": {
       "best_views_rank": 252,
       "best_runs_rank": 199,
-      "best_likes_rank": 84,
+      "best_likes_rank": 83,
       "days_in_top_10": 0,
       "first_rank": 260,
       "current_rank": 254
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 18,
+    "data_points": 19,
     "first_recorded": "2026-01-15T08:01:02.601407",
-    "last_recorded": "2026-02-03T08:01:17.619447",
+    "last_recorded": "2026-02-04T08:01:06.711371",
     "time_series": {
       "dates": [
         "2026-01-15T08:01:02.601407",
@@ -74,7 +74,8 @@
         "2026-01-31T08:01:13.061776",
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
-        "2026-02-03T08:01:17.619447"
+        "2026-02-03T08:01:17.619447",
+        "2026-02-04T08:01:06.711371"
       ],
       "views_rank": [
         260,
@@ -90,6 +91,7 @@
         252,
         252,
         253,
+        254,
         254,
         254,
         254,
@@ -114,7 +116,8 @@
         200,
         200,
         200,
-        200
+        200,
+        201
       ],
       "likes_rank": [
         216,
@@ -134,7 +137,8 @@
         146,
         131,
         115,
-        98
+        98,
+        83
       ]
     }
   },

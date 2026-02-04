@@ -1,6 +1,6 @@
 {
   "agent_id": "2e56af6b-daa5-464e-9adc-bcd8c95b8972",
-  "generated_at": "2026-02-03T00:01:29.735978",
+  "generated_at": "2026-02-04T00:01:19.035073",
   "basic_info": {
     "title": "Realistic 3D Figure",
     "author": "Darren",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-20T11:34:13.892000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/realistic-3d-figure",
-    "days_since_published": 105
+    "days_since_published": 106
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 86,
       "runs_rank": 88,
-      "likes_rank": 241,
+      "likes_rank": 155,
       "total_agents": 301,
       "views_percentile": 71.4,
       "runs_percentile": 70.8,
-      "likes_percentile": 19.9
+      "likes_percentile": 48.5
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 101,
+    "days_tracked": 102,
     "price": 51.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 75,
+    "days_tracked": 76,
     "last_7_days": {
-      "views_rank_change": 2,
+      "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": 190
+      "likes_rank_change": 107
     },
     "last_30_days": {
       "views_rank_change": 3,
       "runs_rank_change": 4,
-      "likes_rank_change": -15
+      "likes_rank_change": -101
     },
     "all_time": {
       "best_views_rank": 78,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 74,
+    "data_points": 75,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-03T08:01:17.619447",
+    "last_recorded": "2026-02-04T08:01:06.711371",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -130,7 +130,8 @@
         "2026-01-31T08:01:13.061776",
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
-        "2026-02-03T08:01:17.619447"
+        "2026-02-03T08:01:17.619447",
+        "2026-02-04T08:01:06.711371"
       ],
       "views_rank": [
         null,
@@ -206,6 +207,7 @@
         86,
         86,
         86,
+        86,
         86
       ],
       "runs_rank": [
@@ -270,6 +272,7 @@
         87,
         87,
         87,
+        88,
         88,
         88,
         88,
@@ -358,7 +361,8 @@
         38,
         36,
         32,
-        241
+        241,
+        155
       ]
     }
   },

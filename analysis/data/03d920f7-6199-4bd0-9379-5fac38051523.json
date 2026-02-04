@@ -1,6 +1,6 @@
 {
   "agent_id": "03d920f7-6199-4bd0-9379-5fac38051523",
-  "generated_at": "2026-02-03T00:01:31.610069",
+  "generated_at": "2026-02-04T00:01:20.660390",
   "basic_info": {
     "title": "Viral Shorts AI Architect",
     "author": "yuzhou",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-20T21:05:43.834000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@yuzhou/viral-shorts-ai-architect",
-    "days_since_published": 44
+    "days_since_published": 45
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 209,
       "runs_rank": 271,
-      "likes_rank": 235,
+      "likes_rank": 191,
       "total_agents": 301,
       "views_percentile": 30.6,
       "runs_percentile": 10.0,
-      "likes_percentile": 21.9
+      "likes_percentile": 36.5
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 35,
+    "days_tracked": 36,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 40,
+    "days_tracked": 41,
     "last_7_days": {
       "views_rank_change": -6,
-      "runs_rank_change": 0,
-      "likes_rank_change": 5
+      "runs_rank_change": -1,
+      "likes_rank_change": -92
     },
     "last_30_days": {
       "views_rank_change": -36,
       "runs_rank_change": 7,
-      "likes_rank_change": 92
+      "likes_rank_change": 48
     },
     "all_time": {
       "best_views_rank": 209,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 36,
+    "data_points": 37,
     "first_recorded": "2025-12-25T08:01:00.196993",
-    "last_recorded": "2026-02-03T08:01:17.619447",
+    "last_recorded": "2026-02-04T08:01:06.711371",
     "time_series": {
       "dates": [
         "2025-12-25T08:01:00.196993",
@@ -92,7 +92,8 @@
         "2026-01-31T08:01:13.061776",
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
-        "2026-02-03T08:01:17.619447"
+        "2026-02-03T08:01:17.619447",
+        "2026-02-04T08:01:06.711371"
       ],
       "views_rank": [
         null,
@@ -130,6 +131,7 @@
         215,
         214,
         211,
+        209,
         209
       ],
       "runs_rank": [
@@ -166,6 +168,7 @@
         272,
         273,
         274,
+        271,
         271,
         271,
         271
@@ -206,7 +209,8 @@
         171,
         236,
         289,
-        235
+        235,
+        191
       ]
     }
   },
