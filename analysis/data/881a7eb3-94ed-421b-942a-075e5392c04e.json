@@ -1,6 +1,6 @@
 {
   "agent_id": "881a7eb3-94ed-421b-942a-075e5392c04e",
-  "generated_at": "2026-02-04T00:01:20.768060",
+  "generated_at": "2026-02-05T00:01:30.432273",
   "basic_info": {
     "title": "Kitchen Shuffle",
     "author": "nzwhouxvbbb094f",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-25T16:03:11.023000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@nzwhouxvbbb094f/kitchen-shuffle",
-    "days_since_published": 40
+    "days_since_published": 41
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 294,
       "runs_rank": 282,
-      "likes_rank": null,
+      "likes_rank": 300,
       "total_agents": 301,
       "views_percentile": 2.3,
       "runs_percentile": 6.3,
-      "likes_percentile": 0
+      "likes_percentile": 0.3
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 34,
+    "days_tracked": 35,
     "price": 35.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 39,
+    "days_tracked": 40,
     "last_7_days": {
-      "views_rank_change": 2,
-      "runs_rank_change": 2,
-      "likes_rank_change": null
+      "views_rank_change": 0,
+      "runs_rank_change": 1,
+      "likes_rank_change": 221
     },
     "last_30_days": {
       "views_rank_change": 15,
       "runs_rank_change": 17,
-      "likes_rank_change": null
+      "likes_rank_change": 262
     },
     "all_time": {
       "best_views_rank": 277,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 35,
+    "data_points": 36,
     "first_recorded": "2025-12-27T08:01:00.423663",
-    "last_recorded": "2026-02-04T08:01:06.711371",
+    "last_recorded": "2026-02-05T08:01:16.343754",
     "time_series": {
       "dates": [
         "2025-12-27T08:01:00.423663",
@@ -91,7 +91,8 @@
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
-        "2026-02-04T08:01:06.711371"
+        "2026-02-04T08:01:06.711371",
+        "2026-02-05T08:01:16.343754"
       ],
       "views_rank": [
         null,
@@ -123,6 +124,7 @@
         291,
         291,
         292,
+        294,
         294,
         294,
         294,
@@ -165,6 +167,7 @@
         282,
         282,
         282,
+        282,
         282
       ],
       "likes_rank": [
@@ -202,7 +205,8 @@
         71,
         64,
         56,
-        null
+        null,
+        300
       ]
     }
   },

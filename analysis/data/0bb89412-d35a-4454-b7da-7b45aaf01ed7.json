@@ -1,6 +1,6 @@
 {
   "agent_id": "0bb89412-d35a-4454-b7da-7b45aaf01ed7",
-  "generated_at": "2026-02-04T00:01:18.505043",
+  "generated_at": "2026-02-05T00:01:27.793578",
   "basic_info": {
     "title": "One-Click Series",
     "author": "williamyang5050",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-11T01:04:55.128000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@williamyang5050/one-click-series",
-    "days_since_published": 115
+    "days_since_published": 116
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 82,
       "runs_rank": 86,
-      "likes_rank": 280,
+      "likes_rank": 205,
       "total_agents": 301,
       "views_percentile": 72.8,
       "runs_percentile": 71.4,
-      "likes_percentile": 7.0
+      "likes_percentile": 31.9
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 95,
+    "days_tracked": 96,
     "price": 70.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 76,
+    "days_tracked": 77,
     "last_7_days": {
-      "views_rank_change": 0,
+      "views_rank_change": 1,
       "runs_rank_change": 0,
-      "likes_rank_change": 186
+      "likes_rank_change": -94
     },
     "last_30_days": {
       "views_rank_change": 4,
       "runs_rank_change": 1,
-      "likes_rank_change": 135
+      "likes_rank_change": 59
     },
     "all_time": {
       "best_views_rank": 74,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 75,
+    "data_points": 76,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-04T08:01:06.711371",
+    "last_recorded": "2026-02-05T08:01:16.343754",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -131,7 +131,8 @@
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
-        "2026-02-04T08:01:06.711371"
+        "2026-02-04T08:01:06.711371",
+        "2026-02-05T08:01:16.343754"
       ],
       "views_rank": [
         null,
@@ -208,6 +209,7 @@
         81,
         81,
         82,
+        82,
         82
       ],
       "runs_rank": [
@@ -272,6 +274,7 @@
         85,
         85,
         85,
+        86,
         86,
         86,
         86,
@@ -362,7 +365,8 @@
         211,
         182,
         153,
-        280
+        280,
+        205
       ]
     }
   },

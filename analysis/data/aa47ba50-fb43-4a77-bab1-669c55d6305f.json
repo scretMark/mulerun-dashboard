@@ -1,6 +1,6 @@
 {
   "agent_id": "aa47ba50-fb43-4a77-bab1-669c55d6305f",
-  "generated_at": "2026-02-04T00:01:18.987422",
+  "generated_at": "2026-02-05T00:01:28.416511",
   "basic_info": {
     "title": "Pet Star 9-Grid",
     "author": "LinkAIBrain",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-18T17:03:07.430000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/pet-star-9-grid",
-    "days_since_published": 138
+    "days_since_published": 139
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 69,
       "runs_rank": 122,
-      "likes_rank": 161,
+      "likes_rank": 135,
       "total_agents": 301,
       "views_percentile": 77.1,
       "runs_percentile": 59.5,
-      "likes_percentile": 46.5
+      "likes_percentile": 55.1
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 136,
+    "days_tracked": 137,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 76,
+    "days_tracked": 77,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": 5
+      "likes_rank_change": 28
     },
     "last_30_days": {
       "views_rank_change": 4,
-      "runs_rank_change": 8,
-      "likes_rank_change": -60
+      "runs_rank_change": 7,
+      "likes_rank_change": -85
     },
     "all_time": {
       "best_views_rank": 61,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 75,
+    "data_points": 76,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-04T08:01:06.711371",
+    "last_recorded": "2026-02-05T08:01:16.343754",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -131,7 +131,8 @@
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
-        "2026-02-04T08:01:06.711371"
+        "2026-02-04T08:01:06.711371",
+        "2026-02-05T08:01:16.343754"
       ],
       "views_rank": [
         null,
@@ -191,6 +192,7 @@
         67,
         67,
         68,
+        69,
         69,
         69,
         69,
@@ -285,6 +287,7 @@
         122,
         122,
         122,
+        122,
         122
       ],
       "likes_rank": [
@@ -362,7 +365,8 @@
         91,
         81,
         261,
-        161
+        161,
+        135
       ]
     }
   },

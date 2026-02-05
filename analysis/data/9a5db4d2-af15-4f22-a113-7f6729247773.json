@@ -1,6 +1,6 @@
 {
   "agent_id": "9a5db4d2-af15-4f22-a113-7f6729247773",
-  "generated_at": "2026-02-04T00:01:20.625595",
+  "generated_at": "2026-02-05T00:01:30.272787",
   "basic_info": {
     "title": "Hand-Drawn Santa Me",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-22T10:20:25.768000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/hand-drawn-santa-me",
-    "days_since_published": 43
+    "days_since_published": 44
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 293,
       "runs_rank": 280,
-      "likes_rank": 101,
+      "likes_rank": 87,
       "total_agents": 301,
       "views_percentile": 2.7,
       "runs_percentile": 7.0,
-      "likes_percentile": 66.4
+      "likes_percentile": 71.1
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 38,
+    "days_tracked": 39,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 43,
+    "days_tracked": 44,
     "last_7_days": {
-      "views_rank_change": 2,
-      "runs_rank_change": 2,
-      "likes_rank_change": 84
+      "views_rank_change": 0,
+      "runs_rank_change": 1,
+      "likes_rank_change": -165
     },
     "last_30_days": {
       "views_rank_change": 18,
-      "runs_rank_change": 17,
-      "likes_rank_change": -34
+      "runs_rank_change": 16,
+      "likes_rank_change": -50
     },
     "all_time": {
       "best_views_rank": 270,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 39,
+    "data_points": 40,
     "first_recorded": "2025-12-23T08:00:59.635142",
-    "last_recorded": "2026-02-04T08:01:06.711371",
+    "last_recorded": "2026-02-05T08:01:16.343754",
     "time_series": {
       "dates": [
         "2025-12-23T08:00:59.635142",
@@ -95,7 +95,8 @@
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
-        "2026-02-04T08:01:06.711371"
+        "2026-02-04T08:01:06.711371",
+        "2026-02-05T08:01:16.343754"
       ],
       "views_rank": [
         null,
@@ -131,6 +132,7 @@
         290,
         290,
         291,
+        293,
         293,
         293,
         293,
@@ -177,6 +179,7 @@
         280,
         280,
         280,
+        280,
         280
       ],
       "likes_rank": [
@@ -218,7 +221,8 @@
         170,
         148,
         126,
-        101
+        101,
+        87
       ]
     }
   },

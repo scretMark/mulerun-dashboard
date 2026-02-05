@@ -1,6 +1,6 @@
 {
   "agent_id": "74257acf-c81f-4b75-b31a-3ddafba978df",
-  "generated_at": "2026-02-04T00:01:19.982710",
+  "generated_at": "2026-02-05T00:01:29.684662",
   "basic_info": {
     "title": "Image to 3D Figure",
     "author": "nzwhouxvbbb094f",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-05T20:02:40.928000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@nzwhouxvbbb094f/image-to-3d-figure",
-    "days_since_published": 60
+    "days_since_published": 61
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 234,
       "runs_rank": 187,
-      "likes_rank": 37,
+      "likes_rank": 249,
       "total_agents": 301,
       "views_percentile": 22.3,
       "runs_percentile": 37.9,
-      "likes_percentile": 87.7
+      "likes_percentile": 17.3
     },
-    "tier": "High",
-    "tier_class": "high",
-    "days_tracked": 56,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 57,
     "price": 6.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 57,
+    "days_tracked": 58,
     "last_7_days": {
-      "views_rank_change": 4,
+      "views_rank_change": 3,
       "runs_rank_change": 0,
-      "likes_rank_change": -39
+      "likes_rank_change": 193
     },
     "last_30_days": {
-      "views_rank_change": 18,
-      "runs_rank_change": 4,
-      "likes_rank_change": -97
+      "views_rank_change": 17,
+      "runs_rank_change": 3,
+      "likes_rank_change": 113
     },
     "all_time": {
       "best_views_rank": 205,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-12-09T08:00:25.308684",
-    "last_recorded": "2026-02-04T08:01:06.711371",
+    "last_recorded": "2026-02-05T08:01:16.343754",
     "time_series": {
       "dates": [
         "2025-12-09T08:00:25.308684",
@@ -113,7 +113,8 @@
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
-        "2026-02-04T08:01:06.711371"
+        "2026-02-04T08:01:06.711371",
+        "2026-02-05T08:01:16.343754"
       ],
       "views_rank": [
         null,
@@ -172,6 +173,7 @@
         232,
         232,
         232,
+        234,
         234
       ],
       "runs_rank": [
@@ -224,6 +226,7 @@
         191,
         191,
         186,
+        187,
         187,
         187,
         187,
@@ -290,7 +293,8 @@
         null,
         45,
         39,
-        37
+        37,
+        249
       ]
     }
   },
@@ -307,14 +311,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "High Performer",
-      "description": "Ranked #37 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
-    },
-    {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 18 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 17 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

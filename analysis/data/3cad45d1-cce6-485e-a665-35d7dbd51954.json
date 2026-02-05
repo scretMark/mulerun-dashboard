@@ -1,6 +1,6 @@
 {
   "agent_id": "3cad45d1-cce6-485e-a665-35d7dbd51954",
-  "generated_at": "2026-02-04T00:01:18.553811",
+  "generated_at": "2026-02-05T00:01:27.856238",
   "basic_info": {
     "title": "Companion of the Storm",
     "author": "Darren",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-20T11:32:32.791000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/companion-of-the-storm",
-    "days_since_published": 106
+    "days_since_published": 107
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 117,
+      "views_rank": 118,
       "runs_rank": 185,
       "likes_rank": 34,
       "total_agents": 301,
-      "views_percentile": 61.1,
+      "views_percentile": 60.8,
       "runs_percentile": 38.5,
       "likes_percentile": 88.7
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 97,
+    "days_tracked": 98,
     "price": 51.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 76,
+    "days_tracked": 77,
     "last_7_days": {
-      "views_rank_change": 0,
+      "views_rank_change": 1,
       "runs_rank_change": 0,
-      "likes_rank_change": -37
+      "likes_rank_change": -17
     },
     "last_30_days": {
       "views_rank_change": 3,
       "runs_rank_change": -8,
-      "likes_rank_change": -135
+      "likes_rank_change": -137
     },
     "all_time": {
       "best_views_rank": 107,
@@ -47,14 +47,14 @@
       "best_likes_rank": 34,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 117
+      "current_rank": 118
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 75,
+    "data_points": 76,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-04T08:01:06.711371",
+    "last_recorded": "2026-02-05T08:01:16.343754",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -131,7 +131,8 @@
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
-        "2026-02-04T08:01:06.711371"
+        "2026-02-04T08:01:06.711371",
+        "2026-02-05T08:01:16.343754"
       ],
       "views_rank": [
         null,
@@ -208,7 +209,8 @@
         117,
         117,
         117,
-        117
+        117,
+        118
       ],
       "runs_rank": [
         null,
@@ -278,6 +280,7 @@
         184,
         184,
         184,
+        185,
         185,
         185,
         185,
@@ -362,6 +365,7 @@
         45,
         40,
         36,
+        34,
         34
       ]
     }

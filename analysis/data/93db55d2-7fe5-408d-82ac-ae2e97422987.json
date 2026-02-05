@@ -1,6 +1,6 @@
 {
   "agent_id": "93db55d2-7fe5-408d-82ac-ae2e97422987",
-  "generated_at": "2026-02-04T00:01:20.757313",
+  "generated_at": "2026-02-05T00:01:30.418828",
   "basic_info": {
     "title": "Fashion Reels",
     "author": "PicCopilot",
@@ -11,39 +11,39 @@
     "published_at": "2025-12-23T14:08:06.614000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/ai-model-video",
-    "days_since_published": 42
+    "days_since_published": 43
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 203,
-      "runs_rank": 100,
-      "likes_rank": 190,
+      "runs_rank": 98,
+      "likes_rank": 156,
       "total_agents": 301,
       "views_percentile": 32.6,
-      "runs_percentile": 66.8,
-      "likes_percentile": 36.9
+      "runs_percentile": 67.4,
+      "likes_percentile": 48.2
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 34,
+    "days_tracked": 35,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 39,
+    "days_tracked": 40,
     "last_7_days": {
       "views_rank_change": -2,
-      "runs_rank_change": -11,
-      "likes_rank_change": 22
+      "runs_rank_change": -13,
+      "likes_rank_change": -121
     },
     "last_30_days": {
-      "views_rank_change": -41,
-      "runs_rank_change": -137,
-      "likes_rank_change": 127
+      "views_rank_change": -32,
+      "runs_rank_change": -116,
+      "likes_rank_change": 100
     },
     "all_time": {
       "best_views_rank": 203,
-      "best_runs_rank": 100,
+      "best_runs_rank": 98,
       "best_likes_rank": 28,
       "days_in_top_10": 0,
       "first_rank": 240,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 35,
+    "data_points": 36,
     "first_recorded": "2025-12-27T08:01:00.423663",
-    "last_recorded": "2026-02-04T08:01:06.711371",
+    "last_recorded": "2026-02-05T08:01:16.343754",
     "time_series": {
       "dates": [
         "2025-12-27T08:01:00.423663",
@@ -91,7 +91,8 @@
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
-        "2026-02-04T08:01:06.711371"
+        "2026-02-04T08:01:06.711371",
+        "2026-02-05T08:01:16.343754"
       ],
       "views_rank": [
         240,
@@ -125,6 +126,7 @@
         205,
         205,
         204,
+        203,
         203,
         203,
         203,
@@ -165,7 +167,8 @@
         108,
         107,
         102,
-        100
+        100,
+        98
       ],
       "likes_rank": [
         45,
@@ -202,7 +205,8 @@
         294,
         232,
         247,
-        190
+        190,
+        156
       ]
     }
   },
@@ -221,12 +225,12 @@
     {
       "type": "positive",
       "title": "Rising Star",
-      "description": "Improved by 41 positions in views ranking over the last 30 days - showing strong momentum!"
+      "description": "Improved by 32 positions in views ranking over the last 30 days - showing strong momentum!"
     },
     {
       "type": "positive",
       "title": "Growing Usage",
-      "description": "Runs ranking improved by 137 positions in the last 30 days - users are actively engaging with this agent!"
+      "description": "Runs ranking improved by 116 positions in the last 30 days - users are actively engaging with this agent!"
     }
   ]
 }

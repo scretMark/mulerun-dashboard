@@ -1,6 +1,6 @@
 {
   "agent_id": "ca5710ab-c6da-4201-9221-b596b53f9857",
-  "generated_at": "2026-02-04T00:01:19.417708",
+  "generated_at": "2026-02-05T00:01:28.938686",
   "basic_info": {
     "title": "Ink Wash Painting",
     "author": "Darren",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-20T11:31:54.304000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/ink-wash-painting",
-    "days_since_published": 106
+    "days_since_published": 107
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 158,
+      "views_rank": 159,
       "runs_rank": 258,
-      "likes_rank": 76,
+      "likes_rank": 66,
       "total_agents": 301,
-      "views_percentile": 47.5,
+      "views_percentile": 47.2,
       "runs_percentile": 14.3,
-      "likes_percentile": 74.8
+      "likes_percentile": 78.1
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 97,
+    "days_tracked": 98,
     "price": 51.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 76,
+    "days_tracked": 77,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 2,
-      "likes_rank_change": 12
+      "runs_rank_change": 1,
+      "likes_rank_change": -99
     },
     "last_30_days": {
       "views_rank_change": 5,
-      "runs_rank_change": 14,
-      "likes_rank_change": 42
+      "runs_rank_change": 13,
+      "likes_rank_change": 34
     },
     "all_time": {
       "best_views_rank": 146,
@@ -47,14 +47,14 @@
       "best_likes_rank": 14,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 158
+      "current_rank": 159
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 75,
+    "data_points": 76,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-04T08:01:06.711371",
+    "last_recorded": "2026-02-05T08:01:16.343754",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -131,7 +131,8 @@
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
-        "2026-02-04T08:01:06.711371"
+        "2026-02-04T08:01:06.711371",
+        "2026-02-05T08:01:16.343754"
       ],
       "views_rank": [
         null,
@@ -208,7 +209,8 @@
         158,
         158,
         158,
-        158
+        158,
+        159
       ],
       "runs_rank": [
         null,
@@ -284,6 +286,7 @@
         257,
         257,
         257,
+        258,
         258,
         258
       ],
@@ -362,7 +365,8 @@
         120,
         106,
         90,
-        76
+        76,
+        66
       ]
     }
   },
@@ -374,7 +378,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #158 out of 301 active agents."
+      "description": "This agent is currently ranked #159 out of 301 active agents."
     }
   ]
 }

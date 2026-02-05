@@ -1,6 +1,6 @@
 {
   "agent_id": "ce336553-91a4-4e40-9ad5-a147eae50b23",
-  "generated_at": "2026-02-04T00:01:21.006603",
+  "generated_at": "2026-02-05T00:01:30.683049",
   "basic_info": {
     "title": "CoinSight Alpha - The Institutional Scalping Terminal",
     "author": "Gallmur",
@@ -11,35 +11,35 @@
     "published_at": "2026-01-22T09:01:17.384000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Gallmur/auditking",
-    "days_since_published": 12
+    "days_since_published": 13
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 275,
       "runs_rank": 255,
-      "likes_rank": 169,
+      "likes_rank": 141,
       "total_agents": 301,
       "views_percentile": 8.6,
       "runs_percentile": 15.3,
-      "likes_percentile": 43.9
+      "likes_percentile": 53.2
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 11,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 12,
     "price": 70.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 12,
+    "days_tracked": 13,
     "last_7_days": {
-      "views_rank_change": 4,
-      "runs_rank_change": 3,
-      "likes_rank_change": 27
+      "views_rank_change": 3,
+      "runs_rank_change": 1,
+      "likes_rank_change": null
     },
     "last_30_days": {
       "views_rank_change": 4,
       "runs_rank_change": 6,
-      "likes_rank_change": -73
+      "likes_rank_change": -101
     },
     "all_time": {
       "best_views_rank": 270,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 12,
+    "data_points": 13,
     "first_recorded": "2026-01-23T08:01:01.579068",
-    "last_recorded": "2026-02-04T08:01:06.711371",
+    "last_recorded": "2026-02-05T08:01:16.343754",
     "time_series": {
       "dates": [
         "2026-01-23T08:01:01.579068",
@@ -68,7 +68,8 @@
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
-        "2026-02-04T08:01:06.711371"
+        "2026-02-04T08:01:06.711371",
+        "2026-02-05T08:01:16.343754"
       ],
       "views_rank": [
         271,
@@ -82,6 +83,7 @@
         272,
         272,
         274,
+        275,
         275
       ],
       "runs_rank": [
@@ -95,6 +97,7 @@
         254,
         254,
         254,
+        255,
         255,
         255
       ],
@@ -110,7 +113,8 @@
         84,
         75,
         287,
-        169
+        169,
+        141
       ]
     }
   },

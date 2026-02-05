@@ -1,6 +1,6 @@
 {
   "agent_id": "5f299841-8d14-44c9-8988-6bc4ec3a4abc",
-  "generated_at": "2026-02-04T00:01:17.360195",
+  "generated_at": "2026-02-05T00:01:26.604981",
   "basic_info": {
     "title": "Remove Sora2 Video Watermark",
     "author": "Darren",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-20T12:11:44.378000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/remove-sora2-video-watermark",
-    "days_since_published": 106
+    "days_since_published": 107
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 16,
-      "runs_rank": 39,
-      "likes_rank": 208,
+      "runs_rank": 40,
+      "likes_rank": 166,
       "total_agents": 301,
       "views_percentile": 94.7,
-      "runs_percentile": 87.0,
-      "likes_percentile": 30.9
+      "runs_percentile": 86.7,
+      "likes_percentile": 44.9
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 95,
+    "days_tracked": 96,
     "price": 101.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 76,
+    "days_tracked": 77,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 1,
-      "likes_rank_change": -21
+      "runs_rank_change": 2,
+      "likes_rank_change": -121
     },
     "last_30_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 1,
-      "likes_rank_change": 190
+      "runs_rank_change": 2,
+      "likes_rank_change": 149
     },
     "all_time": {
       "best_views_rank": 15,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 75,
+    "data_points": 76,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-04T08:01:06.711371",
+    "last_recorded": "2026-02-05T08:01:16.343754",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -131,7 +131,8 @@
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
-        "2026-02-04T08:01:06.711371"
+        "2026-02-04T08:01:06.711371",
+        "2026-02-05T08:01:16.343754"
       ],
       "views_rank": [
         null,
@@ -181,6 +182,7 @@
         15,
         15,
         15,
+        16,
         16,
         16,
         16,
@@ -285,7 +287,8 @@
         39,
         39,
         39,
-        39
+        39,
+        40
       ],
       "likes_rank": [
         null,
@@ -362,7 +365,8 @@
         277,
         220,
         171,
-        208
+        208,
+        166
       ]
     }
   },

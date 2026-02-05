@@ -1,6 +1,6 @@
 {
   "agent_id": "1dff3b84-d6e2-481f-b2c3-595c958eca48",
-  "generated_at": "2026-02-04T00:01:19.896937",
+  "generated_at": "2026-02-05T00:01:29.592849",
   "basic_info": {
     "title": "Let Zootopia",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-03T12:14:04.150000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/let-zootopia",
-    "days_since_published": 62
+    "days_since_published": 63
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 274,
       "runs_rank": 239,
-      "likes_rank": 185,
+      "likes_rank": 153,
       "total_agents": 301,
       "views_percentile": 9.0,
       "runs_percentile": 20.6,
-      "likes_percentile": 38.5
+      "likes_percentile": 49.2
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 61,
+    "days_tracked": 62,
     "price": 80.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 57,
+    "days_tracked": 58,
     "last_7_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": 2,
-      "likes_rank_change": 15
+      "views_rank_change": -2,
+      "runs_rank_change": 1,
+      "likes_rank_change": 38
     },
     "last_30_days": {
-      "views_rank_change": 7,
-      "runs_rank_change": 13,
-      "likes_rank_change": 60
+      "views_rank_change": 8,
+      "runs_rank_change": 12,
+      "likes_rank_change": 26
     },
     "all_time": {
       "best_views_rank": 240,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 58,
+    "data_points": 59,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2026-02-04T08:01:06.711371",
+    "last_recorded": "2026-02-05T08:01:16.343754",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -114,7 +114,8 @@
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
-        "2026-02-04T08:01:06.711371"
+        "2026-02-04T08:01:06.711371",
+        "2026-02-05T08:01:16.343754"
       ],
       "views_rank": [
         null,
@@ -174,6 +175,7 @@
         276,
         276,
         275,
+        274,
         274
       ],
       "runs_rank": [
@@ -230,6 +232,7 @@
         235,
         237,
         238,
+        239,
         239,
         239,
         239,
@@ -294,7 +297,8 @@
         96,
         86,
         259,
-        185
+        185,
+        153
       ]
     }
   },

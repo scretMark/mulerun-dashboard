@@ -1,6 +1,6 @@
 {
   "agent_id": "5790d3e6-8c54-42c8-bc16-c8fdbb244e5b",
-  "generated_at": "2026-02-04T00:01:20.377836",
+  "generated_at": "2026-02-05T00:01:30.060592",
   "basic_info": {
     "title": "DEEPINSIGHT_Briefing",
     "author": "liang_caoqw1",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-13T21:55:32.074000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@liang_caoqw1/deepinsight-briefing",
-    "days_since_published": 52
+    "days_since_published": 53
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 128,
       "runs_rank": 82,
-      "likes_rank": 138,
+      "likes_rank": 228,
       "total_agents": 301,
       "views_percentile": 57.5,
       "runs_percentile": 72.8,
-      "likes_percentile": 54.2
+      "likes_percentile": 24.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 48,
+    "days_tracked": 49,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 49,
+    "days_tracked": 50,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 1,
-      "likes_rank_change": 21
+      "runs_rank_change": 0,
+      "likes_rank_change": 143
     },
     "last_30_days": {
       "views_rank_change": -1,
-      "runs_rank_change": 4,
-      "likes_rank_change": 102
+      "runs_rank_change": 2,
+      "likes_rank_change": 199
     },
     "all_time": {
       "best_views_rank": 126,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 49,
+    "data_points": 50,
     "first_recorded": "2025-12-16T19:09:41.063612",
-    "last_recorded": "2026-02-04T08:01:06.711371",
+    "last_recorded": "2026-02-05T08:01:16.343754",
     "time_series": {
       "dates": [
         "2025-12-16T19:09:41.063612",
@@ -105,7 +105,8 @@
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
-        "2026-02-04T08:01:06.711371"
+        "2026-02-04T08:01:06.711371",
+        "2026-02-05T08:01:16.343754"
       ],
       "views_rank": [
         null,
@@ -156,6 +157,7 @@
         127,
         127,
         127,
+        128,
         128
       ],
       "runs_rank": [
@@ -202,6 +204,7 @@
         81,
         81,
         81,
+        82,
         82,
         82,
         82,
@@ -258,7 +261,8 @@
         238,
         264,
         193,
-        138
+        138,
+        228
       ]
     }
   },

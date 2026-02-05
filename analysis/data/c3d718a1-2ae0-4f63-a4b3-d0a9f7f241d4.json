@@ -1,6 +1,6 @@
 {
   "agent_id": "c3d718a1-2ae0-4f63-a4b3-d0a9f7f241d4",
-  "generated_at": "2026-02-04T00:01:19.684625",
+  "generated_at": "2026-02-05T00:01:29.309945",
   "basic_info": {
     "title": "Core Burst",
     "author": "Excel",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-11T10:30:07.114000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Excel/core-burst",
-    "days_since_published": 115
+    "days_since_published": 116
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 218,
       "runs_rank": 293,
-      "likes_rank": 120,
+      "likes_rank": 101,
       "total_agents": 301,
       "views_percentile": 27.6,
       "runs_percentile": 2.7,
-      "likes_percentile": 60.1
+      "likes_percentile": 66.4
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 107,
+    "days_tracked": 108,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 76,
+    "days_tracked": 77,
     "last_7_days": {
-      "views_rank_change": 2,
-      "runs_rank_change": 1,
-      "likes_rank_change": -144
+      "views_rank_change": 1,
+      "runs_rank_change": 0,
+      "likes_rank_change": -52
     },
     "last_30_days": {
-      "views_rank_change": 8,
+      "views_rank_change": 7,
       "runs_rank_change": 15,
-      "likes_rank_change": -85
+      "likes_rank_change": -103
     },
     "all_time": {
       "best_views_rank": 199,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 75,
+    "data_points": 76,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-04T08:01:06.711371",
+    "last_recorded": "2026-02-05T08:01:16.343754",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -131,7 +131,8 @@
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
-        "2026-02-04T08:01:06.711371"
+        "2026-02-04T08:01:06.711371",
+        "2026-02-05T08:01:16.343754"
       ],
       "views_rank": [
         null,
@@ -208,6 +209,7 @@
         217,
         217,
         217,
+        218,
         218
       ],
       "runs_rank": [
@@ -280,6 +282,7 @@
         291,
         291,
         292,
+        293,
         293,
         293,
         293,
@@ -362,7 +365,8 @@
         223,
         192,
         158,
-        120
+        120,
+        101
       ]
     }
   },

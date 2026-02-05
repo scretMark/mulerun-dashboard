@@ -1,6 +1,6 @@
 {
   "agent_id": "59d31c99-6023-4634-93cf-6470d3e7bc2b",
-  "generated_at": "2026-02-04T00:01:20.402059",
+  "generated_at": "2026-02-05T00:01:30.083778",
   "basic_info": {
     "title": "image matting",
     "author": "jumdata",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-12T09:37:01.780000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@jumdata/image-matting",
-    "days_since_published": 53
+    "days_since_published": 54
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 215,
-      "runs_rank": 106,
-      "likes_rank": 63,
+      "views_rank": 216,
+      "runs_rank": 103,
+      "likes_rank": 57,
       "total_agents": 301,
-      "views_percentile": 28.6,
-      "runs_percentile": 64.8,
-      "likes_percentile": 79.1
+      "views_percentile": 28.2,
+      "runs_percentile": 65.8,
+      "likes_percentile": 81.1
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 48,
+    "tier": "High",
+    "tier_class": "high",
+    "days_tracked": 49,
     "price": 20.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 49,
+    "days_tracked": 50,
     "last_7_days": {
       "views_rank_change": 4,
-      "runs_rank_change": 2,
-      "likes_rank_change": -140
+      "runs_rank_change": -1,
+      "likes_rank_change": -70
     },
     "last_30_days": {
-      "views_rank_change": 9,
-      "runs_rank_change": -31,
-      "likes_rank_change": -45
+      "views_rank_change": 8,
+      "runs_rank_change": -28,
+      "likes_rank_change": -52
     },
     "all_time": {
       "best_views_rank": 200,
@@ -47,14 +47,14 @@
       "best_likes_rank": 41,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 215
+      "current_rank": 216
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 49,
+    "data_points": 50,
     "first_recorded": "2025-12-16T19:09:41.063612",
-    "last_recorded": "2026-02-04T08:01:06.711371",
+    "last_recorded": "2026-02-05T08:01:16.343754",
     "time_series": {
       "dates": [
         "2025-12-16T19:09:41.063612",
@@ -105,7 +105,8 @@
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
-        "2026-02-04T08:01:06.711371"
+        "2026-02-04T08:01:06.711371",
+        "2026-02-05T08:01:16.343754"
       ],
       "views_rank": [
         null,
@@ -156,7 +157,8 @@
         212,
         213,
         213,
-        215
+        215,
+        216
       ],
       "runs_rank": [
         null,
@@ -207,7 +209,8 @@
         104,
         104,
         105,
-        106
+        106,
+        103
       ],
       "likes_rank": [
         null,
@@ -258,7 +261,8 @@
         103,
         90,
         75,
-        63
+        63,
+        57
       ]
     }
   },
@@ -276,8 +280,13 @@
   "insights": [
     {
       "type": "positive",
+      "title": "High Performer",
+      "description": "Ranked #57 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+    },
+    {
+      "type": "positive",
       "title": "Growing Usage",
-      "description": "Runs ranking improved by 31 positions in the last 30 days - users are actively engaging with this agent!"
+      "description": "Runs ranking improved by 28 positions in the last 30 days - users are actively engaging with this agent!"
     }
   ]
 }

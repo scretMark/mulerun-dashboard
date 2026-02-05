@@ -1,6 +1,6 @@
 {
   "agent_id": "659f0230-a5be-4090-88b8-6875c5199459",
-  "generated_at": "2026-02-04T00:01:19.083060",
+  "generated_at": "2026-02-05T00:01:28.529820",
   "basic_info": {
     "title": "Virtual High Five",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-05T22:47:31.583000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/virtual-high-five",
-    "days_since_published": 121
+    "days_since_published": 122
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 100,
       "runs_rank": 156,
-      "likes_rank": 252,
+      "likes_rank": 189,
       "total_agents": 301,
       "views_percentile": 66.8,
       "runs_percentile": 48.2,
-      "likes_percentile": 16.3
+      "likes_percentile": 37.2
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 97,
+    "days_tracked": 98,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 76,
+    "days_tracked": 77,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 0,
-      "likes_rank_change": 119
+      "likes_rank_change": 94
     },
     "last_30_days": {
-      "views_rank_change": 7,
-      "runs_rank_change": 10,
-      "likes_rank_change": 81
+      "views_rank_change": 6,
+      "runs_rank_change": 8,
+      "likes_rank_change": 17
     },
     "all_time": {
       "best_views_rank": 90,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 75,
+    "data_points": 76,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-04T08:01:06.711371",
+    "last_recorded": "2026-02-05T08:01:16.343754",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -131,7 +131,8 @@
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
-        "2026-02-04T08:01:06.711371"
+        "2026-02-04T08:01:06.711371",
+        "2026-02-05T08:01:16.343754"
       ],
       "views_rank": [
         null,
@@ -208,6 +209,7 @@
         99,
         100,
         100,
+        100,
         100
       ],
       "runs_rank": [
@@ -279,6 +281,7 @@
         154,
         154,
         154,
+        156,
         156,
         156,
         156,
@@ -362,7 +365,8 @@
         82,
         73,
         63,
-        252
+        252,
+        189
       ]
     }
   },

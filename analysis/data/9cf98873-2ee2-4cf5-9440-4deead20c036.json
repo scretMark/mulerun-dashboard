@@ -1,6 +1,6 @@
 {
   "agent_id": "9cf98873-2ee2-4cf5-9440-4deead20c036",
-  "generated_at": "2026-02-04T00:01:19.855129",
+  "generated_at": "2026-02-05T00:01:29.546920",
   "basic_info": {
     "title": "See Your Bodybuilding Physique in One Click",
     "author": "Matt",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-03T16:33:11.999000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Matt/see-your-bodybuilding-physique-in-one-click",
-    "days_since_published": 62
+    "days_since_published": 63
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 221,
-      "runs_rank": 150,
+      "runs_rank": 151,
       "likes_rank": 1,
       "total_agents": 301,
       "views_percentile": 26.6,
-      "runs_percentile": 50.2,
+      "runs_percentile": 49.8,
       "likes_percentile": 99.7
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 61,
+    "days_tracked": 62,
     "price": 55.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 57,
+    "days_tracked": 58,
     "last_7_days": {
-      "views_rank_change": 2,
-      "runs_rank_change": 1,
-      "likes_rank_change": -4
+      "views_rank_change": 1,
+      "runs_rank_change": 2,
+      "likes_rank_change": -1
     },
     "last_30_days": {
-      "views_rank_change": 12,
-      "runs_rank_change": 11,
-      "likes_rank_change": -94
+      "views_rank_change": 11,
+      "runs_rank_change": 12,
+      "likes_rank_change": -95
     },
     "all_time": {
       "best_views_rank": 195,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 58,
+    "data_points": 59,
     "first_recorded": "2025-12-08T14:26:09.126399",
-    "last_recorded": "2026-02-04T08:01:06.711371",
+    "last_recorded": "2026-02-05T08:01:16.343754",
     "time_series": {
       "dates": [
         "2025-12-08T14:26:09.126399",
@@ -114,7 +114,8 @@
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
-        "2026-02-04T08:01:06.711371"
+        "2026-02-04T08:01:06.711371",
+        "2026-02-05T08:01:16.343754"
       ],
       "views_rank": [
         null,
@@ -174,6 +175,7 @@
         220,
         220,
         220,
+        221,
         221
       ],
       "runs_rank": [
@@ -234,7 +236,8 @@
         149,
         150,
         150,
-        150
+        150,
+        151
       ],
       "likes_rank": [
         null,
@@ -294,6 +297,7 @@
         2,
         2,
         1,
+        1,
         1
       ]
     }
@@ -318,7 +322,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 12 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 11 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

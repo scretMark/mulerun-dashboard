@@ -1,6 +1,6 @@
 {
   "agent_id": "fa9b8072-0321-4f46-9194-b154eaeef6bb",
-  "generated_at": "2026-02-04T00:01:17.913275",
+  "generated_at": "2026-02-05T00:01:27.161638",
   "basic_info": {
     "title": "Ink Alive",
     "author": "AllenCreator",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-12T17:38:21.168000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AllenCreator/ink-alive",
-    "days_since_published": 114
+    "days_since_published": 115
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 187,
+      "views_rank": 188,
       "runs_rank": 109,
-      "likes_rank": 233,
+      "likes_rank": 182,
       "total_agents": 301,
-      "views_percentile": 37.9,
+      "views_percentile": 37.5,
       "runs_percentile": 63.8,
-      "likes_percentile": 22.6
+      "likes_percentile": 39.5
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 97,
+    "days_tracked": 98,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 76,
+    "days_tracked": 77,
     "last_7_days": {
-      "views_rank_change": -1,
+      "views_rank_change": 1,
       "runs_rank_change": 2,
-      "likes_rank_change": 182
+      "likes_rank_change": -9
     },
     "last_30_days": {
-      "views_rank_change": 5,
-      "runs_rank_change": 8,
-      "likes_rank_change": 226
+      "views_rank_change": 4,
+      "runs_rank_change": 7,
+      "likes_rank_change": 175
     },
     "all_time": {
       "best_views_rank": 180,
@@ -47,14 +47,14 @@
       "best_likes_rank": 1,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 187
+      "current_rank": 188
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 75,
+    "data_points": 76,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-04T08:01:06.711371",
+    "last_recorded": "2026-02-05T08:01:16.343754",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -131,7 +131,8 @@
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
-        "2026-02-04T08:01:06.711371"
+        "2026-02-04T08:01:06.711371",
+        "2026-02-05T08:01:16.343754"
       ],
       "views_rank": [
         null,
@@ -208,7 +209,8 @@
         188,
         188,
         188,
-        187
+        187,
+        188
       ],
       "runs_rank": [
         null,
@@ -285,6 +287,7 @@
         107,
         108,
         108,
+        109,
         109
       ],
       "likes_rank": [
@@ -362,7 +365,8 @@
         142,
         124,
         104,
-        233
+        233,
+        182
       ]
     }
   },
@@ -374,7 +378,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #187 out of 301 active agents."
+      "description": "This agent is currently ranked #188 out of 301 active agents."
     }
   ]
 }

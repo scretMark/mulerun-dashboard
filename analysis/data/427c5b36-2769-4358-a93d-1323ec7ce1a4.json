@@ -1,6 +1,6 @@
 {
   "agent_id": "427c5b36-2769-4358-a93d-1323ec7ce1a4",
-  "generated_at": "2026-02-04T00:01:17.637637",
+  "generated_at": "2026-02-05T00:01:26.867846",
   "basic_info": {
     "title": "Podcast Generator",
     "author": "AngryBerry",
@@ -11,40 +11,40 @@
     "published_at": "2025-11-03T22:43:10.783000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@AngryBerry/podcast-generator",
-    "days_since_published": 92
+    "days_since_published": 93
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 103,
       "runs_rank": 113,
-      "likes_rank": 107,
+      "likes_rank": 92,
       "total_agents": 301,
       "views_percentile": 65.8,
       "runs_percentile": 62.5,
-      "likes_percentile": 64.5
+      "likes_percentile": 69.4
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 98,
+    "days_tracked": 99,
     "price": 160.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 76,
+    "days_tracked": 77,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 0,
-      "likes_rank_change": -83
+      "likes_rank_change": -190
     },
     "last_30_days": {
       "views_rank_change": -3,
-      "runs_rank_change": 5,
-      "likes_rank_change": -154
+      "runs_rank_change": 4,
+      "likes_rank_change": -171
     },
     "all_time": {
       "best_views_rank": 102,
       "best_runs_rank": 102,
-      "best_likes_rank": 107,
+      "best_likes_rank": 92,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 103
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 75,
+    "data_points": 76,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-04T08:01:06.711371",
+    "last_recorded": "2026-02-05T08:01:16.343754",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -131,7 +131,8 @@
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
-        "2026-02-04T08:01:06.711371"
+        "2026-02-04T08:01:06.711371",
+        "2026-02-05T08:01:16.343754"
       ],
       "views_rank": [
         null,
@@ -208,6 +209,7 @@
         102,
         102,
         103,
+        103,
         103
       ],
       "runs_rank": [
@@ -279,6 +281,7 @@
         111,
         111,
         112,
+        113,
         113,
         113,
         113,
@@ -362,7 +365,8 @@
         182,
         157,
         133,
-        107
+        107,
+        92
       ]
     }
   },

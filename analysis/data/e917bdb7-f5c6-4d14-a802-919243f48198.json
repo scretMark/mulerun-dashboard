@@ -1,6 +1,6 @@
 {
   "agent_id": "e917bdb7-f5c6-4d14-a802-919243f48198",
-  "generated_at": "2026-02-04T00:01:19.130099",
+  "generated_at": "2026-02-05T00:01:28.576813",
   "basic_info": {
     "title": "Pet Art Photo Studio",
     "author": "whosyourdaddcdw",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-30T22:42:02.887000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@whosyourdaddcdw/pet-art-photo-studio",
-    "days_since_published": 126
+    "days_since_published": 127
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 109,
       "runs_rank": 114,
-      "likes_rank": 55,
+      "likes_rank": 264,
       "total_agents": 301,
       "views_percentile": 63.8,
       "runs_percentile": 62.1,
-      "likes_percentile": 81.7
+      "likes_percentile": 12.3
     },
-    "tier": "High",
-    "tier_class": "high",
-    "days_tracked": 117,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 118,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 76,
+    "days_tracked": 77,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 0,
-      "likes_rank_change": -74
+      "likes_rank_change": 172
     },
     "last_30_days": {
-      "views_rank_change": 9,
-      "runs_rank_change": 9,
-      "likes_rank_change": -119
+      "views_rank_change": 7,
+      "runs_rank_change": 7,
+      "likes_rank_change": 89
     },
     "all_time": {
       "best_views_rank": 94,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 75,
+    "data_points": 76,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-04T08:01:06.711371",
+    "last_recorded": "2026-02-05T08:01:16.343754",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -131,7 +131,8 @@
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
-        "2026-02-04T08:01:06.711371"
+        "2026-02-04T08:01:06.711371",
+        "2026-02-05T08:01:16.343754"
       ],
       "views_rank": [
         null,
@@ -208,6 +209,7 @@
         109,
         109,
         109,
+        109,
         109
       ],
       "runs_rank": [
@@ -279,6 +281,7 @@
         112,
         112,
         113,
+        114,
         114,
         114,
         114,
@@ -362,7 +365,8 @@
         80,
         72,
         62,
-        55
+        55,
+        264
       ]
     }
   },
@@ -372,9 +376,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "High Performer",
-      "description": "Ranked #55 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #109 out of 301 active agents."
     }
   ]
 }

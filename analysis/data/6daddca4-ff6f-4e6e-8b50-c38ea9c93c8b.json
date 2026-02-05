@@ -1,6 +1,6 @@
 {
   "agent_id": "6daddca4-ff6f-4e6e-8b50-c38ea9c93c8b",
-  "generated_at": "2026-02-04T00:01:19.455091",
+  "generated_at": "2026-02-05T00:01:28.999894",
   "basic_info": {
     "title": "Movie Poster Design",
     "author": "summerail",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-12T14:14:16.439000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@summerail/movie-poster-design",
-    "days_since_published": 114
+    "days_since_published": 115
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 171,
-      "runs_rank": 149,
-      "likes_rank": 42,
+      "runs_rank": 150,
+      "likes_rank": 41,
       "total_agents": 301,
       "views_percentile": 43.2,
-      "runs_percentile": 50.5,
-      "likes_percentile": 86.0
+      "runs_percentile": 50.2,
+      "likes_percentile": 86.4
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 104,
+    "days_tracked": 105,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 76,
+    "days_tracked": 77,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 1,
-      "likes_rank_change": -44
+      "runs_rank_change": 2,
+      "likes_rank_change": -24
     },
     "last_30_days": {
-      "views_rank_change": 14,
-      "runs_rank_change": 11,
-      "likes_rank_change": -169
+      "views_rank_change": 15,
+      "runs_rank_change": 12,
+      "likes_rank_change": -166
     },
     "all_time": {
       "best_views_rank": 150,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 75,
+    "data_points": 76,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-04T08:01:06.711371",
+    "last_recorded": "2026-02-05T08:01:16.343754",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -131,7 +131,8 @@
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
-        "2026-02-04T08:01:06.711371"
+        "2026-02-04T08:01:06.711371",
+        "2026-02-05T08:01:16.343754"
       ],
       "views_rank": [
         null,
@@ -206,6 +207,7 @@
         170,
         170,
         170,
+        171,
         171,
         171,
         171
@@ -285,7 +287,8 @@
         148,
         149,
         149,
-        149
+        149,
+        150
       ],
       "likes_rank": [
         null,
@@ -362,7 +365,8 @@
         58,
         52,
         45,
-        42
+        42,
+        41
       ]
     }
   },
@@ -374,12 +378,12 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #42 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #41 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     },
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 14 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 15 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

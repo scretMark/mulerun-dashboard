@@ -1,6 +1,6 @@
 {
   "agent_id": "9c43c798-660b-4ff7-ab0c-f930b3c96621",
-  "generated_at": "2026-02-04T00:01:21.044912",
+  "generated_at": "2026-02-05T00:01:30.710154",
   "basic_info": {
     "title": "Product Avatars",
     "author": "PicCopilot",
@@ -11,35 +11,35 @@
     "published_at": "2026-01-23T17:29:07.771000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/handheld-goods",
-    "days_since_published": 11
+    "days_since_published": 12
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 256,
       "runs_rank": 254,
-      "likes_rank": 256,
+      "likes_rank": 191,
       "total_agents": 301,
       "views_percentile": 15.0,
       "runs_percentile": 15.6,
-      "likes_percentile": 15.0
+      "likes_percentile": 36.5
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 10,
+    "days_tracked": 11,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 11,
+    "days_tracked": 12,
     "last_7_days": {
-      "views_rank_change": -2,
+      "views_rank_change": 0,
       "runs_rank_change": 1,
-      "likes_rank_change": 19
+      "likes_rank_change": -45
     },
     "last_30_days": {
       "views_rank_change": -6,
       "runs_rank_change": -6,
-      "likes_rank_change": 28
+      "likes_rank_change": -37
     },
     "all_time": {
       "best_views_rank": 256,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 11,
+    "data_points": 12,
     "first_recorded": "2026-01-24T08:01:00.990153",
-    "last_recorded": "2026-02-04T08:01:06.711371",
+    "last_recorded": "2026-02-05T08:01:16.343754",
     "time_series": {
       "dates": [
         "2026-01-24T08:01:00.990153",
@@ -67,7 +67,8 @@
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
-        "2026-02-04T08:01:06.711371"
+        "2026-02-04T08:01:06.711371",
+        "2026-02-05T08:01:16.343754"
       ],
       "views_rank": [
         262,
@@ -75,6 +76,7 @@
         259,
         259,
         258,
+        256,
         256,
         256,
         256,
@@ -93,6 +95,7 @@
         253,
         253,
         254,
+        254,
         254
       ],
       "likes_rank": [
@@ -106,7 +109,8 @@
         161,
         139,
         240,
-        256
+        256,
+        191
       ]
     }
   },

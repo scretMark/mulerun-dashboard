@@ -1,6 +1,6 @@
 {
   "agent_id": "27210885-9ff0-4701-aa29-524f0832136a",
-  "generated_at": "2026-02-04T00:01:17.087621",
+  "generated_at": "2026-02-05T00:01:26.266676",
   "basic_info": {
     "title": "Remove Watermark",
     "author": "PicCopilot",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-11T19:20:11.823000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/remove-watermark",
-    "days_since_published": 84
+    "days_since_published": 85
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 132,
       "runs_rank": 20,
-      "likes_rank": 250,
+      "likes_rank": 217,
       "total_agents": 301,
       "views_percentile": 56.1,
       "runs_percentile": 93.4,
-      "likes_percentile": 16.9
+      "likes_percentile": 27.9
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 82,
+    "days_tracked": 83,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 77,
+    "days_tracked": 78,
     "last_7_days": {
       "views_rank_change": -4,
       "runs_rank_change": -1,
-      "likes_rank_change": 22
+      "likes_rank_change": 44
     },
     "last_30_days": {
-      "views_rank_change": -22,
+      "views_rank_change": -19,
       "runs_rank_change": -3,
-      "likes_rank_change": 170
+      "likes_rank_change": 138
     },
     "all_time": {
       "best_views_rank": 132,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 76,
+    "data_points": 77,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-02-04T08:01:06.711371",
+    "last_recorded": "2026-02-05T08:01:16.343754",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -132,7 +132,8 @@
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
-        "2026-02-04T08:01:06.711371"
+        "2026-02-04T08:01:06.711371",
+        "2026-02-05T08:01:16.343754"
       ],
       "views_rank": [
         null,
@@ -210,6 +211,7 @@
         135,
         135,
         135,
+        132,
         132
       ],
       "runs_rank": [
@@ -288,6 +290,7 @@
         21,
         21,
         21,
+        20,
         20
       ],
       "likes_rank": [
@@ -366,7 +369,8 @@
         228,
         196,
         162,
-        250
+        250,
+        217
       ]
     }
   },
@@ -383,7 +387,7 @@
     {
       "type": "positive",
       "title": "Rising Star",
-      "description": "Improved by 22 positions in views ranking over the last 30 days - showing strong momentum!"
+      "description": "Improved by 19 positions in views ranking over the last 30 days - showing strong momentum!"
     }
   ]
 }

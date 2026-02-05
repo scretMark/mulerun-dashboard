@@ -1,6 +1,6 @@
 {
   "agent_id": "bf05b9d8-f133-4873-8976-2939575dacdb",
-  "generated_at": "2026-02-04T00:01:20.138967",
+  "generated_at": "2026-02-05T00:01:29.824351",
   "basic_info": {
     "title": "Your profession in the 20th century",
     "author": "8bit",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-09T14:26:51.198000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/your-profession-in-the-20th-century",
-    "days_since_published": 56
+    "days_since_published": 57
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 258,
       "runs_rank": 137,
-      "likes_rank": 80,
+      "likes_rank": 70,
       "total_agents": 301,
       "views_percentile": 14.3,
       "runs_percentile": 54.5,
-      "likes_percentile": 73.4
+      "likes_percentile": 76.7
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 53,
+    "days_tracked": 54,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 54,
+    "days_tracked": 55,
     "last_7_days": {
-      "views_rank_change": 2,
+      "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": -75
+      "likes_rank_change": -101
     },
     "last_30_days": {
       "views_rank_change": 12,
-      "runs_rank_change": 8,
-      "likes_rank_change": -5
+      "runs_rank_change": 7,
+      "likes_rank_change": -16
     },
     "all_time": {
       "best_views_rank": 224,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 53,
+    "data_points": 54,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2026-02-04T08:01:06.711371",
+    "last_recorded": "2026-02-05T08:01:16.343754",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -109,7 +109,8 @@
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
-        "2026-02-04T08:01:06.711371"
+        "2026-02-04T08:01:06.711371",
+        "2026-02-05T08:01:16.343754"
       ],
       "views_rank": [
         null,
@@ -164,6 +165,7 @@
         258,
         258,
         258,
+        258,
         258
       ],
       "runs_rank": [
@@ -213,6 +215,7 @@
         136,
         136,
         136,
+        137,
         137,
         137,
         137,
@@ -274,7 +277,8 @@
         126,
         111,
         94,
-        80
+        80,
+        70
       ]
     }
   },

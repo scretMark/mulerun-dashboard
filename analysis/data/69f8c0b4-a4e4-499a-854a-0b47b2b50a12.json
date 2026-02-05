@@ -1,6 +1,6 @@
 {
   "agent_id": "69f8c0b4-a4e4-499a-854a-0b47b2b50a12",
-  "generated_at": "2026-02-04T00:01:19.729310",
+  "generated_at": "2026-02-05T00:01:29.358622",
   "basic_info": {
     "title": "ShadowShift",
     "author": "luckyy",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-20T19:16:57.498000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@luckyy/shadowshift",
-    "days_since_published": 75
+    "days_since_published": 76
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 238,
       "runs_rank": 121,
-      "likes_rank": 183,
+      "likes_rank": 151,
       "total_agents": 301,
       "views_percentile": 20.9,
       "runs_percentile": 59.8,
-      "likes_percentile": 39.2
+      "likes_percentile": 49.8
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 73,
+    "days_tracked": 74,
     "price": 23.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 72,
+    "days_tracked": 73,
     "last_7_days": {
-      "views_rank_change": 2,
+      "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": 120
+      "likes_rank_change": 104
     },
     "last_30_days": {
       "views_rank_change": 12,
       "runs_rank_change": 5,
-      "likes_rank_change": -41
+      "likes_rank_change": -73
     },
     "all_time": {
       "best_views_rank": 206,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 72,
+    "data_points": 73,
     "first_recorded": "2025-11-23T13:27:48.290198",
-    "last_recorded": "2026-02-04T08:01:06.711371",
+    "last_recorded": "2026-02-05T08:01:16.343754",
     "time_series": {
       "dates": [
         "2025-11-23T13:27:48.290198",
@@ -128,7 +128,8 @@
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
-        "2026-02-04T08:01:06.711371"
+        "2026-02-04T08:01:06.711371",
+        "2026-02-05T08:01:16.343754"
       ],
       "views_rank": [
         null,
@@ -202,6 +203,7 @@
         238,
         239,
         240,
+        238,
         238
       ],
       "runs_rank": [
@@ -265,6 +267,7 @@
         119,
         119,
         119,
+        121,
         121,
         121,
         121,
@@ -350,7 +353,8 @@
         41,
         37,
         33,
-        183
+        183,
+        151
       ]
     }
   },

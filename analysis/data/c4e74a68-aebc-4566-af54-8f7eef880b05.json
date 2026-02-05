@@ -1,6 +1,6 @@
 {
   "agent_id": "c4e74a68-aebc-4566-af54-8f7eef880b05",
-  "generated_at": "2026-02-04T00:01:19.996983",
+  "generated_at": "2026-02-05T00:01:29.699865",
   "basic_info": {
     "title": "CoinAnalyst Pro",
     "author": "Barry",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-06T23:56:50.364000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Barry/coinanalyst-pro",
-    "days_since_published": 59
+    "days_since_published": 60
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 232,
-      "runs_rank": 147,
-      "likes_rank": 62,
+      "views_rank": 230,
+      "runs_rank": 146,
+      "likes_rank": 246,
       "total_agents": 301,
-      "views_percentile": 22.9,
-      "runs_percentile": 51.2,
-      "likes_percentile": 79.4
+      "views_percentile": 23.6,
+      "runs_percentile": 51.5,
+      "likes_percentile": 18.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 55,
+    "days_tracked": 56,
     "price": 78.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
-      "views_rank_change": 5,
-      "runs_rank_change": 0,
-      "likes_rank_change": -109
+      "views_rank_change": 3,
+      "runs_rank_change": -1,
+      "likes_rank_change": 130
     },
     "last_30_days": {
-      "views_rank_change": 10,
-      "runs_rank_change": 7,
-      "likes_rank_change": -20
+      "views_rank_change": 11,
+      "runs_rank_change": 6,
+      "likes_rank_change": 164
     },
     "all_time": {
       "best_views_rank": 212,
@@ -47,14 +47,14 @@
       "best_likes_rank": 5,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 232
+      "current_rank": 230
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 55,
+    "data_points": 56,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2026-02-04T08:01:06.711371",
+    "last_recorded": "2026-02-05T08:01:16.343754",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
@@ -111,7 +111,8 @@
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
-        "2026-02-04T08:01:06.711371"
+        "2026-02-04T08:01:06.711371",
+        "2026-02-05T08:01:16.343754"
       ],
       "views_rank": [
         null,
@@ -168,7 +169,8 @@
         228,
         228,
         229,
-        232
+        232,
+        230
       ],
       "runs_rank": [
         null,
@@ -225,7 +227,8 @@
         147,
         147,
         147,
-        147
+        147,
+        146
       ],
       "likes_rank": [
         null,
@@ -282,7 +285,8 @@
         97,
         87,
         72,
-        62
+        62,
+        246
       ]
     }
   },
@@ -299,9 +303,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #232 out of 301 active agents."
+      "type": "warning",
+      "title": "Declining Ranking",
+      "description": "Dropped 11 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

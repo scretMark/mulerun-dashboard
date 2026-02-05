@@ -1,6 +1,6 @@
 {
   "agent_id": "5be0c17b-1793-4749-9f6d-0c2dfa7195af",
-  "generated_at": "2026-02-04T00:01:21.071441",
+  "generated_at": "2026-02-05T00:01:30.745459",
   "basic_info": {
     "title": "Product Avatar Videos",
     "author": "PicCopilot",
@@ -11,35 +11,35 @@
     "published_at": "2026-01-29T11:46:55.926000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/product-redrawing",
-    "days_since_published": 5
+    "days_since_published": 6
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 252,
       "runs_rank": 238,
-      "likes_rank": 254,
+      "likes_rank": 190,
       "total_agents": 301,
       "views_percentile": 16.3,
       "runs_percentile": 20.9,
-      "likes_percentile": 15.6
+      "likes_percentile": 36.9
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 5,
+    "days_tracked": 6,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 4,
+    "days_tracked": 6,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 1,
-      "likes_rank_change": -14
+      "likes_rank_change": -78
     },
     "last_30_days": {
       "views_rank_change": 0,
       "runs_rank_change": 1,
-      "likes_rank_change": -14
+      "likes_rank_change": -78
     },
     "all_time": {
       "best_views_rank": 252,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 6,
+    "data_points": 7,
     "first_recorded": "2026-01-30T08:01:10.448186",
-    "last_recorded": "2026-02-04T08:01:06.711371",
+    "last_recorded": "2026-02-05T08:01:16.343754",
     "time_series": {
       "dates": [
         "2026-01-30T08:01:10.448186",
@@ -62,9 +62,11 @@
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
-        "2026-02-04T08:01:06.711371"
+        "2026-02-04T08:01:06.711371",
+        "2026-02-05T08:01:16.343754"
       ],
       "views_rank": [
+        252,
         252,
         252,
         252,
@@ -78,6 +80,7 @@
         238,
         238,
         238,
+        238,
         238
       ],
       "likes_rank": [
@@ -86,7 +89,8 @@
         178,
         275,
         198,
-        254
+        254,
+        190
       ]
     }
   },

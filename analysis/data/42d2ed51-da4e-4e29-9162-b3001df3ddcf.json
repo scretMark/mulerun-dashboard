@@ -1,6 +1,6 @@
 {
   "agent_id": "42d2ed51-da4e-4e29-9162-b3001df3ddcf",
-  "generated_at": "2026-02-04T00:01:18.025691",
+  "generated_at": "2026-02-05T00:01:27.271870",
   "basic_info": {
     "title": "3-Panel Photo Story",
     "author": "Lucas",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-28T19:35:20.624000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/3-panel-photo-story",
-    "days_since_published": 98
+    "days_since_published": 99
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 121,
+      "views_rank": 122,
       "runs_rank": 115,
-      "likes_rank": 219,
+      "likes_rank": 174,
       "total_agents": 301,
-      "views_percentile": 59.8,
+      "views_percentile": 59.5,
       "runs_percentile": 61.8,
-      "likes_percentile": 27.2
+      "likes_percentile": 42.2
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 95,
+    "days_tracked": 96,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 76,
+    "days_tracked": 77,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": 215
+      "likes_rank_change": -23
     },
     "last_30_days": {
       "views_rank_change": 4,
-      "runs_rank_change": 9,
-      "likes_rank_change": 196
+      "runs_rank_change": 7,
+      "likes_rank_change": 143
     },
     "all_time": {
       "best_views_rank": 111,
@@ -47,14 +47,14 @@
       "best_likes_rank": 4,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 121
+      "current_rank": 122
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 75,
+    "data_points": 76,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-04T08:01:06.711371",
+    "last_recorded": "2026-02-05T08:01:16.343754",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -131,7 +131,8 @@
         "2026-02-01T08:01:13.578491",
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
-        "2026-02-04T08:01:06.711371"
+        "2026-02-04T08:01:06.711371",
+        "2026-02-05T08:01:16.343754"
       ],
       "views_rank": [
         null,
@@ -208,7 +209,8 @@
         122,
         120,
         120,
-        121
+        121,
+        122
       ],
       "runs_rank": [
         null,
@@ -279,6 +281,7 @@
         113,
         113,
         114,
+        115,
         115,
         115,
         115,
@@ -362,7 +365,8 @@
         145,
         298,
         205,
-        219
+        219,
+        174
       ]
     }
   },
@@ -374,7 +378,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #121 out of 301 active agents."
+      "description": "This agent is currently ranked #122 out of 301 active agents."
     }
   ]
 }
