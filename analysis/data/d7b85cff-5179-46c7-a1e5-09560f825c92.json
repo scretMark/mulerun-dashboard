@@ -1,6 +1,6 @@
 {
   "agent_id": "d7b85cff-5179-46c7-a1e5-09560f825c92",
-  "generated_at": "2026-02-05T00:01:26.068128",
+  "generated_at": "2026-02-06T00:01:24.178896",
   "basic_info": {
     "title": "AI Model Swap",
     "author": "PicCopilot",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-11T19:26:53.701000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/ai-model-swap",
-    "days_since_published": 85
+    "days_since_published": 86
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 56,
       "runs_rank": 10,
-      "likes_rank": 208,
-      "total_agents": 301,
-      "views_percentile": 81.4,
+      "likes_rank": 255,
+      "total_agents": 303,
+      "views_percentile": 81.5,
       "runs_percentile": 96.7,
-      "likes_percentile": 30.9
+      "likes_percentile": 15.8
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 83,
+    "days_tracked": 84,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 78,
+    "days_tracked": 79,
     "last_7_days": {
       "views_rank_change": -1,
       "runs_rank_change": 0,
-      "likes_rank_change": -14
+      "likes_rank_change": 33
     },
     "last_30_days": {
       "views_rank_change": -12,
       "runs_rank_change": -1,
-      "likes_rank_change": 147
+      "likes_rank_change": 185
     },
     "all_time": {
       "best_views_rank": 56,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 77,
+    "data_points": 78,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-02-05T08:01:16.343754",
+    "last_recorded": "2026-02-06T08:01:09.004909",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -133,7 +133,8 @@
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
-        "2026-02-05T08:01:16.343754"
+        "2026-02-05T08:01:16.343754",
+        "2026-02-06T08:01:09.004909"
       ],
       "views_rank": [
         null,
@@ -212,6 +213,7 @@
         56,
         56,
         56,
+        56,
         56
       ],
       "runs_rank": [
@@ -272,6 +274,7 @@
         11,
         11,
         11,
+        10,
         10,
         10,
         10,
@@ -370,7 +373,8 @@
         187,
         236,
         288,
-        208
+        208,
+        255
       ]
     }
   },

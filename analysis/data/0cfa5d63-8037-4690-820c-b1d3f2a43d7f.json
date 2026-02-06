@@ -1,6 +1,6 @@
 {
   "agent_id": "0cfa5d63-8037-4690-820c-b1d3f2a43d7f",
-  "generated_at": "2026-02-05T00:01:30.262514",
+  "generated_at": "2026-02-06T00:01:28.225713",
   "basic_info": {
     "title": "Reddit to YouTube Script - laughing_code",
     "author": "laughing_code",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-22T12:25:46.444000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@laughing_code/reddit-to-youtube-script-laughing-code",
-    "days_since_published": 44
+    "days_since_published": 45
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 204,
-      "runs_rank": 260,
-      "likes_rank": 147,
-      "total_agents": 301,
-      "views_percentile": 32.2,
-      "runs_percentile": 13.6,
-      "likes_percentile": 51.2
+      "views_rank": 205,
+      "runs_rank": 262,
+      "likes_rank": 123,
+      "total_agents": 303,
+      "views_percentile": 32.3,
+      "runs_percentile": 13.5,
+      "likes_percentile": 59.4
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 39,
+    "days_tracked": 40,
     "price": 90.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 44,
+    "days_tracked": 45,
     "last_7_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": 1,
-      "likes_rank_change": -34
+      "views_rank_change": 1,
+      "runs_rank_change": 3,
+      "likes_rank_change": -58
     },
     "last_30_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": 17,
-      "likes_rank_change": 81
+      "views_rank_change": 2,
+      "runs_rank_change": 18,
+      "likes_rank_change": 57
     },
     "all_time": {
       "best_views_rank": 203,
@@ -47,14 +47,14 @@
       "best_likes_rank": 24,
       "days_in_top_10": 0,
       "first_rank": 228,
-      "current_rank": 204
+      "current_rank": 205
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 40,
+    "data_points": 41,
     "first_recorded": "2025-12-23T08:00:59.635142",
-    "last_recorded": "2026-02-05T08:01:16.343754",
+    "last_recorded": "2026-02-06T08:01:09.004909",
     "time_series": {
       "dates": [
         "2025-12-23T08:00:59.635142",
@@ -96,7 +96,8 @@
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
-        "2026-02-05T08:01:16.343754"
+        "2026-02-05T08:01:16.343754",
+        "2026-02-06T08:01:09.004909"
       ],
       "views_rank": [
         228,
@@ -138,7 +139,8 @@
         204,
         204,
         204,
-        204
+        204,
+        205
       ],
       "runs_rank": [
         238,
@@ -180,7 +182,8 @@
         259,
         260,
         260,
-        260
+        260,
+        262
       ],
       "likes_rank": [
         44,
@@ -222,7 +225,8 @@
         295,
         284,
         178,
-        147
+        147,
+        123
       ]
     }
   },
@@ -241,7 +245,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #204 out of 301 active agents."
+      "description": "This agent is currently ranked #205 out of 303 active agents."
     }
   ]
 }

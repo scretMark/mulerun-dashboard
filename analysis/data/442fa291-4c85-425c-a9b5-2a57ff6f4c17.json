@@ -1,6 +1,6 @@
 {
   "agent_id": "442fa291-4c85-425c-a9b5-2a57ff6f4c17",
-  "generated_at": "2026-02-05T00:01:27.192938",
+  "generated_at": "2026-02-06T00:01:25.307911",
   "basic_info": {
     "title": "Multilingual News Briefing",
     "author": "freeya619",
@@ -11,40 +11,40 @@
     "published_at": "2025-10-20T10:16:06.483000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@freeya619/multilingual-news-briefing",
-    "days_since_published": 107
+    "days_since_published": 108
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 177,
-      "runs_rank": 234,
-      "likes_rank": 38,
-      "total_agents": 301,
-      "views_percentile": 41.2,
-      "runs_percentile": 22.3,
-      "likes_percentile": 87.4
+      "runs_rank": 236,
+      "likes_rank": 34,
+      "total_agents": 303,
+      "views_percentile": 41.6,
+      "runs_percentile": 22.1,
+      "likes_percentile": 88.8
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 105,
+    "days_tracked": 106,
     "price": 6.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 77,
+    "days_tracked": 78,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 0,
-      "likes_rank_change": -22
+      "runs_rank_change": 2,
+      "likes_rank_change": -26
     },
     "last_30_days": {
       "views_rank_change": 3,
-      "runs_rank_change": 11,
-      "likes_rank_change": -201
+      "runs_rank_change": 12,
+      "likes_rank_change": -208
     },
     "all_time": {
       "best_views_rank": 170,
       "best_runs_rank": 202,
-      "best_likes_rank": 38,
+      "best_likes_rank": 34,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 177
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 76,
+    "data_points": 77,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-05T08:01:16.343754",
+    "last_recorded": "2026-02-06T08:01:09.004909",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -132,7 +132,8 @@
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
-        "2026-02-05T08:01:16.343754"
+        "2026-02-05T08:01:16.343754",
+        "2026-02-06T08:01:09.004909"
       ],
       "views_rank": [
         null,
@@ -210,6 +211,7 @@
         176,
         176,
         176,
+        177,
         177
       ],
       "runs_rank": [
@@ -288,7 +290,8 @@
         234,
         234,
         234,
-        234
+        234,
+        236
       ],
       "likes_rank": [
         null,
@@ -366,7 +369,8 @@
         48,
         42,
         39,
-        38
+        38,
+        34
       ]
     }
   },
@@ -378,7 +382,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #38 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #34 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "aee41d41-0318-43ce-b6cd-e6a2def163b8",
-  "generated_at": "2026-02-05T00:01:27.511100",
+  "generated_at": "2026-02-06T00:01:25.664927",
   "basic_info": {
     "title": "Mechanical Image Generator",
     "author": "Darren",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-30T09:50:41.881000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/mechanical-image-generator",
-    "days_since_published": 127
+    "days_since_published": 128
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 102,
       "runs_rank": 79,
-      "likes_rank": 180,
-      "total_agents": 301,
-      "views_percentile": 66.1,
-      "runs_percentile": 73.8,
-      "likes_percentile": 40.2
+      "likes_rank": 144,
+      "total_agents": 303,
+      "views_percentile": 66.3,
+      "runs_percentile": 73.9,
+      "likes_percentile": 52.5
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 98,
+    "days_tracked": 99,
     "price": 29.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 77,
+    "days_tracked": 78,
     "last_7_days": {
       "views_rank_change": -1,
       "runs_rank_change": 0,
-      "likes_rank_change": -92
+      "likes_rank_change": -128
     },
     "last_30_days": {
       "views_rank_change": -2,
       "runs_rank_change": -15,
-      "likes_rank_change": -57
+      "likes_rank_change": -91
     },
     "all_time": {
       "best_views_rank": 96,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 76,
+    "data_points": 77,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-05T08:01:16.343754",
+    "last_recorded": "2026-02-06T08:01:09.004909",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -132,7 +132,8 @@
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
-        "2026-02-05T08:01:16.343754"
+        "2026-02-05T08:01:16.343754",
+        "2026-02-06T08:01:09.004909"
       ],
       "views_rank": [
         null,
@@ -210,6 +211,7 @@
         103,
         102,
         102,
+        102,
         102
       ],
       "runs_rank": [
@@ -276,6 +278,7 @@
         78,
         78,
         78,
+        79,
         79,
         79,
         79,
@@ -366,7 +369,8 @@
         199,
         225,
         230,
-        180
+        180,
+        144
       ]
     }
   },

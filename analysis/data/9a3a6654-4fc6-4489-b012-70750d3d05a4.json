@@ -1,6 +1,6 @@
 {
   "agent_id": "9a3a6654-4fc6-4489-b012-70750d3d05a4",
-  "generated_at": "2026-02-05T00:01:29.278575",
+  "generated_at": "2026-02-06T00:01:27.289143",
   "basic_info": {
     "title": "FrostyPunster",
     "author": "hoainamluci",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-14T00:45:06.127000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@hoainamluci/frostypunster",
-    "days_since_published": 113
+    "days_since_published": 114
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 209,
-      "runs_rank": 301,
-      "likes_rank": 117,
-      "total_agents": 301,
-      "views_percentile": 30.6,
+      "views_rank": 210,
+      "runs_rank": 303,
+      "likes_rank": 99,
+      "total_agents": 303,
+      "views_percentile": 30.7,
       "runs_percentile": 0.0,
-      "likes_percentile": 61.1
+      "likes_percentile": 67.3
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 108,
+    "days_tracked": 109,
     "price": 70.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 77,
+    "days_tracked": 78,
     "last_7_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": 0,
-      "likes_rank_change": 90
+      "views_rank_change": 2,
+      "runs_rank_change": 2,
+      "likes_rank_change": 72
     },
     "last_30_days": {
-      "views_rank_change": 7,
-      "runs_rank_change": 18,
-      "likes_rank_change": 89
+      "views_rank_change": 8,
+      "runs_rank_change": 17,
+      "likes_rank_change": 72
     },
     "all_time": {
       "best_views_rank": 191,
@@ -47,14 +47,14 @@
       "best_likes_rank": 10,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 209
+      "current_rank": 210
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 76,
+    "data_points": 77,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-05T08:01:16.343754",
+    "last_recorded": "2026-02-06T08:01:09.004909",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -132,7 +132,8 @@
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
-        "2026-02-05T08:01:16.343754"
+        "2026-02-05T08:01:16.343754",
+        "2026-02-06T08:01:09.004909"
       ],
       "views_rank": [
         null,
@@ -210,7 +211,8 @@
         208,
         208,
         208,
-        209
+        209,
+        210
       ],
       "runs_rank": [
         null,
@@ -288,7 +290,8 @@
         301,
         301,
         301,
-        301
+        301,
+        303
       ],
       "likes_rank": [
         null,
@@ -366,7 +369,8 @@
         255,
         189,
         136,
-        117
+        117,
+        99
       ]
     }
   },
@@ -378,7 +382,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #209 out of 301 active agents."
+      "description": "This agent is currently ranked #210 out of 303 active agents."
     }
   ]
 }

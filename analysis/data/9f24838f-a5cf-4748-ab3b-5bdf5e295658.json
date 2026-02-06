@@ -1,6 +1,6 @@
 {
   "agent_id": "9f24838f-a5cf-4748-ab3b-5bdf5e295658",
-  "generated_at": "2026-02-05T00:01:28.793118",
+  "generated_at": "2026-02-06T00:01:26.869941",
   "basic_info": {
     "title": "Soul Spark",
     "author": "mtmr8466_crepis",
@@ -11,40 +11,40 @@
     "published_at": "2025-10-09T15:54:04.446000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@mtmr8466_crepis/soul-spark",
-    "days_since_published": 118
+    "days_since_published": 119
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 142,
-      "runs_rank": 190,
-      "likes_rank": 39,
-      "total_agents": 301,
-      "views_percentile": 52.8,
-      "runs_percentile": 36.9,
-      "likes_percentile": 87.0
+      "runs_rank": 191,
+      "likes_rank": 35,
+      "total_agents": 303,
+      "views_percentile": 53.1,
+      "runs_percentile": 37.0,
+      "likes_percentile": 88.4
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 113,
+    "days_tracked": 114,
     "price": 40.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 77,
+    "days_tracked": 78,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 0,
-      "likes_rank_change": -23
+      "runs_rank_change": 1,
+      "likes_rank_change": -27
     },
     "last_30_days": {
       "views_rank_change": 4,
       "runs_rank_change": 13,
-      "likes_rank_change": -115
+      "likes_rank_change": -124
     },
     "all_time": {
       "best_views_rank": 130,
       "best_runs_rank": 160,
-      "best_likes_rank": 39,
+      "best_likes_rank": 35,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 142
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 76,
+    "data_points": 77,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-05T08:01:16.343754",
+    "last_recorded": "2026-02-06T08:01:09.004909",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -132,7 +132,8 @@
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
-        "2026-02-05T08:01:16.343754"
+        "2026-02-05T08:01:16.343754",
+        "2026-02-06T08:01:09.004909"
       ],
       "views_rank": [
         null,
@@ -206,6 +207,7 @@
         141,
         141,
         141,
+        142,
         142,
         142,
         142,
@@ -288,7 +290,8 @@
         190,
         190,
         190,
-        190
+        190,
+        191
       ],
       "likes_rank": [
         null,
@@ -366,7 +369,8 @@
         49,
         43,
         40,
-        39
+        39,
+        35
       ]
     }
   },
@@ -378,7 +382,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #39 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #35 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

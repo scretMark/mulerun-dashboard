@@ -1,6 +1,6 @@
 {
   "agent_id": "e441e832-e6fd-4f42-8b38-546dce37baea",
-  "generated_at": "2026-02-05T00:01:29.499778",
+  "generated_at": "2026-02-06T00:01:27.451757",
   "basic_info": {
     "title": "Bored Ape NFT avatar",
     "author": "Barry",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-01T00:16:36.080000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Barry/bored-ape-nft-avatar",
-    "days_since_published": 65
+    "days_since_published": 66
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 254,
-      "runs_rank": 169,
-      "likes_rank": 262,
-      "total_agents": 301,
-      "views_percentile": 15.6,
+      "views_rank": 255,
+      "runs_rank": 170,
+      "likes_rank": 256,
+      "total_agents": 303,
+      "views_percentile": 15.8,
       "runs_percentile": 43.9,
-      "likes_percentile": 13.0
+      "likes_percentile": 15.5
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 61,
+    "days_tracked": 62,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 64,
+    "days_tracked": 65,
     "last_7_days": {
-      "views_rank_change": -1,
-      "runs_rank_change": -2,
-      "likes_rank_change": 250
+      "views_rank_change": 0,
+      "runs_rank_change": -1,
+      "likes_rank_change": 244
     },
     "last_30_days": {
-      "views_rank_change": 12,
-      "runs_rank_change": 8,
-      "likes_rank_change": 128
+      "views_rank_change": 13,
+      "runs_rank_change": 9,
+      "likes_rank_change": 118
     },
     "all_time": {
       "best_views_rank": 217,
@@ -47,14 +47,14 @@
       "best_likes_rank": 11,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 254
+      "current_rank": 255
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 61,
+    "data_points": 62,
     "first_recorded": "2025-12-02T16:52:00.461129",
-    "last_recorded": "2026-02-05T08:01:16.343754",
+    "last_recorded": "2026-02-06T08:01:09.004909",
     "time_series": {
       "dates": [
         "2025-12-02T16:52:00.461129",
@@ -117,7 +117,8 @@
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
-        "2026-02-05T08:01:16.343754"
+        "2026-02-05T08:01:16.343754",
+        "2026-02-06T08:01:09.004909"
       ],
       "views_rank": [
         null,
@@ -180,7 +181,8 @@
         255,
         255,
         255,
-        254
+        254,
+        255
       ],
       "runs_rank": [
         null,
@@ -243,7 +245,8 @@
         169,
         169,
         169,
-        169
+        169,
+        170
       ],
       "likes_rank": [
         null,
@@ -306,7 +309,8 @@
         277,
         199,
         207,
-        262
+        262,
+        256
       ]
     }
   },
@@ -325,7 +329,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 12 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 13 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

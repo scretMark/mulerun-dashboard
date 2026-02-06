@@ -1,6 +1,6 @@
 {
   "agent_id": "ea15d85e-4be4-48f9-904e-dddd2805efff",
-  "generated_at": "2026-02-05T00:01:27.604237",
+  "generated_at": "2026-02-06T00:01:25.754596",
   "basic_info": {
     "title": "Pet Morph Wizard",
     "author": "Milo_Em",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-11T17:30:04.210000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Milo_Em/pet-morph-wizard",
-    "days_since_published": 116
+    "days_since_published": 117
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 189,
-      "runs_rank": 235,
-      "likes_rank": 122,
-      "total_agents": 301,
-      "views_percentile": 37.2,
-      "runs_percentile": 21.9,
-      "likes_percentile": 59.5
+      "runs_rank": 237,
+      "likes_rank": 103,
+      "total_agents": 303,
+      "views_percentile": 37.6,
+      "runs_percentile": 21.8,
+      "likes_percentile": 66.0
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 98,
+    "days_tracked": 99,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 77,
+    "days_tracked": 78,
     "last_7_days": {
       "views_rank_change": 0,
-      "runs_rank_change": 0,
-      "likes_rank_change": 76
+      "runs_rank_change": 2,
+      "likes_rank_change": 57
     },
     "last_30_days": {
-      "views_rank_change": 7,
-      "runs_rank_change": 15,
-      "likes_rank_change": -8
+      "views_rank_change": 6,
+      "runs_rank_change": 16,
+      "likes_rank_change": -32
     },
     "all_time": {
       "best_views_rank": 169,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 76,
+    "data_points": 77,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-05T08:01:16.343754",
+    "last_recorded": "2026-02-06T08:01:09.004909",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -132,7 +132,8 @@
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
-        "2026-02-05T08:01:16.343754"
+        "2026-02-05T08:01:16.343754",
+        "2026-02-06T08:01:09.004909"
       ],
       "views_rank": [
         null,
@@ -210,6 +211,7 @@
         187,
         187,
         188,
+        189,
         189
       ],
       "runs_rank": [
@@ -288,7 +290,8 @@
         235,
         235,
         235,
-        235
+        235,
+        237
       ],
       "likes_rank": [
         null,
@@ -366,7 +369,8 @@
         190,
         208,
         142,
-        122
+        122,
+        103
       ]
     }
   },
@@ -378,7 +382,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #189 out of 301 active agents."
+      "description": "This agent is currently ranked #189 out of 303 active agents."
     }
   ]
 }

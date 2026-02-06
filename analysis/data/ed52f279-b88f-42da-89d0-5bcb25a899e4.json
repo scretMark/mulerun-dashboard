@@ -1,6 +1,6 @@
 {
   "agent_id": "ed52f279-b88f-42da-89d0-5bcb25a899e4",
-  "generated_at": "2026-02-05T00:01:26.373849",
+  "generated_at": "2026-02-06T00:01:24.496691",
   "basic_info": {
     "title": "White Background",
     "author": "PicCopilot",
@@ -11,50 +11,50 @@
     "published_at": "2025-11-11T19:24:00.925000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/white-background",
-    "days_since_published": 85
+    "days_since_published": 86
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 129,
+      "views_rank": 127,
       "runs_rank": 22,
-      "likes_rank": 219,
-      "total_agents": 301,
-      "views_percentile": 57.1,
+      "likes_rank": 269,
+      "total_agents": 303,
+      "views_percentile": 58.1,
       "runs_percentile": 92.7,
-      "likes_percentile": 27.2
+      "likes_percentile": 11.2
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 83,
+    "days_tracked": 84,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 78,
+    "days_tracked": 79,
     "last_7_days": {
-      "views_rank_change": 0,
+      "views_rank_change": -2,
       "runs_rank_change": 0,
-      "likes_rank_change": -4
+      "likes_rank_change": 46
     },
     "last_30_days": {
-      "views_rank_change": -18,
+      "views_rank_change": -16,
       "runs_rank_change": -3,
-      "likes_rank_change": -28
+      "likes_rank_change": 20
     },
     "all_time": {
-      "best_views_rank": 128,
+      "best_views_rank": 127,
       "best_runs_rank": 22,
       "best_likes_rank": 64,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 129
+      "current_rank": 127
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 77,
+    "data_points": 78,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-02-05T08:01:16.343754",
+    "last_recorded": "2026-02-06T08:01:09.004909",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -133,7 +133,8 @@
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
-        "2026-02-05T08:01:16.343754"
+        "2026-02-05T08:01:16.343754",
+        "2026-02-06T08:01:09.004909"
       ],
       "views_rank": [
         null,
@@ -212,7 +213,8 @@
         128,
         128,
         129,
-        129
+        129,
+        127
       ],
       "runs_rank": [
         null,
@@ -277,6 +279,7 @@
         23,
         23,
         23,
+        22,
         22,
         22,
         22,
@@ -370,7 +373,8 @@
         282,
         268,
         244,
-        219
+        219,
+        269
       ]
     }
   },
@@ -387,7 +391,7 @@
     {
       "type": "positive",
       "title": "Rising Star",
-      "description": "Improved by 18 positions in views ranking over the last 30 days - showing strong momentum!"
+      "description": "Improved by 16 positions in views ranking over the last 30 days - showing strong momentum!"
     }
   ]
 }

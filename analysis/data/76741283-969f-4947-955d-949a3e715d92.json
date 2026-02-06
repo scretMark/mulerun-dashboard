@@ -1,6 +1,6 @@
 {
   "agent_id": "76741283-969f-4947-955d-949a3e715d92",
-  "generated_at": "2026-02-05T00:01:30.644776",
+  "generated_at": "2026-02-06T00:01:28.607022",
   "basic_info": {
     "title": "WordSnap Flashcard",
     "author": "LinkAIBrain",
@@ -11,35 +11,35 @@
     "published_at": "2026-01-14T17:13:23.199000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/wordsnap-flashcard",
-    "days_since_published": 21
+    "days_since_published": 22
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 219,
+      "views_rank": 220,
       "runs_rank": 194,
-      "likes_rank": 112,
-      "total_agents": 301,
-      "views_percentile": 27.2,
-      "runs_percentile": 35.5,
-      "likes_percentile": 62.8
+      "likes_rank": 222,
+      "total_agents": 303,
+      "views_percentile": 27.4,
+      "runs_percentile": 36.0,
+      "likes_percentile": 26.7
     },
-    "tier": "Mid",
-    "tier_class": "mid",
+    "tier": "Low",
+    "tier_class": "low",
     "days_tracked": 0,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 21,
+    "days_tracked": 22,
     "last_7_days": {
-      "views_rank_change": 1,
+      "views_rank_change": 2,
       "runs_rank_change": 0,
-      "likes_rank_change": 39
+      "likes_rank_change": 149
     },
     "last_30_days": {
-      "views_rank_change": -24,
+      "views_rank_change": -23,
       "runs_rank_change": -20,
-      "likes_rank_change": -131
+      "likes_rank_change": -21
     },
     "all_time": {
       "best_views_rank": 216,
@@ -47,14 +47,14 @@
       "best_likes_rank": 65,
       "days_in_top_10": 0,
       "first_rank": 243,
-      "current_rank": 219
+      "current_rank": 220
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 20,
+    "data_points": 21,
     "first_recorded": "2026-01-15T08:01:02.601407",
-    "last_recorded": "2026-02-05T08:01:16.343754",
+    "last_recorded": "2026-02-06T08:01:09.004909",
     "time_series": {
       "dates": [
         "2026-01-15T08:01:02.601407",
@@ -76,7 +76,8 @@
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
-        "2026-02-05T08:01:16.343754"
+        "2026-02-05T08:01:16.343754",
+        "2026-02-06T08:01:09.004909"
       ],
       "views_rank": [
         243,
@@ -98,7 +99,8 @@
         218,
         218,
         219,
-        219
+        219,
+        220
       ],
       "runs_rank": [
         214,
@@ -112,6 +114,7 @@
         193,
         193,
         193,
+        194,
         194,
         194,
         194,
@@ -142,7 +145,8 @@
         236,
         181,
         131,
-        112
+        112,
+        222
       ]
     }
   },
@@ -161,7 +165,7 @@
     {
       "type": "positive",
       "title": "Rising Star",
-      "description": "Improved by 24 positions in views ranking over the last 30 days - showing strong momentum!"
+      "description": "Improved by 23 positions in views ranking over the last 30 days - showing strong momentum!"
     },
     {
       "type": "positive",

@@ -1,6 +1,6 @@
 {
   "agent_id": "9a5db4d2-af15-4f22-a113-7f6729247773",
-  "generated_at": "2026-02-05T00:01:30.272787",
+  "generated_at": "2026-02-06T00:01:28.235840",
   "basic_info": {
     "title": "Hand-Drawn Santa Me",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-22T10:20:25.768000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/hand-drawn-santa-me",
-    "days_since_published": 44
+    "days_since_published": 45
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 293,
-      "runs_rank": 280,
-      "likes_rank": 87,
-      "total_agents": 301,
-      "views_percentile": 2.7,
-      "runs_percentile": 7.0,
-      "likes_percentile": 71.1
+      "views_rank": 295,
+      "runs_rank": 282,
+      "likes_rank": 74,
+      "total_agents": 303,
+      "views_percentile": 2.6,
+      "runs_percentile": 6.9,
+      "likes_percentile": 75.6
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 39,
+    "days_tracked": 40,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 44,
+    "days_tracked": 45,
     "last_7_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": 1,
-      "likes_rank_change": -165
+      "views_rank_change": 2,
+      "runs_rank_change": 3,
+      "likes_rank_change": -178
     },
     "last_30_days": {
-      "views_rank_change": 18,
+      "views_rank_change": 17,
       "runs_rank_change": 16,
-      "likes_rank_change": -50
+      "likes_rank_change": -68
     },
     "all_time": {
       "best_views_rank": 270,
@@ -47,14 +47,14 @@
       "best_likes_rank": 17,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 293
+      "current_rank": 295
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 40,
+    "data_points": 41,
     "first_recorded": "2025-12-23T08:00:59.635142",
-    "last_recorded": "2026-02-05T08:01:16.343754",
+    "last_recorded": "2026-02-06T08:01:09.004909",
     "time_series": {
       "dates": [
         "2025-12-23T08:00:59.635142",
@@ -96,7 +96,8 @@
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
-        "2026-02-05T08:01:16.343754"
+        "2026-02-05T08:01:16.343754",
+        "2026-02-06T08:01:09.004909"
       ],
       "views_rank": [
         null,
@@ -138,7 +139,8 @@
         293,
         293,
         293,
-        293
+        293,
+        295
       ],
       "runs_rank": [
         245,
@@ -180,7 +182,8 @@
         280,
         280,
         280,
-        280
+        280,
+        282
       ],
       "likes_rank": [
         56,
@@ -222,7 +225,8 @@
         148,
         126,
         101,
-        87
+        87,
+        74
       ]
     }
   },
@@ -241,7 +245,7 @@
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 18 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 17 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

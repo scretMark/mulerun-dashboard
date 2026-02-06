@@ -1,6 +1,6 @@
 {
   "agent_id": "a81c11a0-b414-44cb-a449-c5d1e43ed341",
-  "generated_at": "2026-02-05T00:01:28.634290",
+  "generated_at": "2026-02-06T00:01:26.731362",
   "basic_info": {
     "title": "HallowMe",
     "author": "DENNIS",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-31T15:15:17.615000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@DENNIS/hallowme",
-    "days_since_published": 96
+    "days_since_published": 97
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 111,
-      "runs_rank": 123,
-      "likes_rank": 271,
-      "total_agents": 301,
-      "views_percentile": 63.1,
+      "runs_rank": 124,
+      "likes_rank": 195,
+      "total_agents": 303,
+      "views_percentile": 63.4,
       "runs_percentile": 59.1,
-      "likes_percentile": 10.0
+      "likes_percentile": 35.6
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 96,
+    "days_tracked": 97,
     "price": 150.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 77,
+    "days_tracked": 78,
     "last_7_days": {
       "views_rank_change": -1,
-      "runs_rank_change": 0,
-      "likes_rank_change": 28
+      "runs_rank_change": 1,
+      "likes_rank_change": -48
     },
     "last_30_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": 6,
-      "likes_rank_change": 78
+      "views_rank_change": -1,
+      "runs_rank_change": 7,
+      "likes_rank_change": -3
     },
     "all_time": {
       "best_views_rank": 102,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 76,
+    "data_points": 77,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-05T08:01:16.343754",
+    "last_recorded": "2026-02-06T08:01:09.004909",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -132,7 +132,8 @@
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
-        "2026-02-05T08:01:16.343754"
+        "2026-02-05T08:01:16.343754",
+        "2026-02-06T08:01:09.004909"
       ],
       "views_rank": [
         null,
@@ -209,6 +210,7 @@
         112,
         112,
         112,
+        111,
         111,
         111
       ],
@@ -288,7 +290,8 @@
         123,
         123,
         123,
-        123
+        123,
+        124
       ],
       "likes_rank": [
         null,
@@ -366,7 +369,8 @@
         144,
         122,
         216,
-        271
+        271,
+        195
       ]
     }
   },
@@ -378,7 +382,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #111 out of 301 active agents."
+      "description": "This agent is currently ranked #111 out of 303 active agents."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "agent_id": "53e9294d-534f-4e59-9ebb-2098952c4641",
-  "generated_at": "2026-02-05T00:01:30.138196",
+  "generated_at": "2026-02-06T00:01:28.109272",
   "basic_info": {
     "title": "Pixel Christmas Dance Maker",
     "author": "nzwhouxvbbb094f",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-12T16:35:29.767000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@nzwhouxvbbb094f/pixel-christmas-dance-maker",
-    "days_since_published": 54
+    "days_since_published": 55
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 262,
-      "runs_rank": 267,
-      "likes_rank": 36,
-      "total_agents": 301,
-      "views_percentile": 13.0,
-      "runs_percentile": 11.3,
-      "likes_percentile": 88.0
+      "views_rank": 263,
+      "runs_rank": 269,
+      "likes_rank": 32,
+      "total_agents": 303,
+      "views_percentile": 13.2,
+      "runs_percentile": 11.2,
+      "likes_percentile": 89.4
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 44,
+    "days_tracked": 45,
     "price": 71.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 48,
+    "days_tracked": 49,
     "last_7_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": 2,
-      "likes_rank_change": -19
+      "views_rank_change": 2,
+      "runs_rank_change": 4,
+      "likes_rank_change": -23
     },
     "last_30_days": {
-      "views_rank_change": 12,
-      "runs_rank_change": 16,
-      "likes_rank_change": -71
+      "views_rank_change": 13,
+      "runs_rank_change": 17,
+      "likes_rank_change": -78
     },
     "all_time": {
       "best_views_rank": 227,
@@ -47,14 +47,14 @@
       "best_likes_rank": 16,
       "days_in_top_10": 0,
       "first_rank": 228,
-      "current_rank": 262
+      "current_rank": 263
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 44,
+    "data_points": 45,
     "first_recorded": "2025-12-18T15:35:16.146705",
-    "last_recorded": "2026-02-05T08:01:16.343754",
+    "last_recorded": "2026-02-06T08:01:09.004909",
     "time_series": {
       "dates": [
         "2025-12-18T15:35:16.146705",
@@ -100,7 +100,8 @@
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
-        "2026-02-05T08:01:16.343754"
+        "2026-02-05T08:01:16.343754",
+        "2026-02-06T08:01:09.004909"
       ],
       "views_rank": [
         228,
@@ -146,7 +147,8 @@
         261,
         261,
         262,
-        262
+        262,
+        263
       ],
       "runs_rank": [
         237,
@@ -192,7 +194,8 @@
         266,
         267,
         267,
-        267
+        267,
+        269
       ],
       "likes_rank": [
         27,
@@ -238,7 +241,8 @@
         44,
         38,
         36,
-        36
+        36,
+        32
       ]
     }
   },
@@ -257,12 +261,12 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #36 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #32 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     },
     {
       "type": "warning",
       "title": "Declining Ranking",
-      "description": "Dropped 12 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
+      "description": "Dropped 13 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

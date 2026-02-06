@@ -1,6 +1,6 @@
 {
   "agent_id": "0c942f9e-7778-4c8b-b5fc-ca762e9f8466",
-  "generated_at": "2026-02-05T00:01:29.130286",
+  "generated_at": "2026-02-06T00:01:27.176838",
   "basic_info": {
     "title": "Do Not Open",
     "author": "Norsizu",
@@ -11,50 +11,50 @@
     "published_at": "2025-10-15T13:43:55.792000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/do-not-open",
-    "days_since_published": 112
+    "days_since_published": 113
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 200,
-      "runs_rank": 203,
-      "likes_rank": 26,
-      "total_agents": 301,
-      "views_percentile": 33.6,
-      "runs_percentile": 32.6,
-      "likes_percentile": 91.4
+      "views_rank": 203,
+      "runs_rank": 204,
+      "likes_rank": 23,
+      "total_agents": 303,
+      "views_percentile": 33.0,
+      "runs_percentile": 32.7,
+      "likes_percentile": 92.4
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 98,
+    "days_tracked": 99,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 77,
+    "days_tracked": 78,
     "last_7_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": 1,
-      "likes_rank_change": -10
+      "views_rank_change": 3,
+      "runs_rank_change": 2,
+      "likes_rank_change": -13
     },
     "last_30_days": {
-      "views_rank_change": 10,
+      "views_rank_change": 12,
       "runs_rank_change": 14,
-      "likes_rank_change": -197
+      "likes_rank_change": -204
     },
     "all_time": {
       "best_views_rank": 179,
       "best_runs_rank": 167,
-      "best_likes_rank": 26,
+      "best_likes_rank": 23,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 200
+      "current_rank": 203
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 76,
+    "data_points": 77,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-05T08:01:16.343754",
+    "last_recorded": "2026-02-06T08:01:09.004909",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -132,7 +132,8 @@
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
-        "2026-02-05T08:01:16.343754"
+        "2026-02-05T08:01:16.343754",
+        "2026-02-06T08:01:09.004909"
       ],
       "views_rank": [
         null,
@@ -210,7 +211,8 @@
         200,
         200,
         200,
-        200
+        200,
+        203
       ],
       "runs_rank": [
         null,
@@ -288,7 +290,8 @@
         202,
         202,
         203,
-        203
+        203,
+        204
       ],
       "likes_rank": [
         null,
@@ -366,7 +369,8 @@
         30,
         27,
         26,
-        26
+        26,
+        23
       ]
     }
   },
@@ -378,7 +382,12 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #26 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #23 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+    },
+    {
+      "type": "warning",
+      "title": "Declining Ranking",
+      "description": "Dropped 12 positions in views ranking over the last 30 days. Consider updating the agent or improving visibility."
     }
   ]
 }

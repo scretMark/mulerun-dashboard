@@ -1,6 +1,6 @@
 {
   "agent_id": "60a6478e-f11d-488c-b7d0-2f5df389b879",
-  "generated_at": "2026-02-05T00:01:29.912811",
+  "generated_at": "2026-02-06T00:01:27.871090",
   "basic_info": {
     "title": "Background Eraser Pro",
     "author": "nzwhouxvbbb094f",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-09T18:26:42.234000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@nzwhouxvbbb094f/background-eraser-pro-2",
-    "days_since_published": 57
+    "days_since_published": 58
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 284,
-      "runs_rank": 231,
-      "likes_rank": 11,
-      "total_agents": 301,
-      "views_percentile": 5.6,
-      "runs_percentile": 23.3,
-      "likes_percentile": 96.3
+      "views_rank": 285,
+      "runs_rank": 233,
+      "likes_rank": 238,
+      "total_agents": 303,
+      "views_percentile": 5.9,
+      "runs_percentile": 23.1,
+      "likes_percentile": 21.5
     },
-    "tier": "Elite",
-    "tier_class": "elite",
-    "days_tracked": 54,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 55,
     "price": 6.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 55,
+    "days_tracked": 56,
     "last_7_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": 0,
-      "likes_rank_change": -3
+      "views_rank_change": 2,
+      "runs_rank_change": 2,
+      "likes_rank_change": 224
     },
     "last_30_days": {
       "views_rank_change": 19,
-      "runs_rank_change": 14,
-      "likes_rank_change": -130
+      "runs_rank_change": 15,
+      "likes_rank_change": 92
     },
     "all_time": {
       "best_views_rank": 239,
@@ -47,14 +47,14 @@
       "best_likes_rank": 1,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 284
+      "current_rank": 285
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 54,
+    "data_points": 55,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2026-02-05T08:01:16.343754",
+    "last_recorded": "2026-02-06T08:01:09.004909",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -110,7 +110,8 @@
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
-        "2026-02-05T08:01:16.343754"
+        "2026-02-05T08:01:16.343754",
+        "2026-02-06T08:01:09.004909"
       ],
       "views_rank": [
         null,
@@ -166,7 +167,8 @@
         284,
         284,
         284,
-        284
+        284,
+        285
       ],
       "runs_rank": [
         null,
@@ -222,7 +224,8 @@
         231,
         231,
         231,
-        231
+        231,
+        233
       ],
       "likes_rank": [
         null,
@@ -278,7 +281,8 @@
         12,
         11,
         11,
-        11
+        11,
+        238
       ]
     }
   },
@@ -294,11 +298,6 @@
     ]
   },
   "insights": [
-    {
-      "type": "positive",
-      "title": "Elite Performance",
-      "description": "Ranked #11 - This agent is in the Elite tier (Top 5%), consistently performing among the best agents on the platform."
-    },
     {
       "type": "warning",
       "title": "Declining Ranking",

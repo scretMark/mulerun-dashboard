@@ -1,6 +1,6 @@
 {
   "agent_id": "3b00b5d9-a27c-4651-ba17-1ce008bc8d84",
-  "generated_at": "2026-02-05T00:01:28.384323",
+  "generated_at": "2026-02-06T00:01:26.499398",
   "basic_info": {
     "title": "Pet Red Carpet Photos",
     "author": "LinkAIBrain",
@@ -11,40 +11,40 @@
     "published_at": "2025-09-18T19:16:26.843000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LinkAIBrain/pet-red-carpet-photos",
-    "days_since_published": 139
+    "days_since_published": 140
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 64,
       "runs_rank": 96,
-      "likes_rank": 45,
-      "total_agents": 301,
-      "views_percentile": 78.7,
-      "runs_percentile": 68.1,
-      "likes_percentile": 85.0
+      "likes_rank": 40,
+      "total_agents": 303,
+      "views_percentile": 78.9,
+      "runs_percentile": 68.3,
+      "likes_percentile": 86.8
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 136,
+    "days_tracked": 137,
     "price": 30.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 77,
+    "days_tracked": 78,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 1,
-      "likes_rank_change": -30
+      "likes_rank_change": -35
     },
     "last_30_days": {
       "views_rank_change": 4,
       "runs_rank_change": 5,
-      "likes_rank_change": -125
+      "likes_rank_change": -135
     },
     "all_time": {
       "best_views_rank": 56,
       "best_runs_rank": 87,
-      "best_likes_rank": 45,
+      "best_likes_rank": 40,
       "days_in_top_10": 0,
       "first_rank": null,
       "current_rank": 64
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 76,
+    "data_points": 77,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-05T08:01:16.343754",
+    "last_recorded": "2026-02-06T08:01:09.004909",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -132,7 +132,8 @@
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
-        "2026-02-05T08:01:16.343754"
+        "2026-02-05T08:01:16.343754",
+        "2026-02-06T08:01:09.004909"
       ],
       "views_rank": [
         null,
@@ -203,6 +204,7 @@
         63,
         63,
         63,
+        64,
         64,
         64,
         64,
@@ -288,6 +290,7 @@
         95,
         95,
         96,
+        96,
         96
       ],
       "likes_rank": [
@@ -366,7 +369,8 @@
         60,
         53,
         48,
-        45
+        45,
+        40
       ]
     }
   },
@@ -378,7 +382,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #45 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #40 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

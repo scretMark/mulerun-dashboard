@@ -1,6 +1,6 @@
 {
   "agent_id": "15ff0a66-65e2-4669-a400-81ce8763a2c4",
-  "generated_at": "2026-02-05T00:01:26.914716",
+  "generated_at": "2026-02-06T00:01:25.011486",
   "basic_info": {
     "title": "YouTube Quick Scan",
     "author": "Zane29222",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-06T20:24:45.395000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Zane29222/youtube-quick-scan",
-    "days_since_published": 121
+    "days_since_published": 122
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 33,
       "runs_rank": 80,
-      "likes_rank": 237,
-      "total_agents": 301,
-      "views_percentile": 89.0,
-      "runs_percentile": 73.4,
-      "likes_percentile": 21.3
+      "likes_rank": 299,
+      "total_agents": 303,
+      "views_percentile": 89.1,
+      "runs_percentile": 73.6,
+      "likes_percentile": 1.3
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 118,
+    "days_tracked": 119,
     "price": 40.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 77,
+    "days_tracked": 78,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": -12
+      "likes_rank_change": 50
     },
     "last_30_days": {
       "views_rank_change": 2,
       "runs_rank_change": -2,
-      "likes_rank_change": 235
+      "likes_rank_change": 296
     },
     "all_time": {
       "best_views_rank": 31,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 76,
+    "data_points": 77,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-05T08:01:16.343754",
+    "last_recorded": "2026-02-06T08:01:09.004909",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -132,7 +132,8 @@
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
-        "2026-02-05T08:01:16.343754"
+        "2026-02-05T08:01:16.343754",
+        "2026-02-06T08:01:09.004909"
       ],
       "views_rank": [
         null,
@@ -199,6 +200,7 @@
         32,
         32,
         32,
+        33,
         33,
         33,
         33,
@@ -288,6 +290,7 @@
         80,
         80,
         80,
+        80,
         80
       ],
       "likes_rank": [
@@ -366,7 +369,8 @@
         245,
         292,
         177,
-        237
+        237,
+        299
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "23955924-d6ed-48cc-8ec0-a776427979cb",
-  "generated_at": "2026-02-05T00:01:29.721651",
+  "generated_at": "2026-02-06T00:01:27.678901",
   "basic_info": {
     "title": "Change the color of your pet",
     "author": "8bit",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-08T20:39:24.448000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/change-the-color-of-your-pet",
-    "days_since_published": 58
+    "days_since_published": 59
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 267,
-      "runs_rank": 193,
-      "likes_rank": 74,
-      "total_agents": 301,
-      "views_percentile": 11.3,
-      "runs_percentile": 35.9,
-      "likes_percentile": 75.4
+      "runs_rank": 195,
+      "likes_rank": 210,
+      "total_agents": 303,
+      "views_percentile": 11.9,
+      "runs_percentile": 35.6,
+      "likes_percentile": 30.7
     },
-    "tier": "Mid",
-    "tier_class": "mid",
-    "days_tracked": 56,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 57,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 57,
+    "days_tracked": 58,
     "last_7_days": {
       "views_rank_change": 2,
-      "runs_rank_change": 0,
-      "likes_rank_change": -111
+      "runs_rank_change": 2,
+      "likes_rank_change": 25
     },
     "last_30_days": {
       "views_rank_change": 14,
-      "runs_rank_change": 11,
-      "likes_rank_change": 70
+      "runs_rank_change": 13,
+      "likes_rank_change": 205
     },
     "all_time": {
       "best_views_rank": 223,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 56,
+    "data_points": 57,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2026-02-05T08:01:16.343754",
+    "last_recorded": "2026-02-06T08:01:09.004909",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
@@ -112,7 +112,8 @@
         "2026-02-02T08:01:09.244212",
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
-        "2026-02-05T08:01:16.343754"
+        "2026-02-05T08:01:16.343754",
+        "2026-02-06T08:01:09.004909"
       ],
       "views_rank": [
         null,
@@ -168,6 +169,7 @@
         265,
         265,
         265,
+        267,
         267,
         267,
         267
@@ -228,7 +230,8 @@
         193,
         193,
         193,
-        193
+        193,
+        195
       ],
       "likes_rank": [
         null,
@@ -286,7 +289,8 @@
         118,
         101,
         85,
-        74
+        74,
+        210
       ]
     }
   },
