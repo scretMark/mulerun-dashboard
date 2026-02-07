@@ -1,6 +1,6 @@
 {
   "agent_id": "0c7a08a3-95c4-4098-97ca-7e5ee20139f3",
-  "generated_at": "2026-02-06T00:01:28.559462",
+  "generated_at": "2026-02-07T00:01:27.802663",
   "basic_info": {
     "title": "Restaurant Mockups Generator",
     "author": "jackbuilds",
@@ -11,35 +11,35 @@
     "published_at": "2026-01-07T18:57:44.014000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@jackbuilds/restaurant-mockups-generator",
-    "days_since_published": 29
+    "days_since_published": 30
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 264,
-      "runs_rank": 244,
-      "likes_rank": 162,
-      "total_agents": 303,
-      "views_percentile": 12.9,
-      "runs_percentile": 19.5,
-      "likes_percentile": 46.5
+      "views_rank": 265,
+      "runs_rank": 245,
+      "likes_rank": 129,
+      "total_agents": 305,
+      "views_percentile": 13.1,
+      "runs_percentile": 19.7,
+      "likes_percentile": 57.7
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 26,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 27,
     "price": 25.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 27,
+    "days_tracked": 28,
     "last_7_days": {
-      "views_rank_change": -28,
-      "runs_rank_change": -43,
-      "likes_rank_change": -105
+      "views_rank_change": -13,
+      "runs_rank_change": -19,
+      "likes_rank_change": -146
     },
     "last_30_days": {
-      "views_rank_change": -24,
-      "runs_rank_change": -39,
-      "likes_rank_change": 19
+      "views_rank_change": -23,
+      "runs_rank_change": -38,
+      "likes_rank_change": -14
     },
     "all_time": {
       "best_views_rank": 263,
@@ -47,14 +47,14 @@
       "best_likes_rank": 15,
       "days_in_top_10": 0,
       "first_rank": 288,
-      "current_rank": 264
+      "current_rank": 265
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 26,
+    "data_points": 27,
     "first_recorded": "2026-01-10T08:01:02.077885",
-    "last_recorded": "2026-02-06T08:01:09.004909",
+    "last_recorded": "2026-02-07T08:01:08.256629",
     "time_series": {
       "dates": [
         "2026-01-10T08:01:02.077885",
@@ -82,7 +82,8 @@
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
         "2026-02-05T08:01:16.343754",
-        "2026-02-06T08:01:09.004909"
+        "2026-02-06T08:01:09.004909",
+        "2026-02-07T08:01:08.256629"
       ],
       "views_rank": [
         288,
@@ -110,7 +111,8 @@
         264,
         263,
         263,
-        264
+        264,
+        265
       ],
       "runs_rank": [
         283,
@@ -138,7 +140,8 @@
         242,
         242,
         242,
-        244
+        244,
+        245
       ],
       "likes_rank": [
         143,
@@ -166,7 +169,8 @@
         258,
         275,
         203,
-        162
+        162,
+        129
       ]
     }
   },
@@ -185,17 +189,17 @@
     {
       "type": "positive",
       "title": "Rising Star",
-      "description": "Improved by 24 positions in views ranking over the last 30 days - showing strong momentum!"
+      "description": "Improved by 23 positions in views ranking over the last 30 days - showing strong momentum!"
     },
     {
       "type": "positive",
       "title": "Growing Usage",
-      "description": "Runs ranking improved by 39 positions in the last 30 days - users are actively engaging with this agent!"
+      "description": "Runs ranking improved by 38 positions in the last 30 days - users are actively engaging with this agent!"
     },
     {
       "type": "positive",
       "title": "Hot Trend",
-      "description": "Up 28 positions in just 7 days - currently trending and gaining rapid visibility!"
+      "description": "Up 13 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

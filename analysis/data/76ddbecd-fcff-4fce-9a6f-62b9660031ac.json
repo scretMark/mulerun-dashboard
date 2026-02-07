@@ -1,6 +1,6 @@
 {
   "agent_id": "76ddbecd-fcff-4fce-9a6f-62b9660031ac",
-  "generated_at": "2026-02-06T00:01:28.728450",
+  "generated_at": "2026-02-07T00:01:28.036395",
   "basic_info": {
     "title": "Snaplogo - Logo Maker",
     "author": "quseit",
@@ -11,54 +11,66 @@
     "published_at": "2026-02-04T11:32:08.524000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@quseit/logo-maker",
-    "days_since_published": 1
+    "days_since_published": 2
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 201,
-      "runs_rank": 157,
-      "likes_rank": 268,
-      "total_agents": 303,
-      "views_percentile": 33.7,
+      "views_rank": 197,
+      "runs_rank": 158,
+      "likes_rank": 222,
+      "total_agents": 305,
+      "views_percentile": 35.4,
       "runs_percentile": 48.2,
-      "likes_percentile": 11.6
+      "likes_percentile": 27.2
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 0,
+    "days_tracked": 1,
     "price": 20.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 0,
-    "last_7_days": {},
-    "last_30_days": {},
+    "days_tracked": 1,
+    "last_7_days": {
+      "views_rank_change": -4,
+      "runs_rank_change": 1,
+      "likes_rank_change": -46
+    },
+    "last_30_days": {
+      "views_rank_change": -4,
+      "runs_rank_change": 1,
+      "likes_rank_change": -46
+    },
     "all_time": {
-      "best_views_rank": 201,
+      "best_views_rank": 197,
       "best_runs_rank": 157,
-      "best_likes_rank": 268,
+      "best_likes_rank": 222,
       "days_in_top_10": 0,
       "first_rank": 201,
-      "current_rank": 201
+      "current_rank": 197
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 1,
+    "data_points": 2,
     "first_recorded": "2026-02-06T08:01:09.004909",
-    "last_recorded": "2026-02-06T08:01:09.004909",
+    "last_recorded": "2026-02-07T08:01:08.256629",
     "time_series": {
       "dates": [
-        "2026-02-06T08:01:09.004909"
+        "2026-02-06T08:01:09.004909",
+        "2026-02-07T08:01:08.256629"
       ],
       "views_rank": [
-        201
+        201,
+        197
       ],
       "runs_rank": [
-        157
+        157,
+        158
       ],
       "likes_rank": [
-        268
+        268,
+        222
       ]
     }
   },
@@ -77,7 +89,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #201 out of 303 active agents."
+      "description": "This agent is currently ranked #197 out of 305 active agents."
     }
   ]
 }

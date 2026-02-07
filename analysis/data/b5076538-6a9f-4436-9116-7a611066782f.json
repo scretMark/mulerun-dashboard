@@ -1,6 +1,6 @@
 {
   "agent_id": "b5076538-6a9f-4436-9116-7a611066782f",
-  "generated_at": "2026-02-06T00:01:28.161837",
+  "generated_at": "2026-02-07T00:01:27.280103",
   "basic_info": {
     "title": "Tiny Me in a Jar",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-19T16:29:05.699000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/tiny-me-in-a-jar",
-    "days_since_published": 48
+    "days_since_published": 49
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 302,
-      "runs_rank": 300,
-      "likes_rank": 98,
-      "total_agents": 303,
-      "views_percentile": 0.3,
+      "views_rank": 303,
+      "runs_rank": 302,
+      "likes_rank": 87,
+      "total_agents": 305,
+      "views_percentile": 0.7,
       "runs_percentile": 1.0,
-      "likes_percentile": 67.7
+      "likes_percentile": 71.5
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 43,
+    "days_tracked": 44,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 48,
+    "days_tracked": 49,
     "last_7_days": {
-      "views_rank_change": 1,
-      "runs_rank_change": 2,
-      "likes_rank_change": 80
+      "views_rank_change": 2,
+      "runs_rank_change": 4,
+      "likes_rank_change": 69
     },
     "last_30_days": {
       "views_rank_change": 18,
       "runs_rank_change": 16,
-      "likes_rank_change": -65
+      "likes_rank_change": -119
     },
     "all_time": {
       "best_views_rank": 274,
@@ -47,14 +47,14 @@
       "best_likes_rank": 17,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 302
+      "current_rank": 303
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 44,
+    "data_points": 45,
     "first_recorded": "2025-12-20T08:01:00.398750",
-    "last_recorded": "2026-02-06T08:01:09.004909",
+    "last_recorded": "2026-02-07T08:01:08.256629",
     "time_series": {
       "dates": [
         "2025-12-20T08:01:00.398750",
@@ -100,7 +100,8 @@
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
         "2026-02-05T08:01:16.343754",
-        "2026-02-06T08:01:09.004909"
+        "2026-02-06T08:01:09.004909",
+        "2026-02-07T08:01:08.256629"
       ],
       "views_rank": [
         null,
@@ -146,7 +147,8 @@
         300,
         300,
         300,
-        302
+        302,
+        303
       ],
       "runs_rank": [
         250,
@@ -192,7 +194,8 @@
         298,
         298,
         298,
-        300
+        300,
+        302
       ],
       "likes_rank": [
         40,
@@ -238,7 +241,8 @@
         187,
         135,
         116,
-        98
+        98,
+        87
       ]
     }
   },

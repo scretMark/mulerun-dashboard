@@ -1,6 +1,6 @@
 {
   "agent_id": "cffb9d8c-540b-4dff-8a1e-c24d3fa8877b",
-  "generated_at": "2026-02-06T00:01:24.802586",
+  "generated_at": "2026-02-07T00:01:23.924396",
   "basic_info": {
     "title": "ID Photo",
     "author": "HongwuQz",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-25T12:49:57.242000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@HongwuQz/id-photo",
-    "days_since_published": 133
+    "days_since_published": 134
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 52,
       "runs_rank": 71,
-      "likes_rank": 160,
-      "total_agents": 303,
-      "views_percentile": 82.8,
-      "runs_percentile": 76.6,
-      "likes_percentile": 47.2
+      "likes_rank": 264,
+      "total_agents": 305,
+      "views_percentile": 83.0,
+      "runs_percentile": 76.7,
+      "likes_percentile": 13.4
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 104,
+    "days_tracked": 105,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 78,
+    "days_tracked": 79,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 3,
-      "likes_rank_change": 25
+      "likes_rank_change": -6
     },
     "last_30_days": {
       "views_rank_change": -1,
-      "runs_rank_change": 4,
-      "likes_rank_change": -59
+      "runs_rank_change": 3,
+      "likes_rank_change": 155
     },
     "all_time": {
       "best_views_rank": 52,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 77,
+    "data_points": 78,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-06T08:01:09.004909",
+    "last_recorded": "2026-02-07T08:01:08.256629",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -133,7 +133,8 @@
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
         "2026-02-05T08:01:16.343754",
-        "2026-02-06T08:01:09.004909"
+        "2026-02-06T08:01:09.004909",
+        "2026-02-07T08:01:08.256629"
       ],
       "views_rank": [
         null,
@@ -202,6 +203,7 @@
         53,
         53,
         53,
+        52,
         52,
         52,
         52,
@@ -291,6 +293,7 @@
         70,
         70,
         71,
+        71,
         71
       ],
       "likes_rank": [
@@ -370,7 +373,8 @@
         243,
         271,
         201,
-        160
+        160,
+        264
       ]
     }
   },

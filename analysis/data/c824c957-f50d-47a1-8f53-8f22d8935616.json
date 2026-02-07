@@ -1,6 +1,6 @@
 {
   "agent_id": "c824c957-f50d-47a1-8f53-8f22d8935616",
-  "generated_at": "2026-02-06T00:01:27.708074",
+  "generated_at": "2026-02-07T00:01:26.739116",
   "basic_info": {
     "title": "Generate your photos in China",
     "author": "8bit",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-09T00:34:28.759000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@8bit/generate-your-photos-in-china",
-    "days_since_published": 58
+    "days_since_published": 59
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 289,
-      "runs_rank": 235,
-      "likes_rank": 170,
-      "total_agents": 303,
-      "views_percentile": 4.6,
-      "runs_percentile": 22.4,
-      "likes_percentile": 43.9
+      "views_rank": 290,
+      "runs_rank": 236,
+      "likes_rank": 136,
+      "total_agents": 305,
+      "views_percentile": 4.9,
+      "runs_percentile": 22.6,
+      "likes_percentile": 55.4
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 57,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 58,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 58,
+    "days_tracked": 59,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 2,
-      "likes_rank_change": -4
+      "runs_rank_change": 3,
+      "likes_rank_change": -7
     },
     "last_30_days": {
       "views_rank_change": 16,
-      "runs_rank_change": 15,
-      "likes_rank_change": 155
+      "runs_rank_change": 13,
+      "likes_rank_change": 126
     },
     "all_time": {
       "best_views_rank": 241,
@@ -47,14 +47,14 @@
       "best_likes_rank": 2,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 289
+      "current_rank": 290
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 57,
+    "data_points": 58,
     "first_recorded": "2025-12-10T08:00:24.702216",
-    "last_recorded": "2026-02-06T08:01:09.004909",
+    "last_recorded": "2026-02-07T08:01:08.256629",
     "time_series": {
       "dates": [
         "2025-12-10T08:00:24.702216",
@@ -113,7 +113,8 @@
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
         "2026-02-05T08:01:16.343754",
-        "2026-02-06T08:01:09.004909"
+        "2026-02-06T08:01:09.004909",
+        "2026-02-07T08:01:08.256629"
       ],
       "views_rank": [
         null,
@@ -172,7 +173,8 @@
         289,
         289,
         287,
-        289
+        289,
+        290
       ],
       "runs_rank": [
         null,
@@ -231,7 +233,8 @@
         233,
         233,
         233,
-        235
+        235,
+        236
       ],
       "likes_rank": [
         null,
@@ -290,7 +293,8 @@
         95,
         81,
         218,
-        170
+        170,
+        136
       ]
     }
   },

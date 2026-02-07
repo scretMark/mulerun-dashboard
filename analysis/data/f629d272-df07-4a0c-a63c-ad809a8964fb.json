@@ -1,6 +1,6 @@
 {
   "agent_id": "f629d272-df07-4a0c-a63c-ad809a8964fb",
-  "generated_at": "2026-02-06T00:01:27.325821",
+  "generated_at": "2026-02-07T00:01:26.446977",
   "basic_info": {
     "title": "Amazon Product SEO Research",
     "author": "createAny",
@@ -11,50 +11,50 @@
     "published_at": "2025-10-28T21:43:09.391000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@createAny/amazon-product-seo-research",
-    "days_since_published": 100
+    "days_since_published": 101
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 172,
-      "runs_rank": 180,
-      "likes_rank": 232,
-      "total_agents": 303,
-      "views_percentile": 43.2,
-      "runs_percentile": 40.6,
-      "likes_percentile": 23.4
+      "views_rank": 171,
+      "runs_rank": 181,
+      "likes_rank": 278,
+      "total_agents": 305,
+      "views_percentile": 43.9,
+      "runs_percentile": 40.7,
+      "likes_percentile": 8.9
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 99,
+    "days_tracked": 100,
     "price": 99.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 78,
+    "days_tracked": 79,
     "last_7_days": {
-      "views_rank_change": -2,
-      "runs_rank_change": 0,
-      "likes_rank_change": 21
+      "views_rank_change": -3,
+      "runs_rank_change": 1,
+      "likes_rank_change": 28
     },
     "last_30_days": {
-      "views_rank_change": -8,
-      "runs_rank_change": -18,
-      "likes_rank_change": 137
+      "views_rank_change": -9,
+      "runs_rank_change": -11,
+      "likes_rank_change": 164
     },
     "all_time": {
-      "best_views_rank": 172,
+      "best_views_rank": 171,
       "best_runs_rank": 180,
       "best_likes_rank": 27,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 172
+      "current_rank": 171
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 77,
+    "data_points": 78,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-06T08:01:09.004909",
+    "last_recorded": "2026-02-07T08:01:08.256629",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -133,7 +133,8 @@
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
         "2026-02-05T08:01:16.343754",
-        "2026-02-06T08:01:09.004909"
+        "2026-02-06T08:01:09.004909",
+        "2026-02-07T08:01:08.256629"
       ],
       "views_rank": [
         null,
@@ -212,7 +213,8 @@
         174,
         173,
         172,
-        172
+        172,
+        171
       ],
       "runs_rank": [
         null,
@@ -291,7 +293,8 @@
         180,
         181,
         181,
-        180
+        180,
+        181
       ],
       "likes_rank": [
         null,
@@ -370,7 +373,8 @@
         255,
         226,
         276,
-        232
+        232,
+        278
       ]
     }
   },
@@ -382,7 +386,7 @@
     {
       "type": "positive",
       "title": "Growing Usage",
-      "description": "Runs ranking improved by 18 positions in the last 30 days - users are actively engaging with this agent!"
+      "description": "Runs ranking improved by 11 positions in the last 30 days - users are actively engaging with this agent!"
     }
   ]
 }

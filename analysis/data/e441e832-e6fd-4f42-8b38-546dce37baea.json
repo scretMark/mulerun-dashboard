@@ -1,6 +1,6 @@
 {
   "agent_id": "e441e832-e6fd-4f42-8b38-546dce37baea",
-  "generated_at": "2026-02-06T00:01:27.451757",
+  "generated_at": "2026-02-07T00:01:26.556402",
   "basic_info": {
     "title": "Bored Ape NFT avatar",
     "author": "Barry",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-01T00:16:36.080000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Barry/bored-ape-nft-avatar",
-    "days_since_published": 66
+    "days_since_published": 67
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 255,
-      "runs_rank": 170,
-      "likes_rank": 256,
-      "total_agents": 303,
-      "views_percentile": 15.8,
+      "views_rank": 256,
+      "runs_rank": 171,
+      "likes_rank": 193,
+      "total_agents": 305,
+      "views_percentile": 16.1,
       "runs_percentile": 43.9,
-      "likes_percentile": 15.5
+      "likes_percentile": 36.7
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 62,
+    "days_tracked": 63,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 65,
+    "days_tracked": 66,
     "last_7_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": -1,
-      "likes_rank_change": 244
+      "views_rank_change": 1,
+      "runs_rank_change": 0,
+      "likes_rank_change": 181
     },
     "last_30_days": {
       "views_rank_change": 13,
       "runs_rank_change": 9,
-      "likes_rank_change": 118
+      "likes_rank_change": 11
     },
     "all_time": {
       "best_views_rank": 217,
@@ -47,14 +47,14 @@
       "best_likes_rank": 11,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 255
+      "current_rank": 256
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 62,
+    "data_points": 63,
     "first_recorded": "2025-12-02T16:52:00.461129",
-    "last_recorded": "2026-02-06T08:01:09.004909",
+    "last_recorded": "2026-02-07T08:01:08.256629",
     "time_series": {
       "dates": [
         "2025-12-02T16:52:00.461129",
@@ -118,7 +118,8 @@
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
         "2026-02-05T08:01:16.343754",
-        "2026-02-06T08:01:09.004909"
+        "2026-02-06T08:01:09.004909",
+        "2026-02-07T08:01:08.256629"
       ],
       "views_rank": [
         null,
@@ -182,7 +183,8 @@
         255,
         255,
         254,
-        255
+        255,
+        256
       ],
       "runs_rank": [
         null,
@@ -246,7 +248,8 @@
         169,
         169,
         169,
-        170
+        170,
+        171
       ],
       "likes_rank": [
         null,
@@ -310,7 +313,8 @@
         199,
         207,
         262,
-        256
+        256,
+        193
       ]
     }
   },

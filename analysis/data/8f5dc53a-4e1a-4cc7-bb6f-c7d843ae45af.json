@@ -1,6 +1,6 @@
 {
   "agent_id": "8f5dc53a-4e1a-4cc7-bb6f-c7d843ae45af",
-  "generated_at": "2026-02-06T00:01:28.699891",
+  "generated_at": "2026-02-07T00:01:28.002403",
   "basic_info": {
     "title": "Snapmath - Math Homework Helper",
     "author": "quseit",
@@ -11,50 +11,50 @@
     "published_at": "2026-01-25T16:37:10.382000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@quseit/math-homework-helper",
-    "days_since_published": 11
+    "days_since_published": 12
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 211,
-      "runs_rank": 218,
-      "likes_rank": 181,
-      "total_agents": 303,
-      "views_percentile": 30.4,
-      "runs_percentile": 28.1,
-      "likes_percentile": 40.3
+      "views_rank": 212,
+      "runs_rank": 220,
+      "likes_rank": 144,
+      "total_agents": 305,
+      "views_percentile": 30.5,
+      "runs_percentile": 27.9,
+      "likes_percentile": 52.8
     },
-    "tier": "Low",
-    "tier_class": "low",
-    "days_tracked": 10,
+    "tier": "Mid",
+    "tier_class": "mid",
+    "days_tracked": 11,
     "price": 2.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 10,
+    "days_tracked": 11,
     "last_7_days": {
-      "views_rank_change": -37,
-      "runs_rank_change": -9,
+      "views_rank_change": -32,
+      "runs_rank_change": 2,
       "likes_rank_change": -76
     },
     "last_30_days": {
-      "views_rank_change": -39,
-      "runs_rank_change": -31,
-      "likes_rank_change": -88
+      "views_rank_change": -38,
+      "runs_rank_change": -29,
+      "likes_rank_change": -125
     },
     "all_time": {
       "best_views_rank": 210,
       "best_runs_rank": 217,
-      "best_likes_rank": 181,
+      "best_likes_rank": 144,
       "days_in_top_10": 0,
       "first_rank": 250,
-      "current_rank": 211
+      "current_rank": 212
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 11,
+    "data_points": 12,
     "first_recorded": "2026-01-27T08:01:06.918717",
-    "last_recorded": "2026-02-06T08:01:09.004909",
+    "last_recorded": "2026-02-07T08:01:08.256629",
     "time_series": {
       "dates": [
         "2026-01-27T08:01:06.918717",
@@ -67,7 +67,8 @@
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
         "2026-02-05T08:01:16.343754",
-        "2026-02-06T08:01:09.004909"
+        "2026-02-06T08:01:09.004909",
+        "2026-02-07T08:01:08.256629"
       ],
       "views_rank": [
         250,
@@ -80,7 +81,8 @@
         234,
         217,
         210,
-        211
+        211,
+        212
       ],
       "runs_rank": [
         249,
@@ -93,7 +95,8 @@
         218,
         218,
         217,
-        218
+        218,
+        220
       ],
       "likes_rank": [
         269,
@@ -106,7 +109,8 @@
         244,
         264,
         242,
-        181
+        181,
+        144
       ]
     }
   },
@@ -125,17 +129,17 @@
     {
       "type": "positive",
       "title": "Rising Star",
-      "description": "Improved by 39 positions in views ranking over the last 30 days - showing strong momentum!"
+      "description": "Improved by 38 positions in views ranking over the last 30 days - showing strong momentum!"
     },
     {
       "type": "positive",
       "title": "Growing Usage",
-      "description": "Runs ranking improved by 31 positions in the last 30 days - users are actively engaging with this agent!"
+      "description": "Runs ranking improved by 29 positions in the last 30 days - users are actively engaging with this agent!"
     },
     {
       "type": "positive",
       "title": "Hot Trend",
-      "description": "Up 37 positions in just 7 days - currently trending and gaining rapid visibility!"
+      "description": "Up 32 positions in just 7 days - currently trending and gaining rapid visibility!"
     }
   ]
 }

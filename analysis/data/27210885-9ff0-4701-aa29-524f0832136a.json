@@ -1,6 +1,6 @@
 {
   "agent_id": "27210885-9ff0-4701-aa29-524f0832136a",
-  "generated_at": "2026-02-06T00:01:24.401035",
+  "generated_at": "2026-02-07T00:01:23.465620",
   "basic_info": {
     "title": "Remove Watermark",
     "author": "PicCopilot",
@@ -11,50 +11,50 @@
     "published_at": "2025-11-11T19:20:11.823000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@PicCopilot/remove-watermark",
-    "days_since_published": 86
+    "days_since_published": 87
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 132,
+      "views_rank": 130,
       "runs_rank": 20,
-      "likes_rank": 273,
-      "total_agents": 303,
-      "views_percentile": 56.4,
+      "likes_rank": 256,
+      "total_agents": 305,
+      "views_percentile": 57.4,
       "runs_percentile": 93.4,
-      "likes_percentile": 9.9
+      "likes_percentile": 16.1
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 84,
+    "days_tracked": 85,
     "price": 0.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 79,
+    "days_tracked": 80,
     "last_7_days": {
       "views_rank_change": -4,
       "runs_rank_change": -1,
-      "likes_rank_change": 100
+      "likes_rank_change": -46
     },
     "last_30_days": {
       "views_rank_change": -19,
       "runs_rank_change": -3,
-      "likes_rank_change": 194
+      "likes_rank_change": 179
     },
     "all_time": {
-      "best_views_rank": 132,
+      "best_views_rank": 130,
       "best_runs_rank": 20,
       "best_likes_rank": 21,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 132
+      "current_rank": 130
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 78,
+    "data_points": 79,
     "first_recorded": "2025-11-18T16:28:41.343448",
-    "last_recorded": "2026-02-06T08:01:09.004909",
+    "last_recorded": "2026-02-07T08:01:08.256629",
     "time_series": {
       "dates": [
         "2025-11-18T16:28:41.343448",
@@ -134,7 +134,8 @@
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
         "2026-02-05T08:01:16.343754",
-        "2026-02-06T08:01:09.004909"
+        "2026-02-06T08:01:09.004909",
+        "2026-02-07T08:01:08.256629"
       ],
       "views_rank": [
         null,
@@ -214,7 +215,8 @@
         135,
         132,
         132,
-        132
+        132,
+        130
       ],
       "runs_rank": [
         null,
@@ -292,6 +294,7 @@
         21,
         21,
         21,
+        20,
         20,
         20,
         20
@@ -374,7 +377,8 @@
         162,
         250,
         217,
-        273
+        273,
+        256
       ]
     }
   },

@@ -1,6 +1,6 @@
 {
   "agent_id": "805eb8a2-6450-4dd0-a545-43f5776fe86b",
-  "generated_at": "2026-02-06T00:01:28.595115",
+  "generated_at": "2026-02-07T00:01:27.861451",
   "basic_info": {
     "title": "YouTube StudySlice",
     "author": "laughing_code",
@@ -11,50 +11,50 @@
     "published_at": "2026-01-05T09:54:17.078000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@laughing_code/youtube-studyslice",
-    "days_since_published": 31
+    "days_since_published": 32
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 256,
-      "runs_rank": 202,
-      "likes_rank": 62,
-      "total_agents": 303,
-      "views_percentile": 15.5,
-      "runs_percentile": 33.3,
-      "likes_percentile": 79.5
+      "views_rank": 257,
+      "runs_rank": 203,
+      "likes_rank": 56,
+      "total_agents": 305,
+      "views_percentile": 15.7,
+      "runs_percentile": 33.4,
+      "likes_percentile": 81.6
     },
-    "tier": "Mid",
-    "tier_class": "mid",
+    "tier": "High",
+    "tier_class": "high",
     "days_tracked": 0,
     "price": 90.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 22,
+    "days_tracked": 23,
     "last_7_days": {
-      "views_rank_change": 2,
+      "views_rank_change": 3,
       "runs_rank_change": 3,
-      "likes_rank_change": -115
+      "likes_rank_change": -90
     },
     "last_30_days": {
-      "views_rank_change": -4,
-      "runs_rank_change": 0,
-      "likes_rank_change": -154
+      "views_rank_change": -3,
+      "runs_rank_change": 1,
+      "likes_rank_change": -160
     },
     "all_time": {
       "best_views_rank": 252,
       "best_runs_rank": 199,
-      "best_likes_rank": 62,
+      "best_likes_rank": 56,
       "days_in_top_10": 0,
       "first_rank": 260,
-      "current_rank": 256
+      "current_rank": 257
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 21,
+    "data_points": 22,
     "first_recorded": "2026-01-15T08:01:02.601407",
-    "last_recorded": "2026-02-06T08:01:09.004909",
+    "last_recorded": "2026-02-07T08:01:08.256629",
     "time_series": {
       "dates": [
         "2026-01-15T08:01:02.601407",
@@ -77,7 +77,8 @@
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
         "2026-02-05T08:01:16.343754",
-        "2026-02-06T08:01:09.004909"
+        "2026-02-06T08:01:09.004909",
+        "2026-02-07T08:01:08.256629"
       ],
       "views_rank": [
         260,
@@ -100,7 +101,8 @@
         254,
         254,
         255,
-        256
+        256,
+        257
       ],
       "runs_rank": [
         202,
@@ -123,7 +125,8 @@
         200,
         201,
         201,
-        202
+        202,
+        203
       ],
       "likes_rank": [
         216,
@@ -146,7 +149,8 @@
         98,
         83,
         72,
-        62
+        62,
+        56
       ]
     }
   },
@@ -163,9 +167,9 @@
   },
   "insights": [
     {
-      "type": "info",
-      "title": "Establishing Presence",
-      "description": "This agent is currently ranked #256 out of 303 active agents."
+      "type": "positive",
+      "title": "High Performer",
+      "description": "Ranked #56 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     }
   ]
 }

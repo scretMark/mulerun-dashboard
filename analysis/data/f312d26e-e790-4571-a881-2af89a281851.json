@@ -1,6 +1,6 @@
 {
   "agent_id": "f312d26e-e790-4571-a881-2af89a281851",
-  "generated_at": "2026-02-06T00:01:28.151695",
+  "generated_at": "2026-02-07T00:01:27.266242",
   "basic_info": {
     "title": "Cozy Xmas Cube",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-19T16:25:54.256000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/cozy-xmas-cube",
-    "days_since_published": 48
+    "days_since_published": 49
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 298,
-      "runs_rank": 291,
+      "views_rank": 299,
+      "runs_rank": 292,
       "likes_rank": 14,
-      "total_agents": 303,
-      "views_percentile": 1.7,
-      "runs_percentile": 4.0,
+      "total_agents": 305,
+      "views_percentile": 2.0,
+      "runs_percentile": 4.3,
       "likes_percentile": 95.4
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 43,
+    "days_tracked": 44,
     "price": 45.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 48,
+    "days_tracked": 49,
     "last_7_days": {
-      "views_rank_change": 3,
-      "runs_rank_change": 2,
+      "views_rank_change": 4,
+      "runs_rank_change": 3,
       "likes_rank_change": -5
     },
     "last_30_days": {
       "views_rank_change": 19,
       "runs_rank_change": 16,
-      "likes_rank_change": -151
+      "likes_rank_change": -193
     },
     "all_time": {
       "best_views_rank": 271,
@@ -47,14 +47,14 @@
       "best_likes_rank": 14,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 298
+      "current_rank": 299
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 44,
+    "data_points": 45,
     "first_recorded": "2025-12-20T08:01:00.398750",
-    "last_recorded": "2026-02-06T08:01:09.004909",
+    "last_recorded": "2026-02-07T08:01:08.256629",
     "time_series": {
       "dates": [
         "2025-12-20T08:01:00.398750",
@@ -100,7 +100,8 @@
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
         "2026-02-05T08:01:16.343754",
-        "2026-02-06T08:01:09.004909"
+        "2026-02-06T08:01:09.004909",
+        "2026-02-07T08:01:08.256629"
       ],
       "views_rank": [
         null,
@@ -146,7 +147,8 @@
         296,
         296,
         296,
-        298
+        298,
+        299
       ],
       "runs_rank": [
         247,
@@ -192,7 +194,8 @@
         289,
         289,
         289,
-        291
+        291,
+        292
       ],
       "likes_rank": [
         49,
@@ -238,6 +241,7 @@
         15,
         15,
         15,
+        14,
         14
       ]
     }

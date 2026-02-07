@@ -1,6 +1,6 @@
 {
   "agent_id": "64ad39ee-cbe9-471c-a02c-22f29b6b3bb3",
-  "generated_at": "2026-02-06T00:01:28.547614",
+  "generated_at": "2026-02-07T00:01:27.785768",
   "basic_info": {
     "title": "PixelSensei",
     "author": "LunarAITalk",
@@ -11,35 +11,35 @@
     "published_at": "2026-01-01T19:25:02.602000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@LunarAITalk/pixelsensei",
-    "days_since_published": 35
+    "days_since_published": 36
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 159,
+      "views_rank": 160,
       "runs_rank": 89,
-      "likes_rank": 235,
-      "total_agents": 303,
+      "likes_rank": 178,
+      "total_agents": 305,
       "views_percentile": 47.5,
-      "runs_percentile": 70.6,
-      "likes_percentile": 22.4
+      "runs_percentile": 70.8,
+      "likes_percentile": 41.6
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 25,
+    "days_tracked": 26,
     "price": 20.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 27,
+    "days_tracked": 28,
     "last_7_days": {
-      "views_rank_change": -2,
+      "views_rank_change": -1,
       "runs_rank_change": -4,
-      "likes_rank_change": 77
+      "likes_rank_change": -74
     },
     "last_30_days": {
-      "views_rank_change": -92,
+      "views_rank_change": -91,
       "runs_rank_change": -133,
-      "likes_rank_change": 161
+      "likes_rank_change": 104
     },
     "all_time": {
       "best_views_rank": 159,
@@ -47,14 +47,14 @@
       "best_likes_rank": 72,
       "days_in_top_10": 0,
       "first_rank": 251,
-      "current_rank": 159
+      "current_rank": 160
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 26,
+    "data_points": 27,
     "first_recorded": "2026-01-10T08:01:02.077885",
-    "last_recorded": "2026-02-06T08:01:09.004909",
+    "last_recorded": "2026-02-07T08:01:08.256629",
     "time_series": {
       "dates": [
         "2026-01-10T08:01:02.077885",
@@ -82,7 +82,8 @@
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
         "2026-02-05T08:01:16.343754",
-        "2026-02-06T08:01:09.004909"
+        "2026-02-06T08:01:09.004909",
+        "2026-02-07T08:01:08.256629"
       ],
       "views_rank": [
         251,
@@ -110,7 +111,8 @@
         162,
         160,
         160,
-        159
+        159,
+        160
       ],
       "runs_rank": [
         222,
@@ -138,6 +140,7 @@
         93,
         93,
         92,
+        89,
         89
       ],
       "likes_rank": [
@@ -166,7 +169,8 @@
         148,
         188,
         281,
-        235
+        235,
+        178
       ]
     }
   },
@@ -185,7 +189,7 @@
     {
       "type": "positive",
       "title": "Rising Star",
-      "description": "Improved by 92 positions in views ranking over the last 30 days - showing strong momentum!"
+      "description": "Improved by 91 positions in views ranking over the last 30 days - showing strong momentum!"
     },
     {
       "type": "positive",

@@ -1,6 +1,6 @@
 {
   "agent_id": "ad1c4d06-705b-47c4-b9f1-6abee261b6f9",
-  "generated_at": "2026-02-06T00:01:25.833264",
+  "generated_at": "2026-02-07T00:01:24.923050",
   "basic_info": {
     "title": "Food Image to Recipe",
     "author": "vktsbiy414205x1",
@@ -11,26 +11,26 @@
     "published_at": "2025-10-07T20:08:53.831000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@vktsbiy414205x1/food-image-to-recipe",
-    "days_since_published": 121
+    "days_since_published": 122
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 42,
       "runs_rank": 30,
-      "likes_rank": 148,
-      "total_agents": 303,
-      "views_percentile": 86.1,
-      "runs_percentile": 90.1,
-      "likes_percentile": 51.2
+      "likes_rank": 276,
+      "total_agents": 305,
+      "views_percentile": 86.2,
+      "runs_percentile": 90.2,
+      "likes_percentile": 9.5
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 104,
+    "days_tracked": 105,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 78,
+    "days_tracked": 79,
     "last_7_days": {
       "views_rank_change": 1,
       "runs_rank_change": 0,
@@ -39,7 +39,7 @@
     "last_30_days": {
       "views_rank_change": 2,
       "runs_rank_change": 2,
-      "likes_rank_change": -98
+      "likes_rank_change": 210
     },
     "all_time": {
       "best_views_rank": 38,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 77,
+    "data_points": 78,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-06T08:01:09.004909",
+    "last_recorded": "2026-02-07T08:01:08.256629",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -133,7 +133,8 @@
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
         "2026-02-05T08:01:16.343754",
-        "2026-02-06T08:01:09.004909"
+        "2026-02-06T08:01:09.004909",
+        "2026-02-07T08:01:08.256629"
       ],
       "views_rank": [
         null,
@@ -212,6 +213,7 @@
         41,
         42,
         42,
+        42,
         42
       ],
       "runs_rank": [
@@ -273,6 +275,7 @@
         29,
         29,
         29,
+        30,
         30,
         30,
         30,
@@ -370,7 +373,8 @@
         154,
         236,
         185,
-        148
+        148,
+        276
       ]
     }
   },

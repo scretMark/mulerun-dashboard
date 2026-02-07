@@ -1,6 +1,6 @@
 {
   "agent_id": "ca5710ab-c6da-4201-9221-b596b53f9857",
-  "generated_at": "2026-02-06T00:01:27.020793",
+  "generated_at": "2026-02-07T00:01:26.129741",
   "basic_info": {
     "title": "Ink Wash Painting",
     "author": "Darren",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-20T11:31:54.304000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Darren/ink-wash-painting",
-    "days_since_published": 108
+    "days_since_published": 109
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 160,
-      "runs_rank": 260,
-      "likes_rank": 58,
-      "total_agents": 303,
-      "views_percentile": 47.2,
-      "runs_percentile": 14.2,
-      "likes_percentile": 80.9
+      "views_rank": 159,
+      "runs_rank": 261,
+      "likes_rank": 224,
+      "total_agents": 305,
+      "views_percentile": 47.9,
+      "runs_percentile": 14.4,
+      "likes_percentile": 26.6
     },
-    "tier": "High",
-    "tier_class": "high",
-    "days_tracked": 99,
+    "tier": "Low",
+    "tier_class": "low",
+    "days_tracked": 100,
     "price": 51.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 78,
+    "days_tracked": 79,
     "last_7_days": {
-      "views_rank_change": 2,
-      "runs_rank_change": 3,
-      "likes_rank_change": -107
+      "views_rank_change": 1,
+      "runs_rank_change": 4,
+      "likes_rank_change": 89
     },
     "last_30_days": {
       "views_rank_change": 6,
       "runs_rank_change": 14,
-      "likes_rank_change": 25
+      "likes_rank_change": 139
     },
     "all_time": {
       "best_views_rank": 146,
@@ -47,14 +47,14 @@
       "best_likes_rank": 14,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 160
+      "current_rank": 159
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 77,
+    "data_points": 78,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-06T08:01:09.004909",
+    "last_recorded": "2026-02-07T08:01:08.256629",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -133,7 +133,8 @@
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
         "2026-02-05T08:01:16.343754",
-        "2026-02-06T08:01:09.004909"
+        "2026-02-06T08:01:09.004909",
+        "2026-02-07T08:01:08.256629"
       ],
       "views_rank": [
         null,
@@ -212,7 +213,8 @@
         158,
         158,
         159,
-        160
+        160,
+        159
       ],
       "runs_rank": [
         null,
@@ -291,7 +293,8 @@
         258,
         258,
         258,
-        260
+        260,
+        261
       ],
       "likes_rank": [
         null,
@@ -370,7 +373,8 @@
         90,
         76,
         66,
-        58
+        58,
+        224
       ]
     }
   },
@@ -380,9 +384,9 @@
   },
   "insights": [
     {
-      "type": "positive",
-      "title": "High Performer",
-      "description": "Ranked #58 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "type": "info",
+      "title": "Establishing Presence",
+      "description": "This agent is currently ranked #159 out of 305 active agents."
     }
   ]
 }

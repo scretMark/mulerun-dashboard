@@ -1,6 +1,6 @@
 {
   "agent_id": "51184cdc-55eb-462d-b131-355e1b5b5d7d",
-  "generated_at": "2026-02-06T00:01:26.102462",
+  "generated_at": "2026-02-07T00:01:25.169293",
   "basic_info": {
     "title": "Nano Architect",
     "author": "jyvdzb224259haj",
@@ -11,35 +11,35 @@
     "published_at": "2025-10-05T01:28:44.314000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@jyvdzb224259haj/nano-architect",
-    "days_since_published": 123
+    "days_since_published": 124
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 147,
-      "runs_rank": 217,
-      "likes_rank": 147,
-      "total_agents": 303,
+      "views_rank": 148,
+      "runs_rank": 219,
+      "likes_rank": 122,
+      "total_agents": 305,
       "views_percentile": 51.5,
-      "runs_percentile": 28.4,
-      "likes_percentile": 51.5
+      "runs_percentile": 28.2,
+      "likes_percentile": 60.0
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 116,
+    "days_tracked": 117,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 78,
+    "days_tracked": 79,
     "last_7_days": {
-      "views_rank_change": -2,
-      "runs_rank_change": 1,
-      "likes_rank_change": 17
+      "views_rank_change": 0,
+      "runs_rank_change": 3,
+      "likes_rank_change": -160
     },
     "last_30_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 12,
-      "likes_rank_change": -78
+      "runs_rank_change": 14,
+      "likes_rank_change": -136
     },
     "all_time": {
       "best_views_rank": 136,
@@ -47,14 +47,14 @@
       "best_likes_rank": 86,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 147
+      "current_rank": 148
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 77,
+    "data_points": 78,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-06T08:01:09.004909",
+    "last_recorded": "2026-02-07T08:01:08.256629",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -133,7 +133,8 @@
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
         "2026-02-05T08:01:16.343754",
-        "2026-02-06T08:01:09.004909"
+        "2026-02-06T08:01:09.004909",
+        "2026-02-07T08:01:08.256629"
       ],
       "views_rank": [
         null,
@@ -212,7 +213,8 @@
         147,
         147,
         147,
-        147
+        147,
+        148
       ],
       "runs_rank": [
         null,
@@ -291,7 +293,8 @@
         216,
         216,
         216,
-        217
+        217,
+        219
       ],
       "likes_rank": [
         null,
@@ -370,7 +373,8 @@
         173,
         234,
         183,
-        147
+        147,
+        122
       ]
     }
   },
@@ -382,7 +386,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #147 out of 303 active agents."
+      "description": "This agent is currently ranked #148 out of 305 active agents."
     }
   ]
 }

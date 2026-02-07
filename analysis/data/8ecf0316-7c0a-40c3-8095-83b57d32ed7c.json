@@ -1,6 +1,6 @@
 {
   "agent_id": "8ecf0316-7c0a-40c3-8095-83b57d32ed7c",
-  "generated_at": "2026-02-06T00:01:27.422478",
+  "generated_at": "2026-02-07T00:01:26.531777",
   "basic_info": {
     "title": "Historical place visualizer",
     "author": "Bhola",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-24T13:53:45.229000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Bhola/historical-place-visualizer",
-    "days_since_published": 73
+    "days_since_published": 74
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 242,
-      "runs_rank": 251,
-      "likes_rank": 225,
-      "total_agents": 303,
-      "views_percentile": 20.1,
-      "runs_percentile": 17.2,
-      "likes_percentile": 25.7
+      "views_rank": 243,
+      "runs_rank": 252,
+      "likes_rank": 174,
+      "total_agents": 305,
+      "views_percentile": 20.3,
+      "runs_percentile": 17.4,
+      "likes_percentile": 43.0
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 68,
+    "days_tracked": 69,
     "price": 29.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 72,
+    "days_tracked": 73,
     "last_7_days": {
-      "views_rank_change": 0,
-      "runs_rank_change": -1,
-      "likes_rank_change": 91
+      "views_rank_change": 1,
+      "runs_rank_change": 0,
+      "likes_rank_change": -72
     },
     "last_30_days": {
       "views_rank_change": 11,
       "runs_rank_change": 11,
-      "likes_rank_change": -58
+      "likes_rank_change": 92
     },
     "all_time": {
       "best_views_rank": 218,
@@ -47,14 +47,14 @@
       "best_likes_rank": 12,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 242
+      "current_rank": 243
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 68,
+    "data_points": 69,
     "first_recorded": "2025-11-26T08:00:32.046352",
-    "last_recorded": "2026-02-06T08:01:09.004909",
+    "last_recorded": "2026-02-07T08:01:08.256629",
     "time_series": {
       "dates": [
         "2025-11-26T08:00:32.046352",
@@ -124,7 +124,8 @@
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
         "2026-02-05T08:01:16.343754",
-        "2026-02-06T08:01:09.004909"
+        "2026-02-06T08:01:09.004909",
+        "2026-02-07T08:01:08.256629"
       ],
       "views_rank": [
         null,
@@ -194,7 +195,8 @@
         243,
         242,
         242,
-        242
+        242,
+        243
       ],
       "runs_rank": [
         null,
@@ -264,7 +266,8 @@
         253,
         253,
         253,
-        251
+        251,
+        252
       ],
       "likes_rank": [
         null,
@@ -334,7 +337,8 @@
         266,
         262,
         194,
-        225
+        225,
+        174
       ]
     }
   },

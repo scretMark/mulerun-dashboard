@@ -1,6 +1,6 @@
 {
   "agent_id": "a6b8beaa-a431-4ae4-9f51-044fbdcd64f0",
-  "generated_at": "2026-02-06T00:01:27.885337",
+  "generated_at": "2026-02-07T00:01:26.926488",
   "basic_info": {
     "title": "Festival Purikura",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-12-09T19:56:57.349000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/festival-purikura",
-    "days_since_published": 58
+    "days_since_published": 59
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 261,
-      "runs_rank": 147,
-      "likes_rank": 59,
-      "total_agents": 303,
-      "views_percentile": 13.9,
+      "views_rank": 262,
+      "runs_rank": 148,
+      "likes_rank": 53,
+      "total_agents": 305,
+      "views_percentile": 14.1,
       "runs_percentile": 51.5,
-      "likes_percentile": 80.5
+      "likes_percentile": 82.6
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 55,
+    "days_tracked": 56,
     "price": 75.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 56,
+    "days_tracked": 57,
     "last_7_days": {
-      "views_rank_change": 2,
-      "runs_rank_change": 2,
-      "likes_rank_change": -110
+      "views_rank_change": 3,
+      "runs_rank_change": 3,
+      "likes_rank_change": -86
     },
     "last_30_days": {
       "views_rank_change": 14,
       "runs_rank_change": 10,
-      "likes_rank_change": -73
+      "likes_rank_change": -122
     },
     "all_time": {
       "best_views_rank": 219,
@@ -47,14 +47,14 @@
       "best_likes_rank": 1,
       "days_in_top_10": 0,
       "first_rank": null,
-      "current_rank": 261
+      "current_rank": 262
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 55,
+    "data_points": 56,
     "first_recorded": "2025-12-12T08:00:25.373075",
-    "last_recorded": "2026-02-06T08:01:09.004909",
+    "last_recorded": "2026-02-07T08:01:08.256629",
     "time_series": {
       "dates": [
         "2025-12-12T08:00:25.373075",
@@ -111,7 +111,8 @@
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
         "2026-02-05T08:01:16.343754",
-        "2026-02-06T08:01:09.004909"
+        "2026-02-06T08:01:09.004909",
+        "2026-02-07T08:01:08.256629"
       ],
       "views_rank": [
         null,
@@ -168,7 +169,8 @@
         259,
         259,
         260,
-        261
+        261,
+        262
       ],
       "runs_rank": [
         null,
@@ -225,7 +227,8 @@
         145,
         146,
         147,
-        147
+        147,
+        148
       ],
       "likes_rank": [
         null,
@@ -282,7 +285,8 @@
         92,
         78,
         68,
-        59
+        59,
+        53
       ]
     }
   },
@@ -301,7 +305,7 @@
     {
       "type": "positive",
       "title": "High Performer",
-      "description": "Ranked #59 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
+      "description": "Ranked #53 - This agent is in the High tier (Top 20%), showing strong performance and market traction."
     },
     {
       "type": "warning",

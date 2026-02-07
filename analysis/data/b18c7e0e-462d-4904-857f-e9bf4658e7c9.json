@@ -1,6 +1,6 @@
 {
   "agent_id": "b18c7e0e-462d-4904-857f-e9bf4658e7c9",
-  "generated_at": "2026-02-06T00:01:24.656208",
+  "generated_at": "2026-02-07T00:01:23.747761",
   "basic_info": {
     "title": "Me And My Mini-Me",
     "author": "YuTou_baby",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-19T20:13:16.719000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@YuTou_baby/me-and-my-mini-me",
-    "days_since_published": 139
+    "days_since_published": 140
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 21,
       "runs_rank": 27,
-      "likes_rank": 174,
-      "total_agents": 303,
+      "likes_rank": 139,
+      "total_agents": 305,
       "views_percentile": 93.1,
       "runs_percentile": 91.1,
-      "likes_percentile": 42.6
+      "likes_percentile": 54.4
     },
     "tier": "High",
     "tier_class": "high",
-    "days_tracked": 104,
+    "days_tracked": 105,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 78,
+    "days_tracked": 79,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 1,
-      "likes_rank_change": 76
+      "likes_rank_change": -103
     },
     "last_30_days": {
       "views_rank_change": 1,
       "runs_rank_change": 1,
-      "likes_rank_change": -41
+      "likes_rank_change": 84
     },
     "all_time": {
       "best_views_rank": 19,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 77,
+    "data_points": 78,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-06T08:01:09.004909",
+    "last_recorded": "2026-02-07T08:01:08.256629",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -133,7 +133,8 @@
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
         "2026-02-05T08:01:16.343754",
-        "2026-02-06T08:01:09.004909"
+        "2026-02-06T08:01:09.004909",
+        "2026-02-07T08:01:08.256629"
       ],
       "views_rank": [
         null,
@@ -205,6 +206,7 @@
         20,
         20,
         20,
+        21,
         21,
         21,
         21,
@@ -291,6 +293,7 @@
         26,
         26,
         26,
+        27,
         27
       ],
       "likes_rank": [
@@ -370,7 +373,8 @@
         188,
         283,
         227,
-        174
+        174,
+        139
       ]
     }
   },

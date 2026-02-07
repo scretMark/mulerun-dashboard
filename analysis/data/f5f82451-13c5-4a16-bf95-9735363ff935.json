@@ -1,6 +1,6 @@
 {
   "agent_id": "f5f82451-13c5-4a16-bf95-9735363ff935",
-  "generated_at": "2026-02-06T00:01:24.544976",
+  "generated_at": "2026-02-07T00:01:23.631968",
   "basic_info": {
     "title": "StarSnap",
     "author": "YuTou_baby",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-05T23:48:00.962000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@YuTou_baby/starsnap",
-    "days_since_published": 153
+    "days_since_published": 154
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 15,
       "runs_rank": 16,
-      "likes_rank": 149,
-      "total_agents": 303,
-      "views_percentile": 95.0,
-      "runs_percentile": 94.7,
-      "likes_percentile": 50.8
+      "likes_rank": 123,
+      "total_agents": 305,
+      "views_percentile": 95.1,
+      "runs_percentile": 94.8,
+      "likes_percentile": 59.7
     },
     "tier": "Elite",
     "tier_class": "elite",
-    "days_tracked": 104,
+    "days_tracked": 105,
     "price": 80.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 78,
+    "days_tracked": 79,
     "last_7_days": {
       "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": -31
+      "likes_rank_change": -25
     },
     "last_30_days": {
       "views_rank_change": 0,
       "runs_rank_change": 1,
-      "likes_rank_change": -121
+      "likes_rank_change": 19
     },
     "all_time": {
       "best_views_rank": 15,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 77,
+    "data_points": 78,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-06T08:01:09.004909",
+    "last_recorded": "2026-02-07T08:01:08.256629",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -133,7 +133,8 @@
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
         "2026-02-05T08:01:16.343754",
-        "2026-02-06T08:01:09.004909"
+        "2026-02-06T08:01:09.004909",
+        "2026-02-07T08:01:08.256629"
       ],
       "views_rank": [
         null,
@@ -183,6 +184,7 @@
         16,
         16,
         16,
+        15,
         15,
         15,
         15,
@@ -291,6 +293,7 @@
         16,
         16,
         16,
+        16,
         16
       ],
       "likes_rank": [
@@ -370,7 +373,8 @@
         294,
         238,
         186,
-        149
+        149,
+        123
       ]
     }
   },

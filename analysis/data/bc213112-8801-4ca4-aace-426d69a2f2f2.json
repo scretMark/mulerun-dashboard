@@ -1,6 +1,6 @@
 {
   "agent_id": "bc213112-8801-4ca4-aace-426d69a2f2f2",
-  "generated_at": "2026-02-06T00:01:26.261517",
+  "generated_at": "2026-02-07T00:01:25.330205",
   "basic_info": {
     "title": "Judy Hopps Cosplay Filter",
     "author": "Lucas",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-05T20:03:39.255000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Lucas/judy-hopps-cosplay-filter",
-    "days_since_published": 92
+    "days_since_published": 93
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 143,
-      "runs_rank": 285,
-      "likes_rank": 87,
-      "total_agents": 303,
-      "views_percentile": 52.8,
-      "runs_percentile": 5.9,
-      "likes_percentile": 71.3
+      "runs_rank": 286,
+      "likes_rank": 76,
+      "total_agents": 305,
+      "views_percentile": 53.1,
+      "runs_percentile": 6.2,
+      "likes_percentile": 75.1
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 89,
+    "days_tracked": 90,
     "price": 49.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 78,
+    "days_tracked": 79,
     "last_7_days": {
-      "views_rank_change": -3,
+      "views_rank_change": 0,
       "runs_rank_change": 3,
-      "likes_rank_change": -127
+      "likes_rank_change": -223
     },
     "last_30_days": {
-      "views_rank_change": -18,
+      "views_rank_change": -14,
       "runs_rank_change": 15,
-      "likes_rank_change": 74
+      "likes_rank_change": -57
     },
     "all_time": {
       "best_views_rank": 143,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 77,
+    "data_points": 78,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-06T08:01:09.004909",
+    "last_recorded": "2026-02-07T08:01:08.256629",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -133,7 +133,8 @@
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
         "2026-02-05T08:01:16.343754",
-        "2026-02-06T08:01:09.004909"
+        "2026-02-06T08:01:09.004909",
+        "2026-02-07T08:01:08.256629"
       ],
       "views_rank": [
         null,
@@ -206,6 +207,7 @@
         149,
         147,
         146,
+        143,
         143,
         143,
         143,
@@ -291,7 +293,8 @@
         283,
         283,
         283,
-        285
+        285,
+        286
       ],
       "likes_rank": [
         null,
@@ -370,7 +373,8 @@
         160,
         121,
         102,
-        87
+        87,
+        76
       ]
     }
   },
@@ -382,7 +386,7 @@
     {
       "type": "positive",
       "title": "Rising Star",
-      "description": "Improved by 18 positions in views ranking over the last 30 days - showing strong momentum!"
+      "description": "Improved by 14 positions in views ranking over the last 30 days - showing strong momentum!"
     }
   ]
 }

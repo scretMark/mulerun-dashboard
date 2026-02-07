@@ -1,6 +1,6 @@
 {
   "agent_id": "cc89a662-d25e-4eb2-b40e-e3a27bb181b2",
-  "generated_at": "2026-02-06T00:01:28.523241",
+  "generated_at": "2026-02-07T00:01:27.753201",
   "basic_info": {
     "title": "Top-video YouTube Tracking",
     "author": "Rhino",
@@ -11,35 +11,35 @@
     "published_at": "2026-01-07T00:33:13.319000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Rhino/youtubetitle",
-    "days_since_published": 29
+    "days_since_published": 30
   },
   "ranking_metrics": {
     "current_position": {
-      "views_rank": 260,
-      "runs_rank": 272,
-      "likes_rank": 203,
-      "total_agents": 303,
-      "views_percentile": 14.2,
-      "runs_percentile": 10.2,
-      "likes_percentile": 33.0
+      "views_rank": 261,
+      "runs_rank": 273,
+      "likes_rank": 292,
+      "total_agents": 305,
+      "views_percentile": 14.4,
+      "runs_percentile": 10.5,
+      "likes_percentile": 4.3
     },
     "tier": "Low",
     "tier_class": "low",
-    "days_tracked": 27,
+    "days_tracked": 28,
     "price": 8.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 29,
+    "days_tracked": 30,
     "last_7_days": {
       "views_rank_change": -3,
-      "runs_rank_change": 2,
-      "likes_rank_change": -76
+      "runs_rank_change": 4,
+      "likes_rank_change": 82
     },
     "last_30_days": {
-      "views_rank_change": -16,
+      "views_rank_change": -15,
       "runs_rank_change": 11,
-      "likes_rank_change": 180
+      "likes_rank_change": 238
     },
     "all_time": {
       "best_views_rank": 259,
@@ -47,14 +47,14 @@
       "best_likes_rank": 23,
       "days_in_top_10": 0,
       "first_rank": 276,
-      "current_rank": 260
+      "current_rank": 261
     }
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 27,
+    "data_points": 28,
     "first_recorded": "2026-01-08T08:01:02.485852",
-    "last_recorded": "2026-02-06T08:01:09.004909",
+    "last_recorded": "2026-02-07T08:01:08.256629",
     "time_series": {
       "dates": [
         "2026-01-08T08:01:02.485852",
@@ -83,7 +83,8 @@
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
         "2026-02-05T08:01:16.343754",
-        "2026-02-06T08:01:09.004909"
+        "2026-02-06T08:01:09.004909",
+        "2026-02-07T08:01:08.256629"
       ],
       "views_rank": [
         276,
@@ -112,7 +113,8 @@
         262,
         261,
         259,
-        260
+        260,
+        261
       ],
       "runs_rank": [
         261,
@@ -141,7 +143,8 @@
         270,
         270,
         270,
-        272
+        272,
+        273
       ],
       "likes_rank": [
         23,
@@ -170,7 +173,8 @@
         282,
         247,
         290,
-        203
+        203,
+        292
       ]
     }
   },
@@ -189,7 +193,7 @@
     {
       "type": "positive",
       "title": "Rising Star",
-      "description": "Improved by 16 positions in views ranking over the last 30 days - showing strong momentum!"
+      "description": "Improved by 15 positions in views ranking over the last 30 days - showing strong momentum!"
     }
   ]
 }

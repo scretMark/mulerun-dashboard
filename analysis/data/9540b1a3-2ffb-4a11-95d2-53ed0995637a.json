@@ -1,6 +1,6 @@
 {
   "agent_id": "9540b1a3-2ffb-4a11-95d2-53ed0995637a",
-  "generated_at": "2026-02-06T00:01:24.901892",
+  "generated_at": "2026-02-07T00:01:24.051182",
   "basic_info": {
     "title": "ExplainerVideoGen",
     "author": "2_lullakah",
@@ -11,35 +11,35 @@
     "published_at": "2025-11-07T10:24:37.592000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@2_lullakah/explainervideogen",
-    "days_since_published": 90
+    "days_since_published": 91
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 88,
       "runs_rank": 131,
-      "likes_rank": 169,
-      "total_agents": 303,
-      "views_percentile": 71.0,
-      "runs_percentile": 56.8,
-      "likes_percentile": 44.2
+      "likes_rank": 135,
+      "total_agents": 305,
+      "views_percentile": 71.1,
+      "runs_percentile": 57.0,
+      "likes_percentile": 55.7
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 88,
+    "days_tracked": 89,
     "price": 48.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 78,
+    "days_tracked": 79,
     "last_7_days": {
-      "views_rank_change": 1,
+      "views_rank_change": 0,
       "runs_rank_change": 0,
-      "likes_rank_change": 26
+      "likes_rank_change": -113
     },
     "last_30_days": {
       "views_rank_change": 3,
-      "runs_rank_change": 7,
-      "likes_rank_change": 131
+      "runs_rank_change": 6,
+      "likes_rank_change": 115
     },
     "all_time": {
       "best_views_rank": 85,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 77,
+    "data_points": 78,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-06T08:01:09.004909",
+    "last_recorded": "2026-02-07T08:01:08.256629",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -133,7 +133,8 @@
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
         "2026-02-05T08:01:16.343754",
-        "2026-02-06T08:01:09.004909"
+        "2026-02-06T08:01:09.004909",
+        "2026-02-07T08:01:08.256629"
       ],
       "views_rank": [
         null,
@@ -212,6 +213,7 @@
         88,
         88,
         88,
+        88,
         88
       ],
       "runs_rank": [
@@ -278,6 +280,7 @@
         127,
         128,
         128,
+        131,
         131,
         131,
         131,
@@ -370,7 +373,8 @@
         146,
         114,
         214,
-        169
+        169,
+        135
       ]
     }
   },
@@ -382,7 +386,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #88 out of 303 active agents."
+      "description": "This agent is currently ranked #88 out of 305 active agents."
     }
   ]
 }

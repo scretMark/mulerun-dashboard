@@ -1,6 +1,6 @@
 {
   "agent_id": "b91a981b-6e11-4fbf-ba40-940f6ce0f987",
-  "generated_at": "2026-02-06T00:01:26.699977",
+  "generated_at": "2026-02-07T00:01:25.761136",
   "basic_info": {
     "title": "Pop-out Profile",
     "author": "Norsizu",
@@ -11,35 +11,35 @@
     "published_at": "2025-09-30T16:54:10.989000",
     "last_seen": null,
     "profile_url": "https://mulerun.com/workspace/@Norsizu/pop-out-profile",
-    "days_since_published": 128
+    "days_since_published": 129
   },
   "ranking_metrics": {
     "current_position": {
       "views_rank": 108,
-      "runs_rank": 166,
-      "likes_rank": 70,
-      "total_agents": 303,
-      "views_percentile": 64.4,
+      "runs_rank": 167,
+      "likes_rank": 62,
+      "total_agents": 305,
+      "views_percentile": 64.6,
       "runs_percentile": 45.2,
-      "likes_percentile": 76.9
+      "likes_percentile": 79.7
     },
     "tier": "Mid",
     "tier_class": "mid",
-    "days_tracked": 99,
+    "days_tracked": 100,
     "price": 50.0
   },
   "ranking_trends": {
     "has_data": true,
-    "days_tracked": 78,
+    "days_tracked": 79,
     "last_7_days": {
       "views_rank_change": 1,
-      "runs_rank_change": 1,
-      "likes_rank_change": -167
+      "runs_rank_change": 2,
+      "likes_rank_change": -121
     },
     "last_30_days": {
-      "views_rank_change": 5,
-      "runs_rank_change": 11,
-      "likes_rank_change": -118
+      "views_rank_change": 3,
+      "runs_rank_change": 9,
+      "likes_rank_change": -167
     },
     "all_time": {
       "best_views_rank": 96,
@@ -52,9 +52,9 @@
   },
   "historical_rankings": {
     "has_data": true,
-    "data_points": 77,
+    "data_points": 78,
     "first_recorded": "2025-11-19T15:39:36.345282",
-    "last_recorded": "2026-02-06T08:01:09.004909",
+    "last_recorded": "2026-02-07T08:01:08.256629",
     "time_series": {
       "dates": [
         "2025-11-19T15:39:36.345282",
@@ -133,7 +133,8 @@
         "2026-02-03T08:01:17.619447",
         "2026-02-04T08:01:06.711371",
         "2026-02-05T08:01:16.343754",
-        "2026-02-06T08:01:09.004909"
+        "2026-02-06T08:01:09.004909",
+        "2026-02-07T08:01:08.256629"
       ],
       "views_rank": [
         null,
@@ -208,6 +209,7 @@
         107,
         107,
         107,
+        108,
         108,
         108,
         108,
@@ -291,7 +293,8 @@
         165,
         165,
         165,
-        166
+        166,
+        167
       ],
       "likes_rank": [
         null,
@@ -370,7 +373,8 @@
         118,
         96,
         83,
-        70
+        70,
+        62
       ]
     }
   },
@@ -382,7 +386,7 @@
     {
       "type": "info",
       "title": "Establishing Presence",
-      "description": "This agent is currently ranked #108 out of 303 active agents."
+      "description": "This agent is currently ranked #108 out of 305 active agents."
     }
   ]
 }
